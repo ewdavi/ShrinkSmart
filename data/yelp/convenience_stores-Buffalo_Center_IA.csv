@@ -1,0 +1,8 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"101 4th Ave W, Swea City, IA 50590",convenience stores,Swea City,29.371049078799558,43.38527,-94.30773,Looft Mike Tankwagon Service Station,1,"Buffalo Center, IA",False,-1,3.0,IA
+"2751 E Main St, Albert Lea, MN 56007",convenience stores,Albert Lea,58.9261198183661,43.65972,-93.31533,Love's Travel Stop,5,"Buffalo Center, IA",False,1,4.0,MN
+"5253 S Shore Dr, Clear Lake, IA 50428",convenience stores,Clear Lake,52.74852405595341,43.11498,-93.41288,Market At Oakwood,1,"Buffalo Center, IA",False,-1,5.0,IA
+"2708 Bridge Ave, Albert Lea, MN 56007",convenience stores,Albert Lea,57.55486697020828,43.684326,-93.357859,Hy-Vee Food Store,6,"Buffalo Center, IA",False,1,2.5,MN
+"10 Broadway S, Trimont, MN 56176",convenience stores,Trimont,74.59749247891268,43.7617,-94.71448,Casey's General Store,3,"Buffalo Center, IA",False,-1,2.5,MN
+"820 Happy Trails Ln, Albert Lea, MN 56007",convenience stores,Albert Lea,58.658695083685,43.6569983823582,-93.3176115616546,TA Truck Service,18,"Buffalo Center, IA",False,1,4.0,MN
+"3450 4th St SW, Mason City, IA 50401",convenience stores,Mason City,61.95438245784965,43.1498,-93.25295,Target,2,"Buffalo Center, IA",False,2,4.0,IA

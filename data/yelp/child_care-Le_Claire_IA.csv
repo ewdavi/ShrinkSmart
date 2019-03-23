@@ -1,0 +1,9 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"644 Crosstown Ave, Silvis, IL 61282",child care,Silvis,11.67464909292851,41.49867,-90.42119,It's A Child's World,2,"Le Claire, IA",False,-1,3.0,IL
+"900 46th Ave, East Moline, IL 61244",child care,East Moline,13.86867861497612,41.48348,-90.43875,East Moline Christian School,2,"Le Claire, IA",False,-1,5.0,IL
+"3800 Tanglefoot Ln, Bettendorf, IA 52722",child care,Bettendorf,10.054350770802133,41.56194,-90.48015,Bettendorf Family YMCA,6,"Le Claire, IA",False,-1,3.5,IA
+"1314 10th St, Ste B, Silvis, IL 61282",child care,Silvis,11.862677182252497,41.49552,-90.416098,Learning Tree Child Care Center,1,"Le Claire, IA",False,-1,5.0,IL
+"2315 Jersey Ridge Rd, Davenport, IA 52803",child care,Davenport,15.5131539059187,41.5430564880371,-90.5413513183594,Creative Beginnings Child Care Achievement Center,1,"Le Claire, IA",False,-1,1.0,IA
+"4914 44th Ave, Moline, IL 61265",child care,Moline,16.327632196627395,41.46955,-90.46827,Kristie's Kids,3,"Le Claire, IA",False,-1,2.5,IL
+"1821 Sunset Dr, Bettendorf, IA 52722",child care,Bettendorf,13.63476866881356,41.52931,-90.50625,Rivermont Collegiate,3,"Le Claire, IA",False,-1,3.5,IA
+"3256 Ridge Point, Bettendorf, IA 52722",child care,Bettendorf,10.000530583551402,41.5550961345434,-90.4757239669561,Mathnasium of Bettendorf/PV,1,"Le Claire, IA",False,-1,5.0,IA

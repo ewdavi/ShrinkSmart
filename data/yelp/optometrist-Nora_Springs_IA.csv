@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"3121 4th St SW, Mason City, IA 50401",optometrist,Mason City,19.10470852998421,43.14745,-93.24775,North Iowa Eye Clinic,1,"Nora Springs, IA",False,-1,4.0,IA
+"14 N 8th St, Clear Lake, IA 50428",optometrist,Clear Lake,29.727171795361397,43.137896,-93.3786351,Clear Lake Optometry,2,"Nora Springs, IA",False,-1,4.0,IA
+"318 N Main St, Austin, MN 55912",optometrist,Austin,58.356234091785616,43.6685593350863,-92.9747890681028,InnoVision Eyecare,1,"Nora Springs, IA",False,-1,5.0,MN
+"2020 3rd Ave NW, Ste B, Waverly, IA 50677",optometrist,Waverly,62.528917458370174,42.7283554077148,-92.4958419799805,Wolfe Clinic PC,1,"Nora Springs, IA",False,-1,5.0,IA
+"2610 Bridge Ave, Albert Lea, MN 56007",optometrist,Albert Lea,66.02731750942529,43.68288,-93.35702,Shopko,2,"Nora Springs, IA",False,-1,1.0,MN

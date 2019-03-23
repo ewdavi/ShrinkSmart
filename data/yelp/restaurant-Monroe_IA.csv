@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"108 W Sherman St, Monroe, IA 50170",restaurant,Monroe,0.33955917895836624,41.517034,-93.103399,Mustang Diner,7,"Monroe, IA",False,1,4.5,IA
+"1205 Washington St, Pella, IA 50219",restaurant,Pella,19.492143506977452,41.4077,-92.9259,Kaldera Restaurant & Lounge,56,"Monroe, IA",False,2,4.0,IA
+"112 E Jefferson St, Prairie City, IA 50228",restaurant,Prairie City,13.921818913991876,41.5984835089848,-93.2357891977068,Happy Endings,1,"Monroe, IA",False,-1,4.0,IA
+"108 E Monroe St, Pleasantville, IA 50225",restaurant,Pleasantville,19.982692060309198,41.3869705200195,-93.2688217163086,Checkerboard Restaurant,6,"Monroe, IA",False,2,4.0,IA
+"107 North Jefferson, Pleasantville, IA 50225",restaurant,Pleasantville,20.036889668571156,41.3871028818415,-93.2700304400533,Frostys Pub N Grub,1,"Monroe, IA",False,-1,5.0,IA
+"1590 Washington St, Pella, IA 50219",restaurant,Pella,18.808063873485903,41.412114,-92.931567,Yamato,15,"Monroe, IA",False,2,4.0,IA
+"2411 Bos Landen Dr, Pella, IA 50219",restaurant,Pella,19.591927054362092,41.3894187487579,-92.9472582042217,Bubba-Q's,9,"Monroe, IA",False,2,3.5,IA
+"705 E 1st St, Pella, IA 50219",restaurant,Pella,20.326950251147984,41.4057230604293,-92.9150452747797,Royal Amsterdam Hotel,16,"Monroe, IA",False,2,4.5,IA
+"709 Franklin St, Pella, IA 50219",restaurant,Pella,20.14768083154128,41.40631,-92.917,Windmill Cafe,31,"Monroe, IA",False,1,4.0,IA
+"626 Franklin St, Pella, IA 50219",restaurant,Pella,20.191431117420112,41.4068717479374,-92.915906,George's Pizza,36,"Monroe, IA",False,2,4.0,IA
+"304 W 2nd St, Prairie City, IA 50228",restaurant,Prairie City,14.010074593863024,41.5963,-93.23936,Goldies Ice Cream Shoppe,46,"Monroe, IA",False,1,4.5,IA
+"1111 W 16th Ave, Pella, IA 50219",restaurant,Pella,17.577096531389504,41.4117166,-92.9541012,The Sports Page Grill,26,"Monroe, IA",False,2,3.0,IA
+"820 Main St, Pella, IA 50219",restaurant,Pella,20.131922138615632,41.40744,-92.91593,In't Veld Meat Market,16,"Monroe, IA",False,1,4.5,IA
+"407 Bus Hwy 5, Pleasantville, IA 50225",restaurant,Pleasantville,19.824476906351084,41.3842942701527,-93.2620308548212,Dairy Shoppe,3,"Monroe, IA",False,1,4.5,IA
+"803 E 1st St, Pella, IA 50219",restaurant,Pella,20.24957730059362,41.4068526,-92.9148449,Breadeaux Pizza,8,"Monroe, IA",False,1,5.0,IA
+"706 Main St, Pella, IA 50219",restaurant,Pella,20.249923855190072,41.4057524,-92.9163451,Oriental Express,6,"Monroe, IA",False,-1,4.5,IA
+"820 Main St, In't Veld Meat Market, Pella, IA 50219",restaurant,Pella,20.148727217805625,41.4074371,-92.9159647,Opa's Deli,8,"Monroe, IA",False,1,5.0,IA
+"1600 Washington St, Pella, IA 50219",restaurant,Pella,18.86176659248174,41.410543,-92.932463,Applebee's Grill + Bar,11,"Monroe, IA",False,2,2.0,IA
+"1512 Washington St, Pella, IA 50219",restaurant,Pella,19.222095021051175,41.4085929,-92.9290054,Culver's of Pella,8,"Monroe, IA",False,1,4.5,IA
+"514 Main St, Pella, IA 50219",restaurant,Pella,20.407207209055013,41.4037857055664,-92.9159927368164,El Charro Mexican Grill,21,"Monroe, IA",False,1,3.5,IA

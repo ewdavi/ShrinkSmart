@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"201 Industrial Park Dr, St. Ansgar, IA 50472",restaurant,St. Ansgar,0.9167022061813324,43.38729,-92.92135,City Limits Bar and Grill,7,"St. Ansgar, IA",False,1,4.0,IA
+"202 W 4th St, Saint Ansgar, IA 50472",restaurant,Saint Ansgar,0.11391271274591153,43.3782005,-92.9205933,Paradise Pizza,4,"St. Ansgar, IA",False,1,4.5,IA
+"250 W 4th St, Saint Ansgar, IA 50472",restaurant,Saint Ansgar,0.15667642352987643,43.3782005,-92.921463,Sportsman's Lounge,1,"St. Ansgar, IA",False,1,4.0,IA
+"236 W 4th St, St Ansgar, IA 50472",restaurant,St Ansgar,0.14398587667081647,43.3782,-92.92122,CB Brandt's,1,"St. Ansgar, IA",False,-1,5.0,IA
+"110 N Highway 218, Saint Ansgar, IA 50472",restaurant,Saint Ansgar,0.15799344420001726,43.3795891,-92.9187317,Casey's Carry-Out Pizza,1,"St. Ansgar, IA",False,-1,5.0,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"22 W Main St, Marshalltown, IA 50158",restaurant,Marshalltown,9.365957012431643,42.04906,-92.914,The Tremont,20,"Albion, IA",False,2,4.0,IA
+"25 W Main St, Marshalltown, IA 50158",restaurant,Marshalltown,9.322139002060409,42.0492943220147,-92.914209948642,Smokin G's BBQ,20,"Albion, IA",False,2,4.0,IA
+"26 E Main St, Marshalltown, IA 50158",restaurant,Marshalltown,9.448428551829304,42.0494842529297,-92.9117813110352,Tremonts Italian Grille,3,"Albion, IA",False,-1,4.5,IA
+"10 W Main St, Marshalltown, IA 50158",restaurant,Marshalltown,9.3975069379314,42.0488777160645,-92.9134292602539,Jack's Pho' House,13,"Albion, IA",False,2,3.5,IA
+"911 E State St, Marshalltown, IA 50158",restaurant,Marshalltown,9.385087518225705,42.0498790088073,-92.9121770569991,Tacos Y Mariscos Maravilla,8,"Albion, IA",False,1,4.5,IA
+"128 E Main St, Marshalltown, IA 50158",restaurant,Marshalltown,9.543620023322196,42.04949,-92.91015,Doo Dah's,9,"Albion, IA",False,-1,4.0,IA
+"1010 W Lincoln Way, Marshalltown, IA 50158",restaurant,Marshalltown,9.216123778274287,42.0416041151247,-92.9305225610733,Mi Ranchito Mexican Grill & Seafood,7,"Albion, IA",False,-1,3.5,IA
+"101 N Center St, Marshalltown, IA 50158",restaurant,Marshalltown,9.294044909407273,42.050658,-92.912662,El Puente Mexican Restaurant,6,"Albion, IA",False,2,4.5,IA
+"108 State St, Marshalltown, IA 50158",restaurant,Marshalltown,9.201104714469519,42.05028,-92.91553,Maria's Tacos,13,"Albion, IA",False,1,4.5,IA
+"217 N 13th St, Marshalltown, IA 50158",restaurant,Marshalltown,8.056698544941973,42.0520477294922,-92.9345397949219,The Spot,2,"Albion, IA",False,-1,4.0,IA
+"109 E Main St, Marshalltown, IA 50158",restaurant,Marshalltown,9.537160701067961,42.0489082336426,-92.9107284545898,Zeno's Pizza,39,"Albion, IA",False,2,4.0,IA
+"309 S 12th Avenue Pl, Marshalltown, IA 50158",restaurant,Marshalltown,10.871079424116289,42.04508,-92.89305,Rumours Sports Bar and Grill,7,"Albion, IA",False,-1,3.5,IA
+"12 N 1st St, Marshalltown, IA 50158",restaurant,Marshalltown,9.281517503165107,42.0495602819308,-92.9145477489454,Ay Caramba,4,"Albion, IA",False,1,5.0,IA
+"5 W Main St, Marshalltown, IA 50158",restaurant,Marshalltown,9.363005847736904,42.0493817683162,-92.9133262485266,Ocean City Chinese Restaurant,17,"Albion, IA",False,1,4.0,IA
+"106 S 3rd Ave, Marshalltown, IA 50158",restaurant,Marshalltown,9.821909558749867,42.04742,-92.90771,Taylor's Maid-Rite,48,"Albion, IA",False,1,4.5,IA
+"903 W Lincoln Way, Marshalltown, IA 50158",restaurant,Marshalltown,9.28799159327733,42.0422668457031,-92.9280624389648,Plaza Mexico,5,"Albion, IA",False,1,3.5,IA
+"29 W Main St, Marshalltown, IA 50158",restaurant,Marshalltown,9.321137856889452,42.04923,-92.91444,Chef King,10,"Albion, IA",False,1,3.5,IA
+"8 E Main St, Marshalltown, IA 50158",restaurant,Marshalltown,9.396702954244182,42.04949,-92.91255,Sub City,18,"Albion, IA",False,1,5.0,IA
+"114 W Main St, Marshalltown, IA 50158",restaurant,Marshalltown,9.320879908064677,42.04877,-92.91521,El Guanaco Pupuseria,1,"Albion, IA",False,-1,3.0,IA
+"501 N 3rd Ave, Marshalltown, IA 50158",restaurant,Marshalltown,9.194764082924506,42.0554138,-92.9078313,Haley's Deli Barbeque & Catering,1,"Albion, IA",False,-1,5.0,IA

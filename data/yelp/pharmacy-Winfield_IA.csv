@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"526 Main St, Mediapolis, IA 52637",pharmacy,Mediapolis,26.46653854819715,41.0076789855957,-91.1643218994141,Carruthers Pharmacy,1,"Winfield, IA",False,2,5.0,IA
+"102 2Nd St, Coralville, IA 52241",pharmacy,Coralville,61.34163438882389,41.6687584,-91.5666199,Walgreens,10,"Winfield, IA",False,2,2.0,IA
+"201 S Clinton St, Iowa City, IA 52240",pharmacy,Iowa City,59.92191753224958,41.659489,-91.53557,CVS Pharmacy,7,"Winfield, IA",False,1,3.0,IA
+"2214 Muscatine Ave, Iowa City, IA 52240",pharmacy,Iowa City,58.555166659116,41.6499710083008,-91.5027160644531,Walgreens,4,"Winfield, IA",False,2,3.5,IA
+"129 S Jefferson St, Mount Pleasant, IA 52641",pharmacy,Mount Pleasant,20.264379223695368,40.9659,-91.55513,Hy-Vee Drugstore,1,"Winfield, IA",False,1,3.0,IA
+"701 Mormon Trek Blvd, Iowa City, IA 52246",pharmacy,Iowa City,59.65804128538106,41.6520004,-91.5754166,Hartig USA Drug,2,"Winfield, IA",False,2,4.0,IA
+"1703 Park Ave, Muscatine, IA 52761",pharmacy,Muscatine,49.254072744159664,41.4446,-91.02977,Walgreens,4,"Winfield, IA",False,2,3.5,IA
+"3245 Agency St, Burlington, IA 52601",pharmacy,Burlington,42.68044747553314,40.8143882751465,-91.1406936645508,Walgreens,1,"Winfield, IA",False,-1,5.0,IA
+"310 N 1st Ave, Iowa City, IA 52245",pharmacy,Iowa City,60.31824180248652,41.6659056434211,-91.5018634434764,Hy Vee Drugstore,2,"Winfield, IA",False,2,4.5,IA
+"812 S 1st Ave, Iowa City, IA 52245",pharmacy,Iowa City,58.708483563098795,41.6514053344727,-91.5008926391602,Hy-Vee,10,"Winfield, IA",False,2,3.0,IA
+"1500 SE 5th St, Aledo, IL 61231",pharmacy,Aledo,59.68318912550597,41.198048,-90.732197,Walmart Pharmacy,1,"Winfield, IA",False,-1,5.0,IL
+"2425 Muscatine Ave, Iowa City, IA 52240",pharmacy,Iowa City,58.4432902805782,41.649111,-91.49985,CVS Pharmacy,3,"Winfield, IA",False,1,2.0,IA
+"2400 2nd Ave, Muscatine, IA 52761",pharmacy,Muscatine,49.3521440538326,41.4510192871094,-91.0362396240234,Hy-Vee Pharmacy,1,"Winfield, IA",False,-1,1.0,IA
+"310 N 1st Ave, Iowa City, IA 52245",pharmacy,Iowa City,60.33196124169208,41.6658935546875,-91.5013732910156,Drug Town,1,"Winfield, IA",False,2,4.0,IA
+"514 Elm St, Williamsburg, IA 52361",pharmacy,Williamsburg,76.30508907341765,41.6611404418945,-92.0105819702148,Peterson Drug,1,"Winfield, IA",False,-1,3.0,IA
+"2751 Heartland Dr, Coralville, IA 52241",pharmacy,Coralville,65.5673229810663,41.70104,-91.60947,Walgreens,4,"Winfield, IA",False,2,3.5,IA
+"939 Angular St, Burlington, IA 52601",pharmacy,Burlington,45.36472457467278,40.8014,-91.1104,Hy-Vee Food Stores,1,"Winfield, IA",False,-1,2.0,IA
+"510 E 6th St, Muscatine, IA 52761",pharmacy,Muscatine,47.04635614133899,41.42684,-91.04365,Hy-Vee Drugstore,1,"Winfield, IA",False,-1,3.0,IA
+"2801 Commerce Dr, Coralville, IA 52241",pharmacy,Coralville,65.19550415052957,41.697239,-91.612035,Walmart Pharmacy,1,"Winfield, IA",False,-1,1.0,IA
+"230 Scott Ct, Iowa City, IA 52245",pharmacy,Iowa City,59.362427431270184,41.65844,-91.48168,Pharmacy Matters,1,"Winfield, IA",False,-1,1.0,IA

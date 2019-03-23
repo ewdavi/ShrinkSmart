@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"302 E School Ave, Old, IA 52647",gas stations,Old,17.39968967965961,41.1340908950474,-91.5411704778671,Saint Avenue BP,1,"Ainsworth, IA",False,1,5.0,IA
+"1300 N Grand Ave, Mount Pleasant, IA 52641",gas stations,Mount Pleasant,34.28181936701732,40.9821487143417,-91.5396831929684,Pilot Travel Center,4,"Ainsworth, IA",False,-1,3.5,IA
+"305 W Main St, Hills, IA 52235",gas stations,Hills,29.388588354109526,41.5540851,-91.539348,Casey's General Store,3,"Ainsworth, IA",False,1,4.5,IA
+"103 1st St S, Kalona, IA 52247",gas stations,Kalona,25.24170574067296,41.4879612,-91.7144299,Westside Petro,1,"Ainsworth, IA",False,-1,1.0,IA
+"1006 N Columbus St, West Liberty, IA 52776",gas stations,West Liberty,40.35563250486009,41.578578,-91.260162,Giri Bp,3,"Ainsworth, IA",False,1,2.5,IA

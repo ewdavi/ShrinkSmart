@@ -1,0 +1,4 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"714 S Grand Ave, Spencer, IA 51301",optometrist,Spencer,54.51204815786213,43.1308555603027,-95.1434097290039,Exact Eye Care,2,"Cherokee, IA",False,-1,2.5,IA
+"3535 Southern Hills Dr, Sioux City, IA 51106",optometrist,Sioux City,73.39762377288464,42.44855,-96.357,Korver Eye Care,2,"Cherokee, IA",False,-1,4.0,IA
+"4600 Singing Hills Blvd, Sioux City, IA 51106",optometrist,Sioux City,73.41297685908779,42.4369773864746,-96.3484191894531,Southern Hills Eye Care,1,"Cherokee, IA",False,-1,1.0,IA

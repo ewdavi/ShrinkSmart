@@ -1,0 +1,18 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1403 Eagle Ridge Rd, Le Claire, IA 52753",gas stations,Le Claire,1.13772434301165,41.5869932932501,-90.3628931567073,Shell,2,"Le Claire, IA",False,-1,4.0,IA
+"32000 Route 2 N, Hillsdale, IL 61257",gas stations,Hillsdale,15.610229101822055,41.612827,-90.186699,Shell Gasoline,3,"Le Claire, IA",False,-1,1.5,IL
+"412 1st Ave, Colona, IL 61241",gas stations,Colona,12.545502375178984,41.4835281,-90.3634872,7-Eleven,3,"Le Claire, IA",False,1,3.5,IL
+"3850 Elmore Ave, Davenport, IA 52807",gas stations,Davenport,13.894531446524416,41.55757,-90.52766,Hy-Vee Gas Station,2,"Le Claire, IA",False,-1,4.0,IA
+"105 W 1st Ave, Coal Valley, IL 61240",gas stations,Coal Valley,17.76941069900751,41.4520818,-90.4611637,7-Eleven,3,"Le Claire, IA",False,1,3.5,IL
+"1810 5th Ave, Moline, IL 61265",gas stations,Moline,15.430690703962876,41.50754,-90.51174,Central Store,2,"Le Claire, IA",False,-1,5.0,IL
+"120 1st Ave E, Milan, IL 61264",gas stations,Milan,22.872901170858015,41.4529151916504,-90.5659561157227,Hughes Tire & Brake,2,"Le Claire, IA",False,-1,5.0,IL
+"3622 N Brady St, Davenport, IA 52806",gas stations,Davenport,17.19385013865404,41.5571513646833,-90.5689089372754,Shell Gas Station,2,"Le Claire, IA",False,-1,1.0,IA
+"2242 E 12th St, Davenport, IA 52803",gas stations,Davenport,16.21254825055081,41.532319467859,-90.544079323468,Kwik Shop,1,"Le Claire, IA",False,-1,5.0,IA
+"5310 N. Brady, Davenport, IA 52807",gas stations,Davenport,16.969883386486664,41.57485,-90.57079,Big 10 Mart,1,"Le Claire, IA",False,-1,5.0,IA
+"3002 18th Ave, Rock Island, IL 61201",gas stations,Rock Island,19.37797505692947,41.4931449890137,-90.5568084716797,30th Street Shell,1,"Le Claire, IA",False,-1,1.0,IL
+"2415 E 53rd St, Davenport, IA 52807",gas stations,Davenport,14.503758197879083,41.57437,-90.54084,Qc Mart,2,"Le Claire, IA",False,4,1.5,IA
+"3808 Eastern Ave, Davenport, IA 52807",gas stations,Davenport,15.747968863272629,41.55931,-90.55171,Auto Trim and Sign,4,"Le Claire, IA",False,-1,3.0,IA
+"2930 16th St, Moline, IL 61265",gas stations,Moline,17.341157342031902,41.48258,-90.51169,Mother Hubbard's Cupboard,1,"Le Claire, IA",False,-1,1.0,IL
+"3002 18th Ave, Rock Island, IL 61201",gas stations,Rock Island,19.37797505692947,41.4931449890137,-90.5568084716797,Leftwich Shell,1,"Le Claire, IA",False,-1,3.0,IL
+"5705 Elmore Ave, Davenport, IA 52807",gas stations,Davenport,13.405148821339466,41.579808,-90.52859,Discount Tire,7,"Le Claire, IA",False,-1,3.5,IA
+"3800 38th Ave, Moline, IL 61265",gas stations,Moline,16.78587074262982,41.47232,-90.48401,Waterpark Car Wash,9,"Le Claire, IA",False,-1,2.5,IL

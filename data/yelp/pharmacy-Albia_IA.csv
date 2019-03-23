@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"301 Highway 34 W, Albia, IA 52531",pharmacy,Albia,1.1837614939605101,41.016779,-92.812985,Hy-Vee,1,"Albia, IA",False,-1,5.0,IA
+"205 N E St, Oskaloosa, IA 52577",pharmacy,Oskaloosa,32.797704995389445,41.2966243,-92.6517631,Mahaska Drug,2,"Albia, IA",False,2,5.0,IA
+"337 Church St, Ottumwa, IA 52501",pharmacy,Ottumwa,32.353290903072846,41.00996,-92.41839,South Side Drug Store,2,"Albia, IA",False,-1,5.0,IA
+"901 W Pleasant St, Knoxville, IA 50138",pharmacy,Knoxville,41.64686935894896,41.3210258483887,-93.1078720092773,Medicap Pharmacy,1,"Albia, IA",False,-1,5.0,IA
+"107 W Main St, Ottumwa, IA 52501",pharmacy,Ottumwa,32.77449417373593,41.0184799,-92.41298,Nucara Pharmacy,1,"Albia, IA",False,-1,2.0,IA
+"800 School St, Carlisle, IA 50047",pharmacy,Carlisle,78.1818128916835,41.498291015625,-93.4950485229492,Medicap Pharmacy,1,"Albia, IA",False,-1,2.0,IA
+"1330 E University Ave, Des Moines, IA 50316",pharmacy,Des Moines,92.4590870186891,41.6011047363281,-93.6012268066406,Walgreens,3,"Albia, IA",False,2,3.5,IA
+"1000 N Jefferson Way, Indianola, IA 50125",pharmacy,Indianola,73.82068830938464,41.3696403503418,-93.5576095581055,Walgreens,1,"Albia, IA",False,-1,1.0,IA
+"104 E Euclid Ave, Des Moines, IA 50313",pharmacy,Des Moines,95.49936751160737,41.6283302307129,-93.6171875,Walgreens,4,"Albia, IA",False,2,3.5,IA
+"2545 E Euclid Ave, Des Moines, IA 50317",pharmacy,Des Moines,92.5492995961328,41.6270485,-93.5686798,Walgreens,2,"Albia, IA",False,2,4.0,IA
+"2540 E Euclid Ave, Des Moines, IA 50317",pharmacy,Des Moines,92.73704382445496,41.6284866333008,-93.5694046020508,Hy-Vee Pharmacies,1,"Albia, IA",False,2,5.0,IA
+"3151 SE 14th St, Des Moines, IA 50320",pharmacy,Des Moines,88.71019347268609,41.555736,-93.595977,CVS Pharmacy,2,"Albia, IA",False,-1,2.5,IA
+"1320 E Euclid Ave, Des Moines, IA 50316",pharmacy,Des Moines,94.65371483229318,41.62856,-93.60277,Cash Saver,2,"Albia, IA",False,-1,4.5,IA
+"3140 Se 14Th St, Des Moines, IA 50320",pharmacy,Des Moines,88.86686419310992,41.5560035705566,-93.5980834960938,Walgreens,1,"Albia, IA",False,2,1.0,IA
+"3414 8th St SW, Altoona, IA 50009",pharmacy,Altoona,90.19938933413493,41.641903,-93.504625,Target,6,"Albia, IA",False,2,4.5,IA
+"108 8th St SW, Altoona, IA 50009",pharmacy,Altoona,88.21352185398023,41.642769,-93.46596,Hy-Vee Food Stores,4,"Albia, IA",False,2,3.5,IA
+"6200 Se 14Th St, Des Moines, IA 50320",pharmacy,Des Moines,86.86897823924825,41.5285682678223,-93.5978622436523,Walgreens,1,"Albia, IA",False,2,5.0,IA
+"5101 SE 14th St, Des Moines, IA 50320",pharmacy,Des Moines,87.25916012413016,41.53833,-93.59464,Walmart Pharmacy,1,"Albia, IA",False,-1,5.0,IA
+"2930 E University Ave, Des Moines, IA 50317",pharmacy,Des Moines,89.95193929084427,41.6009941101074,-93.5592269897461,Walgreens,2,"Albia, IA",False,2,4.0,IA
+"1111 E Army Post Rd, Ste 2204, Des Moines, IA 50315",pharmacy,Des Moines,86.8259150918715,41.523728,-93.6027,Target,12,"Albia, IA",False,2,4.0,IA

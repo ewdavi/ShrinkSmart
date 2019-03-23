@@ -1,0 +1,3 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"14 N 8th St, Clear Lake, IA 50428",optometrist,Clear Lake,40.613475025498964,43.137896,-93.3786351,Clear Lake Optometry,2,"Kanawha, IA",False,-1,4.0,IA
+"3121 4th St SW, Mason City, IA 50401",optometrist,Mason City,50.30048018902657,43.14745,-93.24775,North Iowa Eye Clinic,1,"Kanawha, IA",False,-1,4.0,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"102 2Nd St, Coralville, IA 52241",pharmacy,Coralville,42.10093143156271,41.6687584,-91.5666199,Walgreens,10,"Ainsworth, IA",False,2,2.0,IA
+"201 S Clinton St, Iowa City, IA 52240",pharmacy,Iowa City,41.08698313393599,41.659489,-91.53557,CVS Pharmacy,7,"Ainsworth, IA",False,1,3.0,IA
+"2214 Muscatine Ave, Iowa City, IA 52240",pharmacy,Iowa City,40.223878080913835,41.6499710083008,-91.5027160644531,Walgreens,4,"Ainsworth, IA",False,2,3.5,IA
+"701 Mormon Trek Blvd, Iowa City, IA 52246",pharmacy,Iowa City,40.28708757658148,41.6520004,-91.5754166,Hartig USA Drug,2,"Ainsworth, IA",False,2,4.0,IA
+"310 N 1st Ave, Iowa City, IA 52245",pharmacy,Iowa City,41.99915482658748,41.6659056434211,-91.5018634434764,Hy Vee Drugstore,2,"Ainsworth, IA",False,2,4.5,IA
+"1703 Park Ave, Muscatine, IA 52761",pharmacy,Muscatine,47.029987459971274,41.4446,-91.02977,Walgreens,4,"Ainsworth, IA",False,2,3.5,IA
+"812 S 1st Ave, Iowa City, IA 52245",pharmacy,Iowa City,40.40567162185409,41.6514053344727,-91.5008926391602,Hy-Vee,10,"Ainsworth, IA",False,2,3.0,IA
+"526 Main St, Mediapolis, IA 52637",pharmacy,Mediapolis,45.32079705785974,41.0076789855957,-91.1643218994141,Carruthers Pharmacy,1,"Ainsworth, IA",False,2,5.0,IA
+"625 Pacha Pkwy, North Liberty, IA 52317",pharmacy,North Liberty,50.769901949545314,41.7451181205432,-91.6072869300842,Walgreens,4,"Ainsworth, IA",False,-1,4.0,IA
+"2425 Muscatine Ave, Iowa City, IA 52240",pharmacy,Iowa City,40.16101354618754,41.649111,-91.49985,CVS Pharmacy,3,"Ainsworth, IA",False,1,2.0,IA
+"555 W Cherry St, North Liberty, IA 52317",pharmacy,North Liberty,51.17849686027329,41.7489,-91.60624,CarePro Pharmacy - North Liberty,2,"Ainsworth, IA",False,2,3.0,IA
+"3245 Agency St, Burlington, IA 52601",pharmacy,Burlington,63.25993733968636,40.8143882751465,-91.1406936645508,Walgreens,1,"Ainsworth, IA",False,-1,5.0,IA
+"129 S Jefferson St, Mount Pleasant, IA 52641",pharmacy,Mount Pleasant,36.07034592355006,40.9659,-91.55513,Hy-Vee Drugstore,1,"Ainsworth, IA",False,1,3.0,IA
+"310 N 1st Ave, Iowa City, IA 52245",pharmacy,Iowa City,42.021057613689855,41.6658935546875,-91.5013732910156,Drug Town,1,"Ainsworth, IA",False,2,4.0,IA
+"2751 Heartland Dr, Coralville, IA 52241",pharmacy,Coralville,45.914563255171764,41.70104,-91.60947,Walgreens,4,"Ainsworth, IA",False,2,3.5,IA
+"514 Elm St, Williamsburg, IA 52361",pharmacy,Williamsburg,56.0750944559992,41.6611404418945,-92.0105819702148,Peterson Drug,1,"Ainsworth, IA",False,-1,3.0,IA
+"2400 2nd Ave, Muscatine, IA 52761",pharmacy,Muscatine,46.76006678822589,41.4510192871094,-91.0362396240234,Hy-Vee Pharmacy,1,"Ainsworth, IA",False,-1,1.0,IA
+"2801 Commerce Dr, Coralville, IA 52241",pharmacy,Coralville,45.50857798650796,41.697239,-91.612035,Walmart Pharmacy,1,"Ainsworth, IA",False,-1,1.0,IA
+"230 Scott Ct, Iowa City, IA 52245",pharmacy,Iowa City,41.38591273852785,41.65844,-91.48168,Pharmacy Matters,1,"Ainsworth, IA",False,-1,1.0,IA
+"919 hwy 1 W, Iowa City, IA 52246",pharmacy,Iowa City,39.38564406168309,41.64445,-91.551271,Walmart Supercenter,9,"Ainsworth, IA",False,1,2.5,IA

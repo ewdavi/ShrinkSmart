@@ -1,0 +1,4 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1423 N 8th St, Burlington, IA 52601",Pawn Shops,Burlington,58.417718347478484,40.82323,-91.10573,Fenton Sales & Pawn Shop,1,"Fruitland, IA",False,2,5.0,IA
+"4121 N Brady St, Davenport, IA 52806",Pawn Shops,Davenport,52.44434353334179,41.562846,-90.5671944,Premier Jewelry & Loan,2,"Fruitland, IA",False,1,3.0,IA
+"2147 W 3rd St, Davenport, IA 52802",Pawn Shops,Davenport,47.206051640279775,41.5221539030714,-90.6110135089735,Quick Cash Pawn,1,"Fruitland, IA",False,-1,5.0,IA

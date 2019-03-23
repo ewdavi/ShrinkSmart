@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1703 Park Ave, Muscatine, IA 52761",pharmacy,Muscatine,33.61489279336967,41.4446,-91.02977,Walgreens,4,"Columbus Junction, IA",False,2,3.5,IA
+"102 2Nd St, Coralville, IA 52241",pharmacy,Coralville,46.5700723523343,41.6687584,-91.5666199,Walgreens,10,"Columbus Junction, IA",False,2,2.0,IA
+"2214 Muscatine Ave, Iowa City, IA 52240",pharmacy,Iowa City,42.91087952867848,41.6499710083008,-91.5027160644531,Walgreens,4,"Columbus Junction, IA",False,2,3.5,IA
+"201 S Clinton St, Iowa City, IA 52240",pharmacy,Iowa City,44.72460578278822,41.659489,-91.53557,CVS Pharmacy,7,"Columbus Junction, IA",False,1,3.0,IA
+"701 Mormon Trek Blvd, Iowa City, IA 52246",pharmacy,Iowa City,45.116294713569495,41.6520004,-91.5754166,Hartig USA Drug,2,"Columbus Junction, IA",False,2,4.0,IA
+"526 Main St, Mediapolis, IA 52637",pharmacy,Mediapolis,34.4603444195778,41.0076789855957,-91.1643218994141,Carruthers Pharmacy,1,"Columbus Junction, IA",False,2,5.0,IA
+"310 N 1st Ave, Iowa City, IA 52245",pharmacy,Iowa City,44.60646655305126,41.6659056434211,-91.5018634434764,Hy Vee Drugstore,2,"Columbus Junction, IA",False,2,4.5,IA
+"812 S 1st Ave, Iowa City, IA 52245",pharmacy,Iowa City,43.03371975172939,41.6514053344727,-91.5008926391602,Hy-Vee,10,"Columbus Junction, IA",False,2,3.0,IA
+"1525 E Kimberly Rd, Davenport, IA 52807",pharmacy,Davenport,74.57317149127606,41.55589,-90.55235,Walgreens,1,"Columbus Junction, IA",False,2,5.0,IA
+"3245 Agency St, Burlington, IA 52601",pharmacy,Burlington,54.879283626229785,40.8143882751465,-91.1406936645508,Walgreens,1,"Columbus Junction, IA",False,-1,5.0,IA
+"2617 18th Ave, Rock Island, IL 61201",pharmacy,Rock Island,71.33100874498584,41.4932,-90.5603,CVS Pharmacy,1,"Columbus Junction, IA",False,2,5.0,IL
+"129 W Locust St, Davenport, IA 52803",pharmacy,Davenport,71.99718777865519,41.53814,-90.57526,Main At Locust Pharmacy & Medical Supply,4,"Columbus Junction, IA",False,3,4.5,IA
+"625 Pacha Pkwy, North Liberty, IA 52317",pharmacy,North Liberty,55.70607517462613,41.7451181205432,-91.6072869300842,Walgreens,4,"Columbus Junction, IA",False,-1,4.0,IA
+"2425 Muscatine Ave, Iowa City, IA 52240",pharmacy,Iowa City,42.759230413700486,41.649111,-91.49985,CVS Pharmacy,3,"Columbus Junction, IA",False,1,2.0,IA
+"2400 2nd Ave, Muscatine, IA 52761",pharmacy,Muscatine,33.526768848148265,41.4510192871094,-91.0362396240234,Hy-Vee Pharmacy,1,"Columbus Junction, IA",False,-1,1.0,IA
+"555 W Cherry St, North Liberty, IA 52317",pharmacy,North Liberty,56.06254980087965,41.7489,-91.60624,CarePro Pharmacy - North Liberty,2,"Columbus Junction, IA",False,2,3.0,IA
+"129 S Jefferson St, Mount Pleasant, IA 52641",pharmacy,Mount Pleasant,38.15388575684241,40.9659,-91.55513,Hy-Vee Drugstore,1,"Columbus Junction, IA",False,1,3.0,IA
+"1777 Division St, Davenport, IA 52804",pharmacy,Davenport,70.07559813198907,41.53777,-90.60043,CVS Pharmacy,2,"Columbus Junction, IA",False,2,2.5,IA
+"1500 SE 5th St, Aledo, IL 61231",pharmacy,Aledo,53.71362715508166,41.198048,-90.732197,Walmart Pharmacy,1,"Columbus Junction, IA",False,-1,5.0,IL
+"310 N 1st Ave, Iowa City, IA 52245",pharmacy,Iowa City,44.61254757583791,41.6658935546875,-91.5013732910156,Drug Town,1,"Columbus Junction, IA",False,2,4.0,IA

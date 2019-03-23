@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1510 Hill Ave, Spirit Lake, IA 51360",dental,Spirit Lake,34.29453279519685,43.4248962402344,-95.1027908325195,"Darren Dotson, DDS",3,"Everly, IA",False,-1,4.5,IA
+"214 N 6th St, Estherville, IA 51334",dental,Estherville,47.694614898742984,43.4044380187988,-94.8363571166992,Lester Dental Clinic,1,"Everly, IA",False,-1,4.0,IA
+"326 W Central Ave, Estherville, IA 51334",dental,Estherville,46.70053406567548,43.4023857116699,-94.8511810302734,Williams Greg Dr DDS,1,"Everly, IA",False,-1,1.0,IA
+"2211 10th St, Emmetsburg, IA 50536",dental,Emmetsburg,52.3370051257404,43.1112899,-94.67981,Zimmerman Family Dental,1,"Everly, IA",False,-1,1.0,IA
+"217 W 6th St, Storm Lake, IA 50588",dental,Storm Lake,58.09249757731805,42.64563,-95.20223,Family 1st Dental of Storm Lake,1,"Everly, IA",False,-1,2.0,IA

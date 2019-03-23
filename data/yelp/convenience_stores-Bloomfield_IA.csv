@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2125 Libertyville Rd, Fairfield, IA 52556",convenience stores,Fairfield,46.37824172073766,40.9886932373047,-91.9636383056641,Casey's General Store,2,"Bloomfield, IA",False,2,4.5,IA
+"4118 73rd St, Agency, IA 52530",convenience stores,Agency,31.298535086172322,40.99489,-92.23913,D's Eldon Y,1,"Bloomfield, IA",False,-1,5.0,IA
+"508 N 4th St, Fairfield, IA 52556",convenience stores,Fairfield,47.700936360313285,41.012797,-91.968219,Logli's Store,6,"Bloomfield, IA",False,1,5.0,IA
+"720 Richmond Ave, Ottumwa, IA 52501",convenience stores,Ottumwa,29.11069682476506,41.00708,-92.43257,champs chicken Richmond & Ferry BP,1,"Bloomfield, IA",False,-1,3.0,IA
+"1310 W Burlington Ave, Fairfield, IA 52556",convenience stores,Fairfield,46.49642643293669,41.0064296,-91.9798484,Hy-Vee Gas,2,"Bloomfield, IA",False,-1,4.5,IA
+"1300 W Burlington Ave, Fairfield, IA 52556",convenience stores,Fairfield,46.46337019924431,41.0063133,-91.9796829,"Hy-Vee Food Stores, Inc",5,"Bloomfield, IA",False,3,3.5,IA
+"201 S 4th St, Farmington, IA 52626",convenience stores,Farmington,57.89376120760192,40.63998,-91.73979,Casey's General Store,1,"Bloomfield, IA",False,1,4.0,IA
+"200 E Lafayette St, Edina, MO 63537",convenience stores,Edina,67.41863033444159,40.1671939670174,-92.1735801326766,Casey's General Store,1,"Bloomfield, IA",False,-1,4.0,MO
+"2214 N Baltimore St, Kirksville, MO 63501",convenience stores,Kirksville,60.41116210603603,40.217960357666,-92.5821685791016,Ayerco Convenience Store,1,"Bloomfield, IA",False,2,1.0,MO
+"1009 N Osteopathy, Kirksville, MO 63501",convenience stores,Kirksville,62.2277009785318,40.202926,-92.591454,Casey's Carry-Out Pizza,1,"Bloomfield, IA",False,-1,4.0,MO

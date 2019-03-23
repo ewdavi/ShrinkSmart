@@ -1,0 +1,16 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"218 E Washington St, Iowa City, IA 52240",optometrist,Iowa City,8.886414688301588,41.6604309082031,-91.5323181152344,Discerning Eye,16,"Hills, IA",False,3,5.0,IA
+"640 Highway 1 W, Ste 2, Iowa City, IA 52246",optometrist,Iowa City,7.641227090200834,41.648196,-91.5485,Jensen Eyecare Center,2,"Hills, IA",False,-1,5.0,IA
+"2900 Heartland Dr, Coralville, IA 52241",optometrist,Coralville,14.783264544231109,41.697404,-91.617348,Aria Eye Care,2,"Hills, IA",False,-1,5.0,IA
+"1451 Coral Ridge Ave, Ste 518, Coralville, IA 52241",optometrist,Coralville,13.550966992843943,41.690949,-91.601543,Pearle Vision,1,"Hills, IA",False,-1,5.0,IA
+"1176 Commercial Dr, Riverside, IA 52327",optometrist,Riverside,10.402735987623416,41.4875740864398,-91.5468949824572,Iowa River Crossing,1,"Hills, IA",False,-1,4.0,IA
+"1614 Sycamore St, Iowa City, IA 52240",optometrist,Iowa City,7.094823160882516,41.6428877,-91.5114851,McDonald Optical,3,"Hills, IA",False,3,3.5,IA
+"660 W Cherry St, North Liberty, IA 52317",optometrist,North Liberty,19.854947278934315,41.74998,-91.60865,Blink Vision By Veatch,1,"Hills, IA",False,-1,5.0,IA
+"2056 8th St, Coralville, IA 52241",optometrist,Coralville,12.41809242556812,41.682258,-91.594198,The Looking Glass Optical,3,"Hills, IA",False,2,3.5,IA
+"201 S Clinton St, Iowa City, IA 52240",optometrist,Iowa City,8.76133119029625,41.6592781,-91.5354108,Advanced Eye Care,5,"Hills, IA",False,-1,2.0,IA
+"1018 William St, Iowa City, IA 52240",optometrist,Iowa City,8.15585001620213,41.6493507,-91.4987203,Eye Associates,3,"Hills, IA",False,-1,2.0,IA
+"1451 Coral Ridge Ave, Ste 104, Coralville, IA 52241",optometrist,Coralville,13.678658616455031,41.690953,-91.605091,LensCrafters,2,"Hills, IA",False,2,2.5,IA
+"1481 Coral Ridge Ave, Coralville, IA 52241",optometrist,Coralville,14.195715045564116,41.6918716,-91.6058197,Copeland Eyacare,1,"Hills, IA",False,-1,5.0,IA
+"605 S 10th Ave, Washington, IA 52353",optometrist,Washington,34.19630122857147,41.2938766479492,-91.6814727783203,Williams Ben Optometrist,1,"Hills, IA",False,-1,5.0,IA
+"301 S Iowa Ave, Washington, IA 52353",optometrist,Washington,34.20006070454209,41.2971458435059,-91.6921768188477,Washington Eye Care Center,1,"Hills, IA",False,-1,1.0,IA
+"16 S Clinton St, Iowa City, IA 52240",optometrist,Iowa City,8.9179019695211,41.6607,-91.53414,McDonald Optical,1,"Hills, IA",False,-1,1.0,IA

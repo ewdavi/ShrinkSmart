@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"111 S Main St, George, IA 51237",restaurant,George,0.16599048355909862,43.3433853576781,-96.0023778934457,Glory Days Cafe,1,"George, IA",False,-1,5.0,IA
+"215 1st Ave, Rock Rapids, IA 51246",restaurant,Rock Rapids,16.68996036522912,43.43192,-96.16771,Sully's Grill,1,"George, IA",False,-1,4.0,IA
+"701 S Union St, Rock Rapids, IA 51246",restaurant,Rock Rapids,16.784580863146985,43.4248047,-96.1758041,Slade's Drive In,1,"George, IA",False,-1,2.0,IA
+"205 S Union St, Rock Rapids, IA 51246",restaurant,Rock Rapids,17.119341418996875,43.4303172,-96.1756705,Pizza Ranch,3,"George, IA",False,-1,2.5,IA
+"3109 N US Highway 75, Sherman, TX 75090",restaurant,Sherman,21.357629096857,43.1979598,-96.1773055,Popeyes Louisiana Kitchen,6,"George, IA",False,-1,1.5,TX

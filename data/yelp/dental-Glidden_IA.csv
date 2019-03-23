@@ -1,0 +1,9 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"818 N Main St, Carroll, IA 51401",dental,Carroll,11.550141803749826,42.0683555603027,-94.8654556274414,Fangman Nicholas J Dr DDS,1,"Glidden, IA",False,-1,5.0,IA
+"804 Kenyon Rd, Ste120, Fort Dodge, IA 50501",dental,Fort Dodge,65.09789049000858,42.4923174859341,-94.1936002671719,Fort Dodge Oral Surgery,2,"Glidden, IA",False,-1,5.0,IA
+"2953 5th Ave S, Fort Dodge, IA 50501",dental,Fort Dodge,67.93442273530704,42.501002,-94.155598,Aspen Dental,3,"Glidden, IA",False,-1,2.5,IA
+"1800 Floral Ave, Fort Dodge, IA 50501",dental,Fort Dodge,68.45611141675148,42.519725,-94.173633,"James H Knight, DDS",5,"Glidden, IA",False,-1,2.5,IA
+"1202 Greene St, Adel, IA 50003",dental,Adel,76.4213522505716,41.6145130557861,-94.0228561531351,"Adel Family Dentistry, PC",1,"Glidden, IA",False,-1,5.0,IA
+"2727 N 15th St, Fort Dodge, IA 50501",dental,Fort Dodge,69.35386851101869,42.5328442,-94.177304,"Rolling Hills Dental Clinic, PC",2,"Glidden, IA",False,-1,1.5,IA
+"217 W 6th St, Storm Lake, IA 50588",dental,Storm Lake,76.03565676650801,42.64563,-95.20223,Family 1st Dental of Storm Lake,1,"Glidden, IA",False,-1,2.0,IA
+"317 Main, Minden, IA 51553",dental,Minden,94.40630015618827,41.46723,-95.54173,Steg Thomas B DDS,1,"Glidden, IA",False,-1,5.0,IA

@@ -1,0 +1,9 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"135 7th St SE, Oelwein, IA 50662",dental,Oelwein,56.76740466577449,42.6697998,-91.9104614,Oelwein Dental Associates,1,"Calmar, IA",False,-1,5.0,IA
+"820 S Marquette Rd, Prairie Du Chien, WI 53821",dental,Prairie Du Chien,61.13794272970234,43.041524,-91.139774,Dental Associates Of Prairie Du Chien,1,"Calmar, IA",False,-1,5.0,WI
+"216 E Charles St, Oelwein, IA 50662",dental,Oelwein,55.76343769382849,42.67837,-91.90961,Berryman Clinton DDS,1,"Calmar, IA",False,-1,5.0,IA
+"207 N Jackson St, Charles City, IA 50616",dental,Charles City,66.91029660879974,43.06864,-92.67959,Central Park Dentistry,1,"Calmar, IA",False,-1,5.0,IA
+"325 21st St NW, Waverly, IA 50677",dental,Waverly,71.64844413882862,42.7277,-92.49729,American Family Dentistry,1,"Calmar, IA",False,-1,5.0,IA
+"121 20th St NW, Waverly, IA 50677",dental,Waverly,71.70756166095283,42.726166,-92.496353,Walworth Family Dentistry,1,"Calmar, IA",False,-1,5.0,IA
+"620 N Hwy 44/76, Caledonia, MN 55921",dental,Caledonia,59.171529239495,43.6396237,-91.5022132,Herman Dental Clinic,2,"Calmar, IA",False,-1,2.0,MN
+"1400 10th Ave SW, Waverly, IA 50677",dental,Waverly,72.07019412526815,42.71549,-92.48801,Heritage Dental,1,"Calmar, IA",False,-1,2.0,IA

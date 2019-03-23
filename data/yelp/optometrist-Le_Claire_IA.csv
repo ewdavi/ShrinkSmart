@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"126 S Cody Rd, Le Claire, IA 52753",optometrist,Le Claire,2.062550648445471,41.59679,-90.34411,"Riverside Family Eye Care, PC",2,"Le Claire, IA",False,-1,4.5,IA
+"3378 Middle Rd, Bettendorf, IA 52722",optometrist,Bettendorf,10.862013410557989,41.5515213,-90.4851685,Eye Care Studio,3,"Le Claire, IA",False,3,5.0,IA
+"1718 E Kimberly Rd, Davenport, IA 52807",optometrist,Davenport,15.717655656109462,41.5574258325614,-90.5506145954132,Lifetime Eyehealth Associates,2,"Le Claire, IA",False,2,4.0,IA
+"777 Tanglefoot Ln, Bettendorf, IA 52722",optometrist,Bettendorf,13.309055397097488,41.5597648620605,-90.5210647583008,"Eye Surgeons Associates, PC",3,"Le Claire, IA",False,-1,2.5,IA
+"4310 E 53rd St, Davenport, IA 52807",optometrist,Davenport,12.00345369916305,41.57548,-90.51081,Eyecare Pavilion & Dispensary,4,"Le Claire, IA",False,2,3.0,IA
+"2150 East Kimberly Road, Davenport, IA 52807",optometrist,Davenport,15.356274006982163,41.55735,-90.54606,Vision4Less,7,"Le Claire, IA",False,2,3.5,IA
+"4007 E 53rd St, Ste 400, Davenport, IA 52807",optometrist,Davenport,12.448745816316837,41.5743293762207,-90.5157470703125,Eyecare MAX,4,"Le Claire, IA",False,-1,2.0,IA
+"1230 E Rusholme St, Ste 203, Bldg 2, Davenport, IA 52803",optometrist,Davenport,16.69870366099297,41.543473,-90.5568577,Davenport Eye Group,3,"Le Claire, IA",False,-1,4.5,IA
+"5717 Elmore Ave, Ste C, Davenport, IA 52807",optometrist,Davenport,13.114966386056436,41.579550051092,-90.525018390213,America's Best Contacts & Eyeglasses,3,"Le Claire, IA",False,-1,3.5,IA
+"4500 16th St, Spc 100, Moline, IL 61265",optometrist,Moline,18.29199743604591,41.4659701,-90.503186,LensCrafters,2,"Le Claire, IA",False,2,5.0,IL
+"5225 Elmore Ave, Davenport, IA 52807",optometrist,Davenport,13.318034737366672,41.572833,-90.525955,Target Optical,1,"Le Claire, IA",False,-1,4.0,IA
+"4624 Progress Dr, Ste C, Davenport, IA 52807",optometrist,Davenport,12.907457425768122,41.5684212747792,-90.5195819268504,verdi eye clinic,1,"Le Claire, IA",False,-1,5.0,IA
+"1302 7th St, Ste 201, Moline, IL 61265",optometrist,Moline,17.068970027465294,41.49904,-90.52736,Wayne Eileen MD Eye Surgeon,1,"Le Claire, IA",False,-1,5.0,IL
+"2501 24th St, Rock Island, IL 61201",optometrist,Rock Island,20.602031894908546,41.4846604536284,-90.566570390213,Rock Island Optometric Center,2,"Le Claire, IA",False,-1,3.0,IL
+"2100 18th Ave, Ste 4, Rock Island, IL 61201",optometrist,Rock Island,20.280304604165543,41.49349,-90.57023,Vukov Jack G MD,1,"Le Claire, IA",False,-1,5.0,IL
+"4731 45th St Ct, Rock Island, IL 61201",optometrist,Rock Island,20.229871833863676,41.4660530090332,-90.5387802124023,Eye Surgeons Optical PC,2,"Le Claire, IA",False,-1,3.0,IL
+"4406 16th St, Moline, IL 61265",optometrist,Moline,18.022097159232484,41.4704428,-90.5055103,All About Eyes,3,"Le Claire, IA",False,-1,2.5,IL
+"4703 16th St, Ste B, Moline, IL 61265",optometrist,Moline,18.640037197415413,41.46501,-90.50833,Vision4Less,3,"Le Claire, IA",False,-1,2.5,IL
+"4351 16th St, Moline, IL 61265",optometrist,Moline,18.113380408039546,41.4708704,-90.507933,America's Best Contacts & Eyeglasses,1,"Le Claire, IA",False,-1,1.0,IL
+"2150 E Kimberly Rd, Davenport, IA 52807",optometrist,Davenport,15.356274006982163,41.55735,-90.54606,Family Eye Care,1,"Le Claire, IA",False,-1,1.0,IA

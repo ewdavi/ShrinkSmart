@@ -1,0 +1,15 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"220 E High St, Rockwell City, IA 50579",gas stations,Rockwell City,38.67033867725505,42.39906,-94.62615,Casey's General Store,1,"Glidden, IA",False,2,4.0,IA
+"1709 Antique City Dr, Walnut, IA 51577",gas stations,Walnut,75.0584177926241,41.494136,-95.221206,Kum & Go,2,"Glidden, IA",False,2,4.0,IA
+"402 E 6th St, Carroll, IA 51401",gas stations,Carroll,11.300030747900006,42.0641899108887,-94.8626403808594,Sparky's One Stop,1,"Glidden, IA",False,3,4.0,IA
+"64975 Boston Rd, Atlantic, IA 50022",gas stations,Atlantic,66.31761420526824,41.4859719688138,-94.9464303163691,Conoco Gas,2,"Glidden, IA",False,-1,1.0,IA
+"1211 9th St, Lake View, IA 51450",gas stations,Lake View,38.10440141209722,42.310832,-95.040174,Sparky's One Stop-Lake View,2,"Glidden, IA",False,-1,3.0,IA
+"110 S 5th St, Adair, IA 50002",gas stations,Adair,63.03830158003404,41.495762,-94.6431785,Casey's General Store,4,"Glidden, IA",False,1,3.0,IA
+"1203 Guthrie St, De Soto, IA 50069",gas stations,De Soto,82.84405047881187,41.5376482,-94.0125451,Kum & Go,2,"Glidden, IA",False,2,2.0,IA
+"7005 N Chestnut St, Avoca, IA 51521",gas stations,Avoca,80.14503131239802,41.4996458447772,-95.3351710823037,Flying J,6,"Glidden, IA",False,-1,1.5,IA
+"2079 Hwy 71, Audubon, IA 50025",gas stations,Audubon,42.716799634412034,41.70411,-94.92567,Waspy's Truck Stop,1,"Glidden, IA",False,-1,5.0,IA
+"904 N Walnut, Avoca, IA 51521",gas stations,Avoca,81.59562627678473,41.4842592560023,-95.3373330831528,Shell Gas Station,1,"Glidden, IA",False,-1,4.0,IA
+"400 1st Ave, Perry, IA 50220",gas stations,Perry,57.28659781052531,41.83092,-94.105205,McKee RV,4,"Glidden, IA",False,-1,2.5,IA
+"1019 N Chestnut St, Avoca, IA 51521",gas stations,Avoca,81.45464164909127,41.4852025173397,-95.3361962963767,Casey's General Store,4,"Glidden, IA",False,1,3.0,IA
+"12 East St, Shelby, IA 51570",gas stations,Shelby,86.01076294676663,41.506002,-95.4510104,The Corn Crib,57,"Glidden, IA",False,1,4.5,IA
+"11 East St, Shelby, IA 51570",gas stations,Shelby,86.39427288628033,41.50046,-95.450178,Shell-Taylor Quik-Pik,1,"Glidden, IA",False,1,4.0,IA

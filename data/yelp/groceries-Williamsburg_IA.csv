@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"4125 V St, Homestead, IA 52236",groceries,Homestead,14.768566537692124,41.76143,-91.87756,Henry's Village Market,1,"Williamsburg, IA",False,1,5.0,IA
+"Marengo, IA 52301",groceries,Marengo,14.277695316682664,41.79647,-92.07431,Big'g'food Store,3,"Williamsburg, IA",False,-1,2.0,IA
+"540TH St SW, Kalona, IA 52247",groceries,Kalona,28.953351395378295,41.540779,-91.709331,Stringtown Grocery,17,"Williamsburg, IA",False,1,4.5,IA
+"2298 540th St SW, Kalona, IA 52247",groceries,Kalona,29.01975665561651,41.5422287,-91.7072678,Central Discount,3,"Williamsburg, IA",False,1,4.5,IA
+"615 Westwood Dr, North Liberty, IA 52317",groceries,North Liberty,34.149980797452734,41.740505,-91.608398,Fareway Stores,12,"Williamsburg, IA",False,2,4.0,IA
+"121 5th St, Kalona, IA 52247",groceries,Kalona,32.873783468443726,41.48283,-91.70643,Kalona General Store,1,"Williamsburg, IA",False,-1,5.0,IA
+"2750 Heartland Dr, Coralville, IA 52241",groceries,Coralville,33.30335540729418,41.70011,-91.61049,Aldi,9,"Williamsburg, IA",False,-1,3.0,IA
+"4220 16th Ave SW, Cedar Rapids, IA 52404",groceries,Cedar Rapids,40.07937199082276,41.9647941589355,-91.7267074584961,Fareway Stores,5,"Williamsburg, IA",False,4,3.5,IA
+"3800 2nd St, Coralville, IA 52241",groceries,Coralville,31.446771082281227,41.70267,-91.6337999,The Outlet,1,"Williamsburg, IA",False,1,4.0,IA
+"1625 J St SW, # B, Cedar Rapids, IA 52404",groceries,Cedar Rapids,42.89867266426378,41.961422,-91.6670914,Save-A-Lot Food Store,2,"Williamsburg, IA",False,2,4.0,IA
+"1860 Edgewood Rd SW, Cedar Rapids, IA 52404",groceries,Cedar Rapids,40.19223481268639,41.960625,-91.71716,Aldi Foods,4,"Williamsburg, IA",False,1,3.5,IA
+"268 8th St, Wellman, IA 52201",groceries,Wellman,32.93453745099007,41.2898262645525,-91.5589596479476,Freeman Foods,1,"Williamsburg, IA",False,-1,5.0,IA
+"1100 3rd St SE, Cedar Rapids, IA 52401",groceries,Cedar Rapids,44.09884156574398,41.9702257123911,-91.6584120783289,NewBo City Market,49,"Williamsburg, IA",False,2,4.0,IA
+"20 Wilson Ave SW, Cedar Rapids, IA 52404",groceries,Cedar Rapids,43.00819743976578,41.9568099975586,-91.6585540771484,Hy-Vee Food Stores,5,"Williamsburg, IA",False,3,4.5,IA
+"122 2nd St SE, Swisher, IA 52338",groceries,Swisher,32.682796796200485,41.845988,-91.691855,Kava House & Cafe,31,"Williamsburg, IA",False,1,4.5,IA
+"208 12th Ave, Ste D, Cedar Rapids, IA 52401",groceries,Cedar Rapids,44.14972108601491,41.9709571,-91.6585973,Butter Me Up,1,"Williamsburg, IA",False,-1,4.0,IA
+"901 1st Ave SW, Cedar Rapids, IA 52405",groceries,Cedar Rapids,42.95611233060522,41.97248,-91.68355,Yumei's Asian Marketplace,4,"Williamsburg, IA",False,1,4.5,IA
+"615 Westwood Dr, North Liberty, IA 52317",groceries,North Liberty,34.149980797452734,41.740505,-91.608398,Fareway Stores Meat Market,3,"Williamsburg, IA",False,2,4.5,IA
+"8835 Runway Ct SW, Cedar Rapids, IA 52404",groceries,Cedar Rapids,37.0317125657547,41.89205,-91.67412,Kwik Star,1,"Williamsburg, IA",False,2,4.0,IA
+"4035 Mount Vernon Rd SE, Cedar Rapids, IA 52403",groceries,Cedar Rapids,47.24893868628986,41.97547,-91.60976,Hy-Vee Food Stores,5,"Williamsburg, IA",False,2,3.0,IA

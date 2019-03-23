@@ -1,0 +1,10 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1425 Boyson Rd, Hiawatha, IA 52233",optometrist,Hiawatha,16.97132098029308,42.0437579,-91.691624,Iowa EyeCare,1,"Center Point, IA",False,2,4.0,IA
+"915 Robins Square Dr, Robins, IA 52328",optometrist,Robins,16.140346003945844,42.0689507,-91.6553421,Iowa EyeCare,2,"Center Point, IA",False,-1,4.5,IA
+"2605 Blairs Ferry Rd NE, Cedar Rapids, IA 52402",optometrist,Cedar Rapids,18.58736699732222,42.0321197509766,-91.6796035766602,Copeland Eyecare,2,"Center Point, IA",False,-1,4.5,IA
+"915 Robins Square Dr, Robins, IA 52328",optometrist,Robins,16.140346003945844,42.0689507,-91.6553421,TLC Laser Eye Centers,2,"Center Point, IA",False,-1,5.0,IA
+"1245 2nd Ave SE, Cedar Rapids, IA 52403",optometrist,Cedar Rapids,17.086660678202545,42.0437047600493,-91.6884600240115,Wolfe Eye Clinic- Cedar Rapids,3,"Center Point, IA",False,-1,2.5,IA
+"1030 Blairs Ferry Rd NE, Cedar Rapids, IA 52402",optometrist,Cedar Rapids,19.22901360468339,42.037188,-91.650896,Target Optical,1,"Center Point, IA",False,-1,5.0,IA
+"2805 Blairs Ferry Rd NE, Ste 104, Cedar Rapids, IA 52402",optometrist,Cedar Rapids,18.200435971890425,42.03442,-91.68328,Peterson Eyecare Care,3,"Center Point, IA",False,2,3.5,IA
+"2805 Blairs Ferry Road, Suite B, Cedar Rapids, IA 52402",optometrist,Cedar Rapids,18.20041583155786,42.0342597961426,-91.6832962036133,Vision4Less,5,"Center Point, IA",False,2,2.0,IA
+"985 31st St, Marion, IA 52302",optometrist,Marion,23.11291473407154,42.035714,-91.578808,Sigma Eyehealth Centers,1,"Center Point, IA",False,3,1.0,IA

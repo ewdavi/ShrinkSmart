@@ -1,0 +1,19 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"901 Kelly St, Charles City, IA 50616",pharmacy,Charles City,16.83909786222118,43.06735,-92.67523,Hy-Vee Food Store,2,"Nashua, IA",False,1,4.0,IA
+"2509 White Tail Dr, Cedar Falls, IA 50613",pharmacy,Cedar Falls,45.92270180247117,42.54075,-92.47594,Walgreens,1,"Nashua, IA",False,1,1.0,IA
+"111 W Ridgeway Ave, Waterloo, IA 50701",pharmacy,Waterloo,55.690295189551826,42.4687843322754,-92.3574829101562,Walgreens,3,"Nashua, IA",False,1,3.0,IA
+"12 S Frederick Ave, Oelwein, IA 50662",pharmacy,Oelwein,59.566934273315205,42.6780166625977,-91.9136962890625,Schuchmanns'valu-Rite Pharmacy,1,"Nashua, IA",False,-1,5.0,IA
+"3910 University Ave, Waterloo, IA 50701",pharmacy,Waterloo,50.82572854729711,42.5053863525391,-92.4027633666992,Walgreens,2,"Nashua, IA",False,1,5.0,IA
+"209 E San Marnan Dr, Waterloo, IA 50702",pharmacy,Waterloo,56.94451077044575,42.4581413,-92.3520584,Nucara Pharmacy,2,"Nashua, IA",False,3,1.5,IA
+"1798 Old Stage Rd, Decorah, IA 52101",pharmacy,Decorah,74.37388114080808,43.29132,-91.75431,Walmart Pharmacy,1,"Nashua, IA",False,-1,4.0,IA
+"4151 4th St SW, Mason City, IA 50401",pharmacy,Mason City,62.44262132012881,43.14612,-93.26261,Walmart Pharmacy,1,"Nashua, IA",False,-1,5.0,IA
+"1825 E San Marnan Dr, Waterloo, IA 50702",pharmacy,Waterloo,56.68626951891044,42.467471,-92.321879,CVS Pharmacy,2,"Nashua, IA",False,-1,1.5,IA
+"525 Brandilynn Blvd, Cedar Falls, IA 50613",pharmacy,Cedar Falls,52.28249646448552,42.48637,-92.44002,Walmart Pharmacy,1,"Nashua, IA",False,-1,1.0,IA
+"875 4th St SW, Mason City, IA 50401",pharmacy,Mason City,58.836827717918496,43.14776,-93.21414,Hy-Vee Drugstore,2,"Nashua, IA",False,2,3.0,IA
+"840 S Oak St, Iowa Falls, IA 50126",pharmacy,Iowa Falls,76.99949565453137,42.50297,-93.26228,Clinic Pharmacy,1,"Nashua, IA",False,-1,3.0,IA
+"1602 Edgington Ave, Eldora, IA 50627",pharmacy,Eldora,80.06477240610151,42.3608818054199,-93.1032485961914,Medicap Pharmacy,1,"Nashua, IA",False,-1,4.0,IA
+"621 G Ave, Grundy Center, IA 50638",pharmacy,Grundy Center,68.1394120652537,42.3618393,-92.7721634,Manly Drug Store,1,"Nashua, IA",False,-1,1.0,IA
+"207 Franklin St, Waterloo, IA 50703",pharmacy,Waterloo,52.43296932378485,42.5041,-92.3369,CVS Pharmacy,1,"Nashua, IA",False,-1,4.0,IA
+"615 S Monroe Ave, Mason City, IA 50401",pharmacy,Mason City,58.26849647756348,43.145961,-93.207778,Shopko,1,"Nashua, IA",False,2,3.0,IA
+"200 Jefferson St, West Union, IA 52175",pharmacy,West Union,59.541122399144314,42.967976,-91.810828,Palmer Home Medical Supply Services,1,"Nashua, IA",False,-1,1.0,IA
+"1501 4th St SW, Mason City, IA 50401",pharmacy,Mason City,59.486915600710375,43.1482039,-93.2233516,Mercy Home Therapy Shoppe,2,"Nashua, IA",False,-1,1.0,IA

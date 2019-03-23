@@ -1,0 +1,13 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"201 S 16th St, Clarinda, IA 51632",pharmacy,Clarinda,0.37777470336754665,40.737082734704,-95.0379174202681,Hy-Vee Food Store,1,"Clarinda, IA",False,2,4.0,IA
+"714 Illinois St, Sidney, IA 51652",pharmacy,Sidney,51.673374219833704,40.7473041124881,-95.6474058410698,Penn Drug,2,"Clarinda, IA",False,1,5.0,IA
+"1400 Senate Ave, Ste 104, Red Oak, IA 51566",pharmacy,Red Oak,35.52708604735017,41.0263443,-95.2169189,Red Oak Pharmacy,1,"Clarinda, IA",False,-1,5.0,IA
+"1206 S Locust St, Glenwood, IA 51534",pharmacy,Glenwood,68.69559197922278,41.0369699,-95.74997,Medicap Pharmacy,1,"Clarinda, IA",False,-1,2.0,IA
+"1105 Main St, Hamburg, IA 51640",pharmacy,Hamburg,54.69115097205886,40.6044488400221,-95.6578094512224,Stoner Drug,3,"Clarinda, IA",False,2,3.5,IA
+"1605 N Broadway St, Red Oak, IA 51566",pharmacy,Red Oak,35.41019393894194,41.0186272,-95.2329178,Hy-Vee Pharmacy,1,"Clarinda, IA",False,-1,1.0,IA
+"401 Washington Street, Fontanelle, IA 50846",pharmacy,Fontanelle,72.88551915100071,41.28947,-94.56254,Fontanelle Drug,1,"Clarinda, IA",False,1,5.0,IA
+"3201 Manawa Centre Dr, Council Bluffs, IA 51501",pharmacy,Council Bluffs,86.99641841533679,41.22762,-95.84466,Walmart Pharmacy,1,"Clarinda, IA",False,-1,3.0,IA
+"806 Laurel St, Creston, IA 50801",pharmacy,Creston,65.3196865814161,41.0476270463133,-94.3729910421543,Walmart Supercenter,2,"Clarinda, IA",False,1,3.0,IA
+"535 E Broadway, Council Bluffs, IA 51503",pharmacy,Council Bluffs,89.42555539759032,41.26572,-95.83935,Walgreens,4,"Clarinda, IA",False,2,2.0,IA
+"301 W Bennett Ave, Council Bluffs, IA 51503",pharmacy,Council Bluffs,87.16530876283635,41.244252,-95.828105,Walgreens,3,"Clarinda, IA",False,2,2.5,IA
+"3804 Metro Dr, Council Bluffs, IA 51501",pharmacy,Council Bluffs,86.22460542649874,41.220723,-95.838976,Target,8,"Clarinda, IA",False,2,3.5,IA

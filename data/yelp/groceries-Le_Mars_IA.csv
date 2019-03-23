@@ -1,0 +1,17 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1201 12th Ave SW, Le Mars, IA 51031",groceries,Le Mars,0.48513679750851896,42.77805,-96.18434,Hy-Vee Food Stores,3,"Le Mars, IA",False,2,4.0,IA
+"18 1st Ave NE, Le Mars, IA 51031",groceries,Le Mars,1.959942397206938,42.79322,-96.1646899,Fareway Stores,4,"Le Mars, IA",False,2,4.5,IA
+"1111 Holton Dr, Le Mars, IA 51031",groceries,Le Mars,0.4708417259455028,42.7818016,-96.1876388,Walmart Supercenter,6,"Le Mars, IA",False,2,3.5,IA
+"769 Prospect St SW, Le Mars, IA 51031",groceries,Le Mars,0.6810834605845809,42.7762873,-96.1781866,Cork It,4,"Le Mars, IA",False,2,5.0,IA
+"306 S Washington St, Remsen, IA 51050",groceries,Remsen,17.34117314379775,42.813446,-95.9734879,Majeres Foodtown,1,"Le Mars, IA",False,2,5.0,IA
+"3301 Gordon Dr, Sioux City, IA 51105",groceries,Sioux City,35.78642782760764,42.4888615778355,-96.3630928085523,Hy-Vee Gordon Dr,4,"Le Mars, IA",False,2,5.0,IA
+"2020 27th St, Sioux City, IA 51104",groceries,Sioux City,33.74804460960691,42.5171699523926,-96.3841323852539,Laurence's Super Market,2,"Le Mars, IA",False,1,5.0,IA
+"255 - 16th St SW, Sioux Center, IA 51250",groceries,Sioux Center,30.930051633214806,43.0599433,-96.1806982,Walmart Supercenter,2,"Le Mars, IA",False,2,2.0,IA
+"405 Perry St, Sioux City, IA 51103",groceries,Sioux City,36.83366351893329,42.496753692627,-96.412223815918,Great Wall Oriental Food Store,3,"Le Mars, IA",False,2,4.5,IA
+"2827 Hamilton Blvd, Sioux City, IA 51104",groceries,Sioux City,34.978680405868644,42.5201119522457,-96.4192528269837,Hy-Vee,8,"Le Mars, IA",False,2,3.0,IA
+"3101 Floyd Blvd, Sioux City, IA 51108",groceries,Sioux City,31.96851285382389,42.5318832397461,-96.3743057250977,Walmart Supercenter,4,"Le Mars, IA",False,2,4.0,IA
+"2627 Pierce St, Mainstreet, Sioux City, IA 51104",groceries,Sioux City,34.61112815438459,42.5174961741306,-96.4054343919234,Hy-Vee,4,"Le Mars, IA",False,2,5.0,IA
+"623 S Marion St, Remsen, IA 51050",groceries,Remsen,17.000504429989636,42.8098100423813,-95.9769494086504,Mrs B's,1,"Le Mars, IA",False,2,4.0,IA
+"115 1st Ave NW, Sioux Center, IA 51250",groceries,Sioux Center,32.92380989962122,43.0781517,-96.1771088,Fareway Stores,1,"Le Mars, IA",False,1,4.0,IA
+"511 W 7th St, Sioux City, IA 51103",groceries,Sioux City,36.506993134172255,42.50117,-96.41394,Hong Kong Supermarket,2,"Le Mars, IA",False,2,5.0,IA
+"2600 Myrtle St, Sioux City, IA 51103",groceries,Sioux City,35.41961398508986,42.516918182373,-96.4223327636719,El Michiacano,1,"Le Mars, IA",False,-1,4.0,IA

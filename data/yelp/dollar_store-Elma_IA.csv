@@ -1,0 +1,3 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1610 17th St NW, Austin, MN 55912",dollar store,Austin,66.23225387470079,43.6669545,-92.9972151,Dollar Tree #2839,2,"Elma, IA",False,1,3.0,MN
+"65 Main Ave N, Harmony, MN 55939",dollar store,Harmony,48.8364098703152,43.55516,-92.01033,Old Ways New Ideas,1,"Elma, IA",False,-1,3.0,MN

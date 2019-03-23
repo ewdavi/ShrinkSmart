@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"605 S Kennedy Ave, Madrid, IA 50156",restaurant,Madrid,0.7591371959819195,41.87181,-93.81541,Pancho Villa,5,"Madrid, IA",False,-1,4.5,IA
+"403 Iowa Ave, Madrid, IA 50156",restaurant,Madrid,10.146396978696405,41.967144,-93.815916,Whatcha Smokin' BBQ & Brew,47,"Madrid, IA",False,2,4.0,IA
+"111 N Main St, Woodward, IA 50276",restaurant,Woodward,8.373490385124654,41.85965,-93.921243,Whistlin' Donkey Sports Bar and Grill,19,"Madrid, IA",False,2,3.0,IA
+"121 S Main St, Woodward, IA 50276",restaurant,Woodward,8.481675670528816,41.8569,-93.92159,Cayannes' Cafe & Gifts,9,"Madrid, IA",False,1,3.5,IA
+"1000 Tradition Dr, Polk City, IA 50226",restaurant,Polk City,13.865373606694751,41.7785551,-93.7185577,Copper Oak Restaurant,2,"Madrid, IA",False,-1,4.5,IA
+"105 Greene St, Slater, IA 50244",restaurant,Slater,11.224465546439136,41.88206,-93.68755,Nite Hawk Bar & Grill,14,"Madrid, IA",False,1,4.0,IA
+"117 N Kennedy Ave, Madrid, IA 50156",restaurant,Madrid,0.6216162695706842,41.8776245117188,-93.8153305053711,Casey's General Store,1,"Madrid, IA",False,-1,5.0,IA
+"120 Welch Ave, Ames, IA 50014",restaurant,Ames,21.61032726264089,42.02196,-93.64992,Wok N Roll,5,"Madrid, IA",False,-1,4.0,IA
+"214 W Van Dorn St, Polk City, IA 50226",restaurant,Polk City,14.725060728149883,41.7707967013121,-93.713915348053,Papa's Pizzeria,25,"Madrid, IA",False,2,4.0,IA
+"107 2nd St, Polk City, IA 50226",restaurant,Polk City,14.792890862962421,41.771344,-93.7127399,Reising Sun Cafe,9,"Madrid, IA",False,-1,4.5,IA
+"2400 S University Blvd, Ames, IA 50010",restaurant,Ames,20.56635060134801,42.00072,-93.63884,The Filling Station,4,"Madrid, IA",False,-1,5.0,IA
+"2400 N Loop Dr, Ames, IA 50010",restaurant,Ames,20.766348125100965,42.000704,-93.635572,Provisions Lot F,84,"Madrid, IA",False,2,4.5,IA
+"3605 Lincoln Way, Ames, IA 50014",restaurant,Ames,20.7879887517643,42.0230669395446,-93.6672321606748,Szechuan House,62,"Madrid, IA",False,2,3.5,IA
+"600 Linn St, Slater, IA 50244",restaurant,Slater,11.963275612206818,41.877554,-93.678074,B Fabulous BBQ & Catering,19,"Madrid, IA",False,1,3.5,IA
+"547 Main St, Ames, IA 50010",restaurant,Ames,23.63236076076969,42.025307743985,-93.6190831661224,Aunt Maude's,89,"Madrid, IA",False,2,4.0,IA
+"2504 Lincoln Way, Ames, IA 50014",restaurant,Ames,21.633202341859327,42.0226614041178,-93.6505584482272,Cafe Beaudelaire,98,"Madrid, IA",False,2,4.5,IA
+"223 Welch Ave, Fl 2, Ames, IA 50014",restaurant,Ames,21.45248382666221,42.02043,-93.65043,Trio Modern Asian Cuisine,27,"Madrid, IA",False,2,3.5,IA
+"210 And 510 Ave, Slater, IA 50244",restaurant,Slater,11.956165640550598,41.8780419895465,-93.6781698241447,Cole's Ice Cream,11,"Madrid, IA",False,1,2.5,IA
+"120 Hayward Ave, Ames, IA 50014",restaurant,Ames,21.526420382029933,42.021935,-93.651404,India Palace,36,"Madrid, IA",False,2,4.0,IA
+"2410 Chamberlain St, Ames, IA 50014",restaurant,Ames,21.596368023696304,42.0212585970573,-93.6490924260228,Thai Kitchen,89,"Madrid, IA",False,1,4.0,IA

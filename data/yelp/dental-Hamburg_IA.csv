@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"205 N 13th St, Nebraska City, NE 68410",dental,Nebraska City,19.063693366839523,40.6777945160866,-95.8614957332611,"Scott R O'Neil, DDS",1,"Hamburg, IA",False,-1,5.0,NE
+"9961 S 168th Ave, Omaha, NE 68136",dental,Omaha,75.6288470740934,41.160257,-96.178,Sanders Family Dental,3,"Hamburg, IA",False,-1,5.0,NE
+"3615 Summit Plaza Dr, Ste 101, Bellevue, NE 68123",dental,Bellevue,64.9388316940994,41.14018,-95.96846,Summit Plaza Dental Care,3,"Hamburg, IA",False,-1,5.0,NE
+"3811 Twin Creek Dr, Ste 103, Bellevue, NE 68123",dental,Bellevue,65.0644040972375,41.1406021118164,-95.9707107543945,Twin Creek Dental,6,"Hamburg, IA",False,-1,4.0,NE
+"11336 S 96th St, Ste 111, Papillion, NE 68046",dental,Papillion,69.09131208371338,41.1448364257812,-96.0653305053711,Walnut Creek Pediatric Dentistry,3,"Hamburg, IA",False,-1,4.5,NE
+"5050 L St, Omaha, NE 68117",dental,Omaha,73.17640963094081,41.2129135131836,-95.9933013916016,Parra Family Dentistry,3,"Hamburg, IA",False,-1,5.0,NE
+"11511 S 42nd St, Ste 101, Bellevue, NE 68123",dental,Bellevue,64.9922726363904,41.13882,-95.97526,Bellevue Pediatric Dentistry,1,"Hamburg, IA",False,-1,5.0,NE
+"8104 S 96th St, Ste 1, La Vista, NE 68128",dental,La Vista,72.34024659459106,41.179653,-96.062606,Elite Dental DDS PC,3,"Hamburg, IA",False,-1,5.0,NE
+"1004 Lincoln Rd, Ste 100, Bellevue, NE 68005",dental,Bellevue,64.09243096732631,41.15018,-95.90806,Bellevue Family Practice Dentistry,3,"Hamburg, IA",False,-1,5.0,NE
+"11336 S 96th St, Ste 121, Papillion, NE 68046",dental,Papillion,69.09131208371338,41.14483,-96.06532,Neighborhood Dental,2,"Hamburg, IA",False,-1,5.0,NE
+"9743 Q St, Omaha, NE 68127",dental,Omaha,74.83177652455478,41.204056,-96.064895,Applewood Dental Center,1,"Hamburg, IA",False,-1,5.0,NE
+"10732 Virginia Plz, La Vista, NE 68128",dental,La Vista,72.6082526125824,41.1756634,-96.0787984,"Mark C Frill, DDS - Portal Ridge Dental",1,"Hamburg, IA",False,-1,5.0,NE
+"208 N Walnut St, Glenwood, IA 51534",dental,Glenwood,49.812457575529216,41.04916,-95.74377,Weber Dental,1,"Hamburg, IA",False,-1,1.0,IA
+"7302 Giles Rd, Ste 1, La Vista, NE 68128",dental,La Vista,70.65901595655059,41.17688,-96.02557,Inspired Dental,4,"Hamburg, IA",False,-1,5.0,NE
+"1004 Lincoln Rd, Ste 102, Bellevue, NE 68005",dental,Bellevue,64.09243096732631,41.15018,-95.90806,Bellevue Oral & Maxillofacial Surgery,1,"Hamburg, IA",False,-1,5.0,NE
+"231 E Summit Dr, Maryville, MO 64468",dental,Maryville,73.53567715908075,40.32015,-94.87268,Compass Dental Group,1,"Hamburg, IA",False,-1,5.0,MO
+"12110 Port Grace Blvd, Ste 202, La Vista, NE 68128",dental,La Vista,74.58938110424916,41.18596,-96.10205,Metro West Dental Specialty Group,6,"Hamburg, IA",False,-1,5.0,NE
+"15410 Weir St, Omaha, NE 68137",dental,Omaha,78.96826488486026,41.2075050354545,-96.1561512540367,Walnut Grove Dental,1,"Hamburg, IA",False,-1,5.0,NE
+"107 Highland St, Papillion, NE 68046",dental,Papillion,68.0487676800552,41.1440477963429,-96.0422141521582,Hawley Orthodontics,1,"Hamburg, IA",False,-1,5.0,NE
+"8410 S 73rd Plz, Ste 104, Papillion, NE 68046",dental,Papillion,70.59078330797217,41.17581,-96.027,DeFord Family Dental,6,"Hamburg, IA",False,-1,5.0,NE

@@ -1,0 +1,4 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"231 E Summit Dr, Maryville, MO 64468",dental,Maryville,68.66091794766261,40.32015,-94.87268,Compass Dental Group,1,"Villisca, IA",False,-1,5.0,MO
+"208 N Walnut St, Glenwood, IA 51534",dental,Glenwood,64.88641848440743,41.04916,-95.74377,Weber Dental,1,"Villisca, IA",False,-1,1.0,IA
+"317 Main, Minden, IA 51553",dental,Minden,75.53342660630423,41.46723,-95.54173,Steg Thomas B DDS,1,"Villisca, IA",False,-1,5.0,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"10889 West Red Gates Rd, Galena, IL 61036",convenience stores,Galena,66.70965943439512,42.423987,-90.444674,Casey's General Store,5,"Hopkinton, IA",False,2,2.5,IL
+"202 N Cedar St, Monticello, IA 52310",convenience stores,Monticello,12.365828687016343,42.2395,-91.18962,Karde's Convenience Store,1,"Hopkinton, IA",False,-1,2.0,IA
+"3445 County Home Rd, Cedar Rapids, IA 52411",convenience stores,Cedar Rapids,46.07773774752424,42.09436,-91.6988499,Otter Creek Country Stores,6,"Hopkinton, IA",False,2,3.0,IA
+"105 S Main Ave, Alburnett, IA 52202",convenience stores,Alburnett,37.26714631941754,42.1480522155762,-91.6189041137695,Co-Op Convenience Store,1,"Hopkinton, IA",False,-1,5.0,IA
+"2685 Dodge St, Dubuque, IA 52003",convenience stores,Dubuque,47.88963611904165,42.49196,-90.70248,Kwik Star,5,"Hopkinton, IA",False,2,3.5,IA
+"501 7th Ave SE, Cedar Rapids, IA 52410",convenience stores,Cedar Rapids,52.93092682839134,41.97551,-91.65963,Benz Beverage Depot,11,"Hopkinton, IA",False,2,4.5,IA
+"1201 1st Ave SE, Cedar Rapids, IA 52402",convenience stores,Cedar Rapids,52.02088263112681,41.9848,-91.65733,Casey's General Store,1,"Hopkinton, IA",False,1,1.0,IA
+"380 33rd Ave SW, Cedar Rapids, IA 52404",convenience stores,Cedar Rapids,56.202467381343205,41.94536,-91.67242,Casey's General Store,4,"Hopkinton, IA",False,1,3.0,IA
+"20 Wilson Ave SW, Cedar Rapids, IA 52404",convenience stores,Cedar Rapids,54.46865028840436,41.9568099975586,-91.6585540771484,Hy-Vee Food Stores,7,"Hopkinton, IA",False,3,4.5,IA
+"975 Robins Rd, Hiawatha, IA 52233",convenience stores,Hiawatha,47.81282795256606,42.04731,-91.6724799,Hawkeye Convenience Store,1,"Hopkinton, IA",False,2,5.0,IA
+"696 Grain Ln, Center Point, IA 52213",convenience stores,Center Point,47.34429237340952,42.1726767669282,-91.7772366175361,Center Point Travel Plaza,4,"Hopkinton, IA",False,2,3.5,IA
+"620 Sinsinawa Ave, East Dubuque, IL 61025",convenience stores,East Dubuque,52.664489353004285,42.4893208,-90.6395985,Leibold Brother's Convenience Store,1,"Hopkinton, IA",False,-1,1.0,IL
+"3270 Dodge St, Dubuque, IA 52003",convenience stores,Dubuque,47.00137952378938,42.491739523315,-90.7139552440695,Hy Vee Gas & Convenience Stores,1,"Hopkinton, IA",False,1,5.0,IA
+"3915 Center Point Rd NE, Cedar Rapids, IA 52402",convenience stores,Cedar Rapids,49.612828404505265,42.0192,-91.66541,La Guanajuato,33,"Hopkinton, IA",False,1,4.5,IA
+"975 Robins Rd, Hiawatha, IA 52233",convenience stores,Hiawatha,47.81282795256606,42.04731,-91.6724799,Hawkeye Convenience Store Hiawatha,1,"Hopkinton, IA",False,-1,1.0,IA
+"814 C Ave, Vinton, IA 52349",convenience stores,Vinton,67.06715000417296,42.1631164550781,-92.0275421142578,John's Qwik Stop,1,"Hopkinton, IA",False,-1,2.0,IA
+"2020 7th Ave, Marion, IA 52302",convenience stores,Marion,44.30551352107525,42.03355,-91.59015,Casey's General Store,1,"Hopkinton, IA",False,-1,5.0,IA
+"3500 Dodge St, Dubuque, IA 52003",convenience stores,Dubuque,46.33566659177567,42.490219,-90.721855,Target,7,"Hopkinton, IA",False,2,3.5,IA
+"2320 Gateway Dr, Dubuque, IA 52003",convenience stores,Dubuque,49.09407089906527,42.4585972,-90.6725219,Kwikstop Food Mart,1,"Hopkinton, IA",False,2,5.0,IA
+"400 S Locust St, Dubuque, IA 52003",convenience stores,Dubuque,50.74973601091986,42.486929797055,-90.663160275336,Hy-Vee Food Store,17,"Hopkinton, IA",False,1,3.0,IA

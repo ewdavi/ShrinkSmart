@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"9250 University Ave, Ste 110, West Des Moines, IA 50266",optometrist,West Des Moines,66.18257114515019,41.6003351,-93.8160694,Elite Eye Care,13,"Bayard, IA",False,-1,4.5,IA
+"Perry, IA 50220",optometrist,Perry,37.26393627180794,41.83855,-94.10552,Eye Care Associates,1,"Bayard, IA",False,-1,1.0,IA
+"241 SE Destination Dr, Ste 100, Grimes, IA 50111",optometrist,Grimes,67.90310081654636,41.6871702895223,-93.7683864544922,Total Family Eye Care,3,"Bayard, IA",False,-1,4.5,IA
+"1551 Valley West Dr, Ste 242, West Des Moines, IA 50266",optometrist,West Des Moines,72.73073633484293,41.597501,-93.749512,Huseman Eye Care,10,"Bayard, IA",False,-1,4.5,IA
+"1350 E Hickman Rd, Waukee, IA 50263",optometrist,Waukee,64.56700566644669,41.614217012383,-93.8469657611114,Insight Vision,2,"Bayard, IA",False,-1,5.0,IA
+"270 W 1st St, Ste H, Grimes, IA 50111",optometrist,Grimes,65.59826554779708,41.6879959106445,-93.7968063354492,Precision Family Eyecare,1,"Bayard, IA",False,-1,5.0,IA
+"6200 Westown Pkwy, West Des Moines, IA 50266",optometrist,West Des Moines,69.4959983506308,41.5935096,-93.7944446,Wolfe Eye Clinic - Des Moines,8,"Bayard, IA",False,-1,4.5,IA
+"4 W 5th St, Atlantic, IA 50022",optometrist,Atlantic,62.46960342069343,41.4061241149902,-95.0134582519531,Family Vision Center,1,"Bayard, IA",False,-1,1.0,IA
+"1250 NW 128th St, Ste 150, Clive, IA 50325",optometrist,Clive,69.07372424237619,41.601813,-93.794989,Snodgrass Family Eyecare,1,"Bayard, IA",False,-1,5.0,IA
+"6305 Mills Civic Pkwy, Ste 3113, West Des Moines, IA 50266",optometrist,West Des Moines,70.95739777088264,41.561815,-93.795584,LasikPlus Vision Center,17,"Bayard, IA",False,-1,4.5,IA
+"7205 Mills Civic Pkwy, West Des Moines, IA 50266",optometrist,West Des Moines,70.2065451845976,41.56269,-93.8055399,"Gannon Patrick,o.d",1,"Bayard, IA",False,-1,5.0,IA
+"640 S 50th St, West Des Moines, IA 50265",optometrist,West Des Moines,72.96682044819003,41.5600331,-93.7696884,Vision Park Family Eye Care,3,"Bayard, IA",False,-1,2.5,IA
+"6630 Mills Civic Pkwy, Ste 6120, West Des Moines, IA 50266",optometrist,West Des Moines,70.71314986132333,41.561324,-93.799231,StylEyes West Des Moines,3,"Bayard, IA",False,-1,3.5,IA
+"11148 Plum Dr, Urbandale, IA 50322",optometrist,Urbandale,69.36570713370664,41.647459,-93.7668696,Target Optical,3,"Bayard, IA",False,2,2.5,IA
+"101 Jordan Creek Pkwy, Ste 12190, West Des Moines, IA 50266",optometrist,West Des Moines,69.7950890028633,41.569686,-93.805888,LensCrafters,5,"Bayard, IA",False,3,2.5,IA
+"6000 University Ave, Ste 210, West Des Moines, IA 50266",optometrist,West Des Moines,69.12307644128902,41.6002846,-93.794487,Children's Eye Clinic PC,1,"Bayard, IA",False,2,3.0,IA
+"1540 35th St, Ste B, West Des Moines, IA 50266",optometrist,West Des Moines,72.52512289580628,41.596287,-93.7529026,Whylie the Eye Care Centers,2,"Bayard, IA",False,-1,3.0,IA
+"5901 Westown Pkwy, Ste 200, West Des Moines, IA 50266",optometrist,West Des Moines,69.67493691504436,41.59605,-93.78945,Des Moines Eye Surgeons,6,"Bayard, IA",False,-1,1.5,IA
+"4100 University Ave, Ste 106, West Des Moines, IA 50266",optometrist,West Des Moines,71.94675696765755,41.599816,-93.758443,One Hour Optical,4,"Bayard, IA",False,2,3.0,IA
+"2600 University Ave, Ste 611, West Des Moines, IA 50266",optometrist,West Des Moines,73.25781999119225,41.5997434,-93.7413527,America's Best Contacts & Eyeglasses,3,"Bayard, IA",False,2,2.5,IA

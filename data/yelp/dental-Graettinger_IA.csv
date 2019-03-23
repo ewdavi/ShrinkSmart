@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"214 N 6th St, Estherville, IA 51334",dental,Estherville,19.90933747046106,43.4044380187988,-94.8363571166992,Lester Dental Clinic,1,"Graettinger, IA",False,-1,4.0,IA
+"2211 10th St, Emmetsburg, IA 50536",dental,Emmetsburg,15.074334427003986,43.1112899,-94.67981,Zimmerman Family Dental,1,"Graettinger, IA",False,-1,1.0,IA
+"326 W Central Ave, Estherville, IA 51334",dental,Estherville,20.065842146501126,43.4023857116699,-94.8511810302734,Williams Greg Dr DDS,1,"Graettinger, IA",False,-1,1.0,IA
+"1510 Hill Ave, Spirit Lake, IA 51360",dental,Spirit Lake,35.34040654974514,43.4248962402344,-95.1027908325195,"Darren Dotson, DDS",3,"Graettinger, IA",False,-1,4.5,IA
+"717 S State St, Fairmont, MN 56031",dental,Fairmont,51.83442576097345,43.6469499,-94.44619,"Thomas J Larson, DDS",1,"Graettinger, IA",False,-1,1.0,MN
+"217 W 6th St, Storm Lake, IA 50588",dental,Storm Lake,75.2865216151393,42.64563,-95.20223,Family 1st Dental of Storm Lake,1,"Graettinger, IA",False,-1,2.0,IA

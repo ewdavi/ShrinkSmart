@@ -1,0 +1,8 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1255 Theatre Dr, Ottumwa, IA 52501",dental,Ottumwa,42.184022948338054,41.0190594595852,-92.4378921613015,Aspen Dental,3,"Moulton, IA",False,-1,4.0,IA
+"106 E Washington Ave, Fairfield, IA 52556",dental,Fairfield,69.87771111088233,41.0053787,-91.9615402,Holt Family Dental Care,1,"Moulton, IA",False,-1,5.0,IA
+"1916 N Baltimore St, Kirksville, MO 63501",dental,Kirksville,53.26577645292287,40.2121551,-92.5813698,Kirksville Dental Group,2,"Moulton, IA",False,-1,5.0,MO
+"1310 Crown Dr, Kirksville, MO 63501",dental,Kirksville,54.04664645673062,40.2057342529297,-92.5734100341797,Riley Donald D DDS,1,"Moulton, IA",False,-1,5.0,MO
+"902 S 17th St, Oskaloosa, IA 52577",dental,Oskaloosa,67.16626080658821,41.288094,-92.62335,Osky Dental,2,"Moulton, IA",False,-1,3.0,IA
+"727 Pennsylvania Ave, Ottumwa, IA 52501",dental,Ottumwa,44.73211570517916,41.0275854300932,-92.3969004303217,Patritto Orthodontics,3,"Moulton, IA",False,-1,2.5,IA
+"1317 N Elm St, Ottumwa, IA 52501",dental,Ottumwa,44.732088392622984,41.02792,-92.3978,Gillespie Dennis M Dr DDS,1,"Moulton, IA",False,-1,1.0,IA

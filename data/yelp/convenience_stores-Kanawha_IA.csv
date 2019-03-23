@@ -1,0 +1,8 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"101 4th Ave W, Swea City, IA 50590",convenience stores,Swea City,65.25105015714094,43.38527,-94.30773,Looft Mike Tankwagon Service Station,1,"Kanawha, IA",False,-1,3.0,IA
+"648 Highway 3, Latimer, IA 50452",convenience stores,Latimer,38.78119536847631,42.7462768554688,-93.3930130004883,Dudley's Corner,10,"Kanawha, IA",False,1,2.5,IA
+"5253 S Shore Dr, Clear Lake, IA 50428",convenience stores,Clear Lake,36.89117064884268,43.11498,-93.41288,Market At Oakwood,1,"Kanawha, IA",False,-1,5.0,IA
+"3065 220th St, Williams, IA 50271",convenience stores,Williams,54.67305007448948,42.4718031139996,-93.5658118128777,Boondocks USA Truckstop,7,"Kanawha, IA",False,-1,2.5,IA
+"3450 4th St SW, Mason City, IA 50401",convenience stores,Mason City,50.0443083377039,43.1498,-93.25295,Target,2,"Kanawha, IA",False,2,4.0,IA
+"102 E Main St, Steamboat Rock, IA 50672",convenience stores,Steamboat Rock,83.68915192793533,42.4077033996582,-93.0618438720703,Rock Stop,1,"Kanawha, IA",False,-1,5.0,IA
+"2307 Superior St, Webster City, IA 50595",convenience stores,Webster City,53.57639824353912,42.4526924,-93.8179493,Kmart,1,"Kanawha, IA",False,1,3.0,IA

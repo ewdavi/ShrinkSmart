@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"101 Tower Rd, Ste 300, North Sioux City, SD 57049",optometrist,North Sioux City,39.941577409708934,42.50553,-96.49485,Bruening Eye Specialists,2,"Le Mars, IA",False,-1,3.0,SD
+"305 Dakota Dunes Blvd, Dakota Dunes, SD 57049",optometrist,Dakota Dunes,40.403250879817435,42.5007797,-96.4950212,Dunes Eye Consultants,3,"Le Mars, IA",False,-1,3.5,SD
+"4405 Hamilton Blvd, Sioux City, IA 51104",optometrist,Sioux City,32.12734538164901,42.5458717,-96.4082718,Jones Eye Clinic,1,"Le Mars, IA",False,-1,5.0,IA
+"3025 Hamilton Blvd, Sioux City, IA 51104",optometrist,Sioux City,34.75327519403061,42.5224730372429,-96.4180514216423,Korver David OD,1,"Le Mars, IA",False,-1,5.0,IA
+"2513 Hamilton Blvd, Sioux City, IA 51104",optometrist,Sioux City,35.21802301722327,42.5167236,-96.4173965,Exact Eye Care,2,"Le Mars, IA",False,2,2.5,IA

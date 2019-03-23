@@ -1,0 +1,8 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"201 S 16th St, Clarinda, IA 51632",pharmacy,Clarinda,27.333550590716776,40.737082734704,-95.0379174202681,Hy-Vee Food Store,1,"Bedford, IA",False,2,4.0,IA
+"1400 Senate Ave, Ste 104, Red Oak, IA 51566",pharmacy,Red Oak,57.18008897562189,41.0263443,-95.2169189,Red Oak Pharmacy,1,"Bedford, IA",False,-1,5.0,IA
+"401 Washington Street, Fontanelle, IA 50846",pharmacy,Fontanelle,70.08240467259071,41.28947,-94.56254,Fontanelle Drug,1,"Bedford, IA",False,1,5.0,IA
+"101 E Main St, Lamoni, IA 50140",pharmacy,Lamoni,67.06031590746942,40.6236353516579,-93.9331094920635,Varsity Drug,1,"Bedford, IA",False,1,4.0,IA
+"1605 N Broadway St, Red Oak, IA 51566",pharmacy,Red Oak,57.69609423480576,41.0186272,-95.2329178,Hy-Vee Pharmacy,1,"Bedford, IA",False,-1,1.0,IA
+"806 Laurel St, Creston, IA 50801",pharmacy,Creston,51.294092083852696,41.0476270463133,-94.3729910421543,Walmart Supercenter,2,"Bedford, IA",False,1,3.0,IA
+"1500 Main St, Bethany, MO 64424",pharmacy,Bethany,73.5640806139085,40.2686852216721,-94.0354304015636,Corner Drug,1,"Bedford, IA",False,-1,1.0,MO

@@ -1,0 +1,19 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"108 E Monroe St, Pleasantville, IA 50225",restaurant,Pleasantville,0.23287556958472583,41.3869705200195,-93.2688217163086,Checkerboard Restaurant,6,"Pleasantville, IA",False,2,4.0,IA
+"107 North Jefferson, Pleasantville, IA 50225",restaurant,Pleasantville,0.15082110004016408,41.3871028818415,-93.2700304400533,Frostys Pub N Grub,1,"Pleasantville, IA",False,-1,5.0,IA
+"111 E Main St, Knoxville, IA 50138",restaurant,Knoxville,16.27850423394638,41.31922,-93.09824,One Eleven Public House Kitchen + Drink,18,"Pleasantville, IA",False,2,4.5,IA
+"407 Bus Hwy 5, Pleasantville, IA 50225",restaurant,Pleasantville,0.8237976178444827,41.3842942701527,-93.2620308548212,Dairy Shoppe,3,"Pleasantville, IA",False,1,4.5,IA
+"1102 N Lincoln St, Knoxville, IA 50138",restaurant,Knoxville,15.436491521350131,41.3253152425477,-93.1054022848463,The Rib Shack,17,"Pleasantville, IA",False,1,4.0,IA
+"119 W Main St, Knoxville, IA 50138",restaurant,Knoxville,16.170738782732744,41.3189721300924,-93.099827952683,Downtown Diner,3,"Pleasantville, IA",False,2,5.0,IA
+"701 N Lincoln St, Knoxville, IA 50138",restaurant,Knoxville,15.196524472780872,41.3245793932548,-93.1091030314565,Corigliano's Pizzeria,3,"Pleasantville, IA",False,2,4.5,IA
+"1107 W Larson St, Knoxville, IA 50138",restaurant,Knoxville,14.921954387480644,41.3287162780762,-93.1099395751953,Mr C's Steakhouse,2,"Pleasantville, IA",False,-1,5.0,IA
+"110 N Roche St, Knoxville, IA 50138",restaurant,Knoxville,16.123431126222172,41.31947,-93.10017,Fast Freddy's Pizza,7,"Pleasantville, IA",False,-1,5.0,IA
+"111 E Robinson St, Knoxville, IA 50138",restaurant,Knoxville,16.328852350052287,41.3182,-93.09826,Hometown Market Meats & Deli,1,"Pleasantville, IA",False,-1,5.0,IA
+"110 E Main St, Knoxville, IA 50138",restaurant,Knoxville,16.302168188372075,41.3186874389648,-93.0982513427734,Casa Grande Mexican Restaurant,6,"Pleasantville, IA",False,2,3.5,IA
+"108 W Sherman St, Monroe, IA 50170",restaurant,Monroe,20.187427490062806,41.517034,-93.103399,Mustang Diner,7,"Pleasantville, IA",False,1,4.5,IA
+"120 Main St, Milo, IA 50166",restaurant,Milo,17.825893214185932,41.2871217645226,-93.439230658114,Houston's on Main,3,"Pleasantville, IA",False,1,4.5,IA
+"1002 W Pleasant St, Knoxville, IA 50138",restaurant,Knoxville,15.478370408288281,41.320484,-93.108146,Manny's Diner,12,"Pleasantville, IA",False,1,3.5,IA
+"114 S 2nd St, Knoxville, IA 50138",restaurant,Knoxville,16.340218115510922,41.31837,-93.09799,Hong Kong Chinese,2,"Pleasantville, IA",False,-1,3.0,IA
+"Hwy 14 N, Knoxville, IA 50138",restaurant,Knoxville,14.862736922322982,41.3288042304387,-93.1107866873108,Pizza Hut,2,"Pleasantville, IA",False,1,3.0,IA
+"213 E Main St, Knoxville, IA 50138",restaurant,Knoxville,16.36940724136609,41.3192253112793,-93.0970001220703,The Coffee Connection,4,"Pleasantville, IA",False,1,5.0,IA
+"1204 S Lincoln St, Knoxville, IA 50138",restaurant,Knoxville,15.847644240415606,41.311211,-93.110189,Dairy Queen,3,"Pleasantville, IA",False,-1,1.5,IA

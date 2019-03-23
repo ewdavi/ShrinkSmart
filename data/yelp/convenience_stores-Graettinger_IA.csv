@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1802 Hwy 71 N, Okoboji, IA 51355",convenience stores,Okoboji,34.952587076606676,43.3918991,-95.1264035,Casey's General Store,3,"Graettinger, IA",False,-1,3.5,IA
+"1001 Sanborn Ave, Okoboji, IA 51355",convenience stores,Okoboji,34.617794420783156,43.3819603,-95.1291408,Kum & Go,1,"Graettinger, IA",False,-1,4.0,IA
+"300 18th St, Spirit Lake, IA 51360",convenience stores,Spirit Lake,34.61905849585597,43.4226064,-95.0940079,Kum & Go,2,"Graettinger, IA",False,-1,2.5,IA
+"1615 Central Ave, Estherville, IA 51334",convenience stores,Estherville,19.32583263437967,43.4022598,-94.8220901,Ampride,1,"Graettinger, IA",False,-1,3.0,IA
+"228 US 71, Arnolds Park, IA 51331",convenience stores,Arnolds Park,34.190364913200646,43.3641602,-95.1352254,Boondocks,1,"Graettinger, IA",False,-1,4.0,IA
+"800 S Grand Ave, Spencer, IA 51301",convenience stores,Spencer,33.940065634892406,43.1300392150879,-95.1432952880859,Casey's Carry Out Pizza,1,"Graettinger, IA",False,-1,5.0,IA
+"18 Lincoln, Spirit Lake, IA 51360",convenience stores,Spirit Lake,35.489597538663304,43.422355,-95.107587,Dyno's Convenience Store 30,1,"Graettinger, IA",False,-1,3.0,IA
+"819 Grand Ave, Spencer, IA 51301",convenience stores,Spencer,33.677334754031065,43.14635,-95.14518,Hy-Vee Food Store,3,"Graettinger, IA",False,-1,3.5,IA
+"1401 Lake Shore Dr, Okoboji, IA 51355",convenience stores,Okoboji,34.368382346738635,43.37598,-95.13024,Okoboji Boat Works,9,"Graettinger, IA",False,2,2.5,IA
+"2600 Hwy 71, Spirit Lake, IA 51360",convenience stores,Spirit Lake,36.76171479008495,43.42458,-95.124671,Walmart,3,"Graettinger, IA",False,-1,2.5,IA

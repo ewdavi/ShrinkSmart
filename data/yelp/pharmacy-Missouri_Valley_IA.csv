@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"3001 Dodge St, Omaha, NE 68131",pharmacy,Omaha,33.73647079195557,41.2592468261719,-95.9568328857422,Walgreens,9,"Missouri Valley, IA",False,2,2.5,NE
+"310 S 15th St, Omaha, NE 68102",pharmacy,Omaha,33.76698590475644,41.2572555,-95.9358762,Alegent Creighton Health Pharmacy,2,"Missouri Valley, IA",False,3,4.5,NE
+"1882 Holly St, Blair, NE 68008",pharmacy,Blair,20.09138483247371,41.52607,-96.1414099,Walmart Pharmacy,1,"Missouri Valley, IA",False,-1,5.0,NE
+"225 N Saddle Creek Rd, Omaha, NE 68131",pharmacy,Omaha,33.86542477937758,41.2608528137207,-95.9797744750977,Walgreens,3,"Missouri Valley, IA",False,1,4.0,NE
+"2508 W Broadway, Council Bluffs, IA 51501",pharmacy,Council Bluffs,33.12284918185527,41.262405,-95.882652,Walgreens,2,"Missouri Valley, IA",False,2,3.0,IA
+"8404 N 30th St, Omaha, NE 68112",pharmacy,Omaha,25.293557078041076,41.3366089,-95.9611969,Hy-Vee,4,"Missouri Valley, IA",False,2,4.5,NE
+"611 N Hwy 6, Gretna, NE 68028",pharmacy,Gretna,54.02165008183428,41.1445696642028,-96.2393921613693,U Save Pharmacy - Gretna,2,"Missouri Valley, IA",False,-1,2.5,NE
+"620 N 114th St, Omaha, NE 68154",pharmacy,Omaha,36.39982234437125,41.2647529,-96.0923664,Kohll's Pharmacy & Homecare,4,"Missouri Valley, IA",False,2,3.0,NE
+"2605 S 171St St, Omaha, NE 68130",pharmacy,Omaha,42.93139490539581,41.234790802002,-96.1815948486328,Walgreens,4,"Missouri Valley, IA",False,1,2.0,NE
+"13155 W Center Rd, Omaha, NE 68144",pharmacy,Omaha,40.50313162217685,41.2339051,-96.1189583,Walgreens,13,"Missouri Valley, IA",False,1,3.5,NE
+"349 N 78th St, Omaha, NE 68114",pharmacy,Omaha,34.9133486768868,41.2624376267195,-96.0370878875256,Pharmacy Express,4,"Missouri Valley, IA",False,2,5.0,NE
+"17909 Burke St, Omaha, NE 68118",pharmacy,Omaha,41.48431457760407,41.2578010559082,-96.1956405639648,Walgreens,2,"Missouri Valley, IA",False,2,2.5,NE
+"1701 South Galvin Rd, Bellevue, NE 68005",pharmacy,Bellevue,46.38708188244771,41.14263,-95.90953,CVS Pharmacy,6,"Missouri Valley, IA",False,2,4.5,NE
+"6005 N 72Nd St, Omaha, NE 68134",pharmacy,Omaha,29.16901190252762,41.313289642334,-96.0231704711914,Walgreens,2,"Missouri Valley, IA",False,2,2.5,NE
+"13105 Birch Dr, Omaha, NE 68164",pharmacy,Omaha,34.83073058076884,41.2908843,-96.117624,Walmart Pharmacy,1,"Missouri Valley, IA",False,-1,5.0,NE
+"5000 Dodge St, Omaha, NE 68132",pharmacy,Omaha,34.13694705373563,41.2598149,-95.9905683,Kohll's Pharmacy & Homecare,3,"Missouri Valley, IA",False,2,3.5,NE
+"5038 Center St, Omaha, NE 68106",pharmacy,Omaha,36.13206858386025,41.241753256674,-95.9914441674117,Walgreens,6,"Missouri Valley, IA",False,2,2.5,NE
+"1919 N 90th St, Omaha, NE 68114",pharmacy,Omaha,33.76735962125003,41.27731,-96.0518,CVS Pharmacy,4,"Missouri Valley, IA",False,2,4.0,NE
+"7151 Cass St, Omaha, NE 68132",pharmacy,Omaha,34.50886109352619,41.2627563476562,-96.0231170654297,Walgreens,5,"Missouri Valley, IA",False,2,3.0,NE
+"10725 Fort St, Omaha, NE 68134",pharmacy,Omaha,31.825355521982903,41.306129,-96.080543,Walgreens,2,"Missouri Valley, IA",False,2,2.5,NE

@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"305 W Main St, Hills, IA 52235",gas stations,Hills,2.9411626290385966,41.5540851,-91.539348,Casey's General Store,3,"Hills, IA",False,1,4.5,IA
+"955 Mormon Trek Blvd, Iowa City, IA 52246",gas stations,Iowa City,8.482624226915139,41.6499404907227,-91.5745162963867,Kum & Go,1,"Hills, IA",False,1,5.0,IA
+"731 S Riverside Dr, Iowa City, IA 52246",gas stations,Iowa City,7.824464744463706,41.6506275,-91.540572,Kum & Go,4,"Hills, IA",False,1,4.0,IA
+"1310 S Gilbert St, Iowa City, IA 52240",gas stations,Iowa City,7.297900801221844,41.6461421,-91.5317249,Kum & Go,1,"Hills, IA",False,1,4.0,IA
+"2410 Mormon Trek Blvd, Iowa City, IA 52246",gas stations,Iowa City,6.869104797904574,41.6370999,-91.56555,Delimart Inc #3,3,"Hills, IA",False,4,2.5,IA
+"1059 Highway 1 W, Iowa City, IA 52246",gas stations,Iowa City,7.420096367313454,41.645304,-91.553959,Westport Touchless Autowash,7,"Hills, IA",False,-1,2.5,IA

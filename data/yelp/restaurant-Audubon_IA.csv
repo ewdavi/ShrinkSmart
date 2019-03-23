@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"320 Broadway St, Audubon, IA 50025",restaurant,Audubon,0.6026812107851809,41.7208002,-94.9325022,Adobe Mexican Restaurant,5,"Audubon, IA",False,1,3.5,IA
+"4234 Main St, Elk Horn, IA 51531",restaurant,Elk Horn,17.569323343625527,41.59327,-95.06034,The Flour Mill,23,"Audubon, IA",False,2,5.0,IA
+"4010 1st St, Hamlin, IA 50117",restaurant,Hamlin,5.913801345802529,41.6660561568077,-94.9057954593164,Darrel's Place,14,"Audubon, IA",False,1,4.0,IA
+"320 Broadway St, Audubon, IA 50025",restaurant,Audubon,0.6269706144459342,41.72133,-94.93209,Uptown Cafe,1,"Audubon, IA",False,-1,3.0,IA
+"4234 Main St, Elk Horn, IA 51531",restaurant,Elk Horn,17.58440889783787,41.5932693,-95.0600815,Thirsty Mermaids Brew Cafe,1,"Audubon, IA",False,1,5.0,IA
+"317 N Market St, Audubon, IA 50025",restaurant,Audubon,1.5527978338664634,41.728313,-94.938108,Pizza Hut,1,"Audubon, IA",False,-1,1.0,IA

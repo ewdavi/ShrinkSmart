@@ -1,0 +1,17 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"211 E Main St, Montezuma, IA 50171",restaurant,Montezuma,0.2503113924495228,41.5854892196917,-92.5249002287835,Just a Small Town Grill,6,"Montezuma, IA",False,-1,3.0,IA
+"Montezuma, IA 50171",restaurant,Montezuma,0.2964062492362082,41.585834,-92.5271086925903,Home Town Restaurant,1,"Montezuma, IA",False,1,3.0,IA
+"120 Jackson St, Brooklyn, IA 52211",restaurant,Brooklyn,17.547514444284666,41.7292595,-92.4457703,The Classic Deli and Ice Cream Shoppe,37,"Montezuma, IA",False,2,5.0,IA
+"400 N Front St, Montezuma, IA 50171",restaurant,Montezuma,0.5924936589154318,41.5884,-92.52807,Dairy King,3,"Montezuma, IA",False,-1,4.5,IA
+"199 Marina Dr, Montezuma, IA 50171",restaurant,Montezuma,4.840914357768044,41.57878,-92.58362,Lake Ponderosa Marina,2,"Montezuma, IA",False,-1,3.0,IA
+"108 E Maple St, New Sharon, IA 50207",restaurant,New Sharon,16.460155590319378,41.4685,-92.6506,Scooters Pub And Grub,2,"Montezuma, IA",False,-1,3.5,IA
+"102 E Maple St, New Sharon, IA 50207",restaurant,New Sharon,16.473119030366952,41.46861,-92.65106,Country Inn Pizza,1,"Montezuma, IA",False,-1,5.0,IA
+"2110 W St S, Grinnell, IA 50112",restaurant,Grinnell,21.258694569468027,41.702228,-92.726185,Grinnell Steakhouse,35,"Montezuma, IA",False,2,3.5,IA
+"101 West St, Grinnell, IA 50112",restaurant,Grinnell,23.588453576313597,41.7325258721912,-92.7276962623,Los Girasoles,6,"Montezuma, IA",False,2,3.5,IA
+"4175 Hwy 21, Brooklyn, IA 52211",restaurant,Brooklyn,18.49839497956201,40.65819,-73.889849,Denny's,13,"Montezuma, IA",False,2,2.5,IA
+"707 West St, Ste 300, Grinnell, IA 50112",restaurant,Grinnell,22.768509733334874,41.7214432,-92.7281645,Casa Margaritas,25,"Montezuma, IA",False,2,2.5,IA
+"613 West St S, Grinnell, IA 50112",restaurant,Grinnell,22.865016999132557,41.7226335760356,-92.7282813995818,Pizza Ranch,10,"Montezuma, IA",False,2,4.5,IA
+"707 S Main St, New Sharon, IA 50207",restaurant,New Sharon,16.56190545374803,41.468242,-92.652088,Casey's General Store,1,"Montezuma, IA",False,-1,5.0,IA
+"229 W St, Grinnell, IA 50112",restaurant,Grinnell,23.70606777544159,41.7341,-92.7276,KFC,5,"Montezuma, IA",False,-1,2.5,IA
+"709 Lang Creek Ave, Grinnell, IA 50112",restaurant,Grinnell,21.14680789970072,41.6998949,-92.7266055,Subway,2,"Montezuma, IA",False,-1,4.0,IA
+"229 West Street, Grinnell, IA 50112",restaurant,Grinnell,23.61193622552132,41.7332,-92.7272,Taco Bell,3,"Montezuma, IA",False,-1,1.0,IA

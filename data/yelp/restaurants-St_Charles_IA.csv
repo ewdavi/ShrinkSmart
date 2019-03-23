@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"201 N Warren Ave, Bevington, IA 50033",restaurants,Bevington,8.20559043607387,41.3619421698858,-93.797385777832,Hitchin Post Grill,12,"St. Charles, IA",False,1,4.0,IA
+"61 E Jefferson St, Winterset, IA 50273",restaurants,Winterset,17.865591738466655,41.3354292,-94.0133711,Northside Cafe,46,"St. Charles, IA",False,2,4.0,IA
+"123 S Main St, Osceola, IA 50213",restaurants,Osceola,28.076354580948177,41.0381840181906,-93.7661929428577,Iron Horse Neighborhood Grill,39,"St. Charles, IA",False,2,4.0,IA
+"525 Warren Ave, Osceola, IA 50213",restaurants,Osceola,28.933831610880233,41.0288899,-93.78828,Percussion the Restaurant,8,"St. Charles, IA",False,-1,5.0,IA
+"111 S 1st Ave, Winterset, IA 50273",restaurants,Winterset,17.923866784273176,41.3342671841383,-94.0144924074411,Cellar,4,"St. Charles, IA",False,-1,5.0,IA
+"3034 Clark Tower Rd, Winterset, IA 50273",restaurants,Winterset,17.02663033862489,41.2106381356716,-94.0329728275537,Podunk Center,1,"St. Charles, IA",False,-1,5.0,IA
+"113 E Salem Ave, Ste 101, Indianola, IA 50125",restaurants,Indianola,21.635924321691277,41.3601652679699,-93.567780084001,Mishmash Eats,9,"St. Charles, IA",False,1,5.0,IA
+"904 1st St, Redfield, IA 50233",restaurants,Redfield,46.58040612984045,41.5907936096191,-94.1957855224609,Harvey's Diner & Pub,16,"St. Charles, IA",False,2,5.0,IA
+"128 W Jefferson St, Osceola, IA 50213",restaurants,Osceola,28.603639930236252,41.03307,-93.76669,Mayberry's,2,"St. Charles, IA",False,-1,5.0,IA
+"411 W St, New Virginia, IA 50210",restaurants,New Virginia,13.537014233869247,41.181122,-93.7328057,The Depot Restaurant and Catering,2,"St. Charles, IA",False,2,4.5,IA
+"1610 Jeffreys Dr, Osceola, IA 50213",restaurants,Osceola,29.09037434899317,41.0277621,-93.7875027,Nana Greer's Family Table Restaurant,39,"St. Charles, IA",False,1,3.5,IA
+"115 E Salem Ave, Indianola, IA 50125",restaurants,Indianola,22.22377542967623,41.3600578308105,-93.560173034668,Crouse Cafe,20,"St. Charles, IA",False,1,4.0,IA
+"122 W Ashland Ave, Indianola, IA 50125",restaurants,Indianola,22.13961777615443,41.3614158630371,-93.5619506835938,Winns Pizza & Steak house,24,"St. Charles, IA",False,2,4.5,IA
+"302 N Douglas St, Afton, IA 50830",restaurants,Afton,43.48791921648071,41.0294418,-94.1977234,Up In Smoke Bbq,9,"St. Charles, IA",False,1,4.0,IA
+"52 E Court Ave, Winterset, IA 50273",restaurants,Winterset,17.83436108034469,41.3344556,-94.0133695,Anything Sweet & More Cafe,8,"St. Charles, IA",False,1,4.0,IA
+"1805 W 2nd Ave, Indianola, IA 50125",restaurants,Indianola,20.163583871545473,41.3560504,-93.5845227,Sports Page Bar & Grill,13,"St. Charles, IA",False,2,2.5,IA
+"917 US Hwy 169, De Soto, IA 50069",restaurants,De Soto,32.2789691429979,41.5354820074415,-94.012440714204,Ambro's Roadhouse,6,"St. Charles, IA",False,1,3.5,IA
+"224 E Hwy 92, Winterset, IA 50273",restaurants,Winterset,17.96281427139601,41.3445491,-94.0083775,The Sports Page,11,"St. Charles, IA",False,4,2.5,IA
+"107 N Buxton St, Indianola, IA 50125",restaurants,Indianola,22.062256873581816,41.3606185913086,-93.5626983642578,Brickhouse Tavern,11,"St. Charles, IA",False,2,3.0,IA
+"103 N 1st St, Winterset, IA 50273",restaurants,Winterset,17.9275072781901,41.3346219062805,-94.0133115649223,Mi Pueblito Mexican Restaurant,17,"St. Charles, IA",False,1,3.0,IA

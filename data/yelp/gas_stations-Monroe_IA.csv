@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"Highway 14 S, Monroe, IA 50170",gas stations,Monroe,0.4297751356070982,41.535244,-93.101507,Hewitt Service Center,1,"Monroe, IA",False,-1,5.0,IA
+"1200 N Walnut St, Colfax, IA 50054",gas stations,Colfax,21.977146986671336,41.686408996582,-93.2465133666992,Kum & Go,3,"Monroe, IA",False,2,3.5,IA
+"1200 W 18th St S, Newton, IA 50208",gas stations,Newton,18.949181643727965,41.6880302429199,-93.0762329101562,Casey's General Store,2,"Monroe, IA",False,2,4.0,IA
+"414 S Clark St, Pella, IA 50219",gas stations,Pella,21.51826608653272,41.3918762207031,-92.9115447998047,Casey's General Store,1,"Monroe, IA",False,-1,3.0,IA
+"4400 S 22nd Ave E, Newton, IA 50208",gas stations,Newton,20.075917328879616,41.68054,-92.99769,Love's Travel Stop,9,"Monroe, IA",False,1,3.5,IA
+"715 Lang Creek Ave, Grinnell, IA 50112",gas stations,Grinnell,37.44758914665519,41.6997756,-92.7262572,Kum & Go,5,"Monroe, IA",False,1,3.0,IA
+"1421 Ingersoll Ave, Des Moines, IA 50309",gas stations,Des Moines,44.75368792751041,41.58683,-93.63655,QuikTrip,5,"Monroe, IA",False,1,4.5,IA
+"3231 Adventureland Dr, Altoona, IA 50009",gas stations,Altoona,36.26339746463778,41.660171,-93.499532,Flying J Travel Center,14,"Monroe, IA",False,-1,3.0,IA
+"1300 Keo Way, Des Moines, IA 50309",gas stations,Des Moines,44.724737159769056,41.59392,-93.6345,Kum & Go,3,"Monroe, IA",False,1,5.0,IA
+"3603 NE Otter View Cir, Ankeny, IA 50021",gas stations,Ankeny,47.12125815692394,41.7613717,-93.5716395,Kum & Go,5,"Monroe, IA",False,2,3.5,IA
+"5970 Morning Star Ct, Pleasant Hill, IA 50317",gas stations,Pleasant Hill,33.27586884930109,41.597944,-93.492188,Kum & Go,1,"Monroe, IA",False,1,5.0,IA
+"601 S Merino Ave, Eddyville, IA 52553",gas stations,Eddyville,56.99947023348842,41.1538840324077,-92.6273371522425,BP,1,"Monroe, IA",False,1,3.0,IA
+"5901 Mills Civic Pkwy, West Des Moines, IA 50266",gas stations,West Des Moines,56.86924637999835,41.5599312,-93.7874919,Kum & Go,4,"Monroe, IA",False,2,4.5,IA
+"5308 University Ave, West Des Moines, IA 50266",gas stations,West Des Moines,56.67801175147004,41.6001296,-93.7789262,Kum & Go,3,"Monroe, IA",False,1,4.5,IA
+"1501 E Grand Ave, Des Moines, IA 50316",gas stations,Des Moines,41.46343208226391,41.5935599,-93.59464,QuikTrip,1,"Monroe, IA",False,1,4.0,IA
+"100-122 Fleur Dr, Des Moines, IA 50321",gas stations,Des Moines,44.88686433201379,41.5117952904305,-93.6454126297028,Casey's General Store,1,"Monroe, IA",False,1,3.0,IA
+"1002 W St, Grinnell, IA 50112",gas stations,Grinnell,40.29405807482217,41.7449891,-92.7272632,Kum & Go,1,"Monroe, IA",False,1,3.0,IA
+"302 2nd St NE, Bondurant, IA 50035",gas stations,Bondurant,35.78114007438721,41.703254699707,-93.4593887329102,Casey's General Store,2,"Monroe, IA",False,1,3.0,IA
+"814 S 6th St, Marshalltown, IA 50158",gas stations,Marshalltown,59.76854662161628,42.0384292602539,-92.9212265014648,Kwik Trip 607,1,"Monroe, IA",False,1,4.0,IA
+"1000 E University Ave, Des Moines, IA 50316",gas stations,Des Moines,42.52301718820737,41.600746,-93.605682,QuikTrip,4,"Monroe, IA",False,2,5.0,IA

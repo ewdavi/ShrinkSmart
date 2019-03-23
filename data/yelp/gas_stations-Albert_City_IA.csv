@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"220 E High St, Rockwell City, IA 50579",gas stations,Rockwell City,50.03849758713997,42.39906,-94.62615,Casey's General Store,1,"Albert City, IA",False,2,4.0,IA
+"1211 9th St, Lake View, IA 51450",gas stations,Lake View,52.874558333414875,42.310832,-95.040174,Sparky's One Stop-Lake View,2,"Albert City, IA",False,-1,3.0,IA
+"800 S Grand Ave, Spencer, IA 51301",gas stations,Spencer,41.86055304074099,43.1300392150879,-95.1432952880859,Casey's Carry Out Pizza,1,"Albert City, IA",False,-1,5.0,IA
+"215 S Rerick Ave, Primghar, IA 51245",gas stations,Primghar,64.61535530414923,43.086071032491,-95.6246391404494,Shortee's Pit Stop,2,"Albert City, IA",False,1,3.5,IA
+"211 Hwy 18 E, Algona, IA 50511",gas stations,Algona,67.13119387592477,43.0837050911743,-94.2347734611994,Chrome Truck Stop,3,"Albert City, IA",False,-1,3.5,IA
+"202 W Southern St, Sutherland, IA 51058",gas stations,Sutherland,49.47638910039727,42.9681664,-95.4985123,Car-Go Express/Convenience Store,2,"Albert City, IA",False,-1,3.0,IA

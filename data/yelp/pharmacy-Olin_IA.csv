@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"113 1st St NE, Mount Vernon, IA 52314",pharmacy,Mount Vernon,24.1965735036409,41.922131,-91.416167,CarePro Pharmacy - Mount Vernon,1,"Olin, IA",False,-1,3.0,IA
+"102 2Nd St, Coralville, IA 52241",pharmacy,Coralville,50.76036994246331,41.6687584,-91.5666199,Walgreens,10,"Olin, IA",False,2,2.0,IA
+"201 S Clinton St, Iowa City, IA 52240",pharmacy,Iowa City,49.78700695492857,41.659489,-91.53557,CVS Pharmacy,7,"Olin, IA",False,1,3.0,IA
+"2214 Muscatine Ave, Iowa City, IA 52240",pharmacy,Iowa City,48.88862028290239,41.6499710083008,-91.5027160644531,Walgreens,4,"Olin, IA",False,2,3.5,IA
+"701 Mormon Trek Blvd, Iowa City, IA 52246",pharmacy,Iowa City,52.555935431322276,41.6520004,-91.5754166,Hartig USA Drug,2,"Olin, IA",False,2,4.0,IA
+"310 N 1st Ave, Iowa City, IA 52245",pharmacy,Iowa City,47.44510079275851,41.6659056434211,-91.5018634434764,Hy Vee Drugstore,2,"Olin, IA",False,2,4.5,IA
+"55 John F Kennedy Rd, Dubuque, IA 52002",pharmacy,Dubuque,65.27744674022297,42.4929,-90.715915,Walgreens,5,"Olin, IA",False,2,2.5,IA
+"1525 E Kimberly Rd, Davenport, IA 52807",pharmacy,Davenport,69.30568426188445,41.55589,-90.55235,Walgreens,1,"Olin, IA",False,2,5.0,IA
+"324 Edgewood Rd Nw, Cedar Rapids, IA 52405",pharmacy,Cedar Rapids,47.583789350269484,41.975044,-91.716637,Walgreens,1,"Olin, IA",False,3,5.0,IA
+"1225 7Th Ave, Marion, IA 52302",pharmacy,Marion,37.76045812231904,42.0328369140625,-91.5963287353516,Walgreens,3,"Olin, IA",False,4,2.5,IA
+"1703 Park Ave, Muscatine, IA 52761",pharmacy,Muscatine,62.19955598761572,41.4446,-91.02977,Walgreens,4,"Olin, IA",False,2,3.5,IA
+"812 S 1st Ave, Iowa City, IA 52245",pharmacy,Iowa City,48.66808830142049,41.6514053344727,-91.5008926391602,Hy-Vee,10,"Olin, IA",False,2,3.0,IA
+"625 Pacha Pkwy, North Liberty, IA 52317",pharmacy,North Liberty,47.69176816268804,41.7451181205432,-91.6072869300842,Walgreens,4,"Olin, IA",False,-1,4.0,IA
+"129 W Locust St, Davenport, IA 52803",pharmacy,Davenport,69.41940373315329,41.53814,-90.57526,Main At Locust Pharmacy & Medical Supply,4,"Olin, IA",False,3,4.5,IA
+"555 W Cherry St, North Liberty, IA 52317",pharmacy,North Liberty,47.370397572053974,41.7489,-91.60624,CarePro Pharmacy - North Liberty,2,"Olin, IA",False,2,3.0,IA
+"2617 18th Ave, Rock Island, IL 61201",pharmacy,Rock Island,73.97971768959925,41.4932,-90.5603,CVS Pharmacy,1,"Olin, IA",False,2,5.0,IL
+"4116 Center Point Rd NE, Cedar Rapids, IA 52402",pharmacy,Cedar Rapids,43.26752960508673,42.020918,-91.664465,CVS Pharmacy,4,"Olin, IA",False,2,2.5,IA
+"111 S Franklin St, Manchester, IA 52057",pharmacy,Manchester,59.9822839918963,42.4834785461426,-91.4583282470703,Widner Drug & Gift Store,2,"Olin, IA",False,1,4.5,IA
+"225 E Le Claire Rd, Eldridge, IA 52748",pharmacy,Eldridge,60.1454508262373,41.6542816,-90.5809784,North Scott Pharmacy,1,"Olin, IA",False,-1,1.0,IA
+"505 Boyson Rd NE, Cedar Rapids, IA 52402",pharmacy,Cedar Rapids,41.45209092794825,42.04618,-91.63914,Hy-Vee Drugstore,1,"Olin, IA",False,-1,4.0,IA

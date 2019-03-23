@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"220 E High St, Rockwell City, IA 50579",gas stations,Rockwell City,30.59019481180353,42.39906,-94.62615,Casey's General Store,1,"Sac City, IA",False,2,4.0,IA
+"1211 9th St, Lake View, IA 51450",gas stations,Lake View,12.822566948668445,42.310832,-95.040174,Sparky's One Stop-Lake View,2,"Sac City, IA",False,-1,3.0,IA
+"524 1st St, Ste 1, Correctionville, IA 51016",gas stations,Correctionville,64.78615280486521,42.4819427928409,-95.7831815715701,Casey's General Store,1,"Sac City, IA",False,1,5.0,IA
+"402 E 6th St, Carroll, IA 51401",gas stations,Carroll,41.29181337296218,42.0641899108887,-94.8626403808594,Sparky's One Stop,1,"Sac City, IA",False,3,4.0,IA
+"404 11th St, Correctionville, IA 51016",gas stations,Correctionville,64.95257736904358,42.4819107055664,-95.7852935791016,Valley Stop-Shell,1,"Sac City, IA",False,1,1.0,IA
+"202 W Southern St, Sutherland, IA 51058",gas stations,Sutherland,73.31776063872482,42.9681664,-95.4985123,Car-Go Express/Convenience Store,2,"Sac City, IA",False,-1,3.0,IA

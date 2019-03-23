@@ -1,0 +1,4 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"3535 Southern Hills Dr, Sioux City, IA 51106",optometrist,Sioux City,63.9037439346725,42.44855,-96.357,Korver Eye Care,2,"Battle Creek, IA",False,-1,4.0,IA
+"4405 Hamilton Blvd, Sioux City, IA 51104",optometrist,Sioux City,71.1228847353152,42.5458717,-96.4082718,Jones Eye Clinic,1,"Battle Creek, IA",False,-1,5.0,IA
+"4600 Singing Hills Blvd, Sioux City, IA 51106",optometrist,Sioux City,62.9737822673765,42.4369773864746,-96.3484191894531,Southern Hills Eye Care,1,"Battle Creek, IA",False,-1,1.0,IA

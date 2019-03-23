@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"725 G Ave, Grundy Center, IA 50638",restaurant,Grundy Center,14.81206667651819,42.36172,-92.77376,The Landmark Bistro,10,"Wellsburg, IA",False,2,4.5,IA
+"301-399 W Main St, Steamboat Rock, IA 50672",restaurant,Steamboat Rock,11.897584021264128,42.4074249,-93.0646667,Mama's Family Diner,4,"Wellsburg, IA",False,1,4.5,IA
+"924 Parriott St, Aplington, IA 50604",restaurant,Aplington,17.046774331630537,42.584228515625,-92.8841323852539,Stinky's Bar & Grill,6,"Wellsburg, IA",False,2,4.5,IA
+"33030 G Ave, Conrad, IA 50621",restaurant,Conrad,23.45768038035906,42.2239189147949,-92.904167175293,That Place Restaurant,23,"Wellsburg, IA",False,2,4.0,IA
+"206 Berkley St, Owasa, IA 50126",restaurant,Owasa,22.97472576024569,42.4318410495594,-93.205208927393,Three Days Grille and Saloon,2,"Wellsburg, IA",False,-1,5.0,IA
+"306 W Market St, Steamboat Rock, IA 50672",restaurant,Steamboat Rock,11.856555035069354,42.4077606,-93.0652084,Schoolhouse Cafe,1,"Wellsburg, IA",False,-1,4.0,IA
+"424 Oak St, Iowa Falls, IA 50126",restaurant,Iowa Falls,29.33487802740002,42.521411,-93.26279,Red Rooster Grill,3,"Wellsburg, IA",False,-1,5.0,IA
+"1327 12th St, Eldora, IA 50627",restaurant,Eldora,16.39362629330915,42.36009,-93.0979,Eldora Pizza and Steakhouse,2,"Wellsburg, IA",False,-1,4.5,IA
+"611 G Ave, Grundy Center, IA 50638",restaurant,Grundy Center,14.968224592070717,42.3615109,-92.7717163,Tasty House Kitchen,6,"Wellsburg, IA",False,2,4.5,IA
+"206 Sycamore St, Morrison, IA 50669",restaurant,Morrison,22.857667117470687,42.3437423706055,-92.6753540039062,Morris Inn Steakhouse,6,"Wellsburg, IA",False,2,3.5,IA
+"422 2nd St, Gladbrook, IA 50635",restaurant,Gladbrook,32.44725805106667,42.18735,-92.71412,Spanky's Restaurant & Catering,9,"Wellsburg, IA",False,1,4.5,IA
+"1266 Edgington Ave, Eldora, IA 50627",restaurant,Eldora,16.43744636117889,42.3609046936035,-93.0992126464844,Ahoy Fountain,2,"Wellsburg, IA",False,1,3.5,IA
+"1202 19th St, Eldora, IA 50627",restaurant,Eldora,16.978977353019726,42.36122,-93.10711,Firehouse Saloon & Grill,4,"Wellsburg, IA",False,-1,3.5,IA
+"223 3rd St, Parkersburg, IA 50665",restaurant,Parkersburg,19.63974301235528,42.578541,-92.787517,Falcon's Nest,1,"Wellsburg, IA",False,-1,5.0,IA
+"2101 Commerce Dr, Grundy Center, IA 50638",restaurant,Grundy Center,13.567325171670543,42.36089,-92.79295,Pancho Villa,4,"Wellsburg, IA",False,-1,3.5,IA
+"502 Washington Ave, Iowa Falls, IA 50126",restaurant,Iowa Falls,29.30568570174336,42.5198974609375,-93.2631530761719,502 Grillhouse,10,"Wellsburg, IA",False,1,3.0,IA
+"701 Railroad St, Iowa Falls, IA 50126",restaurant,Iowa Falls,29.446353848356182,42.5183937065383,-93.2656243443489,River Tap,1,"Wellsburg, IA",False,-1,5.0,IA
+"422 2nd, Gladbrook, IA 50635",restaurant,Gladbrook,32.44725805106667,42.18735,-92.71412,Uptown Lounge & Supper Club,1,"Wellsburg, IA",False,-1,4.0,IA
+"648 S Oak St, Iowa Falls, IN 50126",restaurant,Iowa Falls,28.803080987830803,42.5067192201609,-93.2623443379998,Plaza Veracruz,5,"Wellsburg, IA",False,1,5.0,IN
+"201 Main St, Beaman, IA 50609",restaurant,Beaman,25.260328772144387,42.21964,-92.82382,Beaman Tap,1,"Wellsburg, IA",False,-1,5.0,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1602 Edgington Ave, Eldora, IA 50627",pharmacy,Eldora,16.727784855535983,42.3608818054199,-93.1032485961914,Medicap Pharmacy,1,"Wellsburg, IA",False,-1,4.0,IA
+"621 G Ave, Grundy Center, IA 50638",pharmacy,Grundy Center,14.91302195405626,42.3618393,-92.7721634,Manly Drug Store,1,"Wellsburg, IA",False,-1,1.0,IA
+"2719 Grand Ave, Ames, IA 50010",pharmacy,Ames,71.52249536556842,42.048965,-93.621231,Walgreens,5,"Wellsburg, IA",False,2,4.5,IA
+"2509 White Tail Dr, Cedar Falls, IA 50613",pharmacy,Cedar Falls,38.70865723669891,42.54075,-92.47594,Walgreens,1,"Wellsburg, IA",False,1,1.0,IA
+"111 W Ridgeway Ave, Waterloo, IA 50701",pharmacy,Waterloo,46.74067444073539,42.4687843322754,-92.3574829101562,Walgreens,3,"Wellsburg, IA",False,1,3.0,IA
+"840 S Oak St, Iowa Falls, IA 50126",pharmacy,Iowa Falls,28.520441738943674,42.50297,-93.26228,Clinic Pharmacy,1,"Wellsburg, IA",False,-1,3.0,IA
+"3910 University Ave, Waterloo, IA 50701",pharmacy,Waterloo,43.5758106126455,42.5053863525391,-92.4027633666992,Walgreens,2,"Wellsburg, IA",False,1,5.0,IA
+"209 E San Marnan Dr, Waterloo, IA 50702",pharmacy,Waterloo,47.09123350844746,42.4581413,-92.3520584,Nucara Pharmacy,2,"Wellsburg, IA",False,3,1.5,IA
+"621 Broad St, Story City, IA 50248",pharmacy,Story City,61.510365920143904,42.1874122619629,-93.5947952270508,Story City Pharmacy,1,"Wellsburg, IA",False,2,3.0,IA
+"303 Nicholas Dr, Marshalltown, IA 50158",pharmacy,Marshalltown,46.46512656595471,42.0152708,-92.9185267,Hy Vee Drugstore Clinic,1,"Wellsburg, IA",False,-1,5.0,IA
+"2709 Northridge Pkwy, Ames, IA 50014",pharmacy,Ames,73.16590599892011,42.04878,-93.64585,Somerset Pharmacy,2,"Wellsburg, IA",False,1,4.5,IA
+"525 Brandilynn Blvd, Cedar Falls, IA 50613",pharmacy,Cedar Falls,40.262005958693926,42.48637,-92.44002,Walmart Pharmacy,1,"Wellsburg, IA",False,-1,1.0,IA
+"1825 E San Marnan Dr, Waterloo, IA 50702",pharmacy,Waterloo,49.64602817900963,42.467471,-92.321879,CVS Pharmacy,2,"Wellsburg, IA",False,-1,1.5,IA
+"640 Lincoln Way, Ames, IA 50010",pharmacy,Ames,73.41755967094876,42.0227623,-93.6194763,Hy-Vee Food Stores - west ames,12,"Wellsburg, IA",False,2,4.0,IA
+"3800 Lincoln Way, Ames, IA 50014",pharmacy,Ames,76.63142468560662,42.022618,-93.671955,Hy-Vee,14,"Wellsburg, IA",False,2,3.5,IA
+"640 Lincoln Way, Ames, IA 50010",pharmacy,Ames,73.41755967094876,42.0227623,-93.6194763,Hy-Vee Pharmacies,1,"Wellsburg, IA",False,1,1.0,IA
+"640 Lincoln Way, Ames, IA 50010",pharmacy,Ames,73.41755967094876,42.0227623,-93.6194763,Hy-Vee Food & Drug Stores,1,"Wellsburg, IA",False,1,5.0,IA
+"2420 Lincoln Way, Ames, IA 50014",pharmacy,Ames,75.19075019209498,42.0225123272262,-93.6499174343586,CVS Pharmacy,1,"Wellsburg, IA",False,-1,4.0,IA
+"207 Franklin St, Waterloo, IA 50703",pharmacy,Waterloo,48.88489473167085,42.5041,-92.3369,CVS Pharmacy,1,"Wellsburg, IA",False,-1,4.0,IA
+"500 Main St, Ames, IA 50010",pharmacy,Ames,72.8918395250271,42.0248933074596,-93.6169910430908,Hy-Vee Drugstore,3,"Wellsburg, IA",False,3,4.0,IA

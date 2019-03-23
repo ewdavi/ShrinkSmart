@@ -1,0 +1,9 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1400 Senate Ave, Ste 104, Red Oak, IA 51566",pharmacy,Red Oak,22.02781496314752,41.0263443,-95.2169189,Red Oak Pharmacy,1,"Villisca, IA",False,-1,5.0,IA
+"1605 N Broadway St, Red Oak, IA 51566",pharmacy,Red Oak,23.00398375697804,41.0186272,-95.2329178,Hy-Vee Pharmacy,1,"Villisca, IA",False,-1,1.0,IA
+"201 S 16th St, Clarinda, IA 51632",pharmacy,Clarinda,22.052120508727153,40.737082734704,-95.0379174202681,Hy-Vee Food Store,1,"Villisca, IA",False,2,4.0,IA
+"714 Illinois St, Sidney, IA 51652",pharmacy,Sidney,59.26316650314648,40.7473041124881,-95.6474058410698,Penn Drug,2,"Villisca, IA",False,1,5.0,IA
+"1206 S Locust St, Glenwood, IA 51534",pharmacy,Glenwood,65.1518906283446,41.0369699,-95.74997,Medicap Pharmacy,1,"Villisca, IA",False,-1,2.0,IA
+"401 Washington Street, Fontanelle, IA 50846",pharmacy,Fontanelle,53.324187349579084,41.28947,-94.56254,Fontanelle Drug,1,"Villisca, IA",False,1,5.0,IA
+"1105 Main St, Hamburg, IA 51640",pharmacy,Hamburg,67.24715567668609,40.6044488400221,-95.6578094512224,Stoner Drug,3,"Villisca, IA",False,2,3.5,IA
+"806 Laurel St, Creston, IA 50801",pharmacy,Creston,53.076735067622785,41.0476270463133,-94.3729910421543,Walmart Supercenter,2,"Villisca, IA",False,1,3.0,IA

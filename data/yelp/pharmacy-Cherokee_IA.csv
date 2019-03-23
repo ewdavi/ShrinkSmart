@@ -1,0 +1,14 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1111 N 2nd, Cherokee, IA 51012",pharmacy,Cherokee,2.1993492035094975,42.763485,-95.553152,Kmart,2,"Cherokee, IA",False,-1,1.0,IA
+"111 S Washington St, Remsen, IA 51050",pharmacy,Remsen,35.09694531536653,42.8155251,-95.9731064,Remsen Pharmacy,1,"Cherokee, IA",False,2,5.0,IA
+"104 Albany Ave NE, Orange City, IA 51041",pharmacy,Orange City,50.355076984082366,43.0068359375,-96.05712890625,Dutch Mill Pharmacy,1,"Cherokee, IA",False,-1,2.0,IA
+"1012 Okoboji Ave, Milford, IA 51351",pharmacy,Milford,72.55087998955841,43.3253021240234,-95.1495513916016,Hy-Vee,1,"Cherokee, IA",False,-1,3.0,IA
+"1831 Lake Ave, Storm Lake, IA 50588",pharmacy,Storm Lake,30.50420351429265,42.664124,-95.1970284,Walmart Supercenter,1,"Cherokee, IA",False,2,1.0,IA
+"1111 Holton Dr, Le Mars, IA 51031",pharmacy,Le Mars,51.87821905884143,42.7818016,-96.1876388,Walmart Supercenter,7,"Cherokee, IA",False,2,3.5,IA
+"4010 Morningside Ave, Sioux City, IA 51106",pharmacy,Sioux City,72.27916073855367,42.470285,-96.355506,Drilling Pharmacy,1,"Cherokee, IA",False,-1,5.0,IA
+"105 Gaul Dr, Ste A, Sergeant Bluff, IA 51054",pharmacy,Sergeant Bluff,75.683092455837,42.3993005,-96.3514466,Sergeant Bluff Pharmacy,2,"Cherokee, IA",False,-1,5.0,IA
+"4650 Morningside Ave, Sioux City, IA 51106",pharmacy,Sioux City,71.67891767635133,42.4698295593262,-96.3471221923828,Walgreens,2,"Cherokee, IA",False,2,5.0,IA
+"4500 Sergeant Rd, Southern Hills Mall, Sioux City, IA 51106",pharmacy,Sioux City,72.91019809628595,42.4458744,-96.3477866,Hy-Vee,7,"Cherokee, IA",False,2,3.0,IA
+"3301 Gordon Dr, Sioux City, IA 51105",pharmacy,Sioux City,71.99615038846903,42.4888615778355,-96.3630928085523,Hy-Vee Gordon Dr,4,"Cherokee, IA",False,2,4.0,IA
+"3400 Singing Hills Blvd, Sioux City, IA 51106",pharmacy,Sioux City,74.68146711939055,42.4335878,-96.3634497,Walmart Supercenter,1,"Cherokee, IA",False,-1,1.0,IA
+"4450 Sergeant Rd, Sioux City, IA 51106",pharmacy,Sioux City,72.81944004737944,42.4477151781321,-96.3479565829039,Hy-Vee Gas,2,"Cherokee, IA",False,-1,4.0,IA

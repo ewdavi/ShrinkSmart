@@ -1,0 +1,8 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"714 S Grand Ave, Spencer, IA 51301",optometrist,Spencer,62.00943769798395,43.1308555603027,-95.1434097290039,Exact Eye Care,2,"Hospers, IA",False,-1,2.5,IA
+"101 Tower Rd, Ste 300, North Sioux City, SD 57049",optometrist,North Sioux City,79.60970806274428,42.50553,-96.49485,Bruening Eye Specialists,2,"Hospers, IA",False,-1,3.0,SD
+"4405 Hamilton Blvd, Sioux City, IA 51104",optometrist,Sioux City,71.87810724273008,42.5458717,-96.4082718,Jones Eye Clinic,1,"Hospers, IA",False,-1,5.0,IA
+"305 Dakota Dunes Blvd, Dakota Dunes, SD 57049",optometrist,Dakota Dunes,80.08575812778103,42.5007797,-96.4950212,Dunes Eye Consultants,3,"Hospers, IA",False,-1,3.5,SD
+"310 S Splitrock Blvd, Brandon, SD 57005",optometrist,Brandon,78.77834928569766,43.591383,-96.570817,Jones Family Eyecare,1,"Hospers, IA",False,-1,4.0,SD
+"3025 Hamilton Blvd, Sioux City, IA 51104",optometrist,Sioux City,74.50400169266065,42.5224730372429,-96.4180514216423,Korver David OD,1,"Hospers, IA",False,-1,5.0,IA
+"2513 Hamilton Blvd, Sioux City, IA 51104",optometrist,Sioux City,74.96440348156283,42.5167236,-96.4173965,Exact Eye Care,2,"Hospers, IA",False,2,2.5,IA

@@ -1,0 +1,5 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"3005 Wiley Blvd SW, Ste 120, Cedar Rapids, IA 52404",dollar store,Cedar Rapids,82.92511359713217,41.9482799,-91.72037,Dollar Tree,2,"Fruitland, IA",False,1,3.5,IA
+"2298 540th St SW, Kalona, IA 52247",dollar store,Kalona,52.905068296286046,41.5422287,-91.7072678,Central Discount,2,"Fruitland, IA",False,1,5.0,IA
+"921 16th Ave, East Moline, IL 61244",dollar store,East Moline,60.27797278773127,41.51549,-90.43957,Family Dollar,1,"Fruitland, IA",False,-1,5.0,IL
+"118 E Main St, Aledo, IL 61231",dollar store,Aledo,35.66320131284967,41.201358795166,-90.7483367919922,Dollar General Stores,1,"Fruitland, IA",False,-1,4.0,IL

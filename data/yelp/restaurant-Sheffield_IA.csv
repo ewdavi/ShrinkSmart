@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"116 E Gilman St, Sheffield, IA 50475",restaurant,Sheffield,0.20708507540405677,42.8934327569818,-93.2138064728222,West Fork Wharf,9,"Sheffield, IA",False,2,4.5,IA
+"309 W Gilman St, Sheffield, IA 50475",restaurant,Sheffield,0.3382176841980119,42.8929826133216,-93.2158314809203,Block 10 at 1921 City Hall,1,"Sheffield, IA",False,-1,5.0,IA
+"117 1st St NW, Hampton, IA 50441",restaurant,Hampton,16.570277812897487,42.7433050843135,-93.2083608582616,Rustic Brew,11,"Sheffield, IA",False,1,5.0,IA
+"115 N Akir St, Latimer, IA 50452",restaurant,Latimer,19.16012451651951,42.7640037536621,-93.3686218261719,Mother's Place,2,"Sheffield, IA",False,1,5.0,IA
+"409 Chicksaw St, Rudd, IA 50471",restaurant,Rudd,36.25959033802525,43.127962,-92.903551,Tanks Bar & Grill,2,"Sheffield, IA",False,1,5.0,IA
+"1401 N Federal Ave, Mason City, IA 50401",restaurant,Mason City,30.336732160998203,43.16501,-93.20075,The Blue Heron Bar & Grill,12,"Sheffield, IA",False,-1,5.0,IA
+"10 S Federal Ave, Mason City, IA 50401",restaurant,Mason City,28.825199520976756,43.1514167785645,-93.2015075683594,The Quarry Restaurant,64,"Sheffield, IA",False,2,4.0,IA
+"209 1st St NW, Hampton, IA 50441",restaurant,Hampton,16.48959561253464,42.7438545,-93.2085451,La Frontara Restaurant,1,"Sheffield, IA",False,-1,5.0,IA
+"416 Indianhead Dr, Mason City, IA 50401",restaurant,Mason City,28.760130487309016,43.1479416,-93.2655895,Pasta Bella,59,"Sheffield, IA",False,2,4.5,IA
+"1212 N 24th St, Clear Lake, IA 50428",restaurant,Clear Lake,30.65197402822217,43.1462804051726,-93.358362067095,El Loro,3,"Sheffield, IA",False,-1,4.5,IA
+"235 State St, Garner, IA 50438",restaurant,Garner,39.43505649570569,43.1030358374119,-93.6021959781647,Mat's Place,1,"Sheffield, IA",False,1,4.0,IA
+"304 16th St NW, Mason City, IA 50401",restaurant,Mason City,30.676216156510396,43.16825,-93.2066399,Northwestern Steakhouse,67,"Sheffield, IA",False,2,4.5,IA
+"15 W State St, Mason City, IA 50401",restaurant,Mason City,28.852963274503296,43.1516821585589,-93.201773352921,1910 Grille,34,"Sheffield, IA",False,3,4.5,IA
+"1608 3rd St NE, Belmond, IA 50421",restaurant,Belmond,31.57222435369056,42.8483792692257,-93.5945379460022,Cattleman's at the Club,2,"Sheffield, IA",False,-1,4.5,IA
+"629 6th St SW, Mason City, IA 50401",restaurant,Mason City,28.227144073778614,43.1461571,-93.2113886,Pete's Kitchen,12,"Sheffield, IA",False,2,5.0,IA
+"215 River Ave S, Belmond, IA 50421",restaurant,Belmond,33.40787615766427,42.84442,-93.61669,Belmond Drive-In,6,"Sheffield, IA",False,1,4.5,IA
+"310 Main Ave, Clear Lake, IA 50428",restaurant,Clear Lake,30.44112296171085,43.1362606217732,-93.3816810231033,Starboard Market,44,"Sheffield, IA",False,2,4.5,IA
+"444 N Shore Dr, Clear Lake, IA 50428",restaurant,Clear Lake,31.04005007699682,43.1395079759161,-93.3891363814473,Bread & Buttercrème,18,"Sheffield, IA",False,2,4.5,IA
+"702 E Lake St, Ventura, IA 50482",restaurant,Ventura,33.18590550877088,43.12661,-93.46457,Rick's Muskie Lounge,14,"Sheffield, IA",False,2,4.0,IA
+"3064 Hwy 14, Greene, IA 50636",restaurant,Greene,32.869023068901555,42.91282,-92.80931,Freeze Frame Bowl,2,"Sheffield, IA",False,-1,5.0,IA

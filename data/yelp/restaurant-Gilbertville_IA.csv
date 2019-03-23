@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"100 Plaza Dr, Elk Run Heights, IA 50707",restaurant,Elk Run Heights,5.450297686955504,42.46068,-92.24625,Junies Restaurant,13,"Gilbertville, IA",False,1,3.0,IA
+"777 Isle Of Capri Blvd, Waterloo, IA 50701",restaurant,Waterloo,8.53301670650245,42.44726,-92.30952,The Brew Brothers,3,"Gilbertville, IA",False,-1,3.5,IA
+"777 Isle Of Capri Blvd, Waterloo, IA 50701",restaurant,Waterloo,8.444177232411896,42.4469240345564,-92.3092161433144,Otis & Henry's Steakhouse,7,"Gilbertville, IA",False,2,3.5,IA
+"3904 Lafayette Rd, Evansdale, IA 50707",restaurant,Evansdale,8.311479240426369,42.4747,-92.2809599,The Other Place,9,"Gilbertville, IA",False,2,3.5,IA
+"777 Isle Of Capri Blvd, Waterloo, IA 50701",restaurant,Waterloo,8.557955991075012,42.448542,-92.309818,Farmer's Pick Buffet,10,"Gilbertville, IA",False,2,2.5,IA
+"3601 Lafayette Rd, Evansdale, IA 50707",restaurant,Evansdale,8.922983499166332,42.4774551391602,-92.2877502441406,Casey's Carry Out Pizza,3,"Gilbertville, IA",False,-1,4.5,IA
+"112 S Evans Rd, Evansdale, IA 50707",restaurant,Evansdale,8.889076027873879,42.4768448,-92.288041,China King,4,"Gilbertville, IA",False,-1,4.0,IA
+"6636 Laporte Rd, Washburn, IA 50706",restaurant,Washburn,5.042224989453847,42.41827,-92.27508,The Moose Lodge #328,1,"Gilbertville, IA",False,-1,2.0,IA
+"5202 Lafayette Rd, Evansdale, IA 50707",restaurant,Evansdale,8.90145985567248,42.4694289561332,-92.2976537292278,Casey's General Store,1,"Gilbertville, IA",False,-1,4.0,IA
+"350 Evansdale Dr, Evansdale, IA 50707",restaurant,Evansdale,5.407921971094246,42.4591587,-92.2503663,McDonald's,8,"Gilbertville, IA",False,1,1.5,IA

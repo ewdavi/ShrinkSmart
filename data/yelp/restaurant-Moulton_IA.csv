@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"107 E Van Buren St, Centerville, IA 52544",restaurant,Centerville,17.521108293275432,40.7351,-92.8738,George & Nick's Pizza & Steakhouse,12,"Moulton, IA",False,1,4.0,IA
+"207 N 13th St, Centerville, IA 52544",restaurant,Centerville,17.41743238909425,40.7337608,-92.8732529,The Garage,10,"Moulton, IA",False,-1,3.5,IA
+"314 W State St, Centerville, IA 52544",restaurant,Centerville,17.666351038908115,40.7339057922363,-92.8761367797852,One of A Kind,2,"Moulton, IA",False,-1,5.0,IA
+"Hwy 136 & 63, Lancaster, MO 63548",restaurant,Lancaster,22.134935133307756,40.52232,-92.53771,Buddy's Place,5,"Moulton, IA",False,1,4.5,MO
+"102 W Main St, Drakesville, IA 52552",restaurant,Drakesville,20.69818250929603,40.79899,-92.48193,Ray's Longbranch,3,"Moulton, IA",False,-1,4.5,IA
+"103 E Jefferson St, Bloomfield, IA 52537",restaurant,Bloomfield,23.265991091738048,40.75198,-92.41467,The Farmer's Table,1,"Moulton, IA",False,-1,5.0,IA
+"400 Main St, Rathbun, IA 52544",restaurant,Rathbun,21.97305720269421,40.80083,-92.8876,Tackle This,2,"Moulton, IA",False,-1,5.0,IA
+"21264 Hwy J5T, Moravia, IA 52571",restaurant,Moravia,25.203455556386725,40.8589643622081,-92.8690166119818,Captain's Landing,2,"Moulton, IA",False,-1,4.5,IA
+"217 N 13th St, Centerville, IA 52544",restaurant,Centerville,17.433563208871487,40.7339987097886,-92.8731844441803,Lucile's Steaks & Spirits,16,"Moulton, IA",False,2,4.0,IA
+"203 Weaver Rd, Bloomfield, IA 52537",restaurant,Bloomfield,23.203786809857533,40.7518248421882,-92.4155426592927,North End Grill,1,"Moulton, IA",False,1,5.0,IA
+"905 S Washington St, Bloomfield, IA 52537",restaurant,Bloomfield,23.135469286880895,40.7404861450195,-92.4118499755859,Southfork Motel & Grill,13,"Moulton, IA",False,1,4.0,IA
+"115 N 18th St, Centerville, IA 52544",restaurant,Centerville,16.948041579312648,40.733086,-92.867516,Fiesta Mexican Restaurant,1,"Moulton, IA",False,-1,5.0,IA
+"102 S Madison St, Bloomfield, IA 52537",restaurant,Bloomfield,23.2203200812241,40.75146,-92.41544,Rancho Centinela Mexican Restaurant,7,"Moulton, IA",False,2,4.5,IA
+"102 W Main St, Exline, IA 52555",restaurant,Exline,14.499443182599588,40.6482009887695,-92.8413162231445,White Oak Grill,2,"Moulton, IA",False,-1,5.0,IA
+"109 S Washington St, Bloomfield, IA 52537",restaurant,Bloomfield,23.349758155421256,40.751,-92.41326,Slicks,1,"Moulton, IA",False,-1,5.0,IA
+"717 N 18th St, Centerville, IA 52544",restaurant,Centerville,17.171475052018305,40.7393608093262,-92.8674926757812,Rainbow Chinese Restaurant,3,"Moulton, IA",False,-1,4.0,IA
+"217 E State St, Centerville, IA 52544",restaurant,Centerville,17.397721477788416,40.7343216,-92.8726196,Ching Dow Restaurant,3,"Moulton, IA",False,-1,4.5,IA
+"111 E Van Buren St, Centerville, IA 52544",restaurant,Centerville,17.510283897208154,40.7351,-92.87367,North Side Diner,1,"Moulton, IA",False,-1,5.0,IA
+"107 South Madison, Bloomfield, IA 52537",restaurant,Bloomfield,23.206068133106026,40.7510953146859,-92.4151942835143,CJ's Family Restaurant,3,"Moulton, IA",False,-1,3.5,IA
+"21646 Marlin Pl, Moravia, IA 52571",restaurant,Moravia,24.72331559280977,40.8480491638184,-92.8763809204102,Louie's Bistro & Grill,5,"Moulton, IA",False,2,2.5,IA

@@ -1,0 +1,5 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"3005 Wiley Blvd SW, Ste 120, Cedar Rapids, IA 52404",dollar store,Cedar Rapids,85.53957565242108,41.9482799,-91.72037,Dollar Tree,2,"Epworth, IA",False,1,3.5,IA
+"1961 Blairs Ferry Rd NE, Cedar Rapids, IA 52402",dollar store,Cedar Rapids,76.0007548689818,42.034736939265,-91.6663018986583,Dollar Tree,2,"Epworth, IA",False,1,3.5,IA
+"108 Main St, Savanna, IL 61074",dollar store,Savanna,75.0072290341126,42.0917357504368,-90.1552945375443,Dollar General Store,1,"Epworth, IA",False,1,5.0,IL
+"37885 Selch Rd, Ste 105, Prairie Du Chien, WI 53821",dollar store,Prairie Du Chien,65.30442426230431,43.01884,-91.11054,Dollar Tree Stores,1,"Epworth, IA",False,-1,4.0,WI

@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"623 S Marion St, Remsen, IA 51050",convenience stores,Remsen,17.030657206820504,42.8097801,-95.9768219,Mrs B's,1,"Le Mars, IA",False,2,4.0,IA
+"306 S Washington St, Remsen, IA 51050",convenience stores,Remsen,17.34117314379775,42.813446,-95.9734879,Majeres Foodtown,2,"Le Mars, IA",False,2,5.0,IA
+"111 S Washington St, Remsen, IA 51050",convenience stores,Remsen,17.450569371846367,42.8155251,-95.9731064,Remsen Pharmacy,1,"Le Mars, IA",False,2,5.0,IA
+"923 W 7th St, Sioux City, IA 51103",convenience stores,Sioux City,36.47178716998614,42.5035577,-96.4188589,Sams Mini Mart,1,"Le Mars, IA",False,1,5.0,IA
+"4016 Indian Hills Dr, Sioux City, IA 51108",convenience stores,Sioux City,31.17655326333111,42.5386505126953,-96.3722610473633,Fareway Stores,1,"Le Mars, IA",False,-1,4.0,IA

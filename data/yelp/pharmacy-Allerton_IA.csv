@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"101 E Main St, Lamoni, IA 50140",pharmacy,Lamoni,48.55792821717131,40.6236353516579,-93.9331094920635,Varsity Drug,1,"Allerton, IA",False,1,4.0,IA
+"1611 S Baltimore St, Ste B, Kirksville, MO 63501",pharmacy,Kirksville,89.29828922772896,40.1817652,-92.5718251,Kirksville Pharmacy,1,"Allerton, IA",False,-1,4.0,MO
+"205 N E St, Oskaloosa, IA 52577",pharmacy,Oskaloosa,88.92120040466217,41.2966243,-92.6517631,Mahaska Drug,2,"Allerton, IA",False,2,5.0,IA
+"901 W Pleasant St, Knoxville, IA 50138",pharmacy,Knoxville,71.61924695406984,41.3210258483887,-93.1078720092773,Medicap Pharmacy,1,"Allerton, IA",False,-1,5.0,IA
+"301 Highway 34 W, Albia, IA 52531",pharmacy,Albia,57.9957812501177,41.016779,-92.812985,Hy-Vee,1,"Allerton, IA",False,-1,5.0,IA
+"1500 Main St, Bethany, MO 64424",pharmacy,Bethany,74.59806797658669,40.2686852216721,-94.0354304015636,Corner Drug,1,"Allerton, IA",False,-1,1.0,MO

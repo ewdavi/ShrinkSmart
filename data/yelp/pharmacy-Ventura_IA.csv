@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"4151 4th St SW, Mason City, IA 50401",pharmacy,Mason City,16.525670052695606,43.14612,-93.26261,Walmart Pharmacy,1,"Ventura, IA",False,-1,5.0,IA
+"875 4th St SW, Mason City, IA 50401",pharmacy,Mason City,20.456203129972955,43.14776,-93.21414,Hy-Vee Drugstore,2,"Ventura, IA",False,2,3.0,IA
+"600 2nd Ave N, Clear Lake, IA 50428",pharmacy,Clear Lake,6.970742951957298,43.13936,-93.38041,Journey Health Shop,2,"Ventura, IA",False,-1,5.0,IA
+"616 E US Highway 9, Forest City, IA 50436",pharmacy,Forest City,20.37103089817682,43.269191,-93.627415,Shopko Hometown,1,"Ventura, IA",False,-1,2.0,IA
+"703 E Main St, Albert Lea, MN 56007",pharmacy,Albert Lea,58.61122479023703,43.6509857177734,-93.3613433837891,Walgreens,1,"Ventura, IA",False,1,5.0,MN
+"615 S Monroe Ave, Mason City, IA 50401",pharmacy,Mason City,20.94792744610111,43.145961,-93.207778,Shopko,1,"Ventura, IA",False,2,3.0,IA
+"1501 4th St SW, Mason City, IA 50401",pharmacy,Mason City,19.71869114012135,43.1482039,-93.2233516,Mercy Home Therapy Shoppe,2,"Ventura, IA",False,-1,1.0,IA
+"1307 18th Ave NW, Austin, MN 55912",pharmacy,Austin,72.54994801572641,43.6832202522757,-92.9905900492085,Hy-Vee,1,"Ventura, IA",False,-1,5.0,MN
+"901 Kelly St, Charles City, IA 50616",pharmacy,Charles City,64.53703675542079,43.06735,-92.67523,Hy-Vee Food Store,2,"Ventura, IA",False,1,4.0,IA
+"1209 18th Ave NW, Austin, MN 55912",pharmacy,Austin,72.54921121588369,43.6846848,-92.988678,Shopko,1,"Ventura, IA",False,-1,4.0,MN

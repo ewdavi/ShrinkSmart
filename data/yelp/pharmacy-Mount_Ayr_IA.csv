@@ -1,0 +1,8 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"101 E Main St, Lamoni, IA 50140",pharmacy,Lamoni,27.718680802048723,40.6236353516579,-93.9331094920635,Varsity Drug,1,"Mount Ayr, IA",False,1,4.0,IA
+"120 N 1st Ave, Winterset, IA 50273",pharmacy,Winterset,71.62008965832915,41.33513,-94.01465,Montross Pharmacy,8,"Mount Ayr, IA",False,1,4.0,IA
+"806 Laurel St, Creston, IA 50801",pharmacy,Creston,38.77215230470346,41.0476270463133,-94.3729910421543,Walmart Supercenter,2,"Mount Ayr, IA",False,1,3.0,IA
+"120 N 1st Ave, Winterset, IA 50273",pharmacy,Winterset,71.62008965832915,41.33513,-94.01465,Montross Health Mart Pharmacy,1,"Mount Ayr, IA",False,-1,5.0,IA
+"401 Washington Street, Fontanelle, IA 50846",pharmacy,Fontanelle,69.49447139695567,41.28947,-94.56254,Fontanelle Drug,1,"Mount Ayr, IA",False,1,5.0,IA
+"1500 Main St, Bethany, MO 64424",pharmacy,Bethany,52.420869686530395,40.2686852216721,-94.0354304015636,Corner Drug,1,"Mount Ayr, IA",False,-1,1.0,MO
+"201 S 16th St, Clarinda, IA 51632",pharmacy,Clarinda,67.32469371973421,40.737082734704,-95.0379174202681,Hy-Vee Food Store,1,"Mount Ayr, IA",False,2,4.0,IA

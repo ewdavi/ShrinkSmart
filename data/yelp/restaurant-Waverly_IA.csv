@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"215 East Bremer, Waverly, IA 50677",restaurant,Waverly,0.1472244453870748,42.726121,-92.467369,Wild Carrot,18,"Waverly, IA",False,2,4.0,IA
+"102 W Bremer Ave, Waverly, IA 50677",restaurant,Waverly,0.4412595829805424,42.72608,-92.47221,WaterStreet Grill,11,"Waverly, IA",False,2,4.5,IA
+"1016 W Bremer Ave, Waverly, IA 50677",restaurant,Waverly,1.3811392930602284,42.72598,-92.4839,The Dirty Dog American Bar & Grill,12,"Waverly, IA",False,2,4.0,IA
+"117 E Bremer Ave, Waverly, IA 50677",restaurant,Waverly,0.1790380483640664,42.7261123657227,-92.4684753417969,East Bremer Diner,31,"Waverly, IA",False,2,3.5,IA
+"118 10th St, Waverly, IA 50677",restaurant,Waverly,1.3634213899410932,42.7252973,-92.4831875,Sasquatch Jacks,6,"Waverly, IA",False,-1,4.0,IA
+"1810 4th St SW, Ste 104, Waverly, IA 50677",restaurant,Waverly,2.179338251247057,42.7064541086079,-92.4764674901962,Tapatio Mexican Grill,9,"Waverly, IA",False,1,4.0,IA
+"116 E Bremer Ave, Waverly, IA 50677",restaurant,Waverly,0.14518647691722314,42.7254753112793,-92.468505859375,Asian Garden Restaurant,9,"Waverly, IA",False,2,4.5,IA
+"404 W Bremer Ave, Waverly, IA 50677",restaurant,Waverly,0.7402703488964741,42.72587,-92.476,Dell's Diner,15,"Waverly, IA",False,1,4.0,IA
+"821 W Bremer Ave, Waverly, IA 50677",restaurant,Waverly,1.1869710159778089,42.7253684997559,-92.481559753418,The Other Place,20,"Waverly, IA",False,2,3.5,IA
+"3401 E Bremer Ave, Waverly, IA 50677",restaurant,Waverly,3.101099991874021,42.715175104659,-92.4314938858151,El Sol Mexican Restaurant,6,"Waverly, IA",False,1,4.0,IA
+"311 E Bremer Ave, Waverly, IA 50677",restaurant,Waverly,0.1610073033907295,42.7259449,-92.4665744,Sub City,14,"Waverly, IA",False,1,4.5,IA
+"2500 4th St SW, Waverly, IA 50677",restaurant,Waverly,2.6140692519379893,42.702322,-92.476444,Applebee's Grill + Bar,9,"Waverly, IA",False,1,2.5,IA
+"19 Eagle Ridge Dr, Waverly, IA 50677",restaurant,Waverly,2.386593974576787,42.7034111022949,-92.4709930419922,Prairie Links Golf & Event Center,2,"Waverly, IA",False,-1,4.0,IA
+"1002 W Bremer Ave, Waverly, IA 50677",restaurant,Waverly,1.324748667571383,42.7259902954102,-92.483283996582,Knight Hawk Restaurant and Lounge,2,"Waverly, IA",False,1,2.0,IA
+"2020 W Bremer Ave, Waverly, IA 50677",restaurant,Waverly,2.388729792855519,42.7259330749512,-92.4962005615234,Pizza Ranch,4,"Waverly, IA",False,-1,4.0,IA
+"309 W Bremer Ave, Waverly, IA 50677",restaurant,Waverly,0.6422079426410331,42.72542,-92.47493,East China,3,"Waverly, IA",False,1,3.5,IA
+"1203 W Bremer Ave, Waverly, IA 50677",restaurant,Waverly,1.504188174228815,42.72556,-92.48538,Pizza Hut,1,"Waverly, IA",False,-1,5.0,IA
+"620 W Bremer, Ste B, Waverly, IA 50677",restaurant,Waverly,0.9820738606060075,42.726219,-92.478986,Jimmy John's,1,"Waverly, IA",False,1,4.0,IA
+"1233 4th St SW, Waverly, IA 50677",restaurant,Waverly,1.4376683630150167,42.713294,-92.4753351,China Buffet,5,"Waverly, IA",False,1,3.0,IA
+"617 W Bremer Ave, Waverly, IA 50677",restaurant,Waverly,0.9412958035354166,42.7254524728337,-92.4786074683288,Taco John's,1,"Waverly, IA",False,-1,2.0,IA

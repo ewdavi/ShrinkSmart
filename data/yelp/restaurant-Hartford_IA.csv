@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"111 E Main St, Knoxville, IA 50138",restaurant,Knoxville,29.843900878747167,41.31922,-93.09824,One Eleven Public House Kitchen + Drink,18,"Hartford, IA",False,2,4.5,IA
+"107 North Jefferson, Pleasantville, IA 50225",restaurant,Pleasantville,13.701493221778655,41.3871028818415,-93.2700304400533,Frostys Pub N Grub,1,"Hartford, IA",False,-1,5.0,IA
+"108 E Monroe St, Pleasantville, IA 50225",restaurant,Pleasantville,13.791425300965221,41.3869705200195,-93.2688217163086,Checkerboard Restaurant,6,"Hartford, IA",False,2,4.0,IA
+"130 S 1st St, Carlisle, IA 50047",restaurant,Carlisle,8.140482502108464,41.49787,-93.48631,Johnny & Mike's Pizza,3,"Hartford, IA",False,2,4.5,IA
+"201 N Warren Ave, Bevington, IA 50033",restaurant,Bevington,34.49228935191272,41.3619421698858,-93.797385777832,Hitchin Post Grill,16,"Hartford, IA",False,1,4.0,IA
+"122 W Ashland Ave, Indianola, IA 50125",restaurant,Indianola,16.9978378578343,41.3614158630371,-93.5619506835938,Winns Pizza & Steak house,25,"Hartford, IA",False,2,4.5,IA
+"120 Main St, Milo, IA 50166",restaurant,Milo,19.24934306890341,41.2871217645226,-93.439230658114,Houston's on Main,3,"Hartford, IA",False,1,4.5,IA
+"107 N Buxton St, Indianola, IA 50125",restaurant,Indianola,17.091151665091665,41.3606185913086,-93.5626983642578,Brickhouse Tavern,14,"Hartford, IA",False,2,3.0,IA
+"20 Vine St, Carlisle, IA 50047",restaurant,Carlisle,8.071724626372793,41.4974748033039,-93.4857259927761,Cal's,7,"Hartford, IA",False,1,3.5,IA
+"118 N Howard St, Indianola, IA 50125",restaurant,Indianola,16.943458643959552,41.3609657287598,-93.5605697631836,Pete's Pizza,11,"Hartford, IA",False,2,4.5,IA
+"1107 W Larson St, Knoxville, IA 50138",restaurant,Knoxville,28.4514448273447,41.3287162780762,-93.1099395751953,Mr C's Steakhouse,2,"Hartford, IA",False,-1,5.0,IA
+"112 E Jefferson St, Prairie City, IA 50228",restaurant,Prairie City,20.971246929965343,41.5984835089848,-93.2357891977068,Happy Endings,1,"Hartford, IA",False,-1,4.0,IA
+"1301 Locust St, Ste C, Des Moines, IA 50309",restaurant,Des Moines,23.767788364213125,41.5852584838867,-93.6339569091797,Proof,214,"Hartford, IA",False,3,4.5,IA
+"12 E Front St, Colfax, IA 50054",restaurant,Colfax,27.867674489204223,41.6787415,-93.24543,Georgioz,23,"Hartford, IA",False,2,4.5,IA
+"407 Bus Hwy 5, Pleasantville, IA 50225",restaurant,Pleasantville,14.427219571930328,41.3842942701527,-93.2620308548212,Dairy Shoppe,3,"Hartford, IA",False,1,4.5,IA
+"108 W Sherman St, Monroe, IA 50170",restaurant,Monroe,25.895973333834608,41.517034,-93.103399,Mustang Diner,7,"Hartford, IA",False,1,4.5,IA
+"3906 E Main St, Knoxville, IA 50138",restaurant,Knoxville,32.63033245524523,41.3139899,-93.06352,Wackos,7,"Hartford, IA",False,1,4.0,IA
+"701 N Lincoln St, Knoxville, IA 50138",restaurant,Knoxville,28.756080664004287,41.3245793932548,-93.1091030314565,Corigliano's Pizzeria,3,"Hartford, IA",False,2,4.5,IA
+"113 E Salem Ave, Ste 101, Indianola, IA 50125",restaurant,Indianola,17.463380552511644,41.3601652679699,-93.567780084001,Mishmash Eats,12,"Hartford, IA",False,1,4.5,IA
+"200 S Jefferson Way, Indianola, IA 50125",restaurant,Indianola,16.928265702703587,41.35896,-93.55793,Las Flores Mexican Restaurant,3,"Hartford, IA",False,-1,4.5,IA

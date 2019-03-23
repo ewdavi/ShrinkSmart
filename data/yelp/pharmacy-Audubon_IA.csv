@@ -1,0 +1,5 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"317 Main St, Manning, IA 51455",pharmacy,Manning,24.18714575313554,41.9084,-95.06523,Manning Pharmacy,3,"Audubon, IA",False,-1,3.5,IA
+"400 N Elm St, Jefferson, IA 50129",pharmacy,Jefferson,56.57651633318042,42.0185279846191,-94.377815246582,Medicap Pharmacy,1,"Audubon, IA",False,2,5.0,IA
+"106 W Washington St, Ste 1, Jefferson, IA 50129",pharmacy,Jefferson,56.75716011717589,42.018784,-94.375459,Hy-Vee Food Store,3,"Audubon, IA",False,-1,5.0,IA
+"401 Washington Street, Fontanelle, IA 50846",pharmacy,Fontanelle,56.41705093856081,41.28947,-94.56254,Fontanelle Drug,1,"Audubon, IA",False,1,5.0,IA

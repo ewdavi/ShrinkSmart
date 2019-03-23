@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"224 E Main St, Ottumwa, IA 52501",optometrist,Ottumwa,34.50575163932377,41.0164558,-92.4108879,"Mark A Altfillisch, OD - The Optical Shoppe",1,"University Park, IA",False,2,5.0,IA
+"935 Broad St, Grinnell, IA 50112",optometrist,Grinnell,51.78878084440787,41.74446,-92.72449,Jensen Optometrists,3,"University Park, IA",False,-1,2.5,IA
+"6584 165th St, Albia, IA 52531",optometrist,Albia,31.016940051048977,41.0447696596384,-92.7966447919607,Adler William R OD,1,"University Park, IA",False,-1,1.0,IA
+"224 E Main St, Marengo, IA 52301",optometrist,Marengo,73.11586498561867,41.8005,-92.0681,Iowa Valley Eye Care,1,"University Park, IA",False,-1,5.0,IA
+"125 N 13th St, Centerville, IA 52544",optometrist,Centerville,65.15188934436955,40.733363,-92.873098,International Eyecare Center,1,"University Park, IA",False,-1,5.0,IA

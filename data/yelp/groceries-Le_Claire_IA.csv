@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1301 Eagle Ridge Rd, Le Claire, IA 52753",groceries,Le Claire,1.1515577001629222,41.5880012512207,-90.3599090576172,Slagle's Food Pride,3,"Le Claire, IA",False,2,3.0,IA
+"212 S Cody Rd, Le Claire, IA 52753",groceries,Le Claire,2.0704081067200693,41.59585,-90.34404,Mother Hubbard's No 15,1,"Le Claire, IA",False,-1,5.0,IA
+"2900 Devils Glen Rd, Bettendorf, IA 52722",groceries,Bettendorf,10.730559242005292,41.553581405994,-90.48464644248,Hy-Vee,13,"Le Claire, IA",False,2,4.5,IA
+"2130 E Kimberly Rd, Davenport, IA 52807",groceries,Davenport,15.36634396433075,41.5584032699441,-90.5465966463089,Fresh Thyme Farmers Market,11,"Le Claire, IA",False,2,4.5,IA
+"755 15th Ave, East Moline, IL 61244",groceries,East Moline,10.822309891287992,41.51616,-90.44319,Supermercado Monarca,8,"Le Claire, IA",False,2,4.0,IL
+"1609 17th St, Moline, IL 61265",groceries,Moline,16.293133161392095,41.4964408874512,-90.5122680664062,Jerrys Market Ltd,12,"Le Claire, IA",False,2,5.0,IL
+"3800 Belmont Rd, Bettendorf, IA 52722",groceries,Bettendorf,10.216260057590695,41.5569152832031,-90.480339050293,Fareway Stores,3,"Le Claire, IA",False,2,4.5,IA
+"135 2nd St, Silvis, IL 61282",groceries,Silvis,10.303871313463382,41.513512507081,-90.4246406257153,Tony's Grocery,1,"Le Claire, IA",False,1,5.0,IL
+"750 42nd Avenue Dr, Moline, IL 61265",groceries,Moline,19.334751753246895,41.46888,-90.52666,Hy-Vee,16,"Le Claire, IA",False,2,4.0,IL
+"621 State Ave, Hampton, IL 61256",groceries,Hampton,5.438449765769331,41.55699,-90.409,Porter's Village,3,"Le Claire, IA",False,2,4.5,IL
+"1815 E Kimberly Rd, Davenport, IA 52807",groceries,Davenport,15.604817114705268,41.5567349642515,-90.5495906621218,Hy-Vee Food Stores,9,"Le Claire, IA",False,2,3.0,IA
+"4064 E 53rd St, Davenport, IA 52807",groceries,Davenport,12.234234591512227,41.5766906738281,-90.513786315918,Hy-Vee Food Stores,6,"Le Claire, IA",False,2,3.5,IA
+"802 15th Ave, East Moline, IL 61244",groceries,East Moline,10.84242234105696,41.5156555175781,-90.4424667358398,Hoang-Anh Foods,1,"Le Claire, IA",False,-1,4.0,IL
+"2930 18th Ave, Rock Island, IL 61201",groceries,Rock Island,19.633365915612625,41.4924278259277,-90.5592651367188,Hy-Vee Food Stores,9,"Le Claire, IA",False,2,4.0,IL
+"4512 Ave Of The Cities, Ste 102, Moline, IL 61265",groceries,Moline,14.625240776820482,41.4896,-90.47179,Everything Healthy,1,"Le Claire, IA",False,2,5.0,IL
+"858 Middle Rd, Bettendorf, IA 52722",groceries,Bettendorf,14.12895028025858,41.53998,-90.52124,Schnucks - Bettendorf,8,"Le Claire, IA",False,3,3.0,IA
+"1510 6th Ave, Moline, IL 61265",groceries,Moline,15.843320187607183,41.5051307678223,-90.5152816772461,La Primavera,15,"Le Claire, IA",False,1,4.5,IL
+"2001 5th St, Silvis, IL 61282",groceries,Silvis,12.579491974426553,41.48951,-90.42192,Hy-Vee Food Stores,6,"Le Claire, IA",False,1,2.5,IL
+"4064 E 53rd St, Davenport, IA 52807",groceries,Davenport,12.232127169616614,41.5766906738281,-90.513786315918,Hy Vee Foods,3,"Le Claire, IA",False,2,4.0,IA
+"3805 East 53rd St, Davenport, IA 52807",groceries,Davenport,12.724599168316615,41.5743099,-90.5191399,Natural Grocers,3,"Le Claire, IA",False,2,2.5,IA

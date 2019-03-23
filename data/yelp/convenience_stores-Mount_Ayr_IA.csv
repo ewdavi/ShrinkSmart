@@ -1,0 +1,5 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2091 E Main St, Lamoni, IA 50140",convenience stores,Lamoni,30.6480664696211,40.6230485,-93.8965803,Kum & Go,5,"Mount Ayr, IA",False,-1,3.5,IA
+"207 S Front St, Humeston, IA 50123",convenience stores,Humeston,64.32387254970956,40.857606,-93.4995549,Casey's General Store,1,"Mount Ayr, IA",False,-1,5.0,IA
+"304 E US Highway 136, Albany, MO 64402",convenience stores,Albany,51.34167352970496,40.2571705059353,-94.3294542637543,Shoat's,1,"Mount Ayr, IA",False,-1,5.0,MO
+"1706 Jeffreys Dr, Osceola, IA 50213",convenience stores,Osceola,51.466874508916575,41.02729,-93.789346,Casey's General Store,3,"Mount Ayr, IA",False,1,3.0,IA

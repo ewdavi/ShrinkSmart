@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"101 4th Ave W, Swea City, IA 50590",convenience stores,Swea City,12.691221052757156,43.38527,-94.30773,Looft Mike Tankwagon Service Station,1,"Bancroft, IA",False,-1,3.0,IA
+"1615 Central Ave, Estherville, IA 51334",convenience stores,Estherville,50.55267163212435,43.4022598,-94.8220901,Ampride,1,"Bancroft, IA",False,-1,3.0,IA
+"5253 S Shore Dr, Clear Lake, IA 50428",convenience stores,Clear Lake,68.0624363203555,43.11498,-93.41288,Market At Oakwood,1,"Bancroft, IA",False,-1,5.0,IA
+"350 Grant St, Jackson, MN 56143",convenience stores,Jackson,72.30584664494694,43.6224449,-94.9890961,Casey's General Store,2,"Bancroft, IA",False,-1,1.0,MN
+"10 Broadway S, Trimont, MN 56176",convenience stores,Trimont,65.83828291470566,43.7617,-94.71448,Casey's General Store,3,"Bancroft, IA",False,-1,2.5,MN

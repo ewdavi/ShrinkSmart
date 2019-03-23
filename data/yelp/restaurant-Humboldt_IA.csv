@@ -1,0 +1,12 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"600 13th St S, Humboldt, IA 50548",restaurant,Humboldt,0.9156839865406516,42.71436,-94.22712,Miller's Landing,9,"Humboldt, IA",False,2,4.5,IA
+"716 Sumner Ave, Humboldt, IA 50548",restaurant,Humboldt,0.7752612896432316,42.72091,-94.21829,Gordys at Rustix,4,"Humboldt, IA",False,-1,4.0,IA
+"607 13th St N, Humboldt, IA 50548",restaurant,Humboldt,0.6467664637767186,42.7283369416151,-94.226684,Pasquale's Italian Restaurants,14,"Humboldt, IA",False,2,4.5,IA
+"507 Main St, Dakota City, IA 50529",restaurant,Dakota City,2.2270064289781133,42.721559,-94.200104,Vinny's Bbq,5,"Humboldt, IA",False,2,4.0,IA
+"504 13th St N, Humboldt, IA 50548",restaurant,Humboldt,0.47462853723707354,42.7266073,-94.2270249,Backseat Diner Restaurant,5,"Humboldt, IA",False,2,3.5,IA
+"612 Sumner Ave, Humboldt, IA 50548",restaurant,Humboldt,0.896475932716523,42.7209702,-94.216713,Chang's Chinese Kitchen,2,"Humboldt, IA",False,-1,3.5,IA
+"607 Summers Ave, Humboldt, IA 50548",restaurant,Humboldt,1.0065366524820496,42.72119,-94.21653,El sol de México Mexican Bar & Grill,1,"Humboldt, IA",False,-1,4.0,IA
+"600 13th St SW, Humboldt, IA 50548",restaurant,Humboldt,0.9171043238081531,42.7130042,-94.2269069,Family Table,1,"Humboldt, IA",False,-1,3.0,IA
+"1007 13th St N, Humboldt, IA 50548",restaurant,Humboldt,1.1067153774176806,42.7325287,-94.2269974,Dairy Queen,6,"Humboldt, IA",False,1,2.0,IA
+"1203 10th Ave N, Humboldt, IA 50548",restaurant,Humboldt,1.0849413574188282,42.7318802,-94.2264023,Hardee's,3,"Humboldt, IA",False,1,2.5,IA
+"1010 13th St N, Humboldt, IA 50548",restaurant,Humboldt,1.2160327998545828,42.733476,-94.227382,Caribbean Coffeehouse,2,"Humboldt, IA",False,-1,3.5,IA

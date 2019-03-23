@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1200 N Walnut St, Colfax, IA 50054",gas stations,Colfax,28.589358278998557,41.686408996582,-93.2465133666992,Kum & Go,3,"Hartford, IA",False,2,3.5,IA
+"1421 Ingersoll Ave, Des Moines, IA 50309",gas stations,Des Moines,24.05373731408216,41.58683,-93.63655,QuikTrip,5,"Hartford, IA",False,1,4.5,IA
+"1300 Keo Way, Des Moines, IA 50309",gas stations,Des Moines,24.39497855676324,41.59392,-93.6345,Kum & Go,3,"Hartford, IA",False,1,5.0,IA
+"100-122 Fleur Dr, Des Moines, IA 50321",gas stations,Des Moines,20.955710365499172,41.5117952904305,-93.6454126297028,Casey's General Store,1,"Hartford, IA",False,1,3.0,IA
+"5970 Morning Star Ct, Pleasant Hill, IA 50317",gas stations,Pleasant Hill,17.17494503046631,41.597944,-93.492188,Kum & Go,1,"Hartford, IA",False,1,5.0,IA
+"1501 E Grand Ave, Des Moines, IA 50316",gas stations,Des Moines,21.85664138827763,41.5935599,-93.59464,QuikTrip,1,"Hartford, IA",False,1,4.0,IA
+"5901 Mills Civic Pkwy, West Des Moines, IA 50266",gas stations,West Des Moines,33.85896671914379,41.5599312,-93.7874919,Kum & Go,4,"Hartford, IA",False,2,4.5,IA
+"3231 Adventureland Dr, Altoona, IA 50009",gas stations,Altoona,23.814126959486643,41.660171,-93.499532,Flying J Travel Center,14,"Hartford, IA",False,-1,3.0,IA
+"1200 W 18th St S, Newton, IA 50208",gas stations,Newton,37.38011685213399,41.6880302429199,-93.0762329101562,Casey's General Store,2,"Hartford, IA",False,2,4.0,IA
+"5308 University Ave, West Des Moines, IA 50266",gas stations,West Des Moines,34.95543752900021,41.6001296,-93.7789262,Kum & Go,3,"Hartford, IA",False,1,4.5,IA
+"1000 E University Ave, Des Moines, IA 50316",gas stations,Des Moines,23.07323922936499,41.600746,-93.605682,QuikTrip,4,"Hartford, IA",False,2,5.0,IA
+"4021 Fleur Dr, Des Moines, IA 50321",gas stations,Des Moines,22.36994986852631,41.547992,-93.64462,QuikTrip,7,"Hartford, IA",False,2,3.5,IA
+"3603 NE Otter View Cir, Ankeny, IA 50021",gas stations,Ankeny,36.46863476780854,41.7613717,-93.5716395,Kum & Go,5,"Hartford, IA",False,2,3.5,IA
+"7265 Vista Dr, West Des Moines, IA 50266",gas stations,West Des Moines,36.626410775922906,41.5892921,-93.8078504,Kum & Go,5,"Hartford, IA",False,2,3.0,IA
+"2945 E University Ave, Des Moines, IA 50317",gas stations,Des Moines,20.366986020138782,41.6001,-93.55904,QuikTrip,7,"Hartford, IA",False,1,5.0,IA
+"3941 SE 14th St, Des Moines, IA 50320",gas stations,Des Moines,18.893588799452417,41.548698425293,-93.5961990356445,QuikTrip,1,"Hartford, IA",False,2,5.0,IA
+"5830 SE 14th St, Des Moines, IA 50315",gas stations,Des Moines,18.130023987659634,41.5332069,-93.5975208,Kum & Go,3,"Hartford, IA",False,2,4.5,IA
+"849 Army Post Rd, Des Moines, IA 50315",gas stations,Des Moines,19.905857727733277,41.526717,-93.625031,QuikTrip,2,"Hartford, IA",False,2,4.0,IA
+"302 2nd St NE, Bondurant, IA 50035",gas stations,Bondurant,27.634707941663695,41.703254699707,-93.4593887329102,Casey's General Store,2,"Hartford, IA",False,1,3.0,IA
+"11925 University Ave, Clive, IA 50325",gas stations,Clive,35.2235107192984,41.60107,-93.78218,QuikTrip,7,"Hartford, IA",False,2,4.0,IA

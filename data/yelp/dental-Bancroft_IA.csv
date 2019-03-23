@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"132 E J St, Forest City Family Dentistry, Forest City, IA 50436",dental,Forest City,46.9577833306012,43.2634605,-93.6379154,"Laila Buck, DDS",2,"Bancroft, IA",False,-1,5.0,IA
+"214 N 6th St, Estherville, IA 51334",dental,Estherville,51.63981643701468,43.4044380187988,-94.8363571166992,Lester Dental Clinic,1,"Bancroft, IA",False,-1,4.0,IA
+"2211 10th St, Emmetsburg, IA 50536",dental,Emmetsburg,42.608114455201886,43.1112899,-94.67981,Zimmerman Family Dental,1,"Bancroft, IA",False,-1,1.0,IA
+"717 S State St, Fairmont, MN 56031",dental,Fairmont,43.5190596364017,43.6469499,-94.44619,"Thomas J Larson, DDS",1,"Bancroft, IA",False,-1,1.0,MN
+"326 W Central Ave, Estherville, IA 51334",dental,Estherville,52.59067818538608,43.4023857116699,-94.8511810302734,Williams Greg Dr DDS,1,"Bancroft, IA",False,-1,1.0,IA

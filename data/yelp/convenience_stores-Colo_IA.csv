@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"114 Brick St SE, Bondurant, IA 50035",convenience stores,Bondurant,38.00043937791888,41.68988,-93.46195,Brick Street Market and Cafe,20,"Colo, IA",False,2,4.5,IA
+"606 Walnut St, Des Moines, IA 50309",convenience stores,Des Moines,54.08106113362839,41.58544,-93.62502,Walgreens,6,"Colo, IA",False,2,3.5,IA
+"203 Welch Ave, Ames, IA 50010",convenience stores,Ames,27.480612661734536,42.0213737487793,-93.6502227783203,Kum & Go,2,"Colo, IA",False,-1,3.0,IA
+"420 Court Ave, Des Moines, IA 50309",convenience stores,Des Moines,54.04829608017855,41.58461387468,-93.6220497511848,Hy-Vee,42,"Colo, IA",False,2,3.5,IA
+"555 Walnut St, Ste 210, Des Moines, IA 50309",convenience stores,Des Moines,53.971212411271416,41.58631,-93.6241,Market Place,1,"Colo, IA",False,-1,4.0,IA
+"1111 Ia Hwy 175, Ellsworth, IA 50075",convenience stores,Ellsworth,38.98044521870571,42.30969,-93.57294,Kum & Go,2,"Colo, IA",False,1,3.5,IA
+"515 E Grand Ave, Des Moines, IA 50309",convenience stores,Des Moines,53.02020060101719,41.590633301355,-93.610725445747,New Oriental Food Store,17,"Colo, IA",False,1,4.5,IA
+"1010 SE Oralabor Rd, Ankeny, IA 50021",convenience stores,Ankeny,40.92090370726579,41.70355,-93.58201,Casey's General Store,8,"Colo, IA",False,2,4.0,IA
+"2719 Grand Ave, Ames, IA 50010",convenience stores,Ames,25.361124382551445,42.048965,-93.621231,Walgreens,5,"Colo, IA",False,2,4.5,IA
+"4510 Mortenson Rd, Ames, IA 50014",convenience stores,Ames,29.90508831759968,42.0116892428016,-93.6796534422765,Kum & Go,1,"Colo, IA",False,1,5.0,IA
+"413 Northwestern Ave, Ames, IA 50010",convenience stores,Ames,25.124909960478476,42.02516,-93.6216,Wheatsfield Cooperative,34,"Colo, IA",False,2,4.0,IA
+"1825 N Ankeny Blvd, Ankeny, IA 50021",convenience stores,Ankeny,37.83775980573893,41.74677,-93.59948,Kum & Go,5,"Colo, IA",False,2,3.5,IA
+"1421 Ingersoll Ave, Des Moines, IA 50309",convenience stores,Des Moines,54.40383069346473,41.58683,-93.63655,QuikTrip,5,"Colo, IA",False,1,4.5,IA
+"16250 N Ave, Holland, IA 50642",convenience stores,Holland,67.61272827468217,42.465845,-92.767354,The Mill,5,"Colo, IA",False,1,4.0,IA
+"802 E 1st St, Ankeny, IA 50021",convenience stores,Ankeny,38.44143327450256,41.7323379516602,-93.5863265991211,QuikTrip,8,"Colo, IA",False,1,4.5,IA
+"500 Main St, Ames, IA 50010",convenience stores,Ames,24.75104541829352,42.0248933074596,-93.6169910430908,Hy-Vee Drugstore,3,"Colo, IA",False,3,4.0,IA
+"3505 N Ankeny Blvd, Ankeny, IA 50023",convenience stores,Ankeny,36.64515247149222,41.76039,-93.59963,Casey's Gen Str 2164,4,"Colo, IA",False,2,3.5,IA
+"11925 University Ave, Clive, IA 50325",convenience stores,Clive,59.972659200751146,41.60107,-93.78218,QuikTrip,7,"Colo, IA",False,2,4.0,IA
+"2702 Se Delaware Ave, Ankeny, IA 50021",convenience stores,Ankeny,41.05418614401501,41.70214,-93.58189,Walgreens,3,"Colo, IA",False,2,5.0,IA
+"519 Lincoln Hwy, Nevada, IA 50201",convenience stores,Nevada,11.247988164332794,42.022964,-93.453269,Good & Quick,2,"Colo, IA",False,1,2.0,IA

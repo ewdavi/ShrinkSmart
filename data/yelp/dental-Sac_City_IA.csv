@@ -1,0 +1,4 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"217 W 6th St, Storm Lake, IA 50588",dental,Storm Lake,30.001835062836314,42.64563,-95.20223,Family 1st Dental of Storm Lake,1,"Sac City, IA",False,-1,2.0,IA
+"818 N Main St, Carroll, IA 51401",dental,Carroll,40.779373298683794,42.0683555603027,-94.8654556274414,Fangman Nicholas J Dr DDS,1,"Sac City, IA",False,-1,5.0,IA
+"804 Kenyon Rd, Ste120, Fort Dodge, IA 50501",dental,Fort Dodge,66.4345457037967,42.4923174859341,-94.1936002671719,Fort Dodge Oral Surgery,2,"Sac City, IA",False,-1,5.0,IA

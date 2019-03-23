@@ -1,0 +1,948 @@
+,City,Counties,Population,Area (sqmi),Area (sqkm),WikiURL,Lat,Lon
+2,"Ackley, IA",Hardin Franklin,1589,2.45,6.3,"http://en.wikipedia.org/wiki/Ackley,_Iowa",42.55250,-93.05389
+3,"Ackworth, IA",Warren,83,0.29,0.75,"http://en.wikipedia.org/wiki/Ackworth,_Iowa",41.36500,-93.47333
+4,"Adair, IA",Adair Guthrie,781,2.2,5.7,"http://en.wikipedia.org/wiki/Adair,_Iowa",41.50000,-94.64389
+5,"Adel, IA",Dallas,3682,3.27,8.5,"http://en.wikipedia.org/wiki/Adel,_Iowa",41.61667,-94.02167
+6,"Afton, IA",Union,845,0.99,2.6,"http://en.wikipedia.org/wiki/Afton,_Iowa",41.02806,-94.19694
+7,"Agency, IA",Wapello,638,0.65,1.7,"http://en.wikipedia.org/wiki/Agency,_Iowa",40.99556,-92.30750
+8,"Ainsworth, IA",Washington,567,0.38,0.98,"http://en.wikipedia.org/wiki/Ainsworth,_Iowa",41.29028,-91.55417
+9,"Akron, IA",Plymouth,1486,1.22,3.2,"http://en.wikipedia.org/wiki/Akron,_Iowa",42.82528,-96.55667
+10,"Albert City, IA",Buena Vista,699,0.54,1.4,"http://en.wikipedia.org/wiki/Albert_City,_Iowa",42.78083,-94.95056
+11,"Albia, IA",Monroe,3766,3.19,8.3,"http://en.wikipedia.org/wiki/Albia,_Iowa",41.02667,-92.80528
+12,"Albion, IA",Marshall,505,0.6,1.6,"http://en.wikipedia.org/wiki/Albion,_Iowa",42.11167,-92.99083
+13,"Alburnett, IA",Linn,673,0.82,2.1,"http://en.wikipedia.org/wiki/Alburnett,_Iowa",42.14917,-91.61972
+14,"Alden, IA",Hardin,787,1.71,4.4,"http://en.wikipedia.org/wiki/Alden,_Iowa",42.51694,-93.37583
+15,"Alexander, IA",Franklin,175,4.27,11.1,"http://en.wikipedia.org/wiki/Alexander,_Iowa",42.80472,-93.47750
+16,"Algona, IA",Kossuth,5560,4.49,11.6,"http://en.wikipedia.org/wiki/Algona,_Iowa",43.07028,-94.22972
+17,"Alleman, IA",Polk,432,2.7,7.0,"http://en.wikipedia.org/wiki/Alleman,_Iowa",41.81889,-93.61111
+18,"Allerton, IA",Wayne,501,1.14,3.0,"http://en.wikipedia.org/wiki/Allerton,_Iowa",40.70722,-93.36722
+19,"Allison, IA",Butler,1029,2.93,7.6,"http://en.wikipedia.org/wiki/Allison,_Iowa",42.75333,-92.79472
+20,"Alta, IA",Buena Vista,1883,1.07,2.8,"http://en.wikipedia.org/wiki/Alta,_Iowa",42.67194,-95.30472
+21,"Alta Vista, IA",Chickasaw,266,0.76,2.0,"http://en.wikipedia.org/wiki/Alta_Vista,_Iowa",43.19917,-92.41583
+22,"Alton, IA",Sioux,1216,1.85,4.8,"http://en.wikipedia.org/wiki/Alton,_Iowa",42.98694,-96.01139
+23,"Altoona, IA",Polk,14541,9.35,24.2,"http://en.wikipedia.org/wiki/Altoona,_Iowa",41.65000,-93.47250
+24,"Alvord, IA",Lyon,196,0.28,0.73,"http://en.wikipedia.org/wiki/Alvord,_Iowa",43.34222,-96.30361
+25,"Ames, IA",Story,58965,24.21,62.7,"http://en.wikipedia.org/wiki/Ames,_Iowa",42.03472,-93.62000
+26,"Anamosa, IA",Jones,5533,2.6,6.7,"http://en.wikipedia.org/wiki/Anamosa,_Iowa",42.10889,-91.28139
+27,"Andover, IA",Clinton,103,0.19,0.49,"http://en.wikipedia.org/wiki/Andover,_Iowa",41.97889,-90.25167
+28,"Andrew, IA",Jackson,434,0.27,0.70,"http://en.wikipedia.org/wiki/Andrew,_Iowa",42.154059,-90.591765
+29,"Anita, IA",Cass,972,1.7,4.4,"http://en.wikipedia.org/wiki/Anita,_Iowa",41.44667,-94.76556
+30,"Ankeny, IA",Polk,45582,29.33,76.0,"http://en.wikipedia.org/wiki/Ankeny,_Iowa",41.72667,-93.60417
+31,"Anthon, IA",Woodbury,565,0.71,1.8,"http://en.wikipedia.org/wiki/Anthon,_Iowa",42.38778,-95.86639
+32,"Aplington, IA",Butler,1128,0.83,2.1,"http://en.wikipedia.org/wiki/Aplington,_Iowa",42.58250,-92.88250
+33,"Arcadia, IA",Carroll,484,0.98,2.5,"http://en.wikipedia.org/wiki/Arcadia,_Iowa",42.08694,-95.04556
+34,"Archer, IA",O'Brien,131,0.09,0.23,"http://en.wikipedia.org/wiki/Archer,_Iowa",43.11528,-95.74444
+35,"Aredale, IA",Butler,74,0.99,2.6,"http://en.wikipedia.org/wiki/Aredale,_Iowa",42.83500,-93.00472
+36,"Arion, IA",Crawford,108,0.47,1.2,"http://en.wikipedia.org/wiki/Arion,_Iowa",41.94917,-95.46306
+37,"Arispe, IA",Union,100,0.52,1.3,"http://en.wikipedia.org/wiki/Arispe,_Iowa",40.94889,-94.21889
+38,"Arlington, IA",Fayette,429,1.05,2.7,"http://en.wikipedia.org/wiki/Arlington,_Iowa",42.74806,-91.67167
+39,"Armstrong, IA",Emmet,926,0.88,2.3,"http://en.wikipedia.org/wiki/Armstrong,_Iowa",43.39583,-94.48083
+40,"Arnolds Park, IA",Dickinson,1126,1.57,4.1,"http://en.wikipedia.org/wiki/Arnolds_Park,_Iowa",43.36556,-95.12972
+41,"Arthur, IA",Ida,206,0.15,0.39,"http://en.wikipedia.org/wiki/Arthur,_Iowa",42.33528,-95.34667
+42,"Asbury, IA",Dubuque,4170,2.66,6.9,"http://en.wikipedia.org/wiki/Asbury,_Iowa",42.51556,-90.76333
+43,"Ashton, IA",Osceola,458,1.01,2.6,"http://en.wikipedia.org/wiki/Ashton,_Iowa",43.31194,-95.79167
+44,"Aspinwall, IA",Crawford,40,0.18,0.47,"http://en.wikipedia.org/wiki/Aspinwall,_Iowa",41.91139,-95.13500
+45,"Atalissa, IA",Muscatine,311,0.14,0.36,"http://en.wikipedia.org/wiki/Atalissa,_Iowa",41.57167,-91.16667
+46,"Atkins, IA",Benton,1670,1.09,2.8,"http://en.wikipedia.org/wiki/Atkins,_Iowa",41.99472,-91.86111
+47,"Atlantic, IA",Cass,7112,8.32,21.5,"http://en.wikipedia.org/wiki/Atlantic,_Iowa",41.40139,-95.01083
+48,"Auburn, IA",Sac,322,0.5,1.3,"http://en.wikipedia.org/wiki/Auburn,_Iowa",42.25083,-94.87722
+49,"Audubon, IA",Audubon,2176,1.88,4.9,"http://en.wikipedia.org/wiki/Audubon,_Iowa",41.72028,-94.92833
+50,"Aurelia, IA",Cherokee,1036,1.04,2.7,"http://en.wikipedia.org/wiki/Aurelia,_Iowa",42.71417,-95.43472
+51,"Aurora, IA",Buchanan,185,0.57,1.5,"http://en.wikipedia.org/wiki/Aurora,_Iowa",42.61806,-91.72861
+52,"Avoca, IA",Pottawattamie,1506,2.13,5.5,"http://en.wikipedia.org/wiki/Avoca,_Iowa",41.483,-95.333
+53,"Ayrshire, IA",Palo Alto,143,0.21,0.54,"http://en.wikipedia.org/wiki/Ayrshire,_Iowa",43.03861,-94.83472
+54,"Badger, IA",Webster,561,1.09,2.8,"http://en.wikipedia.org/wiki/Badger,_Iowa",42.61528,-94.14444
+55,"Bagley, IA",Guthrie,303,0.31,0.80,"http://en.wikipedia.org/wiki/Bagley,_Iowa",41.84667,-94.42889
+56,"Baldwin, IA",Jackson,109,0.36,0.93,"http://en.wikipedia.org/wiki/Baldwin,_Iowa",42.07389,-90.84056
+57,"Balltown, IA",Dubuque,68,0.09,0.23,"http://en.wikipedia.org/wiki/Balltown,_Iowa",42.63750,-90.86861
+58,"Bancroft, IA",Kossuth,732,0.55,1.4,"http://en.wikipedia.org/wiki/Bancroft,_Iowa",43.29278,-94.21694
+59,"Bankston, IA",Dubuque,25,0.29,0.75,"http://en.wikipedia.org/wiki/Bankston,_Iowa",42.50917,-90.96000
+60,"Barnes City, IA",Mahaska Poweshiek,176,0.59,1.5,"http://en.wikipedia.org/wiki/Barnes_City,_Iowa",41.50833,-92.46889
+61,"Barnum, IA",Webster,191,0.37,0.96,"http://en.wikipedia.org/wiki/Barnum,_Iowa",42.50667,-94.36444
+62,"Bassett, IA",Chickasaw,66,0.37,0.96,"http://en.wikipedia.org/wiki/Bassett,_Iowa",43.06222,-92.51583
+63,"Batavia, IA",Jefferson,499,0.6,1.6,"http://en.wikipedia.org/wiki/Batavia,_Iowa",40.99750,-92.16778
+64,"Battle Creek, IA",Ida,713,0.5,1.3,"http://en.wikipedia.org/wiki/Battle_Creek,_Iowa",42.31694,-95.59944
+65,"Baxter, IA",Jasper,1101,0.65,1.7,"http://en.wikipedia.org/wiki/Baxter,_Iowa",41.82444,-93.15083
+66,"Bayard, IA",Guthrie,471,0.46,1.2,"http://en.wikipedia.org/wiki/Bayard,_Iowa",41.85222,-94.55722
+67,"Beacon, IA",Mahaska,494,1.0,2.6,"http://en.wikipedia.org/wiki/Beacon,_Iowa",41.27583,-92.68083
+68,"Beaconsfield, IA",Ringgold,15,0.72,1.9,"http://en.wikipedia.org/wiki/Beaconsfield,_Iowa",40.80806,-94.05056
+69,"Beaman, IA",Grundy,191,0.19,0.49,"http://en.wikipedia.org/wiki/Beaman,_Iowa",42.22000,-92.82306
+70,"Beaver, IA",Boone,48,0.25,0.65,"http://en.wikipedia.org/wiki/Beaver,_Iowa",42.03778,-94.14111
+71,"Bedford, IA",Taylor,1440,1.6,4.1,"http://en.wikipedia.org/wiki/Bedford,_Iowa",40.66833,-94.72111
+72,"Belle Plaine, IA",Benton,2534,3.22,8.3,"http://en.wikipedia.org/wiki/Belle_Plaine,_Iowa",41.89667,-92.27750
+73,"Bellevue, IA",Jackson,2191,1.34,3.5,"http://en.wikipedia.org/wiki/Bellevue,_Iowa",42.25917,-90.42639
+74,"Belmond, IA",Wright,2376,2.85,7.4,"http://en.wikipedia.org/wiki/Belmond,_Iowa",42.84722,-93.61222
+75,"Bennett, IA",Cedar,405,0.2,0.52,"http://en.wikipedia.org/wiki/Bennett,_Iowa",41.74083,-90.97444
+76,"Benton, IA",Ringgold,41,0.64,1.7,"http://en.wikipedia.org/wiki/Benton,_Iowa",40.70583,-94.35778
+77,"Berkley, IA",Boone,32,0.21,0.54,"http://en.wikipedia.org/wiki/Berkley,_Iowa",41.94611,-94.11389
+78,"Bernard, IA",Dubuque,112,0.11,0.28,"http://en.wikipedia.org/wiki/Bernard,_Iowa",42.31361,-90.83111
+79,"Bertram, IA",Linn,294,1.68,4.4,"http://en.wikipedia.org/wiki/Bertram,_Iowa",41.95000,-91.53444
+80,"Bettendorf, IA",Scott,33217,21.22,55.0,"http://en.wikipedia.org/wiki/Bettendorf,_Iowa",41.55000,-90.49361
+81,"Bevington, IA",Madison Warren,63,0.45,1.2,"http://en.wikipedia.org/wiki/Bevington,_Iowa",41.36056,-93.79083
+82,"Birmingham, IA",Van Buren,448,1.06,2.7,"http://en.wikipedia.org/wiki/Birmingham,_Iowa",40.87861,-91.94667
+83,"Blairsburg, IA",Hamilton,215,0.65,1.7,"http://en.wikipedia.org/wiki/Blairsburg,_Iowa",42.47944,-93.64167
+84,"Blairstown, IA",Benton,692,0.52,1.3,"http://en.wikipedia.org/wiki/Blairstown,_Iowa",41.90694,-92.08333
+85,"Blakesburg, IA",Wapello,296,0.27,0.70,"http://en.wikipedia.org/wiki/Blakesburg,_Iowa",40.96278,-92.63611
+86,"Blanchard, IA",Page,38,0.23,0.60,"http://en.wikipedia.org/wiki/Blanchard,_Iowa",40.57972,-95.22083
+87,"Blencoe, IA",Monona,224,0.76,2.0,"http://en.wikipedia.org/wiki/Blencoe,_Iowa",41.93194,-96.08167
+88,"Blockton, IA",Taylor,192,0.65,1.7,"http://en.wikipedia.org/wiki/Blockton,_Iowa",40.615851,-94.476654
+89,"Bloomfield, IA",Davis,2640,2.25,5.8,"http://en.wikipedia.org/wiki/Bloomfield,_Iowa",40.75111,-92.41694
+90,"Blue Grass, IA",Scott Muscatine,1452,2.89,7.5,"http://en.wikipedia.org/wiki/Blue_Grass,_Iowa",41.51194,-90.76500
+91,"Bode, IA",Humboldt,302,0.41,1.1,"http://en.wikipedia.org/wiki/Bode,_Iowa",42.86722,-94.28778
+92,"Bonaparte, IA",Van Buren,433,0.37,0.96,"http://en.wikipedia.org/wiki/Bonaparte,_Iowa",40.70000,-91.80083
+93,"Bondurant, IA",Polk,3860,8.38,21.7,"http://en.wikipedia.org/wiki/Bondurant,_Iowa",41.69417,-93.46139
+94,"Boone, IA",Boone,12661,9.02,23.4,"http://en.wikipedia.org/wiki/Boone,_Iowa",42.06111,-93.88611
+95,"Bouton, IA",Dallas,129,0.14,0.36,"http://en.wikipedia.org/wiki/Bouton,_Iowa",41.85056,-94.00944
+96,"Boxholm, IA",Boone,195,1.02,2.6,"http://en.wikipedia.org/wiki/Boxholm,_Iowa",42.17500,-94.10556
+97,"Boyden, IA",Sioux,707,0.75,1.9,"http://en.wikipedia.org/wiki/Boyden,_Iowa",43.19028,-96.00361
+98,"Braddyville, IA",Page,159,0.53,1.4,"http://en.wikipedia.org/wiki/Braddyville,_Iowa",40.57861,-95.02972
+99,"Bradgate, IA",Humboldt,86,0.35,0.91,"http://en.wikipedia.org/wiki/Bradgate,_Iowa",42.80333,-94.42028
+100,"Brandon, IA",Buchanan,309,0.32,0.83,"http://en.wikipedia.org/wiki/Brandon,_Iowa",42.31417,-92.00417
+101,"Brayton, IA",Audubon,128,0.62,1.6,"http://en.wikipedia.org/wiki/Brayton,_Iowa",41.54528,-94.92583
+102,"Breda, IA",Carroll,483,0.74,1.9,"http://en.wikipedia.org/wiki/Breda,_Iowa",42.18222,-94.97806
+103,"Bridgewater, IA",Adair,182,0.29,0.75,"http://en.wikipedia.org/wiki/Bridgewater,_Iowa",41.24556,-94.66833
+104,"Brighton, IA",Washington,652,0.71,1.8,"http://en.wikipedia.org/wiki/Brighton,_Iowa",41.17333,-91.82083
+105,"Bristow, IA",Butler,160,0.94,2.4,"http://en.wikipedia.org/wiki/Bristow,_Iowa",42.77361,-92.90694
+106,"Britt, IA",Hancock,2069,1.26,3.3,"http://en.wikipedia.org/wiki/Britt,_Iowa",43.09639,-93.80111
+107,"Bronson, IA",Woodbury,322,0.31,0.80,"http://en.wikipedia.org/wiki/Bronson,_Iowa",42.40944,-96.21167
+108,"Brooklyn, IA",Poweshiek,1468,1.23,3.2,"http://en.wikipedia.org/wiki/Brooklyn,_Iowa",41.73222,-92.44361
+109,"Brunsville, IA",Plymouth,151,0.24,0.62,"http://en.wikipedia.org/wiki/Brunsville,_Iowa",42.80917,-96.26861
+110,"Buck Grove, IA",Crawford,43,0.36,0.93,"http://en.wikipedia.org/wiki/Buck_Grove,_Iowa",41.91861,-95.39722
+111,"Buckeye, IA",Hardin,108,1.0,2.6,"http://en.wikipedia.org/wiki/Buckeye,_Iowa",42.41833,-93.37583
+112,"Buffalo, IA",Scott,1270,6.45,16.7,"http://en.wikipedia.org/wiki/Buffalo,_Iowa",41.45917,-90.72111
+113,"Buffalo Center, IA",Winnebago,905,1.07,2.8,"http://en.wikipedia.org/wiki/Buffalo_Center,_Iowa",43.38639,-93.94833
+114,"Burlington, IA",Des Moines,25663,14.48,37.5,"http://en.wikipedia.org/wiki/Burlington,_Iowa",40.80806,-91.11583
+115,"Burt, IA",Kossuth,533,0.44,1.1,"http://en.wikipedia.org/wiki/Burt,_Iowa",43.19806,-94.22167
+116,"Bussey, IA",Marion,422,0.33,0.85,"http://en.wikipedia.org/wiki/Bussey,_Iowa",41.20528,-92.88528
+117,"Calamus, IA",Clinton,439,0.48,1.2,"http://en.wikipedia.org/wiki/Calamus,_Iowa",41.82667,-90.75972
+118,"Callender, IA",Webster,376,0.52,1.3,"http://en.wikipedia.org/wiki/Callender,_Iowa",42.36250,-94.29333
+119,"Calmar, IA",Winneshiek,978,1.07,2.8,"http://en.wikipedia.org/wiki/Calmar,_Iowa",43.18194,-91.86639
+120,"Calumet, IA",O'Brien,170,0.27,0.70,"http://en.wikipedia.org/wiki/Calumet,_Iowa",42.94611,-95.55194
+121,"Camanche, IA",Clinton,4448,8.68,22.5,"http://en.wikipedia.org/wiki/Camanche,_Iowa",41.78639,-90.26000
+122,"Cambridge, IA",Story,827,1.1,2.8,"http://en.wikipedia.org/wiki/Cambridge,_Iowa",41.898735,-93.529662
+123,"Cantril, IA",Van Buren,222,0.51,1.3,"http://en.wikipedia.org/wiki/Cantril,_Iowa",40.64361,-92.06722
+124,"Carbon, IA",Adams,34,0.71,1.8,"http://en.wikipedia.org/wiki/Carbon,_Iowa",41.05028,-94.82528
+125,"Carlisle, IA",Warren Polk,3876,5.56,14.4,"http://en.wikipedia.org/wiki/Carlisle,_Iowa",41.50111,-93.49028
+126,"Carpenter, IA",Mitchell,109,0.16,0.41,"http://en.wikipedia.org/wiki/Carpenter,_Iowa",43.41556,-93.01722
+127,"Carroll, IA",Carroll,10103,5.69,14.7,"http://en.wikipedia.org/wiki/Carroll,_Iowa",42.06944,-94.86639
+128,"Carson, IA",Pottawattamie,812,0.71,1.8,"http://en.wikipedia.org/wiki/Carson,_Iowa",41.235744,-95.418427
+129,"Carter Lake, IA",Pottawattamie,3785,1.87,4.8,"http://en.wikipedia.org/wiki/Carter_Lake,_Iowa",41.29278,-95.91389
+130,"Cascade, IA",Dubuque Jones,2159,1.87,4.8,"http://en.wikipedia.org/wiki/Cascade,_Iowa",42.297535,-91.012215
+131,"Casey, IA",Guthrie Adair,426,0.74,1.9,"http://en.wikipedia.org/wiki/Casey,_Iowa",41.50611,-94.52000
+132,"Castalia, IA",Winneshiek,173,0.58,1.5,"http://en.wikipedia.org/wiki/Castalia,_Iowa",43.11222,-91.67722
+133,"Castana, IA",Monona,147,0.93,2.4,"http://en.wikipedia.org/wiki/Castana,_Iowa",42.07250,-95.90833
+134,"Cedar Falls, IA",Black Hawk,39260,28.75,74.5,"http://en.wikipedia.org/wiki/Cedar_Falls,_Iowa",42.523520,-92.446402
+135,"Cedar Rapids, IA",Linn,126326,70.8,183,"http://en.wikipedia.org/wiki/Cedar_Rapids,_Iowa",41.98306,-91.66861
+136,"Center Junction, IA",Jones,111,0.55,1.4,"http://en.wikipedia.org/wiki/Center_Junction,_Iowa",42.11639,-91.08806
+137,"Center Point, IA",Linn,2421,2.6,6.7,"http://en.wikipedia.org/wiki/Center_Point,_Iowa",42.19056,-91.78250
+138,"Centerville, IA",Appanoose,5528,4.86,12.6,"http://en.wikipedia.org/wiki/Centerville,_Iowa",40.729836,-92.872012
+139,"Central City, IA",Linn,1257,0.95,2.5,"http://en.wikipedia.org/wiki/Central_City,_Iowa",42.20444,-91.52500
+140,"Centralia, IA",Dubuque,134,0.58,1.5,"http://en.wikipedia.org/wiki/Centralia,_Iowa",42.47222,-90.83611
+141,"Chariton, IA",Lucas,4321,3.82,9.9,"http://en.wikipedia.org/wiki/Chariton,_Iowa",41.01611,-93.30750
+142,"Charles City, IA",Floyd,7652,6.22,16.1,"http://en.wikipedia.org/wiki/Charles_City,_Iowa",43.06639,-92.67583
+143,"Charlotte, IA",Clinton,394,0.58,1.5,"http://en.wikipedia.org/wiki/Charlotte,_Iowa",41.96111,-90.46972
+144,"Charter Oak, IA",Crawford,502,0.48,1.2,"http://en.wikipedia.org/wiki/Charter_Oak,_Iowa",42.06778,-95.58944
+145,"Chatsworth, IA",Sioux,79,0.49,1.3,"http://en.wikipedia.org/wiki/Chatsworth,_Iowa",42.91583,-96.51611
+146,"Chelsea, IA",Tama,267,1.01,2.6,"http://en.wikipedia.org/wiki/Chelsea,_Iowa",41.92000,-92.39444
+147,"Cherokee, IA",Cherokee,5253,6.43,16.7,"http://en.wikipedia.org/wiki/Cherokee,_Iowa",42.750,-95.550
+148,"Chester, IA",Howard,127,1.34,3.5,"http://en.wikipedia.org/wiki/Chester,_Iowa",43.49111,-92.36111
+149,"Chillicothe, IA",Wapello,97,0.23,0.60,"http://en.wikipedia.org/wiki/Chillicothe,_Iowa",41.08639,-92.52889
+150,"Churdan, IA",Greene,386,2.11,5.5,"http://en.wikipedia.org/wiki/Churdan,_Iowa",42.15500,-94.47667
+151,"Cincinnati, IA",Appanoose,357,1.74,4.5,"http://en.wikipedia.org/wiki/Cincinnati,_Iowa",40.63028,-92.92361
+152,"Clare, IA",Webster,146,0.51,1.3,"http://en.wikipedia.org/wiki/Clare,_Iowa",42.58778,-94.34361
+153,"Clarence, IA",Cedar,974,0.68,1.8,"http://en.wikipedia.org/wiki/Clarence,_Iowa",41.88778,-91.05917
+154,"Clarinda, IA",Page,5572,5.19,13.4,"http://en.wikipedia.org/wiki/Clarinda,_Iowa",40.73750,-95.03583
+155,"Clarion, IA",Wright,2850,3.26,8.4,"http://en.wikipedia.org/wiki/Clarion,_Iowa",42.73111,-93.73111
+156,"Clarksville, IA",Butler,1439,1.33,3.4,"http://en.wikipedia.org/wiki/Clarksville,_Iowa",42.78278,-92.66972
+157,"Clayton, IA",Clayton,43,0.49,1.3,"http://en.wikipedia.org/wiki/Clayton,_Iowa",42.90306,-91.14806
+158,"Clear Lake, IA",Cerro Gordo,7777,10.8,28,"http://en.wikipedia.org/wiki/Clear_Lake,_Iowa",43.13639,-93.38000
+159,"Clearfield, IA",Taylor Ringgold,363,1.26,3.3,"http://en.wikipedia.org/wiki/Clearfield,_Iowa",40.80000,-94.47639
+160,"Cleghorn, IA",Cherokee,240,0.34,0.88,"http://en.wikipedia.org/wiki/Cleghorn,_Iowa",42.81278,-95.71194
+161,"Clemons, IA",Marshall,148,0.27,0.70,"http://en.wikipedia.org/wiki/Clemons,_Iowa",42.11417,-93.15833
+162,"Clermont, IA",Fayette,632,1.23,3.2,"http://en.wikipedia.org/wiki/Clermont,_Iowa",42.99944,-91.65472
+163,"Clinton, IA",Clinton,26885,35.15,91.0,"http://en.wikipedia.org/wiki/Clinton,_Iowa",41.84694,-90.20722
+164,"Clio, IA",Wayne,80,0.75,1.9,"http://en.wikipedia.org/wiki/Clio,_Iowa",40.63639,-93.45028
+165,"Clive, IA",Polk Dallas,15447,7.59,19.7,"http://en.wikipedia.org/wiki/Clive,_Iowa",41.600,-93.783
+166,"Clutier, IA",Tama,213,0.76,2.0,"http://en.wikipedia.org/wiki/Clutier,_Iowa",42.07889,-92.40333
+167,"Coburg, IA",Montgomery,42,0.29,0.75,"http://en.wikipedia.org/wiki/Coburg,_Iowa",40.91667,-95.26583
+168,"Coggon, IA",Linn,658,0.62,1.6,"http://en.wikipedia.org/wiki/Coggon,_Iowa",42.27917,-91.52972
+169,"Coin, IA",Page,193,0.8,2.1,"http://en.wikipedia.org/wiki/Coin,_Iowa",40.65694,-95.23417
+170,"Colesburg, IA",Delaware,404,0.29,0.75,"http://en.wikipedia.org/wiki/Colesburg,_Iowa",42.64000,-91.20111
+171,"Colfax, IA",Jasper,2093,1.79,4.6,"http://en.wikipedia.org/wiki/Colfax,_Iowa",41.67583,-93.24444
+172,"College Springs, IA",Page,214,1.1,2.8,"http://en.wikipedia.org/wiki/College_Springs,_Iowa",40.620878,-95.121941
+173,"Collins, IA",Story,495,0.49,1.3,"http://en.wikipedia.org/wiki/Collins,_Iowa",41.90250,-93.30694
+174,"Colo, IA",Story,876,1.06,2.7,"http://en.wikipedia.org/wiki/Colo,_Iowa",42.01694,-93.31750
+175,"Columbus City, IA",Louisa,391,0.24,0.62,"http://en.wikipedia.org/wiki/Columbus_City,_Iowa",41.25833,-91.37583
+176,"Columbus Junction, IA",Louisa,1899,2.19,5.7,"http://en.wikipedia.org/wiki/Columbus_Junction,_Iowa",41.27833,-91.36250
+177,"Colwell, IA",Floyd,73,0.18,0.47,"http://en.wikipedia.org/wiki/Colwell,_Iowa",43.15694,-92.59306
+178,"Conesville, IA",Muscatine,432,0.36,0.93,"http://en.wikipedia.org/wiki/Conesville,_Iowa",41.37944,-91.35028
+179,"Conrad, IA",Grundy,1108,1.2,3.1,"http://en.wikipedia.org/wiki/Conrad,_Iowa",42.22500,-92.87222
+180,"Conway, IA",Taylor,41,0.22,0.57,"http://en.wikipedia.org/wiki/Conway,_Iowa",40.74861,-94.61944
+181,"Coon Rapids, IA",Carroll Guthrie,1305,1.78,4.6,"http://en.wikipedia.org/wiki/Coon_Rapids,_Iowa",41.87250,-94.67667
+182,"Coppock, IA",Henry Washington Jefferson,47,0.23,0.60,"http://en.wikipedia.org/wiki/Coppock,_Iowa",41.16278,-91.71611
+183,"Coralville, IA",Johnson,18907,12.01,31.1,"http://en.wikipedia.org/wiki/Coralville,_Iowa",41.68833,-91.58667
+184,"Corning, IA",Adams,1635,1.58,4.1,"http://en.wikipedia.org/wiki/Corning,_Iowa",40.99139,-94.73694
+185,"Correctionville, IA",Woodbury,821,0.57,1.5,"http://en.wikipedia.org/wiki/Correctionville,_Iowa",42.47667,-95.78472
+186,"Corwith, IA",Hancock,309,1.48,3.8,"http://en.wikipedia.org/wiki/Corwith,_Iowa",42.99333,-93.95583
+187,"Corydon, IA",Wayne,1585,1.39,3.6,"http://en.wikipedia.org/wiki/Corydon,_Iowa",40.75917,-93.31778
+188,"Cotter, IA",Louisa,48,0.25,0.65,"http://en.wikipedia.org/wiki/Cotter,_Iowa",41.29222,-91.46722
+189,"Coulter, IA",Franklin,281,2.45,6.3,"http://en.wikipedia.org/wiki/Coulter,_Iowa",42.73444,-93.36917
+190,"Council Bluffs, IA",Pottawattamie,62230,40.97,106.1,"http://en.wikipedia.org/wiki/Council_Bluffs,_Iowa",41.250,-95.867
+191,"Craig, IA",Plymouth,89,0.09,0.23,"http://en.wikipedia.org/wiki/Craig,_Iowa",42.89639,-96.31028
+192,"Crawfordsville, IA",Washington,264,0.35,0.91,"http://en.wikipedia.org/wiki/Crawfordsville,_Iowa",41.21528,-91.53778
+193,"Crescent, IA",Pottawattamie,617,1.09,2.8,"http://en.wikipedia.org/wiki/Crescent,_Iowa",41.36361,-95.85889
+194,"Cresco, IA",Howard,3868,3.35,8.7,"http://en.wikipedia.org/wiki/Cresco,_Iowa",43.37444,-92.11500
+195,"Creston, IA",Union,7834,5.19,13.4,"http://en.wikipedia.org/wiki/Creston,_Iowa",41.05917,-94.36444
+196,"Cromwell, IA",Union,107,0.29,0.75,"http://en.wikipedia.org/wiki/Cromwell,_Iowa",41.04083,-94.46250
+197,"Crystal Lake, IA",Hancock,250,0.25,0.65,"http://en.wikipedia.org/wiki/Crystal_Lake,_Iowa",43.22361,-93.79194
+198,"Cumberland, IA",Cass,262,0.6,1.6,"http://en.wikipedia.org/wiki/Cumberland,_Iowa",41.27361,-94.87111
+199,"Cumming, IA",Warren,351,2.56,6.6,"http://en.wikipedia.org/wiki/Cumming,_Iowa",41.48583,-93.76194
+200,"Curlew, IA",Palo Alto,58,0.76,2.0,"http://en.wikipedia.org/wiki/Curlew,_Iowa",42.98028,-94.73750
+201,"Cushing, IA",Woodbury,220,0.32,0.83,"http://en.wikipedia.org/wiki/Cushing,_Iowa",42.46500,-95.67639
+202,"Cylinder, IA",Palo Alto,88,0.07,0.18,"http://en.wikipedia.org/wiki/Cylinder,_Iowa",43.08917,-94.55000
+203,"Dakota City, IA",Humboldt,843,0.74,1.9,"http://en.wikipedia.org/wiki/Dakota_City,_Iowa",42.72194,-94.20028
+204,"Dallas Center, IA",Dallas,1623,4.58,11.9,"http://en.wikipedia.org/wiki/Dallas_Center,_Iowa",41.68444,-93.96083
+205,"Dana, IA",Greene,71,0.28,0.73,"http://en.wikipedia.org/wiki/Dana,_Iowa",42.10667,-94.24028
+206,"Danbury, IA",Woodbury,348,0.4,1.0,"http://en.wikipedia.org/wiki/Danbury,_Iowa",42.23611,-95.72167
+207,"Danville, IA",Des Moines,934,0.75,1.9,"http://en.wikipedia.org/wiki/Danville,_Iowa",40.86389,-91.31583
+208,"Davenport, IA",Scott,99685,62.95,163.0,"http://en.wikipedia.org/wiki/Davenport,_Iowa",41.54306,-90.59083
+209,"Davis City, IA",Decatur,204,0.59,1.5,"http://en.wikipedia.org/wiki/Davis_City,_Iowa",40.63944,-93.81222
+210,"Dawson, IA",Dallas,131,0.48,1.2,"http://en.wikipedia.org/wiki/Dawson,_Iowa",41.84361,-94.22139
+211,"Dayton, IA",Webster,837,0.85,2.2,"http://en.wikipedia.org/wiki/Dayton,_Iowa",42.26278,-94.06917
+212,"De Soto, IA",Dallas,1050,1.52,3.9,"http://en.wikipedia.org/wiki/De_Soto,_Iowa",41.53111,-94.00833
+213,"De Witt, IA",Clinton,5322,5.98,15.5,"http://en.wikipedia.org/wiki/De_Witt,_Iowa",41.82278,-90.54278
+214,"Decatur City, IA",Decatur,197,0.4,1.0,"http://en.wikipedia.org/wiki/Decatur_City,_Iowa",40.74222,-93.83278
+215,"Decorah, IA",Winneshiek,8127,7.01,18.2,"http://en.wikipedia.org/wiki/Decorah,_Iowa",43.30167,-91.79028
+216,"Dedham, IA",Carroll,266,0.58,1.5,"http://en.wikipedia.org/wiki/Dedham,_Iowa",41.90861,-94.82278
+217,"Deep River, IA",Poweshiek,279,0.43,1.1,"http://en.wikipedia.org/wiki/Deep_River,_Iowa",41.58028,-92.37417
+218,"Defiance, IA",Shelby,284,0.39,1.0,"http://en.wikipedia.org/wiki/Defiance,_Iowa",41.82472,-95.34194
+219,"Delaware, IA",Delaware,159,0.8,2.1,"http://en.wikipedia.org/wiki/Delaware,_Iowa",42.47389,-91.34222
+220,"Delhi, IA",Delaware,460,0.97,2.5,"http://en.wikipedia.org/wiki/Delhi,_Iowa",42.42806,-91.33000
+221,"Delmar, IA",Clinton,525,0.76,2.0,"http://en.wikipedia.org/wiki/Delmar,_Iowa",42.00167,-90.60778
+222,"Deloit, IA",Crawford,264,0.42,1.1,"http://en.wikipedia.org/wiki/Deloit,_Iowa",42.09722,-95.31917
+223,"Delphos, IA",Ringgold,25,0.22,0.57,"http://en.wikipedia.org/wiki/Delphos,_Iowa",40.66306,-94.33944
+224,"Delta, IA",Keokuk,328,0.93,2.4,"http://en.wikipedia.org/wiki/Delta,_Iowa",41.32417,-92.32944
+225,"Denison, IA",Crawford,8298,6.54,16.9,"http://en.wikipedia.org/wiki/Denison,_Iowa",42.01722,-95.35111
+226,"Denver, IA",Bremer,1780,1.64,4.2,"http://en.wikipedia.org/wiki/Denver,_Iowa",42.67194,-92.33361
+227,"Derby, IA",Lucas,115,0.26,0.67,"http://en.wikipedia.org/wiki/Derby,_Iowa",40.93083,-93.45694
+228,"Des Moines, IA",Polk Warren,203433,80.87,209.5,"http://en.wikipedia.org/wiki/Des_Moines,_Iowa",41.59083,-93.62083
+229,"Dexter, IA",Dallas,611,2.35,6.1,"http://en.wikipedia.org/wiki/Dexter,_Iowa",41.51556,-94.22722
+230,"Diagonal, IA",Ringgold,330,0.9,2.3,"http://en.wikipedia.org/wiki/Diagonal,_Iowa",40.80889,-94.34139
+231,"Dickens, IA",Clay,185,0.84,2.2,"http://en.wikipedia.org/wiki/Dickens,_Iowa",43.13083,-95.02056
+232,"Dike, IA",Grundy,1209,1.39,3.6,"http://en.wikipedia.org/wiki/Dike,_Iowa",42.46472,-92.62778
+233,"Dixon, IA",Scott,247,0.15,0.39,"http://en.wikipedia.org/wiki/Dixon,_Iowa",41.74139,-90.78278
+234,"Dolliver, IA",Emmet,66,0.36,0.93,"http://en.wikipedia.org/wiki/Dolliver,_Iowa",43.46472,-94.61500
+235,"Donahue, IA",Scott,346,0.35,0.91,"http://en.wikipedia.org/wiki/Donahue,_Iowa",41.69528,-90.67472
+236,"Donnellson, IA",Lee,912,1.26,3.3,"http://en.wikipedia.org/wiki/Donnellson,_Iowa",40.64333,-91.56500
+237,"Doon, IA",Lyon,577,0.57,1.5,"http://en.wikipedia.org/wiki/Doon,_Iowa",43.27861,-96.23194
+238,"Dougherty, IA",Cerro Gordo,58,0.55,1.4,"http://en.wikipedia.org/wiki/Dougherty,_Iowa",42.92250,-93.04111
+239,"Dow City, IA",Crawford,510,0.32,0.83,"http://en.wikipedia.org/wiki/Dow_City,_Iowa",41.92833,-95.49444
+240,"Dows, IA",Wright Franklin,538,0.77,2.0,"http://en.wikipedia.org/wiki/Dows,_Iowa",42.65694,-93.50222
+241,"Drakesville, IA",Davis,184,0.25,0.65,"http://en.wikipedia.org/wiki/Drakesville,_Iowa",40.79917,-92.48111
+242,"Dubuque, IA",Dubuque,57637,29.97,77.6,"http://en.wikipedia.org/wiki/Dubuque,_Iowa",42.50444,-90.68694
+243,"Dumont, IA",Butler,637,1.76,4.6,"http://en.wikipedia.org/wiki/Dumont,_Iowa",42.74944,-92.97222
+244,"Duncombe, IA",Webster,410,1.97,5.1,"http://en.wikipedia.org/wiki/Duncombe,_Iowa",42.47000,-93.99278
+245,"Dundee, IA",Delaware,174,0.36,0.93,"http://en.wikipedia.org/wiki/Dundee,_Iowa",42.57889,-91.54722
+246,"Dunkerton, IA",Black Hawk,852,0.98,2.5,"http://en.wikipedia.org/wiki/Dunkerton,_Iowa",42.56833,-92.16000
+247,"Dunlap, IA",Harrison Crawford,1042,1.13,2.9,"http://en.wikipedia.org/wiki/Dunlap,_Iowa",41.85389,-95.60000
+248,"Durango, IA",Dubuque,22,0.04,0.10,"http://en.wikipedia.org/wiki/Durango,_Iowa",42.56000,-90.77583
+249,"Durant, IA",Cedar Scott Muscatine,1832,1.15,3.0,"http://en.wikipedia.org/wiki/Durant,_Iowa",41.60111,-90.90917
+250,"Dyersville, IA",Dubuque Delaware,4058,5.63,14.6,"http://en.wikipedia.org/wiki/Dyersville,_Iowa",42.48139,-91.12083
+251,"Dysart, IA",Tama,1379,1.25,3.2,"http://en.wikipedia.org/wiki/Dysart,_Iowa",42.16889,-92.30806
+252,"Eagle Grove, IA",Wright,3583,4.04,10.5,"http://en.wikipedia.org/wiki/Eagle_Grove,_Iowa",42.66500,-93.90250
+253,"Earlham, IA",Madison,1450,0.97,2.5,"http://en.wikipedia.org/wiki/Earlham,_Iowa",41.49306,-94.12361
+254,"Earling, IA",Shelby,437,0.6,1.6,"http://en.wikipedia.org/wiki/Earling,_Iowa",41.77500,-95.41861
+255,"Earlville, IA",Delaware,812,0.55,1.4,"http://en.wikipedia.org/wiki/Earlville,_Iowa",42.48194,-91.27056
+256,"Early, IA",Sac,557,0.39,1.0,"http://en.wikipedia.org/wiki/Early,_Iowa",42.46194,-95.15139
+257,"East Peru, IA",Madison,125,0.94,2.4,"http://en.wikipedia.org/wiki/East_Peru,_Iowa",41.22722,-93.92528
+258,"Eddyville, IA",Wapello Mahaska Monroe,1024,1.18,3.1,"http://en.wikipedia.org/wiki/Eddyville,_Iowa",41.15833,-92.63500
+259,"Edgewood, IA",Delaware Clayton,864,0.85,2.2,"http://en.wikipedia.org/wiki/Edgewood,_Iowa",42.64472,-91.40167
+260,"Elberon, IA",Tama,196,0.65,1.7,"http://en.wikipedia.org/wiki/Elberon,_Iowa",42.00528,-92.31750
+261,"Eldon, IA",Wapello,927,1.11,2.9,"http://en.wikipedia.org/wiki/Eldon,_Iowa",40.91778,-92.22028
+262,"Eldora, IA",Hardin,2732,4.33,11.2,"http://en.wikipedia.org/wiki/Eldora,_Iowa",42.36028,-93.10139
+263,"Eldridge, IA",Scott,5651,9.48,24.6,"http://en.wikipedia.org/wiki/Eldridge,_Iowa",41.64861,-90.58139
+264,"Elgin, IA",Fayette,683,0.66,1.7,"http://en.wikipedia.org/wiki/Elgin,_Iowa",42.95583,-91.63639
+265,"Elk Horn, IA",Shelby,662,0.77,2.0,"http://en.wikipedia.org/wiki/Elk_Horn,_Iowa",41.59278,-95.05972
+266,"Elk Run Heights, IA",Black Hawk,1117,1.06,2.7,"http://en.wikipedia.org/wiki/Elk_Run_Heights,_Iowa",42.46861,-92.25722
+267,"Elkader, IA",Clayton,1273,1.39,3.6,"http://en.wikipedia.org/wiki/Elkader,_Iowa",42.85583,-91.40306
+268,"Elkhart, IA",Polk,683,1.58,4.1,"http://en.wikipedia.org/wiki/Elkhart,_Iowa",41.79278,-93.52500
+269,"Elkport, IA",Clayton,37,0.25,0.65,"http://en.wikipedia.org/wiki/Elkport,_Iowa",42.74111,-91.27556
+270,"Elliott, IA",Montgomery,350,0.42,1.1,"http://en.wikipedia.org/wiki/Elliott,_Iowa",41.14889,-95.16194
+271,"Ellston, IA",Ringgold,57,0.20,0.52,"http://en.wikipedia.org/wiki/Ellston,_Iowa",40.84028,-94.10861
+272,"Ellsworth, IA",Hamilton,531,0.9,2.3,"http://en.wikipedia.org/wiki/Ellsworth,_Iowa",42.31194,-93.58083
+273,"Elma, IA",Howard,546,1.29,3.3,"http://en.wikipedia.org/wiki/Elma,_Iowa",43.24556,-92.43861
+274,"Ely, IA",Linn,1776,1.44,3.7,"http://en.wikipedia.org/wiki/Ely,_Iowa",41.87556,-91.58306
+275,"Emerson, IA",Mills,438,0.26,0.67,"http://en.wikipedia.org/wiki/Emerson,_Iowa",41.01861,-95.40194
+276,"Emmetsburg, IA",Palo Alto,3904,3.81,9.9,"http://en.wikipedia.org/wiki/Emmetsburg,_Iowa",43.11111,-94.68194
+277,"Epworth, IA",Dubuque,1860,1.56,4.0,"http://en.wikipedia.org/wiki/Epworth,_Iowa",42.44583,-90.93111
+278,"Essex, IA",Page,798,1.5,3.9,"http://en.wikipedia.org/wiki/Essex,_Iowa",40.83306,-95.30528
+279,"Estherville, IA",Emmet,6360,5.32,13.8,"http://en.wikipedia.org/wiki/Estherville,_Iowa",43.40444,-94.83361
+280,"Evansdale, IA",Black Hawk,4751,4.05,10.5,"http://en.wikipedia.org/wiki/Evansdale,_Iowa",42.46778,-92.28222
+281,"Everly, IA",Clay,603,1.09,2.8,"http://en.wikipedia.org/wiki/Everly,_Iowa",43.15972,-95.32528
+282,"Exira, IA",Audubon,840,1.02,2.6,"http://en.wikipedia.org/wiki/Exira,_Iowa",41.59167,-94.87833
+283,"Exline, IA",Appanoose,160,0.99,2.6,"http://en.wikipedia.org/wiki/Exline,_Iowa",40.65000,-92.84000
+284,"Fairbank, IA",Buchanan Fayette,1113,0.71,1.8,"http://en.wikipedia.org/wiki/Fairbank,_Iowa",42.63944,-92.04778
+285,"Fairfax, IA",Linn,2123,1.94,5.0,"http://en.wikipedia.org/wiki/Fairfax,_Iowa",41.91972,-91.78028
+286,"Fairfield, IA",Jefferson,9464,6.26,16.2,"http://en.wikipedia.org/wiki/Fairfield,_Iowa",41.00722,-91.96583
+287,"Farley, IA",Dubuque,1537,1.85,4.8,"http://en.wikipedia.org/wiki/Farley,_Iowa",42.44389,-91.00944
+288,"Farmersburg, IA",Clayton,302,0.4,1.0,"http://en.wikipedia.org/wiki/Farmersburg,_Iowa",42.958516,-91.367555
+289,"Farmington, IA",Van Buren,664,0.47,1.2,"http://en.wikipedia.org/wiki/Farmington,_Iowa",40.633,-91.733
+290,"Farnhamville, IA",Calhoun Webster,371,0.65,1.7,"http://en.wikipedia.org/wiki/Farnhamville,_Iowa",42.27639,-94.40639
+291,"Farragut, IA",Fremont,485,0.41,1.1,"http://en.wikipedia.org/wiki/Farragut,_Iowa",40.72167,-95.48028
+292,"Fayette, IA",Fayette,1338,1.48,3.8,"http://en.wikipedia.org/wiki/Fayette,_Iowa",42.84250,-91.80306
+293,"Fenton, IA",Kossuth,279,0.34,0.88,"http://en.wikipedia.org/wiki/Fenton,_Iowa",43.21639,-94.42639
+294,"Ferguson, IA",Marshall,126,0.26,0.67,"http://en.wikipedia.org/wiki/Ferguson,_Iowa",41.93750,-92.86500
+295,"Fertile, IA",Worth,370,0.94,2.4,"http://en.wikipedia.org/wiki/Fertile,_Iowa",43.26472,-93.42111
+296,"Floris, IA",Davis,138,0.48,1.2,"http://en.wikipedia.org/wiki/Floris,_Iowa",40.86417,-92.33222
+297,"Floyd, IA",Floyd,335,0.6,1.6,"http://en.wikipedia.org/wiki/Floyd,_Iowa",43.12750,-92.73972
+298,"Fonda, IA",Pocahontas,631,1.05,2.7,"http://en.wikipedia.org/wiki/Fonda,_Iowa",42.58278,-94.84583
+299,"Fontanelle, IA",Adair,672,0.96,2.5,"http://en.wikipedia.org/wiki/Fontanelle,_Iowa",41.29000,-94.56222
+300,"Forest City, IA",Winnebago Hancock,4151,4.64,12.0,"http://en.wikipedia.org/wiki/Forest_City,_Iowa",43.26194,-93.64028
+301,"Fort Atkinson, IA",Winneshiek,349,0.31,0.80,"http://en.wikipedia.org/wiki/Fort_Atkinson,_Iowa",43.14417,-91.93472
+302,"Fort Dodge, IA",Webster,25206,16.05,41.6,"http://en.wikipedia.org/wiki/Fort_Dodge,_Iowa",42.50667,-94.18028
+303,"Fort Madison, IA",Lee,11051,9.49,24.6,"http://en.wikipedia.org/wiki/Fort_Madison,_Iowa",40.62861,-91.33889
+304,"Fostoria, IA",Clay,231,0.47,1.2,"http://en.wikipedia.org/wiki/Fostoria,_Iowa",43.24167,-95.15500
+305,"Franklin, IA",Lee,143,0.15,0.39,"http://en.wikipedia.org/wiki/Franklin,_Iowa",40.66639,-91.51194
+306,"Fraser, IA",Boone,102,0.83,2.1,"http://en.wikipedia.org/wiki/Fraser,_Iowa",42.12444,-93.96917
+307,"Fredericksburg, IA",Chickasaw,931,0.86,2.2,"http://en.wikipedia.org/wiki/Fredericksburg,_Iowa",42.96472,-92.19833
+308,"Frederika, IA",Bremer,183,0.2,0.52,"http://en.wikipedia.org/wiki/Frederika,_Iowa",42.88250,-92.30611
+309,"Fredonia, IA",Louisa,244,0.17,0.44,"http://en.wikipedia.org/wiki/Fredonia,_Iowa",41.28500,-91.33806
+310,"Fremont, IA",Mahaska,743,1.03,2.7,"http://en.wikipedia.org/wiki/Fremont,_Iowa",41.21222,-92.43500
+311,"Fruitland, IA",Muscatine,977,1.8,4.7,"http://en.wikipedia.org/wiki/Fruitland,_Iowa",41.35222,-91.12611
+312,"Galt, IA",Wright,32,0.54,1.4,"http://en.wikipedia.org/wiki/Galt,_Iowa",42.69306,-93.60500
+313,"Galva, IA",Ida,434,0.71,1.8,"http://en.wikipedia.org/wiki/Galva,_Iowa",42.50611,-95.41806
+314,"Garber, IA",Clayton,88,0.23,0.60,"http://en.wikipedia.org/wiki/Garber,_Iowa",42.74389,-91.26306
+315,"Garden Grove, IA",Decatur,211,0.69,1.8,"http://en.wikipedia.org/wiki/Garden_Grove,_Iowa",40.82639,-93.60778
+316,"Garnavillo, IA",Clayton,745,1.02,2.6,"http://en.wikipedia.org/wiki/Garnavillo,_Iowa",42.86694,-91.23611
+317,"Garner, IA",Hancock,3129,2.05,5.3,"http://en.wikipedia.org/wiki/Garner,_Iowa",43.09806,-93.60417
+318,"Garrison, IA",Benton,371,0.25,0.65,"http://en.wikipedia.org/wiki/Garrison,_Iowa",42.14361,-92.14306
+319,"Garwin, IA",Tama,527,1.01,2.6,"http://en.wikipedia.org/wiki/Garwin,_Iowa",42.09472,-92.67667
+320,"Geneva, IA",Franklin,165,0.42,1.1,"http://en.wikipedia.org/wiki/Geneva,_Iowa",42.67583,-93.13139
+321,"George, IA",Lyon,1080,2.4,6.2,"http://en.wikipedia.org/wiki/George,_Iowa",43.34250,-96.00111
+322,"Gibson, IA",Keokuk,61,0.07,0.18,"http://en.wikipedia.org/wiki/Gibson,_Iowa",41.48056,-92.39306
+323,"Gilbert, IA",Story,1082,0.91,2.4,"http://en.wikipedia.org/wiki/Gilbert,_Iowa",42.10583,-93.64528
+324,"Gilbertville, IA",Black Hawk,712,0.4,1.0,"http://en.wikipedia.org/wiki/Gilbertville,_Iowa",42.41722,-92.21389
+325,"Gillett Grove, IA",Clay,49,0.19,0.49,"http://en.wikipedia.org/wiki/Gillett_Grove,_Iowa",43.01444,-95.03667
+326,"Gilman, IA",Marshall,509,0.54,1.4,"http://en.wikipedia.org/wiki/Gilman,_Iowa",41.87972,-92.78889
+327,"Gilmore City, IA",Humboldt Pocahontas,504,1.25,3.2,"http://en.wikipedia.org/wiki/Gilmore_City,_Iowa",42.73056,-94.44250
+328,"Gladbrook, IA",Tama,945,0.7,1.8,"http://en.wikipedia.org/wiki/Gladbrook,_Iowa",42.18500,-92.71472
+329,"Glenwood, IA",Mills,5269,2.95,7.6,"http://en.wikipedia.org/wiki/Glenwood,_Iowa",41.04556,-95.74250
+330,"Glidden, IA",Carroll,1146,1.11,2.9,"http://en.wikipedia.org/wiki/Glidden,_Iowa",42.05833,-94.72833
+331,"Goldfield, IA",Wright,635,1.19,3.1,"http://en.wikipedia.org/wiki/Goldfield,_Iowa",42.73472,-93.92028
+332,"Goodell, IA",Hancock,139,0.43,1.1,"http://en.wikipedia.org/wiki/Goodell,_Iowa",42.92361,-93.61417
+333,"Goose Lake, IA",Clinton,240,0.32,0.83,"http://en.wikipedia.org/wiki/Goose_Lake,_Iowa",41.96750,-90.38083
+334,"Gowrie, IA",Webster,1037,1.45,3.8,"http://en.wikipedia.org/wiki/Gowrie,_Iowa",42.27972,-94.29139
+335,"Graettinger, IA",Palo Alto,844,0.77,2.0,"http://en.wikipedia.org/wiki/Graettinger,_Iowa",43.23806,-94.75111
+336,"Graf, IA",Dubuque,79,0.14,0.36,"http://en.wikipedia.org/wiki/Graf,_Iowa",42.49500,-90.87194
+337,"Grafton, IA",Worth,252,0.33,0.85,"http://en.wikipedia.org/wiki/Grafton,_Iowa",43.32944,-93.07028
+338,"Grand Junction, IA",Greene,824,0.97,2.5,"http://en.wikipedia.org/wiki/Grand_Junction,_Iowa",42.03111,-94.23528
+339,"Grand Mound, IA",Clinton,642,1.82,4.7,"http://en.wikipedia.org/wiki/Grand_Mound,_Iowa",41.82417,-90.64694
+340,"Grand River, IA",Decatur,236,0.21,0.54,"http://en.wikipedia.org/wiki/Grand_River,_Iowa",40.81889,-93.96250
+341,"Grandview, IA",Louisa,556,0.23,0.60,"http://en.wikipedia.org/wiki/Grandview,_Iowa",41.27722,-91.18889
+342,"Granger, IA",Dallas Polk,1244,1.45,3.8,"http://en.wikipedia.org/wiki/Granger,_Iowa",41.76167,-93.82389
+343,"Grant, IA",Montgomery,92,0.74,1.9,"http://en.wikipedia.org/wiki/Grant,_Iowa",41.14222,-94.98528
+344,"Granville, IA",Sioux,312,0.29,0.75,"http://en.wikipedia.org/wiki/Granville,_Iowa",42.98444,-95.87583
+345,"Gravity, IA",Taylor,188,0.3,0.78,"http://en.wikipedia.org/wiki/Gravity,_Iowa",40.75917,-94.74417
+346,"Gray, IA",Audubon,63,1.0,2.6,"http://en.wikipedia.org/wiki/Gray,_Iowa",41.84000,-94.98250
+347,"Greeley, IA",Delaware,256,0.37,0.96,"http://en.wikipedia.org/wiki/Greeley,_Iowa",42.58500,-91.34167
+348,"Greene, IA",Butler Floyd,1130,1.14,3.0,"http://en.wikipedia.org/wiki/Greene,_Iowa",42.89750,-92.80333
+349,"Greenfield, IA",Adair,1982,1.81,4.7,"http://en.wikipedia.org/wiki/Greenfield,_Iowa",41.30556,-94.45861
+350,"Greenville, IA",Clay,75,0.18,0.47,"http://en.wikipedia.org/wiki/Greenville,_Iowa",43.01611,-95.14556
+351,"Grimes, IA",Polk Dallas,8246,11.84,30.7,"http://en.wikipedia.org/wiki/Grimes,_Iowa",41.68306,-93.78444
+352,"Grinnell, IA",Poweshiek,9218,5.6,15,"http://en.wikipedia.org/wiki/Grinnell,_Iowa",41.74361,-92.72472
+353,"Griswold, IA",Cass,1036,0.62,1.6,"http://en.wikipedia.org/wiki/Griswold,_Iowa",41.233,-95.133
+354,"Grundy Center, IA",Grundy,2706,2.53,6.6,"http://en.wikipedia.org/wiki/Grundy_Center,_Iowa",42.36111,-92.77361
+355,"Gruver, IA",Emmet,94,0.13,0.34,"http://en.wikipedia.org/wiki/Gruver,_Iowa",43.39306,-94.70472
+356,"Guernsey, IA",Poweshiek,63,0.18,0.47,"http://en.wikipedia.org/wiki/Guernsey,_Iowa",41.65000,-92.34444
+357,"Guthrie Center, IA",Guthrie,1569,2.47,6.4,"http://en.wikipedia.org/wiki/Guthrie_Center,_Iowa",41.67972,-94.50083
+358,"Guttenberg, IA",Clayton,1919,2.09,5.4,"http://en.wikipedia.org/wiki/Guttenberg,_Iowa",42.78611,-91.10139
+359,"Halbur, IA",Carroll,246,0.19,0.49,"http://en.wikipedia.org/wiki/Halbur,_Iowa",42.00639,-94.97167
+360,"Hamburg, IA",Fremont,1187,1.1,2.8,"http://en.wikipedia.org/wiki/Hamburg,_Iowa",40.60583,-95.65500
+361,"Hamilton, IA",Marion,130,0.54,1.4,"http://en.wikipedia.org/wiki/Hamilton,_Iowa",41.17083,-92.90389
+362,"Hampton, IA",Franklin,4461,4.43,11.5,"http://en.wikipedia.org/wiki/Hampton,_Iowa",42.74306,-93.20778
+363,"Hancock, IA",Pottawattamie,196,0.74,1.9,"http://en.wikipedia.org/wiki/Hancock,_Iowa",41.39056,-95.36306
+364,"Hanlontown, IA",Worth,226,0.97,2.5,"http://en.wikipedia.org/wiki/Hanlontown,_Iowa",43.28083,-93.37944
+365,"Hansell, IA",Franklin,98,0.23,0.60,"http://en.wikipedia.org/wiki/Hansell,_Iowa",42.75722,-93.10361
+366,"Harcourt, IA",Webster,303,1.0,2.6,"http://en.wikipedia.org/wiki/Harcourt,_Iowa",42.26194,-94.17667
+367,"Hardy, IA",Humboldt,47,0.44,1.1,"http://en.wikipedia.org/wiki/Hardy,_Iowa",42.81028,-94.05167
+368,"Harlan, IA",Shelby,5106,4.39,11.4,"http://en.wikipedia.org/wiki/Harlan,_Iowa",41.65472,-95.32194
+369,"Harper, IA",Keokuk,114,0.09,0.23,"http://en.wikipedia.org/wiki/Harper,_Iowa",41.36250,-92.05111
+370,"Harpers Ferry, IA",Allamakee,328,0.63,1.6,"http://en.wikipedia.org/wiki/Harpers_Ferry,_Iowa",43.20167,-91.15083
+371,"Harris, IA",Osceola,170,0.79,2.0,"http://en.wikipedia.org/wiki/Harris,_Iowa",43.44556,-95.43306
+372,"Hartford, IA",Warren,771,1.03,2.7,"http://en.wikipedia.org/wiki/Hartford,_Iowa",41.45972,-93.40222
+373,"Hartley, IA",O'Brien,1672,1.3,3.4,"http://en.wikipedia.org/wiki/Hartley,_Iowa",43.18194,-95.47639
+374,"Hartwick, IA",Poweshiek,86,0.13,0.34,"http://en.wikipedia.org/wiki/Hartwick,_Iowa",41.78528,-92.34417
+375,"Harvey, IA",Marion,235,0.68,1.8,"http://en.wikipedia.org/wiki/Harvey,_Iowa",41.31556,-92.92556
+376,"Hastings, IA",Mills,152,0.41,1.1,"http://en.wikipedia.org/wiki/Hastings,_Iowa",41.02389,-95.49722
+377,"Havelock, IA",Pocahontas,138,0.57,1.5,"http://en.wikipedia.org/wiki/Havelock,_Iowa",42.83333,-94.70167
+378,"Haverhill, IA",Marshall,173,0.13,0.34,"http://en.wikipedia.org/wiki/Haverhill,_Iowa",41.94500,-92.96139
+379,"Hawarden, IA",Sioux,2546,2.89,7.5,"http://en.wikipedia.org/wiki/Hawarden,_Iowa",43.00111,-96.48444
+380,"Hawkeye, IA",Fayette,449,0.67,1.7,"http://en.wikipedia.org/wiki/Hawkeye,_Iowa",42.93806,-91.95111
+381,"Hayesville, IA",Keokuk,50,0.25,0.65,"http://en.wikipedia.org/wiki/Hayesville,_Iowa",41.26444,-92.24889
+382,"Hazleton, IA",Buchanan,823,0.75,1.9,"http://en.wikipedia.org/wiki/Hazleton,_Iowa",42.61833,-91.90667
+383,"Hedrick, IA",Keokuk,764,1.53,4.0,"http://en.wikipedia.org/wiki/Hedrick,_Iowa",41.17361,-92.30833
+384,"Henderson, IA",Mills,185,0.21,0.54,"http://en.wikipedia.org/wiki/Henderson,_Iowa",41.13917,-95.43139
+385,"Hepburn, IA",Page,23,0.08,0.21,"http://en.wikipedia.org/wiki/Hepburn,_Iowa",40.84861,-95.01667
+386,"Hiawatha, IA",Linn,7024,4.23,11.0,"http://en.wikipedia.org/wiki/Hiawatha,_Iowa",42.04444,-91.68111
+387,"Hills, IA",Johnson,703,0.63,1.6,"http://en.wikipedia.org/wiki/Hills,_Iowa",41.55694,-91.53500
+388,"Hillsboro, IA",Henry,180,0.51,1.3,"http://en.wikipedia.org/wiki/Hillsboro,_Iowa",40.83639,-91.71361
+389,"Hinton, IA",Plymouth,928,0.69,1.8,"http://en.wikipedia.org/wiki/Hinton,_Iowa",42.62500,-96.29417
+390,"Holland, IA",Grundy,282,0.25,0.65,"http://en.wikipedia.org/wiki/Holland,_Iowa",42.39972,-92.79944
+391,"Holstein, IA",Ida,1396,1.49,3.9,"http://en.wikipedia.org/wiki/Holstein,_Iowa",42.48667,-95.54250
+392,"Holy Cross, IA",Dubuque,374,0.34,0.88,"http://en.wikipedia.org/wiki/Holy_Cross,_Iowa",42.60028,-90.99444
+393,"Hopkinton, IA",Delaware,628,0.62,1.6,"http://en.wikipedia.org/wiki/Hopkinton,_Iowa",42.34389,-91.24861
+394,"Hornick, IA",Woodbury,225,0.25,0.65,"http://en.wikipedia.org/wiki/Hornick,_Iowa",42.23083,-96.09667
+395,"Hospers, IA",Sioux,698,0.48,1.2,"http://en.wikipedia.org/wiki/Hospers,_Iowa",43.07111,-95.90472
+396,"Houghton, IA",Lee,146,0.31,0.80,"http://en.wikipedia.org/wiki/Houghton,_Iowa",40.78306,-91.61250
+397,"Hubbard, IA",Hardin,845,1.84,4.8,"http://en.wikipedia.org/wiki/Hubbard,_Iowa",42.30500,-93.30083
+398,"Hudson, IA",Black Hawk,2282,8.4,22,"http://en.wikipedia.org/wiki/Hudson,_Iowa",42.40889,-92.45222
+399,"Hull, IA",Sioux,2175,1.2,3.1,"http://en.wikipedia.org/wiki/Hull,_Iowa",43.19028,-96.13444
+400,"Humboldt, IA",Humboldt,4690,4.64,12.0,"http://en.wikipedia.org/wiki/Humboldt,_Iowa",42.72361,-94.22139
+401,"Humeston, IA",Wayne,494,0.61,1.6,"http://en.wikipedia.org/wiki/Humeston,_Iowa",40.85889,-93.49750
+402,"Huxley, IA",Story,3317,3.15,8.2,"http://en.wikipedia.org/wiki/Huxley,_Iowa",41.89611,-93.60278
+403,"Ida Grove, IA",Ida,2142,2.1,5.4,"http://en.wikipedia.org/wiki/Ida_Grove,_Iowa",42.34444,-95.47056
+404,"Imogene, IA",Fremont,72,0.2,0.52,"http://en.wikipedia.org/wiki/Imogene,_Iowa",40.87861,-95.42778
+405,"Independence, IA",Buchanan,5966,6.08,15.7,"http://en.wikipedia.org/wiki/Independence,_Iowa",42.47028,-91.89389
+406,"Indianola, IA",Warren,14782,11.25,29.1,"http://en.wikipedia.org/wiki/Indianola,_Iowa",41.36167,-93.56306
+407,"Inwood, IA",Lyon,814,1.34,3.5,"http://en.wikipedia.org/wiki/Inwood,_Iowa",43.30889,-96.43250
+408,"Ionia, IA",Chickasaw,291,0.55,1.4,"http://en.wikipedia.org/wiki/Ionia,_Iowa",43.03444,-92.45667
+409,"Iowa City, IA",Johnson,67862,25.01,64.8,"http://en.wikipedia.org/wiki/Iowa_City,_Iowa",41.6601,-91.5342
+410,"Iowa Falls, IA",Hardin,5238,5.36,13.9,"http://en.wikipedia.org/wiki/Iowa_Falls,_Iowa",42.517,-93.267
+411,"Ireton, IA",Sioux,609,1.01,2.6,"http://en.wikipedia.org/wiki/Ireton,_Iowa",42.97417,-96.31778
+412,"Irwin, IA",Shelby,341,0.6,1.6,"http://en.wikipedia.org/wiki/Irwin,_Iowa",41.79056,-95.20722
+413,"Jackson Junction, IA",Winneshiek,58,5.99,15.5,"http://en.wikipedia.org/wiki/Jackson_Junction,_Iowa",43.10694,-92.04667
+414,"Jamaica, IA",Guthrie,224,0.46,1.2,"http://en.wikipedia.org/wiki/Jamaica,_Iowa",41.850,-94.300
+415,"Janesville, IA",Bremer Black Hawk,930,1.44,3.7,"http://en.wikipedia.org/wiki/Janesville,_Iowa",42.64611,-92.46278
+416,"Jefferson, IA",Greene,4345,5.97,15.5,"http://en.wikipedia.org/wiki/Jefferson,_Iowa",42.01667,-94.37667
+417,"Jesup, IA",Buchanan Black Hawk,2520,1.78,4.6,"http://en.wikipedia.org/wiki/Jesup,_Iowa",42.47583,-92.06278
+418,"Jewell Junction, IA",Hamilton,1215,3.87,10.0,"http://en.wikipedia.org/wiki/Jewell_Junction,_Iowa",42.30750,-93.64111
+419,"Johnston, IA",Polk,17278,17.16,44.4,"http://en.wikipedia.org/wiki/Johnston,_Iowa",41.67139,-93.70583
+420,"Joice, IA",Worth,222,1.0,2.6,"http://en.wikipedia.org/wiki/Joice,_Iowa",43.36333,-93.45583
+421,"Jolley, IA",Calhoun,41,0.11,0.28,"http://en.wikipedia.org/wiki/Jolley,_Iowa",42.47917,-94.71806
+422,"Kalona, IA",Washington,2363,2.04,5.3,"http://en.wikipedia.org/wiki/Kalona,_Iowa",41.48694,-91.70528
+423,"Kamrar, IA",Hamilton,199,0.86,2.2,"http://en.wikipedia.org/wiki/Kamrar,_Iowa",42.39194,-93.72861
+424,"Kanawha, IA",Hancock,652,2.01,5.2,"http://en.wikipedia.org/wiki/Kanawha,_Iowa",42.93667,-93.79417
+425,"Kellerton, IA",Ringgold,315,0.66,1.7,"http://en.wikipedia.org/wiki/Kellerton,_Iowa",40.71028,-94.05000
+426,"Kelley, IA",Story,309,0.68,1.8,"http://en.wikipedia.org/wiki/Kelley,_Iowa",41.950914,-93.664905
+427,"Kellogg, IA",Jasper,599,0.37,0.96,"http://en.wikipedia.org/wiki/Kellogg,_Iowa",41.71667,-92.90750
+428,"Kensett, IA",Worth,266,1.53,4.0,"http://en.wikipedia.org/wiki/Kensett,_Iowa",43.35389,-93.20861
+429,"Keokuk, IA",Lee,10780,9.13,23.6,"http://en.wikipedia.org/wiki/Keokuk,_Iowa",40.40250,-91.39444
+430,"Keomah Village, IA",Mahaska,84,0.03,0.078,"http://en.wikipedia.org/wiki/Keomah_Village,_Iowa",41.28944,-92.53639
+431,"Keosauqua, IA",Van Buren,1006,1.45,3.8,"http://en.wikipedia.org/wiki/Keosauqua,_Iowa",40.73222,-91.96306
+432,"Keota, IA",Keokuk,1009,0.63,1.6,"http://en.wikipedia.org/wiki/Keota,_Iowa",41.36472,-91.95444
+433,"Keswick, IA",Keokuk,246,0.43,1.1,"http://en.wikipedia.org/wiki/Keswick,_Iowa",41.45389,-92.23889
+434,"Keystone, IA",Benton,622,0.45,1.2,"http://en.wikipedia.org/wiki/Keystone,_Iowa",42.00083,-92.19861
+435,"Kimballton, IA",Audubon,322,0.77,2.0,"http://en.wikipedia.org/wiki/Kimballton,_Iowa",41.62833,-95.07444
+436,"Kingsley, IA",Plymouth,1411,1.61,4.2,"http://en.wikipedia.org/wiki/Kingsley,_Iowa",42.58917,-95.96833
+437,"Kinross, IA",Keokuk,73,0.2,0.52,"http://en.wikipedia.org/wiki/Kinross,_Iowa",41.45944,-91.98750
+438,"Kirkman, IA",Shelby,64,0.28,0.73,"http://en.wikipedia.org/wiki/Kirkman,_Iowa",41.72889,-95.26667
+439,"Kirkville, IA",Wapello,167,0.56,1.5,"http://en.wikipedia.org/wiki/Kirkville,_Iowa",41.14389,-92.50444
+440,"Kiron, IA",Crawford,279,0.21,0.54,"http://en.wikipedia.org/wiki/Kiron,_Iowa",42.19611,-95.32694
+441,"Klemme, IA",Hancock,507,0.51,1.3,"http://en.wikipedia.org/wiki/Klemme,_Iowa",43.00722,-93.60139
+442,"Knierim, IA",Calhoun,60,1.01,2.6,"http://en.wikipedia.org/wiki/Knierim,_Iowa",42.45528,-94.45639
+443,"Knoxville, IA",Marion,7313,4.63,12.0,"http://en.wikipedia.org/wiki/Knoxville,_Iowa",41.31917,-93.10139
+444,"La Motte, IA",Jackson,260,0.46,1.2,"http://en.wikipedia.org/wiki/La_Motte,_Iowa",42.29500,-90.62056
+445,"La Porte City, IA",Black Hawk,2285,2.55,6.6,"http://en.wikipedia.org/wiki/La_Porte_City,_Iowa",42.31361,-92.18833
+446,"Lacona, IA",Warren,361,0.36,0.93,"http://en.wikipedia.org/wiki/Lacona,_Iowa",41.18889,-93.38444
+447,"Ladora, IA",Iowa,283,0.3,0.78,"http://en.wikipedia.org/wiki/Ladora,_Iowa",41.75500,-92.18389
+448,"Lake City, IA",Calhoun,1727,4.81,12.5,"http://en.wikipedia.org/wiki/Lake_City,_Iowa",42.26861,-94.73583
+449,"Lake Mills, IA",Winnebago,2100,2.7,7.0,"http://en.wikipedia.org/wiki/Lake_Mills,_Iowa",43.41833,-93.53194
+450,"Lake Park, IA",Dickinson,1105,1.55,4.0,"http://en.wikipedia.org/wiki/Lake_Park,_Iowa",43.45278,-95.32167
+451,"Lake View, IA",Sac,1142,2.11,5.5,"http://en.wikipedia.org/wiki/Lake_View,_Iowa",42.30694,-95.04750
+452,"Lakeside, IA",Buena Vista,596,0.18,0.47,"http://en.wikipedia.org/wiki/Lakeside,_Iowa",42.61972,-95.17417
+453,"Lakota, IA",Kossuth,255,0.19,0.49,"http://en.wikipedia.org/wiki/Lakota,_Iowa",43.37806,-94.09417
+454,"Lambs Grove, IA",Jasper,172,0.1,0.26,"http://en.wikipedia.org/wiki/Lambs_Grove,_Iowa",41.70111,-93.07833
+455,"Lamoni, IA",Decatur,2324,3.33,8.6,"http://en.wikipedia.org/wiki/Lamoni,_Iowa",40.62250,-93.93361
+456,"Lamont, IA",Buchanan,461,0.58,1.5,"http://en.wikipedia.org/wiki/Lamont,_Iowa",42.60000,-91.64111
+457,"Lanesboro, IA",Carroll,121,0.74,1.9,"http://en.wikipedia.org/wiki/Lanesboro,_Iowa",42.18417,-94.69250
+458,"Lansing, IA",Allamakee,999,1.08,2.8,"http://en.wikipedia.org/wiki/Lansing,_Iowa",43.36139,-91.22333
+459,"Larchwood, IA",Lyon,866,0.99,2.6,"http://en.wikipedia.org/wiki/Larchwood,_Iowa",43.45444,-96.43500
+460,"Larrabee, IA",Cherokee,132,0.12,0.31,"http://en.wikipedia.org/wiki/Larrabee,_Iowa",42.86139,-95.54500
+461,"Latimer, IA",Franklin,507,2.4,6.2,"http://en.wikipedia.org/wiki/Latimer,_Iowa",42.76278,-93.36889
+462,"Laurel, IA",Marshall,239,0.25,0.65,"http://en.wikipedia.org/wiki/Laurel,_Iowa",41.88361,-92.92278
+463,"Laurens, IA",Pocahontas,1258,0.73,1.9,"http://en.wikipedia.org/wiki/Laurens,_Iowa",42.84722,-94.84944
+464,"Lawler, IA",Chickasaw,439,0.88,2.3,"http://en.wikipedia.org/wiki/Lawler,_Iowa",43.06944,-92.15278
+465,"Lawton, IA",Woodbury,908,0.71,1.8,"http://en.wikipedia.org/wiki/Lawton,_Iowa",42.47806,-96.18167
+466,"Le Claire, IA",Scott,3765,4.67,12.1,"http://en.wikipedia.org/wiki/Le_Claire,_Iowa",41.59611,-90.35639
+467,"Le Grand, IA",Marshall Tama,938,1.04,2.7,"http://en.wikipedia.org/wiki/Le_Grand,_Iowa",42.00611,-92.77639
+468,"Le Mars, IA",Plymouth,9826,8.96,23.2,"http://en.wikipedia.org/wiki/Le_Mars,_Iowa",42.78889,-96.16583
+469,"Le Roy, IA",Decatur,15,0.33,0.85,"http://en.wikipedia.org/wiki/Le_Roy,_Iowa",40.87750,-93.59306
+470,"Ledyard, IA",Kossuth,130,0.33,0.85,"http://en.wikipedia.org/wiki/Ledyard,_Iowa",43.42111,-94.16056
+471,"Lehigh, IA",Webster,416,2.09,5.4,"http://en.wikipedia.org/wiki/Lehigh,_Iowa",42.35722,-94.05139
+472,"Leighton, IA",Mahaska,162,0.1,0.26,"http://en.wikipedia.org/wiki/Leighton,_Iowa",41.33861,-92.78667
+473,"Leland, IA",Winnebago,289,1.33,3.4,"http://en.wikipedia.org/wiki/Leland,_Iowa",43.33361,-93.63750
+474,"Lenox, IA",Taylor Adams,1407,1.98,5.1,"http://en.wikipedia.org/wiki/Lenox,_Iowa",40.88333,-94.55833
+475,"Leon, IA",Decatur,1977,3.17,8.2,"http://en.wikipedia.org/wiki/Leon,_Iowa",40.74000,-93.74639
+476,"Lester, IA",Lyon,294,1.82,4.7,"http://en.wikipedia.org/wiki/Lester,_Iowa",43.43750,-96.33333
+477,"Letts, IA",Louisa,384,0.59,1.5,"http://en.wikipedia.org/wiki/Letts,_Iowa",41.32917,-91.23639
+478,"Lewis, IA",Cass,433,0.5,1.3,"http://en.wikipedia.org/wiki/Lewis,_Iowa",41.30528,-95.08444
+479,"Libertyville, IA",Jefferson,315,0.49,1.3,"http://en.wikipedia.org/wiki/Libertyville,_Iowa",40.95778,-92.04917
+480,"Lidderdale, IA",Carroll,180,2.42,6.3,"http://en.wikipedia.org/wiki/Lidderdale,_Iowa",42.12500,-94.78306
+481,"Lime Springs, IA",Howard,505,1.02,2.6,"http://en.wikipedia.org/wiki/Lime_Springs,_Iowa",43.44944,-92.28111
+482,"Lincoln, IA",Tama,162,0.46,1.2,"http://en.wikipedia.org/wiki/Lincoln,_Iowa",42.26250,-92.69194
+483,"Linden, IA",Dallas,199,0.79,2.0,"http://en.wikipedia.org/wiki/Linden,_Iowa",41.64361,-94.27028
+484,"Lineville, IA",Wayne,217,0.9,2.3,"http://en.wikipedia.org/wiki/Lineville,_Iowa",40.58528,-93.52306
+485,"Linn Grove, IA",Buena Vista,154,0.58,1.5,"http://en.wikipedia.org/wiki/Linn_Grove,_Iowa",42.89250,-95.24194
+486,"Lisbon, IA",Linn,2152,2.14,5.5,"http://en.wikipedia.org/wiki/Lisbon,_Iowa",41.92083,-91.38806
+487,"Liscomb, IA",Marshall,301,0.98,2.5,"http://en.wikipedia.org/wiki/Liscomb,_Iowa",42.19056,-93.00556
+488,"Little Rock, IA",Lyon,459,0.8,2.1,"http://en.wikipedia.org/wiki/Little_Rock,_Iowa",43.44250,-95.88389
+489,"Little Sioux, IA",Harrison,170,0.37,0.96,"http://en.wikipedia.org/wiki/Little_Sioux,_Iowa",41.80917,-96.02250
+490,"Livermore, IA",Humboldt,384,0.7,1.8,"http://en.wikipedia.org/wiki/Livermore,_Iowa",42.86694,-94.18417
+491,"Lockridge, IA",Jefferson,268,0.74,1.9,"http://en.wikipedia.org/wiki/Lockridge,_Iowa",40.99500,-91.75167
+492,"Logan, IA",Harrison,1534,1.0,2.6,"http://en.wikipedia.org/wiki/Logan,_Iowa",41.64472,-95.79000
+493,"Lohrville, IA",Calhoun,368,2.14,5.5,"http://en.wikipedia.org/wiki/Lohrville,_Iowa",42.26861,-94.54778
+494,"Lone Rock, IA",Kossuth,146,0.12,0.31,"http://en.wikipedia.org/wiki/Lone_Rock,_Iowa",43.22139,-94.32500
+495,"Lone Tree, IA",Johnson,1300,1.04,2.7,"http://en.wikipedia.org/wiki/Lone_Tree,_Iowa",41.48583,-91.42667
+496,"Long Grove, IA",Scott,808,1.02,2.6,"http://en.wikipedia.org/wiki/Long_Grove,_Iowa",41.69694,-90.58500
+497,"Lorimor, IA",Union,360,0.38,0.98,"http://en.wikipedia.org/wiki/Lorimor,_Iowa",41.12639,-94.05583
+498,"Lost Nation, IA",Clinton,446,0.64,1.7,"http://en.wikipedia.org/wiki/Lost_Nation,_Iowa",41.96417,-90.81750
+499,"Lovilia, IA",Monroe,538,0.5,1.3,"http://en.wikipedia.org/wiki/Lovilia,_Iowa",41.13250,-92.90611
+500,"Low Moor, IA",Clinton,288,0.46,1.2,"http://en.wikipedia.org/wiki/Low_Moor,_Iowa",41.80139,-90.35611
+501,"Lowden, IA",Cedar,789,1.02,2.6,"http://en.wikipedia.org/wiki/Lowden,_Iowa",41.85778,-90.92583
+502,"Lu Verne, IA",Kossuth Humboldt,261,2.26,5.9,"http://en.wikipedia.org/wiki/Lu_Verne,_Iowa",42.91167,-94.08361
+503,"Luana, IA",Clayton,269,1.05,2.7,"http://en.wikipedia.org/wiki/Luana,_Iowa",43.06083,-91.45333
+504,"Lucas, IA",Lucas,216,0.97,2.5,"http://en.wikipedia.org/wiki/Lucas,_Iowa",41.02972,-93.46167
+505,"Luther, IA",Boone,122,0.77,2.0,"http://en.wikipedia.org/wiki/Luther,_Iowa",41.96722,-93.81861
+506,"Luxemburg, IA",Dubuque,240,0.46,1.2,"http://en.wikipedia.org/wiki/Luxemburg,_Iowa",42.60472,-91.07667
+507,"Luzerne, IA",Benton,96,0.12,0.31,"http://en.wikipedia.org/wiki/Luzerne,_Iowa",41.90611,-92.18028
+508,"Lynnville, IA",Jasper,379,1.11,2.9,"http://en.wikipedia.org/wiki/Lynnville,_Iowa",41.57806,-92.78556
+509,"Lytton, IA",Sac Calhoun,315,0.2,0.52,"http://en.wikipedia.org/wiki/Lytton,_Iowa",42.42444,-94.85917
+510,"Macedonia, IA",Pottawattamie,246,0.33,0.85,"http://en.wikipedia.org/wiki/Macedonia,_Iowa",41.19194,-95.42500
+511,"Macksburg, IA",Madison,113,1.99,5.2,"http://en.wikipedia.org/wiki/Macksburg,_Iowa",41.21417,-94.18556
+512,"Madrid, IA",Boone,2543,1.19,3.1,"http://en.wikipedia.org/wiki/Madrid,_Iowa",41.87556,-93.82000
+513,"Magnolia, IA",Harrison,183,0.57,1.5,"http://en.wikipedia.org/wiki/Magnolia,_Iowa",41.69444,-95.87361
+514,"Maharishi Vedic City, IA",Jefferson,259,3.36,8.7,"http://en.wikipedia.org/wiki/Maharishi_Vedic_City,_Iowa",41.050732,-91.993976
+515,"Malcom, IA",Poweshiek,287,0.61,1.6,"http://en.wikipedia.org/wiki/Malcom,_Iowa",41.70750,-92.55528
+516,"Mallard, IA",Palo Alto,274,0.41,1.1,"http://en.wikipedia.org/wiki/Mallard,_Iowa",42.93722,-94.68417
+517,"Maloy, IA",Ringgold,29,0.62,1.6,"http://en.wikipedia.org/wiki/Maloy,_Iowa",40.67500,-94.41306
+518,"Malvern, IA",Mills,1142,1.19,3.1,"http://en.wikipedia.org/wiki/Malvern,_Iowa",41.00472,-95.58444
+519,"Manchester, IA",Delaware,5179,4.68,12.1,"http://en.wikipedia.org/wiki/Manchester,_Iowa",42.48611,-91.45722
+520,"Manilla, IA",Crawford,776,1.03,2.7,"http://en.wikipedia.org/wiki/Manilla,_Iowa",41.88833,-95.23278
+521,"Manly, IA",Worth,1323,1.47,3.8,"http://en.wikipedia.org/wiki/Manly,_Iowa",43.28778,-93.20389
+522,"Manning, IA",Carroll,1500,2.49,6.4,"http://en.wikipedia.org/wiki/Manning,_Iowa",41.90861,-95.06333
+523,"Manson, IA",Calhoun,1690,3.18,8.2,"http://en.wikipedia.org/wiki/Manson,_Iowa",42.53056,-94.53472
+524,"Mapleton, IA",Monona,1224,1.6,4.1,"http://en.wikipedia.org/wiki/Mapleton,_Iowa",42.16417,-95.79111
+525,"Maquoketa, IA",Jackson Clinton,6141,4.33,11.2,"http://en.wikipedia.org/wiki/Maquoketa,_Iowa",42.06694,-90.66611
+526,"Marathon, IA",Buena Vista,237,0.74,1.9,"http://en.wikipedia.org/wiki/Marathon,_Iowa",42.86000,-94.98167
+527,"Marble Rock, IA",Floyd,307,0.83,2.1,"http://en.wikipedia.org/wiki/Marble_Rock,_Iowa",42.96472,-92.86778
+528,"Marcus, IA",Cherokee,1117,1.54,4.0,"http://en.wikipedia.org/wiki/Marcus,_Iowa",42.82278,-95.80500
+529,"Marengo, IA",Iowa,2528,2.08,5.4,"http://en.wikipedia.org/wiki/Marengo,_Iowa",41.79722,-92.06944
+530,"Marion, IA",Linn,34768,16.05,41.6,"http://en.wikipedia.org/wiki/Marion,_Iowa",42.03778,-91.75972
+531,"Marne, IA",Cass,120,0.57,1.5,"http://en.wikipedia.org/wiki/Marne,_Iowa",41.44861,-95.11194
+532,"Marquette, IA",Clayton,375,1.74,4.5,"http://en.wikipedia.org/wiki/Marquette,_Iowa",43.04278,-91.18417
+533,"Marshalltown, IA",Marshall,27552,19.28,49.9,"http://en.wikipedia.org/wiki/Marshalltown,_Iowa",42.04167,-92.91444
+534,"Martelle, IA",Jones,255,0.34,0.88,"http://en.wikipedia.org/wiki/Martelle,_Iowa",42.02056,-91.35833
+535,"Martensdale, IA",Warren,465,0.39,1.0,"http://en.wikipedia.org/wiki/Martensdale,_Iowa",41.37306,-93.73972
+536,"Martinsburg, IA",Keokuk,112,0.38,0.98,"http://en.wikipedia.org/wiki/Martinsburg,_Iowa",41.17833,-92.25139
+537,"Marysville, IA",Marion,66,0.37,0.96,"http://en.wikipedia.org/wiki/Marysville,_Iowa",41.18111,-92.95222
+538,"Mason City, IA",Cerro Gordo,28079,27.81,72.0,"http://en.wikipedia.org/wiki/Mason_City,_Iowa",43.14861,-93.20194
+539,"Masonville, IA",Delaware,127,0.33,0.85,"http://en.wikipedia.org/wiki/Masonville,_Iowa",42.47972,-91.59056
+540,"Massena, IA",Cass,355,0.69,1.8,"http://en.wikipedia.org/wiki/Massena,_Iowa",41.25389,-94.76889
+541,"Matlock, IA",Sioux,87,0.37,0.96,"http://en.wikipedia.org/wiki/Matlock,_Iowa",43.24306,-95.93444
+542,"Maurice, IA",Sioux,275,0.55,1.4,"http://en.wikipedia.org/wiki/Maurice,_Iowa",42.96611,-96.18083
+543,"Maxwell, IA",Story,920,1.11,2.9,"http://en.wikipedia.org/wiki/Maxwell,_Iowa",41.89028,-93.39778
+544,"Maynard, IA",Fayette,518,0.99,2.6,"http://en.wikipedia.org/wiki/Maynard,_Iowa",42.77444,-91.87833
+545,"Maysville, IA",Scott,176,0.27,0.70,"http://en.wikipedia.org/wiki/Maysville,_Iowa",41.64917,-90.71833
+546,"McCallsburg, IA",Story,333,0.53,1.4,"http://en.wikipedia.org/wiki/McCallsburg,_Iowa",42.16611,-93.39056
+547,"McCausland, IA",Scott,291,0.54,1.4,"http://en.wikipedia.org/wiki/McCausland,_Iowa",41.74472,-90.44250
+548,"McClelland, IA",Pottawattamie,151,0.17,0.44,"http://en.wikipedia.org/wiki/McClelland,_Iowa",41.32917,-95.68417
+549,"McGregor, IA",Clayton,871,1.3,3.4,"http://en.wikipedia.org/wiki/McGregor,_Iowa",43.02194,-91.17972
+550,"McIntire, IA",Mitchell,122,1.01,2.6,"http://en.wikipedia.org/wiki/McIntire,_Iowa",43.43667,-92.59583
+551,"Mechanicsville, IA",Cedar,1146,0.83,2.1,"http://en.wikipedia.org/wiki/Mechanicsville,_Iowa",41.900,-91.250
+552,"Mediapolis, IA",Des Moines,1560,1.2,3.1,"http://en.wikipedia.org/wiki/Mediapolis,_Iowa",41.00833,-91.16472
+553,"Melbourne, IA",Marshall,830,0.57,1.5,"http://en.wikipedia.org/wiki/Melbourne,_Iowa",41.94167,-93.10250
+554,"Melcher-Dallas, IA",Marion,1288,1.0,2.6,"http://en.wikipedia.org/wiki/Melcher-Dallas,_Iowa",41.22667,-93.23972
+555,"Melrose, IA",Monroe,112,1.01,2.6,"http://en.wikipedia.org/wiki/Melrose,_Iowa",40.97528,-93.05000
+556,"Melvin, IA",Osceola,214,0.18,0.47,"http://en.wikipedia.org/wiki/Melvin,_Iowa",43.28667,-95.60750
+557,"Menlo, IA",Guthrie,353,0.47,1.2,"http://en.wikipedia.org/wiki/Menlo,_Iowa",41.52250,-94.40528
+558,"Meriden, IA",Cherokee,159,0.11,0.28,"http://en.wikipedia.org/wiki/Meriden,_Iowa",42.79417,-95.63417
+559,"Merrill, IA",Plymouth,755,0.57,1.5,"http://en.wikipedia.org/wiki/Merrill,_Iowa",42.72139,-96.25083
+560,"Meservey, IA",Cerro Gordo,256,1.51,3.9,"http://en.wikipedia.org/wiki/Meservey,_Iowa",42.91306,-93.47611
+561,"Middletown, IA",Des Moines,318,0.61,1.6,"http://en.wikipedia.org/wiki/Middletown,_Iowa",40.82806,-91.26028
+562,"Miles, IA",Jackson,445,1.15,3.0,"http://en.wikipedia.org/wiki/Miles,_Iowa",42.04750,-90.31500
+563,"Milford, IA",Dickinson,2898,2.28,5.9,"http://en.wikipedia.org/wiki/Milford,_Iowa",43.32694,-95.15083
+564,"Millersburg, IA",Iowa,159,0.14,0.36,"http://en.wikipedia.org/wiki/Millersburg,_Iowa",41.57278,-92.15944
+565,"Millerton, IA",Wayne,45,0.21,0.54,"http://en.wikipedia.org/wiki/Millerton,_Iowa",40.84917,-93.30556
+566,"Millville, IA",Clayton,30,0.07,0.18,"http://en.wikipedia.org/wiki/Millville,_Iowa",42.70417,-91.07611
+567,"Milo, IA",Warren,775,0.62,1.6,"http://en.wikipedia.org/wiki/Milo,_Iowa",41.28833,-93.44000
+568,"Milton, IA",Van Buren,443,2.51,6.5,"http://en.wikipedia.org/wiki/Milton,_Iowa",40.67306,-92.16167
+569,"Minburn, IA",Dallas,365,0.28,0.73,"http://en.wikipedia.org/wiki/Minburn,_Iowa",41.75611,-94.02833
+570,"Minden, IA",Pottawattamie,599,0.42,1.1,"http://en.wikipedia.org/wiki/Minden,_Iowa",41.46694,-95.54222
+571,"Mingo, IA",Jasper,302,0.61,1.6,"http://en.wikipedia.org/wiki/Mingo,_Iowa",41.76778,-93.28389
+572,"Missouri Valley, IA",Harrison,2838,3.13,8.1,"http://en.wikipedia.org/wiki/Missouri_Valley,_Iowa",41.55889,-95.89389
+573,"Mitchell, IA",Mitchell,138,0.54,1.4,"http://en.wikipedia.org/wiki/Mitchell,_Iowa",43.32111,-92.87028
+574,"Mitchellville, IA",Polk Jasper,2254,2.33,6.0,"http://en.wikipedia.org/wiki/Mitchellville,_Iowa",41.66722,-93.36028
+575,"Modale, IA",Harrison,283,1.05,2.7,"http://en.wikipedia.org/wiki/Modale,_Iowa",41.62000,-96.01111
+576,"Mondamin, IA",Harrison,402,0.45,1.2,"http://en.wikipedia.org/wiki/Mondamin,_Iowa",41.70972,-96.02111
+577,"Monmouth, IA",Jackson,153,0.56,1.5,"http://en.wikipedia.org/wiki/Monmouth,_Iowa",42.07639,-90.88056
+578,"Monona, IA",Clayton,1549,1.17,3.0,"http://en.wikipedia.org/wiki/Monona,_Iowa",43.05139,-91.39056
+579,"Monroe, IA",Jasper,1830,1.69,4.4,"http://en.wikipedia.org/wiki/Monroe,_Iowa",41.52194,-93.10361
+580,"Montezuma, IA",Poweshiek,1462,2.48,6.4,"http://en.wikipedia.org/wiki/Montezuma,_Iowa",41.58472,-92.52528
+581,"Monticello, IA",Jones,3796,6.29,16.3,"http://en.wikipedia.org/wiki/Monticello,_Iowa",42.23889,-91.18917
+582,"Montour, IA",Tama,249,0.46,1.2,"http://en.wikipedia.org/wiki/Montour,_Iowa",41.98056,-92.71556
+583,"Montrose, IA",Lee,898,1.12,2.9,"http://en.wikipedia.org/wiki/Montrose,_Iowa",40.52944,-91.41611
+584,"Moorhead, IA",Monona,226,0.32,0.83,"http://en.wikipedia.org/wiki/Moorhead,_Iowa",41.92306,-95.85056
+585,"Moorland, IA",Webster,169,1.48,3.8,"http://en.wikipedia.org/wiki/Moorland,_Iowa",42.44222,-94.29361
+586,"Moravia, IA",Appanoose Monroe,665,1.12,2.9,"http://en.wikipedia.org/wiki/Moravia,_Iowa",40.89056,-92.81583
+587,"Morley, IA",Jones,115,0.09,0.23,"http://en.wikipedia.org/wiki/Morley,_Iowa",42.00667,-91.24667
+588,"Morning Sun, IA",Louisa,836,0.8,2.1,"http://en.wikipedia.org/wiki/Morning_Sun,_Iowa",41.09528,-91.25361
+589,"Morrison, IA",Grundy,94,0.1,0.26,"http://en.wikipedia.org/wiki/Morrison,_Iowa",42.34333,-92.67444
+590,"Moulton, IA",Appanoose,605,1.01,2.6,"http://en.wikipedia.org/wiki/Moulton,_Iowa",40.68528,-92.67778
+591,"Mount Auburn, IA",Benton,150,0.28,0.73,"http://en.wikipedia.org/wiki/Mount_Auburn,_Iowa",42.25722,-92.09278
+592,"Mount Ayr, IA",Ringgold,1691,2.67,6.9,"http://en.wikipedia.org/wiki/Mount_Ayr,_Iowa",40.71417,-94.23694
+593,"Mount Pleasant, IA",Henry,8668,8.51,22.0,"http://en.wikipedia.org/wiki/Mount_Pleasant,_Iowa",40.96694,-91.55111
+594,"Mount Sterling, IA",Van Buren,36,0.4,1.0,"http://en.wikipedia.org/wiki/Mount_Sterling,_Iowa",40.61806,-91.93389
+595,"Mount Union, IA",Henry,107,0.11,0.28,"http://en.wikipedia.org/wiki/Mount_Union,_Iowa",41.05750,-91.39083
+596,"Mount Vernon, IA",Linn,4506,3.49,9.0,"http://en.wikipedia.org/wiki/Mount_Vernon,_Iowa",41.92417,-91.41972
+597,"Moville, IA",Woodbury,1618,0.89,2.3,"http://en.wikipedia.org/wiki/Moville,_Iowa",42.48833,-96.07000
+598,"Murray, IA",Clarke,756,0.79,2.0,"http://en.wikipedia.org/wiki/Murray,_Iowa",41.04333,-93.95000
+599,"Muscatine, IA",Muscatine,22886,17.3,45,"http://en.wikipedia.org/wiki/Muscatine,_Iowa",41.42389,-91.05611
+600,"Mystic, IA",Appanoose,425,2.92,7.6,"http://en.wikipedia.org/wiki/Mystic,_Iowa",40.77861,-92.94500
+601,"Nashua, IA",Chickasaw Floyd,1663,2.88,7.5,"http://en.wikipedia.org/wiki/Nashua,_Iowa",42.95222,-92.53806
+602,"Nemaha, IA",Sac,85,0.07,0.18,"http://en.wikipedia.org/wiki/Nemaha,_Iowa",42.51500,-95.08944
+603,"Neola, IA",Pottawattamie,842,0.46,1.2,"http://en.wikipedia.org/wiki/Neola,_Iowa",41.45083,-95.61750
+604,"Nevada, IA",Story,6798,5.06,13.1,"http://en.wikipedia.org/wiki/Nevada,_Iowa",42.01917,-93.45167
+605,"New Albin, IA",Allamakee,522,0.24,0.62,"http://en.wikipedia.org/wiki/New_Albin,_Iowa",43.49694,-91.28722
+606,"New Hampton, IA",Chickasaw,3571,3.16,8.2,"http://en.wikipedia.org/wiki/New_Hampton,_Iowa",43.05972,-92.31472
+607,"New Hartford, IA",Butler,516,0.5,1.3,"http://en.wikipedia.org/wiki/New_Hartford,_Iowa",42.56722,-92.62139
+608,"New Liberty, IA",Scott,137,0.1,0.26,"http://en.wikipedia.org/wiki/New_Liberty,_Iowa",41.71722,-90.87944
+609,"New London, IA",Henry,1897,1.01,2.6,"http://en.wikipedia.org/wiki/New_London,_Iowa",40.92528,-91.40111
+610,"New Market, IA",Taylor,415,0.44,1.1,"http://en.wikipedia.org/wiki/New_Market,_Iowa",40.73028,-94.90139
+611,"New Providence, IA",Hardin,228,1.01,2.6,"http://en.wikipedia.org/wiki/New_Providence,_Iowa",42.28194,-93.17083
+612,"New Sharon, IA",Mahaska,1293,0.94,2.4,"http://en.wikipedia.org/wiki/New_Sharon,_Iowa",41.46944,-92.65083
+613,"New Vienna, IA",Dubuque,407,0.44,1.1,"http://en.wikipedia.org/wiki/New_Vienna,_Iowa",42.54833,-91.11361
+614,"New Virginia, IA",Warren,489,0.46,1.2,"http://en.wikipedia.org/wiki/New_Virginia,_Iowa",41.18278,-93.72944
+615,"Newell, IA",Buena Vista,876,1.27,3.3,"http://en.wikipedia.org/wiki/Newell,_Iowa",42.60611,-95.00222
+616,"Newhall, IA",Benton,875,0.32,0.83,"http://en.wikipedia.org/wiki/Newhall,_Iowa",41.99389,-91.96639
+617,"Newton, IA",Jasper,15254,11.19,29.0,"http://en.wikipedia.org/wiki/Newton,_Iowa",41.69861,-93.04694
+618,"Nichols, IA",Muscatine,374,0.23,0.60,"http://en.wikipedia.org/wiki/Nichols,_Iowa",41.47917,-91.30833
+619,"Nodaway, IA",Adams,114,0.54,1.4,"http://en.wikipedia.org/wiki/Nodaway,_Iowa",40.93750,-94.89417
+620,"Nora Springs, IA",Floyd Cerro Gordo,1431,2.19,5.7,"http://en.wikipedia.org/wiki/Nora_Springs,_Iowa",43.14389,-93.00889
+621,"North Buena Vista, IA",Clayton,121,1.0,2.6,"http://en.wikipedia.org/wiki/North_Buena_Vista,_Iowa",42.67917,-90.95667
+622,"North English, IA",Iowa Keokuk,1041,0.55,1.4,"http://en.wikipedia.org/wiki/North_English,_Iowa",41.51528,-92.07833
+623,"North Liberty, IA",Johnson,13374,7.83,20.3,"http://en.wikipedia.org/wiki/North_Liberty,_Iowa",41.74306,-91.60778
+624,"North Washington, IA",Chickasaw,117,0.2,0.52,"http://en.wikipedia.org/wiki/North_Washington,_Iowa",43.11639,-92.41528
+625,"Northboro, IA",Page,58,0.26,0.67,"http://en.wikipedia.org/wiki/Northboro,_Iowa",40.60778,-95.29139
+626,"Northwood, IA",Worth,1989,3.76,9.7,"http://en.wikipedia.org/wiki/Northwood,_Iowa",43.44583,-93.21917
+627,"Norwalk, IA",Warren Polk,8945,10.74,27.8,"http://en.wikipedia.org/wiki/Norwalk,_Iowa",41.48333,-93.67861
+628,"Norway, IA",Benton,545,0.45,1.2,"http://en.wikipedia.org/wiki/Norway,_Iowa",41.90333,-91.92333
+629,"Numa, IA",Appanoose,92,0.44,1.1,"http://en.wikipedia.org/wiki/Numa,_Iowa",40.68556,-92.97861
+630,"Oakland, IA",Pottawattamie,1527,1.42,3.7,"http://en.wikipedia.org/wiki/Oakland,_Iowa",41.30861,-95.39556
+631,"Oakland Acres, IA",Jasper,156,0.28,0.73,"http://en.wikipedia.org/wiki/Oakland_Acres,_Iowa",41.71722,-92.82500
+632,"Oakville, IA",Louisa,173,0.42,1.1,"http://en.wikipedia.org/wiki/Oakville,_Iowa",41.09778,-91.04361
+633,"Ocheyedan, IA",Osceola,490,1.16,3.0,"http://en.wikipedia.org/wiki/Ocheyedan,_Iowa",43.41444,-95.53528
+634,"Odebolt, IA",Sac,1013,1.05,2.7,"http://en.wikipedia.org/wiki/Odebolt,_Iowa",42.31028,-95.25139
+635,"Oelwein, IA",Fayette,6415,4.81,12.5,"http://en.wikipedia.org/wiki/Oelwein,_Iowa",42.67694,-91.91583
+636,"Ogden, IA",Boone,2044,1.37,3.5,"http://en.wikipedia.org/wiki/Ogden,_Iowa",42.04000,-94.03056
+637,"Okoboji, IA",Dickinson,807,1.85,4.8,"http://en.wikipedia.org/wiki/Okoboji,_Iowa",43.38750,-95.13806
+638,"Olds, IA",Henry,229,0.34,0.88,"http://en.wikipedia.org/wiki/Olds,_Iowa",41.13333,-91.54556
+639,"Olin, IA",Jones,698,1.03,2.7,"http://en.wikipedia.org/wiki/Olin,_Iowa",41.99750,-91.14000
+640,"Ollie, IA",Keokuk,215,0.99,2.6,"http://en.wikipedia.org/wiki/Ollie,_Iowa",41.19778,-92.09417
+641,"Onawa, IA",Monona,2998,5.19,13.4,"http://en.wikipedia.org/wiki/Onawa,_Iowa",42.02750,-96.09639
+642,"Onslow, IA",Jones,197,0.22,0.57,"http://en.wikipedia.org/wiki/Onslow,_Iowa",42.10556,-91.01528
+643,"Orange City, IA",Sioux,6004,3.94,10.2,"http://en.wikipedia.org/wiki/Orange_City,_Iowa",43.00556,-96.05889
+644,"Orchard, IA",Mitchell,71,0.09,0.23,"http://en.wikipedia.org/wiki/Orchard,_Iowa",43.22694,-92.77444
+645,"Orient, IA",Adair,408,0.45,1.2,"http://en.wikipedia.org/wiki/Orient,_Iowa",41.20278,-94.41889
+646,"Orleans, IA",Dickinson,608,1.08,2.8,"http://en.wikipedia.org/wiki/Orleans,_Iowa",43.44444,-95.10778
+647,"Osage, IA",Mitchell,3619,2.24,5.8,"http://en.wikipedia.org/wiki/Osage,_Iowa",43.28472,-92.81222
+648,"Osceola, IA",Clarke,4929,6.48,16.8,"http://en.wikipedia.org/wiki/Osceola,_Iowa",41.03417,-93.76833
+649,"Oskaloosa, IA",Mahaska,11463,7.43,19.2,"http://en.wikipedia.org/wiki/Oskaloosa,_Iowa",41.29389,-92.64444
+650,"Ossian, IA",Winneshiek,845,1.11,2.9,"http://en.wikipedia.org/wiki/Ossian,_Iowa",43.14639,-91.76389
+651,"Osterdock, IA",Clayton,59,0.46,1.2,"http://en.wikipedia.org/wiki/Osterdock,_Iowa",42.72972,-91.16167
+652,"Otho, IA",Webster,542,0.46,1.2,"http://en.wikipedia.org/wiki/Otho,_Iowa",42.42472,-94.14972
+653,"Oto, IA",Woodbury,108,0.26,0.67,"http://en.wikipedia.org/wiki/Oto,_Iowa",42.28361,-95.89417
+654,"Ottosen, IA",Humboldt,55,0.57,1.5,"http://en.wikipedia.org/wiki/Ottosen,_Iowa",42.89556,-94.37778
+655,"Ottumwa, IA",Wapello,25023,15.86,41.1,"http://en.wikipedia.org/wiki/Ottumwa,_Iowa",41.01306,-92.41472
+656,"Owasa, IA",Hardin,43,0.56,1.5,"http://en.wikipedia.org/wiki/Owasa,_Iowa",42.43194,-93.20528
+657,"Oxford, IA",Johnson,807,0.91,2.4,"http://en.wikipedia.org/wiki/Oxford,_Iowa",41.72278,-91.78972
+658,"Oxford Junction, IA",Jones,496,0.69,1.8,"http://en.wikipedia.org/wiki/Oxford_Junction,_Iowa",41.98333,-90.95444
+659,"Oyens, IA",Plymouth,103,0.09,0.23,"http://en.wikipedia.org/wiki/Oyens,_Iowa",42.81944,-96.05778
+660,"Pacific Junction, IA",Mills,471,0.76,2.0,"http://en.wikipedia.org/wiki/Pacific_Junction,_Iowa",41.01833,-95.80000
+661,"Packwood, IA",Jefferson,204,0.76,2.0,"http://en.wikipedia.org/wiki/Packwood,_Iowa",41.13333,-92.08306
+662,"Palmer, IA",Pocahontas,165,0.42,1.1,"http://en.wikipedia.org/wiki/Palmer,_Iowa",42.63083,-94.60000
+663,"Palo, IA",Linn,1026,1.43,3.7,"http://en.wikipedia.org/wiki/Palo,_Iowa",42.06222,-91.79306
+664,"Panama, IA",Shelby,221,0.29,0.75,"http://en.wikipedia.org/wiki/Panama,_Iowa",41.72667,-95.47417
+665,"Panora, IA",Guthrie,1124,1.8,4.7,"http://en.wikipedia.org/wiki/Panora,_Iowa",41.69222,-94.36361
+666,"Panorama Park, IA",Scott,129,0.05,0.13,"http://en.wikipedia.org/wiki/Panorama_Park,_Iowa",41.55528,-90.45472
+667,"Parkersburg, IA",Butler,1870,1.42,3.7,"http://en.wikipedia.org/wiki/Parkersburg,_Iowa",42.57444,-92.78667
+668,"Parnell, IA",Iowa,193,0.17,0.44,"http://en.wikipedia.org/wiki/Parnell,_Iowa",41.58361,-92.00500
+669,"Paton, IA",Greene,236,0.56,1.5,"http://en.wikipedia.org/wiki/Paton,_Iowa",42.16389,-94.25500
+670,"Patterson, IA",Madison,130,0.2,0.52,"http://en.wikipedia.org/wiki/Patterson,_Iowa",41.34889,-93.88056
+671,"Paullina, IA",O'Brien,1056,0.85,2.2,"http://en.wikipedia.org/wiki/Paullina,_Iowa",42.97861,-95.68694
+672,"Pella, IA",Marion,10352,8.73,22.6,"http://en.wikipedia.org/wiki/Pella,_Iowa",41.40722,-92.91722
+673,"Peosta, IA",Dubuque,1377,1.97,5.1,"http://en.wikipedia.org/wiki/Peosta,_Iowa",42.44917,-90.84639
+674,"Perry, IA",Dallas,7702,4.17,10.8,"http://en.wikipedia.org/wiki/Perry,_Iowa",41.84000,-94.10000
+675,"Persia, IA",Harrison,319,0.47,1.2,"http://en.wikipedia.org/wiki/Persia,_Iowa",41.57889,-95.57056
+676,"Peterson, IA",Clay,334,0.31,0.80,"http://en.wikipedia.org/wiki/Peterson,_Iowa",42.91861,-95.34139
+677,"Pierson, IA",Woodbury,366,0.62,1.6,"http://en.wikipedia.org/wiki/Pierson,_Iowa",42.54472,-95.86861
+678,"Pilot Mound, IA",Boone,173,0.98,2.5,"http://en.wikipedia.org/wiki/Pilot_Mound,_Iowa",42.16250,-94.01444
+679,"Pioneer, IA",Humboldt,23,0.06,0.16,"http://en.wikipedia.org/wiki/Pioneer,_Iowa",42.65444,-94.39083
+680,"Pisgah, IA",Harrison,251,1.01,2.6,"http://en.wikipedia.org/wiki/Pisgah,_Iowa",41.83278,-95.92639
+681,"Plainfield, IA",Bremer,436,0.33,0.85,"http://en.wikipedia.org/wiki/Plainfield,_Iowa",42.84472,-92.53472
+682,"Plano, IA",Appanoose,70,0.56,1.5,"http://en.wikipedia.org/wiki/Plano,_Iowa",40.75611,-93.04639
+683,"Pleasant Hill, IA",Polk,8785,9.15,23.7,"http://en.wikipedia.org/wiki/Pleasant_Hill,_Iowa",41.58583,-93.51306
+684,"Pleasant Plain, IA",Jefferson,93,1.02,2.6,"http://en.wikipedia.org/wiki/Pleasant_Plain,_Iowa",41.14583,-91.85944
+685,"Pleasanton, IA",Decatur,49,0.35,0.91,"http://en.wikipedia.org/wiki/Pleasanton,_Iowa",40.58028,-93.74306
+686,"Pleasantville, IA",Marion,1694,2.53,6.6,"http://en.wikipedia.org/wiki/Pleasantville,_Iowa",41.38778,-93.26861
+687,"Plover, IA",Pocahontas,77,0.54,1.4,"http://en.wikipedia.org/wiki/Plover,_Iowa",42.87806,-94.62278
+688,"Plymouth, IA",Cerro Gordo,382,0.44,1.1,"http://en.wikipedia.org/wiki/Plymouth,_Iowa",43.24528,-93.12250
+689,"Pocahontas, IA",Pocahontas,1789,2.02,5.2,"http://en.wikipedia.org/wiki/Pocahontas,_Iowa",42.73444,-94.67306
+690,"Polk City, IA",Polk,3418,4.32,11.2,"http://en.wikipedia.org/wiki/Polk_City,_Iowa",41.77056,-93.71583
+691,"Pomeroy, IA",Calhoun,662,2.04,5.3,"http://en.wikipedia.org/wiki/Pomeroy,_Iowa",42.54833,-94.68361
+692,"Popejoy, IA",Franklin,79,0.74,1.9,"http://en.wikipedia.org/wiki/Popejoy,_Iowa",42.59417,-93.42694
+693,"Portsmouth, IA",Shelby,195,0.28,0.73,"http://en.wikipedia.org/wiki/Portsmouth,_Iowa",41.65083,-95.51972
+694,"Postville, IA",Allamakee Clayton,2227,2.11,5.5,"http://en.wikipedia.org/wiki/Postville,_Iowa",43.08500,-91.56944
+695,"Prairie City, IA",Jasper,1680,1.2,3.1,"http://en.wikipedia.org/wiki/Prairie_City,_Iowa",41.59806,-93.23667
+696,"Prairieburg, IA",Linn,178,0.46,1.2,"http://en.wikipedia.org/wiki/Prairieburg,_Iowa",42.23778,-91.42444
+697,"Prescott, IA",Adams,257,0.4,1.0,"http://en.wikipedia.org/wiki/Prescott,_Iowa",41.02250,-94.61250
+698,"Preston, IA",Jackson,1012,0.96,2.5,"http://en.wikipedia.org/wiki/Preston,_Iowa",42.05028,-90.39472
+699,"Primghar, IA",O'Brien,909,1.38,3.6,"http://en.wikipedia.org/wiki/Primghar,_Iowa",43.08778,-95.62778
+700,"Princeton, IA",Scott,886,2.56,6.6,"http://en.wikipedia.org/wiki/Princeton,_Iowa",41.67333,-90.34306
+701,"Promise City, IA",Wayne,111,0.19,0.49,"http://en.wikipedia.org/wiki/Promise_City,_Iowa",40.74694,-93.14889
+702,"Protivin, IA",Howard Chickasaw,283,0.48,1.2,"http://en.wikipedia.org/wiki/Protivin,_Iowa",43.21556,-92.09278
+703,"Pulaski, IA",Davis,260,0.51,1.3,"http://en.wikipedia.org/wiki/Pulaski,_Iowa",40.69639,-92.27278
+704,"Quasqueton, IA",Buchanan,554,1.13,2.9,"http://en.wikipedia.org/wiki/Quasqueton,_Iowa",42.39472,-91.75917
+705,"Quimby, IA",Cherokee,319,0.41,1.1,"http://en.wikipedia.org/wiki/Quimby,_Iowa",42.62972,-95.64278
+706,"Radcliffe, IA",Hardin,545,1.0,2.6,"http://en.wikipedia.org/wiki/Radcliffe,_Iowa",42.31472,-93.43222
+707,"Rake, IA",Winnebago,225,0.81,2.1,"http://en.wikipedia.org/wiki/Rake,_Iowa",43.48333,-93.91944
+708,"Ralston, IA",Carroll Greene,79,1.99,5.2,"http://en.wikipedia.org/wiki/Ralston,_Iowa",42.04167,-94.63056
+709,"Randalia, IA",Fayette,68,0.22,0.57,"http://en.wikipedia.org/wiki/Randalia,_Iowa",42.86222,-91.88694
+710,"Randall, IA",Hamilton,173,0.41,1.1,"http://en.wikipedia.org/wiki/Randall,_Iowa",42.23750,-93.60250
+711,"Randolph, IA",Fremont,168,0.32,0.83,"http://en.wikipedia.org/wiki/Randolph,_Iowa",40.87306,-95.56667
+712,"Rathbun, IA",Appanoose,89,0.22,0.57,"http://en.wikipedia.org/wiki/Rathbun,_Iowa",40.80139,-92.88833
+713,"Raymond, IA",Black Hawk,788,1.63,4.2,"http://en.wikipedia.org/wiki/Raymond,_Iowa",42.46833,-92.22111
+714,"Readlyn, IA",Bremer,808,0.33,0.85,"http://en.wikipedia.org/wiki/Readlyn,_Iowa",42.70333,-92.22639
+715,"Reasnor, IA",Jasper,152,0.55,1.4,"http://en.wikipedia.org/wiki/Reasnor,_Iowa",41.57861,-93.02278
+716,"Red Oak, IA",Montgomery,5742,3.95,10.2,"http://en.wikipedia.org/wiki/Red_Oak,_Iowa",41.01167,-95.22722
+717,"Redding, IA",Ringgold,82,0.99,2.6,"http://en.wikipedia.org/wiki/Redding,_Iowa",40.60500,-94.38833
+718,"Redfield, IA",Dallas,835,1.4,3.6,"http://en.wikipedia.org/wiki/Redfield,_Iowa",41.59111,-94.19528
+719,"Reinbeck, IA",Grundy,1664,1.82,4.7,"http://en.wikipedia.org/wiki/Reinbeck,_Iowa",42.32222,-92.59861
+720,"Rembrandt, IA",Buena Vista,203,0.2,0.52,"http://en.wikipedia.org/wiki/Rembrandt,_Iowa",42.82639,-95.16583
+721,"Remsen, IA",Plymouth,1663,1.27,3.3,"http://en.wikipedia.org/wiki/Remsen,_Iowa",42.81306,-95.97167
+722,"Renwick, IA",Humboldt,242,1.0,2.6,"http://en.wikipedia.org/wiki/Renwick,_Iowa",42.82833,-93.97833
+723,"Rhodes, IA",Marshall,305,1.01,2.6,"http://en.wikipedia.org/wiki/Rhodes,_Iowa",41.92667,-93.18500
+724,"Riceville, IA",Mitchell Howard,785,1.1,2.8,"http://en.wikipedia.org/wiki/Riceville,_Iowa",43.36250,-92.55333
+725,"Richland, IA",Keokuk,584,0.77,2.0,"http://en.wikipedia.org/wiki/Richland,_Iowa",41.18500,-91.99389
+726,"Rickardsville, IA",Dubuque,182,0.9,2.3,"http://en.wikipedia.org/wiki/Rickardsville,_Iowa",42.58278,-90.88056
+727,"Ricketts, IA",Crawford,145,0.26,0.67,"http://en.wikipedia.org/wiki/Ricketts,_Iowa",42.12944,-95.57444
+728,"Ridgeway, IA",Winneshiek,315,1.02,2.6,"http://en.wikipedia.org/wiki/Ridgeway,_Iowa",43.29778,-91.98917
+729,"Rinard, IA",Calhoun,52,1.0,2.6,"http://en.wikipedia.org/wiki/Rinard,_Iowa",42.33917,-94.48806
+730,"Ringsted, IA",Emmet,422,1.08,2.8,"http://en.wikipedia.org/wiki/Ringsted,_Iowa",43.29500,-94.50889
+731,"Rippey, IA",Greene,292,0.84,2.2,"http://en.wikipedia.org/wiki/Rippey,_Iowa",41.93389,-94.20111
+732,"Riverdale, IA",Scott,405,1.84,4.8,"http://en.wikipedia.org/wiki/Riverdale,_Iowa",41.53556,-90.46722
+733,"Riverside, IA",Washington,993,1.72,4.5,"http://en.wikipedia.org/wiki/Riverside,_Iowa",41.48194,-91.57667
+734,"Riverton, IA",Fremont,304,0.59,1.5,"http://en.wikipedia.org/wiki/Riverton,_Iowa",40.68611,-95.56778
+735,"Robins, IA",Linn,3142,5.83,15.1,"http://en.wikipedia.org/wiki/Robins,_Iowa",42.07278,-91.66861
+736,"Rock Falls, IA",Cerro Gordo,155,0.21,0.54,"http://en.wikipedia.org/wiki/Rock_Falls,_Iowa",43.20611,-93.08611
+737,"Rock Rapids, IA",Lyon,2549,3.96,10.3,"http://en.wikipedia.org/wiki/Rock_Rapids,_Iowa",43.42806,-96.16861
+738,"Rock Valley, IA",Sioux,3354,3.22,8.3,"http://en.wikipedia.org/wiki/Rock_Valley,_Iowa",43.20167,-96.29639
+739,"Rockford, IA",Floyd,860,0.63,1.6,"http://en.wikipedia.org/wiki/Rockford,_Iowa",43.05278,-92.94917
+740,"Rockwell, IA",Cerro Gordo,1039,2.98,7.7,"http://en.wikipedia.org/wiki/Rockwell,_Iowa",42.98472,-93.19000
+741,"Rockwell City, IA",Calhoun,1709,4.21,10.9,"http://en.wikipedia.org/wiki/Rockwell_City,_Iowa",42.39583,-94.63306
+742,"Rodman, IA",Palo Alto,45,0.17,0.44,"http://en.wikipedia.org/wiki/Rodman,_Iowa",43.02694,-94.52778
+743,"Rodney, IA",Monona,60,0.16,0.41,"http://en.wikipedia.org/wiki/Rodney,_Iowa",42.20472,-95.95139
+744,"Roland, IA",Story,1284,1.08,2.8,"http://en.wikipedia.org/wiki/Roland,_Iowa",42.16556,-93.50000
+745,"Rolfe, IA",Pocahontas,584,1.05,2.7,"http://en.wikipedia.org/wiki/Rolfe,_Iowa",42.81444,-94.53000
+746,"Rome, IA",Henry,117,0.13,0.34,"http://en.wikipedia.org/wiki/Rome,_Iowa",40.98306,-91.68306
+747,"Rose Hill, IA",Mahaska,168,0.14,0.36,"http://en.wikipedia.org/wiki/Rose_Hill,_Iowa",41.32139,-92.46306
+748,"Rossie, IA",Clay,70,0.15,0.39,"http://en.wikipedia.org/wiki/Rossie,_Iowa",43.01333,-95.18917
+749,"Rowan, IA",Wright,158,0.49,1.3,"http://en.wikipedia.org/wiki/Rowan,_Iowa",42.74028,-93.55111
+750,"Rowley, IA",Buchanan,264,0.36,0.93,"http://en.wikipedia.org/wiki/Rowley,_Iowa",42.36833,-91.84500
+751,"Royal, IA",Clay,446,0.3,0.78,"http://en.wikipedia.org/wiki/Royal,_Iowa",43.06389,-95.28472
+752,"Rudd, IA",Floyd,369,0.87,2.3,"http://en.wikipedia.org/wiki/Rudd,_Iowa",43.12861,-92.90361
+753,"Runnells, IA",Polk,507,0.43,1.1,"http://en.wikipedia.org/wiki/Runnells,_Iowa",41.51250,-93.35694
+754,"Russell, IA",Lucas,554,1.04,2.7,"http://en.wikipedia.org/wiki/Russell,_Iowa",40.98250,-93.19861
+755,"Ruthven, IA",Palo Alto,737,0.42,1.1,"http://en.wikipedia.org/wiki/Ruthven,_Iowa",43.13056,-94.90028
+756,"Rutland, IA",Humboldt,126,0.9,2.3,"http://en.wikipedia.org/wiki/Rutland,_Iowa",42.75889,-94.29278
+757,"Ryan, IA",Delaware,361,0.43,1.1,"http://en.wikipedia.org/wiki/Ryan,_Iowa",42.35056,-91.48306
+758,"Sabula, IA",Jackson,576,0.4,1.0,"http://en.wikipedia.org/wiki/Sabula,_Iowa",42.06778,-90.17417
+759,"Sac City, IA",Sac,2220,4.86,12.6,"http://en.wikipedia.org/wiki/Sac_City,_Iowa",42.42111,-94.99500
+760,"Sageville, IA",Dubuque,122,0.69,1.8,"http://en.wikipedia.org/wiki/Sageville,_Iowa",42.55278,-90.71222
+761,"Salem, IA",Henry,383,0.61,1.6,"http://en.wikipedia.org/wiki/Salem,_Iowa",40.85306,-91.62083
+762,"Salix, IA",Woodbury,363,1.52,3.9,"http://en.wikipedia.org/wiki/Salix,_Iowa",42.30778,-96.28722
+763,"Sanborn, IA",O'Brien,1404,1.9,4.9,"http://en.wikipedia.org/wiki/Sanborn,_Iowa",43.18306,-95.65667
+764,"Sandyville, IA",Warren,51,0.51,1.3,"http://en.wikipedia.org/wiki/Sandyville,_Iowa",41.37028,-93.38556
+765,"Scarville, IA",Winnebago,72,0.08,0.21,"http://en.wikipedia.org/wiki/Scarville,_Iowa",43.47056,-93.61639
+766,"Schaller, IA",Sac,772,1.26,3.3,"http://en.wikipedia.org/wiki/Schaller,_Iowa",42.49722,-95.29417
+767,"Schleswig, IA",Crawford,882,1.3,3.4,"http://en.wikipedia.org/wiki/Schleswig,_Iowa",42.16361,-95.43500
+768,"Scranton, IA",Greene,557,1.88,4.9,"http://en.wikipedia.org/wiki/Scranton,_Iowa",42.02222,-94.54611
+769,"Searsboro, IA",Poweshiek,148,0.45,1.2,"http://en.wikipedia.org/wiki/Searsboro,_Iowa",41.57944,-92.70361
+770,"Sergeant Bluff, IA",Woodbury,4227,2.11,5.5,"http://en.wikipedia.org/wiki/Sergeant_Bluff,_Iowa",42.40194,-96.35833
+771,"Seymour, IA",Wayne,701,2.35,6.1,"http://en.wikipedia.org/wiki/Seymour,_Iowa",40.68278,-93.12083
+772,"Shambaugh, IA",Page,191,0.36,0.93,"http://en.wikipedia.org/wiki/Shambaugh,_Iowa",40.65694,-95.03472
+773,"Shannon City, IA",Union Ringgold,71,0.41,1.1,"http://en.wikipedia.org/wiki/Shannon_City,_Iowa",40.89972,-94.26389
+774,"Sharpsburg, IA",Taylor,89,0.36,0.93,"http://en.wikipedia.org/wiki/Sharpsburg,_Iowa",40.80222,-94.64028
+775,"Sheffield, IA",Franklin,1172,5.55,14.4,"http://en.wikipedia.org/wiki/Sheffield,_Iowa",42.89361,-93.21694
+776,"Shelby, IA",Shelby Pottawattamie,641,1.74,4.5,"http://en.wikipedia.org/wiki/Shelby,_Iowa",41.51417,-95.45000
+777,"Sheldahl, IA",Story Polk Boone,319,0.84,2.2,"http://en.wikipedia.org/wiki/Sheldahl,_Iowa",41.86417,-93.69639
+778,"Sheldon, IA",O'Brien Sioux,5188,4.5,12,"http://en.wikipedia.org/wiki/Sheldon,_Iowa",43.18111,-95.84806
+779,"Shell Rock, IA",Butler,1296,1.56,4.0,"http://en.wikipedia.org/wiki/Shell_Rock,_Iowa",42.71111,-92.58333
+780,"Shellsburg, IA",Benton,983,0.77,2.0,"http://en.wikipedia.org/wiki/Shellsburg,_Iowa",42.09306,-91.87028
+781,"Shenandoah, IA",Page Fremont,5150,3.75,9.7,"http://en.wikipedia.org/wiki/Shenandoah,_Iowa",40.76222,-95.37083
+782,"Sherrill, IA",Dubuque,177,0.13,0.34,"http://en.wikipedia.org/wiki/Sherrill,_Iowa",42.60278,-90.78222
+783,"Shueyville, IA",Johnson,577,1.79,4.6,"http://en.wikipedia.org/wiki/Shueyville,_Iowa",41.84806,-91.64861
+784,"Sibley, IA",Osceola,2798,1.68,4.4,"http://en.wikipedia.org/wiki/Sibley,_Iowa",43.40306,-95.74639
+785,"Sidney, IA",Fremont,1138,1.38,3.6,"http://en.wikipedia.org/wiki/Sidney,_Iowa",40.74722,-95.64694
+786,"Sigourney, IA",Keokuk,2059,2.18,5.6,"http://en.wikipedia.org/wiki/Sigourney,_Iowa",41.33333,-92.20333
+787,"Silver City, IA",Mills,245,0.22,0.57,"http://en.wikipedia.org/wiki/Silver_City,_Iowa",41.11194,-95.63806
+788,"Sioux Center, IA",Sioux,7048,6.31,16.3,"http://en.wikipedia.org/wiki/Sioux_Center,_Iowa",43.07667,-96.17333
+789,"Sioux City, IA",Woodbury Plymouth,82684,57.35,148.5,"http://en.wikipedia.org/wiki/Sioux_City,_Iowa",42.49806,-96.39556
+790,"Sioux Rapids, IA",Buena Vista,775,0.82,2.1,"http://en.wikipedia.org/wiki/Sioux_Rapids,_Iowa",42.89278,-95.14722
+791,"Slater, IA",Story,1489,1.26,3.3,"http://en.wikipedia.org/wiki/Slater,_Iowa",41.88028,-93.68167
+792,"Sloan, IA",Woodbury,973,0.62,1.6,"http://en.wikipedia.org/wiki/Sloan,_Iowa",42.23306,-96.22444
+793,"Smithland, IA",Woodbury,224,0.37,0.96,"http://en.wikipedia.org/wiki/Smithland,_Iowa",42.22917,-95.93194
+794,"Soldier, IA",Monona,174,0.29,0.75,"http://en.wikipedia.org/wiki/Soldier,_Iowa",41.98472,-95.78000
+795,"Solon, IA",Johnson,2037,1.39,3.6,"http://en.wikipedia.org/wiki/Solon,_Iowa",41.80667,-91.49583
+796,"Somers, IA",Calhoun,113,0.35,0.91,"http://en.wikipedia.org/wiki/Somers,_Iowa",42.37778,-94.43111
+797,"South English, IA",Keokuk,212,0.3,0.78,"http://en.wikipedia.org/wiki/South_English,_Iowa",41.45222,-92.08972
+798,"Spencer, IA",Clay,11233,11.01,28.5,"http://en.wikipedia.org/wiki/Spencer,_Iowa",43.14528,-95.14722
+799,"Spillville, IA",Winneshiek,367,0.42,1.1,"http://en.wikipedia.org/wiki/Spillville,_Iowa",43.200,-91.950
+800,"Spirit Lake, IA",Dickinson,4840,4.63,12.0,"http://en.wikipedia.org/wiki/Spirit_Lake,_Iowa",43.42306,-95.10417
+801,"Spragueville, IA",Jackson,81,0.67,1.7,"http://en.wikipedia.org/wiki/Spragueville,_Iowa",42.07556,-90.43000
+802,"Spring Hill, IA",Warren,63,0.12,0.31,"http://en.wikipedia.org/wiki/Spring_Hill,_Iowa",41.41194,-93.64917
+803,"Springbrook, IA",Jackson,144,0.6,1.6,"http://en.wikipedia.org/wiki/Springbrook,_Iowa",42.16194,-90.48000
+804,"Springville, IA",Linn,1074,0.72,1.9,"http://en.wikipedia.org/wiki/Springville,_Iowa",42.05694,-91.44417
+805,"St. Ansgar, IA",Mitchell,1107,1.03,2.7,"http://en.wikipedia.org/wiki/St._Ansgar,_Iowa",43.37889,-92.91944
+806,"St. Anthony, IA",Marshall,102,0.56,1.5,"http://en.wikipedia.org/wiki/St._Anthony,_Iowa",42.12417,-93.19667
+807,"St. Charles, IA",Madison,653,0.54,1.4,"http://en.wikipedia.org/wiki/St._Charles,_Iowa",41.28778,-93.80806
+808,"St. Donatus, IA",Jackson,135,0.37,0.96,"http://en.wikipedia.org/wiki/St._Donatus,_Iowa",42.36056,-90.53889
+809,"St. Lucas, IA",Fayette,143,0.27,0.70,"http://en.wikipedia.org/wiki/St._Lucas,_Iowa",43.06389,-91.93472
+810,"St. Marys, IA",Warren,127,0.14,0.36,"http://en.wikipedia.org/wiki/St._Marys,_Iowa",41.30722,-93.73611
+811,"St. Olaf, IA",Clayton,108,0.24,0.62,"http://en.wikipedia.org/wiki/St._Olaf,_Iowa",42.92778,-91.38722
+812,"St. Paul, IA",Lee,129,0.38,0.98,"http://en.wikipedia.org/wiki/St._Paul,_Iowa",40.76694,-91.51694
+813,"Stacyville, IA",Mitchell,494,0.51,1.3,"http://en.wikipedia.org/wiki/Stacyville,_Iowa",43.43694,-92.78306
+814,"Stanhope, IA",Hamilton,422,0.97,2.5,"http://en.wikipedia.org/wiki/Stanhope,_Iowa",42.28944,-93.79528
+815,"Stanley, IA",Buchanan Fayette,125,0.24,0.62,"http://en.wikipedia.org/wiki/Stanley,_Iowa",42.64194,-91.81194
+816,"Stanton, IA",Montgomery,689,0.92,2.4,"http://en.wikipedia.org/wiki/Stanton,_Iowa",40.98111,-95.10222
+817,"Stanwood, IA",Cedar,684,0.71,1.8,"http://en.wikipedia.org/wiki/Stanwood,_Iowa",41.89194,-91.15056
+818,"State Center, IA",Marshall,1468,0.98,2.5,"http://en.wikipedia.org/wiki/State_Center,_Iowa",42.01583,-93.16417
+819,"Steamboat Rock, IA",Hardin,310,0.54,1.4,"http://en.wikipedia.org/wiki/Steamboat_Rock,_Iowa",42.40750,-93.06639
+820,"Stockport, IA",Van Buren,296,1.03,2.7,"http://en.wikipedia.org/wiki/Stockport,_Iowa",40.85694,-91.83333
+821,"Stockton, IA",Muscatine,197,0.11,0.28,"http://en.wikipedia.org/wiki/Stockton,_Iowa",41.59139,-90.85778
+822,"Storm Lake, IA",Buena Vista,10600,4.08,10.6,"http://en.wikipedia.org/wiki/Storm_Lake,_Iowa",42.64361,-95.20194
+823,"Story City, IA",Story,3431,2.8,7.3,"http://en.wikipedia.org/wiki/Story_City,_Iowa",42.18639,-93.59194
+824,"Stout, IA",Grundy,224,0.3,0.78,"http://en.wikipedia.org/wiki/Stout,_Iowa",42.52722,-92.71139
+825,"Stratford, IA",Hamilton Webster,743,1.91,4.9,"http://en.wikipedia.org/wiki/Stratford,_Iowa",42.27083,-93.92694
+826,"Strawberry Point, IA",Clayton,1279,2.11,5.5,"http://en.wikipedia.org/wiki/Strawberry_Point,_Iowa",42.67917,-91.53694
+827,"Struble, IA",Plymouth,78,0.16,0.41,"http://en.wikipedia.org/wiki/Struble,_Iowa",42.89417,-96.19333
+828,"Stuart, IA",Guthrie Adair,1648,2.58,6.7,"http://en.wikipedia.org/wiki/Stuart,_Iowa",41.50361,-94.32056
+829,"Sully, IA",Jasper,821,0.58,1.5,"http://en.wikipedia.org/wiki/Sully,_Iowa",41.57861,-92.84556
+830,"Sumner, IA",Bremer Fayette,2028,2.52,6.5,"http://en.wikipedia.org/wiki/Sumner,_Iowa",42.85000,-92.09972
+831,"Superior, IA",Dickinson,130,0.41,1.1,"http://en.wikipedia.org/wiki/Superior,_Iowa",43.43222,-94.94556
+832,"Sutherland, IA",O'Brien,649,0.87,2.3,"http://en.wikipedia.org/wiki/Sutherland,_Iowa",42.97250,-95.49694
+833,"Swaledale, IA",Cerro Gordo,165,0.24,0.62,"http://en.wikipedia.org/wiki/Swaledale,_Iowa",42.97806,-93.31556
+834,"Swan, IA",Marion,72,0.64,1.7,"http://en.wikipedia.org/wiki/Swan,_Iowa",41.46639,-93.31111
+835,"Swea City, IA",Kossuth,536,0.74,1.9,"http://en.wikipedia.org/wiki/Swea_City,_Iowa",43.38361,-94.30917
+836,"Swisher, IA",Johnson,879,0.82,2.1,"http://en.wikipedia.org/wiki/Swisher,_Iowa",41.84500,-91.69500
+837,"Tabor, IA",Fremont Mills,1040,1.29,3.3,"http://en.wikipedia.org/wiki/Tabor,_Iowa",40.89667,-95.67250
+838,"Tama, IA",Tama,2877,3.26,8.4,"http://en.wikipedia.org/wiki/Tama,_Iowa",41.96611,-92.57500
+839,"Templeton, IA",Carroll,362,0.43,1.1,"http://en.wikipedia.org/wiki/Templeton,_Iowa",41.91806,-94.94250
+840,"Tennant, IA",Shelby,68,0.71,1.8,"http://en.wikipedia.org/wiki/Tennant,_Iowa",41.59417,-95.44194
+841,"Terril, IA",Dickinson,367,0.55,1.4,"http://en.wikipedia.org/wiki/Terril,_Iowa",43.30556,-94.97139
+842,"Thayer, IA",Union,59,0.09,0.23,"http://en.wikipedia.org/wiki/Thayer,_Iowa",41.02917,-94.04972
+843,"Thompson, IA",Winnebago,502,0.88,2.3,"http://en.wikipedia.org/wiki/Thompson,_Iowa",43.36944,-93.77167
+844,"Thor, IA",Humboldt,186,1.0,2.6,"http://en.wikipedia.org/wiki/Thor,_Iowa",42.68861,-94.04889
+845,"Thornburg, IA",Keokuk,67,0.2,0.52,"http://en.wikipedia.org/wiki/Thornburg,_Iowa",41.45500,-92.33389
+846,"Thornton, IA",Cerro Gordo,422,1.25,3.2,"http://en.wikipedia.org/wiki/Thornton,_Iowa",42.94500,-93.38417
+847,"Thurman, IA",Fremont,229,0.56,1.5,"http://en.wikipedia.org/wiki/Thurman,_Iowa",40.82028,-95.75111
+848,"Tiffin, IA",Johnson,1947,4.13,10.7,"http://en.wikipedia.org/wiki/Tiffin,_Iowa",41.70639,-91.66139
+849,"Tingley, IA",Ringgold,184,0.68,1.8,"http://en.wikipedia.org/wiki/Tingley,_Iowa",40.85278,-94.19583
+850,"Tipton, IA",Cedar,3221,2.09,5.4,"http://en.wikipedia.org/wiki/Tipton,_Iowa",41.77056,-91.12917
+851,"Titonka, IA",Kossuth,476,0.28,0.73,"http://en.wikipedia.org/wiki/Titonka,_Iowa",43.23667,-94.04194
+852,"Toledo, IA",Tama,2341,2.3,6.0,"http://en.wikipedia.org/wiki/Toledo,_Iowa",41.99333,-92.57917
+853,"Toronto, IA",Clinton,124,0.19,0.49,"http://en.wikipedia.org/wiki/Toronto,_Iowa",41.90333,-90.86306
+854,"Traer, IA",Tama,1703,1.18,3.1,"http://en.wikipedia.org/wiki/Traer,_Iowa",42.19139,-92.46444
+855,"Treynor, IA",Pottawattamie,919,0.58,1.5,"http://en.wikipedia.org/wiki/Treynor,_Iowa",41.23111,-95.60667
+856,"Tripoli, IA",Bremer,1313,1.41,3.7,"http://en.wikipedia.org/wiki/Tripoli,_Iowa",42.80583,-92.25750
+857,"Truesdale, IA",Buena Vista,81,0.14,0.36,"http://en.wikipedia.org/wiki/Truesdale,_Iowa",42.72861,-95.18306
+858,"Truro, IA",Madison,485,0.97,2.5,"http://en.wikipedia.org/wiki/Truro,_Iowa",41.20833,-93.84556
+859,"Turin, IA",Monona,68,0.09,0.23,"http://en.wikipedia.org/wiki/Turin,_Iowa",42.02083,-95.96750
+860,"Udell, IA",Appanoose,47,0.32,0.83,"http://en.wikipedia.org/wiki/Udell,_Iowa",40.78028,-92.74139
+861,"Underwood, IA",Pottawattamie,917,0.46,1.2,"http://en.wikipedia.org/wiki/Underwood,_Iowa",41.38694,-95.67861
+862,"Union, IA",Hardin,397,0.55,1.4,"http://en.wikipedia.org/wiki/Union,_Iowa",42.24472,-93.06417
+863,"Unionville, IA",Appanoose,102,0.74,1.9,"http://en.wikipedia.org/wiki/Unionville,_Iowa",40.81861,-92.69444
+864,"University Heights, IA",Johnson,1051,0.27,0.70,"http://en.wikipedia.org/wiki/University_Heights,_Iowa",41.65361,-91.55806
+865,"University Park, IA",Mahaska,487,0.77,2.0,"http://en.wikipedia.org/wiki/University_Park,_Iowa",41.28611,-92.61833
+866,"Urbana, IA",Benton,1458,2.2,5.7,"http://en.wikipedia.org/wiki/Urbana,_Iowa",42.22417,-91.87806
+867,"Urbandale, IA",Polk Dallas,39463,21.92,56.8,"http://en.wikipedia.org/wiki/Urbandale,_Iowa",41.63639,-93.73611
+868,"Ute, IA",Monona,374,0.39,1.0,"http://en.wikipedia.org/wiki/Ute,_Iowa",42.04972,-95.70583
+869,"Vail, IA",Crawford,436,0.57,1.5,"http://en.wikipedia.org/wiki/Vail,_Iowa",42.06111,-95.20250
+870,"Valeria, IA",Jasper,57,0.05,0.13,"http://en.wikipedia.org/wiki/Valeria,_Iowa",41.73056,-93.32472
+871,"Van Horne, IA",Benton,682,0.63,1.6,"http://en.wikipedia.org/wiki/Van_Horne,_Iowa",42.00889,-92.08889
+872,"Van Meter, IA",Dallas,1016,1.28,3.3,"http://en.wikipedia.org/wiki/Van_Meter,_Iowa",41.53139,-93.95528
+873,"Van Wert, IA",Decatur,230,0.33,0.85,"http://en.wikipedia.org/wiki/Van_Wert,_Iowa",40.87000,-93.79333
+874,"Varina, IA",Pocahontas,71,0.27,0.70,"http://en.wikipedia.org/wiki/Varina,_Iowa",42.66000,-94.89889
+875,"Ventura, IA",Cerro Gordo,717,1.77,4.6,"http://en.wikipedia.org/wiki/Ventura,_Iowa",43.12667,-93.47333
+876,"Victor, IA",Iowa Poweshiek,893,0.48,1.2,"http://en.wikipedia.org/wiki/Victor,_Iowa",41.73028,-92.29722
+877,"Villisca, IA",Montgomery,1252,1.9,4.9,"http://en.wikipedia.org/wiki/Villisca,_Iowa",40.92917,-94.97806
+878,"Vincent, IA",Webster,174,0.25,0.65,"http://en.wikipedia.org/wiki/Vincent,_Iowa",42.59222,-94.01944
+879,"Vining, IA",Tama,50,0.57,1.5,"http://en.wikipedia.org/wiki/Vining,_Iowa",41.99028,-92.38472
+880,"Vinton, IA",Benton,5257,4.74,12.3,"http://en.wikipedia.org/wiki/Vinton,_Iowa",42.16417,-92.02611
+881,"Volga, IA",Clayton,208,0.78,2.0,"http://en.wikipedia.org/wiki/Volga,_Iowa",42.80250,-91.54056
+882,"Wadena, IA",Fayette,262,0.74,1.9,"http://en.wikipedia.org/wiki/Wadena,_Iowa",42.84056,-91.65639
+883,"Wahpeton, IA",Dickinson,341,1.21,3.1,"http://en.wikipedia.org/wiki/Wahpeton,_Iowa",43.37194,-95.17389
+884,"Walcott, IA",Scott Muscatine,1629,3.47,9.0,"http://en.wikipedia.org/wiki/Walcott,_Iowa",41.59028,-90.77306
+885,"Walford, IA",Benton Linn,1463,1.11,2.9,"http://en.wikipedia.org/wiki/Walford,_Iowa",41.87806,-91.83500
+886,"Walker, IA",Linn,791,0.76,2.0,"http://en.wikipedia.org/wiki/Walker,_Iowa",42.28722,-91.78139
+887,"Wall Lake, IA",Sac,819,1.23,3.2,"http://en.wikipedia.org/wiki/Wall_Lake,_Iowa",42.27111,-95.09167
+888,"Wallingford, IA",Emmet,197,0.97,2.5,"http://en.wikipedia.org/wiki/Wallingford,_Iowa",43.31917,-94.79333
+889,"Walnut, IA",Pottawattamie,785,2.15,5.6,"http://en.wikipedia.org/wiki/Walnut,_Iowa",41.48111,-95.22111
+890,"Wapello, IA",Louisa,2067,1.29,3.3,"http://en.wikipedia.org/wiki/Wapello,_Iowa",41.17972,-91.18833
+891,"Washington, IA",Washington,7266,4.92,12.7,"http://en.wikipedia.org/wiki/Washington,_Iowa",41.30000,-91.68917
+892,"Washta, IA",Cherokee,248,1.04,2.7,"http://en.wikipedia.org/wiki/Washta,_Iowa",42.57583,-95.71806
+893,"Waterloo, IA",Black Hawk,68406,61.39,159.0,"http://en.wikipedia.org/wiki/Waterloo,_Iowa",42.49250,-92.34611
+894,"Waterville, IA",Allamakee,144,0.43,1.1,"http://en.wikipedia.org/wiki/Waterville,_Iowa",43.20806,-91.29500
+895,"Waucoma, IA",Fayette,257,0.43,1.1,"http://en.wikipedia.org/wiki/Waucoma,_Iowa",43.05694,-92.03250
+896,"Waukee, IA",Dallas,13790,12.97,33.6,"http://en.wikipedia.org/wiki/Waukee,_Iowa",41.60889,-93.86528
+897,"Waukon, IA",Allamakee,3897,2.82,7.3,"http://en.wikipedia.org/wiki/Waukon,_Iowa",43.26889,-91.47917
+898,"Waverly, IA",Bremer,9874,11.01,28.5,"http://en.wikipedia.org/wiki/Waverly,_Iowa",42.72667,-92.47528
+899,"Wayland, IA",Henry,966,1.01,2.6,"http://en.wikipedia.org/wiki/Wayland,_Iowa",41.14750,-91.65972
+900,"Webb, IA",Clay,141,0.5,1.3,"http://en.wikipedia.org/wiki/Webb,_Iowa",42.94806,-95.01222
+901,"Webster, IA",Keokuk,88,0.32,0.83,"http://en.wikipedia.org/wiki/Webster,_Iowa",41.43778,-92.17111
+902,"Webster City, IA",Hamilton,8070,8.86,22.9,"http://en.wikipedia.org/wiki/Webster_City,_Iowa",42.46639,-93.82056
+903,"Weldon, IA",Decatur,125,0.18,0.47,"http://en.wikipedia.org/wiki/Weldon,_Iowa",40.89806,-93.73417
+904,"Wellman, IA",Washington,1408,1.14,3.0,"http://en.wikipedia.org/wiki/Wellman,_Iowa",41.46722,-91.83583
+905,"Wellsburg, IA",Grundy,707,1.09,2.8,"http://en.wikipedia.org/wiki/Wellsburg,_Iowa",42.43361,-92.92806
+906,"Welton, IA",Clinton,165,0.27,0.70,"http://en.wikipedia.org/wiki/Welton,_Iowa",41.91222,-90.60111
+907,"Wesley, IA",Kossuth,390,0.58,1.5,"http://en.wikipedia.org/wiki/Wesley,_Iowa",43.08750,-93.99306
+908,"West Bend, IA",Palo Alto Kossuth,785,0.89,2.3,"http://en.wikipedia.org/wiki/West_Bend,_Iowa",42.95917,-94.44583
+909,"West Branch, IA",Cedar Johnson,2322,3.19,8.3,"http://en.wikipedia.org/wiki/West_Branch,_Iowa",41.667,-91.350
+910,"West Burlington, IA",Des Moines,2968,4.95,12.8,"http://en.wikipedia.org/wiki/West_Burlington,_Iowa",40.82028,-91.16444
+911,"West Chester, IA",Washington,146,0.25,0.65,"http://en.wikipedia.org/wiki/West_Chester,_Iowa",41.33861,-91.81667
+912,"West Des Moines, IA",Polk Dallas Warren,56609,38.59,99.9,"http://en.wikipedia.org/wiki/West_Des_Moines,_Iowa",41.57500,-93.70917
+913,"West Liberty, IA",Muscatine,3736,1.73,4.5,"http://en.wikipedia.org/wiki/West_Liberty,_Iowa",41.57139,-91.26111
+914,"West Okoboji, IA",Dickinson,289,1.28,3.3,"http://en.wikipedia.org/wiki/West_Okoboji,_Iowa",43.35000,-95.15889
+915,"West Point, IA",Lee,966,0.61,1.6,"http://en.wikipedia.org/wiki/West_Point,_Iowa",40.71722,-91.45167
+916,"West Union, IA",Fayette,2486,2.78,7.2,"http://en.wikipedia.org/wiki/West_Union,_Iowa",42.96194,-91.81000
+917,"Westfield, IA",Plymouth,132,0.13,0.34,"http://en.wikipedia.org/wiki/Westfield,_Iowa",42.75583,-96.60417
+918,"Westgate, IA",Fayette,211,0.36,0.93,"http://en.wikipedia.org/wiki/Westgate,_Iowa",42.76833,-91.99528
+919,"Westphalia, IA",Shelby,127,0.1,0.26,"http://en.wikipedia.org/wiki/Westphalia,_Iowa",41.71944,-95.39444
+920,"Westside, IA",Crawford,299,1.47,3.8,"http://en.wikipedia.org/wiki/Westside,_Iowa",42.07528,-95.10028
+921,"Westwood, IA",Henry,112,0.15,0.39,"http://en.wikipedia.org/wiki/Westwood,_Iowa",40.96417,-91.62833
+922,"What Cheer, IA",Keokuk,646,1.22,3.2,"http://en.wikipedia.org/wiki/What_Cheer,_Iowa",41.40056,-92.35500
+923,"Wheatland, IA",Clinton,764,0.6,1.6,"http://en.wikipedia.org/wiki/Wheatland,_Iowa",41.83278,-90.83944
+924,"Whiting, IA",Monona,762,1.0,2.6,"http://en.wikipedia.org/wiki/Whiting,_Iowa",42.12556,-96.15194
+925,"Whittemore, IA",Kossuth,504,0.42,1.1,"http://en.wikipedia.org/wiki/Whittemore,_Iowa",43.06306,-94.42278
+926,"Whitten, IA",Hardin,149,0.54,1.4,"http://en.wikipedia.org/wiki/Whitten,_Iowa",42.26139,-93.00750
+927,"Willey, IA",Carroll,88,0.25,0.65,"http://en.wikipedia.org/wiki/Willey,_Iowa",41.97694,-94.82000
+928,"Williams, IA",Hamilton,344,0.87,2.3,"http://en.wikipedia.org/wiki/Williams,_Iowa",42.48750,-93.54306
+929,"Williamsburg, IA",Iowa,3068,3.74,9.7,"http://en.wikipedia.org/wiki/Williamsburg,_Iowa",41.66417,-92.01222
+930,"Williamson, IA",Lucas,152,0.32,0.83,"http://en.wikipedia.org/wiki/Williamson,_Iowa",41.08944,-93.25556
+931,"Wilton, IA",Muscatine Cedar,2802,1.95,5.1,"http://en.wikipedia.org/wiki/Wilton,_Iowa",41.58944,-91.01750
+932,"Windsor Heights, IA",Polk,4860,1.41,3.7,"http://en.wikipedia.org/wiki/Windsor_Heights,_Iowa",41.60472,-93.71111
+933,"Winfield, IA",Henry,1134,1.05,2.7,"http://en.wikipedia.org/wiki/Winfield,_Iowa",41.12694,-91.43750
+934,"Winterset, IA",Madison,5190,4.58,11.9,"http://en.wikipedia.org/wiki/Winterset,_Iowa",41.33583,-94.01389
+935,"Winthrop, IA",Buchanan,850,0.84,2.2,"http://en.wikipedia.org/wiki/Winthrop,_Iowa",42.47250,-91.73583
+936,"Wiota, IA",Cass,116,0.32,0.83,"http://en.wikipedia.org/wiki/Wiota,_Iowa",41.40222,-94.88750
+937,"Woden, IA",Hancock,229,0.42,1.1,"http://en.wikipedia.org/wiki/Woden,_Iowa",43.23056,-93.90944
+938,"Woodbine, IA",Harrison,1459,1.28,3.3,"http://en.wikipedia.org/wiki/Woodbine,_Iowa",41.73750,-95.70556
+939,"Woodburn, IA",Clarke,202,0.64,1.7,"http://en.wikipedia.org/wiki/Woodburn,_Iowa",41.01167,-93.59861
+940,"Woodward, IA",Dallas,1024,2.46,6.4,"http://en.wikipedia.org/wiki/Woodward,_Iowa",41.85528,-93.92306
+941,"Woolstock, IA",Wright,168,1.06,2.7,"http://en.wikipedia.org/wiki/Woolstock,_Iowa",42.56667,-93.84500
+942,"Worthington, IA",Dubuque,401,0.38,0.98,"http://en.wikipedia.org/wiki/Worthington,_Iowa",42.39667,-91.11944
+943,"Wyoming, IA",Jones,515,0.51,1.3,"http://en.wikipedia.org/wiki/Wyoming,_Iowa",42.05917,-91.00500
+944,"Yale, IA",Guthrie,246,0.27,0.70,"http://en.wikipedia.org/wiki/Yale,_Iowa",41.77528,-94.35556
+945,"Yetter, IA",Calhoun,34,0.13,0.34,"http://en.wikipedia.org/wiki/Yetter,_Iowa",42.31639,-94.84389
+946,"Yorktown, IA",Page,85,0.27,0.70,"http://en.wikipedia.org/wiki/Yorktown,_Iowa",40.73389,-95.15472
+947,"Zearing, IA",Story,554,0.75,1.9,"http://en.wikipedia.org/wiki/Zearing,_Iowa",42.16167,-93.29806
+948,"Zwingle, IA",Dubuque Jackson,91,0.16,0.41,"http://en.wikipedia.org/wiki/Zwingle,_Iowa",42.29778,-90.68694

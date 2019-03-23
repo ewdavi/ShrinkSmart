@@ -1,0 +1,9 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2610 Bridge Ave, Albert Lea, MN 56007",optometrist,Albert Lea,28.852029487437015,43.68288,-93.35702,Shopko,2,"Northwood, IA",False,-1,1.0,MN
+"318 N Main St, Austin, MN 55912",optometrist,Austin,31.65577800913173,43.6685593350863,-92.9747890681028,InnoVision Eyecare,1,"Northwood, IA",False,-1,5.0,MN
+"3121 4th St SW, Mason City, IA 50401",optometrist,Mason City,33.05885905542117,43.14745,-93.24775,North Iowa Eye Clinic,1,"Northwood, IA",False,-1,4.0,IA
+"14 N 8th St, Clear Lake, IA 50428",optometrist,Clear Lake,36.49781324836274,43.137896,-93.3786351,Clear Lake Optometry,2,"Northwood, IA",False,-1,4.0,IA
+"4611 Maine Ave SE, Rochester, MN 55904",optometrist,Rochester,82.8339852002337,43.954218,-92.465559,Target Optical,2,"Northwood, IA",False,-1,2.0,MN
+"20 2nd Ave SW, Ste 172, Rochester, MN 55902",optometrist,Rochester,88.23729462165832,44.02328,-92.46562,Huber Eyecare,1,"Northwood, IA",False,3,5.0,MN
+"640 Apache Mall, Rochester, MN 55902",optometrist,Rochester,85.98153429159176,44.004183,-92.47873,Visionworks,2,"Northwood, IA",False,-1,1.0,MN
+"111 S Broadway, Rochester, MN 55904",optometrist,Rochester,88.31729301928475,44.0226384441336,-92.4633092123032,LensCrafters,4,"Northwood, IA",False,3,2.0,MN

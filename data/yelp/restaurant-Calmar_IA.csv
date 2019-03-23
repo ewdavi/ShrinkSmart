@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"120 Washington St, Decorah, IA 52101",restaurant,Decorah,15.388627610142377,43.30338,-91.7857,La Rana Bistro,57,"Calmar, IA",False,2,4.5,IA
+"202 N Maryville St, Calmar, IA 52132",restaurant,Calmar,0.6677578410532761,43.1838302612305,-91.864128112793,Train Station,5,"Calmar, IA",False,1,2.5,IA
+"117 W Water St, Decorah, IA 52101",restaurant,Decorah,15.41388234848635,43.30391,-91.78677,Rubaiyat,43,"Calmar, IA",False,2,4.5,IA
+"102 E Main St, Calmar, IA 52132",restaurant,Calmar,0.5226635439697501,43.1825447,-91.8643646,Whiskey Grove,1,"Calmar, IA",False,-1,3.0,IA
+"660 County St, Ridgeway, IA 52165",restaurant,Ridgeway,16.331474343860627,43.29648,-91.99015,Fireman Inn,4,"Calmar, IA",False,-1,4.0,IA
+"421 W Water St, Ste 102, Decorah, IA 52101",restaurant,Decorah,15.275404298836731,43.3039207458496,-91.7906112670898,Old Armory BBQ,53,"Calmar, IA",False,2,4.0,IA
+"811 Commerce Dr, Decorah, IA 52101",restaurant,Decorah,14.803425843761504,43.2915709912777,-91.7739473283291,Stone Hearth Inn,15,"Calmar, IA",False,2,4.0,IA
+"213 W Water St, Decorah, IA 52101",restaurant,Decorah,15.377761642019827,43.30391,-91.78783,Ede's & the Angry Pickle,20,"Calmar, IA",False,1,4.0,IA
+"2149 Twin Springs Rd, Decorah, IA 52101",restaurant,Decorah,13.40165883309789,43.294327,-91.8215588,Mccaffrey's Dolce Vita,34,"Calmar, IA",False,2,3.5,IA
+"308 College Dr, Ste 5, Decorah, IA 52101",restaurant,Decorah,15.520937906829522,43.3079833984375,-91.7962951660156,Good Times Grill,9,"Calmar, IA",False,2,3.5,IA
+"110 E Water St, Decorah, IA 52101",restaurant,Decorah,15.505611250478001,43.3044013977051,-91.785400390625,Mabe's Pizza,55,"Calmar, IA",False,2,3.5,IA
+"201 E Water St, Decorah, IA 52101",restaurant,Decorah,15.492488971758549,43.3039169311523,-91.7843856811523,Don Jose Family Mexican Restaurant,30,"Calmar, IA",False,1,4.0,IA
+"201 Washington St, Decorah, IA 52101",restaurant,Decorah,15.342945316382686,43.3030815124512,-91.7861557006836,The Hay Market,5,"Calmar, IA",False,1,4.0,IA
+"817 S Mechanic St, Decorah, IA 52101",restaurant,Decorah,14.44947365465558,43.29594,-91.7909899,Family Table Restaurant,12,"Calmar, IA",False,1,4.0,IA
+"207 W Water St, Decorah, IA 52101",restaurant,Decorah,15.387024638731074,43.3041,-91.78766,Koreana Japanese Cuisine,28,"Calmar, IA",False,2,3.0,IA
+"104 E Water St, Decorah, IA 52101",restaurant,Decorah,15.49114615606401,43.304401,-91.785889,Restauration,14,"Calmar, IA",False,2,3.0,IA
+"206 W Water St, Decorah, IA 52101",restaurant,Decorah,15.445556243529897,43.30441,-91.78748,T-Bock's Sports Bar & Grill,25,"Calmar, IA",False,2,3.5,IA
+"104 E Water St, Decorah, IA 52101",restaurant,Decorah,15.48407686165746,43.304401,-91.785891,Restauration,4,"Calmar, IA",False,2,4.0,IA
+"120 E Water St, Decorah, IA 52101",restaurant,Decorah,15.51404926248233,43.3044,-91.78519,Ruby's Restaurant & Catering,25,"Calmar, IA",False,1,4.0,IA
+"304 N Maryville St, Calmar, IA 52132",restaurant,Calmar,0.760384013231548,43.1847960780051,-91.8640373647213,Subway,1,"Calmar, IA",False,-1,5.0,IA

@@ -1,0 +1,14 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"231 E Summit Dr, Maryville, MO 64468",dental,Maryville,48.51279359899025,40.32015,-94.87268,Compass Dental Group,1,"Clarinda, IA",False,-1,5.0,MO
+"208 N Walnut St, Glenwood, IA 51534",dental,Glenwood,68.89519094725284,41.04916,-95.74377,Weber Dental,1,"Clarinda, IA",False,-1,1.0,IA
+"307 W Clay St, Albany, MO 64402",dental,Albany,80.5510260356696,40.2479449,-94.3338104,Schneider Thomas C DDS,1,"Clarinda, IA",False,-1,1.0,MO
+"105 E Harrison St, Albany, MO 64402",dental,Albany,80.80261045198876,40.2463048696518,-94.3315556645393,Schneider Thomas C DDS,1,"Clarinda, IA",False,-1,1.0,MO
+"1026 Woodbury Ave, Council Bluffs, IA 51503",dental,Council Bluffs,86.80382285017929,41.2403,-95.8268,Omni Dental Centre,2,"Clarinda, IA",False,-1,3.0,IA
+"1860 Madison Ave, Ste 4, Council Bluffs, IA 51503",dental,Council Bluffs,86.48673191107045,41.24172,-95.82016,Stuntz Family Dentistry,2,"Clarinda, IA",False,-1,5.0,IA
+"3617 Denmark Dr, Council Bluffs, IA 51501",dental,Council Bluffs,86.2729152712263,41.223393522404,-95.8369114723873,Aspen Dental,3,"Clarinda, IA",False,-1,2.0,IA
+"1601 McPherson Ave, Council Bluffs, IA 51503",dental,Council Bluffs,87.57926107145707,41.26065,-95.81625,Rensch Michael A DDS,2,"Clarinda, IA",False,-1,4.5,IA
+"40 Northcrest Dr, Ste 1, Council Bluffs, IA 51503",dental,Council Bluffs,89.29390765636752,41.272348,-95.829594,Children's Dentistry of Council Bluffs PC DDS,2,"Clarinda, IA",False,-1,5.0,IA
+"201 Ridge St, Ste 308, Council Bluffs, IA 51503",dental,Council Bluffs,89.28953718118322,41.267757720834,-95.8348608200989,Oral Surgery Associates,2,"Clarinda, IA",False,-1,3.0,IA
+"300 W Broadway, Ste 30, Council Bluffs, IA 51503",dental,Council Bluffs,89.71166852632996,41.26234,-95.84795,Dream Dental Care,2,"Clarinda, IA",False,-1,3.0,IA
+"40 Northcrest Dr, Ste 2, Council Bluffs, IA 51503",dental,Council Bluffs,89.27961200627351,41.2722589566889,-95.8294704,Southwest Orthodontic Associates,2,"Clarinda, IA",False,-1,2.5,IA
+"300 W Broadway, Ste 300, Council Bluffs, IA 51503",dental,Council Bluffs,89.71166852632996,41.26234,-95.84795,"Robert F Colwell, DDS - Dream Dental Care",1,"Clarinda, IA",False,-1,1.0,IA

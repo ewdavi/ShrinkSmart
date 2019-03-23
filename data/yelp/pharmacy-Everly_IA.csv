@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1012 Okoboji Ave, Milford, IA 51351",pharmacy,Milford,22.979763967666702,43.3253021240234,-95.1495513916016,Hy-Vee,1,"Everly, IA",False,-1,3.0,IA
+"1500 18th St, Spirit Lake, IA 51360",pharmacy,Spirit Lake,33.72302546134096,43.4233436584473,-95.1131820678711,Hyvee Pharmacy,1,"Everly, IA",False,2,4.0,IA
+"522 Central Ave, Estherville, IA 51334",pharmacy,Estherville,47.49542588415258,43.401825,-94.836906,Estherville Snyder Drug,1,"Everly, IA",False,-1,4.0,IA
+"104 Albany Ave NE, Orange City, IA 51041",pharmacy,Orange City,62.17187814963918,43.0068359375,-96.05712890625,Dutch Mill Pharmacy,1,"Everly, IA",False,-1,2.0,IA
+"111 S Washington St, Remsen, IA 51050",pharmacy,Remsen,65.44598093935315,42.8155251,-95.9731064,Remsen Pharmacy,1,"Everly, IA",False,2,5.0,IA
+"1321 Oxford St, Worthington, MN 56187",pharmacy,Worthington,56.82259797646149,43.63173,-95.59405,Walgreens,2,"Everly, IA",False,-1,1.5,MN
+"2200 17th St, Spirit Lake, IA 51360",pharmacy,Spirit Lake,33.35772627351169,43.42382,-95.12433,Walmart Supercenter,2,"Everly, IA",False,1,2.5,IA
+"1221 Central Ave, Estherville, IA 51334",pharmacy,Estherville,48.081522192027975,43.402530670166,-94.8286590576172,Hyvee Pharmacy,2,"Everly, IA",False,1,3.5,IA
+"1831 Lake Ave, Storm Lake, IA 50588",pharmacy,Storm Lake,56.139982067091424,42.664124,-95.1970284,Walmart Supercenter,1,"Everly, IA",False,2,1.0,IA
+"1111 N 2nd, Cherokee, IA 51012",pharmacy,Cherokee,48.0346543282764,42.763485,-95.553152,Kmart,2,"Everly, IA",False,-1,1.0,IA

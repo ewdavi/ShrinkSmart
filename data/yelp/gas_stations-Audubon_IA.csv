@@ -1,0 +1,15 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1709 Antique City Dr, Walnut, IA 51577",gas stations,Walnut,34.7353564274322,41.494136,-95.221206,Kum & Go,2,"Audubon, IA",False,2,4.0,IA
+"64975 Boston Rd, Atlantic, IA 50022",gas stations,Atlantic,25.692977612130022,41.4859719688138,-94.9464303163691,Conoco Gas,2,"Audubon, IA",False,-1,1.0,IA
+"2079 Hwy 71, Audubon, IA 50025",gas stations,Audubon,1.2882640359820088,41.70411,-94.92567,Waspy's Truck Stop,1,"Audubon, IA",False,-1,5.0,IA
+"110 S 5th St, Adair, IA 50002",gas stations,Adair,34.10900957368843,41.495762,-94.6431785,Casey's General Store,4,"Audubon, IA",False,1,3.0,IA
+"7005 N Chestnut St, Avoca, IA 51521",gas stations,Avoca,41.57784685796441,41.4996458447772,-95.3351710823037,Flying J,6,"Audubon, IA",False,-1,1.5,IA
+"29356 298th St, Neola, IA 51559",gas stations,Neola,64.85801967262657,41.438767,-95.613467,Kum & Go,3,"Audubon, IA",False,2,2.5,IA
+"904 N Walnut, Avoca, IA 51521",gas stations,Avoca,42.73969328698449,41.4842592560023,-95.3373330831528,Shell Gas Station,1,"Audubon, IA",False,-1,4.0,IA
+"402 E 6th St, Carroll, IA 51401",gas stations,Carroll,39.016790419002916,42.0641899108887,-94.8626403808594,Sparky's One Stop,1,"Audubon, IA",False,3,4.0,IA
+"11 East St, Shelby, IA 51570",gas stations,Shelby,49.62510065369054,41.50046,-95.450178,Shell-Taylor Quik-Pik,1,"Audubon, IA",False,1,4.0,IA
+"1211 9th St, Lake View, IA 51450",gas stations,Lake View,66.72156685851213,42.310832,-95.040174,Sparky's One Stop-Lake View,2,"Audubon, IA",False,-1,3.0,IA
+"12 East St, Shelby, IA 51570",gas stations,Shelby,49.3956373383946,41.506002,-95.4510104,The Corn Crib,57,"Audubon, IA",False,1,4.5,IA
+"1019 N Chestnut St, Avoca, IA 51521",gas stations,Avoca,42.60080163820771,41.4852025173397,-95.3361962963767,Casey's General Store,4,"Audubon, IA",False,1,3.0,IA
+"601 SE Kent St, Greenfield, IA 50849",gas stations,Greenfield,60.61204862889735,41.30325,-94.4526,Casey's General Store,1,"Audubon, IA",False,-1,4.0,IA
+"23226 Centre Dr, Glenwood, IA 51534",gas stations,Glenwood,94.17031455156534,41.1304024593056,-95.7430239351959,Lake Ohana Market,2,"Audubon, IA",False,-1,3.0,IA

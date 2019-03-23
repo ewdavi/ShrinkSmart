@@ -1,0 +1,5 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"108 Main St, Savanna, IL 61074",dollar store,Savanna,3.4179590299421614,42.0917357504368,-90.1552945375443,Dollar General Store,1,"Sabula, IA",False,1,5.0,IL
+"921 16th Ave, East Moline, IL 61244",dollar store,East Moline,64.9015614914577,41.51549,-90.43957,Family Dollar,1,"Sabula, IA",False,-1,5.0,IL
+"1630 Miller Rd, Dixon, IL 61021",dollar store,Dixon,63.987072380066046,41.8287793,-89.4727951,Dollar Tree Stores,2,"Sabula, IA",False,-1,3.0,IL
+"1799 S West Ave, Freeport, IL 61032",dollar store,Freeport,50.749027456163155,42.275149,-89.6313573,Dollar Tree,1,"Sabula, IA",False,-1,1.0,IL

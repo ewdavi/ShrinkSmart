@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1015 2nd Ave, Sibley, IA 51249",restaurants,Sibley,0.6179017470468247,43.3980298787355,-95.7520984858274,1015 Steak Company,5,"Sibley, IA",False,2,4.0,IA
+"926 4th Ave, Sibley, IA 51249",restaurants,Sibley,0.35145682170194936,43.3987768,-95.7489048,El Tio Nachos,6,"Sibley, IA",False,1,3.5,IA
+"316 9th St, Sibley, IA 51249",restaurants,Sibley,0.4064924232422073,43.3993783847835,-95.74998167405,Pizza Ranch,3,"Sibley, IA",False,1,3.5,IA
+"608 2nd St, Jackson, MN 56143",restaurants,Jackson,65.90853698678586,43.6226081848145,-94.9874114990234,Kat's Hog Heaven,20,"Sibley, IA",False,1,4.5,MN
+"344 10th St, Windom, MN 56101",restaurants,Windom,72.39219297412713,43.8667015702884,-95.1173844891887,River City Eatery,31,"Sibley, IA",False,1,4.5,MN
+"306 W Hatting, Luverne, MN 56156",restaurants,Luverne,46.55642533519587,43.6456795,-96.2136536,Vinnies Dang Fine Dine,14,"Sibley, IA",False,1,4.5,MN
+"207 8th St, Sheldon, IA 51201",restaurants,Sheldon,25.828701312665782,43.1823146,-95.8554599,Langer's Bar & Grill,5,"Sibley, IA",False,-1,5.0,IA
+"223 10th St, Worthington, MN 56187",restaurants,Worthington,27.123606148675957,43.6191699,-95.59641,La Azteca,17,"Sibley, IA",False,2,4.0,MN
+"1202 S Kniss Ave, Luverne, MN 56156",restaurants,Luverne,45.772054557418,43.6378593,-96.2141266,The Bluestem,23,"Sibley, IA",False,2,3.5,MN
+"105 E Main St, Luverne, MN 56156",restaurants,Luverne,46.88167935596468,43.6544675,-96.2092622,Sterling's Café And Grille,31,"Sibley, IA",False,2,4.0,MN
+"111 S Main St, George, IA 51237",restaurants,George,21.7364540540427,43.3433853576781,-96.0023778934457,Glory Days Cafe,1,"Sibley, IA",False,-1,5.0,IA
+"804 S Kniss Ave, Luverne, MN 56156",restaurants,Luverne,46.54086466001801,43.64473,-96.21399,Jj's Tasty Drive In,9,"Sibley, IA",False,1,4.5,MN
+"89982 540th Ave, Windom, MN 56101",restaurants,Windom,74.35557670570967,43.78946,-94.99389,Bergen Bar & Grill,27,"Sibley, IA",False,2,4.5,MN
+"745 2nd Ave N, Windom, MN 56101",restaurants,Windom,72.2871403389871,43.8634985075754,-95.1147499956619,Duffy's Bar & Grill,13,"Sibley, IA",False,2,4.0,MN
+"120 W 7th St, Hwy 18, Sanborn, IA 51248",restaurants,Sanborn,24.866642100743316,43.1862120841907,-95.6569578770924,Jay's Restaurant and Lounge,4,"Sibley, IA",False,2,5.0,IA
+"1344 Harding Ave, Rock River Golf & Country Club, Rock Rapids, IA 51246",restaurants,Rock Rapids,35.50190412918491,43.445938155055,-96.1755448579788,T-Bone's Grill & Bar,2,"Sibley, IA",False,-1,5.0,IA
+"1113 2nd Ave, Sheldon, IA 51201",restaurants,Sheldon,26.27016476320264,43.1786575,-95.8570557,Old 60 Steaks and Chops,5,"Sibley, IA",False,2,4.0,IA
+"2015 N Humiston Ave, Worthington, MN 56187",restaurants,Worthington,29.160042799614185,43.6400328,-95.5937012,Hickory Lodge Bar & Grill,8,"Sibley, IA",False,2,4.0,MN
+"4995 Carnes Dr, Alton, IA 51003",restaurants,Alton,58.19975084098192,42.9287514968675,-96.0562083497644,Sfumato Pizzeria,18,"Sibley, IA",False,2,5.0,IA
+"101 N Runger Ave, Ste H, Sheldon, IA 51201",restaurants,Sheldon,24.578145047789796,43.1871639050631,-95.8158303234123,Los Tulipanes,6,"Sibley, IA",False,-1,3.0,IA

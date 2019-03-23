@@ -1,0 +1,15 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"114 Brick St SE, Bondurant, IA 50035",convenience stores,Bondurant,4.468782427682662,41.68988,-93.46195,Brick Street Market and Cafe,20,"Altoona, IA",False,2,4.5,IA
+"1010 SE Oralabor Rd, Ankeny, IA 50021",convenience stores,Ankeny,9.801168324085891,41.70355,-93.58201,Casey's General Store,8,"Altoona, IA",False,2,4.0,IA
+"2702 Se Delaware Ave, Ankeny, IA 50021",convenience stores,Ankeny,9.707620813047738,41.70214,-93.58189,Walgreens,3,"Altoona, IA",False,2,5.0,IA
+"3231 Adventureland Dr, Altoona, IA 50009",convenience stores,Altoona,1.4270773337404197,41.660171,-93.499532,Flying J Travel Center,14,"Altoona, IA",False,-1,3.0,IA
+"2945 E University Ave, Des Moines, IA 50317",convenience stores,Des Moines,8.586637388294854,41.6001,-93.55904,QuikTrip,7,"Altoona, IA",False,1,5.0,IA
+"302 2nd St NE, Bondurant, IA 50035",convenience stores,Bondurant,5.911821259620534,41.703254699707,-93.4593887329102,Casey's General Store,2,"Altoona, IA",False,1,3.0,IA
+"2428 Hubbell Ave, Des Moines, IA 50317",convenience stores,Des Moines,9.019077590657183,41.60612,-93.57277,QuikTrip,2,"Altoona, IA",False,-1,4.5,IA
+"5500 East University Ave, Pleasant Hill, IA 50327",convenience stores,Pleasant Hill,6.18485656570219,41.5999908994936,-93.5042499352088,Fareway,2,"Altoona, IA",False,2,5.0,IA
+"3274 E University Ave, Des Moines, IA 50317",convenience stores,Des Moines,8.092108604670106,41.6008644104004,-93.5517730712891,Git-N-Go Convenience Stores,1,"Altoona, IA",False,-1,1.0,IA
+"4625 SE Delaward Ave, Ankeny, IA 50010",convenience stores,Ankeny,9.10435859680858,41.69369,-93.580352,Sam's Club,19,"Altoona, IA",False,2,4.0,IA
+"2221 E Euclid Ave, Des Moines, IA 50317",convenience stores,Des Moines,8.277431856812987,41.627387,-93.577923,QuikTrip,2,"Altoona, IA",False,2,4.5,IA
+"3700 Hubbell Ave, Des Moines, IA 50317",convenience stores,Des Moines,5.71094810487727,41.629283,-93.54515,QuikTrip,3,"Altoona, IA",False,1,3.5,IA
+"2221 E Euclid Ave, Des Moines, IA 50317",convenience stores,Des Moines,8.269751925145082,41.627388,-93.577926,Quik Trip # 501,2,"Altoona, IA",False,1,3.0,IA
+"2829 Easton Blvd, Des Moines, IA 50317",convenience stores,Des Moines,8.032703012126529,41.6098681831308,-93.5615896806121,Valero,2,"Altoona, IA",False,-1,1.0,IA

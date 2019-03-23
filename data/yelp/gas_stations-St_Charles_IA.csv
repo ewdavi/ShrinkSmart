@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1203 Guthrie St, De Soto, IA 50069",gas stations,De Soto,32.4884364871824,41.5376482,-94.0125451,Kum & Go,2,"St. Charles, IA",False,2,2.0,IA
+"1421 Ingersoll Ave, Des Moines, IA 50309",gas stations,Des Moines,36.130544290745,41.58683,-93.63655,QuikTrip,5,"St. Charles, IA",False,1,4.5,IA
+"1706 Jeffreys Dr, Osceola, IA 50213",gas stations,Osceola,29.106226644481158,41.02729,-93.789346,Casey's General Store,3,"St. Charles, IA",False,1,3.0,IA
+"5901 Mills Civic Pkwy, West Des Moines, IA 50266",gas stations,West Des Moines,30.217973828956268,41.5599312,-93.7874919,Kum & Go,4,"St. Charles, IA",False,2,4.5,IA
+"7265 Vista Dr, West Des Moines, IA 50266",gas stations,West Des Moines,33.430873643845516,41.5892921,-93.8078504,Kum & Go,5,"St. Charles, IA",False,2,3.0,IA
+"100-122 Fleur Dr, Des Moines, IA 50321",gas stations,Des Moines,28.30699266668124,41.5117952904305,-93.6454126297028,Casey's General Store,1,"St. Charles, IA",False,1,3.0,IA
+"1300 Keo Way, Des Moines, IA 50309",gas stations,Des Moines,36.91747372991209,41.59392,-93.6345,Kum & Go,3,"St. Charles, IA",False,1,5.0,IA
+"665 S 51st St, West Des Moines, IA 50265",gas stations,West Des Moines,30.289591864686678,41.559795,-93.773468,Hy-Vee Gas,2,"St. Charles, IA",False,-1,5.0,IA
+"400 Prairie Bluff Dr, Waukee, IA 50263",gas stations,Waukee,31.331344068521645,41.56527,-93.880197,Kum & Go,3,"St. Charles, IA",False,2,4.5,IA
+"4021 Fleur Dr, Des Moines, IA 50321",gas stations,Des Moines,31.92068135823102,41.547992,-93.64462,QuikTrip,7,"St. Charles, IA",False,2,3.5,IA
+"1501 E Grand Ave, Des Moines, IA 50316",gas stations,Des Moines,38.31049227198836,41.5935599,-93.59464,QuikTrip,1,"St. Charles, IA",False,1,4.0,IA
+"103 Highway 92, Bevington, IA 50033",gas stations,Bevington,8.111532219764149,41.3604777306318,-93.7902650982141,Bussanmas Towing & Recovery,2,"St. Charles, IA",False,-1,3.0,IA
+"901 SW 63rd St, Des Moines, IA 50312",gas stations,Des Moines,32.483434282399465,41.5698586,-93.7025528,QuikTrip,4,"St. Charles, IA",False,1,4.0,IA
+"849 Army Post Rd, Des Moines, IA 50315",gas stations,Des Moines,30.586487615329972,41.526717,-93.625031,QuikTrip,2,"St. Charles, IA",False,2,4.0,IA
+"1293 8th St, West Des Moines, IA 50265",gas stations,West Des Moines,34.568465146570695,41.5910774,-93.7127277,Kum & Go,1,"St. Charles, IA",False,1,4.0,IA
+"3105 Grand Prairie Pkwy, Waukee, IA 50263",gas stations,Waukee,33.030362981303796,41.58389,-93.852302,Kum & Go,5,"St. Charles, IA",False,1,5.0,IA
+"7205 Mills Civic Pkwy, West Des Moines, IA 50266",gas stations,West Des Moines,30.58603998974158,41.563702186372,-93.8062312059939,Costco Gas,4,"St. Charles, IA",False,-1,4.5,IA
+"3941 SE 14th St, Des Moines, IA 50320",gas stations,Des Moines,33.89815303726687,41.548698425293,-93.5961990356445,QuikTrip,1,"St. Charles, IA",False,2,5.0,IA
+"5830 SE 14th St, Des Moines, IA 50315",gas stations,Des Moines,32.40054871528636,41.5332069,-93.5975208,Kum & Go,3,"St. Charles, IA",False,2,4.5,IA
+"220 50th St, West Des Moines, IA 50265",gas stations,West Des Moines,31.846124902729418,41.5736376,-93.7709694,Kum & Go,3,"St. Charles, IA",False,2,4.5,IA

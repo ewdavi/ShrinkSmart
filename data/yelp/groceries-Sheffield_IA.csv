@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"910 US Highway 18 W, Clear Lake, IA 50428",groceries,Clear Lake,31.044664523829415,43.1429061889648,-93.400505065918,Fareway Stores,3,"Sheffield, IA",False,3,3.5,IA
+"520 Village Green Dr SW, Mason City, IA 50401",groceries,Mason City,28.69048445944764,43.1477723592549,-93.2612959295511,Aldi Supermarket,2,"Sheffield, IA",False,-1,4.0,IA
+"512 River Ave N, Belmond, IA 50421",groceries,Belmond,33.34205956523748,42.8500600288971,-93.6167344373072,Fareway Stores,2,"Sheffield, IA",False,2,2.5,IA
+"4151 4th St SW, Mason City, IA 50401",groceries,Mason City,28.45546548532433,43.1455192,-93.2624144,Walmart Supercenter,2,"Sheffield, IA",False,1,4.0,IA
+"615 S Monroe Ave, Mason City, IA 50401",groceries,Mason City,28.15237894376915,43.145961,-93.207778,Shopko,1,"Sheffield, IA",False,2,3.0,IA

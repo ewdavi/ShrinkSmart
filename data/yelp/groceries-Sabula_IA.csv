@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"901 S 4th St, Clinton, IA 52732",groceries,Clinton,25.461790821056056,41.83653,-90.1930299,Hy-Vee Food Store,8,"Sabula, IA",False,2,4.5,IA
+"997 Galena Square Dr, Galena, IL 61036",groceries,Galena,45.39151835610559,42.4236099,-90.44162,Piggly Wiggly,12,"Sabula, IA",False,2,3.5,IL
+"501 Main St, Scales Mound, IL 61075",groceries,Scales Mound,46.20308218154911,42.4770937,-90.2514228,Country House Grocery,3,"Sabula, IA",False,-1,4.5,IL
+"103 W North Ave, Stockton, IL 61085",groceries,Stockton,35.39050747584255,42.3575321038013,-90.0067598766707,Sullivan's Foods,3,"Sabula, IA",False,2,2.5,IL
+"1350 11th St NW, Clinton, IA 52732",groceries,Clinton,22.914331921554698,41.8604584,-90.2115173,Fareway Stores Inc Grocery Dept,1,"Sabula, IA",False,2,5.0,IA
+"622 10th St, De Witt, IA 52742",groceries,De Witt,40.16546039123106,41.825311296599,-90.5400644167735,Barnes Foodland,3,"Sabula, IA",False,3,3.5,IA
+"10000 Bartel Blvd, Galena, IL 61036",groceries,Galena,46.67837409695716,42.4350518113707,-90.4457991008331,Walmart Supercenter,6,"Sabula, IA",False,1,3.0,IL
+"106 S Main St, Galena, IL 61036",groceries,Galena,44.13974442829252,42.41598,-90.42861,Galena Canning,67,"Sabula, IA",False,2,4.5,IL
+"400 S Locust St, Dubuque, IA 52003",groceries,Dubuque,61.61446075105937,42.486929797055,-90.663160275336,Hy-Vee Food Store,15,"Sabula, IA",False,1,3.5,IA
+"228 S Main St, Galena, IL 61036",groceries,Galena,44.06523196972083,42.41471,-90.42986,Rootbeer Revelry,28,"Sabula, IA",False,1,4.0,IL
+"101 E Hwy 64, Mount Morris, IL 61054",groceries,Mount Morris,61.966600653500905,42.0482726998941,-89.4269403879546,Sullivan's Foods,4,"Sabula, IA",False,2,3.0,IL
+"210 W 3rd St, Sterling, IL 61081",groceries,Sterling,50.107850988325495,41.7881914973259,-89.6991916000843,County Market,1,"Sabula, IA",False,2,4.0,IL
+"2715 S 25th St, Clinton, IA 52732",groceries,Clinton,27.945613592229435,41.8188040489394,-90.2427137097014,Walmart Supercenter,1,"Sabula, IA",False,-1,5.0,IA
+"500 Chicago Ave, Dixon, IL 61021",groceries,Dixon,63.35092043165202,41.8379639089108,-89.4746947288513,Dixon Food Center,1,"Sabula, IA",False,-1,5.0,IL
+"2130 E Kimberly Rd, Davenport, IA 52807",groceries,Davenport,64.14840159487586,41.5584032699441,-90.5465966463089,Fresh Thyme Farmers Market,11,"Sabula, IA",False,2,4.5,IA
+"110 Westgate Dr, Maquoketa, IA 52060",groceries,Maquoketa,41.62245909428076,42.06719,-90.68137,Fareway Stores,3,"Sabula, IA",False,2,4.0,IA
+"2900 Devils Glen Rd, Bettendorf, IA 52722",groceries,Bettendorf,62.351905081829926,41.553581405994,-90.48464644248,Hy-Vee,13,"Sabula, IA",False,2,4.5,IA
+"1109 Iowa St, Dubuque, IA 52001",groceries,Dubuque,63.261687489450196,42.5036693,-90.6674213,The Food Store,31,"Sabula, IA",False,1,4.5,IA
+"725 8th St, Monroe, WI 53566",groceries,Monroe,73.82933026537614,42.604626,-89.653168,Piggly Wiggly,3,"Sabula, IA",False,1,4.5,WI
+"201 Dodds Dr, Lena, IL 61048",groceries,Lena,44.296303633979015,42.3697633788885,-89.8301918186751,Sullivan's Foods,1,"Sabula, IA",False,-1,1.0,IL

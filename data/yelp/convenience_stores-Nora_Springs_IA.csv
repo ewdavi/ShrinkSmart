@@ -1,0 +1,10 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"522 Chicksaw St, Rudd, IA 50471",convenience stores,Rudd,8.864336529613153,43.12839,-92.90533,Town Mart,1,"Nora Springs, IA",False,2,2.0,IA
+"1510 S Grand Ave, Charles City, IA 50616",convenience stores,Charles City,29.67073606687193,43.04741,-92.6715399,Kwik Star,6,"Nora Springs, IA",False,1,3.5,IA
+"5253 S Shore Dr, Clear Lake, IA 50428",convenience stores,Clear Lake,32.67306767003415,43.11498,-93.41288,Market At Oakwood,1,"Nora Springs, IA",False,-1,5.0,IA
+"3450 4th St SW, Mason City, IA 50401",convenience stores,Mason City,19.551188905403535,43.1498,-93.25295,Target,2,"Nora Springs, IA",False,2,4.0,IA
+"2751 E Main St, Albert Lea, MN 56007",convenience stores,Albert Lea,62.34235928381361,43.65972,-93.31533,Love's Travel Stop,5,"Nora Springs, IA",False,1,4.0,MN
+"648 Highway 3, Latimer, IA 50452",convenience stores,Latimer,54.02786658902362,42.7462768554688,-93.3930130004883,Dudley's Corner,10,"Nora Springs, IA",False,1,2.5,IA
+"706 Hwy 57, Parkersburg, IA 50665",convenience stores,Parkersburg,66.5239292695271,42.56983,-92.7852,Brothers Market,2,"Nora Springs, IA",False,2,4.0,IA
+"2708 Bridge Ave, Albert Lea, MN 56007",convenience stores,Albert Lea,66.20154606042608,43.684326,-93.357859,Hy-Vee Food Store,6,"Nora Springs, IA",False,1,2.5,MN
+"820 Happy Trails Ln, Albert Lea, MN 56007",convenience stores,Albert Lea,62.100180950183905,43.6569983823582,-93.3176115616546,TA Truck Service,18,"Nora Springs, IA",False,1,4.0,MN

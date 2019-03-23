@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1703 Park Ave, Muscatine, IA 52761",pharmacy,Muscatine,13.463875374994782,41.4446,-91.02977,Walgreens,4,"Fruitland, IA",False,2,3.5,IA
+"102 2Nd St, Coralville, IA 52241",pharmacy,Coralville,51.04596250891022,41.6687584,-91.5666199,Walgreens,10,"Fruitland, IA",False,2,2.0,IA
+"2214 Muscatine Ave, Iowa City, IA 52240",pharmacy,Iowa City,45.833327109570945,41.6499710083008,-91.5027160644531,Walgreens,4,"Fruitland, IA",False,2,3.5,IA
+"201 S Clinton St, Iowa City, IA 52240",pharmacy,Iowa City,48.48757404560363,41.659489,-91.53557,CVS Pharmacy,7,"Fruitland, IA",False,1,3.0,IA
+"701 Mormon Trek Blvd, Iowa City, IA 52246",pharmacy,Iowa City,50.27938486203773,41.6520004,-91.5754166,Hartig USA Drug,2,"Fruitland, IA",False,2,4.0,IA
+"113 1st St NE, Mount Vernon, IA 52314",pharmacy,Mount Vernon,68.16015066124304,41.922131,-91.416167,CarePro Pharmacy - Mount Vernon,1,"Fruitland, IA",False,-1,3.0,IA
+"1525 E Kimberly Rd, Davenport, IA 52807",pharmacy,Davenport,53.248961663646966,41.55589,-90.55235,Walgreens,1,"Fruitland, IA",False,2,5.0,IA
+"526 Main St, Mediapolis, IA 52637",pharmacy,Mediapolis,38.00317300072697,41.0076789855957,-91.1643218994141,Carruthers Pharmacy,1,"Fruitland, IA",False,2,5.0,IA
+"2617 18th Ave, Rock Island, IL 61201",pharmacy,Rock Island,49.973421346700704,41.4932,-90.5603,CVS Pharmacy,1,"Fruitland, IA",False,2,5.0,IL
+"310 N 1st Ave, Iowa City, IA 52245",pharmacy,Iowa City,47.09574231268617,41.6659056434211,-91.5018634434764,Hy Vee Drugstore,2,"Fruitland, IA",False,2,4.5,IA
+"129 W Locust St, Davenport, IA 52803",pharmacy,Davenport,50.65258007926715,41.53814,-90.57526,Main At Locust Pharmacy & Medical Supply,4,"Fruitland, IA",False,3,4.5,IA
+"2400 2nd Ave, Muscatine, IA 52761",pharmacy,Muscatine,13.679503839330511,41.4510192871094,-91.0362396240234,Hy-Vee Pharmacy,1,"Fruitland, IA",False,-1,1.0,IA
+"812 S 1st Ave, Iowa City, IA 52245",pharmacy,Iowa City,45.85712556446311,41.6514053344727,-91.5008926391602,Hy-Vee,10,"Fruitland, IA",False,2,3.0,IA
+"1777 Division St, Davenport, IA 52804",pharmacy,Davenport,48.74779156221375,41.53777,-90.60043,CVS Pharmacy,2,"Fruitland, IA",False,2,2.5,IA
+"1500 SE 5th St, Aledo, IL 61231",pharmacy,Aledo,37.032541940692106,41.198048,-90.732197,Walmart Pharmacy,1,"Fruitland, IA",False,-1,5.0,IL
+"3601 16Th St, Moline, IL 61265",pharmacy,Moline,53.655324837206486,41.4769592285156,-90.5074768066406,Walgreens,1,"Fruitland, IA",False,3,5.0,IL
+"3425 Middle Rd, Bettendorf, IA 52722",pharmacy,Bettendorf,58.0908090334105,41.55027,-90.48505,Walgreens,4,"Fruitland, IA",False,-1,1.0,IA
+"3245 Agency St, Burlington, IA 52601",pharmacy,Burlington,59.373017785231745,40.8143882751465,-91.1406936645508,Walgreens,1,"Fruitland, IA",False,-1,5.0,IA
+"4000 Avenue Of The Cities, Moline, IL 61265",pharmacy,Moline,56.20419585552223,41.48962,-90.48041,Walgreens,3,"Fruitland, IA",False,-1,2.5,IL
+"225 E Le Claire Rd, Eldridge, IA 52748",pharmacy,Eldridge,56.82624305955566,41.6542816,-90.5809784,North Scott Pharmacy,1,"Fruitland, IA",False,-1,1.0,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"220 E High St, Rockwell City, IA 50579",gas stations,Rockwell City,47.04837759751198,42.39906,-94.62615,Casey's General Store,1,"Jefferson, IA",False,2,4.0,IA
+"1203 Guthrie St, De Soto, IA 50069",gas stations,De Soto,61.48947455763343,41.5376482,-94.0125451,Kum & Go,2,"Jefferson, IA",False,2,2.0,IA
+"1400 Industrial Park Rd, Ellsworth, IA 50075",gas stations,Ellsworth,74.61743941596075,42.3113351867892,-93.5742956712918,Love's Travel Stop,3,"Jefferson, IA",False,-1,4.5,IA
+"64975 Boston Rd, Atlantic, IA 50022",gas stations,Atlantic,74.95568749090303,41.4859719688138,-94.9464303163691,Conoco Gas,2,"Jefferson, IA",False,-1,1.0,IA
+"203 Welch Ave, Ames, IA 50010",gas stations,Ames,60.838909042208904,42.0213737487793,-93.6502227783203,Kum & Go,2,"Jefferson, IA",False,-1,3.0,IA
+"1421 Ingersoll Ave, Des Moines, IA 50309",gas stations,Des Moines,78.31786437670155,41.58683,-93.63655,QuikTrip,5,"Jefferson, IA",False,1,4.5,IA
+"5308 University Ave, West Des Moines, IA 50266",gas stations,West Des Moines,68.3096464129883,41.6001296,-93.7789262,Kum & Go,3,"Jefferson, IA",False,1,4.5,IA
+"5901 Mills Civic Pkwy, West Des Moines, IA 50266",gas stations,West Des Moines,70.91702622783227,41.5599312,-93.7874919,Kum & Go,4,"Jefferson, IA",False,2,4.5,IA
+"110 S 5th St, Adair, IA 50002",gas stations,Adair,61.544860083423465,41.495762,-94.6431785,Casey's General Store,4,"Jefferson, IA",False,1,3.0,IA
+"7265 Vista Dr, West Des Moines, IA 50266",gas stations,West Des Moines,67.40557528019266,41.5892921,-93.8078504,Kum & Go,5,"Jefferson, IA",False,2,3.0,IA
+"3603 NE Otter View Cir, Ankeny, IA 50021",gas stations,Ankeny,73.12611750005226,41.7613717,-93.5716395,Kum & Go,5,"Jefferson, IA",False,2,3.5,IA
+"1300 Keo Way, Des Moines, IA 50309",gas stations,Des Moines,77.97443719054353,41.59392,-93.6345,Kum & Go,3,"Jefferson, IA",False,1,5.0,IA
+"1111 Ia Hwy 175, Ellsworth, IA 50075",gas stations,Ellsworth,74.67262914857837,42.30969,-93.57294,Kum & Go,2,"Jefferson, IA",False,1,3.5,IA
+"402 E 6th St, Carroll, IA 51401",gas stations,Carroll,39.70069096266464,42.0641899108887,-94.8626403808594,Sparky's One Stop,1,"Jefferson, IA",False,3,4.0,IA
+"3040 220th St, Williams, IA 50271",gas stations,Williams,84.0188208600502,42.4703646750988,-93.572019618831,Flying J Travel Center,9,"Jefferson, IA",False,-1,4.0,IA
+"303 W Broadway St, Polk City, IA 50226",gas stations,Polk City,61.91484425086342,41.771827,-93.7137901,Kum & Go,1,"Jefferson, IA",False,2,5.0,IA
+"2801 E 13th St, Ames, IA 50010",gas stations,Ames,67.02509591072115,42.0345587,-93.575628,Kum & Go,4,"Jefferson, IA",False,1,3.5,IA
+"11925 University Ave, Clive, IA 50325",gas stations,Clive,68.06474662943725,41.60107,-93.78218,QuikTrip,7,"Jefferson, IA",False,2,4.0,IA
+"400 Prairie Bluff Dr, Waukee, IA 50263",gas stations,Waukee,65.30562967502652,41.56527,-93.880197,Kum & Go,3,"Jefferson, IA",False,2,4.5,IA
+"1211 9th St, Lake View, IA 51450",gas stations,Lake View,63.1092504894081,42.310832,-95.040174,Sparky's One Stop-Lake View,2,"Jefferson, IA",False,-1,3.0,IA

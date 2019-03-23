@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"501 S 5th Ave, Coon Rapids, IA 50058",restaurant,Coon Rapids,10.111026080981448,41.867031238369,-94.6771432533422,Las Margaritas,2,"Bayard, IA",False,-1,4.5,IA
+"304 5th St, West Des Moines, IA 50265",restaurant,West Des Moines,23.918365781292476,41.6918733938161,-94.3645338195577,Billy Vee's,22,"Bayard, IA",False,2,4.5,IA
+"506 Main St, Coon Rapids, IA 50058",restaurant,Coon Rapids,10.245394440449223,41.8705101013184,-94.6779403686523,Main St Pizza,1,"Bayard, IA",False,-1,5.0,IA
+"904 1st St, Redfield, IA 50233",restaurant,Redfield,41.75152581510094,41.5907936096191,-94.1957855224609,Harvey's Diner & Pub,21,"Bayard, IA",False,2,4.5,IA
+"124 W Main St, Panora, IA 50216",restaurant,Panora,23.891855807655585,41.691574,-94.365466,Owls Nest,11,"Bayard, IA",False,2,4.0,IA
+"419 Sand St, Churdan, IA 50050",restaurant,Churdan,34.27471350356739,42.1551895,-94.4786606,Churdan Bar & Grill,1,"Bayard, IA",False,-1,5.0,IA
+"901 N Elm St, Jefferson, IA 50129",restaurant,Jefferson,24.129106988935163,42.0254698,-94.3774336,Bett & Bev's Bbq,3,"Bayard, IA",False,1,4.0,IA
+"101 E Lincolnway St, Jefferson, IA 50129",restaurant,Jefferson,23.54122045711708,42.0149955749512,-94.3745574951172,Peony Chinese Restaurant,2,"Bayard, IA",False,1,5.0,IA
+"104 S 3rd St, Guthrie Center, IA 50115",restaurant,Guthrie Center,19.982896570711087,41.6770668,-94.5043869,LaVilla Mexican Restaurant,3,"Bayard, IA",False,-1,4.5,IA
+"5071 Clover Ridge Rd, Panora, IA 50216",restaurant,Panora,20.864082461079622,41.7122764587402,-94.3888168334961,Lake Panorama National Restaurant & Lounge,3,"Bayard, IA",False,-1,3.5,IA
+"777 Wild Rose Rd, Jefferson, IA 50129",restaurant,Jefferson,25.001743604782252,42.0359820403654,-94.3823157995939,Coaches Corner at The Wild Rose Casino,3,"Bayard, IA",False,2,3.5,IA
+"108 W Main St, Panora, IA 50216",restaurant,Panora,23.931442851493845,41.6916,-94.36482,Los Altos Mexican Restaurant - Panora,4,"Bayard, IA",False,-1,5.0,IA
+"217 State St, Guthrie Center, IA 50115",restaurant,Guthrie Center,19.898101884527062,41.67733,-94.50474,Prime Time,3,"Bayard, IA",False,-1,3.5,IA
+"703 Rye Ave, Templeton, IA 51463",restaurant,Templeton,32.18487280852446,41.913132,-94.936755,Waspy's Cafe,2,"Bayard, IA",False,-1,4.5,IA
+"411 2nd St, Dedham, IA 51440",restaurant,Dedham,22.913695982041464,41.90824,-94.82299,Donna's Cafe,1,"Bayard, IA",False,-1,5.0,IA
+"217 Main St, Yale, IA 50277",restaurant,Yale,18.614817475192826,41.775457854034,-94.3549236080459,Just Ethel's,2,"Bayard, IA",False,-1,3.0,IA
+"600 E Main St, Panora, IA 50216",restaurant,Panora,24.366650151039604,41.6912763799957,-94.3573752790689,PJ's Drive In,14,"Bayard, IA",False,1,4.0,IA
+"1205 Hwy 30, Ste A, Carroll, IA 51401",restaurant,Carroll,36.444652616709284,42.07424,-94.88097,Napoli's Italian Restaurant - Carroll,13,"Bayard, IA",False,2,4.5,IA
+"1409 N Elm St, Jefferson, IA 50129",restaurant,Jefferson,24.558465744628084,42.0282399,-94.3770399,Casa De Oro,9,"Bayard, IA",False,1,4.0,IA
+"18152 IA-141, Templeton, IA 51463",restaurant,Templeton,31.827234251976442,41.9057473132549,-94.9343341961503,Corner Station Cafe,1,"Bayard, IA",False,-1,5.0,IA

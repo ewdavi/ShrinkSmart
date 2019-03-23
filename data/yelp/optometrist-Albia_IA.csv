@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"6584 165th St, Albia, IA 52531",optometrist,Albia,2.190326729696281,41.0447696596384,-92.7966447919607,Adler William R OD,1,"Albia, IA",False,-1,1.0,IA
+"224 E Main St, Ottumwa, IA 52501",optometrist,Ottumwa,32.94333075902466,41.0164558,-92.4108879,"Mark A Altfillisch, OD - The Optical Shoppe",1,"Albia, IA",False,2,5.0,IA
+"125 N 13th St, Centerville, IA 52544",optometrist,Centerville,32.91945600938371,40.733363,-92.873098,International Eyecare Center,1,"Albia, IA",False,-1,5.0,IA
+"5075 E University Ave, Ste C, Pleasant Hill, IA 50327",optometrist,Pleasant Hill,87.32016354108981,41.6004564,-93.5145763,Eye Care Of Iowa PC - Pleasant Hill,5,"Albia, IA",False,-1,3.5,IA
+"200 Army Post Rd, Ste 16, Des Moines, IA 50315",optometrist,Des Moines,87.9697189726684,41.52572,-93.61866,Eye Care of Iowa -South Des Moines,3,"Albia, IA",False,-1,4.5,IA
+"5201 SE 14th Street, Des Moines, IA 50320",optometrist,Des Moines,87.38755360113096,41.5372657775879,-93.596321105957,Vision4Less,3,"Albia, IA",False,2,3.0,IA
+"315 E 5th St, Des Moines, IA 50309",optometrist,Des Moines,92.10335038901752,41.58911,-93.61057,Westrum Optometry,4,"Albia, IA",False,3,4.5,IA
+"1242 E 14th St, Des Moines, IA 50316",optometrist,Des Moines,92.51323006179085,41.6017532,-93.6006546,Greenberg Jerome R Dr Optmtrst,1,"Albia, IA",False,2,5.0,IA
+"6351 SE 14th, Des Moines, IA 50320",optometrist,Des Moines,86.6619337976554,41.5268387,-93.5966977,Eyeglass World,3,"Albia, IA",False,3,1.5,IA
+"2566 Hubbell Ave, Des Moines, IA 50317",optometrist,Des Moines,91.37350244500175,41.6104546,-93.5690402,Eye Care Of Iowa- East Des Moines,1,"Albia, IA",False,-1,1.0,IA

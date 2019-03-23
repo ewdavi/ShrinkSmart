@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2729 Outer Dr N, Sioux City, IA 51104",pharmacy,Sioux City,48.94675270478706,42.536771,-96.373251,Leeds Northside Pharmacy,3,"Correctionville, IA",False,-1,5.0,IA
+"111 S Washington St, Remsen, IA 51050",pharmacy,Remsen,40.6731377105096,42.8155251,-95.9731064,Remsen Pharmacy,1,"Correctionville, IA",False,2,5.0,IA
+"1900 Hamilton Blvd, Sioux City, IA 51104",pharmacy,Sioux City,52.176031653638546,42.510704,-96.4164963,Walgreens Pharmacy,1,"Correctionville, IA",False,1,5.0,IA
+"911 W 7th St, Sioux City, IA 51103",pharmacy,Sioux City,52.31675412661819,42.50347,-96.4186299,Thompson Dean Drug,1,"Correctionville, IA",False,-1,5.0,IA
+"104 Albany Ave NE, Orange City, IA 51041",pharmacy,Orange City,62.96287652657905,43.0068359375,-96.05712890625,Dutch Mill Pharmacy,1,"Correctionville, IA",False,-1,2.0,IA
+"4010 Morningside Ave, Sioux City, IA 51106",pharmacy,Sioux City,47.08759305607423,42.470285,-96.355506,Drilling Pharmacy,1,"Correctionville, IA",False,-1,5.0,IA
+"2501 Cornhusker Dr, South Sioux City, NE 68776",pharmacy,South Sioux City,53.13142599787861,42.46586,-96.42766,Hy-Vee,3,"Correctionville, IA",False,1,5.0,NE
+"105 Gaul Dr, Ste A, Sergeant Bluff, IA 51054",pharmacy,Sergeant Bluff,47.585786236149055,42.3993005,-96.3514466,Sergeant Bluff Pharmacy,2,"Correctionville, IA",False,-1,5.0,IA
+"2627 Pierce St, Mainstreet, Sioux City, IA 51104",pharmacy,Sioux City,51.34296549509618,42.5174961741306,-96.4054343919234,Hy-Vee,4,"Correctionville, IA",False,2,5.0,IA
+"1111 Holton Dr, Le Mars, IA 51031",pharmacy,Le Mars,47.38115180713858,42.7818016,-96.1876388,Walmart Supercenter,7,"Correctionville, IA",False,2,3.5,IA
+"4650 Morningside Ave, Sioux City, IA 51106",pharmacy,Sioux City,46.40105395849213,42.4698295593262,-96.3471221923828,Walgreens,2,"Correctionville, IA",False,2,5.0,IA
+"317 Main St, Manning, IA 51455",pharmacy,Manning,86.5475570800634,41.9084,-95.06523,Manning Pharmacy,3,"Correctionville, IA",False,-1,3.5,IA
+"1030 W 21St St, South Sioux City, NE 68776",pharmacy,South Sioux City,52.86718177546052,42.4697851,-96.4228594,Walgreens,1,"Correctionville, IA",False,1,4.0,NE
+"4500 Sergeant Rd, Southern Hills Mall, Sioux City, IA 51106",pharmacy,Sioux City,46.59317263187635,42.4458744,-96.3477866,Hy-Vee,7,"Correctionville, IA",False,2,3.0,IA
+"3400 Singing Hills Blvd, Sioux City, IA 51106",pharmacy,Sioux City,48.00042510651087,42.4335878,-96.3634497,Walmart Supercenter,1,"Correctionville, IA",False,-1,1.0,IA
+"3301 Gordon Dr, Sioux City, IA 51105",pharmacy,Sioux City,47.70998979315849,42.4888615778355,-96.3630928085523,Hy-Vee Gordon Dr,4,"Correctionville, IA",False,2,4.0,IA
+"2442 Transit Ave, Sioux City, IA 51106",pharmacy,Sioux City,48.894457255243815,42.4755712598562,-96.3776184618473,Valumed Pharmacy,1,"Correctionville, IA",False,-1,2.0,IA
+"4450 Sergeant Rd, Sioux City, IA 51106",pharmacy,Sioux City,46.578803531266686,42.4477151781321,-96.3479565829039,Hy-Vee Gas,2,"Correctionville, IA",False,-1,4.0,IA
+"1111 N 2nd, Cherokee, IA 51012",pharmacy,Cherokee,36.82902694738739,42.763485,-95.553152,Kmart,2,"Correctionville, IA",False,-1,1.0,IA
+"1831 Lake Ave, Storm Lake, IA 50588",pharmacy,Storm Lake,52.13977478657698,42.664124,-95.1970284,Walmart Supercenter,1,"Correctionville, IA",False,2,1.0,IA

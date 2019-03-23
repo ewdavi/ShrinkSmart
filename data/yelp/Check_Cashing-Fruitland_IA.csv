@@ -1,0 +1,4 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"3606 N Brady St, Davenport, IA 52806",Check Cashing,Davenport,53.21943554029941,41.55687,-90.56924,EZ Money Check Cashing,1,"Fruitland, IA",False,-1,5.0,IA
+"1516 N Henderson St, Galesburg, IL 61401",Check Cashing,Galesburg,75.39402711435432,40.9662343,-90.3836937,Cash Store,1,"Fruitland, IA",False,-1,5.0,IL
+"1705 2nd Ave, Ste 100, Rock Island, IL 61201",Check Cashing,Rock Island,49.45407519603828,41.5111519,-90.5756908,Alcohol & Drug Educational Services,1,"Fruitland, IA",False,-1,1.0,IL

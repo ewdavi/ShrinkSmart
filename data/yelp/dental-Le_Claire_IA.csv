@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"3024 Victoria St, Bettendorf, IA 52722",dental,Bettendorf,11.701857211525796,41.5536117553711,-90.4976577758789,"QC Dental Docs, PC",6,"Le Claire, IA",False,-1,5.0,IA
+"1111 Canal Shore Dr, LeClaire, IA 52753",dental,LeClaire,1.441010295760342,41.58581,-90.35947,River View Dental Specialists,1,"Le Claire, IA",False,-1,5.0,IA
+"3878 Middle Rd, Bettendorf, IA 52722",dental,Bettendorf,10.244168190108601,41.55463,-90.47881,Pleasant Valley Dentistry,2,"Le Claire, IA",False,-1,5.0,IA
+"2515 Maplecrest Rd, Bettendorf, IA 52722",dental,Bettendorf,11.557349422460724,41.554386138916,-90.4962310791016,Bettendorf Dental,1,"Le Claire, IA",False,-1,4.0,IA
+"2900 41st St, Moline, IL 61265",dental,Moline,15.56836531607748,41.4831695556641,-90.4793167114258,LJ Dentistry,2,"Le Claire, IA",False,-1,5.0,IL
+"4100 10th St Dr, Moline, IL 61265",dental,Moline,18.92531070702096,41.471046,-90.523008,Moline Family Dental,2,"Le Claire, IA",False,-1,4.5,IL
+"2208 E 52nd St, Ste A, Bettendorf, IA 52722",dental,Bettendorf,14.749626043253182,41.5739282,-90.5437279,Great River Dentistry,1,"Le Claire, IA",False,-1,5.0,IA
+"515 Valley View Dr, Ste 105, Moline, IL 61265",dental,Moline,19.374506079001748,41.47193,-90.53203,Solis Dental Group,3,"Le Claire, IA",False,-1,5.0,IL
+"3024 Victoria St, Bettendorf, IA 52722",dental,Bettendorf,11.701857211525796,41.5536118,-90.4976501,Irwin Thomas P Chip DMD,1,"Le Claire, IA",False,-1,5.0,IA
+"5025 Utica Ridge Rd, Davenport, IA 52807",dental,Davenport,12.38213784241376,41.571293,-90.514184,Secure Dental,2,"Le Claire, IA",False,-1,3.0,IA
+"1828 Ave Of The Cities, Moline, IL 61265",dental,Moline,16.716951215568717,41.48926,-90.51023,Myotech Dental,1,"Le Claire, IA",False,-1,5.0,IL
+"609 35th Ave, Ste 3, Moline, IL 61265",dental,Moline,18.930492726158842,41.4754532,-90.5292532,Total Health Dentistry,1,"Le Claire, IA",False,-1,5.0,IL
+"850 36th Ave, Moline, IL 61265",dental,Moline,18.98404139226847,41.47236,-90.52572,"Rhonda L VanSpeybroeck, DMD",1,"Le Claire, IA",False,-1,5.0,IL
+"1850 E 53rd St, Ste 5, Davenport, IA 52807",dental,Davenport,15.203665507874472,41.57511,-90.54955,Waterford Family Dentistry,2,"Le Claire, IA",False,-1,3.0,IA
+"3005 E 18th St, Davenport, IA 52803",dental,Davenport,14.908850837940365,41.53722,-90.52992,Botsko David L DMD,1,"Le Claire, IA",False,-1,5.0,IA
+"2430 Tech Dr, Ste A, Bettendorf, IA 52722",dental,Bettendorf,11.751975762356913,41.5528,-90.4979199,"Richard D Nelson, DDS - Nelson Family Dentistry",2,"Le Claire, IA",False,-1,3.0,IA
+"4346 E 53rd St, Davenport, IA 52807",dental,Davenport,11.997915094562893,41.575439,-90.510467,Crow Valley Dental Care,1,"Le Claire, IA",False,-1,1.0,IA
+"4404 16th St, Moline, IL 61265",dental,Moline,18.01054870156741,41.4703952741838,-90.5052120192249,Aspen Dental,4,"Le Claire, IA",False,-1,2.0,IL
+"2334 31st Ave, Ste 1, Rock Island, IL 61201",dental,Rock Island,21.057192542915036,41.478968,-90.567604,McManus Orthodontics,1,"Le Claire, IA",False,-1,5.0,IL
+"4024 Blackhawk Rd, Rock Island, IL 61201",dental,Rock Island,20.507452503920977,41.466512,-90.544086,21st Century Dental,3,"Le Claire, IA",False,-1,2.0,IL

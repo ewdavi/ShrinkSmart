@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"606 Walnut St, Des Moines, IA 50309",pharmacy,Des Moines,13.909903119450561,41.58544,-93.62502,Walgreens,6,"Altoona, IA",False,2,3.5,IA
+"3414 8th St SW, Altoona, IA 50009",pharmacy,Altoona,2.108078531442692,41.641903,-93.504625,Target,6,"Altoona, IA",False,2,4.5,IA
+"108 8th St SW, Altoona, IA 50009",pharmacy,Altoona,1.9745648138305871,41.642769,-93.46596,Hy-Vee Food Stores,4,"Altoona, IA",False,2,3.5,IA
+"2702 Se Delaware Ave, Ankeny, IA 50021",pharmacy,Ankeny,9.707620813047738,41.70214,-93.58189,Walgreens,3,"Altoona, IA",False,2,5.0,IA
+"101 8Th St Se, Altoona, IA 50009",pharmacy,Altoona,1.9991807159809623,41.64447,-93.464,Walgreens,4,"Altoona, IA",False,2,2.0,IA
+"2719 Grand Ave, Ames, IA 50010",pharmacy,Ames,45.38644724743941,42.048965,-93.621231,Walgreens,5,"Altoona, IA",False,2,4.5,IA
+"4900 Mills Civic Pkwy, West Des Moines, IA 50265",pharmacy,West Des Moines,25.965518709623822,41.55856,-93.77,Walgreens,6,"Altoona, IA",False,2,3.5,IA
+"420 Court Ave, Des Moines, IA 50309",pharmacy,Des Moines,13.75718084760557,41.58461387468,-93.6220497511848,Hy-Vee,42,"Altoona, IA",False,2,3.5,IA
+"1330 E University Ave, Des Moines, IA 50316",pharmacy,Des Moines,11.32364242783659,41.6011047363281,-93.6012268066406,Walgreens,3,"Altoona, IA",False,2,3.5,IA
+"3802 Ingersoll Ave, Des Moines, IA 50312",pharmacy,Des Moines,17.01463014445831,41.58588,-93.66838,Bauder Pharmacy,43,"Altoona, IA",False,1,4.5,IA
+"12753 University Ave, Clive, IA 50325",pharmacy,Clive,26.326370195452334,41.600944519043,-93.7936019897461,Walgreens,8,"Altoona, IA",False,2,2.5,IA
+"107 NE Delaware Ave, Ankeny, IA 50021",pharmacy,Ankeny,11.824603988312578,41.73245,-93.5808799,Medicap Pharmacy,2,"Altoona, IA",False,2,4.5,IA
+"901 N Ankeny Blvd, Ankeny, IA 50023",pharmacy,Ankeny,13.436969058023571,41.73904,-93.59936,Walgreens,8,"Altoona, IA",False,3,3.0,IA
+"2545 E Euclid Ave, Des Moines, IA 50317",pharmacy,Des Moines,7.594886332769034,41.6270485,-93.5686798,Walgreens,2,"Altoona, IA",False,2,4.0,IA
+"120 N 1st Ave, Winterset, IA 50273",pharmacy,Winterset,56.60272711331704,41.33513,-94.01465,Montross Pharmacy,8,"Altoona, IA",False,1,4.0,IA
+"4555 Fleur Dr, Des Moines, IA 50321",pharmacy,Des Moines,18.116168605363995,41.542926,-93.644515,Walgreens,4,"Altoona, IA",False,1,2.5,IA
+"101 N Walnut St, Colfax, IA 50054",pharmacy,Colfax,20.038089368214468,41.6777769,-93.2455896,Benzer Pharmacy,3,"Altoona, IA",False,2,3.5,IA
+"104 E Euclid Ave, Des Moines, IA 50313",pharmacy,Des Moines,11.354987999604536,41.6283302307129,-93.6171875,Walgreens,4,"Altoona, IA",False,2,3.5,IA
+"800 School St, Carlisle, IA 50047",pharmacy,Carlisle,17.310106423268966,41.498291015625,-93.4950485229492,Medicap Pharmacy,1,"Altoona, IA",False,-1,2.0,IA
+"104 E First St, Ankeny, IA 50023",pharmacy,Ankeny,13.040411073593484,41.7325,-93.601,CVS Pharmacy,3,"Altoona, IA",False,2,3.5,IA

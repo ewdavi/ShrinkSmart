@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1206 S Locust St, Glenwood, IA 51534",pharmacy,Glenwood,4.659931320132575,41.0369699,-95.74997,Medicap Pharmacy,1,"Pacific Junction, IA",False,-1,2.0,IA
+"3001 Dodge St, Omaha, NE 68131",pharmacy,Omaha,29.879548929069355,41.2592468261719,-95.9568328857422,Walgreens,9,"Pacific Junction, IA",False,2,2.5,NE
+"1701 South Galvin Rd, Bellevue, NE 68005",pharmacy,Bellevue,16.667727612148262,41.14263,-95.90953,CVS Pharmacy,6,"Pacific Junction, IA",False,2,4.5,NE
+"310 S 15th St, Omaha, NE 68102",pharmacy,Omaha,28.953281372258687,41.2572555,-95.9358762,Alegent Creighton Health Pharmacy,2,"Pacific Junction, IA",False,3,4.5,NE
+"205 Main St, Springfield, NE 68059",pharmacy,Springfield,28.862739884268443,41.0816,-96.13317,Springfield Drug,8,"Pacific Junction, IA",False,1,5.0,NE
+"1802 Galvin Rd S, Bellevue, NE 68005",pharmacy,Bellevue,16.505625374841514,41.14092,-95.90988,Walgreens,6,"Pacific Junction, IA",False,2,2.5,NE
+"611 N Hwy 6, Gretna, NE 68028",pharmacy,Gretna,39.46584233671509,41.1445696642028,-96.2393921613693,U Save Pharmacy - Gretna,2,"Pacific Junction, IA",False,-1,2.5,NE
+"714 Illinois St, Sidney, IA 51652",pharmacy,Sidney,32.70167048551249,40.7473041124881,-95.6474058410698,Penn Drug,2,"Pacific Junction, IA",False,1,5.0,IA
+"2508 W Broadway, Council Bluffs, IA 51501",pharmacy,Council Bluffs,28.070072980579283,41.262405,-95.882652,Walgreens,2,"Pacific Junction, IA",False,2,3.0,IA
+"6901 So 84th St, Lavista, NE 68128",pharmacy,Lavista,27.91041651545899,41.190286,-96.041729,CVS Pharmacy,2,"Pacific Junction, IA",False,1,4.5,NE
+"225 N Saddle Creek Rd, Omaha, NE 68131",pharmacy,Omaha,30.928725842341606,41.2608528137207,-95.9797744750977,Walgreens,3,"Pacific Junction, IA",False,1,4.0,NE
+"3808 Twin Creek Dr, Bellevue, NE 68123",pharmacy,Bellevue,19.89979552316007,41.1426,-95.9699,CVS Pharmacy,1,"Pacific Junction, IA",False,-1,4.0,NE
+"6905 S 36Th St, Bellevue, NE 68147",pharmacy,Bellevue,23.74801055408139,41.19042,-95.96693,Walgreens,2,"Pacific Junction, IA",False,2,4.0,NE
+"5110 L St, Omaha, NE 68117",pharmacy,Omaha,27.130215365123664,41.2126549,-95.9940359,Kohll's Pharmacy & Homecare,3,"Pacific Junction, IA",False,3,3.5,NE
+"1821 S 11th St, Nebraska City, NE 68410",pharmacy,Nebraska City,40.04185643479703,40.660724,-95.8591818,Moser's U-Save Pharmacy,1,"Pacific Junction, IA",False,2,5.0,NE
+"9460 Giles Rd, La Vista, NE 68128",pharmacy,La Vista,28.13618278162866,41.1776858,-96.0599452,Walmart Neighborhood Market,5,"Pacific Junction, IA",False,1,4.5,NE
+"5038 Center St, Omaha, NE 68106",pharmacy,Omaha,29.623537009757104,41.241753256674,-95.9914441674117,Walgreens,6,"Pacific Junction, IA",False,2,2.5,NE
+"13155 W Center Rd, Omaha, NE 68144",pharmacy,Omaha,35.88863786255242,41.2339051,-96.1189583,Walgreens,13,"Pacific Junction, IA",False,1,3.5,NE
+"2701 S 10th St, Omaha, NE 68108",pharmacy,Omaha,26.374571302929333,41.2339925,-95.929311,Ed's Rexall Drug,1,"Pacific Junction, IA",False,2,5.0,NE
+"11343 S 96th St, Papillion, NE 68046",pharmacy,Papillion,26.179385020103684,41.1439091,-96.063407,Walgreens,2,"Pacific Junction, IA",False,2,4.0,NE

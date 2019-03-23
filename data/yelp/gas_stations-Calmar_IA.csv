@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"905 Short St, Decorah, IA 52101",gas stations,Decorah,13.902732270082415,43.291934967041,-91.7956466674805,Kwik Star Food Stores,2,"Calmar, IA",False,2,4.5,IA
+"215 W Main St, Fredericksburg, IA 50630",gas stations,Fredericksburg,35.958359489704854,42.965163,-92.201119,Casey's General Store,1,"Calmar, IA",False,-1,4.0,IA
+"209 Kansas St NW, Preston, MN 55965",gas stations,Preston,57.89024175860074,43.6756744384766,-92.0840301513672,Bp,1,"Calmar, IA",False,-1,3.0,MN
+"1510 S Grand Ave, Charles City, IA 50616",gas stations,Charles City,66.79384205774508,43.04741,-92.6715399,Kwik Star,6,"Calmar, IA",False,1,3.5,IA
+"811 Barrick Rd, Janesville, IA 50647",gas stations,Janesville,75.76474266016523,42.64982,-92.455104,Kwik Star,2,"Calmar, IA",False,-1,4.5,IA
+"748 Main St, Lansing, IA 52151",gas stations,Lansing,55.95584322343369,43.3620414733887,-91.2253723144531,Expresso,2,"Calmar, IA",False,-1,4.0,IA
+"640 N Broadway St, Spring Valley, MN 55975",gas stations,Spring Valley,71.47114212796731,43.695377,-92.396184,Kwik Trip,1,"Calmar, IA",False,2,5.0,MN
+"221 N Section Ave, Spring Valley, MN 55975",gas stations,Spring Valley,70.63231945632945,43.689963,-92.388771,Bp Shop & Car Wash,1,"Calmar, IA",False,-1,3.0,MN
+"Grand Meadow, MN 55936",gas stations,Grand Meadow,81.56538841795414,43.70632,-92.56971,Glynn's Motor Mart,1,"Calmar, IA",False,1,4.0,MN
+"107 1st Ave E, Farley, IA 52046",gas stations,Farley,108.0017738403156,42.44301,-91.00519,Delaneys Auto & Ag Repair,1,"Calmar, IA",False,-1,5.0,IA

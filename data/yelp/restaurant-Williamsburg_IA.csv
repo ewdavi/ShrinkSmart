@@ -1,0 +1,14 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"303 S Highland St, Williamsburg, IA 52361",restaurant,Williamsburg,1.049964880280917,41.66321,-92.006837,Myers Grill & Catering,39,"Williamsburg, IA",False,2,4.5,IA
+"130 W Evans St, Williamsburg, IA 52361",restaurant,Williamsburg,1.98659501098853,41.690245,-92.009081,Landmark Restaurant,38,"Williamsburg, IA",False,1,4.0,IA
+"523 Court St, Williamsburg, IA 52361",restaurant,Williamsburg,1.2905503547285748,41.66152,-92.00866,Mi Casa Authentic Mexican Grill,10,"Williamsburg, IA",False,1,4.5,IA
+"301 W State St, Williamsburg, IA 52361",restaurant,Williamsburg,1.1981418421610959,41.66162,-92.01046,Pizza Haus,12,"Williamsburg, IA",False,1,4.0,IA
+"112 W State St, Williamsburg, IA 52361",restaurant,Williamsburg,1.1679952143770473,41.661944,-92.008303,Sundown Bar and Grill,8,"Williamsburg, IA",False,1,4.0,IA
+"515 Court St, Williamsburg, IA 52361",restaurant,Williamsburg,1.2582715960376634,41.66161,-92.00865,Casa Tequila,4,"Williamsburg, IA",False,1,4.5,IA
+"2213 U Ave, Williamsburg, IA 52361",restaurant,Williamsburg,8.226076535263175,41.6846747,-91.9110905,Seven Villages Restaurant,24,"Williamsburg, IA",False,1,3.5,IA
+"214 W State St, Williamsburg, IA 52361",restaurant,Williamsburg,1.1638193156661318,41.6619217772628,-92.0099884271622,A 8 Chinese,4,"Williamsburg, IA",False,-1,4.0,IA
+"103 S Highland St, Williamsburg, IA 52361",restaurant,Williamsburg,0.8788946943997843,41.6645044,-92.0071951,Kruso's Pizza Delivery,1,"Williamsburg, IA",False,-1,4.0,IA
+"335 E Evans St, Williamsburg, IA 52361",restaurant,Williamsburg,1.936958654789799,41.687724,-92.020871,Arbys,4,"Williamsburg, IA",False,2,3.5,IA
+"2175 M Ave, Williamsburg, IA 52361",restaurant,Williamsburg,5.172403826601449,41.6926352,-92.0662505,Subway,2,"Williamsburg, IA",False,-1,1.0,IA
+"235 Evans St E, Williamsburg, IA 52361",restaurant,Williamsburg,1.9067303670215552,41.6893724821792,-92.0066570092558,McDonald's,12,"Williamsburg, IA",False,1,2.0,IA
+"235 Tanger Dr, Williamsburg, IA 52361",restaurant,Williamsburg,2.1831373836966703,41.6899949,-92.0055762,Subway,3,"Williamsburg, IA",False,-1,1.0,IA

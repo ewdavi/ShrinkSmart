@@ -1,0 +1,12 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"21 W Main St, Waukon, IA 52172",pharmacy,Waukon,0.10670108313667555,43.2695503,-91.4766617,Hartig Drug,2,"Waukon, IA",False,-1,5.0,IA
+"1798 Old Stage Rd, Decorah, IA 52101",pharmacy,Decorah,22.53590844338353,43.29132,-91.75431,Walmart Pharmacy,1,"Waukon, IA",False,-1,4.0,IA
+"109 N Marquette Rd, Prairie Du Chien, WI 53821",pharmacy,Prairie Du Chien,36.29338283370465,43.05223,-91.1414099,Walgreens,2,"Waukon, IA",False,1,5.0,WI
+"528 Cass St, La Crosse, WI 54601",pharmacy,La Crosse,62.78611372682687,43.8085987992874,-91.2489062547684,Cass Street Pharmacy,1,"Waukon, IA",False,2,5.0,WI
+"900 West Ave S, La Crosse, WI 54601",pharmacy,La Crosse,62.321655125988244,43.802276,-91.24028,Walgreens,1,"Waukon, IA",False,2,3.0,WI
+"230 Main St, Mc Gregor, IA 52157",pharmacy,Mc Gregor,36.52523747902061,43.0242004394531,-91.1763076782227,McGregor Pharmacy,1,"Waukon, IA",False,-1,4.0,IA
+"12 S Frederick Ave, Oelwein, IA 50662",pharmacy,Oelwein,74.67486215443533,42.6780166625977,-91.9136962890625,Schuchmanns'valu-Rite Pharmacy,1,"Waukon, IA",False,-1,5.0,IA
+"1907 West Ave S, La Crosse, WI 54601",pharmacy,La Crosse,61.255686635567386,43.79215,-91.23935,Prescription Center,3,"Waukon, IA",False,2,4.5,WI
+"3909 Mormon Coulee Rd, La Crosse, WI 54601",pharmacy,La Crosse,60.08605979102848,43.775932,-91.220055,Walgreens,1,"Waukon, IA",False,-1,4.0,WI
+"200 Jefferson St, West Union, IA 52175",pharmacy,West Union,43.03943543778629,42.967976,-91.810828,Palmer Home Medical Supply Services,1,"Waukon, IA",False,-1,1.0,IA
+"705 State St, La Crosse, WI 54601",pharmacy,La Crosse,63.302124981337435,43.8129003,-91.246413,Family Medical Supply & CPAP Store,2,"Waukon, IA",False,3,3.0,WI

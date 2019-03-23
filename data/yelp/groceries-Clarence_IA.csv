@@ -1,0 +1,12 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"610 Cedar St, Tipton, IA 52772",groceries,Tipton,14.036797253176648,41.7716529,-91.127472,Family Foods,3,"Clarence, IA",False,3,3.5,IA
+"715 1st Ave S, Mount Vernon, IA 52314",groceries,Mount Vernon,30.525675623535353,41.9171983,-91.4230729,Gary's Foods,5,"Clarence, IA",False,2,4.0,IA
+"402 E Main St, Anamosa, IA 52205",groceries,Anamosa,30.920318821929552,42.1085243225098,-91.2813339233398,Family Food Center,2,"Clarence, IA",False,2,4.0,IA
+"101 115th St, Anamosa, IA 52205",groceries,Anamosa,29.243707289664215,42.099218,-91.264295,Walmart Supercenter,1,"Clarence, IA",False,4,4.0,IA
+"408 6th Ave, Durant, IA 52747",groceries,Durant,34.041492848061694,41.60066,-90.91224,Jeff's Market,1,"Clarence, IA",False,-1,5.0,IA
+"112 E Washington St, Wheatland, IA 52777",groceries,Wheatland,18.928349401724113,41.8324989080429,-90.8399478346109,Wheatland Grocery & Meats,2,"Clarence, IA",False,-1,3.0,IA
+"110 Westgate Dr, Maquoketa, IA 52060",groceries,Maquoketa,36.966925022045736,42.06719,-90.68137,Fareway Stores,3,"Clarence, IA",False,2,4.0,IA
+"115 W Main St, West Branch, IA 52358",groceries,West Branch,33.873509925307374,41.6718407,-91.3457794,Dewey's Jack & Jill,2,"Clarence, IA",False,2,3.5,IA
+"402 E Main St, Anamosa, IA 52205",groceries,Anamosa,30.91654177424092,42.1085243225098,-91.2813339233398,Fareway,1,"Clarence, IA",False,-1,5.0,IA
+"1006 N Columbus St, West Liberty, IA 52776",groceries,West Liberty,38.15815889601336,41.57858,-91.26016,Giri Bp,3,"Clarence, IA",False,1,2.5,IA
+"4823 Dingleberry Rd NE, Iowa City, IA 52240",groceries,Iowa City,38.25915506092567,41.7206253111362,-91.4610683172941,Wilson's Orchard,23,"Clarence, IA",False,2,4.0,IA

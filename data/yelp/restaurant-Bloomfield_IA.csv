@@ -1,0 +1,9 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"103 E Jefferson St, Bloomfield, IA 52537",restaurant,Bloomfield,0.7225038056437803,40.75198,-92.41467,The Farmer's Table,1,"Bloomfield, IA",False,-1,5.0,IA
+"905 S Washington St, Bloomfield, IA 52537",restaurant,Bloomfield,0.5787658857569927,40.7404861450195,-92.4118499755859,Southfork Motel & Grill,13,"Bloomfield, IA",False,1,4.0,IA
+"203 Weaver Rd, Bloomfield, IA 52537",restaurant,Bloomfield,0.7389786728084027,40.7518248421882,-92.4155426592927,North End Grill,1,"Bloomfield, IA",False,1,5.0,IA
+"102 W Main St, Drakesville, IA 52552",restaurant,Drakesville,8.334227916037399,40.79899,-92.48193,Ray's Longbranch,3,"Bloomfield, IA",False,-1,4.5,IA
+"102 S Madison St, Bloomfield, IA 52537",restaurant,Bloomfield,0.6968846650997443,40.75146,-92.41544,Rancho Centinela Mexican Restaurant,7,"Bloomfield, IA",False,2,4.5,IA
+"107 South Madison, Bloomfield, IA 52537",restaurant,Bloomfield,0.6528156787771022,40.7510953146859,-92.4151942835143,CJ's Family Restaurant,3,"Bloomfield, IA",False,-1,3.5,IA
+"109 S Washington St, Bloomfield, IA 52537",restaurant,Bloomfield,0.5984565914820581,40.751,-92.41326,Slicks,1,"Bloomfield, IA",False,-1,5.0,IA
+"103 Smith St, Bloomfield, IA 52537",restaurant,Bloomfield,0.7345083799413117,40.7390199,-92.41216,Pizza Hut,2,"Bloomfield, IA",False,4,1.0,IA

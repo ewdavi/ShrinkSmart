@@ -1,0 +1,13 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1409 W 1st St, Cedar Falls, IA 50613",optometrist,Cedar Falls,48.09121607426943,42.53811,-92.46245,Cedar Valley Eye Care,3,"Dumont, IA",False,-1,4.5,IA
+"2020 3rd Ave NW, Ste B, Waverly, IA 50677",optometrist,Waverly,39.123220327901166,42.7283554077148,-92.4958419799805,Wolfe Clinic PC,1,"Dumont, IA",False,-1,5.0,IA
+"3121 4th St SW, Mason City, IA 50401",optometrist,Mason City,49.32476538660751,43.14745,-93.24775,North Iowa Eye Clinic,1,"Dumont, IA",False,-1,4.0,IA
+"4521 Chadwick Rd, Ste 1, Cedar Falls, IA 50613",optometrist,Cedar Falls,54.00127848056131,42.4970998,-92.4118677,"Anthony D Bailey, OD",3,"Dumont, IA",False,-1,3.0,IA
+"14 N 8th St, Clear Lake, IA 50428",optometrist,Clear Lake,54.09604537447308,43.137896,-93.3786351,Clear Lake Optometry,2,"Dumont, IA",False,-1,4.0,IA
+"6301 University Ave, Ofc, Cedar Falls, IA 50613",optometrist,Cedar Falls,51.54111783941936,42.5107688,-92.435688,Krieger & Associates,2,"Dumont, IA",False,-1,1.0,IA
+"2027 Crossroads Blvd, Waterloo, IA 50702",optometrist,Waterloo,62.08518972364013,42.4662365720999,-92.3219132423401,All About Eyes - Waterloo,1,"Dumont, IA",False,2,3.0,IA
+"516 Division St, Ste 120, Cedar Falls, IA 50613",optometrist,Cedar Falls,48.60325135220636,42.533769,-92.458798,Wolfe Eye Clinic- Cedar Falls,2,"Dumont, IA",False,-1,1.0,IA
+"1501 E San Marnan Dr, Waterloo, IA 50702",optometrist,Waterloo,61.69541025846415,42.465794,-92.327829,Target Optical,4,"Dumont, IA",False,2,4.0,IA
+"6301 University Ave, Ofc, Cedar Falls, IA 50613",optometrist,Cedar Falls,51.68940083748304,42.512447,-92.432179,LensCrafters,2,"Dumont, IA",False,2,2.5,IA
+"2515 Cyclone Dr, Waterloo, IA 50701",optometrist,Waterloo,56.036672902004405,42.4683272,-92.407726,Mauer Eye Center,3,"Dumont, IA",False,4,1.0,IA
+"2018 Sears Street, Waterloo, IA 50702",optometrist,Waterloo,62.07322527604185,42.4647062390668,-92.3233360309167,Vision4Less,3,"Dumont, IA",False,-1,1.0,IA

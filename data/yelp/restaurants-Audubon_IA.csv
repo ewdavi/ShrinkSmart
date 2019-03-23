@@ -1,0 +1,9 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"120 N Division St, Audubon, IA 50025",restaurants,Audubon,1.1148318596012547,41.7243118286133,-94.9377670288086,Chatterbox Cafe,10,"Audubon, IA",False,1,4.0,IA
+"320 Broadway St, Audubon, IA 50025",restaurants,Audubon,0.6026812107851809,41.7208002,-94.9325022,Adobe Mexican Restaurant,5,"Audubon, IA",False,1,3.5,IA
+"4010 1st St, Hamlin, IA 50117",restaurants,Hamlin,5.913801345802529,41.6660561568077,-94.9057954593164,Darrel's Place,13,"Audubon, IA",False,1,4.0,IA
+"4234 Main St, Elk Horn, IA 51531",restaurants,Elk Horn,17.58440889783787,41.59327,-95.06034,The Flour Mill,17,"Audubon, IA",False,2,5.0,IA
+"4020 Maine St, Elk Horn, IA 51531",restaurants,Elk Horn,18.108897327162843,41.58742,-95.06111,Stephanie's Good Eats,3,"Audubon, IA",False,-1,4.5,IA
+"320 Broadway St, Audubon, IA 50025",restaurants,Audubon,0.6027089291384976,41.7208962142467,-94.9324583262205,Uptown Cafe,1,"Audubon, IA",False,-1,3.0,IA
+"317 N Market St, Audubon, IA 50025",restaurants,Audubon,1.4887198706366744,41.7275543,-94.9374771,Pizza Hut,1,"Audubon, IA",False,-1,1.0,IA
+"4234 Main St, Elk Horn, IA 51531",restaurants,Elk Horn,17.58440889783787,41.5932693,-95.0600815,Thirsty Mermaids Brew Cafe,1,"Audubon, IA",False,1,5.0,IA

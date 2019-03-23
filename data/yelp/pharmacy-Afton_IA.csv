@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"120 N 1st Ave, Winterset, IA 50273",pharmacy,Winterset,37.25531948698858,41.33513,-94.01465,Montross Pharmacy,8,"Afton, IA",False,1,4.0,IA
+"806 Laurel St, Creston, IA 50801",pharmacy,Creston,15.054054533689806,41.0476270463133,-94.3729910421543,Walmart Supercenter,2,"Afton, IA",False,1,3.0,IA
+"606 Walnut St, Des Moines, IA 50309",pharmacy,Des Moines,78.09504442848883,41.58544,-93.62502,Walgreens,6,"Afton, IA",False,2,3.5,IA
+"120 N 1st Ave, Winterset, IA 50273",pharmacy,Winterset,37.25531948698858,41.33513,-94.01465,Montross Health Mart Pharmacy,1,"Afton, IA",False,-1,5.0,IA
+"4900 Mills Civic Pkwy, West Des Moines, IA 50265",pharmacy,West Des Moines,68.78371209678085,41.55856,-93.77,Walgreens,6,"Afton, IA",False,2,3.5,IA
+"401 Washington Street, Fontanelle, IA 50846",pharmacy,Fontanelle,42.241395410409055,41.28947,-94.56254,Fontanelle Drug,1,"Afton, IA",False,1,5.0,IA
+"628 Nile Kinnick Dr, Ste 1, Adel, IA 50003",pharmacy,Adel,66.39464094447625,41.6108,-94.01723,Sumpter Pharmacy and Wellness,1,"Afton, IA",False,1,5.0,IA
+"12753 University Ave, Clive, IA 50325",pharmacy,Clive,71.9209625310661,41.600944519043,-93.7936019897461,Walgreens,8,"Afton, IA",False,2,2.5,IA
+"101 E Main St, Lamoni, IA 50140",pharmacy,Lamoni,50.15635451014871,40.6236353516579,-93.9331094920635,Varsity Drug,1,"Afton, IA",False,1,4.0,IA
+"3802 Ingersoll Ave, Des Moines, IA 50312",pharmacy,Des Moines,75.99750041258487,41.58588,-93.66838,Bauder Pharmacy,43,"Afton, IA",False,1,4.5,IA
+"420 Court Ave, Des Moines, IA 50309",pharmacy,Des Moines,78.17228302886163,41.58461387468,-93.6220497511848,Hy-Vee,42,"Afton, IA",False,2,3.5,IA
+"4555 Fleur Dr, Des Moines, IA 50321",pharmacy,Des Moines,73.38001271236908,41.542926,-93.644515,Walgreens,4,"Afton, IA",False,1,2.5,IA
+"1330 E University Ave, Des Moines, IA 50316",pharmacy,Des Moines,80.67516772091794,41.6011047363281,-93.6012268066406,Walgreens,3,"Afton, IA",False,2,3.5,IA
+"4707 Fleur Dr, Des Moines, IA 50321",pharmacy,Des Moines,73.40150845539581,41.54182,-93.64475,Hy-Vee Pharmacies,1,"Afton, IA",False,-1,5.0,IA
+"800 School St, Carlisle, IA 50047",pharmacy,Carlisle,78.410063993785,41.498291015625,-93.4950485229492,Medicap Pharmacy,1,"Afton, IA",False,-1,2.0,IA
+"14201 Hickman Rd, Urbandale, IA 50323",pharmacy,Urbandale,72.5714457128927,41.615756,-93.814961,CVS Pharmacy,3,"Afton, IA",False,-1,3.5,IA
+"4600 86Th St, Urbandale, IA 50322",pharmacy,Urbandale,78.39878640559557,41.643959,-93.736618,Walgreens,1,"Afton, IA",False,2,4.0,IA
+"1990 Grand Ave, West Des Moines, IA 50265",pharmacy,West Des Moines,71.73508166575458,41.5710201725665,-93.7297997981348,Hy-Vee Pharmacies,4,"Afton, IA",False,2,2.5,IA
+"113 N 9th St, Adel, IA 50003",pharmacy,Adel,67.12132232079803,41.61781,-94.01908,Adel Healthmart,1,"Afton, IA",False,2,5.0,IA
+"1000 N Jefferson Way, Indianola, IA 50125",pharmacy,Indianola,65.44272750504254,41.3696403503418,-93.5576095581055,Walgreens,1,"Afton, IA",False,-1,1.0,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"113 High Ave W, Oskaloosa, IA 52577",restaurant,Oskaloosa,2.778905780688887,41.2956,-92.64573,Hunter's,11,"University Park, IA",False,1,5.0,IA
+"109 High Ave W, Oskaloosa, IA 52577",restaurant,Oskaloosa,2.763506783465589,41.2954449,-92.6456154,Tasos' Steak House,15,"University Park, IA",False,2,4.0,IA
+"2214 S 11th St, Oskaloosa, IA 52577",restaurant,Oskaloosa,1.7944054208608025,41.2757,-92.63068,Wood Iron Grille,5,"University Park, IA",False,-1,4.0,IA
+"2274 Hwy 63, Oskaloosa, IA 52577",restaurant,Oskaloosa,5.017352603943653,41.325349,-92.64448,The Peppertree,12,"University Park, IA",False,2,3.5,IA
+"212 1st Ave E, Oskaloosa, IA 52577",restaurant,Oskaloosa,2.5665697101787335,41.2944177723223,-92.6436914876103,The Brickhouse Cafe,6,"University Park, IA",False,-1,4.0,IA
+"1110 A Ave W, Oskaloosa, IA 52577",restaurant,Oskaloosa,3.7361011784712117,41.295895,-92.657823,Chuong Garden,6,"University Park, IA",False,-1,4.5,IA
+"1802 A Ave E, Oskaloosa, IA 52577",restaurant,Oskaloosa,1.2503444017119965,41.295728,-92.622589,Riverside Family Restaurant 2,11,"University Park, IA",False,1,3.5,IA
+"216 S Market St, Oskaloosa, IA 52577",restaurant,Oskaloosa,2.6233209890732208,41.29384,-92.64469,Julie's Homestyle Cafe,3,"University Park, IA",False,-1,4.5,IA
+"1716 Lacey Dr, Oskaloosa, IA 52577",restaurant,Oskaloosa,3.4811974893237263,41.3089067,-92.6434906,WanderLunch,3,"University Park, IA",False,-1,5.0,IA
+"200 High Ave W, Oskaloosa, IA 52577",restaurant,Oskaloosa,2.66180701410428,41.294412,-92.6449153,Mi Ranchito Mexican Restaurant,19,"University Park, IA",False,2,3.5,IA
+"215 A Ave E, Oskaloosa, IA 52577",restaurant,Oskaloosa,2.6051331557678927,41.2965057,-92.6429582,Breadeaux Pizza,4,"University Park, IA",False,1,5.0,IA
+"109 S Market St, Oskaloosa, IA 52577",restaurant,Oskaloosa,2.723079735080363,41.2949562072754,-92.6454315185547,Smokey Row Coffee House,22,"University Park, IA",False,1,4.0,IA
+"1109 A Ave W, Oskaloosa, IA 52577",restaurant,Oskaloosa,3.675103325404041,41.2962202,-92.6569202,Grate Expectations Catering,2,"University Park, IA",False,-1,5.0,IA
+"417 A Ave W, Oskaloosa, IA 52577",restaurant,Oskaloosa,3.112010153359323,41.29647,-92.64957,Asian Buffet,13,"University Park, IA",False,2,3.5,IA
+"902 A Ave W, Unit-B, Oskaloosa, IA 52577",restaurant,Oskaloosa,3.4860996547493777,41.2956238,-92.6547992,Maid-rite,7,"University Park, IA",False,1,3.5,IA
+"406 W A St, Oskaloosa, IA 52577",restaurant,Oskaloosa,3.024470205438137,41.2961,-92.6487,KFC,3,"University Park, IA",False,-1,3.0,IA
+"1405 Ave A W, Oskaloosa, IA 52577",restaurant,Oskaloosa,3.9612435069816083,41.2962265,-92.6605055,Jimmy John's,7,"University Park, IA",False,1,3.5,IA
+"703 A Ave W, Oskaloosa, IA 52577",restaurant,Oskaloosa,3.3362477045569126,41.2965663620913,-92.6524619834254,McDonald's,4,"University Park, IA",False,-1,1.5,IA
+"711 A Ave W, Oskaloosa, IA 52577",restaurant,Oskaloosa,3.376490603854045,41.2964473190857,-92.6530346274376,Taco John's,4,"University Park, IA",False,2,4.5,IA
+"120 High Ave W, Oskaloosa, IA 52577",restaurant,Oskaloosa,2.76826143304553,41.2952752411366,-92.645403072238,Pizza Ranch,7,"University Park, IA",False,1,1.5,IA

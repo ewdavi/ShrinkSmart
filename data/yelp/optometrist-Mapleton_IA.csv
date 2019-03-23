@@ -1,0 +1,9 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"3535 Southern Hills Dr, Sioux City, IA 51106",optometrist,Sioux City,55.94258447985067,42.44855,-96.357,Korver Eye Care,2,"Mapleton, IA",False,-1,4.0,IA
+"101 Tower Rd, Ste 300, North Sioux City, SD 57049",optometrist,North Sioux City,68.9083805472928,42.50553,-96.49485,Bruening Eye Specialists,2,"Mapleton, IA",False,-1,3.0,SD
+"305 Dakota Dunes Blvd, Dakota Dunes, SD 57049",optometrist,Dakota Dunes,68.62748261895352,42.5007797,-96.4950212,Dunes Eye Consultants,3,"Mapleton, IA",False,-1,3.5,SD
+"4405 Hamilton Blvd, Sioux City, IA 51104",optometrist,Sioux City,65.767533630513,42.5458717,-96.4082718,Jones Eye Clinic,1,"Mapleton, IA",False,-1,5.0,IA
+"4600 Singing Hills Blvd, Sioux City, IA 51106",optometrist,Sioux City,54.67353909471429,42.4369773864746,-96.3484191894531,Southern Hills Eye Care,1,"Mapleton, IA",False,-1,1.0,IA
+"3025 Hamilton Blvd, Sioux City, IA 51104",optometrist,Sioux City,64.9083540697657,42.5224730372429,-96.4180514216423,Korver David OD,1,"Mapleton, IA",False,-1,5.0,IA
+"2513 Hamilton Blvd, Sioux City, IA 51104",optometrist,Sioux City,64.41059972682035,42.5167236,-96.4173965,Exact Eye Care,2,"Mapleton, IA",False,2,2.5,IA
+"1000 W 29th St, Ste 302, South Sioux City, NE 68776",optometrist,South Sioux City,61.518697016290275,42.462506,-96.425216,Kincaid Fett & Tharp,1,"Mapleton, IA",False,2,4.0,NE

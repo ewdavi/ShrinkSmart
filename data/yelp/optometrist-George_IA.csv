@@ -1,0 +1,17 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"310 S Splitrock Blvd, Brandon, SD 57005",optometrist,Brandon,53.59034810879392,43.591383,-96.570817,Jones Family Eyecare,1,"George, IA",False,-1,4.0,SD
+"2325 W 57th St, Sioux Falls, SD 57108",optometrist,Sioux Falls,63.22061192301928,43.4991935,-96.7548915,Sioux Falls Family Vision,1,"George, IA",False,-1,5.0,SD
+"3101 W 57th St, Sioux Falls, SD 57108",optometrist,Sioux Falls,63.76120849700725,43.499763,-96.761634,Vance Thompson Vision - Sioux Falls,3,"George, IA",False,-1,2.5,SD
+"2210 W 69th St, Ste 160, Sioux Falls, SD 57108",optometrist,Sioux Falls,62.52436490788165,43.4901761499969,-96.7493659210237,Advanced Family EyeCare,2,"George, IA",False,-1,3.5,SD
+"5116 S Western Ave, Sioux Falls, SD 57108",optometrist,Sioux Falls,62.474111613901236,43.4952556,-96.7468036,"The Eye Doctors, PC",1,"George, IA",False,-1,5.0,SD
+"2414 S Louise Ave, Sioux Falls, SD 57106",optometrist,Sioux Falls,65.43878412234392,43.524603,-96.773036,Pearle Vision,4,"George, IA",False,3,5.0,SD
+"5129 S Western Ave, Sioux Falls, SD 57108",optometrist,Sioux Falls,62.61756602214641,43.497111,-96.748065,Eye Site,2,"George, IA",False,3,3.5,SD
+"5118 W 26th St, Sioux Falls, SD 57106",optometrist,Sioux Falls,66.85804534565753,43.5297399,-96.78929,Family Eye Care Center,1,"George, IA",False,-1,5.0,SD
+"3501-A West 41st Street, Sioux Falls, SD 57106",optometrist,Sioux Falls,64.73505004444827,43.51443,-96.76845,Eyemart Express,2,"George, IA",False,-1,3.0,SD
+"106 W 69th St, Sioux Falls, SD 57108",optometrist,Sioux Falls,60.546533750114264,43.4897244,-96.7278357,Visions Eye Care & Vision Therapy Center,3,"George, IA",False,-1,2.5,SD
+"510 W Empire Mall, Sioux Falls, SD 57106",optometrist,Sioux Falls,65.35426454314378,43.511963,-96.77733,LensCrafters,1,"George, IA",False,-1,5.0,SD
+"1310 W 22nd St, Sioux Falls, SD 57105",optometrist,Sioux Falls,63.40009807646989,43.53367,-96.7420999,"Alison Tendler, MD",1,"George, IA",False,-1,1.0,SD
+"3600 S Louise Ave, Sioux Falls, SD 57106",optometrist,Sioux Falls,64.68618521301634,43.5119890681925,-96.768672466278,Target Optical,1,"George, IA",False,-1,5.0,SD
+"227 S Phillips Ave, Sioux Falls, SD 57104",optometrist,Sioux Falls,62.696710645556166,43.544996,-96.727124,Optics,1,"George, IA",False,-1,5.0,SD
+"5116 S Western Ave, Sioux Falls, SD 57108",optometrist,Sioux Falls,62.47122501215359,43.4951705932617,-96.7467575073242,Greenfield Paul Dr,1,"George, IA",False,-1,5.0,SD
+"3700 S Grange, Sioux Falls, SD 57105",optometrist,Sioux Falls,62.5485083372013,43.5123315453529,-96.7407996207476,Complete EyeCare,1,"George, IA",False,-1,1.0,SD

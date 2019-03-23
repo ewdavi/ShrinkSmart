@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"206 8th St SE, Orange City, IA 51041",gas stations,Orange City,26.03509655444405,42.99721,-96.05674,Mulder Oil,2,"Le Mars, IA",False,-1,3.0,IA
+"4301 Stone Ave, Sioux City, IA 51106",gas stations,Sioux City,36.338154841122076,42.4797547415395,-96.3514964283398,Casey's General Store,1,"Le Mars, IA",False,2,5.0,IA
+"623 S Marion St, Remsen, IA 51050",gas stations,Remsen,17.030657206820504,42.8097801,-95.9768219,Mrs B's,1,"Le Mars, IA",False,2,4.0,IA
+"2026 Riverside Blvd, Sioux City, IA 51109",gas stations,Sioux City,38.1067365859866,42.5149635,-96.474264,Kum & Go,2,"Le Mars, IA",False,1,4.5,IA
+"524 1st St, Ste 1, Correctionville, IA 51016",gas stations,Correctionville,46.6411541573667,42.4819427928409,-95.7831815715701,Casey's General Store,1,"Le Mars, IA",False,1,5.0,IA
+"3241 Floyd Blvd, Sioux City, IA 51108",gas stations,Sioux City,31.490199370103557,42.5345764160156,-96.3701248168945,Floyd Food & Fuel,1,"Le Mars, IA",False,-1,1.0,IA
+"923 W 7th St, Sioux City, IA 51103",gas stations,Sioux City,36.47178716998614,42.5035577,-96.4188589,Sams Mini Mart,1,"Le Mars, IA",False,1,5.0,IA
+"455 S 1st St, Moville, IA 51039",gas stations,Moville,34.14662473220658,42.48444,-96.07753,4 Way Stop Shop,1,"Le Mars, IA",False,-1,1.0,IA
+"404 11th St, Correctionville, IA 51016",gas stations,Correctionville,46.53115559927008,42.4819107055664,-95.7852935791016,Valley Stop-Shell,1,"Le Mars, IA",False,1,1.0,IA
+"3908 Floyd Blvd, Sioux City, IA 51108",gas stations,Sioux City,30.55224628098436,42.5405388,-96.3600922,Dollar General,1,"Le Mars, IA",False,-1,1.0,IA

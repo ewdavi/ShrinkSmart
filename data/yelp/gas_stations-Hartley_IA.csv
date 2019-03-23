@@ -1,0 +1,16 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"215 S Rerick Ave, Primghar, IA 51245",gas stations,Primghar,15.740584687571594,43.086071032491,-95.6246391404494,Shortee's Pit Stop,2,"Hartley, IA",False,1,3.5,IA
+"24425 Hwy 60 NE, Worthington, MN 56187",gas stations,Worthington,51.83171243306667,43.640626,-95.563307,Blue Line Travel Center,23,"Hartley, IA",False,1,3.0,MN
+"600 Mn Hwy 4, Sherburn, MN 56171",gas stations,Sherburn,80.70360925872608,43.6618238,-94.7322511,Kum & Go,2,"Hartley, IA",False,1,4.5,MN
+"1802 Hwy 71 N, Okoboji, IA 51355",gas stations,Okoboji,37.03703553797549,43.3918991,-95.1264035,Casey's General Store,3,"Hartley, IA",False,-1,3.5,IA
+"800 S Grand Ave, Spencer, IA 51301",gas stations,Spencer,27.688731981283212,43.1300392150879,-95.1432952880859,Casey's Carry Out Pizza,1,"Hartley, IA",False,-1,5.0,IA
+"206 8th St SE, Orange City, IA 51041",gas stations,Orange City,51.12560265650001,42.99721,-96.05674,Mulder Oil,2,"Hartley, IA",False,-1,3.0,IA
+"2001 Highway 71 N, Jackson, MN 56143",gas stations,Jackson,64.56036877960122,43.6418118,-94.995938,Vet's Whoa N'go Fuel Stop,2,"Hartley, IA",False,1,4.0,MN
+"300 18th St, Spirit Lake, IA 51360",gas stations,Spirit Lake,41.24235629114843,43.4226064,-95.0940079,Kum & Go,2,"Hartley, IA",False,-1,2.5,IA
+"202 W Southern St, Sutherland, IA 51058",gas stations,Sutherland,23.458856652816614,42.9681664,-95.4985123,Car-Go Express/Convenience Store,2,"Hartley, IA",False,-1,3.0,IA
+"1401 18th St, Spirit Lake, IA 51360",gas stations,Spirit Lake,40.22624494283553,43.4224751,-95.1108594,Towing-Jennings Tow & Repair,2,"Hartley, IA",False,-1,4.5,IA
+"623 S Marion St, Remsen, IA 51050",gas stations,Remsen,57.743789368748025,42.8097801,-95.9768219,Mrs B's,1,"Hartley, IA",False,2,4.0,IA
+"1615 Central Ave, Estherville, IA 51334",gas stations,Estherville,58.521502867931595,43.4022598,-94.8220901,Ampride,1,"Hartley, IA",False,-1,3.0,IA
+"102 Central Ave, Estherville, IA 51334",gas stations,Estherville,57.090018670050426,43.4017982,-94.8426514,Riverside Sinclair Service,5,"Hartley, IA",False,-1,4.5,IA
+"10 Broadway S, Trimont, MN 56176",gas stations,Trimont,89.43054511838717,43.7617,-94.71448,Casey's General Store,3,"Hartley, IA",False,-1,2.5,MN
+"512 N Harlem Ave, Sioux Falls, SD 57104",gas stations,Sioux Falls,111.9935471530132,43.5545159,-96.7635551,Chris's Auto Repair,11,"Hartley, IA",False,-1,5.0,SD

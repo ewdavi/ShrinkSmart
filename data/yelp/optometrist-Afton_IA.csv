@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"147 S Main St, Osceola, IA 50213",optometrist,Osceola,36.06040058010727,41.0335731506348,-93.7653656005859,Osceola Vision Center,2,"Afton, IA",False,-1,1.0,IA
+"9250 University Ave, Ste 110, West Des Moines, IA 50266",optometrist,West Des Moines,70.25753966599878,41.6003351,-93.8160694,Elite Eye Care,13,"Afton, IA",False,-1,4.5,IA
+"1551 Valley West Dr, Ste 242, West Des Moines, IA 50266",optometrist,West Des Moines,73.37378616243512,41.597501,-93.749512,Huseman Eye Care,10,"Afton, IA",False,-1,4.5,IA
+"4660 86th St, Urbandale, IA 50322",optometrist,Urbandale,78.50079707884287,41.6448316610064,-93.7365401730666,Advanced Eyecare Center,3,"Afton, IA",False,-1,5.0,IA
+"700 Locust St, Ste 305, Des Moines, IA 50309",optometrist,Des Moines,78.07118960226265,41.58615,-93.6266799,"Jeffrey Koenen, OD - Dsmeye-Skywalk",3,"Afton, IA",False,2,5.0,IA
+"5075 E University Ave, Ste C, Pleasant Hill, IA 50327",optometrist,Pleasant Hill,85.27062736286135,41.6004564,-93.5145763,Eye Care Of Iowa PC - Pleasant Hill,5,"Afton, IA",False,-1,3.5,IA
+"3800 Merle Hay Rd, Ste 407, Des Moines, IA 50310",optometrist,Des Moines,78.64726737208308,41.6295475512743,-93.6978703737259,Huseman Eye Care,3,"Afton, IA",False,-1,5.0,IA
+"2405 Ingersoll Ave, Des Moines, IA 50312",optometrist,Des Moines,76.87579776743084,41.58603,-93.65005,Vogue Vision,10,"Afton, IA",False,2,4.0,IA
+"1350 E Hickman Rd, Waukee, IA 50263",optometrist,Waukee,71.29004795120849,41.614217012383,-93.8469657611114,Insight Vision,2,"Afton, IA",False,-1,5.0,IA
+"200 Army Post Rd, Ste 16, Des Moines, IA 50315",optometrist,Des Moines,73.29181830033484,41.52572,-93.61866,Eye Care of Iowa -South Des Moines,3,"Afton, IA",False,-1,4.5,IA
+"6200 Westown Pkwy, West Des Moines, IA 50266",optometrist,West Des Moines,71.15153347326833,41.5935096,-93.7944446,Wolfe Eye Clinic - Des Moines,8,"Afton, IA",False,-1,4.5,IA
+"6305 Mills Civic Pkwy, Ste 3113, West Des Moines, IA 50266",optometrist,West Des Moines,68.01909773065685,41.561815,-93.795584,LasikPlus Vision Center,17,"Afton, IA",False,-1,4.5,IA
+"2001 Westown Pkwy, Ste 205, West Des Moines, IA 50265",optometrist,West Des Moines,74.21762530988568,41.598824,-93.732787,Valley Optical Shoppes,3,"Afton, IA",False,-1,5.0,IA
+"7205 Mills Civic Pkwy, West Des Moines, IA 50266",optometrist,West Des Moines,67.72059635719579,41.56269,-93.8055399,"Gannon Patrick,o.d",1,"Afton, IA",False,-1,5.0,IA
+"640 S 50th St, West Des Moines, IA 50265",optometrist,West Des Moines,68.93710823251631,41.5600331,-93.7696884,Vision Park Family Eye Care,3,"Afton, IA",False,-1,2.5,IA
+"2699 86th St, Urbandale, IA 50322",optometrist,Urbandale,75.93787130257198,41.618146,-93.735617,Vision Park Family Eye Care,2,"Afton, IA",False,2,5.0,IA
+"1905 Ep True Pkwy, West Des Moines, IA 50265",optometrist,West Des Moines,71.72694214107692,41.5716278,-93.7330924,Eye Care Of Iowa PC - West Des Moines,4,"Afton, IA",False,-1,3.0,IA
+"2600 Grand Ave 202, Ste 202, Des Moines, IA 50312",optometrist,Des Moines,76.61338576258721,41.583854,-93.651684,Des Moines Eye Care,3,"Afton, IA",False,-1,5.0,IA
+"1250 NW 128th St, Ste 150, Clive, IA 50325",optometrist,Clive,71.94544439256134,41.601813,-93.794989,Snodgrass Family Eyecare,1,"Afton, IA",False,-1,5.0,IA
+"6630 Mills Civic Pkwy, Ste 6120, West Des Moines, IA 50266",optometrist,West Des Moines,67.82246137672921,41.561324,-93.799231,StylEyes West Des Moines,3,"Afton, IA",False,-1,3.5,IA

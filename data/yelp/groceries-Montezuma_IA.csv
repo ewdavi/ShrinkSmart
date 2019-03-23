@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"415 Industrial Ave, Grinnell, IA 50112",groceries,Grinnell,22.97176608247477,41.721868,-92.730954,Walmart Supercenter,2,"Montezuma, IA",False,1,3.0,IA
+"1021 Main St, Grinnell, IA 50112",groceries,Grinnell,24.521907558930504,41.7453994750977,-92.7262115478516,McNally's Foods,2,"Montezuma, IA",False,-1,5.0,IA
+"101 N Center St, Delta, IA 52550",groceries,Delta,33.25432517016476,41.3226867467165,-92.3304111510515,Delta Grocery,1,"Montezuma, IA",False,1,3.0,IA
+"110 S D St, Oskaloosa, IA 52577",groceries,Oskaloosa,33.664285087410725,41.294864654541,-92.6484603881836,Hy-Vee Food Store,1,"Montezuma, IA",False,-1,3.0,IA
+"4125 V St, Homestead, IA 52236",groceries,Homestead,57.35857508187045,41.76143,-91.87756,Henry's Village Market,1,"Montezuma, IA",False,1,5.0,IA
+"540TH St SW, Kalona, IA 52247",groceries,Kalona,68.09689100796916,41.540779,-91.709331,Stringtown Grocery,17,"Montezuma, IA",False,1,4.5,IA
+"820 Main St, Pella, IA 50219",groceries,Pella,37.94324758385724,41.40744,-92.91593,In't Veld Meat Market,14,"Montezuma, IA",False,1,5.0,IA
+"Marengo, IA 52301",groceries,Marengo,44.46746568005765,41.79647,-92.07431,Big'g'food Store,3,"Montezuma, IA",False,-1,2.0,IA
+"501 N 2nd St, Fairfield, IA 52556",groceries,Fairfield,78.93140191303848,41.0111649334431,-91.9650205224752,Everybody's Whole Foods,17,"Montezuma, IA",False,2,4.0,IA
+"4 E Main St, Marshalltown, IA 50158",groceries,Marshalltown,60.91964759730364,42.0492287,-92.9127197,Zamora Fresh Market,7,"Montezuma, IA",False,1,4.5,IA
+"802 S Center St, Marshalltown, IA 50158",groceries,Marshalltown,59.87244467501017,42.0389823913574,-92.9110946655273,Hy-Vee Food Stores,11,"Montezuma, IA",False,2,3.5,IA
+"1300 W Burlington Ave, Fairfield, IA 52556",groceries,Fairfield,78.9360361465068,41.0063133,-91.9796829,"Hy-Vee Food Stores, Inc",3,"Montezuma, IA",False,3,4.0,IA
+"940 Quincy Ave, Ottumwa, IA 52501",groceries,Ottumwa,63.69644826331845,41.014328095729,-92.4379432168111,Aldi,1,"Montezuma, IA",False,-1,5.0,IA
+"3021 1st Ave E, Newton, IA 50208",groceries,Newton,42.667903284068615,41.6981899202097,-93.0157515992177,Walmart Supercenter,1,"Montezuma, IA",False,-1,2.0,IA
+"31 N 1st Ave, Marshalltown, IA 50158",groceries,Marshalltown,60.90385382155899,42.05022,-92.91104,Abarrotes Villachuato,4,"Montezuma, IA",False,1,5.0,IA
+"501 A Ave, Vinton, IA 52349",groceries,Vinton,76.84628342433723,42.16608,-92.02575,Fareway Stores,2,"Montezuma, IA",False,-1,5.0,IA
+"316 Church St, Ottumwa, IA 52501",groceries,Ottumwa,64.28441582159134,41.0102199,-92.41712,Fareway Stores,1,"Montezuma, IA",False,-1,4.0,IA
+"114 High Ave W, Oskaloosa, IA 52577",groceries,Oskaloosa,33.58014592647026,41.29506,-92.64581,R C B Oriental Food Store,1,"Montezuma, IA",False,-1,1.0,IA
+"104 SE A St, Melcher, IA 50163",groceries,Melcher,71.9447728704276,41.2224,-93.24163,D & S Grocery,2,"Montezuma, IA",False,1,4.5,IA
+"2405 S Center St, Marshalltown, IA 50158",groceries,Marshalltown,57.93923169473847,42.0171,-92.91345,ALDI,1,"Montezuma, IA",False,-1,4.0,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"504 K St, Riverton, IA 51650",groceries,Riverton,11.599376806073936,40.6868697702885,-95.5694856494665,Marty's Mart,1,"Hamburg, IA",False,-1,4.0,IA
+"2101 S 11th St, Nebraska City, NE 68410",groceries,Nebraska City,17.87003624105674,40.6579148,-95.8569963,Walmart Supercenter,3,"Hamburg, IA",False,2,1.5,NE
+"1406 Central Ave, Nebraska City, NE 68410",groceries,Nebraska City,19.09746374306478,40.6767766177654,-95.8629776537418,Food Pride,3,"Hamburg, IA",False,2,2.5,NE
+"500 S Fremont St, Shenandoah, IA 51601",groceries,Shenandoah,28.64268311478172,40.761955,-95.3852349,Hy-Vee Food Stores,2,"Hamburg, IA",False,2,4.5,IA
+"1007 S Fremont St, Shenandoah, IA 51601",groceries,Shenandoah,28.423393213217764,40.7563209533691,-95.3841857910156,Fareway Stores,1,"Hamburg, IA",False,-1,1.0,IA
+"624 Ave A, Plattsmouth, NE 68048",groceries,Plattsmouth,49.178894959614716,41.0125503540039,-95.8870697021484,Steube's Thriftway,1,"Hamburg, IA",False,1,5.0,NE
+"205 Main St, Louisville, NE 68037",groceries,Louisville,61.141930157698205,41.00074,-96.16238,Jeff's Jack & Jill Grocery,2,"Hamburg, IA",False,-1,4.0,NE
+"2428 Dahlke Ave, Auburn, NE 68305",groceries,Auburn,29.474440225449538,40.3799934387207,-95.8378372192383,Sun Mart,1,"Hamburg, IA",False,-1,1.0,NE
+"807 S Fremont St, Shenandoah, IA 51601",groceries,Shenandoah,28.671169186948074,40.7588501,-95.3849411,Casey's General Store,1,"Hamburg, IA",False,-1,3.0,IA
+"2405 S Hwy 75, Union, NE 68455",groceries,Union,29.26758574121679,40.7852880867975,-95.9107531607152,Union Orchard,14,"Hamburg, IA",False,2,3.5,NE
+"5995 G Rd, Nebraska City, NE 68410",groceries,Nebraska City,22.719717305327368,40.697032,-95.8976927,Kimmel Orchard,27,"Hamburg, IA",False,2,3.5,NE
+"706 Main St, Tabor, IA 51653",groceries,Tabor,32.55779464649883,40.8985911,-95.671176,Tabor Market and Deli,1,"Hamburg, IA",False,-1,4.0,IA
+"215 Enterprise Dr, Gretna, NE 68028",groceries,Gretna,77.34462410064842,41.1462999,-96.23599,McKinney's Food Center,3,"Hamburg, IA",False,1,4.0,NE
+"2404 J St, Auburn, NE 68305",groceries,Auburn,29.422025121548316,40.3800827264786,-95.8388257026672,Auburn Discount Liquor,2,"Hamburg, IA",False,-1,5.0,NE
+"294 5th St, Syracuse, NE 68446",groceries,Syracuse,45.07923377770242,40.65741,-96.18648,Terry's Family Foods,2,"Hamburg, IA",False,-1,4.5,NE
+"2109 Towne Center Dr, Bellevue, NE 68123",groceries,Bellevue,61.630899153239326,41.1162426,-95.9428068,Walmart Neighborhood Market,9,"Hamburg, IA",False,1,4.0,NE
+"2301 Silver St, Ashland, NE 68003",groceries,Ashland,77.55910090668594,41.03867,-96.3798599,No Frills Supermarket,1,"Hamburg, IA",False,2,5.0,NE
+"1325 Jersey St, Papillion, NE 68046",groceries,Papillion,70.54483427375305,41.1750717163086,-96.0265579223633,Fareway,13,"Hamburg, IA",False,1,4.5,NE
+"3614 Twin Creek Dr, Bellevue, NE 68123",groceries,Bellevue,65.15691426400537,41.141952,-95.968734,Baker's Supermarkets,20,"Hamburg, IA",False,2,3.5,NE
+"4525 Dahlman Ave, Omaha, NE 68107",groceries,Omaha,72.2443309863183,41.21425,-95.95782,Aldi,8,"Hamburg, IA",False,1,4.5,NE

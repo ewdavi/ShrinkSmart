@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"624 Ave A, Plattsmouth, NE 68048",groceries,Plattsmouth,7.360455916414055,41.0125503540039,-95.8870697021484,Steube's Thriftway,1,"Pacific Junction, IA",False,1,5.0,NE
+"423 Sharp St, Glenwood, IA 51534",groceries,Glenwood,5.565976381346381,41.0458831787109,-95.7429656982422,Kaiman's Super Market,1,"Pacific Junction, IA",False,-1,1.0,IA
+"2109 Towne Center Dr, Bellevue, NE 68123",groceries,Bellevue,16.239332944103182,41.1162426,-95.9428068,Walmart Neighborhood Market,9,"Pacific Junction, IA",False,1,4.0,NE
+"2323 W Broadway, Council Bluffs, IA 51501",groceries,Council Bluffs,27.865480156856076,41.2613,-95.87966,Hy-Vee,16,"Pacific Junction, IA",False,2,4.0,IA
+"3614 Twin Creek Dr, Bellevue, NE 68123",groceries,Bellevue,19.808856067960562,41.141952,-95.968734,Baker's Supermarkets,20,"Pacific Junction, IA",False,2,3.5,NE
+"205 Main St, Louisville, NE 68037",groceries,Louisville,30.498019530117542,41.00074,-96.16238,Jeff's Jack & Jill Grocery,2,"Pacific Junction, IA",False,-1,4.0,NE
+"2112 Cornhusker Rd, Bellevue, NE 68123",groceries,Bellevue,19.871525774276314,41.1599466,-95.9435267,ALDI,5,"Pacific Junction, IA",False,1,3.5,NE
+"801 Galvin Rd S, Bellevue, NE 68005",groceries,Bellevue,17.917024324355978,41.15305,-95.9161699,Baker's Supermarkets,9,"Pacific Junction, IA",False,2,2.5,NE
+"2400 8th Ave, Plattsmouth, NE 68048",groceries,Plattsmouth,9.253087996382284,41.00324,-95.90809,No Frills Supermarket,2,"Pacific Junction, IA",False,2,3.5,NE
+"1325 Jersey St, Papillion, NE 68046",groceries,Papillion,25.862295966598953,41.1750717163086,-96.0265579223633,Fareway,13,"Pacific Junction, IA",False,1,4.5,NE
+"3253 Dodge St, Omaha, NE 68131",groceries,Omaha,30.072378524552008,41.2596,-95.96102,Wohlner's Neighborhood Grocery & Deli,36,"Pacific Junction, IA",False,2,3.5,NE
+"5150 Center St, Omaha, NE 68106",groceries,Omaha,29.816257914607736,41.2422937195146,-95.9945615920842,Hy-Vee,38,"Pacific Junction, IA",False,2,3.0,NE
+"4525 Dahlman Ave, Omaha, NE 68107",groceries,Omaha,25.565687613908803,41.21425,-95.95782,Aldi,8,"Pacific Junction, IA",False,1,4.5,NE
+"10305 Pacific St, Omaha, NE 68114",groceries,Omaha,34.412190951204664,41.2485751,-96.0735909,Trader Joe's,99,"Pacific Junction, IA",False,2,4.5,NE
+"4621 S 24th St, Omaha, NE 68107",groceries,Omaha,24.982836348726646,41.2132987976074,-95.9468994140625,Jacobo's Grocery,123,"Pacific Junction, IA",False,1,4.5,NE
+"8601 Blondo St, Omaha, NE 68114",groceries,Omaha,35.5801579569166,41.2776951,-96.0477407,Mediterranean and European Grocery,8,"Pacific Junction, IA",False,1,5.0,NE
+"1745 Madison Ave, Council Bluffs, IA 51503",groceries,Council Bluffs,25.280194261271557,41.2436479,-95.8265723,Hy-Vee,13,"Pacific Junction, IA",False,1,4.0,IA
+"1414 Harlan Dr, Bellevue, NE 68005",groceries,Bellevue,16.572469569051744,41.1408819258213,-95.9114693105221,Mison's Oriental Food Mart,10,"Pacific Junction, IA",False,1,3.5,NE
+"15303 S 36th St, Bellevue, NE 68123",groceries,Bellevue,16.034848261083752,41.0878573358059,-95.9664505720139,Harvest Valley Foods,4,"Pacific Junction, IA",False,2,5.0,NE
+"706 Main St, Tabor, IA 51653",groceries,Tabor,17.09861345015616,40.8985911,-95.671176,Tabor Market and Deli,1,"Pacific Junction, IA",False,-1,4.0,IA

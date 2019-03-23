@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"200 N B St, Indianola, IA 50125",dental,Indianola,41.93047811282695,41.36155,-93.563393,Dental Professionals,1,"Monroe, IA",False,-1,5.0,IA
+"1225 Copper Creek Dr, Ste K, Pleasant Hill, IA 50327",dental,Pleasant Hill,35.88798954209352,41.6016679,-93.5233705,Veranda Dentistry,5,"Monroe, IA",False,-1,5.0,IA
+"1286 Copper Creek Dr, Pleasant Hill, IA 50327",dental,Pleasant Hill,36.05516998341586,41.6019,-93.52498,Lakeside Dental,2,"Monroe, IA",False,-1,5.0,IA
+"2615 S Center St, Marshalltown, IA 50158",dental,Marshalltown,57.31851960761591,42.0140322479,-92.9131383151,Aspen Dental,1,"Monroe, IA",False,-1,1.0,IA
+"3755 East 33rd St, Des Moines, IA 50317",dental,Des Moines,38.9750778975087,41.628098487854,-93.5514995455742,Brady Dental Care,3,"Monroe, IA",False,-1,5.0,IA
+"107 8th St SE, Altoona, IA 50009",dental,Altoona,32.80344827070164,41.644471,-93.4633999,Altoona Dental,1,"Monroe, IA",False,-1,5.0,IA
+"1100 N Hickory Blvd, Ste 205, Pleasant Hill, IA 50327",dental,Pleasant Hill,35.38918029323413,41.6000255,-93.517744,Pleasant Dental,2,"Monroe, IA",False,-1,5.0,IA
+"1606 Golden Aspen Dr, Ste 110, Ames, IA 50010",dental,Ames,68.82542330086042,42.0078544616699,-93.6155700683594,Overman Family Dentistry,6,"Monroe, IA",False,-1,5.0,IA
+"475 S 50th St, Ste 300, West Des Moines, IA 50265",dental,West Des Moines,55.58672924689476,41.56337,-93.77158,Foust Family Dental Care,3,"Monroe, IA",False,-1,5.0,IA
+"108 Main St NE, Bondurant, IA 50035",dental,Bondurant,35.89227054635837,41.7021301,-93.4620062,Bondurant Family Dentistry,1,"Monroe, IA",False,-1,5.0,IA
+"1025 60th St, West Des Moines, IA 50266",dental,West Des Moines,57.345615957102495,41.5853806,-93.7898102,Country Club Dental Care,5,"Monroe, IA",False,-1,4.0,IA
+"950 28th Ave SW, Ste 2, Altoona, IA 50009",dental,Altoona,35.34842901224474,41.642946,-93.4978013,Altoona Smiles,5,"Monroe, IA",False,-1,3.5,IA
+"3310 E Euclid, Des Moines, IA 50317",dental,Des Moines,38.9223076375747,41.62839,-93.55104,"Iowa Oral And Maxillofacial Surgeons, PC",1,"Monroe, IA",False,-1,5.0,IA
+"2505 Wedgewood Rd, Des Moines,, IA 50317",dental,"Des Moines,",40.394251329252235,41.62615,-93.57038,Associated Dentists Metro: Dr Michael J Flattery And Associates,1,"Monroe, IA",False,-1,5.0,IA
+"405 6th Ave, Ste 114, Des Moines, IA 50309",dental,Des Moines,43.78929094919932,41.58715,-93.62477,Downtown Dental Care,3,"Monroe, IA",False,-1,5.0,IA
+"500 S 2nd St, Carlisle, IA 50047",dental,Carlisle,31.889231883350202,41.4942245483398,-93.4878921508789,Carlisle Dental Office,1,"Monroe, IA",False,-1,2.0,IA
+"2005 SE Delaware Ave, Ste I, Ankeny, IA 50021",dental,Ankeny,44.73847678724303,41.709655,-93.580369,Smiles on Delaware,2,"Monroe, IA",False,-1,3.0,IA
+"1111 9th St, Ste 190, Des Moines, IA 50314",dental,Des Moines,44.322091819794665,41.59836,-93.62877,Dental Connections,2,"Monroe, IA",False,-1,4.0,IA
+"530 39th St, Des Moines, IA 50312",dental,Des Moines,47.497386424344455,41.58565,-93.67016,Smile Orthodontics,3,"Monroe, IA",False,-1,5.0,IA
+"2401 128th Street, Urbandale, IA 50323",dental,Urbandale,57.89907948323153,41.6166412,-93.7900338,Children's Dental Center of Central Iowa,4,"Monroe, IA",False,-1,5.0,IA

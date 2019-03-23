@@ -1,0 +1,18 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"820 S Marquette Rd, Prairie Du Chien, WI 53821",dental,Prairie Du Chien,20.974587419197952,43.041524,-91.139774,Dental Associates Of Prairie Du Chien,1,"Garnavillo, IA",False,-1,5.0,WI
+"2728 Asbury Rd, Dubuque, IA 52001",dental,Dubuque,58.6393454277001,42.50919,-90.7085,Kuttler Dental Team,3,"Garnavillo, IA",False,-1,5.0,IA
+"3430 Dodge St, Ste 21, Dubuque, IA 52003",dental,Dubuque,59.45964192574587,42.4915800428309,-90.7175311322632,Abbadent Family & Cosmetic Dentistry,3,"Garnavillo, IA",False,-1,3.5,IA
+"1250 N Water St, Platteville, WI 53818",dental,Platteville,64.20820290437592,42.74617,-90.46635,OakPark Dental,3,"Garnavillo, IA",False,-1,5.0,WI
+"3432 Dodge St, Dubuque, IA 52003",dental,Dubuque,59.374615139968846,42.4913988668247,-90.7192349325409,Aspen Dental,2,"Garnavillo, IA",False,-1,3.0,IA
+"135 7th St SE, Oelwein, IA 50662",dental,Oelwein,59.339553363129774,42.6697998,-91.9104614,Oelwein Dental Associates,1,"Garnavillo, IA",False,-1,5.0,IA
+"4200 Asbury Rd, Dubuque, IA 52002",dental,Dubuque,56.63583901809908,42.5155917,-90.7339023,Exceptional Dentistry of the Tri-State Region,1,"Garnavillo, IA",False,-1,5.0,IA
+"666 Loras Blvd, Dubuque, IA 52001",dental,Dubuque,61.01253910627744,42.5036392211914,-90.6763000488281,Solinger Family Dentistry,1,"Garnavillo, IA",False,-1,5.0,IA
+"1645 John F Kennedy Rd, Dubuque, IA 52002",dental,Dubuque,58.62510947195196,42.49942,-90.72161,Dubuque Pediatric Dentistry,1,"Garnavillo, IA",False,-1,5.0,IA
+"1303 Delhi St, Dubuque, IA 52001",dental,Dubuque,60.88911900406708,42.4987502,-90.684244,Kane Family Dentistry,1,"Garnavillo, IA",False,-1,5.0,IA
+"216 E Charles St, Oelwein, IA 50662",dental,Oelwein,58.81307297342731,42.67837,-91.90961,Berryman Clinton DDS,1,"Garnavillo, IA",False,-1,5.0,IA
+"825 E Main St, Manchester, IA 52057",dental,Manchester,45.92606626479762,42.48375,-91.44693,Manchester Dental,1,"Garnavillo, IA",False,-1,1.0,IA
+"2055 Holliday Dr, Ste 101, Dubuque, IA 52002",dental,Dubuque,56.66635237180832,42.5087623596191,-90.742301940918,Midwest Dental,1,"Garnavillo, IA",False,-1,5.0,IA
+"2100 Asbury Rd, Dubuque, IA 52001",dental,Dubuque,59.30559112926094,42.5059242248535,-90.7017211914062,Pines Family Dentistry,1,"Garnavillo, IA",False,-1,5.0,IA
+"206 3rd Ave NE, Independence, IA 50644",dental,Independence,69.40877851205488,42.4702399,-91.89152,"Kegler, Kegler & Arend Family Dentistry",1,"Garnavillo, IA",False,-1,5.0,IA
+"100 Bryant St, Dubuque, IA 52003",dental,Dubuque,62.072978223895944,42.48909,-90.6765999,Great River OMS - Dubuque,2,"Garnavillo, IA",False,-1,3.0,IA
+"988 W 3rd St, Ste 107, Dubuque, IA 52001",dental,Dubuque,61.749255641295356,42.49421,-90.6756,Dubuque Endodontic Practice,3,"Garnavillo, IA",False,-1,3.5,IA

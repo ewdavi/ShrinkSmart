@@ -1,0 +1,18 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"23 N Federal Ave, Mason City, IA 50401",dental,Mason City,15.306564219940913,43.15254,-93.20064,Central Park Dentistry,1,"Nora Springs, IA",False,-1,5.0,IA
+"4199 4th St SW, Mason City, IA 50401",dental,Mason City,20.491799144991,43.147761,-93.264856,Aspen Dental,4,"Nora Springs, IA",False,-1,3.0,IA
+"1453 4th St SE, Mason City, IA 50401",dental,Mason City,12.946996903389094,43.1480255,-93.1718244,Alpha Orthodontics,2,"Nora Springs, IA",False,-1,3.0,IA
+"2800 4th St SW, Ste 1, Mason City, IA 50401",dental,Mason City,18.747202624497756,43.149139,-93.2433061,"Burgmeier Daniel, DDS - Burgmeier Dentistry",2,"Nora Springs, IA",False,-1,3.0,IA
+"800 1st Ave N, Ste 2, Clear Lake, IA 50428",dental,Clear Lake,29.714111246119195,43.13843,-93.37875,Sorensen Family Dentistry,2,"Nora Springs, IA",False,-1,5.0,IA
+"207 N Jackson St, Charles City, IA 50616",dental,Charles City,28.306224940422847,43.06864,-92.67959,Central Park Dentistry,1,"Nora Springs, IA",False,-1,5.0,IA
+"1601 4th Ave S, Clear Lake, IA 50428",dental,Clear Lake,29.02430051495111,43.1333832840901,-93.3697045695823,Clear Lake Pediatric Dentistry,1,"Nora Springs, IA",False,-1,5.0,IA
+"132 E J St, Forest City Family Dentistry, Forest City, IA 50436",dental,Forest City,52.40445308241267,43.2634605,-93.6379154,"Laila Buck, DDS",2,"Nora Springs, IA",False,-1,5.0,IA
+"205 6th Pl NW, Austin, MN 55912",dental,Austin,58.680134533675414,43.6715523,-92.9768723,Nelson Dental,1,"Nora Springs, IA",False,-1,5.0,MN
+"607 18th Ave NW, Schieck Dental, Austin, MN 55912",dental,Austin,60.13234292069153,43.6847747862339,-92.9816005378962,Schieck Dental,1,"Nora Springs, IA",False,-1,5.0,MN
+"1206 W Front St, Albert Lea, MN 56007",dental,Albert Lea,63.188727868423925,43.64471,-93.38397,Advanced Family Dental,3,"Nora Springs, IA",False,-1,4.0,MN
+"141 E William St, Albert Lea, MN 56007",dental,Albert Lea,63.030782440456356,43.6489649,-93.3680545,Uptown Dental,1,"Nora Springs, IA",False,-1,4.0,MN
+"325 21st St NW, Waverly, IA 50677",dental,Waverly,62.466205306050654,42.7277,-92.49729,American Family Dentistry,1,"Nora Springs, IA",False,-1,5.0,IA
+"121 20th St NW, Waverly, IA 50677",dental,Waverly,62.67061948865954,42.726166,-92.496353,Walworth Family Dentistry,1,"Nora Springs, IA",False,-1,5.0,IA
+"1651 W Main St, Albert Lea, MN 56007",dental,Albert Lea,63.37648677247996,43.6444629818819,-93.3888215571642,Alpha Orthodontics,2,"Nora Springs, IA",False,-1,4.0,MN
+"141 E William St, Albert Lea, MN 56007",dental,Albert Lea,63.030782440456356,43.6489649,-93.3680545,Kamel Marko DDS DDS,1,"Nora Springs, IA",False,-1,5.0,MN
+"1400 10th Ave SW, Waverly, IA 50677",dental,Waverly,63.99556304139649,42.71549,-92.48801,Heritage Dental,1,"Nora Springs, IA",False,-1,2.0,IA

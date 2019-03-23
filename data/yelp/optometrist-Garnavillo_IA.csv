@@ -1,0 +1,10 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"965 Main St, Dubuque, IA 52001",optometrist,Dubuque,61.63337155059241,42.5021298229694,-90.6679049134254,Key City Vision Center,6,"Garnavillo, IA",False,-1,5.0,IA
+"1129 11th St SE, Dyersville, IA 52040",optometrist,Dyersville,44.65903407506155,42.4757541,-91.1115351,The Woodland Eye Clinic,1,"Garnavillo, IA",False,-1,1.0,IA
+"505 Cedar Cross Rd, Dubuque, IA 52003",optometrist,Dubuque,59.90855562553793,42.485387,-90.718179,"Vision Health Center, P.C.",1,"Garnavillo, IA",False,2,5.0,IA
+"1950 John F Kennedy Rd, Ste 1, Dubuque, IA 52002",optometrist,Dubuque,58.20261748021173,42.505412,-90.720661,Eyedeal Optical,4,"Garnavillo, IA",False,-1,4.0,IA
+"2140 John F Kennedy Rd, Ste F, Dubuque, IA 52002",optometrist,Dubuque,57.918899605553605,42.5094604492188,-90.7198867797852,Fuerste Eye Clinic,2,"Garnavillo, IA",False,-1,5.0,IA
+"2515 NW Arterial Rd, Ste 2, Dubuque, IA 52002",optometrist,Dubuque,55.90944864452247,42.518777,-90.742039,America's Best Contacts & Eyeglasses,2,"Garnavillo, IA",False,2,2.5,IA
+"3432 Dodge Street, Suite 108, Dubuque, IA 52003",optometrist,Dubuque,59.3811148274247,42.49145,-90.71904,Vision4Less,3,"Garnavillo, IA",False,-1,2.5,IA
+"806 Wacker Dr, Ste 122, Dubuque, IA 52002",optometrist,Dubuque,59.23153942310223,42.493397290543,-90.7190067936401,Slade Eyewear Emporium,1,"Garnavillo, IA",False,-1,5.0,IA
+"555 John F Kennedy Rd, Ste 604, Dubuque, IA 52002",optometrist,Dubuque,58.86729166523017,42.4952133,-90.7228192,LensCrafters,2,"Garnavillo, IA",False,-1,3.0,IA

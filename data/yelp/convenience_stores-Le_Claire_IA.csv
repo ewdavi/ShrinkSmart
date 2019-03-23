@@ -1,0 +1,19 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1810 5th Ave, Moline, IL 61265",convenience stores,Moline,15.430690703962876,41.50754,-90.51174,Central Store,2,"Le Claire, IA",False,-1,5.0,IL
+"2702 Ave Of The Cities, Moline, IL 61265",convenience stores,Moline,15.838005627632814,41.49203,-90.49875,7-Eleven,1,"Le Claire, IA",False,1,5.0,IL
+"1403 Eagle Ridge Rd, Le Claire, IA 52753",convenience stores,Le Claire,1.13772434301165,41.5869932932501,-90.3628931567073,Shell,2,"Le Claire, IA",False,-1,4.0,IA
+"100 W 65th St, Davenport, IA 52806",convenience stores,Davenport,16.910964684499323,41.5855864617402,-90.5717530846596,Kwik Star,2,"Le Claire, IA",False,1,5.0,IA
+"1636 38th St, Rock Island, IL 61201",convenience stores,Rock Island,18.76512049781515,41.4937461857261,-90.5480884667668,7-Eleven,1,"Le Claire, IA",False,1,5.0,IL
+"4720 27th St, Moline, IL 61265",convenience stores,Moline,18.04240818884967,41.4661746029751,-90.4985877871513,7-Eleven,2,"Le Claire, IA",False,-1,4.0,IL
+"1007 1st St, Silvis, IL 61282",convenience stores,Silvis,11.654061310551368,41.4999136704697,-90.4242557287216,7-Eleven,1,"Le Claire, IA",False,1,4.0,IL
+"1026 16th Ave, East Moline, IL 61244",convenience stores,East Moline,10.676935560149609,41.5152669614915,-90.4379773736082,7-Eleven,2,"Le Claire, IA",False,-1,2.0,IL
+"412 1st Ave, Colona, IL 61241",convenience stores,Colona,12.545502375178984,41.4835281,-90.3634872,7-Eleven,3,"Le Claire, IA",False,1,3.5,IL
+"1700 18th Ave, Rock Island, IL 61201",convenience stores,Rock Island,20.411748671427667,41.4934339407884,-90.5721441919923,7-Eleven,1,"Le Claire, IA",False,-1,1.0,IL
+"105 W 1st Ave, Coal Valley, IL 61240",convenience stores,Coal Valley,17.76941069900751,41.4520818,-90.4611637,7-Eleven,3,"Le Claire, IA",False,1,3.5,IL
+"2001 5th St, Silvis, IL 61282",convenience stores,Silvis,12.604527638954984,41.48951,-90.42192,Hy-Vee Food Stores,8,"Le Claire, IA",False,1,3.0,IL
+"921 16th Ave, East Moline, IL 61244",convenience stores,East Moline,10.738250644575455,41.51549,-90.43957,Family Dollar,1,"Le Claire, IA",False,-1,5.0,IL
+"412 E Locust St, Davenport, IA 52803",convenience stores,Davenport,17.870347413195447,41.53852,-90.56931,Qc Mart,2,"Le Claire, IA",False,2,2.5,IA
+"1305 15th St, Moline, IL 61265",convenience stores,Moline,16.31895560764692,41.49915,-90.51589,Gasland,2,"Le Claire, IA",False,-1,1.5,IL
+"4305 18th Ave, Rock Island, IL 61201",convenience stores,Rock Island,18.32422224796407,41.4935722,-90.5414734,MM Asian Grocery & Gifts,1,"Le Claire, IA",False,-1,2.0,IL
+"4500 16th St, Moline, IL 61265",convenience stores,Moline,18.130326421173898,41.4675891016104,-90.5028069019318,SouthPark Mall,13,"Le Claire, IA",False,2,2.5,IL
+"3930 44th Ave Dr, Moline, IL 61265",convenience stores,Moline,16.903425509163878,41.468995,-90.480118,Walmart Supercenter,6,"Le Claire, IA",False,1,1.5,IL

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1200 N Walnut St, Colfax, IA 50054",gas stations,Colfax,33.46173859242993,41.686408996582,-93.2465133666992,Kum & Go,3,"Pleasantville, IA",False,2,3.5,IA
+"414 S Clark St, Pella, IA 50219",gas stations,Pella,30.006093846161935,41.3918762207031,-92.9115447998047,Casey's General Store,1,"Pleasantville, IA",False,-1,3.0,IA
+"1421 Ingersoll Ave, Des Moines, IA 50309",gas stations,Des Moines,37.70284138896027,41.58683,-93.63655,QuikTrip,5,"Pleasantville, IA",False,1,4.5,IA
+"1200 W 18th St S, Newton, IA 50208",gas stations,Newton,37.2768153471168,41.6880302429199,-93.0762329101562,Casey's General Store,2,"Pleasantville, IA",False,2,4.0,IA
+"1203 Guthrie St, De Soto, IA 50069",gas stations,De Soto,63.999486804570225,41.5376482,-94.0125451,Kum & Go,2,"Pleasantville, IA",False,2,2.0,IA
+"1300 Keo Way, Des Moines, IA 50309",gas stations,Des Moines,38.036721866268195,41.59392,-93.6345,Kum & Go,3,"Pleasantville, IA",False,1,5.0,IA
+"5901 Mills Civic Pkwy, West Des Moines, IA 50266",gas stations,West Des Moines,47.122529705293715,41.5599312,-93.7874919,Kum & Go,4,"Pleasantville, IA",False,2,4.5,IA
+"100-122 Fleur Dr, Des Moines, IA 50321",gas stations,Des Moines,34.14207063258466,41.5117952904305,-93.6454126297028,Casey's General Store,1,"Pleasantville, IA",False,1,3.0,IA
+"5970 Morning Star Ct, Pleasant Hill, IA 50317",gas stations,Pleasant Hill,29.856945871099136,41.597944,-93.492188,Kum & Go,1,"Pleasantville, IA",False,1,5.0,IA
+"5308 University Ave, West Des Moines, IA 50266",gas stations,West Des Moines,48.488312893616325,41.6001296,-93.7789262,Kum & Go,3,"Pleasantville, IA",False,1,4.5,IA
+"3231 Adventureland Dr, Altoona, IA 50009",gas stations,Altoona,35.88095514757527,41.660171,-93.499532,Flying J Travel Center,14,"Pleasantville, IA",False,-1,3.0,IA
+"4400 S 22nd Ave E, Newton, IA 50208",gas stations,Newton,39.845281854520884,41.68054,-92.99769,Love's Travel Stop,9,"Pleasantville, IA",False,1,3.5,IA
+"1501 E Grand Ave, Des Moines, IA 50316",gas stations,Des Moines,35.429566120306944,41.5935599,-93.59464,QuikTrip,1,"Pleasantville, IA",False,1,4.0,IA
+"715 Lang Creek Ave, Grinnell, IA 50112",gas stations,Grinnell,57.2187654116991,41.6997756,-92.7262572,Kum & Go,5,"Pleasantville, IA",False,1,3.0,IA
+"3603 NE Otter View Cir, Ankeny, IA 50021",gas stations,Ankeny,48.60352773532843,41.7613717,-93.5716395,Kum & Go,5,"Pleasantville, IA",False,2,3.5,IA
+"Highway 14 S, Monroe, IA 50170",gas stations,Monroe,20.58710229086012,41.535244,-93.101507,Hewitt Service Center,1,"Pleasantville, IA",False,-1,5.0,IA
+"1000 E University Ave, Des Moines, IA 50316",gas stations,Des Moines,36.64687588543681,41.600746,-93.605682,QuikTrip,4,"Pleasantville, IA",False,2,5.0,IA
+"7265 Vista Dr, West Des Moines, IA 50266",gas stations,West Des Moines,50.05025100290185,41.5892921,-93.8078504,Kum & Go,5,"Pleasantville, IA",False,2,3.0,IA
+"4021 Fleur Dr, Des Moines, IA 50321",gas stations,Des Moines,35.909946447827124,41.547992,-93.64462,QuikTrip,7,"Pleasantville, IA",False,2,3.5,IA
+"601 S Merino Ave, Eddyville, IA 52553",gas stations,Eddyville,59.720799339539255,41.1538840324077,-92.6273371522425,BP,1,"Pleasantville, IA",False,1,3.0,IA

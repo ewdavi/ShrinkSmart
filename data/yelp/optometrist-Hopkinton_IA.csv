@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1129 11th St SE, Dyersville, IA 52040",optometrist,Dyersville,18.721103998020407,42.4757541,-91.1115351,The Woodland Eye Clinic,1,"Hopkinton, IA",False,-1,1.0,IA
+"603 E Main St, Anamosa, IA 52205",optometrist,Anamosa,26.074451190099015,42.108081817627,-91.2786865234375,Total Eye Health Center,1,"Hopkinton, IA",False,-1,2.0,IA
+"915 Robins Square Dr, Robins, IA 52328",optometrist,Robins,45.14613895099263,42.0689507,-91.6553421,Iowa EyeCare,2,"Hopkinton, IA",False,-1,4.5,IA
+"915 Robins Square Dr, Robins, IA 52328",optometrist,Robins,45.14613895099263,42.0689507,-91.6553421,TLC Laser Eye Centers,2,"Hopkinton, IA",False,-1,5.0,IA
+"1030 Blairs Ferry Rd NE, Cedar Rapids, IA 52402",optometrist,Cedar Rapids,47.3409553430252,42.037188,-91.650896,Target Optical,1,"Hopkinton, IA",False,-1,5.0,IA

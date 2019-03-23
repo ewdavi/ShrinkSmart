@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"104 Albany Ave NE, Orange City, IA 51041",pharmacy,Orange City,14.646803545596766,43.0068359375,-96.05712890625,Dutch Mill Pharmacy,1,"Hospers, IA",False,-1,2.0,IA
+"111 S Washington St, Remsen, IA 51050",pharmacy,Remsen,29.439522548864492,42.8155251,-95.9731064,Remsen Pharmacy,1,"Hospers, IA",False,2,5.0,IA
+"2729 Outer Dr N, Sioux City, IA 51104",pharmacy,Sioux City,71.1105121755578,42.536771,-96.373251,Leeds Northside Pharmacy,3,"Hospers, IA",False,-1,5.0,IA
+"1500 18th St, Spirit Lake, IA 51360",pharmacy,Spirit Lake,74.78463293263292,43.4233436584473,-95.1131820678711,Hyvee Pharmacy,1,"Hospers, IA",False,2,4.0,IA
+"1012 Okoboji Ave, Milford, IA 51351",pharmacy,Milford,67.11621673097571,43.3253021240234,-95.1495513916016,Hy-Vee,1,"Hospers, IA",False,-1,3.0,IA
+"1111 Holton Dr, Le Mars, IA 51031",pharmacy,Le Mars,40.019917289635124,42.7818016,-96.1876388,Walmart Supercenter,7,"Hospers, IA",False,2,3.5,IA
+"1900 Hamilton Blvd, Sioux City, IA 51104",pharmacy,Sioux City,75.41206183579176,42.510704,-96.4164963,Walgreens Pharmacy,1,"Hospers, IA",False,1,5.0,IA
+"911 W 7th St, Sioux City, IA 51103",pharmacy,Sioux City,76.23051026854326,42.50347,-96.4186299,Thompson Dean Drug,1,"Hospers, IA",False,-1,5.0,IA
+"1321 Oxford St, Worthington, MN 56187",pharmacy,Worthington,66.7196799450078,43.63173,-95.59405,Walgreens,2,"Hospers, IA",False,-1,1.5,MN
+"2627 Pierce St, Mainstreet, Sioux City, IA 51104",pharmacy,Sioux City,74.34198744582257,42.5174961741306,-96.4054343919234,Hy-Vee,4,"Hospers, IA",False,2,5.0,IA
+"107 Main E, Elk Point, SD 57025",pharmacy,Elk Point,76.96132777457207,42.686104,-96.684317,Edgar's,2,"Hospers, IA",False,1,5.0,SD
+"4900 S Cliff Ave, Sioux Falls, SD 57108",pharmacy,Sioux Falls,80.35155259485325,43.49967,-96.70703,Walgreens,2,"Hospers, IA",False,1,3.0,SD
+"3301 Gordon Dr, Sioux City, IA 51105",pharmacy,Sioux City,75.24268358637389,42.4888615778355,-96.3630928085523,Hy-Vee Gordon Dr,4,"Hospers, IA",False,2,4.0,IA
+"1720 S Sycamore Ave, Sioux Falls, SD 57110",pharmacy,Sioux Falls,80.04818505062313,43.529857635498,-96.6707305908203,Walgreens,1,"Hospers, IA",False,-1,4.0,SD
+"1111 N 2nd, Cherokee, IA 51012",pharmacy,Cherokee,44.901699298245134,42.763485,-95.553152,Kmart,2,"Hospers, IA",False,-1,1.0,IA
+"2442 Transit Ave, Sioux City, IA 51106",pharmacy,Sioux City,77.12735813033126,42.4755712598562,-96.3776184618473,Valumed Pharmacy,1,"Hospers, IA",False,-1,2.0,IA
+"1521 S Sycamore, Sioux Falls, SD 57103",pharmacy,Sioux Falls,80.2331692346256,43.5324936,-96.6716028,Hy-Vee Food Store,2,"Hospers, IA",False,2,3.0,SD
+"2200 17th St, Spirit Lake, IA 51360",pharmacy,Spirit Lake,74.05820209609999,43.42382,-95.12433,Walmart Supercenter,2,"Hospers, IA",False,1,2.5,IA
+"1831 Lake Ave, Storm Lake, IA 50588",pharmacy,Storm Lake,73.51686652345225,42.664124,-95.1970284,Walmart Supercenter,1,"Hospers, IA",False,2,1.0,IA
+"2827 Hamilton Blvd, Sioux City, IA 51104",pharmacy,Sioux City,74.72815217392947,42.5201119522457,-96.4192528269837,Hy-Vee,7,"Hospers, IA",False,2,3.5,IA

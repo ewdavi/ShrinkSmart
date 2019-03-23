@@ -1,0 +1,5 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"3424 Mormon Coulee Rd, La Crosse, WI 54601",optometrist,La Crosse,60.40118722212434,43.78067,-91.22654,Family Vision Center of La Crosse,1,"Waukon, IA",False,2,4.0,WI
+"2104 State Rd 16, La Crosse, WI 54601",optometrist,La Crosse,68.37508330331883,43.8525957,-91.21089,Optical Fashions Eye Care Clinic,3,"Waukon, IA",False,2,3.5,WI
+"238 Front St, Cashton, WI 54619",optometrist,Cashton,76.40548508494432,43.7396697998047,-90.7869644165039,Scenic Bluffs Community Health Centers,2,"Waukon, IA",False,-1,1.0,WI
+"1836 South Ave, Ste 1910, La Crosse, WI 54601",optometrist,La Crosse,61.382653001156,43.79554,-91.24754,Johnson Benjamin MD,1,"Waukon, IA",False,-1,1.0,WI

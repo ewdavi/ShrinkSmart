@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"9927 Rt 20 W, Galena, IL 61036",gas stations,Galena,42.961173940699574,42.4072555481277,-90.4201756319316,R & L Gas Mart,1,"Sabula, IA",False,1,2.0,IL
+"611 Main St, Savanna, IL 61074",gas stations,Savanna,3.908769389884208,42.0968018,-90.1576767,Milo & Beavers Service Center,2,"Sabula, IA",False,-1,3.0,IL
+"10889 West Red Gates Rd, Galena, IL 61036",gas stations,Galena,45.55465008316574,42.423987,-90.444674,Casey's General Store,5,"Sabula, IA",False,2,2.5,IL
+"32000 Route 2 N, Hillsdale, IL 61257",gas stations,Hillsdale,56.61703501492539,41.612827,-90.186699,Shell Gasoline,3,"Sabula, IA",False,-1,1.5,IL
+"103 Diagonal St, Elizabeth, IL 61028",gas stations,Elizabeth,28.379186966181564,42.3186761,-90.2234871,Little Keg,2,"Sabula, IA",False,-1,3.0,IL
+"1403 Eagle Ridge Rd, Le Claire, IA 52753",gas stations,Le Claire,55.372369049033935,41.5869932932501,-90.3628931567073,Shell,2,"Sabula, IA",False,-1,4.0,IA
+"1801 South Galena Ave, Dixon, IL 61021",gas stations,Dixon,64.1438178686117,41.8231125,-89.4745178,Road Ranger,8,"Sabula, IA",False,2,2.5,IL
+"150 S Main St, Stockton, IL 61085",gas stations,Stockton,34.43840444840126,42.3490327,-90.0069925,Casey General Store 2505,2,"Sabula, IA",False,1,4.5,IL
+"2321 Lincoln Way, Clinton, IA 52732",gas stations,Clinton,28.413690862697944,41.8155540525913,-90.2403346449137,Kwik Star,2,"Sabula, IA",False,2,5.0,IA
+"1019 9th St, Monroe, WI 53566",gas stations,Monroe,73.94952038365696,42.603983,-89.649466,Kwik Trip,6,"Sabula, IA",False,1,4.0,WI
+"300 W Hickory St, Apple River, IL 61001",gas stations,Apple River,48.84010164121616,42.5004779640172,-90.0994188683078,Thriving Thistle Market,3,"Sabula, IA",False,1,4.5,IL
+"755 W Iowa 80 Rd, I-80 Exit 284, Walcott, IA 52773",gas stations,Walcott,70.5714011672634,41.6178044903672,-90.7811987400055,"Iowa 80 Truckstop, Verizon Authorized Retailer",148,"Sabula, IA",False,2,4.0,IA
+"716 S 4th St, Clinton, IA 52732",gas stations,Clinton,25.284010869171436,41.8386378139257,-90.1933101564646,Hop N Shop,1,"Sabula, IA",False,-1,3.0,IA
+"160 E Main, Warren, IL 61087",gas stations,Warren,50.29849495243811,42.4954568,-89.987393,Stagecoach Fast Stop,2,"Sabula, IA",False,1,4.5,IL
+"1512 Lincoln Way, Clinton, IA 52732",gas stations,Clinton,27.783556555938265,41.8176994,-90.2214508,Porter's Convenient,3,"Sabula, IA",False,1,4.5,IA
+"1738 S West Ave, Freeport, IL 61032",gas stations,Freeport,50.72319208787176,42.2771428061175,-89.632024138623,Shell Expresslane,3,"Sabula, IA",False,-1,3.0,IL
+"8255 Nw Blvd, Davenport, IA 52806",gas stations,Davenport,63.170528728522314,41.604668996205,-90.6233522270845,Love's Travel Stop,4,"Sabula, IA",False,2,4.0,IA
+"1905 N 2Nd St, Clinton, IA 52732",gas stations,Clinton,22.1106652801233,41.86633,-90.18183,Walgreens,1,"Sabula, IA",False,1,5.0,IA
+"1348 S Galena Ave, Freeport, IL 61032",gas stations,Freeport,52.96055958356844,42.2857370086636,-89.6074120424918,Dan's Rt. 66 Service,1,"Sabula, IA",False,-1,5.0,IL
+"412 1st Ave, Colona, IL 61241",gas stations,Colona,66.52708782645172,41.4835281,-90.3634872,7-Eleven,3,"Sabula, IA",False,1,3.5,IL

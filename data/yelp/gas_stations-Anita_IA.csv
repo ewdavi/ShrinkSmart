@@ -1,0 +1,14 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"64975 Boston Rd, Atlantic, IA 50022",gas stations,Atlantic,15.767698761699233,41.4859719688138,-94.9464303163691,Conoco Gas,2,"Anita, IA",False,-1,1.0,IA
+"1709 Antique City Dr, Walnut, IA 51577",gas stations,Walnut,38.36689848251556,41.494136,-95.221206,Kum & Go,2,"Anita, IA",False,2,4.0,IA
+"110 S 5th St, Adair, IA 50002",gas stations,Adair,11.749486739705345,41.495762,-94.6431785,Casey's General Store,4,"Anita, IA",False,1,3.0,IA
+"1203 Guthrie St, De Soto, IA 50069",gas stations,De Soto,63.60790651160825,41.5376482,-94.0125451,Kum & Go,2,"Anita, IA",False,2,2.0,IA
+"7005 N Chestnut St, Avoca, IA 51521",gas stations,Avoca,47.84226284966246,41.4996458447772,-95.3351710823037,Flying J,6,"Anita, IA",False,-1,1.5,IA
+"904 N Walnut, Avoca, IA 51521",gas stations,Avoca,47.83464721634985,41.4842592560023,-95.3373330831528,Shell Gas Station,1,"Anita, IA",False,-1,4.0,IA
+"601 SE Kent St, Greenfield, IA 50849",gas stations,Greenfield,30.407583952035775,41.30325,-94.4526,Casey's General Store,1,"Anita, IA",False,-1,4.0,IA
+"2079 Hwy 71, Audubon, IA 50025",gas stations,Audubon,31.982605194751514,41.70411,-94.92567,Waspy's Truck Stop,1,"Anita, IA",False,-1,5.0,IA
+"1715 N Broadway St, Red Oak, IA 51566",gas stations,Red Oak,61.12768603196773,41.0196571,-95.2329712,Lincoln Farm & Home Service,1,"Anita, IA",False,-1,5.0,IA
+"11 East St, Shelby, IA 51570",gas stations,Shelby,57.3714718180176,41.50046,-95.450178,Shell-Taylor Quik-Pik,1,"Anita, IA",False,1,4.0,IA
+"12 East St, Shelby, IA 51570",gas stations,Shelby,57.50329025338998,41.506002,-95.4510104,The Corn Crib,57,"Anita, IA",False,1,4.5,IA
+"1019 N Chestnut St, Avoca, IA 51521",gas stations,Avoca,47.75004472592002,41.4852025173397,-95.3361962963767,Casey's General Store,4,"Anita, IA",False,1,3.0,IA
+"400 1st Ave, Perry, IA 50220",gas stations,Perry,69.77553475998347,41.83092,-94.105205,McKee RV,4,"Anita, IA",False,-1,2.5,IA

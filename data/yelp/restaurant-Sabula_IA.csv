@@ -1,0 +1,9 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"305 Main St, Savanna, IL 61074",restaurant,Savanna,3.5554904707522255,42.09355,-90.15689,Circa 1888,6,"Sabula, IA",False,-1,4.5,IL
+"405 Broad St, Sabula, IA 52070",restaurant,Sabula,0.7996598296532805,42.0720215,-90.17379,Island City Cafe,5,"Sabula, IA",False,1,4.0,IA
+"1811 Chicago Ave, Savanna, IL 61074",restaurant,Savanna,5.051994623679341,42.09485,-90.13018,Kountry Kettle,5,"Sabula, IA",False,-1,4.5,IL
+"1412 Hwy 67, Sabula, IA 52070",restaurant,Sabula,2.6012797560788705,42.045085,-90.192898,Hillside Stables Restaurant,5,"Sabula, IA",False,2,2.5,IA
+"211 Main St, Savanna, IL 61074",restaurant,Savanna,3.486611437251577,42.09267,-90.15639,Manny's Pizza Savanna,45,"Sabula, IA",False,1,3.0,IL
+"324 Main St, Savanna, IL 61074",restaurant,Savanna,3.6262916557997307,42.0940819,-90.1562576,Hawg Dogs,3,"Sabula, IA",False,-1,3.0,IL
+"418 Main St, Savanna, IL 61074",restaurant,Savanna,3.7042244985093062,42.0949909,-90.1567016,Aunt Mannie's Kitchen,1,"Sabula, IA",False,-1,3.0,IL
+"1240 Chicago Ave, Savanna, IL 61074",restaurant,Savanna,4.541719073603966,42.0901297820332,-90.1334103941917,McDonald's,3,"Sabula, IA",False,-1,3.0,IL

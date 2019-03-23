@@ -1,0 +1,17 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"240 Center St, Elgin, IA 52141",restaurant,Elgin,0.6782282273875303,42.9576072,-91.6301588,Dotzy's,5,"Elgin, IA",False,2,4.5,IA
+"17455 Gunder Rd, Elgin, IA 52141",restaurant,Elgin,10.071503239091154,42.9710939659046,-91.5140343554809,The Irish Shanty,23,"Elgin, IA",False,2,4.5,IA
+"203 S Mill St, Wadena, IA 52169",restaurant,Wadena,12.679334019576997,42.8396,-91.65731,Barney Burger,3,"Elgin, IA",False,-1,5.0,IA
+"311 Hwy 150 N, West Union, IA 52175",restaurant,West Union,14.565405270743765,42.958455,-91.814055,Stolen Brothers BBQ,15,"Elgin, IA",False,1,4.5,IA
+"131 N Vine St, West Union, IA 52175",restaurant,West Union,14.140839066983856,42.96248,-91.80862,Gus & Tony's Town House Cafe,6,"Elgin, IA",False,2,4.5,IA
+"218 Mill St, Clermont, IA 52135",restaurant,Clermont,5.463251438765745,42.9993594,-91.6565953,TJ's Pizza,6,"Elgin, IA",False,1,5.0,IA
+"204 Hwy 150 S, West Union, IA 52175",restaurant,West Union,14.60872047457044,42.963316,-91.814184,Barrel Drive In,7,"Elgin, IA",False,1,4.5,IA
+"301 Main St, Luana, IA 52156",restaurant,Luana,19.076809686707225,43.0605202,-91.4525986,Luana Tavern,1,"Elgin, IA",False,-1,5.0,IA
+"311 Hwy 150 S, West Union, IA 52175",restaurant,West Union,14.716879725009724,42.95701,-91.81339,Casa Mexico Tequila,1,"Elgin, IA",False,-1,5.0,IA
+"228 S Main St, Fayette, IA 52142",restaurant,Fayette,18.29045587684763,42.8429108,-91.8023605,Primetime,1,"Elgin, IA",False,-1,3.0,IA
+"140 W Greene St, Postville, IA 52162",restaurant,Postville,15.785067772989365,43.08635507874,-91.5695233769053,El Pariente,3,"Elgin, IA",False,-1,3.5,IA
+"111 S Vine St, West Union, IA 52175",restaurant,West Union,14.083397603514522,42.960708,-91.807762,China Kitchen,5,"Elgin, IA",False,-1,4.0,IA
+"144 W Greene St, Postville, IA 52162",restaurant,Postville,15.807306858729165,43.08636,-91.5696,Brick Oven Pizza & Eatery,2,"Elgin, IA",False,-1,3.0,IA
+"312 W Bradford St, West Union, IA 52175",restaurant,West Union,14.54865276422923,42.96449,-91.81315,Dairy Queen,1,"Elgin, IA",False,-1,1.0,IA
+"117 Highway 150 N, West Union, IA 52175",restaurant,West Union,14.65760046253668,42.96327,-91.81489,Hardee's Restaurant,1,"Elgin, IA",False,-1,4.0,IA
+"107 Hwy 150 N, West Union, IA 52175",restaurant,West Union,14.642750785597356,42.962342,-91.814704,Subway,2,"Elgin, IA",False,-1,3.5,IA

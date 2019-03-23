@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2177 M Ave, Williamsburg, IA 52631",gas stations,Williamsburg,40.478485883696,41.6927984,-92.0660597,Kum & Go,5,"What Cheer, IA",False,2,4.0,IA
+"601 S Merino Ave, Eddyville, IA 52553",gas stations,Eddyville,35.59207064131175,41.1538840324077,-92.6273371522425,BP,1,"What Cheer, IA",False,1,3.0,IA
+"333 E Evans St, Williamsburg, IA 52361",gas stations,Williamsburg,43.381537831596994,41.690616607666,-92.0067596435547,Colony Point,7,"What Cheer, IA",False,2,2.0,IA
+"715 Lang Creek Ave, Grinnell, IA 50112",gas stations,Grinnell,45.493552438534856,41.6997756,-92.7262572,Kum & Go,5,"What Cheer, IA",False,1,3.0,IA
+"103 E 6th St, Hedrick, IA 52563",gas stations,Hedrick,25.074190536983927,41.177066,-92.307183,Hedrick Sinclair,2,"What Cheer, IA",False,-1,2.5,IA

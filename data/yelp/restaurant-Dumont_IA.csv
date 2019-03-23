@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"117 1st St NW, Hampton, IA 50441",restaurant,Hampton,19.201611865497608,42.7433050843135,-93.2083608582616,Rustic Brew,11,"Dumont, IA",False,1,5.0,IA
+"116 E Gilman St, Sheffield, IA 50475",restaurant,Sheffield,25.114777863400477,42.8934327569818,-93.2138064728222,West Fork Wharf,9,"Dumont, IA",False,2,4.5,IA
+"924 Parriott St, Aplington, IA 50604",restaurant,Aplington,20.061460914517085,42.584228515625,-92.8841323852539,Stinky's Bar & Grill,6,"Dumont, IA",False,2,4.5,IA
+"209 1st St NW, Hampton, IA 50441",restaurant,Hampton,19.204717930703687,42.7438545,-93.2085451,La Frontara Restaurant,1,"Dumont, IA",False,-1,5.0,IA
+"316 Main St, Nashua, IA 50658",restaurant,Nashua,42.008268127145385,42.95204,-92.5366,Shelby's Southern Smokehouse,9,"Dumont, IA",False,1,5.0,IA
+"113 N Main St, Clarksville, IA 50619",restaurant,Clarksville,25.19153973121724,42.785139,-92.668189,Pete & Shorty's,4,"Dumont, IA",False,-1,4.5,IA
+"115 N Akir St, Latimer, IA 50452",restaurant,Latimer,32.28389340484079,42.7640037536621,-93.3686218261719,Mother's Place,2,"Dumont, IA",False,1,5.0,IA
+"725 G Ave, Grundy Center, IA 50638",restaurant,Grundy Center,46.39337753328226,42.36172,-92.77376,The Landmark Bistro,10,"Dumont, IA",False,2,4.5,IA
+"424 Oak St, Iowa Falls, IA 50126",restaurant,Iowa Falls,34.90515145322465,42.521411,-93.26279,Red Rooster Grill,3,"Dumont, IA",False,-1,5.0,IA
+"3064 Hwy 14, Greene, IA 50636",restaurant,Greene,22.33785659109676,42.91282,-92.80931,Freeze Frame Bowl,2,"Dumont, IA",False,-1,5.0,IA
+"206 Berkley St, Owasa, IA 50126",restaurant,Owasa,40.354500245528094,42.4318410495594,-93.205208927393,Three Days Grille and Saloon,2,"Dumont, IA",False,-1,5.0,IA
+"309 W Gilman St, Sheffield, IA 50475",restaurant,Sheffield,25.21280178436988,42.8929826133216,-93.2158314809203,Block 10 at 1921 City Hall,1,"Dumont, IA",False,-1,5.0,IA
+"123 E Traer St, Greene, IA 50636",restaurant,Greene,21.29115067788505,42.8962495935156,-92.8015614234001,TJ's Bar & Grill,1,"Dumont, IA",False,-1,4.0,IA
+"205 Adams St, Floyd, IA 50435",restaurant,Floyd,45.54821738326452,43.1245346069336,-92.7406005859375,Dugans Restaurant & Lounge,9,"Dumont, IA",False,2,4.5,IA
+"1214 Water St, Alden, IA 50006",restaurant,Alden,41.813910490441295,42.5208,-93.37653,Westside Restaurant & Lounge,3,"Dumont, IA",False,1,4.5,IA
+"409 Chicksaw St, Rudd, IA 50471",restaurant,Rudd,42.17164207598379,43.127962,-92.903551,Tanks Bar & Grill,2,"Dumont, IA",False,1,5.0,IA
+"648 S Oak St, Iowa Falls, IN 50126",restaurant,Iowa Falls,36.10103758083371,42.5067192201609,-93.2623443379998,Plaza Veracruz,5,"Dumont, IA",False,1,5.0,IN
+"809 S Grand Ave, Charles City, IA 50616",restaurant,Charles City,42.00741673543137,43.0593681335449,-92.6729354858398,Dave's Restaurant,17,"Dumont, IA",False,2,4.0,IA
+"223 3rd St, Parkersburg, IA 50665",restaurant,Parkersburg,24.577826121454972,42.578541,-92.787517,Falcon's Nest,1,"Dumont, IA",False,-1,5.0,IA
+"7 1st Ave NW, Hampton, IA 50441",restaurant,Hampton,19.166951360831575,42.742977,-93.207909,B & C Kitchen,6,"Dumont, IA",False,2,4.0,IA

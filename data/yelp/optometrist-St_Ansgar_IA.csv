@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"318 N Main St, Austin, MN 55912",optometrist,Austin,32.4728370851031,43.6685593350863,-92.9747890681028,InnoVision Eyecare,1,"St. Ansgar, IA",False,-1,5.0,MN
+"3121 4th St SW, Mason City, IA 50401",optometrist,Mason City,36.96271472817594,43.14745,-93.24775,North Iowa Eye Clinic,1,"St. Ansgar, IA",False,-1,4.0,IA
+"2610 Bridge Ave, Albert Lea, MN 56007",optometrist,Albert Lea,48.790594244986494,43.68288,-93.35702,Shopko,2,"St. Ansgar, IA",False,-1,1.0,MN
+"14 N 8th St, Clear Lake, IA 50428",optometrist,Clear Lake,45.8101219284854,43.137896,-93.3786351,Clear Lake Optometry,2,"St. Ansgar, IA",False,-1,4.0,IA
+"4611 Maine Ave SE, Rochester, MN 55904",optometrist,Rochester,73.65241336658205,43.954218,-92.465559,Target Optical,2,"St. Ansgar, IA",False,-1,2.0,MN

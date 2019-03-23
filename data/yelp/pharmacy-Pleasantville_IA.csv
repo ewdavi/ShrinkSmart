@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"606 Walnut St, Des Moines, IA 50309",pharmacy,Des Moines,36.83785963522241,41.58544,-93.62502,Walgreens,6,"Pleasantville, IA",False,2,3.5,IA
+"901 W Pleasant St, Knoxville, IA 50138",pharmacy,Knoxville,15.458257458527362,41.3210258483887,-93.1078720092773,Medicap Pharmacy,1,"Pleasantville, IA",False,-1,5.0,IA
+"800 School St, Carlisle, IA 50047",pharmacy,Carlisle,22.402225844797137,41.498291015625,-93.4950485229492,Medicap Pharmacy,1,"Pleasantville, IA",False,-1,2.0,IA
+"4900 Mills Civic Pkwy, West Des Moines, IA 50265",pharmacy,West Des Moines,45.726850668967145,41.55856,-93.77,Walgreens,6,"Pleasantville, IA",False,2,3.5,IA
+"420 Court Ave, Des Moines, IA 50309",pharmacy,Des Moines,36.587310593745286,41.58461387468,-93.6220497511848,Hy-Vee,42,"Pleasantville, IA",False,2,3.5,IA
+"101 N Walnut St, Colfax, IA 50054",pharmacy,Colfax,32.48314006409022,41.6777769,-93.2455896,Benzer Pharmacy,3,"Pleasantville, IA",False,2,3.5,IA
+"1204 1St Ave E, Newton, IA 50208",pharmacy,Newton,39.88367839869089,41.69959,-93.0380799,Walgreens,1,"Pleasantville, IA",False,-1,1.0,IA
+"3802 Ingersoll Ave, Des Moines, IA 50312",pharmacy,Des Moines,39.82502003661437,41.58588,-93.66838,Bauder Pharmacy,43,"Pleasantville, IA",False,1,4.5,IA
+"120 N 1st Ave, Winterset, IA 50273",pharmacy,Winterset,62.30181671730519,41.33513,-94.01465,Montross Pharmacy,8,"Pleasantville, IA",False,1,4.0,IA
+"1000 N Jefferson Way, Indianola, IA 50125",pharmacy,Indianola,23.930726877304284,41.3696403503418,-93.5576095581055,Walgreens,1,"Pleasantville, IA",False,-1,1.0,IA
+"1330 E University Ave, Des Moines, IA 50316",pharmacy,Des Moines,36.40766127138277,41.6011047363281,-93.6012268066406,Walgreens,3,"Pleasantville, IA",False,2,3.5,IA
+"4555 Fleur Dr, Des Moines, IA 50321",pharmacy,Des Moines,35.62735278787822,41.542926,-93.644515,Walgreens,4,"Pleasantville, IA",False,1,2.5,IA
+"2702 Se Delaware Ave, Ankeny, IA 50021",pharmacy,Ankeny,43.59317721384656,41.70214,-93.58189,Walgreens,3,"Pleasantville, IA",False,2,5.0,IA
+"4707 Fleur Dr, Des Moines, IA 50321",pharmacy,Des Moines,35.48268000951812,41.54182,-93.64475,Hy-Vee Pharmacies,1,"Pleasantville, IA",False,-1,5.0,IA
+"12753 University Ave, Clive, IA 50325",pharmacy,Clive,49.597460985823034,41.600944519043,-93.7936019897461,Walgreens,8,"Pleasantville, IA",False,2,2.5,IA
+"205 N E St, Oskaloosa, IA 52577",pharmacy,Oskaloosa,52.6924579491703,41.2966243,-92.6517631,Mahaska Drug,2,"Pleasantville, IA",False,2,5.0,IA
+"400 1st Ave W, Newton, IA 50208",pharmacy,Newton,39.13050842093818,41.6997985839844,-93.0577545166016,Medicap Pharmacy,1,"Pleasantville, IA",False,-1,5.0,IA
+"628 Nile Kinnick Dr, Ste 1, Adel, IA 50003",pharmacy,Adel,66.98558311537172,41.6108,-94.01723,Sumpter Pharmacy and Wellness,1,"Pleasantville, IA",False,1,5.0,IA
+"2545 E Euclid Ave, Des Moines, IA 50317",pharmacy,Des Moines,36.43926588350165,41.6270485,-93.5686798,Walgreens,2,"Pleasantville, IA",False,2,4.0,IA
+"107 NE Delaware Ave, Ankeny, IA 50021",pharmacy,Ankeny,46.274310078839825,41.73245,-93.5808799,Medicap Pharmacy,2,"Pleasantville, IA",False,2,4.5,IA

@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2101 249th St, Percival, IA 51648",gas stations,Percival,14.797503919895693,40.6913445,-95.7912973,Sapp Bros Percival,16,"Hamburg, IA",False,1,4.5,IA
+"2495 210th Ave, Percival, IA 51648",gas stations,Percival,14.788192752989756,40.69034,-95.79172,Pilot Travel Center,12,"Hamburg, IA",False,2,3.5,IA
+"2496 210th Ave, Percival, IA 51648",gas stations,Percival,14.652591344259223,40.690331,-95.790041,Sapp Bros Truck Stop,11,"Hamburg, IA",False,1,3.5,IA
+"2509 S 11th St, Nebraska City, NE 68410",gas stations,Nebraska City,17.84329049517179,40.6544346195165,-95.8581657707691,Phillips 66,2,"Hamburg, IA",False,-1,4.0,NE
+"2495 210th Ave, Percival, IA 51648",gas stations,Percival,14.714290623222709,40.6903381,-95.7917175,Friendly's Gas,1,"Hamburg, IA",False,1,5.0,IA

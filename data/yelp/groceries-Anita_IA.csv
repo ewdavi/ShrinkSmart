@@ -1,0 +1,18 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2003 Chatburn Ave, Harlan, IA 51537",groceries,Harlan,52.48479136375056,41.64513,-95.33614,Hy-Vee Foods,1,"Anita, IA",False,1,4.0,IA
+"1630 E 7th St, Atlantic, IA 50022",groceries,Atlantic,19.141848807917235,41.4046974182129,-94.9894027709961,Hy-Vee Food Stores,1,"Anita, IA",False,-1,3.0,IA
+"600 Sheldon St, Creston, IA 50801",groceries,Creston,54.49504342045558,41.05157,-94.3725,Hy-Vee Food Store,4,"Anita, IA",False,2,4.0,IA
+"106 W Washington St, Ste 1, Jefferson, IA 50129",groceries,Jefferson,71.56261043969873,42.0172829926014,-94.3750040978193,Hy-Vee Food Store,3,"Anita, IA",False,-1,5.0,IA
+"212 W Wood St, Avoca, IA 51521",groceries,Avoca,47.95670176234724,41.4883193969727,-95.3377838134766,Super Foods,1,"Anita, IA",False,2,3.0,IA
+"601 E Main St, Panora, IA 50216",groceries,Panora,43.81614040361301,41.69186,-94.35701,Panora Hometown Foods,1,"Anita, IA",False,-1,1.0,IA
+"806 Laurel St, Creston, IA 50801",groceries,Creston,54.932832582932285,41.0476270463133,-94.3729910421543,Walmart Supercenter,1,"Anita, IA",False,1,3.0,IA
+"101 Highway 141, Bayard, IA 50029",groceries,Bayard,48.28199575696286,41.8486947566271,-94.5515504479408,Sparky's One Stop,1,"Anita, IA",False,-1,5.0,IA
+"719 W Hwy 92, Winterset, IA 50273",groceries,Winterset,64.49763569734421,41.3451703,-94.0038437,Fareway,3,"Anita, IA",False,1,2.5,IA
+"601 SE Kent St, Greenfield, IA 50849",groceries,Greenfield,30.400071502031594,41.3032346963882,-94.4530778378248,Casey's General Store,1,"Anita, IA",False,-1,4.0,IA
+"201 Idaho St, Glidden, IA 51443",groceries,Glidden,68.25870806407423,42.0568771362305,-94.7292327880859,Glidden Grocery,1,"Anita, IA",False,-1,5.0,IA
+"811 N Broadway St, Red Oak, IA 51566",groceries,Red Oak,61.91628279308928,41.0122185,-95.232811,Fareway Stores,1,"Anita, IA",False,-1,4.0,IA
+"904 Sugar Grove Ave, Dallas Center, IA 50063",groceries,Dallas Center,72.68751291247148,41.6879599273369,-93.9554591470442,The Baker's Pantry,1,"Anita, IA",False,-1,5.0,IA
+"923 N 1st St, Winterset, IA 50273",groceries,Winterset,63.77677292047899,41.3427363235029,-94.0132009366645,Hy-Vee Market Cafe,3,"Anita, IA",False,-1,3.5,IA
+"1601 N Broadway St, Red Oak, IA 51566",groceries,Red Oak,61.38983776824717,41.0186005,-95.2329178,Hy-Vee Food Stores,1,"Anita, IA",False,-1,3.0,IA
+"924 4th Ave S, Denison, IA 51442",groceries,Denison,80.19842112063003,42.012718,-95.359718,Jaliscence #2,1,"Anita, IA",False,-1,4.0,IA
+"923 North 1st St, Winterset, IA 50273",groceries,Winterset,63.75388928680676,41.3435698485485,-94.0132770314813,Hy-Vee,1,"Anita, IA",False,-1,1.0,IA

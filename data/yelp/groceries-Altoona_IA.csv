@@ -1,0 +1,10 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"108 8th St SW, Altoona, IA 50009",groceries,Altoona,1.9706673556013745,41.642650604248,-93.4656829833984,Hy-Vee Food Stores,4,"Altoona, IA",False,2,3.5,IA
+"114 Brick St SE, Bondurant, IA 50035",groceries,Bondurant,4.4443352895522255,41.6898765563965,-93.4619522094727,Brick Street Market and Cafe,18,"Altoona, IA",False,2,4.5,IA
+"3501 8th St SW, Altoona, IA 50009",groceries,Altoona,1.820496737506103,41.6469887,-93.5047329,Walmart Supercenter,4,"Altoona, IA",False,1,3.5,IA
+"4910 Maple Dr, Pleasant Hill, IA 50327",groceries,Pleasant Hill,6.722115187392172,41.598609,-93.517684,Hy-Vee Food Stores,7,"Altoona, IA",False,2,2.5,IA
+"2540 East Euclid Ave, Des Moines, IA 50317",groceries,Des Moines,7.594826484939567,41.6288942830416,-93.5699001699686,HyVee,10,"Altoona, IA",False,2,3.5,IA
+"1002 SE National Dr, Ankeny, IA 50021",groceries,Ankeny,10.114441724465403,41.7052431341965,-93.5850421820446,Walmart Supercenter,11,"Altoona, IA",False,1,3.5,IA
+"5500 East University Ave, Pleasant Hill, IA 50327",groceries,Pleasant Hill,6.18485656570219,41.5999908994936,-93.5042499352088,Fareway,2,"Altoona, IA",False,2,5.0,IA
+"2543 E University Ave, Des Moines, IA 50317",groceries,Des Moines,9.177296023665866,41.5999583426119,-93.5685663175176,Aldi,3,"Altoona, IA",False,2,2.5,IA
+"2702 Se Delaware Ave, Ankeny, IA 50021",groceries,Ankeny,9.704646866960527,41.70214,-93.58189,Walgreens,3,"Altoona, IA",False,2,5.0,IA

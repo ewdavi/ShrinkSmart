@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"3245 Agency St, Burlington, IA 52601",pharmacy,Burlington,40.31691130938281,40.8143882751465,-91.1406936645508,Walgreens,1,"Donnellson, IA",False,-1,5.0,IA
+"1215 Main St, Keokuk, IA 52632",pharmacy,Keokuk,30.71801920652832,40.4020195,-91.3889389,Walgreens,1,"Donnellson, IA",False,1,5.0,IA
+"526 Main St, Mediapolis, IA 52637",pharmacy,Mediapolis,52.5265045502504,41.0076789855957,-91.1643218994141,Carruthers Pharmacy,1,"Donnellson, IA",False,2,5.0,IA
+"129 S Jefferson St, Mount Pleasant, IA 52641",pharmacy,Mount Pleasant,35.755050060091996,40.9659,-91.55513,Hy-Vee Drugstore,1,"Donnellson, IA",False,1,3.0,IA
+"939 Angular St, Burlington, IA 52601",pharmacy,Burlington,41.949780366729584,40.8014,-91.1104,Hy-Vee Food Stores,1,"Donnellson, IA",False,-1,2.0,IA

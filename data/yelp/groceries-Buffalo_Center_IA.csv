@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"910 US Highway 18 W, Clear Lake, IA 50428",groceries,Clear Lake,53.43462566850759,43.1429061889648,-93.400505065918,Fareway Stores,3,"Buffalo Center, IA",False,3,3.5,IA
+"2708 Bridge Ave, Albert Lea, MN 56007",groceries,Albert Lea,57.52543833001598,43.68457,-93.35783,Hy-Vee Food Store,5,"Buffalo Center, IA",False,1,3.0,MN
+"11717 Highway 9, Thompson, IA 50478",groceries,Thompson,15.065646602449412,43.3722687,-93.7679596,Hometown Market,1,"Buffalo Center, IA",False,1,1.0,IA
+"315 Highway 69 N, Forest City, IA 50436",groceries,Forest City,28.79967379251675,43.2667541503906,-93.6305541992188,Bloom Floral Shop,1,"Buffalo Center, IA",False,2,4.0,IA
+"907 S State St, Fairmont, MN 56031",groceries,Fairmont,49.44003240135948,43.6451721191406,-94.4462051391602,Hy-Vee Food Store,2,"Buffalo Center, IA",False,2,4.0,MN
+"1905 Highway 18 E, Algona, IA 50511",groceries,Algona,40.47343106810087,43.0828448385,-94.2140306532383,Fareway Stores,1,"Buffalo Center, IA",False,1,4.0,IA
+"1442 W Main St, Albert Lea, MN 56007",groceries,Albert Lea,53.190684623166206,43.6464553,-93.3879768,Wintergreen Natural Foods,2,"Buffalo Center, IA",False,-1,4.0,MN
+"520 Village Green Dr SW, Mason City, IA 50401",groceries,Mason City,61.481851211502985,43.1477723592549,-93.2612959295511,Aldi Supermarket,2,"Buffalo Center, IA",False,-1,4.0,IA
+"2008 12th St, Emmetsburg, IA 50536",groceries,Emmetsburg,66.96332715174157,43.1091614,-94.6774597,Fareway,2,"Buffalo Center, IA",False,2,3.0,IA
+"512 River Ave N, Belmond, IA 50421",groceries,Belmond,65.60585182213205,42.8500600288971,-93.6167344373072,Fareway Stores,2,"Buffalo Center, IA",False,2,2.5,IA
+"1250 Goemann Rd, Fairmont, MN 56031",groceries,Fairmont,51.84398506362983,43.68228,-94.44479,Walmart Supercenter,3,"Buffalo Center, IA",False,1,2.5,MN
+"726 Marshall St, Albert Lea, MN 56007",groceries,Albert Lea,55.606796259803964,43.6532127556648,-93.3587132424563,Asian Market & Food Deli,5,"Buffalo Center, IA",False,1,5.0,MN
+"1550 Blake Ave, Albert Lea, MN 56007",groceries,Albert Lea,58.456885820714206,43.663883,-93.326202,Walmart Supercenter,2,"Buffalo Center, IA",False,-1,4.5,MN
+"918 S Broadway Ave, Albert Lea, MN 56007",groceries,Albert Lea,54.21478066914205,43.6409530639648,-93.3692779541016,Yaw Asian Grocery Store,1,"Buffalo Center, IA",False,-1,4.0,MN
+"1704 Highway 169, Algona, IA 50511",groceries,Algona,41.48505718065655,43.0829782783985,-94.2361535131931,Countryside Barbeque Sauce,1,"Buffalo Center, IA",False,-1,5.0,IA
+"14 E State St, Algona, IA 50511",groceries,Algona,42.82475101796552,43.0687051,-94.2371966,Fresh Connections Co-op,1,"Buffalo Center, IA",False,-1,4.0,IA
+"100 E State St, Algona, IA 50511",groceries,Algona,42.77329891472984,43.06857,-94.23656,The Market,1,"Buffalo Center, IA",False,2,1.0,IA
+"Hayward, Albert Lea, MN 56007",groceries,Albert Lea,54.61011610893934,43.6473312,-93.3687134,Nick's Meats & Grocery,2,"Buffalo Center, IA",False,3,2.5,MN
+"1619 W Main St, Albert Lea, MN 56007",groceries,Albert Lea,53.13399824068656,43.6460364,-93.3881179,Nelson's Market Place,2,"Buffalo Center, IA",False,-1,1.0,MN
+"4151 4th St SW, Mason City, IA 50401",groceries,Mason City,61.511265827701656,43.1455192,-93.2624144,Walmart Supercenter,2,"Buffalo Center, IA",False,1,4.0,IA

@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1807 White Pole Rd, Anita, IA 50020",restaurant,Anita,1.0568009596607073,41.43839,-94.776417,Redwood Steak House,15,"Anita, IA",False,2,3.0,IA
+"663 Main St, Anita, IA 50020",restaurant,Anita,0.326640831911458,41.4454097789477,-94.7644396346171,The Weather Vane Cafe,14,"Anita, IA",False,1,4.0,IA
+"1407 White Pole Rd, Anita, IA 50020",restaurant,Anita,0.46317913351290163,41.4411378,-94.770293,The Sweet Spot,1,"Anita, IA",False,-1,4.0,IA
+"W Highway 83, Anita, IA 50020",restaurant,Anita,0.15790958850187328,41.4465485,-94.7621384,The Redwood Steakhouse,1,"Anita, IA",False,3,1.0,IA
+"912 Main St, Anita, IA 50020",restaurant,Anita,0.16118745509590138,41.443286895752,-94.7677154541016,Casey's Carry Out Pizza,2,"Anita, IA",False,-1,1.0,IA

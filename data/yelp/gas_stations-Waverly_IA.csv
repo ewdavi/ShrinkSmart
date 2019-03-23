@@ -1,0 +1,15 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"811 Barrick Rd, Janesville, IA 50647",gas stations,Janesville,8.396107083145717,42.64982,-92.455104,Kwik Star,2,"Waverly, IA",False,-1,4.5,IA
+"1717 E San Marnan Dr, Waterloo, IA 50702",gas stations,Waterloo,31.031930729072815,42.4670016,-92.3217197,Kwik Star,5,"Waverly, IA",False,2,3.5,IA
+"2019 College St, Cedar Falls, IA 50613",gas stations,Cedar Falls,22.908711571002907,42.5189247131348,-92.4562301635742,Kwik Star # 726,5,"Waverly, IA",False,1,4.5,IA
+"215 W Main St, Fredericksburg, IA 50630",gas stations,Fredericksburg,34.417556969796266,42.965163,-92.201119,Casey's General Store,1,"Waverly, IA",False,-1,4.0,IA
+"16250 N Ave, Holland, IA 50642",gas stations,Holland,37.85726783881501,42.465845,-92.767354,The Mill,5,"Waverly, IA",False,1,4.0,IA
+"3700 University Ave, Waterloo, IA 50701",gas stations,Waterloo,25.091643384700745,42.50446,-92.39991,Hy-Vee Gas,3,"Waverly, IA",False,-1,3.5,IA
+"2221 Logan Ave, Waterloo, IA 50703",gas stations,Waterloo,23.979392756836305,42.5310785802222,-92.3383655456467,Hy-Vee Gas,1,"Waverly, IA",False,1,3.0,IA
+"230 E Ridgeway Ave, Waterloo, IA 50702",gas stations,Waterloo,29.919043768364293,42.46895,-92.35393,Jim Lind Service,3,"Waverly, IA",False,-1,4.5,IA
+"518 Brandilynn Blvd, Cedar Falls, IA 50613",gas stations,Cedar Falls,26.801524344105584,42.4845352172852,-92.4403457641602,Murphy USA,1,"Waverly, IA",False,-1,4.0,IA
+"2035 E Mitchell Ave, Waterloo, IA 50702",gas stations,Waterloo,30.058592106269515,42.4768367657122,-92.320897878203,BP Station,1,"Waverly, IA",False,-1,1.0,IA
+"1008 Laporte Rd, Waterloo, IA 50702",gas stations,Waterloo,30.033737661715993,42.4762993,-92.3233337,Clark of Waterloo,1,"Waverly, IA",False,1,3.0,IA
+"3601 Lafayette Rd, Evansdale, IA 50707",gas stations,Evansdale,31.171414100969532,42.4774551391602,-92.2877502441406,Casey's Carry Out Pizza,3,"Waverly, IA",False,-1,4.5,IA
+"2710 Crossroads Blvd, Waterloo, IA 50702",gas stations,Waterloo,31.429731124341487,42.4622088,-92.3252351,Tires Plus,3,"Waverly, IA",False,-1,2.5,IA
+"224 Tower Park Dr, Waterloo, IA 50701",gas stations,Waterloo,31.029620922400962,42.457167,-92.35968,Waterfalls Car Wash,7,"Waverly, IA",False,-1,2.5,IA

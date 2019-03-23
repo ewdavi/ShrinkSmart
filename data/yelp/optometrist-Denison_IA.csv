@@ -1,0 +1,4 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"210 S 17th St, Blair, NE 68008",optometrist,Blair,83.22065589028755,41.54256,-96.13696,Vision Care Clinic,2,"Denison, IA",False,-1,4.5,NE
+"257 S 19th St, Blair, NE 68008",optometrist,Blair,83.49165201468814,41.5422596,-96.1410363,Blair Eye Associates,1,"Denison, IA",False,-1,5.0,NE
+"4 W 5th St, Atlantic, IA 50022",optometrist,Atlantic,72.66660127504207,41.4061241149902,-95.0134582519531,Family Vision Center,1,"Denison, IA",False,-1,1.0,IA

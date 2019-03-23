@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"919 6th Ave, DeWitt, IA 52742",restaurant,DeWitt,9.20315621418122,41.82483,-90.53934,Urban Eats,5,"Grand Mound, IA",False,-1,5.0,IA
+"2122 17th Ave, DeWitt, IA 52742",restaurant,DeWitt,8.014423788694694,41.82743,-90.55448,21 Chop House,3,"Grand Mound, IA",False,-1,2.0,IA
+"199 2nd St, Calamus, IA 52729",restaurant,Calamus,9.022284206909816,41.82544,-90.75911,Steffens Tap,1,"Grand Mound, IA",False,-1,5.0,IA
+"613 10th St, Dewitt, IA 52742",restaurant,Dewitt,9.147808926192488,41.8250591102054,-90.5398850888014,Murphy's Pub,3,"Grand Mound, IA",False,1,5.0,IA
+"18800 315th St, Long Grove, IA 52756",restaurant,Long Grove,11.669185539909781,41.7646636962891,-90.5333633422852,Wapsi Willys,12,"Grand Mound, IA",False,-1,4.0,IA
+"709 6th Ave, DeWitt, IA 52742",restaurant,DeWitt,9.20863450342577,41.8223902,-90.5391278,Mezcal Mexican Bar and Grill,9,"Grand Mound, IA",False,1,4.5,IA
+"411 Main, Lost Nation, IA 52254",restaurant,Lost Nation,20.938393906980778,41.9637184,-90.8185883,Pub Club,3,"Grand Mound, IA",False,2,3.0,IA
+"902 6th Ave, De Witt, IA 52742",restaurant,De Witt,9.245558340209175,41.82442,-90.53857,Hall Of Fame Pizza & Wings,16,"Grand Mound, IA",False,1,4.5,IA
+"10 Lincoln Ave, Eldridge, IA 52748",restaurant,Eldridge,16.36810769904779,41.69698,-90.54846,Family Table Restaurant,2,"Grand Mound, IA",False,-1,4.5,IA
+"101 S Main St, Donahue, IA 52746",restaurant,Donahue,14.454923423452838,41.6944084,-90.6751328,The Depot,2,"Grand Mound, IA",False,1,4.0,IA
+"190TH St, Clinton, IA 52732",restaurant,Clinton,10.062297574341944,41.9025007657731,-90.5918702110306,Country Cafe,2,"Grand Mound, IA",False,-1,5.0,IA
+"602 10th St, DeWitt, IA 52742",restaurant,DeWitt,9.161367543285,41.825195,-90.5397257,The Crossroads Inspired Living & Garden Cafe,3,"Grand Mound, IA",False,2,4.5,IA
+"241 11th St, De Witt, IA 52742",restaurant,De Witt,9.607627234538228,41.82598,-90.53431,Jorgie's,6,"Grand Mound, IA",False,1,3.5,IA
+"906 6th Ave, DeWitt, IA 52742",restaurant,DeWitt,9.24882253362738,41.82454,-90.53853,Sunrise Cafe,5,"Grand Mound, IA",False,-1,3.5,IA
+"807 6th Ave, De Witt, IA 52742",restaurant,De Witt,9.195697112729112,41.8234484642744,-90.5390442162752,Golden Wok Restaurant,7,"Grand Mound, IA",False,1,3.5,IA
+"810 6th Ave, Ste A, DeWitt, IA 52742",restaurant,DeWitt,9.249718992727953,41.8235222952161,-90.5386276528337,Blondie's Coffee Out Back,1,"Grand Mound, IA",False,-1,4.0,IA
+"401 11th St, DeWitt, IA 52742",restaurant,DeWitt,9.458156950083378,41.8261809647083,-90.5361822992563,Cups and Cones,1,"Grand Mound, IA",False,-1,5.0,IA
+"1320 11th St, De Witt, IA 52742",restaurant,De Witt,8.358383571065968,41.8258591,-90.5494766,Pizza Hut,2,"Grand Mound, IA",False,-1,2.5,IA
+"1720 11th St, Dewitt, IA 52742",restaurant,Dewitt,7.817200109332607,41.8261895405962,-90.5560012069054,McDonald's,3,"Grand Mound, IA",False,1,3.5,IA
+"715 6th Ave, De Witt, IA 52742",restaurant,De Witt,9.195668623885856,41.8227348,-90.5391159,Subway,2,"Grand Mound, IA",False,1,3.0,IA

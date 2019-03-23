@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"68 Monroe St, Floyd, IA 50435",gas stations,Floyd,32.112099491015826,43.1226543807227,-92.7381350618271,"218 Fuel Express Restaurant, Deli, & Liquor Store",5,"St. Ansgar, IA",False,-1,4.0,IA
+"2751 E Main St, Albert Lea, MN 56007",gas stations,Albert Lea,44.64227554100495,43.65972,-93.31533,Love's Travel Stop,5,"St. Ansgar, IA",False,1,4.0,MN
+"1702 12th St SW, Austin, MN 55912",gas stations,Austin,30.825857722169225,43.6519148,-92.9896949,Casey's General Store,1,"St. Ansgar, IA",False,1,5.0,MN
+"820 Happy Trails Ln, Albert Lea, MN 56007",gas stations,Albert Lea,44.51079739852361,43.6569983823582,-93.3176115616546,TA Truck Service,18,"St. Ansgar, IA",False,1,4.0,MN
+"522 Chicksaw St, Rudd, IA 50471",gas stations,Rudd,27.908772561157008,43.12839,-92.90533,Town Mart,1,"St. Ansgar, IA",False,2,2.0,IA
+"1205 Oakland Pl SE, Austin, MN 55912",gas stations,Austin,32.05360607665776,43.6658554,-92.9585419,Ankeny's Mini Mart No.1,4,"St. Ansgar, IA",False,2,4.0,MN

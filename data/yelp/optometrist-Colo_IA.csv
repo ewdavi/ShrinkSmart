@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2701 Stange Rd, Ste 100, Ames, IA 50010",optometrist,Ames,27.341348910304703,42.0488891601562,-93.6454544067383,Eye Works,9,"Colo, IA",False,3,4.0,IA
+"201 10th St, Ames, IA 50010",optometrist,Ames,24.42763721673136,42.0313835144043,-93.6127166748047,Ames Eye Clinic,1,"Colo, IA",False,-1,5.0,IA
+"2020 Philadelphia St, Ames, IA 50010",optometrist,Ames,22.228861393837768,42.034884,-93.585403,Wolfe Eye Clinic- Ames,1,"Colo, IA",False,-1,5.0,IA
+"1128 Duff Ave, Ames, IA 50010",optometrist,Ames,24.254032049809236,42.0328941345215,-93.6097106933594,McFarland Clinic: Duff Avenue Eye Center,1,"Colo, IA",False,-1,4.0,IA
+"1310 SW State St, Ste A, Ankeny, IA 50023",optometrist,Ankeny,41.50143339614781,41.71697,-93.62046,"Eye Care Of Iowa, PC - Ankeny",6,"Colo, IA",False,-1,4.0,IA
+"2634 Stange Rd, Ames, IA 50010",optometrist,Ames,27.2642785498233,42.048415,-93.644627,Pearle Vision,1,"Colo, IA",False,-1,5.0,IA
+"111 NW 9th St, Ankeny, IA 50023",optometrist,Ankeny,38.681114793540125,41.738376,-93.601897,Eyecare Associates of Ankeny,2,"Colo, IA",False,3,5.0,IA
+"819 Wheeler St, Ste 7, Northern Lights Ctr, Ames, IA 50010",optometrist,Ames,25.5559416134054,42.054980478225,-93.6222936374451,Whylie Eye Care Centers,1,"Colo, IA",False,4,1.0,IA
+"9250 University Ave, Ste 110, West Des Moines, IA 50266",optometrist,West Des Moines,62.94834369371932,41.6003351,-93.8160694,Elite Eye Care,13,"Colo, IA",False,-1,4.5,IA
+"3600 Lincoln Way, Ames, IA 50014",optometrist,Ames,28.934864777072203,42.0218887329102,-93.6689910888672,McFarland Clinic - West Ames Eye Center,2,"Colo, IA",False,-1,1.0,IA
+"311 N Ankeny Blvd, Ankeny, IA 50023",optometrist,Ankeny,38.90017380053338,41.73462,-93.59958,Ankeny Family Vision Center,4,"Colo, IA",False,3,4.0,IA
+"935 Broad St, Grinnell, IA 50112",optometrist,Grinnell,57.562406726938335,41.74446,-92.72449,Jensen Optometrists,3,"Colo, IA",False,-1,2.5,IA
+"5075 E University Ave, Ste C, Pleasant Hill, IA 50327",optometrist,Pleasant Hill,48.843690411528016,41.6004564,-93.5145763,Eye Care Of Iowa PC - Pleasant Hill,5,"Colo, IA",False,-1,3.5,IA
+"1810 SW White Birch Cir, Ste 109, Ankeny, IA 50023",optometrist,Ankeny,42.99659298038625,41.7025099,-93.6244433,World Of Vision,1,"Colo, IA",False,-1,5.0,IA
+"2135 SE Delaware Ave, Ankeny, IA 50021",optometrist,Ankeny,40.18099390531894,41.709546,-93.578042,Target Optical,3,"Colo, IA",False,2,5.0,IA
+"309 E Church St, Marshalltown, IA 50158",optometrist,Marshalltown,34.05039159148488,42.0478869,-92.9078939,Wolfe Eye Clinic- Marshalltown,1,"Colo, IA",False,-1,4.0,IA
+"4660 86th St, Urbandale, IA 50322",optometrist,Urbandale,53.76614280102058,41.6448316610064,-93.7365401730666,Advanced Eyecare Center,3,"Colo, IA",False,-1,5.0,IA
+"241 SE Destination Dr, Ste 100, Grimes, IA 50111",optometrist,Grimes,52.13505785626297,41.6871702895223,-93.7683864544922,Total Family Eye Care,3,"Colo, IA",False,-1,4.5,IA
+"103 2nd St SE, Altoona, IA 50009",optometrist,Altoona,42.244862429996886,41.65057,-93.46435,Total Eyewear Gallery,1,"Colo, IA",False,-1,5.0,IA
+"2525 N Ankeny Blvd, Ankeny, IA 50023",optometrist,Ankeny,37.35593213729105,41.752121,-93.6000748,Child and Family Vision Center,1,"Colo, IA",False,-1,1.0,IA

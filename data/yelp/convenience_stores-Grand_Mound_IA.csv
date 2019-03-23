@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"234 W 3rd St, Davenport, IA 52801",convenience stores,Davenport,33.98101982835215,41.52255,-90.57658,Central Grocery,3,"Grand Mound, IA",False,-1,4.0,IA
+"10889 West Red Gates Rd, Galena, IL 61036",convenience stores,Galena,68.92890156275824,42.423987,-90.444674,Casey's General Store,5,"Grand Mound, IA",False,2,2.5,IL
+"1810 5th Ave, Moline, IL 61265",convenience stores,Moline,36.926577761940926,41.50754,-90.51174,Central Store,2,"Grand Mound, IA",False,-1,5.0,IL
+"2702 Ave Of The Cities, Moline, IL 61265",convenience stores,Moline,38.917282262856574,41.49203,-90.49875,7-Eleven,1,"Grand Mound, IA",False,1,5.0,IL
+"755 W Iowa 80 Rd, I-80 Exit 284, Walcott, IA 52773",convenience stores,Walcott,25.286674325218673,41.6178044903672,-90.7811987400055,"Iowa 80 Truckstop, Verizon Authorized Retailer",148,"Grand Mound, IA",False,2,4.0,IA
+"100 W 65th St, Davenport, IA 52806",convenience stores,Davenport,27.206586178586807,41.5855864617402,-90.5717530846596,Kwik Star,2,"Grand Mound, IA",False,1,5.0,IA
+"1636 38th St, Rock Island, IL 61201",convenience stores,Rock Island,37.59725250148365,41.4937461857261,-90.5480884667668,7-Eleven,1,"Grand Mound, IA",False,1,5.0,IL
+"4520 11th St, Rock Island, IL 61201",convenience stores,Rock Island,40.02205755281103,41.4665891881351,-90.5844198167324,7-Eleven,1,"Grand Mound, IA",False,1,5.0,IL
+"6807 Northwest Blvd, Davenport, IA 52806",convenience stores,Davenport,26.044758619044693,41.5908508300781,-90.609977722168,Hawkeye Convenience Store,2,"Grand Mound, IA",False,2,4.5,IA
+"4720 27th St, Moline, IL 61265",convenience stores,Moline,41.6451477877092,41.4661746029751,-90.4985877871513,7-Eleven,2,"Grand Mound, IA",False,-1,4.0,IL
+"1026 W River Dr, Davenport, IA 52802",convenience stores,Davenport,34.054451352854386,41.5203209,-90.5884476,Sara Mini Mart,1,"Grand Mound, IA",False,-1,1.0,IA
+"1700 18th Ave, Rock Island, IL 61201",convenience stores,Rock Island,37.231287889321855,41.4934339407884,-90.5721441919923,7-Eleven,1,"Grand Mound, IA",False,-1,1.0,IL
+"1528 Locust St, Davenport, IA 52804",convenience stores,Davenport,31.952965873432063,41.53857,-90.59738,two brother's liquor store,1,"Grand Mound, IA",False,-1,4.0,IA
+"3010 University Dr, Muscatine, IA 52761",convenience stores,Muscatine,50.76903260181369,41.4583471028896,-91.0176622867584,Casey's General Store,3,"Grand Mound, IA",False,2,4.5,IA
+"425 E Le Claire Rd, Eldridge, IA 52748",convenience stores,Eldridge,19.76419419170063,41.6540107727051,-90.5773086547852,North Scott Foods,2,"Grand Mound, IA",False,2,2.5,IA
+"1660 W Locust St, Davenport, IA 52804",convenience stores,Davenport,31.86397201990224,41.5388603210449,-90.6005935668945,Walgreens,3,"Grand Mound, IA",False,2,2.5,IA
+"2050 Ia Highway 38, Tipton, IA 52772",convenience stores,Tipton,43.22876245857061,41.6478464,-91.1152662,Kum & Go,4,"Grand Mound, IA",False,1,3.5,IA
+"105 W 1st Ave, Coal Valley, IL 61240",convenience stores,Coal Valley,44.15061656418251,41.4520818,-90.4611637,7-Eleven,3,"Grand Mound, IA",False,1,3.5,IL
+"1609 Washington St, Davenport, IA 52804",convenience stores,Davenport,32.24887487629629,41.5360370278358,-90.5962101370096,Washington Street Mini Mart,1,"Grand Mound, IA",False,-1,4.0,IA
+"1007 1st St, Silvis, IL 61282",convenience stores,Silvis,40.548895909016196,41.4999136704697,-90.4242557287216,7-Eleven,1,"Grand Mound, IA",False,1,4.0,IL

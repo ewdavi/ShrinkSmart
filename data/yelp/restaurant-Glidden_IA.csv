@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"127 E St, Glidden, IA 51443",restaurant,Glidden,0.5315050565918333,42.063891051663,-94.7278758510947,Las Margaritas,4,"Glidden, IA",False,-1,5.0,IA
+"1205 Hwy 30, Ste A, Carroll, IA 51401",restaurant,Carroll,12.891487292856041,42.07424,-94.88097,Napoli's Italian Restaurant - Carroll,13,"Glidden, IA",False,2,4.5,IA
+"116 N Illinois St, Lake City, IA 51449",restaurant,Lake City,23.210926864719447,42.268,-94.73251,Wagon Wheel Restaurant & Lounge,2,"Glidden, IA",False,2,5.0,IA
+"326 Main St, Manning, IA 51455",restaurant,Manning,32.65411353390788,41.90824,-95.0650299,Deb's Corner Cafe,3,"Glidden, IA",False,2,5.0,IA
+"419 Sand St, Churdan, IA 50050",restaurant,Churdan,23.021039020372832,42.1551895,-94.4786606,Churdan Bar & Grill,1,"Glidden, IA",False,-1,5.0,IA
+"1235 Plaza Dr, Carroll, IA 51401",restaurant,Carroll,10.044177130092304,42.0648108768099,-94.8475374957009,Bloomers Sports Bar and Grill,18,"Glidden, IA",False,2,3.5,IA
+"120 N Illinois St, Lake City, IA 51449",restaurant,Lake City,23.23161892787943,42.26815,-94.73226,Carnegie Cafe',1,"Glidden, IA",False,-1,5.0,IA
+"506 Main St, Coon Rapids, IA 50058",restaurant,Coon Rapids,21.36650312114091,41.8705101013184,-94.6779403686523,Main St Pizza,1,"Glidden, IA",False,-1,5.0,IA
+"703 Rye Ave, Templeton, IA 51463",restaurant,Templeton,23.81829672022022,41.913132,-94.936755,Waspy's Cafe,2,"Glidden, IA",False,-1,4.5,IA
+"101 Main St, Ralston, IA 51459",restaurant,Ralston,7.874539165113611,42.0407676696777,-94.6340484619141,Country Corner Restaurant,1,"Glidden, IA",False,-1,4.0,IA
+"808 E Main St, Lake City, IA 51449",restaurant,Lake City,23.20875533145061,42.2676420789526,-94.7430134132629,Lake City Drive-In,4,"Glidden, IA",False,1,5.0,IA
+"501 S 5th Ave, Coon Rapids, IA 50058",restaurant,Coon Rapids,21.758766653529086,41.867031238369,-94.6771432533422,Las Margaritas,2,"Glidden, IA",False,-1,4.5,IA
+"D 59, Carnarvon, IA 51450",restaurant,Carnarvon,32.562797719394744,42.253595,-95.0216568,Trailside Road House,2,"Glidden, IA",False,1,3.5,IA
+"777 Wild Rose Rd, Jefferson, IA 50129",restaurant,Jefferson,28.504660155428066,42.0359820403654,-94.3823157995939,Coaches Corner at The Wild Rose Casino,3,"Glidden, IA",False,2,3.5,IA
+"901 N Elm St, Jefferson, IA 50129",restaurant,Jefferson,29.100858066453164,42.0254698,-94.3774336,Bett & Bev's Bbq,3,"Glidden, IA",False,1,4.0,IA
+"101 E Lincolnway St, Jefferson, IA 50129",restaurant,Jefferson,29.44658392859217,42.0149955749512,-94.3745574951172,Peony Chinese Restaurant,2,"Glidden, IA",False,1,5.0,IA
+"108 W State St, Jefferson, IA 50129",restaurant,Jefferson,29.394506949099434,42.0162768,-94.3749085,Uptown Cafe,14,"Glidden, IA",False,1,4.0,IA
+"756 Hwy 30 E, Carroll, IA 51401",restaurant,Carroll,10.822220510602346,42.06384,-94.85705,M C's Cafe,3,"Glidden, IA",False,1,4.5,IA
+"18152 IA-141, Templeton, IA 51463",restaurant,Templeton,24.244259185540795,41.9057473132549,-94.9343341961503,Corner Station Cafe,1,"Glidden, IA",False,-1,5.0,IA
+"300 3rd St, Lake View, IA 51450",restaurant,Lake View,38.91376321748868,42.3060149,-95.0537194,Kathy's Korner,2,"Glidden, IA",False,1,3.5,IA

@@ -1,0 +1,10 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1615 Central Ave, Estherville, IA 51334",gas stations,Estherville,1.0095521520543003,43.4022598,-94.8220901,Ampride,1,"Estherville, IA",False,-1,3.0,IA
+"102 Central Ave, Estherville, IA 51334",gas stations,Estherville,0.5852930033656344,43.4017982,-94.8426514,Riverside Sinclair Service,5,"Estherville, IA",False,-1,4.5,IA
+"600 Mn Hwy 4, Sherburn, MN 56171",gas stations,Sherburn,29.932817228837557,43.6618238,-94.7322511,Kum & Go,2,"Estherville, IA",False,1,4.5,MN
+"2001 Highway 71 N, Jackson, MN 56143",gas stations,Jackson,29.50171463237874,43.6418118,-94.995938,Vet's Whoa N'go Fuel Stop,2,"Estherville, IA",False,1,4.0,MN
+"1802 Hwy 71 N, Okoboji, IA 51355",gas stations,Okoboji,23.52128953453753,43.3918991,-95.1264035,Casey's General Store,3,"Estherville, IA",False,-1,3.5,IA
+"300 18th St, Spirit Lake, IA 51360",gas stations,Spirit Lake,20.974755252095942,43.4226064,-95.0940079,Kum & Go,2,"Estherville, IA",False,-1,2.5,IA
+"307 S 4th Ave, Armstrong, IA 50514",gas stations,Armstrong,28.524728091231,43.3925287157045,-94.4829569756985,Casey's,1,"Estherville, IA",False,-1,1.0,IA
+"1401 18th St, Spirit Lake, IA 51360",gas stations,Spirit Lake,22.279572484796986,43.4224751,-95.1108594,Towing-Jennings Tow & Repair,2,"Estherville, IA",False,-1,4.5,IA
+"800 S Grand Ave, Spencer, IA 51301",gas stations,Spencer,39.27500957668937,43.1300392150879,-95.1432952880859,Casey's Carry Out Pizza,1,"Estherville, IA",False,-1,5.0,IA

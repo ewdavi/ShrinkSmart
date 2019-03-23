@@ -1,0 +1,10 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"901 Kelly St, Charles City, IA 50616",pharmacy,Charles City,27.570363751358702,43.06735,-92.67523,Hy-Vee Food Store,2,"Elma, IA",False,1,4.0,IA
+"1798 Old Stage Rd, Decorah, IA 52101",pharmacy,Decorah,55.74690765896546,43.29132,-91.75431,Walmart Pharmacy,1,"Elma, IA",False,-1,4.0,IA
+"12 S Frederick Ave, Oelwein, IA 50662",pharmacy,Oelwein,76.25627981898747,42.6780166625977,-91.9136962890625,Schuchmanns'valu-Rite Pharmacy,1,"Elma, IA",False,-1,5.0,IA
+"875 4th St SW, Mason City, IA 50401",pharmacy,Mason City,63.77067201653493,43.14776,-93.21414,Hy-Vee Drugstore,2,"Elma, IA",False,2,3.0,IA
+"1307 18th Ave NW, Austin, MN 55912",pharmacy,Austin,65.92038271493082,43.6832202522757,-92.9905900492085,Hy-Vee,1,"Elma, IA",False,-1,5.0,MN
+"1209 18th Ave NW, Austin, MN 55912",pharmacy,Austin,65.85663503478557,43.6846848,-92.988678,Shopko,1,"Elma, IA",False,-1,4.0,MN
+"615 S Monroe Ave, Mason City, IA 50401",pharmacy,Mason City,63.30602922633527,43.145961,-93.207778,Shopko,1,"Elma, IA",False,2,3.0,IA
+"200 Jefferson St, West Union, IA 52175",pharmacy,West Union,59.639835643118474,42.967976,-91.810828,Palmer Home Medical Supply Services,1,"Elma, IA",False,-1,1.0,IA
+"1501 4th St SW, Mason City, IA 50401",pharmacy,Mason City,64.50708849228717,43.1482039,-93.2233516,Mercy Home Therapy Shoppe,2,"Elma, IA",False,-1,1.0,IA

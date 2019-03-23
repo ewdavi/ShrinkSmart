@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"5522 County Rd E-45, Hale, IA 52362",restaurant,Hale,7.049988387714542,42.0127540311584,-91.1367261326591,Hale Tap,5,"Olin, IA",False,1,4.5,IA
+"12612 Stone City Rd, Anamosa, IA 52205",restaurant,Anamosa,21.52032551865114,42.1153177320957,-91.3547542691231,The General Store Pub,35,"Olin, IA",False,2,4.5,IA
+"14575 E23 County Home Rd, Anamosa, IA 52205",restaurant,Anamosa,16.00086901285426,42.1407225996159,-91.1624130606651,Teddys Barn And Grill,28,"Olin, IA",False,2,3.5,IA
+"106 W Broadway St, Oxford Junction, IA 52323",restaurant,Oxford Junction,15.372422804147014,41.984,-90.95662,Schakeys,2,"Olin, IA",False,2,5.0,IA
+"517 Lombard St, Clarence, IA 52216",restaurant,Clarence,13.9804403792166,41.8889313,-91.0567398,Mill Creek Cafe,1,"Olin, IA",False,1,5.0,IA
+"514 E Front St, Stanwood, IA 52337",restaurant,Stanwood,12.099608968617641,41.88891,-91.14564,Ditto's Family Restaurant,10,"Olin, IA",False,1,4.5,IA
+"122 E Main St, Anamosa, IA 52205",restaurant,Anamosa,17.071399457197263,42.108512878418,-91.2845611572266,Tyler & Downing's Eatery,11,"Olin, IA",False,2,3.5,IA
+"9343 95th Ave, Maquoketa, IA 52060",restaurant,Maquoketa,31.96761138700625,42.1161804,-90.7889633,Bluff Lake Catfish Farm,18,"Olin, IA",False,2,4.0,IA
+"225 S Main St, Monticello, IA 52310",restaurant,Monticello,26.76773628966065,42.2362404,-91.1843414,Darrell's A Family Tradition,7,"Olin, IA",False,2,4.5,IA
+"519-599 Lombard St, Clarence, IA 52216",restaurant,Clarence,14.057087626748714,41.8888668553025,-91.0551223723655,Victory Lane,2,"Olin, IA",False,1,3.5,IA
+"275 Jackson St, Cascade, IA 52033",restaurant,Cascade,35.71518752613283,42.30314,-91.00792,Kalmes Club 528,1,"Olin, IA",False,-1,5.0,IA
+"127 W Main St, Wyoming, IA 52362",restaurant,Wyoming,13.072238857309827,42.0587777695011,-91.0065354779363,Rack's Swinging Door,1,"Olin, IA",False,-1,4.0,IA
+"502 Lombard St, Clarence, IA 52216",restaurant,Clarence,13.988964639164283,41.888535,-91.057671,The Onion Grove Bar & Grill,1,"Olin, IA",False,1,4.0,IA
+"165 West Main St, Wyoming, IA 52362",restaurant,Wyoming,12.996534033620764,42.0586814880371,-91.0075836181641,bear creek cafe,1,"Olin, IA",False,-1,5.0,IA
+"126 E 1st St, Monticello, IA 52310",restaurant,Monticello,27.008488348923635,42.238036,-91.188607,The Jitney,13,"Olin, IA",False,2,5.0,IA
+"126 E Main St, Lisbon, IA 52253",restaurant,Lisbon,21.818826838329606,41.92145,-91.38491,Addy's Public House,4,"Olin, IA",False,1,5.0,IA
+"411 Main, Lost Nation, IA 52254",restaurant,Lost Nation,26.977349101585066,41.9637184,-90.8185883,Pub Club,3,"Olin, IA",False,2,3.0,IA
+"101 E Main St, Anamosa, IA 52205",restaurant,Anamosa,17.084183613898368,42.1081606415533,-91.2854647636414,Hot Shots Bar & Grill,1,"Olin, IA",False,1,5.0,IA
+"10537 Shaw Rd, Anamosa, IA 52205",restaurant,Anamosa,14.302039386759953,42.085067,-91.268756,Scooters Bar and Grill,10,"Olin, IA",False,2,3.5,IA
+"220 Pierce SW, Cascade, IA 52033",restaurant,Cascade,34.94041745259853,42.2984294,-91.0126857,Cascade,1,"Olin, IA",False,-1,5.0,IA

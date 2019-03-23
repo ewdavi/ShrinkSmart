@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"819 Grand Ave, Spencer, IA 51301",groceries,Spencer,14.205094964125426,43.14635,-95.14518,Hy-Vee Food Store,3,"Everly, IA",False,-1,3.5,IA
+"104 E 8th St, Spencer, IA 51301",groceries,Spencer,14.574222470182637,43.14573,-95.14325,Fareway Stores,1,"Everly, IA",False,-1,5.0,IA
+"1500 18th St, Spirit Lake, IA 51360",groceries,Spirit Lake,33.72302546134096,43.4233436584473,-95.1131820678711,Hy-Vee Food Store,2,"Everly, IA",False,1,2.5,IA
+"500 11th St SW, Spencer, IA 51301",groceries,Spencer,14.258250232556962,43.1251313,-95.1524185,Walmart Supercenter,2,"Everly, IA",False,-1,1.5,IA
+"Milford, IA 51351",groceries,Milford,22.907354484491858,43.32851,-95.14999,Buy Rite Foods,1,"Everly, IA",False,-1,3.0,IA
+"1012 Okoboji Ave, Milford, IA 51351",groceries,Milford,22.979763967666702,43.3253021240234,-95.1495513916016,Hy-Vee,1,"Everly, IA",False,-1,3.0,IA
+"403 Grand Ave, Spencer, IA 51301",groceries,Spencer,14.44319386264595,43.1414749,-95.1448552,The Hen House,2,"Everly, IA",False,2,5.0,IA
+"2048 Hwy 9, Spirit Lake, IA 51360",groceries,Spirit Lake,32.10664779613095,43.4309282368024,-95.181328599211,Vick's Corner,2,"Everly, IA",False,3,2.5,IA
+"1906 Keokuk Ave, Spirit Lake, IA 51360",groceries,Spirit Lake,33.82917933258344,43.4216499,-95.106369,Fareway Stores,1,"Everly, IA",False,-1,3.0,IA
+"1902 Peoria Ave, Spirit Lake, IA 51360",groceries,Spirit Lake,33.595513892343654,43.4217185974121,-95.112190246582,Hy-Vee Wine & Spirit,2,"Everly, IA",False,-1,3.0,IA

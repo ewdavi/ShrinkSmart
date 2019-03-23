@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"501 S 5th Ave, Coon Rapids, IA 50058",restaurants,Coon Rapids,10.111026080981448,41.867031238369,-94.6771432533422,Las Margaritas,2,"Bayard, IA",False,-1,4.5,IA
+"304 5th St, West Des Moines, IA 50265",restaurants,West Des Moines,23.918365781292476,41.6918733938161,-94.3645338195577,Billy Vee's,19,"Bayard, IA",False,2,4.5,IA
+"124 W Main St, Panora, IA 50216",restaurants,Panora,23.892394232430615,41.69135,-94.36527,Owls Nest,11,"Bayard, IA",False,2,4.0,IA
+"904 1st St, Redfield, IA 50233",restaurants,Redfield,41.74437883893487,41.5907936096191,-94.1957855224609,Harvey's Diner & Pub,16,"Bayard, IA",False,2,5.0,IA
+"113 N Chestnut St, Jefferson, IA 50129",restaurants,Jefferson,23.664531755584356,42.0156995665347,-94.373368094697,Doc's Stadium,5,"Bayard, IA",False,-1,4.0,IA
+"5405 Chimra Rd, Panora, IA 50216",restaurants,Panora,22.82127429679519,41.706022,-94.363647,The Port,6,"Bayard, IA",False,2,3.5,IA
+"777 Wild Rose Rd, Jefferson, IA 50129",restaurants,Jefferson,25.001743604782252,42.0359820403654,-94.3823157995939,Coaches Corner at The Wild Rose Casino,3,"Bayard, IA",False,2,3.5,IA
+"600 E Main St, Panora, IA 50216",restaurants,Panora,24.366650151039604,41.6912763799957,-94.3573752790689,PJ's Drive In,14,"Bayard, IA",False,1,4.0,IA
+"506 Main St, Coon Rapids, IA 50058",restaurants,Coon Rapids,10.245394440449223,41.8705101013184,-94.6779403686523,Main St Pizza,1,"Bayard, IA",False,-1,5.0,IA
+"101 E Lincolnway St, Jefferson, IA 50129",restaurants,Jefferson,23.53914569534669,42.0149955749512,-94.3745574951172,Peony Chinese Restaurant,7,"Bayard, IA",False,1,5.0,IA
+"1205 Hwy 30, Ste A, Carroll, IA 51401",restaurants,Carroll,36.44790103152078,42.07424,-94.88097,Napoli's Italian Restaurant - Carroll,12,"Bayard, IA",False,2,4.5,IA
+"104 S 3rd St, Guthrie Center, IA 50115",restaurants,Guthrie Center,19.981448882289605,41.6770668,-94.5043869,LaVilla Mexican Restaurant,3,"Bayard, IA",False,-1,4.5,IA
+"901 N Elm St, Jefferson, IA 50129",restaurants,Jefferson,24.090274500479566,42.0254704356194,-94.3775595724583,Bett & Bev's Bbq,3,"Bayard, IA",False,1,4.0,IA
+"120 N Division St, Audubon, IA 50025",restaurants,Audubon,34.58067382368483,41.7243118286133,-94.9377670288086,Chatterbox Cafe,10,"Bayard, IA",False,1,4.0,IA
+"108 W State St, Jefferson, IA 50129",restaurants,Jefferson,23.632536157991634,42.0162768,-94.3749085,Uptown Cafe,11,"Bayard, IA",False,1,4.0,IA
+"411 2nd St, Dedham, IA 51440",restaurants,Dedham,22.909010813627642,41.90824,-94.82299,Donna's Cafe,1,"Bayard, IA",False,-1,5.0,IA
+"127 E St, Glidden, IA 51443",restaurants,Glidden,27.45864837460062,42.063891051663,-94.7278758510947,Las Margaritas,5,"Bayard, IA",False,-1,5.0,IA
+"1409 N Elm St, Jefferson, IA 50129",restaurants,Jefferson,24.53032931271266,42.0282399,-94.3770399,Casa De Oro,7,"Bayard, IA",False,1,4.5,IA
+"108 W Main St, Panora, IA 50216",restaurants,Panora,23.935384314620368,41.6916,-94.36482,Los Altos Mexican Restaurant - Panora,1,"Bayard, IA",False,-1,5.0,IA
+"4010 1st St, Hamlin, IA 50117",restaurants,Hamlin,35.60187505245757,41.6660561568077,-94.9057954593164,Darrel's Place,13,"Bayard, IA",False,1,4.0,IA

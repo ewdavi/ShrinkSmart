@@ -1,0 +1,13 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"508 W Main St, Waukon, IA 52172",restaurant,Waukon,0.4422299006051259,43.2690200805664,-91.4824600219727,Gus & Tony's Pizza & Steak House,9,"Waukon, IA",False,1,4.0,IA
+"78 16th Ave NW, Waukon, IA 52172",restaurant,Waukon,2.239328156306928,43.28807,-91.47078,Green Valley Getaway,1,"Waukon, IA",False,2,5.0,IA
+"13 W Main St, Waukon, IA 52172",restaurant,Waukon,0.10897923750555737,43.2695099,-91.47623,S & D Cafe,3,"Waukon, IA",False,-1,4.5,IA
+"9 E Main St, Waukon, IA 52172",restaurant,Waukon,0.1602495330060476,43.269153,-91.475098,Fiesta Vallarta,8,"Waukon, IA",False,1,5.0,IA
+"927 W Main St, Waukon, IA 52172",restaurant,Waukon,0.9510168874647748,43.2694210817424,-91.488677971065,Jets Meats and Cafe,1,"Waukon, IA",False,-1,5.0,IA
+"9 Spring Ave, Waukon, IA 52172",restaurant,Waukon,0.049171528426810045,43.2690058562425,-91.4774060463536,Yen Hing Dragon,4,"Waukon, IA",False,2,4.5,IA
+"927 W Main, Waukon, IA 52172",restaurant,Waukon,0.9503379422421947,43.2695503,-91.4886475,Cynda's Westside Cafe,1,"Waukon, IA",False,-1,5.0,IA
+"39 W Main St, Waukon, IA 52172",restaurant,Waukon,0.09438931993455488,43.26952,-91.47727,Waukon City Club Bar And Grill,1,"Waukon, IA",False,-1,1.0,IA
+"38 W Main St, Waukon, IA 52172",restaurant,Waukon,0.03911871637766583,43.268970489502,-91.4773025512695,The Main Feature Theatre & Pizza Pub,2,"Waukon, IA",False,2,5.0,IA
+"516 Rossville Rd, Waukon, IA 52172",restaurant,Waukon,0.5397693791489804,43.2643165588379,-91.4739990234375,Caseys Carry Out Pizza,3,"Waukon, IA",False,-1,4.5,IA
+"503 Rossville Rd, Waukon, IA 52172",restaurant,Waukon,0.4586946159647352,43.26473,-91.47492,Hardee's,2,"Waukon, IA",False,1,5.0,IA
+"202 Rossville Rd, Waukon, IA 52172",restaurant,Waukon,0.23598434815062352,43.2674637,-91.4753418,Subway,2,"Waukon, IA",False,-1,4.0,IA

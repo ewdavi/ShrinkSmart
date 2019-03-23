@@ -1,0 +1,19 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2719 Grand Ave, Ames, IA 50010",pharmacy,Ames,48.05592275395543,42.048965,-93.621231,Walgreens,5,"Webster City, IA",False,2,4.5,IA
+"621 Broad St, Story City, IA 50248",pharmacy,Story City,35.00717172778608,42.1874122619629,-93.5947952270508,Story City Pharmacy,1,"Webster City, IA",False,2,3.0,IA
+"2709 Northridge Pkwy, Ames, IA 50014",pharmacy,Ames,47.43828681522947,42.04878,-93.64585,Somerset Pharmacy,2,"Webster City, IA",False,1,4.5,IA
+"400 N Elm St, Jefferson, IA 50129",pharmacy,Jefferson,67.15935591964082,42.0185279846191,-94.377815246582,Medicap Pharmacy,1,"Webster City, IA",False,2,5.0,IA
+"3800 Lincoln Way, Ames, IA 50014",pharmacy,Ames,49.669285269536275,42.022618,-93.671955,Hy-Vee,14,"Webster City, IA",False,2,3.5,IA
+"640 Lincoln Way, Ames, IA 50010",pharmacy,Ames,51.15621299136293,42.0227623,-93.6194763,Hy-Vee Food Stores - west ames,12,"Webster City, IA",False,2,4.0,IA
+"106 W Washington St, Ste 1, Jefferson, IA 50129",pharmacy,Jefferson,66.99738743614388,42.018784,-94.375459,Hy-Vee Food Store,3,"Webster City, IA",False,-1,5.0,IA
+"840 S Oak St, Iowa Falls, IA 50126",pharmacy,Iowa Falls,45.85271075218569,42.50297,-93.26228,Clinic Pharmacy,1,"Webster City, IA",False,-1,3.0,IA
+"640 Lincoln Way, Ames, IA 50010",pharmacy,Ames,51.15621299136293,42.0227623,-93.6194763,Hy-Vee Pharmacies,1,"Webster City, IA",False,1,1.0,IA
+"2420 Lincoln Way, Ames, IA 50014",pharmacy,Ames,50.144763957153245,42.0225123272262,-93.6499174343586,CVS Pharmacy,1,"Webster City, IA",False,-1,4.0,IA
+"640 Lincoln Way, Ames, IA 50010",pharmacy,Ames,51.15621299136293,42.0227623,-93.6194763,Hy-Vee Food & Drug Stores,1,"Webster City, IA",False,1,5.0,IA
+"310 Story St, Boone, IA 50036",pharmacy,Boone,44.48062534387403,42.05912,-93.8794999,Walgreens,1,"Webster City, IA",False,-1,3.0,IA
+"1602 Edgington Ave, Eldora, IA 50627",pharmacy,Eldora,59.47735781351425,42.3608818054199,-93.1032485961914,Medicap Pharmacy,1,"Webster City, IA",False,-1,4.0,IA
+"500 Main St, Ames, IA 50010",pharmacy,Ames,50.70001468211739,42.0248933074596,-93.6169910430908,Hy-Vee Drugstore,3,"Webster City, IA",False,3,4.0,IA
+"3036 1st Ave S, Fort Dodge, IA 50501",pharmacy,Fort Dodge,28.26407077783991,42.506465,-94.153936,Walmart Supercenter,3,"Webster City, IA",False,2,3.0,IA
+"534 S Duff Ave, Ames, IA 50010",pharmacy,Ames,51.89182860010649,42.0161278,-93.606957,Walmart Supercenter,14,"Webster City, IA",False,1,2.5,IA
+"2117 Philadelphia St, Ste 120, Ames, IA 50010",pharmacy,Ames,50.50053912137564,42.035831451416,-93.5840148925781,Choice Medical,2,"Webster City, IA",False,3,2.0,IA
+"305 Airport Rd., Ames, IA 50010",pharmacy,Ames,53.156686926071735,42.00249,-93.61364,Sam's Club,5,"Webster City, IA",False,2,4.0,IA

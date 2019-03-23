@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"147 S Main St, Osceola, IA 50213",optometrist,Osceola,15.416637664759005,41.0335731506348,-93.7653656005859,Osceola Vision Center,2,"Murray, IA",False,-1,1.0,IA
+"9250 University Ave, Ste 110, West Des Moines, IA 50266",optometrist,West Des Moines,62.81316641303237,41.6003351,-93.8160694,Elite Eye Care,13,"Murray, IA",False,-1,4.5,IA
+"1551 Valley West Dr, Ste 242, West Des Moines, IA 50266",optometrist,West Des Moines,64.04234522114318,41.597501,-93.749512,Huseman Eye Care,10,"Murray, IA",False,-1,4.5,IA
+"700 Locust St, Ste 305, Des Moines, IA 50309",optometrist,Des Moines,66.28620612419553,41.58615,-93.6266799,"Jeffrey Koenen, OD - Dsmeye-Skywalk",3,"Murray, IA",False,2,5.0,IA
+"4660 86th St, Urbandale, IA 50322",optometrist,Urbandale,69.4362631734253,41.6448316610064,-93.7365401730666,Advanced Eyecare Center,3,"Murray, IA",False,-1,5.0,IA
+"5075 E University Ave, Ste C, Pleasant Hill, IA 50327",optometrist,Pleasant Hill,71.97507095311968,41.6004564,-93.5145763,Eye Care Of Iowa PC - Pleasant Hill,5,"Murray, IA",False,-1,3.5,IA
+"200 Army Post Rd, Ste 16, Des Moines, IA 50315",optometrist,Des Moines,60.49569469764085,41.52572,-93.61866,Eye Care of Iowa -South Des Moines,3,"Murray, IA",False,-1,4.5,IA
+"2405 Ingersoll Ave, Des Moines, IA 50312",optometrist,Des Moines,65.49974394447825,41.58603,-93.65005,Vogue Vision,10,"Murray, IA",False,2,4.0,IA
+"3800 Merle Hay Rd, Ste 407, Des Moines, IA 50310",optometrist,Des Moines,68.67491547324869,41.6295475512743,-93.6978703737259,Huseman Eye Care,3,"Murray, IA",False,-1,5.0,IA
+"1350 E Hickman Rd, Waukee, IA 50263",optometrist,Waukee,64.26473266132679,41.614217012383,-93.8469657611114,Insight Vision,2,"Murray, IA",False,-1,5.0,IA
+"6200 Westown Pkwy, West Des Moines, IA 50266",optometrist,West Des Moines,62.73641314011749,41.5935096,-93.7944446,Wolfe Eye Clinic - Des Moines,8,"Murray, IA",False,-1,4.5,IA
+"6305 Mills Civic Pkwy, Ste 3113, West Des Moines, IA 50266",optometrist,West Des Moines,59.271910552814035,41.561815,-93.795584,LasikPlus Vision Center,17,"Murray, IA",False,-1,4.5,IA
+"2001 Westown Pkwy, Ste 205, West Des Moines, IA 50265",optometrist,West Des Moines,64.56078909428494,41.598824,-93.732787,Valley Optical Shoppes,3,"Murray, IA",False,-1,5.0,IA
+"2600 Grand Ave 202, Ste 202, Des Moines, IA 50312",optometrist,Des Moines,65.23022092280026,41.583854,-93.651684,Des Moines Eye Care,3,"Murray, IA",False,-1,5.0,IA
+"640 S 50th St, West Des Moines, IA 50265",optometrist,West Des Moines,59.584876058686646,41.5600331,-93.7696884,Vision Park Family Eye Care,3,"Murray, IA",False,-1,2.5,IA
+"1905 Ep True Pkwy, West Des Moines, IA 50265",optometrist,West Des Moines,61.76417816463304,41.5716278,-93.7330924,Eye Care Of Iowa PC - West Des Moines,4,"Murray, IA",False,-1,3.0,IA
+"7205 Mills Civic Pkwy, West Des Moines, IA 50266",optometrist,West Des Moines,59.20438788472395,41.56269,-93.8055399,"Gannon Patrick,o.d",1,"Murray, IA",False,-1,5.0,IA
+"2699 86th St, Urbandale, IA 50322",optometrist,Urbandale,66.56201022355982,41.618146,-93.735617,Vision Park Family Eye Care,2,"Murray, IA",False,2,5.0,IA
+"1250 NW 128th St, Ste 150, Clive, IA 50325",optometrist,Clive,63.63089920399232,41.601813,-93.794989,Snodgrass Family Eyecare,1,"Murray, IA",False,-1,5.0,IA
+"6630 Mills Civic Pkwy, Ste 6120, West Des Moines, IA 50266",optometrist,West Des Moines,59.1534780661472,41.561324,-93.799231,StylEyes West Des Moines,3,"Murray, IA",False,-1,3.5,IA

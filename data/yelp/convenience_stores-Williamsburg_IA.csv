@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"333 E Evans St, Williamsburg, IA 52361",convenience stores,Williamsburg,2.0183276641603656,41.690616607666,-92.0067596435547,Colony Point,7,"Williamsburg, IA",False,2,2.0,IA
+"103 1st St S, Kalona, IA 52247",convenience stores,Kalona,32.351656115132634,41.4879612,-91.7144299,Westside Petro,1,"Williamsburg, IA",False,-1,1.0,IA
+"595 N Kansas Ave, North Liberty, IA 52317",convenience stores,North Liberty,32.15642616725232,41.7518738995775,-91.6373358272106,Casey's General Store,6,"Williamsburg, IA",False,1,3.0,IA
+"380 33rd Ave SW, Cedar Rapids, IA 52404",convenience stores,Cedar Rapids,41.27305784650278,41.94536,-91.67242,Casey's General Store,4,"Williamsburg, IA",False,1,3.0,IA
+"501 7th Ave SE, Cedar Rapids, IA 52410",convenience stores,Cedar Rapids,44.47584153701975,41.97551,-91.65963,Benz Beverage Depot,11,"Williamsburg, IA",False,2,4.5,IA
+"610 N Kansas Ave, North Liberty, IA 52317",convenience stores,North Liberty,32.26277994845903,41.75308,-91.63639,Kum & Go,5,"Williamsburg, IA",False,1,3.5,IA
+"121 5th St, Kalona, IA 52247",convenience stores,Kalona,32.87440403559226,41.48283,-91.70643,Kalona General Store,1,"Williamsburg, IA",False,-1,5.0,IA
+"20 Wilson Ave SW, Cedar Rapids, IA 52404",convenience stores,Cedar Rapids,43.00819743976578,41.9568099975586,-91.6585540771484,Hy-Vee Food Stores,7,"Williamsburg, IA",False,3,4.5,IA
+"615 Westwood Dr, North Liberty, IA 52317",convenience stores,North Liberty,34.149980797452734,41.740505,-91.608398,Fareway Stores,13,"Williamsburg, IA",False,2,4.0,IA
+"235 Edgewood Rd NW, Cedar Rapids, IA 52405",convenience stores,Cedar Rapids,41.49909803895514,41.97423,-91.71541,JJ's Convenience Store,2,"Williamsburg, IA",False,-1,2.5,IA
+"4220 16th Ave SW, Cedar Rapids, IA 52404",convenience stores,Cedar Rapids,40.07937199082276,41.9647941589355,-91.7267074584961,Fareway Stores,5,"Williamsburg, IA",False,4,3.5,IA
+"9125 Atlantic Dr SW, Cedar Rapids, IA 52404",convenience stores,Cedar Rapids,36.68877152440461,41.891315,-91.678764,Casey's General Store,7,"Williamsburg, IA",False,2,2.0,IA
+"2751 Heartland Dr, Coralville, IA 52241",convenience stores,Coralville,33.40411871855642,41.70104,-91.60947,Walgreens,4,"Williamsburg, IA",False,2,3.5,IA
+"2750 Heartland Dr, Coralville, IA 52241",convenience stores,Coralville,33.28002490536212,41.70011,-91.61049,Aldi,9,"Williamsburg, IA",False,-1,3.0,IA
+"900 W Penn St, North Liberty, IA 52317",convenience stores,North Liberty,34.329454927508536,41.753002166748,-91.6105422973633,Liberty Hardware Ld Express,4,"Williamsburg, IA",False,2,2.5,IA
+"1 Hawkeye Dr, North Liberty, IA 52317",convenience stores,North Liberty,34.12328828537616,41.7341399,-91.60712,Gasby's BP,1,"Williamsburg, IA",False,-1,5.0,IA
+"4825 Johnson Ave NW, Cedar Rapids, IA 52405",convenience stores,Cedar Rapids,40.051120861290336,41.96759,-91.7329,Hy-Vee Drugstore,3,"Williamsburg, IA",False,1,3.5,IA
+"2600 Holiday Rd, Coralville, IA 52241",convenience stores,Coralville,33.56453852963549,41.70015,-91.60744,Kum & Go,2,"Williamsburg, IA",False,2,3.5,IA
+"4830 Johnson Ave NW, Cedar Rapids, IA 52405",convenience stores,Cedar Rapids,40.12833046385339,41.9686088562012,-91.7335357666016,Hawkeye Convenience Stores,1,"Williamsburg, IA",False,-1,2.0,IA
+"625 W Zeller St, North Liberty, IA 52317",convenience stores,North Liberty,34.29818554475981,41.744735,-91.608146,Casey's General Store,3,"Williamsburg, IA",False,-1,2.5,IA

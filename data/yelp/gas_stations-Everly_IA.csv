@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"800 S Grand Ave, Spencer, IA 51301",gas stations,Spencer,14.849525822353117,43.1300392150879,-95.1432952880859,Casey's Carry Out Pizza,1,"Everly, IA",False,-1,5.0,IA
+"215 S Rerick Ave, Primghar, IA 51245",gas stations,Primghar,25.985326496319992,43.086071032491,-95.6246391404494,Shortee's Pit Stop,2,"Everly, IA",False,1,3.5,IA
+"1802 Hwy 71 N, Okoboji, IA 51355",gas stations,Okoboji,30.15772191707251,43.3918991,-95.1264035,Casey's General Store,3,"Everly, IA",False,-1,3.5,IA
+"300 18th St, Spirit Lake, IA 51360",gas stations,Spirit Lake,34.440095458990804,43.4226064,-95.0940079,Kum & Go,2,"Everly, IA",False,-1,2.5,IA
+"1401 18th St, Spirit Lake, IA 51360",gas stations,Spirit Lake,33.71275007927918,43.4224751,-95.1108594,Towing-Jennings Tow & Repair,2,"Everly, IA",False,-1,4.5,IA
+"202 W Southern St, Sutherland, IA 51058",gas stations,Sutherland,25.851714355084347,42.9681664,-95.4985123,Car-Go Express/Convenience Store,2,"Everly, IA",False,-1,3.0,IA

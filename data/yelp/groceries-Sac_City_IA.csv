@@ -1,0 +1,16 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1250 Lake Ave, Ste 2, Storm Lake, IA 50588",groceries,Storm Lake,30.60354415546301,42.653289,-95.201187,Hy-Vee Food Stores,1,"Sac City, IA",False,-1,5.0,IA
+"905 W US Highway 30, Carroll, IA 51401",groceries,Carroll,40.30969341506217,42.070358,-94.877676,Hy-Vee,3,"Sac City, IA",False,-1,5.0,IA
+"Highway 71 & # 175, Ste 175, Lake View, IA 51450",groceries,Lake View,13.06914031064235,42.311161,-95.0327835,Sparky's One Stop-Lake View,1,"Sac City, IA",False,-1,3.0,IA
+"106 W Washington St, Ste 1, Jefferson, IA 50129",groceries,Jefferson,68.22148539181354,42.0172829926014,-94.3750040978193,Hy-Vee Food Store,3,"Sac City, IA",False,-1,5.0,IA
+"6903 Twin Lakes Rd, Rockwell City, IA 50579",groceries,Rockwell City,30.13114438543219,42.4738769620254,-94.6373626962304,Twin Lakes Grocery & Grill,1,"Sac City, IA",False,2,5.0,IA
+"201 Idaho St, Glidden, IA 51443",groceries,Glidden,46.20630405108266,42.0568771362305,-94.7292327880859,Glidden Grocery,1,"Sac City, IA",False,-1,5.0,IA
+"319 Court St, Rockwell City, IA 50579",groceries,Rockwell City,30.166708368714264,42.39452,-94.63245,Jubilee Foods,1,"Sac City, IA",False,2,3.0,IA
+"1119 Market St, Gowrie, IA 50543",groceries,Gowrie,60.29712121743,42.2802391052246,-94.2894515991211,Jamboree Foods,1,"Sac City, IA",False,-1,5.0,IA
+"924 4th Ave S, Denison, IA 51442",groceries,Denison,54.39590848427218,42.012718,-95.359718,Jaliscence #2,1,"Sac City, IA",False,-1,4.0,IA
+"1300 N 2nd St, Cherokee, IA 51012",groceries,Cherokee,59.26847703617394,42.76549,-95.55141,Hy-Vee Food Stores,1,"Sac City, IA",False,3,3.0,IA
+"205 W Bluff St, Cherokee, IA 51012",groceries,Cherokee,58.518524670019616,42.7542419433594,-95.5518951416016,Fareway Stores,1,"Sac City, IA",False,2,4.0,IA
+"101 Highway 141, Bayard, IA 50029",groceries,Bayard,73.37165353758829,41.8486947566271,-94.5515504479408,Sparky's One Stop,1,"Sac City, IA",False,-1,5.0,IA
+"1831 Lake Ave, Storm Lake, IA 50588",groceries,Storm Lake,31.504594929646384,42.664124,-95.1970284,Walmart Supercenter,1,"Sac City, IA",False,2,1.0,IA
+"210 N 1st St, Laurens, IA 50554",groceries,Laurens,49.079113350054065,42.8493256,-94.8485775,World Kitchens,1,"Sac City, IA",False,-1,3.0,IA
+"4902 460th Ave, Mallard, IA 50562",groceries,Mallard,63.008110147892836,42.9375038146973,-94.6783142089844,Sparky's One Stop-Mallard,1,"Sac City, IA",False,-1,5.0,IA

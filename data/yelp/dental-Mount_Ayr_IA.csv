@@ -1,0 +1,4 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"231 E Summit Dr, Maryville, MO 64468",dental,Maryville,69.12568172026246,40.32015,-94.87268,Compass Dental Group,1,"Mount Ayr, IA",False,-1,5.0,MO
+"307 W Clay St, Albany, MO 64402",dental,Albany,52.40475748406364,40.2479449,-94.3338104,Schneider Thomas C DDS,1,"Mount Ayr, IA",False,-1,1.0,MO
+"105 E Harrison St, Albany, MO 64402",dental,Albany,52.56965845151713,40.2463048696518,-94.3315556645393,Schneider Thomas C DDS,1,"Mount Ayr, IA",False,-1,1.0,MO

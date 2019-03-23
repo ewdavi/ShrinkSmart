@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"205 Davis St, Batavia, IA 52533",restaurant,Batavia,0.4216241442239932,40.99935,-92.16694,Puzzles Bakery and Diner,1,"Batavia, IA",False,-1,4.0,IA
+"332 E Main St, Ottumwa, IA 52501",restaurant,Ottumwa,20.522795522056253,41.0154508952562,-92.4095363169909,Appanoose Rapids,64,"Batavia, IA",False,2,4.0,IA
+"1839 200th St, Fairfield, IA 52556",restaurant,Fairfield,12.749877669781192,41.01797,-92.01731,Jefferson County Ciderworks,6,"Batavia, IA",False,1,5.0,IA
+"518 Church St, Ottumwa, IA 52501",restaurant,Ottumwa,21.262484624068403,41.0087199,-92.41915,Uncle Buck's Bar & Grill,5,"Batavia, IA",False,2,5.0,IA
+"115 4th St, Eldon, IA 52554",restaurant,Eldon,9.882039732829304,40.917781,-92.222947,Chommy's,1,"Batavia, IA",False,-1,5.0,IA
+"80 N Main St, Fairfield, IA 52556",restaurant,Fairfield,17.065031165038747,41.0083008792767,-91.9636969987048,The Copper Moon Cafe,3,"Batavia, IA",False,-1,5.0,IA
+"419 Elm St, Eldon, IA 52554",restaurant,Eldon,9.8368895954429,40.9182062745094,-92.2223550081253,Cindys Cafe,1,"Batavia, IA",False,-1,3.0,IA
+"116 N Main St, Fairfield, IA 52556",restaurant,Fairfield,17.02637446501404,41.00825,-91.96415,Ila,46,"Batavia, IA",False,2,4.0,IA
+"436 W 2nd St, Ottumwa, IA 52501",restaurant,Ottumwa,21.20499968699208,41.02194,-92.41673,Morgan's Corner,10,"Batavia, IA",False,-1,4.5,IA
+"112 North Market St, Ottumwa, IA 52501",restaurant,Ottumwa,20.625797261027813,41.0180065069916,-92.4103892795087,Tequila Grill,27,"Batavia, IA",False,2,4.5,IA
+"1112 Granville Ave, Fairfield, IA 52556",restaurant,Fairfield,17.284859913492934,41.023415,-91.963667,Golden Dome Market & Cafe,2,"Batavia, IA",False,3,5.0,IA
+"112 E 2nd St, Ottumwa, IA 52501",restaurant,Ottumwa,20.755952173312412,41.0180850897873,-92.4119392409921,Canteen Lunch In the Alley,74,"Batavia, IA",False,1,4.5,IA
+"323 E Main St, Ottumwa, IA 52501",restaurant,Ottumwa,20.574680767555662,41.01589,-92.40938,Red Sea Eritrean and Ethiopian Restaurant,2,"Batavia, IA",False,-1,3.0,IA
+"102 W Main St, Drakesville, IA 52552",restaurant,Drakesville,34.378951125112984,40.79899,-92.48193,Ray's Longbranch,3,"Batavia, IA",False,-1,4.5,IA
+"331 E Main St, Ottumwa, IA 52501",restaurant,Ottumwa,20.49359526470349,41.015454638143,-92.4091857937619,Market On Main,1,"Batavia, IA",False,-1,5.0,IA
+"2094 185 Th St, Ste 22, Fairfield, IA 52556",restaurant,Fairfield,17.134420634686673,41.03812,-91.96944,Sabi's Cafe,5,"Batavia, IA",False,2,5.0,IA
+"117 N Court St, Fairfield, IA 52556",restaurant,Fairfield,17.18167126289919,41.0082532,-91.9622973,Sweet And Saucy,28,"Batavia, IA",False,1,4.5,IA
+"53 E Broadway, Fairfield, IA 52556",restaurant,Fairfield,17.131395096566703,41.0079231262207,-91.962890625,Amore Mio Ristorante Italiano,18,"Batavia, IA",False,2,3.0,IA
+"101 W Broadway Ave, Fairfield, IA 52556",restaurant,Fairfield,17.041003283771236,41.00781,-91.96404,Shokai Sushi,33,"Batavia, IA",False,2,3.5,IA
+"508 E 6th St, Hedrick, IA 52563",restaurant,Hedrick,23.14999110133192,41.1766278307459,-92.3030388727784,Pigtail Charlies Diner,1,"Batavia, IA",False,-1,2.0,IA

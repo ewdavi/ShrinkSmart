@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"106 E Washington Ave, Fairfield, IA 52556",dental,Fairfield,44.87017317182323,41.0053787,-91.9615402,Holt Family Dental Care,1,"Farmington, IA",False,-1,5.0,IA
+"3327 Main St, Keokuk, IA 52632",dental,Keokuk,37.40076072226292,40.4181442260742,-91.4049301147461,Buffalo Prairie Dental Care,1,"Farmington, IA",False,-1,5.0,IA
+"401 S Gear Ave, West Burlington, IA 52655",dental,West Burlington,52.06996045095919,40.8221844674038,-91.1704704165459,Aspen Dental,3,"Farmington, IA",False,-1,1.0,IA
+"1804 E Washington St, Dental Specialists Of Lowa Building, Mount Pleasant, IA 52641",dental,Mount Pleasant,40.00030629631054,40.9606325211969,-91.5269516093459,Orthodontic Associates of Iowa,1,"Farmington, IA",False,-1,1.0,IA
+"1727 Deer Run Dr, Burlington, IA 52601",dental,Burlington,54.975995007473905,40.8268881,-91.1356592,"Mary Schilling McManis, DDS",2,"Farmington, IA",False,-1,3.5,IA
+"1255 Theatre Dr, Ottumwa, IA 52501",dental,Ottumwa,72.43127967195146,41.0190594595852,-92.4378921613015,Aspen Dental,3,"Farmington, IA",False,-1,4.0,IA
+"1605 Ave E, Fort Madison, IA 52627",dental,Fort Madison,34.78921132443562,40.6334851,-91.3267874,"Paul S Kunch, DDS",3,"Farmington, IA",False,-1,1.0,IA
+"1225 S Gear Ave, Ste 156, West Burlington, IA 52655",dental,West Burlington,51.558925185149626,40.809413,-91.172286,"Raymond F Roewe, DDS",3,"Farmington, IA",False,-1,3.5,IA
+"727 Pennsylvania Ave, Ottumwa, IA 52501",dental,Ottumwa,70.23733821676588,41.0275854300932,-92.3969004303217,Patritto Orthodontics,3,"Farmington, IA",False,-1,2.5,IA
+"1317 N Elm St, Ottumwa, IA 52501",dental,Ottumwa,70.35149701413552,41.02792,-92.3978,Gillespie Dennis M Dr DDS,1,"Farmington, IA",False,-1,1.0,IA

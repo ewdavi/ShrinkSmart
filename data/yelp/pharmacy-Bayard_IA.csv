@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"400 N Elm St, Jefferson, IA 50129",pharmacy,Jefferson,23.66686687781681,42.0185279846191,-94.377815246582,Medicap Pharmacy,1,"Bayard, IA",False,2,5.0,IA
+"106 W Washington St, Ste 1, Jefferson, IA 50129",pharmacy,Jefferson,23.81942226148271,42.018784,-94.375459,Hy-Vee Food Store,3,"Bayard, IA",False,-1,5.0,IA
+"628 Nile Kinnick Dr, Ste 1, Adel, IA 50003",pharmacy,Adel,52.1477441479111,41.6108,-94.01723,Sumpter Pharmacy and Wellness,1,"Bayard, IA",False,1,5.0,IA
+"120 N 1st Ave, Winterset, IA 50273",pharmacy,Winterset,73.047041533149,41.33513,-94.01465,Montross Pharmacy,8,"Bayard, IA",False,1,4.0,IA
+"1215 141st St, Perry, IA 50220",pharmacy,Perry,37.544491870475525,41.82892,-94.10262,Hy-Vee Food Store,2,"Bayard, IA",False,-1,4.0,IA
+"317 Main St, Manning, IA 51455",pharmacy,Manning,42.5874046259168,41.9084,-95.06523,Manning Pharmacy,3,"Bayard, IA",False,-1,3.5,IA
+"4900 Mills Civic Pkwy, West Des Moines, IA 50265",pharmacy,West Des Moines,73.02394401120408,41.55856,-93.77,Walgreens,6,"Bayard, IA",False,2,3.5,IA
+"12753 University Ave, Clive, IA 50325",pharmacy,Clive,69.22204080296801,41.600944519043,-93.7936019897461,Walgreens,8,"Bayard, IA",False,2,2.5,IA
+"113 N 9th St, Adel, IA 50003",pharmacy,Adel,51.67531658405862,41.61781,-94.01908,Adel Healthmart,1,"Bayard, IA",False,2,5.0,IA
+"401 Washington Street, Fontanelle, IA 50846",pharmacy,Fontanelle,62.59662466658093,41.28947,-94.56254,Fontanelle Drug,1,"Bayard, IA",False,1,5.0,IA
+"14201 Hickman Rd, Urbandale, IA 50323",pharmacy,Urbandale,66.9233705414878,41.615756,-93.814961,CVS Pharmacy,3,"Bayard, IA",False,-1,3.5,IA
+"120 N 1st Ave, Winterset, IA 50273",pharmacy,Winterset,73.047041533149,41.33513,-94.01465,Montross Health Mart Pharmacy,1,"Bayard, IA",False,-1,5.0,IA
+"1541 SE 3rd St, Grimes, IA 50111",pharmacy,Grimes,67.11216248492313,41.687271,-93.778274,"Hy-Vee, Inc.",1,"Bayard, IA",False,2,5.0,IA
+"15601 Hickman Rd, Clive, IA 50325",pharmacy,Clive,65.45243947034622,41.61548,-93.83437,Walgreens,3,"Bayard, IA",False,-1,2.5,IA
+"310 Story St, Boone, IA 50036",pharmacy,Boone,60.540718986822064,42.05912,-93.8794999,Walgreens,1,"Bayard, IA",False,-1,3.0,IA
+"1010 60th St, West Des Moines, IA 50266",pharmacy,West Des Moines,70.13132125994144,41.584968,-93.791191,Hy-Vee Food Stores,1,"Bayard, IA",False,2,4.0,IA
+"250 SE Gateway Dr, Grimes, IA 50111",pharmacy,Grimes,66.92554270183835,41.68721,-93.78069,Medicap Pharmacy,1,"Bayard, IA",False,2,3.0,IA
+"555 S 51st St, West Des Moines, IA 50265",pharmacy,West Des Moines,72.60246815374688,41.56066,-93.77455,Hy-Vee Pharmacies,1,"Bayard, IA",False,-1,2.0,IA
+"5405 Mills Civic Pkwy, West Des Moines, IA 50266",pharmacy,West Des Moines,72.14916201919068,41.56132,-93.77983,Target,16,"Bayard, IA",False,2,3.5,IA
+"1010 60th St, West Des Moines, IA 50266",pharmacy,West Des Moines,70.13132125994144,41.584968,-93.791191,Hy-Vee Drugstore,2,"Bayard, IA",False,-1,4.0,IA

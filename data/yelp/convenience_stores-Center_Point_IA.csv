@@ -1,0 +1,10 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"696 Grain Ln, Center Point, IA 52213",convenience stores,Center Point,1.104760450113336,42.1726767669282,-91.7772366175361,Center Point Travel Plaza,4,"Center Point, IA",False,2,3.5,IA
+"3445 County Home Rd, Cedar Rapids, IA 52411",convenience stores,Cedar Rapids,11.829214422262593,42.09436,-91.6988499,Otter Creek Country Stores,6,"Center Point, IA",False,2,3.0,IA
+"105 S Main Ave, Alburnett, IA 52202",convenience stores,Alburnett,13.59618696561177,42.1480522155762,-91.6189041137695,Co-Op Convenience Store,1,"Center Point, IA",False,-1,5.0,IA
+"975 Robins Rd, Hiawatha, IA 52233",convenience stores,Hiawatha,17.350056670541562,42.04731,-91.6724799,Hawkeye Convenience Store,1,"Center Point, IA",False,2,5.0,IA
+"975 Robins Rd, Hiawatha, IA 52233",convenience stores,Hiawatha,17.350056670541562,42.04731,-91.6724799,Hawkeye Convenience Store Hiawatha,1,"Center Point, IA",False,-1,1.0,IA
+"505 Boyson Rd NE, Cedar Rapids, IA 52402",convenience stores,Cedar Rapids,18.955014153205244,42.04618,-91.63914,Hy-Vee Drugstore,1,"Center Point, IA",False,-1,4.0,IA
+"680 Lindale Dr, Marion, IA 52302",convenience stores,Marion,20.895056742314114,42.03393,-91.6218,Guppy's on the Go,1,"Center Point, IA",False,-1,3.0,IA
+"2020 7th Ave, Marion, IA 52302",convenience stores,Marion,22.63923605954073,42.03355,-91.59015,Casey's General Store,1,"Center Point, IA",False,-1,5.0,IA
+"2790 7th Ave, Marion, IA 52302",convenience stores,Marion,23.065996819537414,42.0336875915527,-91.5822525024414,Hy-Vee Drugstore,2,"Center Point, IA",False,-1,2.5,IA

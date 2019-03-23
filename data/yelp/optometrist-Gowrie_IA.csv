@@ -1,0 +1,20 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2701 Stange Rd, Ste 100, Ames, IA 50010",optometrist,Ames,58.79583697917652,42.0488891601562,-93.6454544067383,Eye Works,9,"Gowrie, IA",False,3,4.0,IA
+"201 10th St, Ames, IA 50010",optometrist,Ames,62.09400326399592,42.0313835144043,-93.6127166748047,Ames Eye Clinic,1,"Gowrie, IA",False,-1,5.0,IA
+"2020 Philadelphia St, Ames, IA 50010",optometrist,Ames,63.94113164555856,42.034884,-93.585403,Wolfe Eye Clinic- Ames,1,"Gowrie, IA",False,-1,5.0,IA
+"2634 Stange Rd, Ames, IA 50010",optometrist,Ames,58.8811085921419,42.048415,-93.644627,Pearle Vision,1,"Gowrie, IA",False,-1,5.0,IA
+"1310 SW State St, Ste A, Ankeny, IA 50023",optometrist,Ankeny,83.32648005457744,41.71697,-93.62046,"Eye Care Of Iowa, PC - Ankeny",6,"Gowrie, IA",False,-1,4.0,IA
+"Perry, IA 50220",optometrist,Perry,51.162057363536675,41.83855,-94.10552,Eye Care Associates,1,"Gowrie, IA",False,-1,1.0,IA
+"1128 Duff Ave, Ames, IA 50010",optometrist,Ames,62.18525456132106,42.0328941345215,-93.6097106933594,McFarland Clinic: Duff Avenue Eye Center,1,"Gowrie, IA",False,-1,4.0,IA
+"3600 Lincoln Way, Ames, IA 50014",optometrist,Ames,58.57509962666509,42.0218887329102,-93.6689910888672,McFarland Clinic - West Ames Eye Center,2,"Gowrie, IA",False,-1,1.0,IA
+"241 SE Destination Dr, Ste 100, Grimes, IA 50111",optometrist,Grimes,78.55232760646135,41.6871702895223,-93.7683864544922,Total Family Eye Care,3,"Gowrie, IA",False,-1,4.5,IA
+"819 Wheeler St, Ste 7, Northern Lights Ctr, Ames, IA 50010",optometrist,Ames,60.23621713751809,42.054980478225,-93.6222936374451,Whylie Eye Care Centers,1,"Gowrie, IA",False,4,1.0,IA
+"111 NW 9th St, Ankeny, IA 50023",optometrist,Ankeny,82.59861820624037,41.738376,-93.601897,Eyecare Associates of Ankeny,2,"Gowrie, IA",False,3,5.0,IA
+"270 W 1st St, Ste H, Grimes, IA 50111",optometrist,Grimes,77.2214652174673,41.6879959106445,-93.7968063354492,Precision Family Eyecare,1,"Gowrie, IA",False,-1,5.0,IA
+"1810 SW White Birch Cir, Ste 109, Ankeny, IA 50023",optometrist,Ankeny,84.33057171346788,41.7025099,-93.6244433,World Of Vision,1,"Gowrie, IA",False,-1,5.0,IA
+"311 N Ankeny Blvd, Ankeny, IA 50023",optometrist,Ankeny,83.04446934128461,41.73462,-93.59958,Ankeny Family Vision Center,4,"Gowrie, IA",False,3,4.0,IA
+"2135 SE Delaware Ave, Ankeny, IA 50021",optometrist,Ankeny,86.29532433555156,41.709546,-93.578042,Target Optical,3,"Gowrie, IA",False,2,5.0,IA
+"2409 SE Delaware Avenue, Suite 104, Ankeny, IA 50021",optometrist,Ankeny,86.47461246517568,41.70572,-93.58063,Vision4Less,3,"Gowrie, IA",False,-1,3.0,IA
+"2525 N Ankeny Blvd, Ankeny, IA 50023",optometrist,Ankeny,81.6199261819114,41.752121,-93.6000748,Child and Family Vision Center,1,"Gowrie, IA",False,-1,1.0,IA
+"1805 SE Delaware Ave, Ste 900, Ankeny, IA 50021",optometrist,Ankeny,86.01708069040042,41.711252,-93.580509,America's Best Contacts & Eyeglasses,5,"Gowrie, IA",False,2,2.0,IA
+"1128 Duff Ave, Ames, IA 50010",optometrist,Ames,62.18489993248508,42.0328712,-93.6104889,Duff Avenue Eye Center,1,"Gowrie, IA",False,-1,1.0,IA

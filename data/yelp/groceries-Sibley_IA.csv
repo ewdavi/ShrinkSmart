@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"407 9th St, Sibley, IA 51249",groceries,Sibley,0.3288699753554664,43.3990197,-95.7487786,Sibley Super Foods,1,"Sibley, IA",False,-1,4.0,IA
+"1235 Oxford St, Worthington, MN 56187",groceries,Worthington,28.32515843443462,43.6312603,-95.5965988,Hy-Vee Food Stores,7,"Sibley, IA",False,2,5.0,MN
+"926 3rd Ave, Sheldon, IA 51201",groceries,Sheldon,26.008055833908593,43.18065,-95.855107,La Mexicana,2,"Sibley, IA",False,1,3.5,IA
+"1989 Park St, Sheldon, IA 51201",groceries,Sheldon,24.779488762783377,43.1866469146535,-95.8315974888253,Hy-Vee,1,"Sibley, IA",False,2,5.0,IA
+"312 10th St, Worthington, MN 56187",groceries,Worthington,27.189526356632417,43.6197587102652,-95.5966068059206,Top Asian Food,4,"Sibley, IA",False,1,5.0,MN
+"219 Maine Ave, Adrian, MN 56110",groceries,Adrian,30.152358274286645,43.6343536376953,-95.9335403442383,Keith's Grocery & Bake Shoppe,1,"Sibley, IA",False,-1,5.0,MN
+"1500 18th St, Spirit Lake, IA 51360",groceries,Spirit Lake,51.10160352513451,43.4233436584473,-95.1131820678711,Hy-Vee Food Store,2,"Sibley, IA",False,1,2.5,IA
+"819 Grand Ave, Spencer, IA 51301",groceries,Spencer,56.05819283904261,43.14635,-95.14518,Hy-Vee Food Store,3,"Sibley, IA",False,-1,3.5,IA
+"255 - 16th St SW, Sioux Center, IA 51250",groceries,Sioux Center,51.7541036587552,43.0599433,-96.1806982,Walmart Supercenter,2,"Sibley, IA",False,2,2.0,IA
+"Milford, IA 51351",groceries,Milford,48.845515514837686,43.32851,-95.14999,Buy Rite Foods,1,"Sibley, IA",False,-1,3.0,IA
+"2048 Hwy 9, Spirit Lake, IA 51360",groceries,Spirit Lake,45.66713944761459,43.4309282368024,-95.181328599211,Vick's Corner,2,"Sibley, IA",False,3,2.5,IA
+"104 E 8th St, Spencer, IA 51301",groceries,Spencer,56.40702679024293,43.14573,-95.14325,Fareway Stores,1,"Sibley, IA",False,-1,5.0,IA
+"1012 Okoboji Ave, Milford, IA 51351",groceries,Milford,48.86284726781974,43.3253021240234,-95.1495513916016,Hy-Vee,1,"Sibley, IA",False,-1,3.0,IA
+"306 S Washington St, Remsen, IA 51050",groceries,Remsen,67.87068874127463,42.813446,-95.9734879,Majeres Foodtown,1,"Sibley, IA",False,2,5.0,IA
+"1055 Ryans Rd, Worthington, MN 56187",groceries,Worthington,28.693298065189264,43.636607946251,-95.6018016407837,Walmart Supercenter,3,"Sibley, IA",False,1,1.0,MN
+"810 Black Forest Rd, Hull, IA 51239",groceries,Hull,39.64419577449804,43.18564,-96.13571,Formosa Food Company,2,"Sibley, IA",False,2,3.5,IA
+"1906 Keokuk Ave, Spirit Lake, IA 51360",groceries,Spirit Lake,51.660391740113916,43.4216499,-95.106369,Fareway Stores,1,"Sibley, IA",False,-1,3.0,IA
+"115 1st Ave NW, Sioux Center, IA 51250",groceries,Sioux Center,50.147451506610324,43.0781517,-96.1771088,Fareway Stores,1,"Sibley, IA",False,1,4.0,IA
+"908 Highway 71 N, Jackson, MN 56143",groceries,Jackson,65.67930512075203,43.6283002048731,-94.9937266856432,Sunshine Foods,1,"Sibley, IA",False,-1,3.0,MN
+"500 11th St SW, Spencer, IA 51301",groceries,Spencer,56.92768114178893,43.1251313,-95.1524185,Walmart Supercenter,2,"Sibley, IA",False,-1,1.5,IA

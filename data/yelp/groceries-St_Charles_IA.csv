@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"910 N Jefferson Way, Indianola, IA 50125",groceries,Indianola,22.87407583046143,41.3685417175293,-93.5569915771484,Hy-Vee Food Stores,3,"St. Charles, IA",False,2,5.0,IA
+"719 W Hwy 92, Winterset, IA 50273",groceries,Winterset,17.464708349532312,41.3451703,-94.0038437,Fareway,3,"St. Charles, IA",False,1,2.5,IA
+"2002 Woodland Ave, Des Moines, IA 50312",groceries,Des Moines,35.956975950704845,41.58758,-93.64413,Gateway Market,159,"St. Charles, IA",False,2,4.0,IA
+"6305 Mills Civic Pkwy, West Des Moines, IA 50266",groceries,West Des Moines,30.380296636419356,41.56133,-93.795,Trader Joe's,65,"St. Charles, IA",False,2,4.5,IA
+"4605 Fleur Dr, Des Moines, IA 50321",groceries,Des Moines,31.399416798846925,41.5422271,-93.643077,Hy-Vee Food Stores,23,"St. Charles, IA",False,2,4.0,IA
+"6050 Mills Civic Pkwy, West Des Moines, IA 50266",groceries,West Des Moines,30.019443799844698,41.55847,-93.7924,Aldi,12,"St. Charles, IA",False,1,4.5,IA
+"510 W McLane St, Osceola, IA 50213",groceries,Osceola,29.02373886967049,41.0304851,-93.7723933,Hy-Vee Food Store,2,"St. Charles, IA",False,-1,3.0,IA
+"555 S 51st St, West Des Moines, IA 50265",groceries,West Des Moines,30.43070052649975,41.560661,-93.774551,Hy-Vee Food Stores,16,"St. Charles, IA",False,2,4.5,IA
+"923 N 1st St, Winterset, IA 50273",groceries,Winterset,18.10457217037979,41.3427363235029,-94.0132009366645,Hy-Vee Market Cafe,3,"St. Charles, IA",False,-1,3.5,IA
+"420 Court Ave, Des Moines, IA 50309",groceries,Des Moines,36.404627711628315,41.58461387468,-93.6220497511848,Hy-Vee,34,"St. Charles, IA",False,2,3.5,IA
+"1601 S Union St, Des Moines, IA 50315",groceries,Des Moines,35.78800333564276,41.575679,-93.614548,Graziano Bros,36,"St. Charles, IA",False,2,4.5,IA
+"433 5th St, West Des Moines, IA 50265",groceries,West Des Moines,32.937608609742625,41.575168,-93.70848,La Michoacana Mexican Groceries,7,"St. Charles, IA",False,1,5.0,IA
+"112 N Main St, Osceola, IA 50213",groceries,Osceola,28.380366471125583,41.03545,-93.76594,Pequena La,1,"St. Charles, IA",False,-1,4.0,IA
+"2400 College Dr, Osceola, IA 50213",groceries,Osceola,29.521677557691497,41.0232272,-93.8000331,Walmart Supercenter,2,"St. Charles, IA",False,2,5.0,IA
+"218 6th Ave, Ste 101, Des Moines, IA 50309",groceries,Des Moines,36.40427865861631,41.5856,-93.62475,Downtown Pantry,5,"St. Charles, IA",False,1,4.5,IA
+"923 North 1st St, Winterset, IA 50273",groceries,Winterset,18.14145725728611,41.3435698485485,-94.0132770314813,Hy-Vee,1,"St. Charles, IA",False,-1,1.0,IA
+"329 Grand Ave, West Des Moines, IA 50265",groceries,West Des Moines,33.78401398714745,41.582755073905,-93.7070804089308,Fareway Stores,3,"St. Charles, IA",False,2,5.0,IA
+"6365 Stagecoach Dr, West Des Moines, IA 50266",groceries,West Des Moines,30.008305568399106,41.55873,-93.79716,Walmart Supercenter,20,"St. Charles, IA",False,2,3.5,IA
+"2001 SE 6th St, Des Moines, IA 50315",groceries,Des Moines,35.58062587068346,41.5698165893555,-93.6049652099609,B & B Grocery Meat & Deli,65,"St. Charles, IA",False,1,4.5,IA
+"216 N Howard St, Indianola, IA 50125",groceries,Indianola,22.318376063228882,41.36213,-93.56066,Fareway Stores,1,"St. Charles, IA",False,-1,5.0,IA

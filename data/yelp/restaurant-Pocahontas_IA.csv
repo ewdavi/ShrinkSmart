@@ -1,0 +1,8 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"11 SW 7th St, Pocahontas, IA 50574",restaurant,Pocahontas,1.2828715326704212,42.732292175293,-94.6791915893555,Family Table of Pocahontas,3,"Pocahontas, IA",False,-1,3.5,IA
+"206 NW 7th St, Pocahontas, IA 50574",restaurant,Pocahontas,1.1184191363777816,42.73516,-94.67845,Udder Cow,1,"Pocahontas, IA",False,-1,5.0,IA
+"14155 510th St, Pocahontas, IA 50574",restaurant,Pocahontas,13.821973561767333,42.7475935220718,-94.8340433835983,Halderwood Farms,1,"Pocahontas, IA",False,-1,5.0,IA
+"211 N Main St, Pocahontas, IA 50574",restaurant,Pocahontas,0.41973316124789484,42.7347717285156,-94.6692962646484,Pizza Ranch,2,"Pocahontas, IA",False,2,2.5,IA
+"138 S 3rd St, Laurens, IA 50554",restaurant,Laurens,19.4702583312118,42.8459088,-94.851519,The TeaPot Cafe,1,"Pocahontas, IA",False,2,4.0,IA
+"130 N 3rd St, Laurens, IA 50554",restaurant,Laurens,19.545081484943665,42.84729,-94.85103,Pizza Ranch,1,"Pocahontas, IA",False,2,4.0,IA
+"605 W Elm Ave, Pocahontas, IA 50574",restaurant,Pocahontas,1.2063833722487398,42.732307434082,-94.6781158447266,Casey's Carry Out Pizza,1,"Pocahontas, IA",False,-1,3.0,IA

@@ -1,0 +1,8 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"224 E Main St, Ottumwa, IA 52501",optometrist,Ottumwa,20.66008817731503,41.0164558,-92.4108879,"Mark A Altfillisch, OD - The Optical Shoppe",1,"Batavia, IA",False,2,5.0,IA
+"605 S 10th Ave, Washington, IA 52353",optometrist,Washington,52.43216152252474,41.2938766479492,-91.6814727783203,Williams Ben Optometrist,1,"Batavia, IA",False,-1,5.0,IA
+"103 W Main St, New London, IA 52645",optometrist,New London,64.65550108084163,40.9255447387695,-91.4020080566406,McPheron Robert S Optometrist,2,"Batavia, IA",False,-1,5.0,IA
+"6584 165th St, Albia, IA 52531",optometrist,Albia,53.418818782799704,41.0447696596384,-92.7966447919607,Adler William R OD,1,"Batavia, IA",False,-1,1.0,IA
+"301 S Iowa Ave, Washington, IA 52353",optometrist,Washington,51.967949220591464,41.2971458435059,-91.6921768188477,Washington Eye Care Center,1,"Batavia, IA",False,-1,1.0,IA
+"1176 Commercial Dr, Riverside, IA 52327",optometrist,Riverside,75.32587408427172,41.4875740864398,-91.5468949824572,Iowa River Crossing,1,"Batavia, IA",False,-1,4.0,IA
+"125 N 13th St, Centerville, IA 52544",optometrist,Centerville,66.20347141988604,40.733363,-92.873098,International Eyecare Center,1,"Batavia, IA",False,-1,5.0,IA

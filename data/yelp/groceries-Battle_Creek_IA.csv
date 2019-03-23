@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1250 Lake Ave, Ste 2, Storm Lake, IA 50588",groceries,Storm Lake,49.595431227799274,42.653289,-95.201187,Hy-Vee Food Stores,1,"Battle Creek, IA",False,-1,5.0,IA
+"1201 12th Ave SW, Le Mars, IA 51031",groceries,Le Mars,70.20684813486426,42.77805,-96.18434,Hy-Vee Food Stores,3,"Battle Creek, IA",False,2,4.0,IA
+"924 4th Ave S, Denison, IA 51442",groceries,Denison,39.15743272104804,42.012718,-95.359718,Jaliscence #2,1,"Battle Creek, IA",False,-1,4.0,IA
+"3301 Gordon Dr, Sioux City, IA 51105",groceries,Sioux City,65.57328748053486,42.4888615778355,-96.3630928085523,Hy-Vee Gordon Dr,4,"Battle Creek, IA",False,2,5.0,IA
+"905 W US Highway 30, Carroll, IA 51401",groceries,Carroll,65.45352249143993,42.070358,-94.877676,Hy-Vee,3,"Battle Creek, IA",False,-1,5.0,IA
+"306 S Washington St, Remsen, IA 51050",groceries,Remsen,63.16068601908108,42.813446,-95.9734879,Majeres Foodtown,1,"Battle Creek, IA",False,2,5.0,IA
+"2020 27th St, Sioux City, IA 51104",groceries,Sioux City,68.18520267390466,42.5171699523926,-96.3841323852539,Laurence's Super Market,2,"Battle Creek, IA",False,1,5.0,IA
+"1300 N 2nd St, Cherokee, IA 51012",groceries,Cherokee,50.06623185376588,42.76549,-95.55141,Hy-Vee Food Stores,1,"Battle Creek, IA",False,3,3.0,IA
+"205 W Bluff St, Cherokee, IA 51012",groceries,Cherokee,48.80312002654035,42.7542419433594,-95.5518951416016,Fareway Stores,1,"Battle Creek, IA",False,2,4.0,IA
+"18 1st Ave NE, Le Mars, IA 51031",groceries,Le Mars,70.38637329083382,42.79322,-96.1646899,Fareway Stores,4,"Battle Creek, IA",False,2,4.5,IA
+"4500 Sergeant Rd, Southern Hills Mall, Sioux City, IA 51106",groceries,Sioux City,63.13682527972734,42.4458744,-96.3477866,Hy-Vee,6,"Battle Creek, IA",False,2,3.0,IA
+"700 1st St, Sergeant Bluff, IA 51054",groceries,Sergeant Bluff,62.59838991000025,42.3997993469238,-96.3530044555664,Fareway Stores Inc Meat Dept,1,"Battle Creek, IA",False,2,5.0,IA
+"405 Perry St, Sioux City, IA 51103",groceries,Sioux City,69.5983322463307,42.496753692627,-96.412223815918,Great Wall Oriental Food Store,3,"Battle Creek, IA",False,2,4.5,IA
+"713 S Broadway St, Decatur, NE 68020",groceries,Decatur,63.7241408052997,42.0072581,-96.2499349,Farrens Market,1,"Battle Creek, IA",False,2,4.0,NE
+"Highway 71 & # 175, Ste 175, Lake View, IA 51450",groceries,Lake View,52.94417865863278,42.311161,-95.0327835,Sparky's One Stop-Lake View,1,"Battle Creek, IA",False,-1,3.0,IA
+"75 Maple St, Mondamin, IA 51557",groceries,Mondamin,76.04792304733242,41.71067,-96.02579,Jiffy Mart,3,"Battle Creek, IA",False,1,4.5,IA
+"3101 Floyd Blvd, Sioux City, IA 51108",groceries,Sioux City,68.00000232823302,42.5318832397461,-96.3743057250977,Walmart Supercenter,4,"Battle Creek, IA",False,2,4.0,IA
+"2627 Pierce St, Mainstreet, Sioux City, IA 51104",groceries,Sioux City,69.84300654794087,42.5174961741306,-96.4054343919234,Hy-Vee,4,"Battle Creek, IA",False,2,5.0,IA
+"1111 Holton Dr, Le Mars, IA 51031",groceries,Le Mars,70.69181395344218,42.7818016,-96.1876388,Walmart Supercenter,6,"Battle Creek, IA",False,2,3.5,IA
+"511 W 7th St, Sioux City, IA 51103",groceries,Sioux City,69.94138506938343,42.50117,-96.41394,Hong Kong Supermarket,2,"Battle Creek, IA",False,2,5.0,IA

@@ -1,0 +1,18 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1715 N Broadway St, Red Oak, IA 51566",convenience stores,Red Oak,35.5596366729324,41.0196571,-95.2329712,Lincoln Farm & Home Service,1,"Clarinda, IA",False,-1,5.0,IA
+"2496 210th Ave, Percival, IA 51648",convenience stores,Percival,63.937282227960075,40.690331,-95.790041,Sapp Bros Truck Stop,11,"Clarinda, IA",False,1,3.5,IA
+"504 K St, Riverton, IA 51650",convenience stores,Riverton,45.47427570946059,40.6868401,-95.5691376,Marty's Mart,1,"Clarinda, IA",False,-1,4.0,IA
+"2101 249th St, Percival, IA 51648",convenience stores,Percival,63.983958243362615,40.6913445,-95.7912973,Sapp Bros Percival,16,"Clarinda, IA",False,1,4.5,IA
+"515 Sharp St, Glenwood, IA 51534",convenience stores,Glenwood,68.76854333491927,41.0462869,-95.7440777,BP Lincoln Farm & Home Service,2,"Clarinda, IA",False,1,5.0,IA
+"2495 210th Ave, Percival, IA 51648",convenience stores,Percival,64.06100800306048,40.6903381,-95.7917175,Friendly's Gas,1,"Clarinda, IA",False,1,5.0,IA
+"1306 Hwy 136 W, Rock Port, MO 64482",convenience stores,Rock Port,57.75898918696447,40.4043762636132,-95.5572698637843,Cenex,2,"Clarinda, IA",False,-1,3.0,MO
+"304 E US Highway 136, Albany, MO 64402",convenience stores,Albany,80.12414130804953,40.2571705059353,-94.3294542637543,Shoat's,1,"Clarinda, IA",False,-1,5.0,MO
+"23226 Centre Dr, Glenwood, IA 51534",convenience stores,Glenwood,73.76202989978516,41.1304024593056,-95.7430239351959,Lake Ohana Market,2,"Clarinda, IA",False,-1,3.0,IA
+"2495 210th Ave, Percival, IA 51648",convenience stores,Percival,64.1298801762306,40.69034,-95.79172,Pilot Travel Center,12,"Clarinda, IA",False,2,3.5,IA
+"2208 J St, Auburn, NE 68305",convenience stores,Auburn,78.74863706077844,40.38208,-95.83921,Casey's General Store,1,"Clarinda, IA",False,1,4.0,NE
+"2501 210th Ave, Percival, IA 51648",convenience stores,Percival,64.12267885058438,40.6887207,-95.7918167,Junction,1,"Clarinda, IA",False,1,4.0,IA
+"1745 Madison Ave, Council Bluffs, IA 51503",convenience stores,Council Bluffs,87.02843955337435,41.2436479,-95.8265723,Hy-Vee,16,"Clarinda, IA",False,1,4.5,IA
+"3221 Manawa Sentre Dr., Council Bluffs, IA 51503",convenience stores,Council Bluffs,86.91799524458877,41.2257918822239,-95.8442224563446,Sam's Club,6,"Clarinda, IA",False,2,3.0,IA
+"1839 Madison Ave, Council Bluffs, IA 51503",convenience stores,Council Bluffs,86.51485889861294,41.240997,-95.821678,Bucky's Convenience Store,1,"Clarinda, IA",False,3,1.0,IA
+"1141 N Broadway, Council Bluffs, IA 51501",convenience stores,Council Bluffs,89.67164431191291,41.2716483,-95.8364188,"Super Saver, Council Bluffs",4,"Clarinda, IA",False,2,3.5,IA
+"535 E Broadway, Council Bluffs, IA 51503",convenience stores,Council Bluffs,89.42555539759032,41.26572,-95.83935,Walgreens,4,"Clarinda, IA",False,2,2.0,IA

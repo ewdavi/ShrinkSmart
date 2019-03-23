@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"703 E Main St, Albert Lea, MN 56007",pharmacy,Albert Lea,25.78211603276597,43.6509857177734,-93.3613433837891,Walgreens,1,"Northwood, IA",False,1,5.0,MN
+"1112 Civic Center Dr Nw, Rochester, MN 55901",pharmacy,Rochester,87.89163134830547,44.0281149744987,-92.4792502820492,Walgreens,8,"Northwood, IA",False,2,3.5,MN
+"4151 4th St SW, Mason City, IA 50401",pharmacy,Mason City,33.37949308267744,43.14612,-93.26261,Walmart Pharmacy,1,"Northwood, IA",False,-1,5.0,IA
+"80 14Th St Sw, Rochester, MN 55902",pharmacy,Rochester,86.60642459173175,44.003139,-92.465271,Walgreens,5,"Northwood, IA",False,2,4.5,MN
+"101 1st Ave SW, Rochester, MN 55902",pharmacy,Rochester,88.18958138486607,44.0222511,-92.4646683,Weber & Judd,1,"Northwood, IA",False,1,4.0,MN
+"1307 18th Ave NW, Austin, MN 55912",pharmacy,Austin,32.218155213599054,43.6832202522757,-92.9905900492085,Hy-Vee,1,"Northwood, IA",False,-1,5.0,MN
+"875 4th St SW, Mason City, IA 50401",pharmacy,Mason City,32.9760034517325,43.14776,-93.21414,Hy-Vee Drugstore,2,"Northwood, IA",False,2,3.0,IA
+"1209 18th Ave NW, Austin, MN 55912",pharmacy,Austin,32.220251648702835,43.6846848,-92.988678,Shopko,1,"Northwood, IA",False,-1,4.0,MN
+"616 E US Highway 9, Forest City, IA 50436",pharmacy,Forest City,38.495134124115104,43.269191,-93.627415,Shopko Hometown,1,"Northwood, IA",False,-1,2.0,IA
+"615 S Monroe Ave, Mason City, IA 50401",pharmacy,Mason City,33.223815824395004,43.145961,-93.207778,Shopko,1,"Northwood, IA",False,2,3.0,IA
+"4611 Maine Ave SE, Rochester, MN 55904",pharmacy,Rochester,82.89904634114188,43.954523,-92.464843,Target,12,"Northwood, IA",False,2,3.5,MN
+"1510 N Broadway, Rochester, MN 55906",pharmacy,Rochester,89.7149218689258,44.0386047,-92.4619064,Hunt's,3,"Northwood, IA",False,2,3.5,MN
+"220 Centertown Plz, Stewartville, MN 55976",pharmacy,Stewartville,74.38363234388255,43.855782,-92.487781,Weber & Judd Pharmacy,1,"Northwood, IA",False,2,4.0,MN
+"121 W Main St, Kasson, MN 55944",pharmacy,Kasson,75.10914687492075,44.0297508,-92.7505417,Weber & Judd Pharmacies,1,"Northwood, IA",False,-1,3.0,MN
+"600 2nd Ave N, Clear Lake, IA 50428",pharmacy,Clear Lake,36.395001502738886,43.13936,-93.38041,Journey Health Shop,2,"Northwood, IA",False,-1,5.0,IA
+"863 High Point Dr NE, Byron, MN 55920",pharmacy,Byron,80.34083698859384,44.03007,-92.6313606,Market Place Pharmacy,1,"Northwood, IA",False,-1,1.0,MN
+"901 Kelly St, Charles City, IA 50616",pharmacy,Charles City,60.68337804666856,43.06735,-92.67523,Hy-Vee Food Store,2,"Northwood, IA",False,1,4.0,IA
+"201 9th St SE, Rochester, MN 55904",pharmacy,Rochester,87.76898222394648,44.013909,-92.460555,Kmart,1,"Northwood, IA",False,2,2.0,MN
+"1501 4th St SW, Mason City, IA 50401",pharmacy,Mason City,33.0670237311365,43.1482039,-93.2233516,Mercy Home Therapy Shoppe,2,"Northwood, IA",False,-1,1.0,IA
+"1315 6th St NW, Rochester, MN 55901",pharmacy,Rochester,87.91577168118187,44.0298299,-92.48152,Weber & Judd,2,"Northwood, IA",False,-1,1.0,MN

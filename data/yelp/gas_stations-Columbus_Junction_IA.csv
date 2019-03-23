@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1300 N Grand Ave, Mount Pleasant, IA 52641",gas stations,Mount Pleasant,35.97180435159503,40.9821487143417,-91.5396831929684,Pilot Travel Center,4,"Columbus Junction, IA",False,-1,3.5,IA
+"302 E School Ave, Old, IA 52647",gas stations,Old,21.70740515815672,41.1340908950474,-91.5411704778671,Saint Avenue BP,1,"Columbus Junction, IA",False,1,5.0,IA
+"2798 Commerce Dr, Coralville, IA 52241",gas stations,Coralville,50.70304322680018,41.6953699,-91.6104299,Casey's General Store,1,"Columbus Junction, IA",False,1,5.0,IA
+"305 W Main St, Hills, IA 52235",gas stations,Hills,33.72407703016407,41.5540851,-91.539348,Casey's General Store,3,"Columbus Junction, IA",False,1,4.5,IA
+"755 W Iowa 80 Rd, I-80 Exit 284, Walcott, IA 52773",gas stations,Walcott,61.65873421448236,41.6178044903672,-90.7811987400055,"Iowa 80 Truckstop, Verizon Authorized Retailer",148,"Columbus Junction, IA",False,2,4.0,IA
+"620 S Downey St, West Branch, IA 52358",gas stations,West Branch,42.740199582582164,41.662053,-91.34717,Kum & Go,3,"Columbus Junction, IA",False,1,3.5,IA
+"1310 W Burlington Ave, Fairfield, IA 52556",gas stations,Fairfield,59.63129026403426,41.0064296,-91.9798484,Hy-Vee Gas,2,"Columbus Junction, IA",False,-1,4.5,IA
+"2177 M Ave, Williamsburg, IA 52631",gas stations,Williamsburg,74.37121934427013,41.6927984,-92.0660597,Kum & Go,5,"Columbus Junction, IA",False,2,4.0,IA
+"204 N Dubuque St, Iowa City, IA 52245",gas stations,Iowa City,45.11612644151106,41.6639060974121,-91.5327758789062,Casey's General Store,4,"Columbus Junction, IA",False,2,3.5,IA
+"101 Village Dr, Tiffin, IA 52340",gas stations,Tiffin,52.83687404301553,41.6965966,-91.6657604,Kum & Go,5,"Columbus Junction, IA",False,2,2.0,IA
+"822 1st Ave, Coralville, IA 52241",gas stations,Coralville,47.85621356171715,41.6813452,-91.5658962,Kum & Go,7,"Columbus Junction, IA",False,2,3.5,IA
+"2125 Libertyville Rd, Fairfield, IA 52556",gas stations,Fairfield,59.53276309947828,40.9886932373047,-91.9636383056641,Casey's General Store,2,"Columbus Junction, IA",False,2,4.5,IA
+"333 E Evans St, Williamsburg, IA 52361",gas stations,Williamsburg,70.39941887061573,41.690616607666,-92.0067596435547,Colony Point,7,"Columbus Junction, IA",False,2,2.0,IA
+"955 Mormon Trek Blvd, Iowa City, IA 52246",gas stations,Iowa City,44.88686281913983,41.6499404907227,-91.5745162963867,Kum & Go,1,"Columbus Junction, IA",False,1,5.0,IA
+"2600 Holiday Rd, Coralville, IA 52241",gas stations,Coralville,51.05655002310413,41.70015,-91.60744,Kum & Go,2,"Columbus Junction, IA",False,2,3.5,IA
+"1006 N Columbus St, West Liberty, IA 52776",gas stations,West Liberty,34.56409819695219,41.578578,-91.260162,Giri Bp,3,"Columbus Junction, IA",False,1,2.5,IA
+"731 S Riverside Dr, Iowa City, IA 52246",gas stations,Iowa City,43.92775372011678,41.6506275,-91.540572,Kum & Go,4,"Columbus Junction, IA",False,1,4.0,IA
+"2153 Act Cir, Iowa City, IA 52245",gas stations,Iowa City,46.5646196605957,41.68357,-91.50505,Sinclair,4,"Columbus Junction, IA",False,-1,3.5,IA
+"3509 Steamboat Way, Muscatine, IA 52761",gas stations,Muscatine,30.148363095397396,41.4492381725198,-91.0857249175101,Caseys,2,"Columbus Junction, IA",False,-1,3.5,IA
+"Viola, IL 61486",gas stations,Viola,65.59617083948191,41.2116030316862,-90.5861363599293,Casey's,2,"Columbus Junction, IA",False,-1,3.5,IL

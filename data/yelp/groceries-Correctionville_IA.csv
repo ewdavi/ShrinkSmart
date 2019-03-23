@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1201 12th Ave SW, Le Mars, IA 51031",groceries,Le Mars,46.89942377517453,42.77805,-96.18434,Hy-Vee Food Stores,3,"Correctionville, IA",False,2,4.0,IA
+"1250 Lake Ave, Ste 2, Storm Lake, IA 50588",groceries,Storm Lake,51.326533641957035,42.653289,-95.201187,Hy-Vee Food Stores,1,"Correctionville, IA",False,-1,5.0,IA
+"3301 Gordon Dr, Sioux City, IA 51105",groceries,Sioux City,47.70998979315849,42.4888615778355,-96.3630928085523,Hy-Vee Gordon Dr,4,"Correctionville, IA",False,2,5.0,IA
+"306 S Washington St, Remsen, IA 51050",groceries,Remsen,40.45918742778003,42.813446,-95.9734879,Majeres Foodtown,1,"Correctionville, IA",False,2,5.0,IA
+"2020 27th St, Sioux City, IA 51104",groceries,Sioux City,49.60631992174535,42.5171699523926,-96.3841323852539,Laurence's Super Market,2,"Correctionville, IA",False,1,5.0,IA
+"1300 N 2nd St, Cherokee, IA 51012",groceries,Cherokee,37.11705702443071,42.76549,-95.55141,Hy-Vee Food Stores,1,"Correctionville, IA",False,3,3.0,IA
+"18 1st Ave NE, Le Mars, IA 51031",groceries,Le Mars,47.03439910462693,42.79322,-96.1646899,Fareway Stores,4,"Correctionville, IA",False,2,4.5,IA
+"205 W Bluff St, Cherokee, IA 51012",groceries,Cherokee,36.00130922606759,42.7542419433594,-95.5518951416016,Fareway Stores,1,"Correctionville, IA",False,2,4.0,IA
+"4500 Sergeant Rd, Southern Hills Mall, Sioux City, IA 51106",groceries,Sioux City,46.59317263187635,42.4458744,-96.3477866,Hy-Vee,6,"Correctionville, IA",False,2,3.0,IA
+"405 Perry St, Sioux City, IA 51103",groceries,Sioux City,51.674281074573074,42.496753692627,-96.412223815918,Great Wall Oriental Food Store,3,"Correctionville, IA",False,2,4.5,IA
+"700 1st St, Sergeant Bluff, IA 51054",groceries,Sergeant Bluff,47.668284183397205,42.3997993469238,-96.3530044555664,Fareway Stores Inc Meat Dept,1,"Correctionville, IA",False,2,5.0,IA
+"1601 Cornhusker Dr, South Sioux City, NE 68776",groceries,South Sioux City,53.19950977079504,42.4734507,-96.4301111,Walmart Supercenter,2,"Correctionville, IA",False,1,3.5,NE
+"2827 Hamilton Blvd, Sioux City, IA 51104",groceries,Sioux City,52.49582553671624,42.5201119522457,-96.4192528269837,Hy-Vee,8,"Correctionville, IA",False,2,3.0,IA
+"3101 Floyd Blvd, Sioux City, IA 51108",groceries,Sioux City,49.00459270740095,42.5318832397461,-96.3743057250977,Walmart Supercenter,4,"Correctionville, IA",False,2,4.0,IA
+"2627 Pierce St, Mainstreet, Sioux City, IA 51104",groceries,Sioux City,51.34296549509618,42.5174961741306,-96.4054343919234,Hy-Vee,4,"Correctionville, IA",False,2,5.0,IA
+"2501 Cornhusker Dr, South Sioux City, NE 68776",groceries,South Sioux City,53.042791433037266,42.46586,-96.42766,Hy-Vee,1,"Correctionville, IA",False,1,5.0,NE
+"255 - 16th St SW, Sioux Center, IA 51250",groceries,Sioux Center,72.44682770275419,43.0599433,-96.1806982,Walmart Supercenter,2,"Correctionville, IA",False,2,2.0,IA
+"623 S Marion St, Remsen, IA 51050",groceries,Remsen,40.19071839340138,42.8098100423813,-95.9769494086504,Mrs B's,1,"Correctionville, IA",False,2,4.0,IA
+"713 S Broadway St, Decatur, NE 68020",groceries,Decatur,65.02691653094361,42.0072581,-96.2499349,Farrens Market,1,"Correctionville, IA",False,2,4.0,NE
+"924 4th Ave S, Denison, IA 51442",groceries,Denison,62.31880631717055,42.012718,-95.359718,Jaliscence #2,1,"Correctionville, IA",False,-1,4.0,IA

@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"217 W 6th St, Storm Lake, IA 50588",dental,Storm Lake,25.644165298481735,42.64563,-95.20223,Family 1st Dental of Storm Lake,1,"Albert City, IA",False,-1,2.0,IA
+"2211 10th St, Emmetsburg, IA 50536",dental,Emmetsburg,42.69899602204536,43.1112899,-94.67981,Zimmerman Family Dental,1,"Albert City, IA",False,-1,1.0,IA
+"804 Kenyon Rd, Ste120, Fort Dodge, IA 50501",dental,Fort Dodge,69.63539831738387,42.4923174859341,-94.1936002671719,Fort Dodge Oral Surgery,2,"Albert City, IA",False,-1,5.0,IA
+"2953 5th Ave S, Fort Dodge, IA 50501",dental,Fort Dodge,71.97907925521277,42.501002,-94.155598,Aspen Dental,3,"Albert City, IA",False,-1,2.5,IA
+"1800 Floral Ave, Fort Dodge, IA 50501",dental,Fort Dodge,69.74970923947524,42.519725,-94.173633,"James H Knight, DDS",5,"Albert City, IA",False,-1,2.5,IA
+"2727 N 15th St, Fort Dodge, IA 50501",dental,Fort Dodge,68.87239447289916,42.5328442,-94.177304,"Rolling Hills Dental Clinic, PC",2,"Albert City, IA",False,-1,1.5,IA

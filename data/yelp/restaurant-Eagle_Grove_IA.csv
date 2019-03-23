@@ -1,0 +1,13 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"618 S Commercial Ave, Eagle Grove, IA 50533",restaurant,Eagle Grove,1.209355489899253,42.6585006713867,-93.9039840698242,The Family Table,6,"Eagle Grove, IA",False,2,3.5,IA
+"223 N Main St, Clarion, IA 50525",restaurant,Clarion,15.561707237787873,42.7328453958035,-93.7327216565609,Fuel,13,"Eagle Grove, IA",False,2,4.5,IA
+"222 N Ann St, Thor, IA 50591",restaurant,Thor,12.23471896782835,42.690221,-94.04949,Unkie's Entertainer,15,"Eagle Grove, IA",False,2,4.0,IA
+"301 N Commercial Ave, Eagle Grove, IA 50533",restaurant,Eagle Grove,0.3714868084028704,42.6665344238281,-93.90478515625,Twiins Shoppe,1,"Eagle Grove, IA",False,-1,4.0,IA
+"104 Central Ave E, Clarion, IA 50525",restaurant,Clarion,15.517520359408469,42.7313995361328,-93.7324981689453,Sam's Chinese Kitchen,12,"Eagle Grove, IA",False,1,4.5,IA
+"118 N Main St, Clarion, IA 50525",restaurant,Clarion,15.53020979684124,42.7322149,-93.7328718,Grounded,12,"Eagle Grove, IA",False,1,4.5,IA
+"106 S Main St, Clarion, IA 50525",restaurant,Clarion,15.469436219797249,42.7313461303711,-93.7331695556641,New Home Cafe,2,"Eagle Grove, IA",False,-1,4.5,IA
+"1006 Central Ave W, Clarion, IA 50525",restaurant,Clarion,14.633137474936099,42.7314951,-93.7455073,Snack Village,1,"Eagle Grove, IA",False,-1,5.0,IA
+"102 S Main St, Clarion, IA 50525",restaurant,Clarion,15.47239656309582,42.7314017,-93.7329149,Pizza Ranch,5,"Eagle Grove, IA",False,2,4.5,IA
+"903 Central Ave E, Clarion, IA 50525",restaurant,Clarion,16.292153026129558,42.7320518493652,-93.722297668457,Casey's Carry Out Pizza,2,"Eagle Grove, IA",False,-1,3.5,IA
+"319 E Hwy 3, Goldfield, IA 50542",restaurant,Goldfield,6.994843589241822,42.7313,-93.91699,Casey's Carry Out Pizza,1,"Eagle Grove, IA",False,-1,3.0,IA
+"329 Central Ave W, Clarion, IA 50525",restaurant,Clarion,15.212798629219318,42.732082,-93.736953,Hardee's,4,"Eagle Grove, IA",False,1,1.5,IA

@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"522 Central Ave, Estherville, IA 51334",pharmacy,Estherville,51.611958368338406,43.401825,-94.836906,Estherville Snyder Drug,1,"Bancroft, IA",False,-1,4.0,IA
+"1123 E Blue Earth Ave, Fairmont, MN 56031",pharmacy,Fairmont,44.12373401410693,43.6526145935059,-94.4461441040039,Walgreens,1,"Bancroft, IA",False,-1,5.0,MN
+"322 South State Street, Fairmont, MN 56031",pharmacy,Fairmont,43.95274894467843,43.6505858,-94.4475549,Sterling Drug,1,"Bancroft, IA",False,2,5.0,MN
+"1221 Central Ave, Estherville, IA 51334",pharmacy,Estherville,51.00368078070485,43.402530670166,-94.8286590576172,Hyvee Pharmacy,2,"Bancroft, IA",False,1,3.5,IA
+"616 E US Highway 9, Forest City, IA 50436",pharmacy,Forest City,47.76487999362373,43.269191,-93.627415,Shopko Hometown,1,"Bancroft, IA",False,-1,2.0,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1204 1St Ave E, Newton, IA 50208",pharmacy,Newton,20.855717817843704,41.69959,-93.0380799,Walgreens,1,"Monroe, IA",False,-1,1.0,IA
+"606 Walnut St, Des Moines, IA 50309",pharmacy,Des Moines,43.77985780929909,41.58544,-93.62502,Walgreens,6,"Monroe, IA",False,2,3.5,IA
+"101 N Walnut St, Colfax, IA 50054",pharmacy,Colfax,21.109007941538817,41.6777769,-93.2455896,Benzer Pharmacy,3,"Monroe, IA",False,2,3.5,IA
+"901 W Pleasant St, Knoxville, IA 50138",pharmacy,Knoxville,22.04074761235174,41.3210258483887,-93.1078720092773,Medicap Pharmacy,1,"Monroe, IA",False,-1,5.0,IA
+"400 1st Ave W, Newton, IA 50208",pharmacy,Newton,20.494043259136884,41.6997985839844,-93.0577545166016,Medicap Pharmacy,1,"Monroe, IA",False,-1,5.0,IA
+"2719 Grand Ave, Ames, IA 50010",pharmacy,Ames,72.75577196759494,42.048965,-93.621231,Walgreens,5,"Monroe, IA",False,2,4.5,IA
+"800 School St, Carlisle, IA 50047",pharmacy,Carlisle,32.44840104620475,41.498291015625,-93.4950485229492,Medicap Pharmacy,1,"Monroe, IA",False,-1,2.0,IA
+"4900 Mills Civic Pkwy, West Des Moines, IA 50265",pharmacy,West Des Moines,55.40063860169616,41.55856,-93.77,Walgreens,6,"Monroe, IA",False,2,3.5,IA
+"205 N E St, Oskaloosa, IA 52577",pharmacy,Oskaloosa,45.272156305476656,41.2966243,-92.6517631,Mahaska Drug,2,"Monroe, IA",False,2,5.0,IA
+"420 Court Ave, Des Moines, IA 50309",pharmacy,Des Moines,43.52383201005386,41.58461387468,-93.6220497511848,Hy-Vee,42,"Monroe, IA",False,2,3.5,IA
+"2702 Se Delaware Ave, Ankeny, IA 50021",pharmacy,Ankeny,44.46734768317503,41.70214,-93.58189,Walgreens,3,"Monroe, IA",False,2,5.0,IA
+"3802 Ingersoll Ave, Des Moines, IA 50312",pharmacy,Des Moines,47.353003075993236,41.58588,-93.66838,Bauder Pharmacy,43,"Monroe, IA",False,1,4.5,IA
+"1330 E University Ave, Des Moines, IA 50316",pharmacy,Des Moines,42.187599998777905,41.6011047363281,-93.6012268066406,Walgreens,3,"Monroe, IA",False,2,3.5,IA
+"12753 University Ave, Clive, IA 50325",pharmacy,Clive,57.892410539036725,41.600944519043,-93.7936019897461,Walgreens,8,"Monroe, IA",False,2,2.5,IA
+"4555 Fleur Dr, Des Moines, IA 50321",pharmacy,Des Moines,44.87450215785706,41.542926,-93.644515,Walgreens,4,"Monroe, IA",False,1,2.5,IA
+"107 NE Delaware Ave, Ankeny, IA 50021",pharmacy,Ankeny,45.992196477982304,41.73245,-93.5808799,Medicap Pharmacy,2,"Monroe, IA",False,2,4.5,IA
+"901 N Ankeny Blvd, Ankeny, IA 50023",pharmacy,Ankeny,47.70432552072833,41.73904,-93.59936,Walgreens,8,"Monroe, IA",False,3,3.0,IA
+"4707 Fleur Dr, Des Moines, IA 50321",pharmacy,Des Moines,44.745980439442356,41.54182,-93.64475,Hy-Vee Pharmacies,1,"Monroe, IA",False,-1,5.0,IA
+"2545 E Euclid Ave, Des Moines, IA 50317",pharmacy,Des Moines,40.28614444147882,41.6270485,-93.5686798,Walgreens,2,"Monroe, IA",False,2,4.0,IA
+"104 E Euclid Ave, Des Moines, IA 50313",pharmacy,Des Moines,44.187310431595286,41.6283302307129,-93.6171875,Walgreens,4,"Monroe, IA",False,2,3.5,IA

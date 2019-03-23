@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"200 N B St, Indianola, IA 50125",dental,Indianola,48.03964832028471,41.36155,-93.563393,Dental Professionals,1,"Murray, IA",False,-1,5.0,IA
+"475 S 50th St, Ste 300, West Des Moines, IA 50265",dental,West Des Moines,59.91504672936454,41.56337,-93.77158,Foust Family Dental Care,3,"Murray, IA",False,-1,5.0,IA
+"1225 Copper Creek Dr, Ste K, Pleasant Hill, IA 50327",dental,Pleasant Hill,71.72462784031606,41.6016679,-93.5233705,Veranda Dentistry,5,"Murray, IA",False,-1,5.0,IA
+"1025 60th St, West Des Moines, IA 50266",dental,West Des Moines,61.92714702506557,41.5853806,-93.7898102,Country Club Dental Care,5,"Murray, IA",False,-1,4.0,IA
+"1286 Copper Creek Dr, Pleasant Hill, IA 50327",dental,Pleasant Hill,71.67221004434828,41.6019,-93.52498,Lakeside Dental,2,"Murray, IA",False,-1,5.0,IA
+"2401 128th Street, Urbandale, IA 50323",dental,Urbandale,65.32904626612412,41.6166412,-93.7900338,Children's Dental Center of Central Iowa,4,"Murray, IA",False,-1,5.0,IA
+"2521 Sunset Dr, Ste 2, Norwalk, IA 50211",dental,Norwalk,55.00059544610376,41.49113,-93.67479,Dimples Family Dentistry,1,"Murray, IA",False,-1,5.0,IA
+"5918 Ashworth Rd, West Des Moines, IA 50266",dental,West Des Moines,61.77774167259542,41.5843442827463,-93.7891935557127,Kline Gregory L Dr,1,"Murray, IA",False,-1,5.0,IA
+"4100 University, Ste 105, West Des Moines, IA 50266",dental,West Des Moines,64.11041010449141,41.5998005704721,-93.7579457325697,Iowa Center for Family and Cosmetic Dentistry,2,"Murray, IA",False,-1,5.0,IA
+"3755 East 33rd St, Des Moines, IA 50317",dental,Des Moines,73.24084882119276,41.628098487854,-93.5514995455742,Brady Dental Care,3,"Murray, IA",False,-1,5.0,IA
+"12951 University Ave, Ste 100, Clive, IA 50325",dental,Clive,63.56484123058987,41.60158,-93.79727,Hove Family Dental,6,"Murray, IA",False,-1,5.0,IA
+"8573 Urbandale Ave, Urbandale, IA 50322",dental,Urbandale,67.01602750738746,41.622241,-93.734928,Davidson Family Dentistry,14,"Murray, IA",False,-1,4.0,IA
+"11088 Hickman Rd, Clive, IA 50325",dental,Clive,65.39945852628674,41.6143551,-93.7710624,Heritage Creek Dental,5,"Murray, IA",False,-1,4.0,IA
+"2400 128th St, Urbandale, IA 50323",dental,Urbandale,65.27415670898513,41.61634,-93.79177,McDonald Family Dentistry,2,"Murray, IA",False,-1,5.0,IA
+"4855 Mills Civic Pkwy, Ste 201, West Des Moines, IA 50265",dental,West Des Moines,59.599737769651256,41.559856,-93.768043,Erickson Endodontics,1,"Murray, IA",False,-1,5.0,IA
+"530 39th St, Des Moines, IA 50312",dental,Des Moines,64.8472510916755,41.58565,-93.67016,Smile Orthodontics,3,"Murray, IA",False,-1,5.0,IA
+"105 Valley West Dr, West Des Moines, IA 50265",dental,West Des Moines,61.11764832505776,41.5706061,-93.7514045,Smile Orthodontics,1,"Murray, IA",False,-1,5.0,IA
+"6128 Douglas Ave, Des Moines, IA 50322",dental,Des Moines,68.51624431083164,41.6290473937988,-93.7022171020508,Douglas Avenue Dental,2,"Murray, IA",False,-1,5.0,IA
+"1100 N Hickory Blvd, Ste 205, Pleasant Hill, IA 50327",dental,Pleasant Hill,71.8007343098757,41.6000255,-93.517744,Pleasant Dental,2,"Murray, IA",False,-1,5.0,IA
+"275 50th St, West Des Moines, IA 50265",dental,West Des Moines,60.95742689448091,41.5729221934079,-93.7704397276127,E.P. True Dental,9,"Murray, IA",False,-1,4.5,IA

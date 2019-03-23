@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"101 Highway 141, Bayard, IA 50029",groceries,Bayard,0.39711831877960563,41.8486947566271,-94.5515504479408,Sparky's One Stop,1,"Bayard, IA",False,-1,5.0,IA
+"106 W Washington St, Ste 1, Jefferson, IA 50129",groceries,Jefferson,23.719216303523904,42.0172829926014,-94.3750040978193,Hy-Vee Food Store,3,"Bayard, IA",False,-1,5.0,IA
+"905 W US Highway 30, Carroll, IA 51401",groceries,Carroll,35.950067621357796,42.070358,-94.877676,Hy-Vee,3,"Bayard, IA",False,-1,5.0,IA
+"201 Idaho St, Glidden, IA 51443",groceries,Glidden,26.855478257924094,42.0568771362305,-94.7292327880859,Glidden Grocery,1,"Bayard, IA",False,-1,5.0,IA
+"601 E Main St, Panora, IA 50216",groceries,Panora,24.362044888135774,41.69186,-94.35701,Panora Hometown Foods,1,"Bayard, IA",False,-1,1.0,IA

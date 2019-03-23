@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"108 E Iowa St, Greenfield, IA 50849",restaurant,Greenfield,8.429014172370744,41.3049527429765,-94.4601541757584,The Olive Branch,5,"Fontanelle, IA",False,-1,4.0,IA
+"102 S Main St, Bridgewater, IA 50837",restaurant,Bridgewater,10.478720176705828,41.2440349906683,-94.6688132733107,Bridgewater Cafe,3,"Fontanelle, IA",False,-1,3.5,IA
+"113 S 5th St, Adair, IA 50002",restaurant,Adair,23.863812980938356,41.4948786734665,-94.6442294018707,Chuckwagon Restaurant,42,"Fontanelle, IA",False,1,4.0,IA
+"723 Marshall St, Dexter, IA 50070",restaurant,Dexter,37.39526068142887,41.516658782959,-94.2277908325195,Rusty Duck,39,"Fontanelle, IA",False,2,4.0,IA
+"109 5th St, Adair, IA 50002",restaurant,Adair,23.97329382501451,41.49568,-94.64358,Dew Drop Inn,5,"Fontanelle, IA",False,-1,4.5,IA
+"302 SE Kent St, Greenfield, IA 50849",restaurant,Greenfield,8.588747377384848,41.3029766883541,-94.457722353343,Los Altos Mexican Restaurant,3,"Fontanelle, IA",False,1,4.5,IA
+"610 SE Kent St, Greenfield, IA 50849",restaurant,Greenfield,9.033306679201255,41.3028946270623,-94.4523104336015,Tiger Drive-In,2,"Fontanelle, IA",False,1,4.0,IA
+"1807 White Pole Rd, Anita, IA 50020",restaurant,Anita,24.521065906921123,41.43839,-94.776417,Redwood Steak House,15,"Fontanelle, IA",False,2,3.0,IA
+"619 Davis Ave, Corning, IA 50841",restaurant,Corning,36.583304044432566,40.9887025549612,-94.7345465874671,Primrose Restaurant,7,"Fontanelle, IA",False,-1,4.5,IA
+"119 N Walnut St, Creston, IA 50801",restaurant,Creston,30.669798114713334,41.0583822338837,-94.360089674592,Spencer's Chophouse,8,"Fontanelle, IA",False,2,4.5,IA
+"203 3rd St, Carbon, IA 50839",restaurant,Carbon,34.72247674554335,41.0495987303068,-94.8238260841309,Branding Iron Saloon and Grill,2,"Fontanelle, IA",False,-1,5.0,IA
+"904 1st St, Redfield, IA 50233",restaurant,Redfield,45.12368748669201,41.5907936096191,-94.1957855224609,Harvey's Diner & Pub,21,"Fontanelle, IA",False,2,4.5,IA
+"400 W Taylor St, Creston, IA 50801",restaurant,Creston,31.341758439812708,41.0487922,-94.3653359920307,Casa De Oro,21,"Fontanelle, IA",False,2,4.5,IA
+"1407 White Pole Rd, Anita, IA 50020",restaurant,Anita,24.35501933099291,41.4411378,-94.770293,The Sweet Spot,1,"Fontanelle, IA",False,-1,4.0,IA
+"301 Audubon St, Adair, IA 50002",restaurant,Adair,24.37187837557247,41.5006248,-94.6398919,Zipp's Pizzaria,25,"Fontanelle, IA",False,1,4.5,IA
+"502 Sherman St, Menlo, IA 50164",restaurant,Menlo,28.648708248450482,41.5202,-94.40467,Menlo Cafe,9,"Fontanelle, IA",False,1,4.5,IA
+"223 S Division St, Stuart, IA 50250",restaurant,Stuart,30.967206267679636,41.50183,-94.3182999,Los Altos,35,"Fontanelle, IA",False,2,4.5,IA
+"129 N Pine St, Creston, IA 50801",restaurant,Creston,30.627410872999057,41.058342,-94.361107,Mario's Sports Bar & Grill,5,"Fontanelle, IA",False,1,5.0,IA
+"111 Main, Massena, IA 50853",restaurant,Massena,18.05811546871542,41.252304,-94.769243,Main Street Bar & Grill,3,"Fontanelle, IA",False,-1,3.5,IA
+"302 N Douglas St, Afton, IA 50830",restaurant,Afton,41.871823159610656,41.029545,-94.197815,Up In Smoke Bbq,9,"Fontanelle, IA",False,1,4.0,IA

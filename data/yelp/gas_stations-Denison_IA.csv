@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1709 Antique City Dr, Walnut, IA 51577",gas stations,Walnut,58.22468558569214,41.494136,-95.221206,Kum & Go,2,"Denison, IA",False,2,4.0,IA
+"220 E High St, Rockwell City, IA 50579",gas stations,Rockwell City,73.87163560733092,42.39906,-94.62615,Casey's General Store,1,"Denison, IA",False,2,4.0,IA
+"64975 Boston Rd, Atlantic, IA 50022",gas stations,Atlantic,67.16606953959351,41.4859719688138,-94.9464303163691,Conoco Gas,2,"Denison, IA",False,-1,1.0,IA
+"75 Maple St, Mondamin, IA 51557",gas stations,Mondamin,64.8782493809959,41.7106628417969,-96.0257873535156,Jiffy Mart,4,"Denison, IA",False,1,4.5,IA
+"29356 298th St, Neola, IA 51559",gas stations,Neola,66.9874517783177,41.438767,-95.613467,Kum & Go,3,"Denison, IA",False,2,2.5,IA
+"1961 Hwy 30, Missouri Valley, IA 51555",gas stations,Missouri Valley,69.52603208512616,41.5509381530951,-95.923178311259,PetroMart,3,"Denison, IA",False,2,2.5,IA
+"7005 N Chestnut St, Avoca, IA 51521",gas stations,Avoca,56.62513272688488,41.4996458447772,-95.3351710823037,Flying J,6,"Denison, IA",False,-1,1.5,IA
+"1211 9th St, Lake View, IA 51450",gas stations,Lake View,42.29986530075885,42.310832,-95.040174,Sparky's One Stop-Lake View,2,"Denison, IA",False,-1,3.0,IA
+"904 N Walnut, Avoca, IA 51521",gas stations,Avoca,58.33150519816195,41.4842592560023,-95.3373330831528,Shell Gas Station,1,"Denison, IA",False,-1,4.0,IA
+"524 1st St, Ste 1, Correctionville, IA 51016",gas stations,Correctionville,63.4669685354552,42.4819427928409,-95.7831815715701,Casey's General Store,1,"Denison, IA",False,1,5.0,IA
+"402 E 6th St, Carroll, IA 51401",gas stations,Carroll,40.87152783428941,42.0641899108887,-94.8626403808594,Sparky's One Stop,1,"Denison, IA",False,3,4.0,IA
+"209 Main St E, Smithland, IA 51056",gas stations,Smithland,53.507003813237276,42.2289634813961,-95.9288631007075,Smithland Country Store,1,"Denison, IA",False,-1,5.0,IA
+"110 S 5th St, Adair, IA 50002",gas stations,Adair,81.92345538996398,41.495762,-94.6431785,Casey's General Store,4,"Denison, IA",False,1,3.0,IA
+"11 East St, Shelby, IA 51570",gas stations,Shelby,57.08070712266138,41.50046,-95.450178,Shell-Taylor Quik-Pik,1,"Denison, IA",False,1,4.0,IA
+"12 East St, Shelby, IA 51570",gas stations,Shelby,56.50038279776618,41.506002,-95.4510104,The Corn Crib,57,"Denison, IA",False,1,4.5,IA
+"2079 Hwy 71, Audubon, IA 50025",gas stations,Audubon,48.83739210838415,41.70411,-94.92567,Waspy's Truck Stop,1,"Denison, IA",False,-1,5.0,IA
+"1019 N Chestnut St, Avoca, IA 51521",gas stations,Avoca,58.22869727485743,41.4852025173397,-95.3361962963767,Casey's General Store,4,"Denison, IA",False,1,3.0,IA
+"404 11th St, Correctionville, IA 51016",gas stations,Correctionville,63.553252413440234,42.4819107055664,-95.7852935791016,Valley Stop-Shell,1,"Denison, IA",False,1,1.0,IA
+"1059 Washington St, Blair, NE 68008",gas stations,Blair,82.54108906176424,41.5435651,-96.1273716,Casey's General Stores,3,"Denison, IA",False,-1,3.5,NE
+"455 S 1st St, Moville, IA 51039",gas stations,Moville,79.77440392706573,42.48444,-96.07753,4 Way Stop Shop,1,"Denison, IA",False,-1,1.0,IA

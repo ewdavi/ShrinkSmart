@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"9250 University Ave, Ste 110, West Des Moines, IA 50266",optometrist,West Des Moines,28.676040014884585,41.6003351,-93.8160694,Elite Eye Care,13,"Woodward, IA",False,-1,4.5,IA
+"2701 Stange Rd, Ste 100, Ames, IA 50010",optometrist,Ames,31.855849659104486,42.0488891601562,-93.6454544067383,Eye Works,9,"Woodward, IA",False,3,4.0,IA
+"1310 SW State St, Ste A, Ankeny, IA 50023",optometrist,Ankeny,28.990377188422187,41.71697,-93.62046,"Eye Care Of Iowa, PC - Ankeny",6,"Woodward, IA",False,-1,4.0,IA
+"241 SE Destination Dr, Ste 100, Grimes, IA 50111",optometrist,Grimes,22.057998581913598,41.6871702895223,-93.7683864544922,Total Family Eye Care,3,"Woodward, IA",False,-1,4.5,IA
+"201 10th St, Ames, IA 50010",optometrist,Ames,32.627673196937224,42.0313835144043,-93.6127166748047,Ames Eye Clinic,1,"Woodward, IA",False,-1,5.0,IA
+"4660 86th St, Urbandale, IA 50322",optometrist,Urbandale,27.41350256917216,41.6448316610064,-93.7365401730666,Advanced Eyecare Center,3,"Woodward, IA",False,-1,5.0,IA
+"270 W 1st St, Ste H, Grimes, IA 50111",optometrist,Grimes,20.715735578288605,41.6879959106445,-93.7968063354492,Precision Family Eyecare,1,"Woodward, IA",False,-1,5.0,IA
+"1551 Valley West Dr, Ste 242, West Des Moines, IA 50266",optometrist,West Des Moines,31.430582259437738,41.597501,-93.749512,Huseman Eye Care,10,"Woodward, IA",False,-1,4.5,IA
+"Perry, IA 50220",optometrist,Perry,15.403601070711959,41.83855,-94.10552,Eye Care Associates,1,"Woodward, IA",False,-1,1.0,IA
+"3800 Merle Hay Rd, Ste 407, Des Moines, IA 50310",optometrist,Des Moines,30.695218802618697,41.6295475512743,-93.6978703737259,Huseman Eye Care,3,"Woodward, IA",False,-1,5.0,IA
+"111 NW 9th St, Ankeny, IA 50023",optometrist,Ankeny,29.243076420897108,41.738376,-93.601897,Eyecare Associates of Ankeny,2,"Woodward, IA",False,3,5.0,IA
+"1350 E Hickman Rd, Waukee, IA 50263",optometrist,Waukee,26.859417009483145,41.614217012383,-93.8469657611114,Insight Vision,2,"Woodward, IA",False,-1,5.0,IA
+"1810 SW White Birch Cir, Ste 109, Ankeny, IA 50023",optometrist,Ankeny,29.564889968513704,41.7025099,-93.6244433,World Of Vision,1,"Woodward, IA",False,-1,5.0,IA
+"700 Locust St, Ste 305, Des Moines, IA 50309",optometrist,Des Moines,38.152803726215495,41.58615,-93.6266799,"Jeffrey Koenen, OD - Dsmeye-Skywalk",3,"Woodward, IA",False,2,5.0,IA
+"2020 Philadelphia St, Ames, IA 50010",optometrist,Ames,34.643544347210316,42.034884,-93.585403,Wolfe Eye Clinic- Ames,1,"Woodward, IA",False,-1,5.0,IA
+"311 N Ankeny Blvd, Ankeny, IA 50023",optometrist,Ankeny,29.604256503253904,41.73462,-93.59958,Ankeny Family Vision Center,4,"Woodward, IA",False,3,4.0,IA
+"2405 Ingersoll Ave, Des Moines, IA 50312",optometrist,Des Moines,36.92577834921704,41.58603,-93.65005,Vogue Vision,10,"Woodward, IA",False,2,4.0,IA
+"2634 Stange Rd, Ames, IA 50010",optometrist,Ames,31.87298916625136,42.048415,-93.644627,Pearle Vision,1,"Woodward, IA",False,-1,5.0,IA
+"6200 Westown Pkwy, West Des Moines, IA 50266",optometrist,West Des Moines,30.335008595051356,41.5935096,-93.7944446,Wolfe Eye Clinic - Des Moines,8,"Woodward, IA",False,-1,4.5,IA
+"2699 86th St, Urbandale, IA 50322",optometrist,Urbandale,29.98106818434982,41.618146,-93.735617,Vision Park Family Eye Care,2,"Woodward, IA",False,2,5.0,IA

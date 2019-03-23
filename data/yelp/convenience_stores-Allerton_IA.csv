@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"207 S Front St, Humeston, IA 50123",convenience stores,Humeston,19.9980053267299,40.857606,-93.4995549,Casey's General Store,1,"Allerton, IA",False,-1,5.0,IA
+"2091 E Main St, Lamoni, IA 50140",convenience stores,Lamoni,45.53893158821727,40.6230485,-93.8965803,Kum & Go,5,"Allerton, IA",False,-1,3.5,IA
+"1706 Jeffreys Dr, Osceola, IA 50213",convenience stores,Osceola,50.1859343405457,41.02729,-93.789346,Casey's General Store,3,"Allerton, IA",False,1,3.0,IA
+"2214 N Baltimore St, Kirksville, MO 63501",convenience stores,Kirksville,85.93734496112641,40.217960357666,-92.5821685791016,Ayerco Convenience Store,1,"Allerton, IA",False,2,1.0,MO
+"1009 N Osteopathy, Kirksville, MO 63501",convenience stores,Kirksville,86.4110765617969,40.202926,-92.591454,Casey's Carry-Out Pizza,1,"Allerton, IA",False,-1,4.0,MO

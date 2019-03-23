@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"517 Lombard St, Clarence, IA 52216",restaurant,Clarence,0.29390923764915367,41.8889313,-91.0567398,Mill Creek Cafe,1,"Clarence, IA",False,1,5.0,IA
+"502 Lombard St, Clarence, IA 52216",restaurant,Clarence,0.2574742096480943,41.888535,-91.057671,The Onion Grove Bar & Grill,1,"Clarence, IA",False,1,4.0,IA
+"519-599 Lombard St, Clarence, IA 52216",restaurant,Clarence,0.30936288471906176,41.8888668553025,-91.0551223723655,Victory Lane,2,"Clarence, IA",False,1,3.5,IA
+"514 E Front St, Stanwood, IA 52337",restaurant,Stanwood,7.37577545805536,41.88891,-91.14564,Ditto's Family Restaurant,10,"Clarence, IA",False,1,4.5,IA
+"5310 Midway Dr NW, Cedar Rapids, IA 52405",restaurant,Cedar Rapids,57.32874114475214,41.97549,-91.73917,Rio Burritos,1,"Clarence, IA",False,1,5.0,IA

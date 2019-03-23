@@ -1,0 +1,20 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"211 1st St E, Newhall, IA 52315",gas stations,Newhall,8.998791476271526,41.9944,-91.96762,Newhall 1st Stop C-Store,1,"Atkins, IA",False,-1,2.0,IA
+"3730 Williams Blvd SW, Cedar Rapids, IA 52404",gas stations,Cedar Rapids,12.14172992638409,41.9555099,-91.72086,Kwik Star,3,"Atkins, IA",False,1,3.5,IA
+"2512 Highway 218, Ainsworth, IA 52201",gas stations,Ainsworth,12.487440813566762,41.2914404,-91.5341213,Ainsoworth Four Corners,8,"Atkins, IA",False,-1,2.5,IA
+"9125 Atlantic Dr SW, Cedar Rapids, IA 52404",gas stations,Cedar Rapids,18.6884486838395,41.891315,-91.678764,Casey's General Store,7,"Atkins, IA",False,2,2.0,IA
+"3935 Blairs Ferry Rd NE, Cedar Rapids, IA 52402",gas stations,Cedar Rapids,13.939935580608896,42.034062,-91.699362,Hy Vee Gas,2,"Atkins, IA",False,-1,3.0,IA
+"6700 16th Ave SW, Cedar Rapids, IA 52404",gas stations,Cedar Rapids,8.855457821264775,41.9645686,-91.75864,Tire Associates,1,"Atkins, IA",False,-1,5.0,IA
+"2601 Williams Blvd S W, Cedar Rapids, IA 52404",gas stations,Cedar Rapids,12.972330224183834,41.964341,-91.706599,BP,3,"Atkins, IA",False,-1,1.0,IA
+"3445 County Home Rd, Cedar Rapids, IA 52411",gas stations,Cedar Rapids,17.402677387088286,42.09436,-91.6988499,Otter Creek Country Stores,6,"Atkins, IA",False,2,3.0,IA
+"1201 1st Ave SE, Cedar Rapids, IA 52402",gas stations,Cedar Rapids,16.665218927802876,41.9848,-91.65733,Casey's General Store,1,"Atkins, IA",False,1,1.0,IA
+"4830 Johnson Ave NW, Cedar Rapids, IA 52405",gas stations,Cedar Rapids,10.701856862560167,41.9686088562012,-91.7335357666016,Hawkeye Convenience Stores,1,"Atkins, IA",False,-1,2.0,IA
+"4713 6th St SW, Cedar Rapids, IA 52404",gas stations,Cedar Rapids,16.548864176276602,41.9324951171875,-91.6757583618164,Hawkeye Downs Sinclair,2,"Atkins, IA",False,-1,4.5,IA
+"780 N Center Point Rd, Hiawatha, IA 52233",gas stations,Hiawatha,15.754493459424381,42.046161,-91.682012,Casey's General Store,1,"Atkins, IA",False,1,3.0,IA
+"2300 Bowling St SW, Cedar Rapids, IA 52404",gas stations,Cedar Rapids,17.105472635836716,41.9556007,-91.65802,Novak's Texaco,1,"Atkins, IA",False,-1,4.0,IA
+"3325 Johnson Ave NW, Cedar Rapids, IA 52405",gas stations,Cedar Rapids,12.019312788971922,41.97422,-91.71527,Guppy's On the Go,3,"Atkins, IA",False,2,3.0,IA
+"550 Wilson Ave SW, Cedar Rapids, IA 52404",gas stations,Cedar Rapids,15.591125899995369,41.95643,-91.67643,FASMART,1,"Atkins, IA",False,-1,1.0,IA
+"1201 15th Ave SW, Cedar Rapids, IA 52404",gas stations,Cedar Rapids,14.654251745043577,41.96263,-91.68615,Al's Full Service,16,"Atkins, IA",False,-1,4.0,IA
+"5555 Edgewood Rd NE, Cedar Rapids, IA 52411",gas stations,Cedar Rapids,13.738484246331394,42.0340461730957,-91.7019348144531,Casey's General Store,1,"Atkins, IA",False,-1,1.0,IA
+"1888 Blairs Ferry Rd, N.E., Cedar Rapids, IA 52402",gas stations,Cedar Rapids,16.67933559179922,42.03519,-91.66508,Jiffy Lube,6,"Atkins, IA",False,-1,2.5,IA
+"107 1st Ave E, Farley, IA 52046",gas stations,Farley,86.28455304366369,42.44301,-91.00519,Delaneys Auto & Ag Repair,1,"Atkins, IA",False,-1,5.0,IA

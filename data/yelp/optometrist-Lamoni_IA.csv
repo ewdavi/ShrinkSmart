@@ -1,0 +1,3 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"147 S Main St, Osceola, IA 50213",optometrist,Osceola,47.9415757570081,41.0335731506348,-93.7653656005859,Osceola Vision Center,2,"Lamoni, IA",False,-1,1.0,IA
+"614 E 9th St, Trenton, MO 64683",optometrist,Trenton,66.30866862602446,40.0736965,-93.6126781,Premier Eyecare Associates,1,"Lamoni, IA",False,-1,5.0,MO

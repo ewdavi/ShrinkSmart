@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"502 Mulberry Ave, Muscatine, IA 52761",groceries,Muscatine,11.11013508183478,41.4261021684162,-91.04403258381,El Olmito,16,"Fruitland, IA",False,1,4.0,IA
+"2100 Cedar Plaza Dr, Muscatine, IA 52761",groceries,Muscatine,10.402968827670291,41.4353790283203,-91.0826873779297,Fareway Stores,1,"Fruitland, IA",False,2,3.0,IA
+"3003 N Highway 61, Muscatine, IA 52761",groceries,Muscatine,14.853174552496087,41.457394,-91.024818,Walmart Supercenter,3,"Fruitland, IA",False,2,2.5,IA
+"109 E 2nd St, Muscatine, IA 52761",groceries,Muscatine,10.661356797248915,41.4217758178711,-91.0454940795898,New York Dollar,1,"Fruitland, IA",False,-1,1.0,IA
+"2400 2nd Ave, Muscatine, IA 52761",groceries,Muscatine,13.679503839330511,41.4510192871094,-91.0362396240234,HyVee,3,"Fruitland, IA",False,-1,2.5,IA

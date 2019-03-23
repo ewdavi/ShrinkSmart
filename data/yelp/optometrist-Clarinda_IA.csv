@@ -1,0 +1,8 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1409 N 2nd St, Red Oak, IA 51566",optometrist,Red Oak,35.09341400908196,41.0173301696777,-95.2305755615234,Michael J Portz  PC,1,"Clarinda, IA",False,-1,5.0,IA
+"1400 Senate Ave, Ste 104, Red Oak, IA 51566",optometrist,Red Oak,35.52708604735017,41.0263443,-95.2169189,Red Oak Pharmacy,1,"Clarinda, IA",False,-1,5.0,IA
+"922 Alden Dr, Auburn, NE 68305",optometrist,Auburn,78.70651354609907,40.38167,-95.83834,Lifetime Vision Center,1,"Clarinda, IA",False,-1,5.0,NE
+"928 Valley View Dr, Ste 17, Council Bluffs, IA 51503",optometrist,Council Bluffs,86.64959086169587,41.2496147155762,-95.8134536743164,Ideal Eyecare,1,"Clarinda, IA",False,-1,5.0,IA
+"715 Harmony St, Ste 300, Council Bluffs, IA 51503",optometrist,Council Bluffs,89.72590209472851,41.26897,-95.8409999,Midwest Eye Care PC,3,"Clarinda, IA",False,-1,4.5,IA
+"3701 Metro Dr, Ste 400, Council Bluffs, IA 51501",optometrist,Council Bluffs,86.25162333649793,41.222307,-95.837729,America's Best Contacts & Eyeglasses,4,"Clarinda, IA",False,2,2.5,IA
+"1851 Madison Ave, Ste 714, Council Bluffs, IA 51503",optometrist,Council Bluffs,86.35649734765005,41.2410274659892,-95.8190782772461,Pearle Vision,1,"Clarinda, IA",False,-1,5.0,IA

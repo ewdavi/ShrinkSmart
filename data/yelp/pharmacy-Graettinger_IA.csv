@@ -1,0 +1,10 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"522 Central Ave, Estherville, IA 51334",pharmacy,Estherville,19.650753679914303,43.401825,-94.836906,Estherville Snyder Drug,1,"Graettinger, IA",False,-1,4.0,IA
+"1500 18th St, Spirit Lake, IA 51360",pharmacy,Spirit Lake,35.945094861227076,43.4233436584473,-95.1131820678711,Hyvee Pharmacy,1,"Graettinger, IA",False,2,4.0,IA
+"1012 Okoboji Ave, Milford, IA 51351",pharmacy,Milford,33.757782756822074,43.3253021240234,-95.1495513916016,Hy-Vee,1,"Graettinger, IA",False,-1,3.0,IA
+"1221 Central Ave, Estherville, IA 51334",pharmacy,Estherville,19.51460292895327,43.402530670166,-94.8286590576172,Hyvee Pharmacy,2,"Graettinger, IA",False,1,3.5,IA
+"1123 E Blue Earth Ave, Fairmont, MN 56031",pharmacy,Fairmont,52.39582700278411,43.6526145935059,-94.4461441040039,Walgreens,1,"Graettinger, IA",False,-1,5.0,MN
+"2200 17th St, Spirit Lake, IA 51360",pharmacy,Spirit Lake,36.73363523242887,43.42382,-95.12433,Walmart Supercenter,2,"Graettinger, IA",False,1,2.5,IA
+"322 South State Street, Fairmont, MN 56031",pharmacy,Fairmont,52.03052045796905,43.6505858,-94.4475549,Sterling Drug,1,"Graettinger, IA",False,2,5.0,MN
+"1831 Lake Ave, Storm Lake, IA 50588",pharmacy,Storm Lake,73.28445794352979,42.664124,-95.1970284,Walmart Supercenter,1,"Graettinger, IA",False,2,1.0,IA
+"1111 N 2nd, Cherokee, IA 51012",pharmacy,Cherokee,83.81227750909827,42.763485,-95.553152,Kmart,2,"Graettinger, IA",False,-1,1.0,IA

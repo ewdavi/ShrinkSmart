@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"218 E Washington St, Iowa City, IA 52240",optometrist,Iowa City,44.73914615559496,41.6604309082031,-91.5323181152344,Discerning Eye,16,"Columbus Junction, IA",False,3,5.0,IA
+"315 Parham St, Ste B, Muscatine, IA 52761",optometrist,Muscatine,31.139331506064273,41.43428,-91.0561,Family Eye Center,2,"Columbus Junction, IA",False,-1,5.0,IA
+"1176 Commercial Dr, Riverside, IA 52327",optometrist,Riverside,27.781972691828724,41.4875740864398,-91.5468949824572,Iowa River Crossing,1,"Columbus Junction, IA",False,-1,4.0,IA
+"605 S 10th Ave, Washington, IA 52353",optometrist,Washington,26.42645314500947,41.2938766479492,-91.6814727783203,Williams Ben Optometrist,1,"Columbus Junction, IA",False,-1,5.0,IA
+"640 Highway 1 W, Ste 2, Iowa City, IA 52246",optometrist,Iowa City,43.897654380531606,41.648196,-91.5485,Jensen Eyecare Center,2,"Columbus Junction, IA",False,-1,5.0,IA
+"103 W Main St, New London, IA 52645",optometrist,New London,39.30135408004901,40.9255447387695,-91.4020080566406,McPheron Robert S Optometrist,2,"Columbus Junction, IA",False,-1,5.0,IA
+"315 Parham St, Muscatine, IA 52761",optometrist,Muscatine,31.13990843819105,41.43428,-91.0561,Virdi Eye Clinic,1,"Columbus Junction, IA",False,-1,1.0,IA
+"301 S Iowa Ave, Washington, IA 52353",optometrist,Washington,27.34790720764174,41.2971458435059,-91.6921768188477,Washington Eye Care Center,1,"Columbus Junction, IA",False,-1,1.0,IA
+"2900 Heartland Dr, Coralville, IA 52241",optometrist,Coralville,51.135184293684524,41.697404,-91.617348,Aria Eye Care,2,"Columbus Junction, IA",False,-1,5.0,IA
+"1614 Sycamore St, Iowa City, IA 52240",optometrist,Iowa City,42.170783090437816,41.6428877,-91.5114851,McDonald Optical,3,"Columbus Junction, IA",False,3,3.5,IA
+"1451 Coral Ridge Ave, Ste 518, Coralville, IA 52241",optometrist,Coralville,49.949528743797174,41.690949,-91.601543,Pearle Vision,1,"Columbus Junction, IA",False,-1,5.0,IA
+"1035 Lawrence Dr, Ste 106, Burlington, IA 52601",optometrist,Burlington,56.637146819326446,40.797684940876,-91.140743335809,All About Eyes - Burlington,2,"Columbus Junction, IA",False,1,4.5,IA
+"1700 Park Ave, Muscatine, IA 52761",optometrist,Muscatine,33.49875778757011,41.44465,-91.03127,Vision Center PC,1,"Columbus Junction, IA",False,-1,1.0,IA
+"660 W Cherry St, North Liberty, IA 52317",optometrist,North Liberty,56.23311553395754,41.74998,-91.60865,Blink Vision By Veatch,1,"Columbus Junction, IA",False,-1,5.0,IA
+"201 S Clinton St, Iowa City, IA 52240",optometrist,Iowa City,44.69817035194818,41.6592781,-91.5354108,Advanced Eye Care,5,"Columbus Junction, IA",False,-1,2.0,IA
+"1018 William St, Iowa City, IA 52240",optometrist,Iowa City,42.76046227419112,41.6493507,-91.4987203,Eye Associates,3,"Columbus Junction, IA",False,-1,2.0,IA
+"2056 8th St, Coralville, IA 52241",optometrist,Coralville,48.82123388010657,41.682258,-91.594198,The Looking Glass Optical,3,"Columbus Junction, IA",False,2,3.5,IA
+"1451 Coral Ridge Ave, Ste 104, Coralville, IA 52241",optometrist,Coralville,50.06689593609507,41.690953,-91.605091,LensCrafters,2,"Columbus Junction, IA",False,2,2.5,IA
+"1481 Coral Ridge Ave, Coralville, IA 52241",optometrist,Coralville,50.58126679711325,41.6918716,-91.6058197,Copeland Eyacare,1,"Columbus Junction, IA",False,-1,5.0,IA
+"1718 E Kimberly Rd, Davenport, IA 52807",optometrist,Davenport,74.7373164606024,41.5574258325614,-90.5506145954132,Lifetime Eyehealth Associates,2,"Columbus Junction, IA",False,2,4.0,IA

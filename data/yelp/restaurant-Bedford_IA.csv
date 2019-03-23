@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"804 Pollock Blvd, Bedford, IA 50833",restaurant,Bedford,0.5782073976303302,40.676432,-94.724937,Junction Cafe,8,"Bedford, IA",False,1,4.0,IA
+"304 Pearl St, Bedford, IA 50833",restaurant,Bedford,0.6932056411243459,40.668768729,-94.7181324178142,Frosty Trete,4,"Bedford, IA",False,1,5.0,IA
+"1515 S 16th St, Clarinda, IA 51632",restaurant,Clarinda,27.009722882840112,40.7232322692871,-95.0386047363281,Clarinda Ice House,17,"Bedford, IA",False,2,4.0,IA
+"619 Davis Ave, Corning, IA 50841",restaurant,Corning,35.305699166842025,40.9887025549612,-94.7345465874671,Primrose Restaurant,7,"Bedford, IA",False,-1,4.5,IA
+"225 W 1st St, Clearmont, MO 64431",restaurant,Clearmont,31.59301614902895,40.51047,-95.034141,The Q Restaurant,4,"Bedford, IA",False,1,5.0,MO
+"203 3rd St, Carbon, IA 50839",restaurant,Carbon,42.87138615378923,41.0495987303068,-94.8238260841309,Branding Iron Saloon and Grill,2,"Bedford, IA",False,-1,5.0,IA
+"301 E 2nd, Grant City, MO 64456",restaurant,Grant City,33.66211931427586,40.4873549938202,-94.4103596359491,Hart's Drive-In,1,"Bedford, IA",False,-1,5.0,MO
+"100 W South St, Mount Ayr, IA 50854",restaurant,Mount Ayr,41.394914483967895,40.7110937,-94.2375975,El Vaquero,3,"Bedford, IA",False,1,4.5,IA
+"603 Pollock Blvd, Bedford, IA 50833",restaurant,Bedford,0.7086645197329867,40.676728,-94.721346,Godfathers Pizza,1,"Bedford, IA",False,1,4.0,IA
+"122 N Main St, Lenox, IA 50851",restaurant,Lenox,27.30198967825336,40.88179,-94.55883,The Office,3,"Bedford, IA",False,1,4.5,IA
+"300 9th St, Corning, IA 50841",restaurant,Corning,35.57585384296103,40.991165112281,-94.7321927486878,Three C's Diner,5,"Bedford, IA",False,1,4.0,IA
+"964 S Main St, Maryville, MO 64468",restaurant,Maryville,39.319679655702146,40.3361522649516,-94.8741246387362,El Maguey,13,"Bedford, IA",False,2,5.0,MO
+"208 N Main St, Maryville, MO 64468",restaurant,Maryville,38.12955999483393,40.3473052978516,-94.8732528686523,A&G Restaurant,49,"Bedford, IA",False,2,3.5,MO
+"112 E Washington St, Clarinda, IA 51632",restaurant,Clarinda,27.328080451523014,40.7395799,-95.03709,Robin's Nest Cafe And Bakery,1,"Bedford, IA",False,1,5.0,IA
+"120 S 15th St, Clarinda, IA 51632",restaurant,Clarinda,27.187574361736274,40.737489,-95.036138,Down Right Delicious,3,"Bedford, IA",False,2,5.0,IA
+"108 E Washington St, Clarinda, IA 51632",restaurant,Clarinda,27.35340268922418,40.7395799,-95.03734,J's Pizza & Steak House,9,"Bedford, IA",False,1,4.0,IA
+"117 N 15th, Clarinda, IA 51632",restaurant,Clarinda,27.231269512045703,40.73887,-95.03609,J Bruners Clarinda,8,"Bedford, IA",False,3,4.0,IA
+"207 S Elm St, Shenandoah, IA 51601",restaurant,Shenandoah,55.570252236214316,40.7642737,-95.3735148,The Sanctuary Restaurant,16,"Bedford, IA",False,2,4.5,IA
+"608 Davis Ave, Corning, IA 50841",restaurant,Corning,35.2800912721583,40.9882428,-94.7342851,Kay's Kafe,1,"Bedford, IA",False,-1,5.0,IA
+"221 1/2 N 16th St, Clarinda, IA 51632",restaurant,Clarinda,27.39391524734306,40.7400412650202,-95.0377269060459,Mi Casita,3,"Bedford, IA",False,-1,4.5,IA

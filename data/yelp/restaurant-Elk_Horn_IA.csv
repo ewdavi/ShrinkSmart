@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"4234 Main St, Elk Horn, IA 51531",restaurant,Elk Horn,0.2066904748116326,41.59327,-95.06034,The Flour Mill,23,"Elk Horn, IA",False,2,5.0,IA
+"2117 Antique City Dr, Walnut, IA 51577",restaurant,Walnut,16.803151804216643,41.5000801,-95.2220078,Emma Jeans,31,"Elk Horn, IA",False,1,4.0,IA
+"4234 Main St, Elk Horn, IA 51531",restaurant,Elk Horn,0.19090061836045166,41.5932693,-95.0600815,Thirsty Mermaids Brew Cafe,1,"Elk Horn, IA",False,1,5.0,IA
+"307 Lincoln St, Brayton, IA 50042",restaurant,Brayton,12.833969035567483,41.5424631245396,-94.9241391196847,Barnburner Bar and Grill,1,"Elk Horn, IA",False,-1,5.0,IA
+"212 County Trunk Rd, Brayton, IA 50042",restaurant,Brayton,12.765979889007356,41.544582,-94.923685,Mel's Diner,6,"Elk Horn, IA",False,1,4.5,IA
+"713 N Walnut St, Avoca, IA 51521",restaurant,Avoca,25.957804555390165,41.4830322265625,-95.3374633789062,Grandma's Diner,6,"Elk Horn, IA",False,1,4.5,IA
+"1101 7th St, Harlan, IA 51537",restaurant,Harlan,22.47406025858821,41.6577211220174,-95.31892105937,Milk & Honey,8,"Elk Horn, IA",False,2,5.0,IA
+"214 Antique City Dr, Walnut, IA 51577",restaurant,Walnut,18.58372711687119,41.4765930175781,-95.2225570678711,Glenn's Food & Pub,1,"Elk Horn, IA",False,1,4.0,IA
+"407 Victoria St, Harlan, IA 51537",restaurant,Harlan,22.12719412520315,41.6546974182129,-95.3158798217773,Victoria Station,7,"Elk Horn, IA",False,2,4.5,IA
+"12 East St, Shelby, IA 51570",restaurant,Shelby,33.74514953748162,41.506002,-95.4510104,The Corn Crib,57,"Elk Horn, IA",False,1,4.5,IA
+"501 Ann St, Irwin, IA 51446",restaurant,Irwin,24.950424087058305,41.7904908218381,-95.2060234602458,O'Haras Steakhouse,3,"Elk Horn, IA",False,2,3.5,IA
+"4010 1st St, Hamlin, IA 50117",restaurant,Hamlin,15.342009464957789,41.6660561568077,-94.9057954593164,Darrel's Place,14,"Elk Horn, IA",False,1,4.0,IA
+"133 N Elm St, Avoca, IA 51521",restaurant,Avoca,26.39597154902245,41.4774208,-95.3392792,Old Main Street Grille,9,"Elk Horn, IA",False,2,3.5,IA
+"319 Walnut St, Atlantic, IA 50022",restaurant,Atlantic,21.11265155979814,41.40725,-95.0117,Farmer's Walnut Street Diner,8,"Elk Horn, IA",False,-1,4.0,IA
+"1807 White Pole Rd, Anita, IA 50020",restaurant,Anita,29.404098720572737,41.43839,-94.776417,Redwood Steak House,15,"Elk Horn, IA",False,2,3.0,IA
+"1500 E 7th St, Atlantic, IA 50022",restaurant,Atlantic,21.84599779071987,41.4043579101562,-94.9920883178711,Oinkers Lounge and Grill,3,"Elk Horn, IA",False,2,4.5,IA
+"313 Chestnut St, Atlantic, IA 50022",restaurant,Atlantic,21.05635299732516,41.40754,-95.01345,Plaza Azteca,18,"Elk Horn, IA",False,-1,5.0,IA
+"604 W 7th St, Atlantic, IA 50022",restaurant,Atlantic,21.28287842973463,41.404382,-95.0215983,West Side Diner,10,"Elk Horn, IA",False,1,4.0,IA
+"320 Broadway St, Audubon, IA 50025",restaurant,Audubon,17.829284213353844,41.7208002,-94.9325022,Adobe Mexican Restaurant,5,"Elk Horn, IA",False,1,3.5,IA
+"302 Center St, Wiota, IA 50274",restaurant,Wiota,25.858581927780975,41.4012985,-94.8873367,Wiota Steak House & Lounge,3,"Elk Horn, IA",False,2,3.5,IA

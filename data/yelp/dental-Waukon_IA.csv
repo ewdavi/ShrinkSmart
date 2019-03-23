@@ -1,0 +1,20 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1630 Losey Blvd S, La Crosse, WI 54601",dental,La Crosse,62.0243897951381,43.7946968078613,-91.2203521728516,"Moore John W, DDS",3,"Waukon, IA",False,-1,5.0,WI
+"820 S Marquette Rd, Prairie Du Chien, WI 53821",dental,Prairie Du Chien,37.23070358924389,43.041524,-91.139774,Dental Associates Of Prairie Du Chien,1,"Waukon, IA",False,-1,5.0,WI
+"2102 State Road 16, La Crosse, WI 54601",dental,La Crosse,68.38073511876273,43.8526840209961,-91.2110290527344,Yahnke Dental,1,"Waukon, IA",False,-1,5.0,WI
+"2030 7th St S, La Crosse, WI 54601",dental,La Crosse,60.91099916858819,43.79127,-91.24997,Smile Care Dental Center,2,"Waukon, IA",False,-1,4.5,WI
+"135 7th St SE, Oelwein, IA 50662",dental,Oelwein,75.43834531912184,42.6697998,-91.9104614,Oelwein Dental Associates,1,"Waukon, IA",False,-1,5.0,IA
+"620 N Hwy 44/76, Caledonia, MN 55921",dental,Caledonia,41.295656669834976,43.6396237,-91.5022132,Herman Dental Clinic,2,"Waukon, IA",False,-1,2.0,MN
+"20 Copeland Ave, Ste 201, La Crosse, WI 54601",dental,La Crosse,64.15695507383178,43.8214492797852,-91.2487716674805,Midwest Dental - La Crosse,1,"Waukon, IA",False,-1,5.0,WI
+"2 Copeland Ave, Ste 203, La Crosse, WI 54603",dental,La Crosse,63.959079424028374,43.81966,-91.249062,"Shea John V E, DDS",2,"Waukon, IA",False,-1,3.5,WI
+"1800 State Rd 16, La Crosse, WI 54601",dental,La Crosse,67.9906782505895,43.849142,-91.21168,"Kevin B Cook, DDS",2,"Waukon, IA",False,-1,5.0,WI
+"1025 King St, La Crosse, WI 54601",dental,La Crosse,63.14762990796873,43.8102684020996,-91.2414093017578,Dingman John T DDS,1,"Waukon, IA",False,-1,5.0,WI
+"1200 Main St, La Crosse, WI 54601",dental,La Crosse,63.321947397322624,43.81127,-91.23855,Moore Kerrie A DDS,1,"Waukon, IA",False,-1,5.0,WI
+"216 E Charles St, Oelwein, IA 50662",dental,Oelwein,74.47744012771302,42.67837,-91.90961,Berryman Clinton DDS,1,"Waukon, IA",False,-1,5.0,IA
+"615 10th St S, La Crosse, WI 54601",dental,La Crosse,62.59562507529514,43.80496,-91.24205,"Timothy B Durtsche, DDS",3,"Waukon, IA",False,-1,3.5,WI
+"1600 Losey Blvd S, La Crosse, WI 54601",dental,La Crosse,62.07480338225769,43.794994,-91.220197,Midwest Dental,2,"Waukon, IA",False,-1,3.0,WI
+"2830 Darling Court, Onalaska, WI 54601",dental,Onalaska,69.58305399065979,43.863213,-91.207429,Maplewood Dental,1,"Waukon, IA",False,-1,2.0,WI
+"W5884 Coulee Springs Ln, La Crosse, WI 54601",dental,La Crosse,62.088390713497475,43.78921,-91.19812,Coulee Region Dental Lab,1,"Waukon, IA",False,-1,1.0,WI
+"3143 State Rd, Ste 203, La Crosse, WI 54601",dental,La Crosse,62.0572035815687,43.7921142578125,-91.2097015380859,Schmidt Steven A DDS,1,"Waukon, IA",False,-1,1.0,WI
+"1900 S Ave, La Crosse, WI 54601",dental,La Crosse,61.35790024980789,43.7947883961572,-91.2473452091217,Gundersen Health System,10,"Waukon, IA",False,-1,2.0,WI
+"5971 W US Hwy 52, Ste I, New Palestine, IN 46163",dental,New Palestine,84.94578069591944,39.72551,-85.91312,"Lee J Vanessa, DMD",1,"Waukon, IA",False,-1,4.0,IN

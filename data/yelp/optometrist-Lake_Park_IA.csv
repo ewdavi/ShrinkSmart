@@ -1,0 +1,4 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"714 S Grand Ave, Spencer, IA 51301",optometrist,Spencer,38.27384830588006,43.1308555603027,-95.1434097290039,Exact Eye Care,2,"Lake Park, IA",False,-1,2.5,IA
+"230 10th St, Windom, MN 56101",optometrist,Windom,50.17261899750641,43.8666849,-95.1154354,Fisher Primary Eye Care Clinic,1,"Lake Park, IA",False,-1,1.0,MN
+"302 1st Ave S, Saint James, MN 56081",optometrist,Saint James,82.21319127418286,43.9805967,-94.6317227,Olson Optical,1,"Lake Park, IA",False,-1,5.0,MN

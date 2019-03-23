@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"101 S Lafayette St, Corydon, IA 50060",restaurant,Corydon,7.051675237621735,40.7576421185103,-93.317101970315,Betty's Cafe,1,"Allerton, IA",False,-1,4.0,IA
+"206 S Franklin St, Corydon, IA 50060",restaurant,Corydon,6.886871518197878,40.7568794594607,-93.3190070092678,The Littlest Cake Shop & Deli,2,"Allerton, IA",False,-1,4.5,IA
+"115 W Jackson St, Corydon, IA 50060",restaurant,Corydon,7.07061764430966,40.7585249,-93.3182663,Breadeaux Pizza,1,"Allerton, IA",False,-1,5.0,IA
+"2130 Court Ave, Chariton, IA 50049",restaurant,Chariton,34.28016271414205,41.01411,-93.32643,Shoemakers Business 34 Steakhouse,1,"Allerton, IA",False,-1,4.0,IA
+"118 Shamrock St, Melrose, IA 52569",restaurant,Melrose,40.203397515878756,40.9755855919198,-93.0476494944428,Feehan's Pub,1,"Allerton, IA",False,1,4.0,IA
+"831 Braden Ave, Chariton, IA 50049",restaurant,Chariton,34.66711161332769,41.01573,-93.30655,HyVee Market grille,7,"Allerton, IA",False,2,3.0,IA
+"220 N Washington St, Corydon, IA 50060",restaurant,Corydon,7.127545093635318,40.7587080448866,-93.3180695772171,Casey's Carry Out Pizza,1,"Allerton, IA",False,-1,5.0,IA
+"202 S 17th St, Unionville, MO 63565",restaurant,Unionville,40.15580290491076,40.4761665728131,-93.0030119419098,Smiths Cafe,1,"Allerton, IA",False,-1,5.0,MO
+"Lungarno Corsini 21, Florence, FI 50123",restaurant,Florence,19.24160486637568,40.84692,-93.50352,Rivalta Cafe,1,"Allerton, IA",False,-1,4.0,FI
+"200 N Main St, Leon, IA 50144",restaurant,Leon,32.13269196565837,40.7405406819213,-93.7470510883605,From The Ground,1,"Allerton, IA",False,-1,5.0,IA
+"400 N Main St, Chariton, IA 50049",restaurant,Chariton,34.93637837137313,41.0183219909668,-93.3081283569336,Double Dip & More,3,"Allerton, IA",False,-1,3.5,IA
+"500-598 N College St, Princeton, MO 64673",restaurant,Princeton,38.50449918925374,40.4007897532985,-93.5799447827339,Crossroads Bar & Grill,2,"Allerton, IA",False,-1,2.5,MO
+"2002 Court Ave, Chariton, IA 50049",restaurant,Chariton,34.312439373438465,41.0141525268555,-93.3238220214844,Hardee's,1,"Allerton, IA",False,-1,5.0,IA
+"123 E Grace Ave, Chariton, IA 50049",restaurant,Chariton,33.771322541142624,41.0056381225586,-93.2922592163086,Panda Buffet,3,"Allerton, IA",False,-1,2.5,IA
+"10292 Wildflower Dr, Unionville, MO 63565",restaurant,Unionville,36.10279806822131,40.520952,-93.018139,Lake Thunderhead,2,"Allerton, IA",False,-1,3.5,MO
+"2415 Main St, Unionville, MO 63565",restaurant,Unionville,39.53688017680651,40.4767851,-93.0123159,Caseys Carry Out Pizza,2,"Allerton, IA",False,-1,4.0,MO
+"1825 Main St, Unionville, MO 63565",restaurant,Unionville,39.97283455929958,40.47676,-93.005181,Dairy Lane,2,"Allerton, IA",False,1,4.5,MO
+"16999 Highway J18, Moravia, IA 52571",restaurant,Moravia,39.727359082460865,40.8914337158203,-92.9636764526367,Dogg's Rv Park,3,"Allerton, IA",False,2,1.5,IA
+"308 1/2 N Broadway St, Princeton, MO 64673",restaurant,Princeton,38.89495645401102,40.3983197361231,-93.5856527835131,Hometown Cafe,1,"Allerton, IA",False,-1,3.0,MO
+"2204 Main St, Unionville, MO 63565",restaurant,Unionville,39.689265701912376,40.476947,-93.009362,Pizza Hut,1,"Allerton, IA",False,2,1.0,MO

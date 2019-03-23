@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"900 E Main St, Lamoni, IA 50140",restaurant,Lamoni,0.5797074448898795,40.6236950308084,-93.9216598123312,Sale Barn Cafe,7,"Lamoni, IA",False,1,4.5,IA
+"2070 Main St, Lamoni, IA 50140",restaurant,Lamoni,2.515362304291516,40.6239049539338,-93.8965551263483,Quilt Country Family Restaurant,10,"Lamoni, IA",False,1,3.5,IA
+"140 N Linden St, Lamoni, IA 50140",restaurant,Lamoni,0.8249460745324217,40.62456,-93.9334,La Cocina Real,12,"Lamoni, IA",False,2,4.5,IA
+"303 E Main St, Lamoni, IA 50140",restaurant,Lamoni,0.5587208872645938,40.6236115,-93.9304123,Pizza Shack,10,"Lamoni, IA",False,1,4.0,IA
+"602 E Main St, Lamoni, IA 50140",restaurant,Lamoni,0.4420693773512701,40.62372,-93.92617,Pizza Hut,3,"Lamoni, IA",False,-1,4.0,IA
+"406 E Main St, Lamoni, IA 50140",restaurant,Lamoni,0.5395033448929649,40.6237138062716,-93.9291847497225,Casey's Carry Out Pizza,1,"Lamoni, IA",False,-1,3.0,IA

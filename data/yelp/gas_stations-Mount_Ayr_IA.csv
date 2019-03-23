@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"21022 State Hwy N I-35 Exit 106, Eagleville, MO 64442",gas stations,Eagleville,35.04287235936587,40.468629,-93.978968,Loves Travel Stop,5,"Mount Ayr, IA",False,1,4.5,MO
+"1706 Jeffreys Dr, Osceola, IA 50213",gas stations,Osceola,51.466874508916575,41.02729,-93.789346,Casey's General Store,3,"Mount Ayr, IA",False,1,3.0,IA
+"24063 E 240th Ave, Eagleville, MO 64442",gas stations,Eagleville,37.79493811472036,40.44705,-93.97598,Phillips 66,2,"Mount Ayr, IA",False,-1,4.5,MO
+"21022 E state Hwy N, Eagleville, MO 64442",gas stations,Eagleville,35.27752353020239,40.465752,-93.979255,Love's,2,"Mount Ayr, IA",False,-1,3.5,MO
+"304 E US Highway 136, Albany, MO 64402",gas stations,Albany,51.34167352970496,40.2571705059353,-94.3294542637543,Shoat's,1,"Mount Ayr, IA",False,-1,5.0,MO
+"210 S Spruce Dr, Lamoni, IA 50140",gas stations,Lamoni,30.537535870951576,40.621723,-93.898589,I-35 Auto & Truck,4,"Mount Ayr, IA",False,-1,3.0,IA
+"207 S Front St, Humeston, IA 50123",gas stations,Humeston,64.32387254970956,40.857606,-93.4995549,Casey's General Store,1,"Mount Ayr, IA",False,-1,5.0,IA
+"218 E 4th St, Stanberry, MO 64489",gas stations,Stanberry,60.720534366122045,40.2173849,-94.5396761,Casey's Carry Out Pizza,3,"Mount Ayr, IA",False,-1,3.5,MO
+"601 SE Kent St, Greenfield, IA 50849",gas stations,Greenfield,67.97612713307713,41.30325,-94.4526,Casey's General Store,1,"Mount Ayr, IA",False,-1,4.0,IA
+"1523 N Main St, Maryville, MO 64468",gas stations,Maryville,66.45736460333663,40.3598125273615,-94.8733130791989,Casey's General Store,2,"Mount Ayr, IA",False,-1,1.5,MO

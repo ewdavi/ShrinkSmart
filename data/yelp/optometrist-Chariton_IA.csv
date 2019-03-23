@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"147 S Main St, Osceola, IA 50213",optometrist,Osceola,38.4773534231798,41.0335731506348,-93.7653656005859,Osceola Vision Center,2,"Chariton, IA",False,-1,1.0,IA
+"9250 University Ave, Ste 110, West Des Moines, IA 50266",optometrist,West Des Moines,78.35014502582527,41.6003351,-93.8160694,Elite Eye Care,13,"Chariton, IA",False,-1,4.5,IA
+"6584 165th St, Albia, IA 52531",optometrist,Albia,42.66673944834547,41.0447696596384,-92.7966447919607,Adler William R OD,1,"Chariton, IA",False,-1,1.0,IA
+"125 N 13th St, Centerville, IA 52544",optometrist,Centerville,48.23545571108549,40.733363,-92.873098,International Eyecare Center,1,"Chariton, IA",False,-1,5.0,IA
+"5075 E University Ave, Ste C, Pleasant Hill, IA 50327",optometrist,Pleasant Hill,67.1546098656626,41.6004564,-93.5145763,Eye Care Of Iowa PC - Pleasant Hill,5,"Chariton, IA",False,-1,3.5,IA
+"700 Locust St, Ste 305, Des Moines, IA 50309",optometrist,Des Moines,68.68763845196489,41.58615,-93.6266799,"Jeffrey Koenen, OD - Dsmeye-Skywalk",3,"Chariton, IA",False,2,5.0,IA
+"1551 Valley West Dr, Ste 242, West Des Moines, IA 50266",optometrist,West Des Moines,74.37742862949007,41.597501,-93.749512,Huseman Eye Care,10,"Chariton, IA",False,-1,4.5,IA
+"200 Army Post Rd, Ste 16, Des Moines, IA 50315",optometrist,Des Moines,62.243284666456404,41.52572,-93.61866,Eye Care of Iowa -South Des Moines,3,"Chariton, IA",False,-1,4.5,IA
+"2405 Ingersoll Ave, Des Moines, IA 50312",optometrist,Des Moines,69.47449325391118,41.58603,-93.65005,Vogue Vision,10,"Chariton, IA",False,2,4.0,IA
+"3800 Merle Hay Rd, Ste 407, Des Moines, IA 50310",optometrist,Des Moines,75.51981969651641,41.6295475512743,-93.6978703737259,Huseman Eye Care,3,"Chariton, IA",False,-1,5.0,IA
+"2600 Grand Ave 202, Ste 202, Des Moines, IA 50312",optometrist,Des Moines,69.29360529130336,41.583854,-93.651684,Des Moines Eye Care,3,"Chariton, IA",False,-1,5.0,IA
+"2001 Westown Pkwy, Ste 205, West Des Moines, IA 50265",optometrist,West Des Moines,73.82227265587103,41.598824,-93.732787,Valley Optical Shoppes,3,"Chariton, IA",False,-1,5.0,IA
+"5201 SE 14th Street, Des Moines, IA 50320",optometrist,Des Moines,62.69950333700693,41.5372657775879,-93.596321105957,Vision4Less,3,"Chariton, IA",False,2,3.0,IA
+"6200 Westown Pkwy, West Des Moines, IA 50266",optometrist,West Des Moines,75.93665868821314,41.5935096,-93.7944446,Wolfe Eye Clinic - Des Moines,8,"Chariton, IA",False,-1,4.5,IA
+"1350 E Hickman Rd, Waukee, IA 50263",optometrist,Waukee,80.26570257064806,41.614217012383,-93.8469657611114,Insight Vision,2,"Chariton, IA",False,-1,5.0,IA
+"1905 Ep True Pkwy, West Des Moines, IA 50265",optometrist,West Des Moines,71.3297378981917,41.5716278,-93.7330924,Eye Care Of Iowa PC - West Des Moines,4,"Chariton, IA",False,-1,3.0,IA
+"2699 86th St, Urbandale, IA 50322",optometrist,Urbandale,75.82113890583665,41.618146,-93.735617,Vision Park Family Eye Care,2,"Chariton, IA",False,2,5.0,IA
+"315 E 5th St, Des Moines, IA 50309",optometrist,Des Moines,68.4856807108047,41.58911,-93.61057,Westrum Optometry,4,"Chariton, IA",False,3,4.5,IA
+"1212 Pleasant St, Ste 202, Des Moines, IA 50309",optometrist,Des Moines,69.47562888501955,41.59051,-93.637123,Associated Ophthalmologists PC,2,"Chariton, IA",False,-1,5.0,IA
+"6305 Mills Civic Pkwy, Ste 3113, West Des Moines, IA 50266",optometrist,West Des Moines,73.04436502861867,41.561815,-93.795584,LasikPlus Vision Center,17,"Chariton, IA",False,-1,4.5,IA

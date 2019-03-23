@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"744 Washington St, Pella, IA 50219",convenience stores,Pella,43.72604093000748,41.40827,-92.91831,Kum & Go,1,"Albia, IA",False,2,5.0,IA
+"207 S Front St, Humeston, IA 50123",convenience stores,Humeston,61.3504493261991,40.857606,-93.4995549,Casey's General Store,1,"Albia, IA",False,-1,5.0,IA
+"720 Richmond Ave, Ottumwa, IA 52501",convenience stores,Ottumwa,31.190782989637867,41.00708,-92.43257,champs chicken Richmond & Ferry BP,1,"Albia, IA",False,-1,3.0,IA
+"707 S Main St, New Sharon, IA 50207",convenience stores,New Sharon,50.91855484958451,41.468242,-92.652088,Casey's General Store,1,"Albia, IA",False,-1,5.0,IA
+"4118 73rd St, Agency, IA 52530",convenience stores,Agency,47.477052680548624,40.99489,-92.23913,D's Eldon Y,1,"Albia, IA",False,-1,5.0,IA
+"414 S Clark St, Pella, IA 50219",convenience stores,Pella,41.81396999940545,41.3918762207031,-92.9115447998047,Casey's General Store,1,"Albia, IA",False,-1,3.0,IA
+"5500 East University Ave, Pleasant Hill, IA 50327",convenience stores,Pleasant Hill,86.69790436136914,41.5999908994936,-93.5042499352088,Fareway,2,"Albia, IA",False,2,5.0,IA
+"1113 E Army Post Rd, Des Moines, IA 50315",convenience stores,Des Moines,86.87514298150782,41.52591,-93.60099,Hy-Vee Food Stores,6,"Albia, IA",False,2,3.0,IA
+"2140 E Park Ave, Des Moines, IA 50320",convenience stores,Des Moines,87.60136372309799,41.555591583252,-93.5779342651367,Git-N-Go Convenience Stores,2,"Albia, IA",False,-1,2.0,IA
+"6501 SE 14th St, Des Moines, IA 50320",convenience stores,Des Moines,86.42959493613014,41.5252108,-93.5966451,Git-N-Go Convenience Stores,2,"Albia, IA",False,-1,2.5,IA
+"1111 E Army Post Rd, Ste 2204, Des Moines, IA 50315",convenience stores,Des Moines,86.8259150918715,41.523728,-93.6027,Target,12,"Albia, IA",False,2,4.0,IA
+"1111 E Army Post Rd, Des Moines, IA 50315",convenience stores,Des Moines,86.73984080827897,41.5227660268205,-93.6024180650384,Southridge Mall,9,"Albia, IA",False,2,2.5,IA
+"515 E Grand Ave, Des Moines, IA 50309",convenience stores,Des Moines,92.22272922665397,41.590633301355,-93.610725445747,New Oriental Food Store,17,"Albia, IA",False,1,4.5,IA
+"3221 SE 14th St, Des Moines, IA 50320",convenience stores,Des Moines,88.5534702323502,41.5539207,-93.5953522,Hy-Vee Food Stores,10,"Albia, IA",False,2,3.5,IA
+"2945 E University Ave, Des Moines, IA 50317",convenience stores,Des Moines,89.85584215342102,41.6001,-93.55904,QuikTrip,7,"Albia, IA",False,1,5.0,IA
+"3941 SE 14th St, Des Moines, IA 50320",convenience stores,Des Moines,88.20967984846325,41.548698425293,-93.5961990356445,QuikTrip,1,"Albia, IA",False,2,5.0,IA
+"3274 E University Ave, Des Moines, IA 50317",convenience stores,Des Moines,89.50394176875065,41.6008644104004,-93.5517730712891,Git-N-Go Convenience Stores,1,"Albia, IA",False,-1,1.0,IA
+"200 Army Post Rd, Ste 10, Des Moines, IA 50315",convenience stores,Des Moines,87.9697189726684,41.5257099,-93.61866,Family Dollar Stores,2,"Albia, IA",False,1,2.0,IA
+"2428 Hubbell Ave, Des Moines, IA 50317",convenience stores,Des Moines,91.12397494584184,41.60612,-93.57277,QuikTrip,2,"Albia, IA",False,-1,4.5,IA
+"2001 SE 6th St, Des Moines, IA 50315",convenience stores,Des Moines,90.30984196481388,41.5698165893555,-93.6049652099609,B & B Grocery Meat & Deli,73,"Albia, IA",False,1,4.5,IA

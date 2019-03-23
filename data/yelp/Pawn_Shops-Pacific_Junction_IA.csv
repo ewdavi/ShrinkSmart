@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2407 Lincoln Rd, Bellevue, NE 68005",Pawn Shops,Bellevue,15.7232770773962,41.13386,-95.90702,Bud's Pawn Shop,3,"Pacific Junction, IA",False,2,2.5,NE
+"9002 Maple St, Omaha, NE 68134",Pawn Shops,Omaha,36.54391886697635,41.285472,-96.053085,AAA Ultimate Pawn,1,"Pacific Junction, IA",False,-1,5.0,NE
+"4102 S 24th St, Omaha, NE 68107",Pawn Shops,Omaha,25.608133909734534,41.219566,-95.947334,AAA Ultimate Pawn,1,"Pacific Junction, IA",False,1,5.0,NE
+"2505 S 120th St, Omaha, NE 68144",Pawn Shops,Omaha,34.98382756382783,41.23628,-96.1002,Sol's Jewelry & Loan,6,"Pacific Junction, IA",False,1,4.0,NE
+"3724 S 132nd St, Omaha, NE 68144",Pawn Shops,Omaha,35.21106409568403,41.2232233,-96.119605,Good Guys Gun And Pawn,6,"Pacific Junction, IA",False,4,3.0,NE
+"515 S 15th St, Omaha, NE 68102",Pawn Shops,Omaha,28.69540902993242,41.2548112,-95.9356238,Mid-City Jewelry &Loan,1,"Pacific Junction, IA",False,2,3.0,NE
+"6604 N 30th St, Omaha, NE 68112",Pawn Shops,Omaha,35.936869133732635,41.3187066,-95.9567777,Four Aces Pawn,2,"Pacific Junction, IA",False,-1,3.0,NE
+"5632 Ames Ave, Omaha, NE 68104",Pawn Shops,Omaha,35.59100588346651,41.2997036,-96.0009016,AAA Ultimate Pawn,1,"Pacific Junction, IA",False,-1,1.0,NE
+"514 N 16th St, Omaha, NE 68102",Pawn Shops,Omaha,29.733724126439675,41.26437,-95.93751,Sol's Jewelry & Loan,3,"Pacific Junction, IA",False,2,2.5,NE
+"4325 S 120th St, Omaha, NE 68137",Pawn Shops,Omaha,33.48363644902843,41.21768,-96.09962,Guns Unlimited,8,"Pacific Junction, IA",False,2,2.5,NE

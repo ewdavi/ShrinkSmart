@@ -1,0 +1,4 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"304 E US Highway 136, Albany, MO 64402",convenience stores,Albany,56.95274929782687,40.2571705059353,-94.3294542637543,Shoat's,1,"Bedford, IA",False,-1,5.0,MO
+"1715 N Broadway St, Red Oak, IA 51566",convenience stores,Red Oak,57.76018890515144,41.0196571,-95.2329712,Lincoln Farm & Home Service,1,"Bedford, IA",False,-1,5.0,IA
+"I29 Exit 79, Forest City, MO 64451",convenience stores,Forest City,76.98826703497593,40.0804356,-95.1995146,New Squaw Creek Travel Plaza,5,"Bedford, IA",False,-1,2.0,MO

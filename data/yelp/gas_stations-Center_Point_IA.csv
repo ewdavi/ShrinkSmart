@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"696 Grain Ln, Center Point, IA 52213",gas stations,Center Point,1.104760450113336,42.1726767669282,-91.7772366175361,Center Point Travel Plaza,4,"Center Point, IA",False,2,3.5,IA
+"3445 County Home Rd, Cedar Rapids, IA 52411",gas stations,Cedar Rapids,11.829214422262593,42.09436,-91.6988499,Otter Creek Country Stores,6,"Center Point, IA",False,2,3.0,IA
+"3935 Blairs Ferry Rd NE, Cedar Rapids, IA 52402",gas stations,Cedar Rapids,17.717220585407578,42.034062,-91.699362,Hy Vee Gas,2,"Center Point, IA",False,-1,3.0,IA
+"780 N Center Point Rd, Hiawatha, IA 52233",gas stations,Hiawatha,17.077598417315226,42.046161,-91.682012,Casey's General Store,1,"Center Point, IA",False,1,3.0,IA
+"2020 7th Ave, Marion, IA 52302",gas stations,Marion,22.63923605954073,42.03355,-91.59015,Casey's General Store,1,"Center Point, IA",False,-1,5.0,IA
+"340 Marion Blvd, Marion, IA 52302",gas stations,Marion,21.628802252296058,42.0303268432617,-91.6139221191406,Shortstop,1,"Center Point, IA",False,1,5.0,IA
+"5555 Edgewood Rd NE, Cedar Rapids, IA 52411",gas stations,Cedar Rapids,17.643154280873105,42.0340461730957,-91.7019348144531,Casey's General Store,1,"Center Point, IA",False,-1,1.0,IA
+"3270 7th Ave, Marion, IA 52302",gas stations,Marion,23.222231009270274,42.0356213620126,-91.5770631283522,Marion Tire Company,6,"Center Point, IA",False,-1,5.0,IA
+"1888 Blairs Ferry Rd, N.E., Cedar Rapids, IA 52402",gas stations,Cedar Rapids,18.815734520250224,42.03519,-91.66508,Jiffy Lube,6,"Center Point, IA",False,-1,2.5,IA
+"107 1st Ave E, Farley, IA 52046",gas stations,Farley,69.75798442694494,42.44301,-91.00519,Delaneys Auto & Ag Repair,1,"Center Point, IA",False,-1,5.0,IA

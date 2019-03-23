@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"4151 4th St SW, Mason City, IA 50401",pharmacy,Mason City,20.319646376040883,43.14612,-93.26261,Walmart Pharmacy,1,"Nora Springs, IA",False,-1,5.0,IA
+"875 4th St SW, Mason City, IA 50401",pharmacy,Mason City,16.390833789678577,43.14776,-93.21414,Hy-Vee Drugstore,2,"Nora Springs, IA",False,2,3.0,IA
+"615 S Monroe Ave, Mason City, IA 50401",pharmacy,Mason City,15.871833931343167,43.145961,-93.207778,Shopko,1,"Nora Springs, IA",False,2,3.0,IA
+"901 Kelly St, Charles City, IA 50616",pharmacy,Charles City,28.712646394910156,43.06735,-92.67523,Hy-Vee Food Store,2,"Nora Springs, IA",False,1,4.0,IA
+"703 E Main St, Albert Lea, MN 56007",pharmacy,Albert Lea,62.98585691355725,43.6509857177734,-93.3613433837891,Walgreens,1,"Nora Springs, IA",False,1,5.0,MN
+"600 2nd Ave N, Clear Lake, IA 50428",pharmacy,Clear Lake,29.867259997397436,43.13936,-93.38041,Journey Health Shop,2,"Nora Springs, IA",False,-1,5.0,IA
+"1501 4th St SW, Mason City, IA 50401",pharmacy,Mason City,17.121727188643884,43.1482039,-93.2233516,Mercy Home Therapy Shoppe,2,"Nora Springs, IA",False,-1,1.0,IA
+"1307 18th Ave NW, Austin, MN 55912",pharmacy,Austin,59.933359284053786,43.6832202522757,-92.9905900492085,Hy-Vee,1,"Nora Springs, IA",False,-1,5.0,MN
+"616 E US Highway 9, Forest City, IA 50436",pharmacy,Forest City,51.7462774230431,43.269191,-93.627415,Shopko Hometown,1,"Nora Springs, IA",False,-1,2.0,IA
+"1209 18th Ave NW, Austin, MN 55912",pharmacy,Austin,59.899409924218354,43.6846848,-92.988678,Shopko,1,"Nora Springs, IA",False,-1,4.0,MN

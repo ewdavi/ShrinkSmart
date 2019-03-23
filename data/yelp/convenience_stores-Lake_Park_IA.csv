@@ -1,0 +1,12 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1802 Hwy 71 N, Okoboji, IA 51355",convenience stores,Okoboji,17.97255190605491,43.3918991,-95.1264035,Casey's General Store,3,"Lake Park, IA",False,-1,3.5,IA
+"1001 Sanborn Ave, Okoboji, IA 51355",convenience stores,Okoboji,18.161934393555534,43.3819603,-95.1291408,Kum & Go,1,"Lake Park, IA",False,-1,4.0,IA
+"300 18th St, Spirit Lake, IA 51360",convenience stores,Spirit Lake,19.74578663682018,43.4226064,-95.0940079,Kum & Go,2,"Lake Park, IA",False,-1,2.5,IA
+"2098 Highway 86, Milford, IA 51351",convenience stores,Milford,16.99205819560135,43.344331,-95.178307,Oh Shucks,1,"Lake Park, IA",False,-1,3.0,IA
+"228 US 71, Arnolds Park, IA 51331",convenience stores,Arnolds Park,18.58328800621337,43.3641602,-95.1352254,Boondocks,1,"Lake Park, IA",False,-1,4.0,IA
+"18 Lincoln, Spirit Lake, IA 51360",convenience stores,Spirit Lake,18.66231235372089,43.422355,-95.107587,Dyno's Convenience Store 30,1,"Lake Park, IA",False,-1,3.0,IA
+"350 Grant St, Jackson, MN 56143",convenience stores,Jackson,34.33738236215642,43.6224449,-94.9890961,Casey's General Store,2,"Lake Park, IA",False,-1,1.0,MN
+"1401 Lake Shore Dr, Okoboji, IA 51355",convenience stores,Okoboji,18.371574334978483,43.37598,-95.13024,Okoboji Boat Works,9,"Lake Park, IA",False,2,2.5,IA
+"24425 Hwy 60 NE, Worthington, MN 56187",convenience stores,Worthington,28.41430531751284,43.640626,-95.563307,Blue Line Travel Center,23,"Lake Park, IA",False,1,3.0,MN
+"2600 Hwy 71, Spirit Lake, IA 51360",convenience stores,Spirit Lake,17.261889319777843,43.42458,-95.124671,Walmart,3,"Lake Park, IA",False,-1,2.5,IA
+"819 Grand Ave, Spencer, IA 51301",convenience stores,Spencer,36.58727167554927,43.14635,-95.14518,Hy-Vee Food Store,3,"Lake Park, IA",False,-1,3.5,IA

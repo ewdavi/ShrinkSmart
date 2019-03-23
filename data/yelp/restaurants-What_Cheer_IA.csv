@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"619 E Jackson St, Sigourney, IA 52591",restaurants,Sigourney,14.8264039037355,41.3366285041179,-92.1980803459883,Sigourney Cafe,2,"What Cheer, IA",False,-1,5.0,IA
+"117 S Irons St, Keswick, IA 50136",restaurants,Keswick,11.347906335758207,41.45394,-92.239273,Keswick Tavern,2,"What Cheer, IA",False,2,3.0,IA
+"303 S Highland St, Williamsburg, IA 52361",restaurants,Williamsburg,41.153373464564545,41.6632041931152,-92.0069351196289,Myers Grill & Catering,32,"What Cheer, IA",False,2,4.5,IA
+"130 W Evans St, Williamsburg, IA 52361",restaurants,Williamsburg,42.989474313316066,41.689998626709,-92.010124206543,Landmark Restaurant,29,"What Cheer, IA",False,1,4.0,IA
+"101 N Jefferson St, Sigourney, IA 52591",restaurants,Sigourney,14.566623151257138,41.3338574767113,-92.2038517892361,Copper Lantern,6,"What Cheer, IA",False,-1,3.5,IA
+"212 1st Ave E, Oskaloosa, IA 52577",restaurants,Oskaloosa,26.824013450958734,41.2944177723223,-92.6436914876103,The Brickhouse Cafe,6,"What Cheer, IA",False,-1,4.0,IA
+"211 E Main St, Montezuma, IA 50171",restaurants,Montezuma,25.05684203129791,41.5854892196917,-92.5249002287835,Just a Small Town Grill,3,"What Cheer, IA",False,-1,3.0,IA
+"113 High Ave W, Oskaloosa, IA 52577",restaurants,Oskaloosa,26.92567896643254,41.2956,-92.64573,Hunter's,10,"What Cheer, IA",False,1,5.0,IA
+"109 High Ave W, Oskaloosa, IA 52577",restaurants,Oskaloosa,26.90771072213383,41.2954449,-92.6456154,Tasos' Steak House,12,"What Cheer, IA",False,2,4.0,IA
+"127 S Main St, North English, IA 52316",restaurants,North English,26.476101832352178,41.5146765857935,-92.0763570070267,Butch's Cafe,1,"What Cheer, IA",False,-1,5.0,IA
+"108 E Maple St, New Sharon, IA 50207",restaurants,New Sharon,25.907007858520018,41.4686661,-92.6512146,Scooter's Pub and Grub,3,"What Cheer, IA",False,-1,3.5,IA
+"523 Court St, Williamsburg, IA 52361",restaurants,Williamsburg,40.895223131364155,41.66152,-92.00866,Mi Casa Authentic Mexican Grill,5,"What Cheer, IA",False,1,4.5,IA
+"416 W Jackson St, Sigourney, IA 52591",restaurants,Sigourney,13.91524030059585,41.33733,-92.21009,Pizza Ranch,1,"What Cheer, IA",False,2,4.0,IA
+"108 Main St, Fremont, IA 52561",restaurants,Fremont,21.93411437129596,41.21229,-92.43639,Tisha's Grill,1,"What Cheer, IA",False,-1,5.0,IA
+"2274 Hwy 63, Oskaloosa, IA 52577",restaurants,Oskaloosa,25.567695815464536,41.325349,-92.64448,The Peppertree,11,"What Cheer, IA",False,2,3.0,IA
+"Montezuma, IA 50171",restaurants,Montezuma,25.19288818568185,41.585834,-92.5271086925903,Home Town Restaurant,1,"What Cheer, IA",False,1,3.0,IA
+"2110 W St S, Grinnell, IA 50112",restaurants,Grinnell,45.68944747921961,41.702228,-92.726185,Grinnell Steakhouse,32,"What Cheer, IA",False,2,3.5,IA
+"1802 A Ave E, Oskaloosa, IA 52577",restaurants,Oskaloosa,25.34131439447709,41.295482635498,-92.6225891113281,Riverside Family Restaurant 2,8,"What Cheer, IA",False,1,3.5,IA
+"102 E Maple St, New Sharon, IA 50207",restaurants,New Sharon,25.878831162081966,41.46861,-92.65106,Country Inn Pizza,1,"What Cheer, IA",False,-1,5.0,IA
+"301 W State St, Williamsburg, IA 52361",restaurants,Williamsburg,40.879878437460704,41.66162109375,-92.0104598999023,Pizza Haus,10,"What Cheer, IA",False,1,4.0,IA

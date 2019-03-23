@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"728 Central Ave, Northwood, IA 50459",restaurant,Northwood,0.39452992023321726,43.4443588256836,-93.2214660644531,Signatures Restaurant,3,"Northwood, IA",False,2,4.5,IA
+"846 Central Ave, Northwood, IA 50459",restaurant,Northwood,0.29510117537618613,43.4443321228027,-93.2198333740234,Tequila's Mexican Bar & Grill,4,"Northwood, IA",False,1,4.5,IA
+"777 Diamond Jo Ln, Northwood, IA 50459",restaurant,Northwood,10.934589883494562,43.44707,-93.35246,Woodfire Grille,8,"Northwood, IA",False,3,3.5,IA
+"700 Central Ave, Northwood, IA 50459",restaurant,Northwood,0.43997305294427147,43.4443626403809,-93.2220230102539,Corner Post,1,"Northwood, IA",False,-1,4.0,IA
+"828 471st St, Northwood, IA 50459",restaurant,Northwood,0.27968238396985917,43.445861,-93.219183,Burger King,3,"Northwood, IA",False,-1,4.5,IA
+"206 5th St, Kensett, IA 50448",restaurant,Kensett,9.990179114417884,43.3545227050781,-93.2084579467773,Gramma's Cafe,1,"Northwood, IA",False,-1,5.0,IA
+"777 Diamond Jo Ln, Northwood, IA 50459",restaurant,Northwood,10.950388100916797,43.4461892649474,-93.3522033691406,The Kitchen Buffet,9,"Northwood, IA",False,2,2.0,IA
+"2 Maple St, Kensett, IA 50448",restaurant,Kensett,10.489550456650617,43.3499399,-93.21128,R80,1,"Northwood, IA",False,-1,4.0,IA
+"306 3rd St, Grafton, IA 50440",restaurant,Grafton,17.35907849443838,43.32967,-93.0705032,Gobbler's Roost,3,"Northwood, IA",False,1,3.5,IA
+"777 Diamond Ln, Northwood, IA 50459",restaurant,Northwood,11.15088674946658,43.4468104675199,-93.3546684251855,Burger King,2,"Northwood, IA",False,-1,5.0,IA

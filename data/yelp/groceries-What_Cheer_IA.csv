@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"101 N Center St, Delta, IA 52550",groceries,Delta,8.809699027106511,41.3226867467165,-92.3304111510515,Delta Grocery,1,"What Cheer, IA",False,1,3.0,IA
+"110 S D St, Oskaloosa, IA 52577",groceries,Oskaloosa,27.165735278332377,41.294864654541,-92.6484603881836,Hy-Vee Food Store,1,"What Cheer, IA",False,-1,3.0,IA
+"114 High Ave W, Oskaloosa, IA 52577",groceries,Oskaloosa,26.952333577088574,41.29506,-92.64581,R C B Oriental Food Store,1,"What Cheer, IA",False,-1,1.0,IA
+"117 N Main, Packwood, IA 52580",groceries,Packwood,37.27685586387728,41.132640838623,-92.0852355957031,Packwood Locker & Meats,3,"What Cheer, IA",False,-1,3.5,IA
+"121 Walnut, Eddyville, IA 52553",groceries,Eddyville,35.988391499234424,41.1563569307327,-92.6382824778557,Eddyville Market,1,"What Cheer, IA",False,1,4.0,IA

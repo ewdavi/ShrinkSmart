@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"508 W Main St, Sac City, IA 50583",restaurant,Sac City,0.6472850973504374,42.42237,-94.98994,Sac County Cattle Company,12,"Sac City, IA",False,2,4.5,IA
+"612 E Main St, Sac City, IA 50583",restaurant,Sac City,1.8899718161815007,42.42128,-94.9746399,Hutch's Cafe,6,"Sac City, IA",False,-1,3.5,IA
+"519 Main St, Sac City, IA 50583",restaurant,Sac City,0.5951728650150273,42.4220856,-94.9905084,Cede's Bark Bistro,2,"Sac City, IA",False,2,3.0,IA
+"1502 W Main St, Sac City, IA 50583",restaurant,Sac City,0.4025503409019816,42.4229736,-95.0028415,Villager,4,"Sac City, IA",False,-1,2.5,IA
+"519 W Main St, Sac City, IA 50583",restaurant,Sac City,0.5951728650150273,42.4220856,-94.9905084,Tea With Lillian,2,"Sac City, IA",False,-1,4.5,IA

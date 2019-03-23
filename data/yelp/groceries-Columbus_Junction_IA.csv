@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"210 Main St, Columbus Junction, IA 52738",groceries,Columbus Junction,0.4774826000921495,41.2797698974609,-91.3608779907227,Rey De Reyes,2,"Columbus Junction, IA",False,1,4.0,IA
+"540TH St SW, Kalona, IA 52247",groceries,Kalona,40.93039978072197,41.540779,-91.709331,Stringtown Grocery,17,"Columbus Junction, IA",False,1,4.5,IA
+"200 E 3rd St, West Liberty, IA 52776",groceries,West Liberty,33.57766426819229,41.5696299,-91.26159,Jeff's Market,2,"Columbus Junction, IA",False,1,3.5,IA
+"1700 E Washington St, Mount Pleasant, IA 52641",groceries,Mount Pleasant,37.844956954189406,40.9612998962402,-91.5293350219727,Hy-Vee Food Store,10,"Columbus Junction, IA",False,1,3.5,IA
+"301 N Marion Ave, Washington, IA 52353",groceries,Washington,27.544579111267307,41.30198,-91.69366,Fareway Stores,2,"Columbus Junction, IA",False,1,5.0,IA
+"920 Ponseti Way, Coralville, IA 52241",groceries,Coralville,48.07108381206555,41.6841055578787,-91.5633577108383,Trader Joe's,16,"Columbus Junction, IA",False,2,4.5,IA
+"2298 540th St SW, Kalona, IA 52247",groceries,Kalona,40.926240531527895,41.5422287,-91.7072678,Central Discount,3,"Columbus Junction, IA",False,1,4.5,IA
+"502 Mulberry Ave, Muscatine, IA 52761",groceries,Muscatine,31.504221930375355,41.4261021684162,-91.04403258381,El Olmito,16,"Columbus Junction, IA",False,1,4.0,IA
+"121 5th St, Kalona, IA 52247",groceries,Kalona,36.43508848667205,41.48283,-91.70643,Kalona General Store,1,"Columbus Junction, IA",False,-1,5.0,IA
+"225 S Linn St, Iowa City, IA 52240",groceries,Iowa City,44.541927088535196,41.6586,-91.5322,Bread Garden Market,88,"Columbus Junction, IA",False,2,4.0,IA
+"501 N 2nd St, Fairfield, IA 52556",groceries,Fairfield,58.20720047527851,41.0111649334431,-91.9650205224752,Everybody's Whole Foods,17,"Columbus Junction, IA",False,2,4.0,IA
+"1668 Sycamore St, Iowa City, IA 52240",groceries,Iowa City,42.253749609183636,41.6424194257421,-91.5091292711639,Lucky's Market,48,"Columbus Junction, IA",False,2,4.5,IA
+"401 E Market St, Iowa City, IA 52245",groceries,Iowa City,44.99045568932527,41.663318,-91.529846,John's Grocery,60,"Columbus Junction, IA",False,2,4.5,IA
+"2100 Cedar Plaza Dr, Muscatine, IA 52761",groceries,Muscatine,29.414080960727752,41.4353790283203,-91.0826873779297,Fareway Stores,1,"Columbus Junction, IA",False,2,3.0,IA
+"1101 2nd St, Coralville, IA 52241",groceries,Coralville,47.575601026972066,41.67453,-91.58028,New Pioneer Food Co-op,31,"Columbus Junction, IA",False,2,4.5,IA
+"1914 8th St, Coralville, IA 52241",groceries,Coralville,48.701120167774334,41.6818177,-91.5918789,Hy-Vee Food Stores,25,"Columbus Junction, IA",False,2,3.5,IA
+"1045 N Grand Ave, Mount Pleasant, IA 52641",groceries,Mount Pleasant,36.37517853690171,40.97909,-91.54138,Walmart Supercenter,3,"Columbus Junction, IA",False,1,2.0,IA
+"530 Hwy 1 S, Washington, IA 52353",groceries,Washington,28.54652292779811,41.2960637750749,-91.7079388626887,Walmart Supercenter,1,"Columbus Junction, IA",False,1,4.0,IA
+"1720 Waterfront Dr, Iowa City, IA 52240",groceries,Iowa City,42.77504823861657,41.642936706543,-91.5294036865234,Hy-Vee,12,"Columbus Junction, IA",False,2,4.5,IA
+"528 Highway 1 S, Washington, IA 52353",groceries,Washington,28.516492755815165,41.3022663,-91.7165018,Hy-Vee Food Store,1,"Columbus Junction, IA",False,2,1.0,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"110 N 4th St, Mapleton, IA 51034",restaurant,Mapleton,0.5188209020068053,42.16638,-95.79279,Hawkeye Bar,1,"Mapleton, IA",False,-1,5.0,IA
+"117 Main St, Danbury, IA 51019",restaurant,Danbury,9.01292151713281,42.23408,-95.72213,Schrank's Bar & Grill,1,"Mapleton, IA",False,-1,5.0,IA
+"103 W Main, Ute, IA 51060",restaurant,Ute,14.991944018871441,42.0503082,-95.7063522,A K Corral,3,"Mapleton, IA",False,-1,4.5,IA
+"121 E Main St, Anthon, IA 51004",restaurant,Anthon,25.064921557005352,42.38853,-95.86679,Fireside Steakhouse & Lounge,6,"Mapleton, IA",False,2,5.0,IA
+"812 Iowa Ave, Onawa, IA 51040",restaurant,Onawa,29.829713518029767,42.0268707,-96.0953293,Millers Kitchen,5,"Mapleton, IA",False,1,4.5,IA
+"1136 Toledo Ave, Dunlap, IA 51529",restaurant,Dunlap,39.37148001982951,41.84397,-95.60518,Gold Slipper,3,"Mapleton, IA",False,2,4.5,IA
+"108 N Main St, Holstein, IA 51025",restaurant,Holstein,40.81249577229225,42.4896202,-95.5446625,Inside Scoop,4,"Mapleton, IA",False,-1,4.5,IA
+"2650 Iowa Ave North, Onawa, IA 51040",restaurant,Onawa,31.696242985597816,42.0275531693624,-96.1222497695615,"Fiesta Brava, Onawa, IA",2,"Mapleton, IA",False,-1,4.0,IA
+"119 N Main St, Holstein, IA 51025",restaurant,Holstein,40.813539795299526,42.4897102960122,-95.5449555975533,Backdraft Bar & Grill,6,"Mapleton, IA",False,2,3.5,IA
+"169 Oak Ridge Dr, Denison, IA 51442",restaurant,Denison,37.280369783023865,42.027053,-95.381323,Barrel Smoke BBQ,4,"Mapleton, IA",False,1,4.0,IA
+"508 2nd St, Ida Grove, IA 51445",restaurant,Ida Grove,32.58799978405516,42.3452346054152,-95.471999187244,Mi Rancho,2,"Mapleton, IA",False,2,4.5,IA
+"807 Iowa Ave, Onawa, IA 51040",restaurant,Onawa,29.83982086117766,42.0263519287109,-96.0950698852539,Suds n Jugs,4,"Mapleton, IA",False,2,4.0,IA
+"88 E State Hwy 175, Ida Grove, IA 51445",restaurant,Ida Grove,33.52816321827429,42.3449358974216,-95.4575874719029,Zimmys Bar And Grill,3,"Mapleton, IA",False,2,4.5,IA
+"1825 235th St, Onawa, IA 51040",restaurant,Onawa,31.755703010598182,42.01596,-96.10824,Tug's,1,"Mapleton, IA",False,-1,5.0,IA
+"119 Main St, Battle Creek, IA 51006",restaurant,Battle Creek,22.556673767418104,42.3160400390625,-95.5991897583008,BC Bakery & Cafe,2,"Mapleton, IA",False,-1,5.0,IA
+"121 Main St, Galva, IA 51020",restaurant,Galva,48.401003885037,42.5074941028943,-95.4172364458077,Sizzlin J BBQ,1,"Mapleton, IA",False,-1,5.0,IA
+"534 Hwy 39 N, Denison, IA 51442",restaurant,Denison,38.50487232858966,42.0223149583645,-95.3679410973636,The Pub,1,"Mapleton, IA",False,-1,5.0,IA
+"812 4th Ave S, Denison, IA 51442",restaurant,Denison,39.378183035567815,42.0124702,-95.3622589,Cronk's Cafe Restaurant & Lounge,23,"Mapleton, IA",False,2,4.0,IA
+"3000 Hutton Dr, Decatur, NE 68020",restaurant,Decatur,41.404195207087106,42.010383,-96.242871,Pop-N-Doc's,4,"Mapleton, IA",False,2,4.0,NE
+"808 Iowa Ave, Onawa, IA 51040",restaurant,Onawa,29.816572581912666,42.0270652770996,-96.0951461791992,Dan's Pizza,3,"Mapleton, IA",False,2,5.0,IA

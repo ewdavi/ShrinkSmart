@@ -1,0 +1,10 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"3040 220th St, Williams, IA 50271",gas stations,Williams,54.65358822302823,42.4703646750988,-93.572019618831,Flying J Travel Center,9,"Kanawha, IA",False,-1,4.0,IA
+"648 Highway 3, Latimer, IA 50452",gas stations,Latimer,38.78119536847631,42.7462768554688,-93.3930130004883,Dudley's Corner,10,"Kanawha, IA",False,1,2.5,IA
+"818 Hwy 105, Northwood, IA 50459",gas stations,Northwood,66.93025232855257,43.4447690285377,-93.3561769457145,Kum&Go,4,"Kanawha, IA",False,1,5.0,IA
+"2411 US Hwy 18 E, Clear Lake, IA 50428",gas stations,Clear Lake,42.41142488062604,43.1451825,-93.3586441,Pilot Travel Center,5,"Kanawha, IA",False,-1,4.0,IA
+"3065 220th St, Williams, IA 50271",gas stations,Williams,54.67305007448948,42.4718031139996,-93.5658118128777,Boondocks USA Truckstop,7,"Kanawha, IA",False,-1,2.5,IA
+"211 Hwy 18 E, Algona, IA 50511",gas stations,Algona,39.554739346133424,43.0837050911743,-94.2347734611994,Chrome Truck Stop,3,"Kanawha, IA",False,-1,3.5,IA
+"304 S Eskridge St, Dows, IA 50071",gas stations,Dows,39.103129747471726,42.6540985,-93.5031204,Maximum Overdrive,1,"Kanawha, IA",False,-1,5.0,IA
+"307 S 4th Ave, Armstrong, IA 50514",gas stations,Armstrong,75.66759084094089,43.3925287157045,-94.4829569756985,Casey's,1,"Kanawha, IA",False,-1,1.0,IA
+"102 E Main St, Steamboat Rock, IA 50672",gas stations,Steamboat Rock,83.68915192793533,42.4077033996582,-93.0618438720703,Rock Stop,1,"Kanawha, IA",False,-1,5.0,IA

@@ -1,0 +1,10 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"590 Parker St, Stanhope, IA 50246",convenience stores,Stanhope,43.10710907848967,42.2897283487349,-93.7957038292291,Sparky's One Stop,1,"Eagle Grove, IA",False,1,3.0,IA
+"1111 Ia Hwy 175, Ellsworth, IA 50075",convenience stores,Ellsworth,48.27295949492707,42.30969,-93.57294,Kum & Go,2,"Eagle Grove, IA",False,1,3.5,IA
+"648 Highway 3, Latimer, IA 50452",convenience stores,Latimer,42.53040024635728,42.7462768554688,-93.3930130004883,Dudley's Corner,10,"Eagle Grove, IA",False,1,2.5,IA
+"2307 Superior St, Webster City, IA 50595",convenience stores,Webster City,25.063233420919932,42.4526924,-93.8179493,Kmart,1,"Eagle Grove, IA",False,1,3.0,IA
+"3065 220th St, Williams, IA 50271",convenience stores,Williams,35.25174246692007,42.4718031139996,-93.5658118128777,Boondocks USA Truckstop,7,"Eagle Grove, IA",False,-1,2.5,IA
+"5253 S Shore Dr, Clear Lake, IA 50428",convenience stores,Clear Lake,63.62035129557563,43.11498,-93.41288,Market At Oakwood,1,"Eagle Grove, IA",False,-1,5.0,IA
+"306 Washington St, Story City, IA 50248",convenience stores,Story City,59.26112129896402,42.1852760314941,-93.5997543334961,Harlan's Food Mart,4,"Eagle Grove, IA",False,3,3.0,IA
+"213 Isabella St, Radcliffe, IA 50230",convenience stores,Radcliffe,55.105101352917465,42.3136,-93.43463,It's All Good,2,"Eagle Grove, IA",False,1,4.5,IA
+"3450 4th St SW, Mason City, IA 50401",convenience stores,Mason City,75.21156282121792,43.1498,-93.25295,Target,2,"Eagle Grove, IA",False,2,4.0,IA

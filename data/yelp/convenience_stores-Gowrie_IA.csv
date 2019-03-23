@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"711 E Main St, Lake City, IA 51449",convenience stores,Lake City,36.05593521708144,42.26732,-94.72568,Sparky's One Stop-Lake City,2,"Gowrie, IA",False,2,4.0,IA
+"590 Parker St, Stanhope, IA 50246",convenience stores,Stanhope,40.51082907904468,42.2897283487349,-93.7957038292291,Sparky's One Stop,1,"Gowrie, IA",False,1,3.0,IA
+"1111 Ia Hwy 175, Ellsworth, IA 50075",convenience stores,Ellsworth,58.942535076097236,42.30969,-93.57294,Kum & Go,2,"Gowrie, IA",False,1,3.5,IA
+"203 Welch Ave, Ames, IA 50010",convenience stores,Ames,59.853991475021985,42.0213737487793,-93.6502227783203,Kum & Go,2,"Gowrie, IA",False,-1,3.0,IA
+"4510 Mortenson Rd, Ames, IA 50014",convenience stores,Ames,58.27914015691645,42.0116892428016,-93.6796534422765,Kum & Go,1,"Gowrie, IA",False,1,5.0,IA
+"1802 Sycamore St, Granger, IA 50109",convenience stores,Granger,69.33510141511006,41.758681,-93.82479,Casey's General Store,1,"Gowrie, IA",False,2,1.0,IA
+"2719 Grand Ave, Ames, IA 50010",convenience stores,Ames,60.59712394221553,42.048965,-93.621231,Walgreens,5,"Gowrie, IA",False,2,4.5,IA
+"130 Dobson Dr, Ames, IA 50014",convenience stores,Ames,58.282389896001405,42.0220982424913,-93.6714619129946,Ames Asian Market West,2,"Gowrie, IA",False,2,5.0,IA
+"413 Northwestern Ave, Ames, IA 50010",convenience stores,Ames,61.74708106038512,42.02516,-93.6216,Wheatsfield Cooperative,34,"Gowrie, IA",False,2,4.0,IA
+"500 Main St, Ames, IA 50010",convenience stores,Ames,62.093778460256814,42.0248933074596,-93.6169910430908,Hy-Vee Drugstore,3,"Gowrie, IA",False,3,4.0,IA
+"1310 NW 18th St, Ankeny, IA 50023",convenience stores,Ankeny,81.07069669141734,41.74683,-93.61679,Casey's,3,"Gowrie, IA",False,2,4.0,IA
+"3505 N Ankeny Blvd, Ankeny, IA 50023",convenience stores,Ankeny,80.9593476643323,41.76039,-93.59963,Casey's Gen Str 2164,4,"Gowrie, IA",False,2,3.5,IA
+"3218 Orion Dr, Ames, IA 50010",convenience stores,Ames,60.33523847589153,42.0543746948242,-93.6212387084961,Swift Stop No 5,3,"Gowrie, IA",False,-1,4.5,IA
+"1118 S Duff Ave, Ames, IA 50010",convenience stores,Ames,63.295269626227,42.0122609315186,-93.6094911691663,Swift Stop No 4,1,"Gowrie, IA",False,3,4.0,IA
+"306 Washington St, Story City, IA 50248",convenience stores,Story City,57.58811379657425,42.1852760314941,-93.5997543334961,Harlan's Food Mart,4,"Gowrie, IA",False,3,3.0,IA
+"819 Wheeler St, Ste 5, Ames, IA 50010",convenience stores,Ames,60.21469233906365,42.054952,-93.622598,Ames Asian Market,4,"Gowrie, IA",False,2,3.5,IA
+"1825 N Ankeny Blvd, Ankeny, IA 50021",convenience stores,Ankeny,82.0554819316395,41.74677,-93.59948,Kum & Go,5,"Gowrie, IA",False,2,3.5,IA
+"2307 Superior St, Webster City, IA 50595",convenience stores,Webster City,43.18792448230499,42.4526924,-93.8179493,Kmart,1,"Gowrie, IA",False,1,3.0,IA
+"3800 Lincoln Way, Ames, IA 50014",convenience stores,Ames,58.218477967841,42.022618,-93.671955,Hy-Vee,14,"Gowrie, IA",False,2,3.5,IA
+"1602 W 1st St, Ankeny, IA 50023",convenience stores,Ankeny,81.96648683476982,41.7323,-93.622047,Casey's General Store,3,"Gowrie, IA",False,2,3.5,IA

@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"907 Bank Ct, Center Point, IA 52213",dental,Center Point,0.4261703405497793,42.18012,-91.77332,Center Point Family Dentistry,1,"Center Point, IA",False,-1,5.0,IA
+"1700 Blairs Ferry Rd, Hiawatha, IA 52233",dental,Hiawatha,17.751129303026442,42.042283,-91.674439,Blair Ridge Dental,5,"Center Point, IA",False,-1,4.0,IA
+"1395 Boyson Rd, Hiawatha, IA 52233",dental,Hiawatha,16.986545767734796,42.043757,-91.691183,Dental Implant & Oral Surgery Specialists of Iowa,3,"Center Point, IA",False,-1,3.5,IA
+"1475 Boyson Rd, Hiawatha, IA 52233",dental,Hiawatha,16.95179528583176,42.043758392334,-91.6920852661133,Boyson Dental,1,"Center Point, IA",False,-1,5.0,IA
+"3250 10th Ave, Ste 2, Marion, IA 52302",dental,Marion,23.141067146813803,42.0363591,-91.5774622,Ed Dye Family Dentistry P.C.,1,"Center Point, IA",False,-1,5.0,IA
+"915 Barrington Pkwy, Ste C, Marion, IA 52302",dental,Marion,20.289056964411383,42.0555496,-91.6006317,Marion Dental,2,"Center Point, IA",False,-1,5.0,IA

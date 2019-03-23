@@ -1,0 +1,16 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"316 Main St, Nashua, IA 50658",restaurant,Nashua,0.4846126671301567,42.95204,-92.5366,Shelby's Southern Smokehouse,9,"Nashua, IA",False,1,5.0,IA
+"101 N Jackson St, Charles City, IA 50616",restaurant,Charles City,17.165152786625598,43.0675557999231,-92.6803798515672,The Pub On The Cedar,17,"Nashua, IA",False,2,3.5,IA
+"809 S Grand Ave, Charles City, IA 50616",restaurant,Charles City,16.068414756551615,43.0593681335449,-92.6729354858398,Dave's Restaurant,17,"Nashua, IA",False,2,4.0,IA
+"1404 Easton Ave, Waverly, IA 50677",restaurant,Waverly,12.749188247918905,42.8468780517578,-92.4760131835938,Cliff's Place,4,"Nashua, IA",False,1,4.5,IA
+"701 S Grand Ave, Charles City, IA 50616",restaurant,Charles City,16.19213837520944,43.06071,-92.67324,Plaza Mexico,16,"Nashua, IA",False,2,4.0,IA
+"105 N Main St, Back Entrance, Charles City, IA 50616",restaurant,Charles City,17.07589081419498,43.0669025,-92.6793945,Cedar River Pizza Co,4,"Nashua, IA",False,1,5.0,IA
+"1009 S Grand Ave, Charles City, IA 50616",restaurant,Charles City,15.914828612396539,43.05728,-92.67302,Lucky Dragon,8,"Nashua, IA",False,2,4.0,IA
+"100 Amhearst Blvd, Nashua, IA 50658",restaurant,Nashua,0.4593894722610563,42.9532775878906,-92.546745300293,Casey's Pizza,1,"Nashua, IA",False,-1,3.0,IA
+"707 S Grand Ave, Charles City, IA 50616",restaurant,Charles City,16.158460161951467,43.06067,-92.67321,Dairy Queen Store,3,"Nashua, IA",False,1,2.5,IA
+"80 Amhearst Blvd, Nashua, IA 50658",restaurant,Nashua,0.6246135767236725,42.954823,-92.547615,Subway,1,"Nashua, IA",False,1,3.0,IA
+"501 Freeman St, Charles City, IA 50616",restaurant,Charles City,16.54476286145405,43.0622406005859,-92.6770095825195,Hunan Buffett,3,"Nashua, IA",False,-1,2.0,IA
+"506 Allison St, Charles City, IA 50616",restaurant,Charles City,16.422865281917343,43.0622399566717,-92.674822,McDonald's,5,"Nashua, IA",False,1,2.0,IA
+"905 Gilbert St, Charles City, IA 50616",restaurant,Charles City,17.143511679363264,43.0656124781618,-92.6829881966114,Taco John's,9,"Nashua, IA",False,1,1.5,IA
+"106 S Main St, Charles City, IA 50616",restaurant,Charles City,16.961730534953965,43.0648499,-92.6806564,Subway,3,"Nashua, IA",False,1,3.5,IA
+"1105 Blunt Pkwy, Charles City, IA 50616",restaurant,Charles City,16.70872858326809,43.0668334960938,-92.6728515625,Casey's General Store,1,"Nashua, IA",False,-1,2.0,IA

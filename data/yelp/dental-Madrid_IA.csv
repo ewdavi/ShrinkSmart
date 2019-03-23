@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1606 Golden Aspen Dr, Ste 110, Ames, IA 50010",dental,Ames,22.53879798055532,42.0078544616699,-93.6155700683594,Overman Family Dentistry,6,"Madrid, IA",False,-1,5.0,IA
+"1015 Duff Ave, Ames, IA 50010",dental,Ames,24.597087143342684,42.031623,-93.611063,Metzger Family Dental,1,"Madrid, IA",False,-1,5.0,IA
+"1010 S 3rd St, Ste 2A, Polk City, IA 50226",dental,Polk City,15.033310106190578,41.7657483,-93.7177005,Cornerstone Dental,3,"Madrid, IA",False,-1,3.5,IA
+"408 Campus Dr, Ste A, Huxley, IA 50124",dental,Huxley,18.448259099824366,41.8896185606718,-93.6027076095343,Ballard Dental Associates,1,"Madrid, IA",False,-1,5.0,IA
+"475 S 50th St, Ste 300, West Des Moines, IA 50265",dental,West Des Moines,35.015239979753815,41.56337,-93.77158,Foust Family Dental Care,3,"Madrid, IA",False,-1,5.0,IA
+"1025 60th St, West Des Moines, IA 50266",dental,West Des Moines,32.444625905029376,41.5853806,-93.7898102,Country Club Dental Care,5,"Madrid, IA",False,-1,4.0,IA
+"1225 Copper Creek Dr, Ste K, Pleasant Hill, IA 50327",dental,Pleasant Hill,39.335244179851955,41.6016679,-93.5233705,Veranda Dentistry,5,"Madrid, IA",False,-1,5.0,IA
+"2401 128th Street, Urbandale, IA 50323",dental,Urbandale,28.97380691552205,41.6166412,-93.7900338,Children's Dental Center of Central Iowa,4,"Madrid, IA",False,-1,5.0,IA
+"2625 University Blvd, Ames, IA 50010",dental,Ames,20.324381711063946,41.99845,-93.64003,Ames Family Dental,1,"Madrid, IA",False,-1,5.0,IA
+"511 Duff Ave, Ste 200, Ames, IA 50010",dental,Ames,24.214509638401676,42.0264508,-93.6107643,"Stoltze & Stoltze: Stoltze Newstr Sonya M, DDS",1,"Madrid, IA",False,-1,5.0,IA
+"1225 SW State St, Ankeny, IA 50023",dental,Ankeny,24.36563098837935,41.717898,-93.6191478,Ankeny Family Dental Center,3,"Madrid, IA",False,-1,5.0,IA
+"100 SW Brookside Dr, Grimes, IA 50111",dental,Grimes,21.115325393485172,41.686582,-93.806037,Clean Teeth Rock,1,"Madrid, IA",False,-1,5.0,IA
+"1286 Copper Creek Dr, Pleasant Hill, IA 50327",dental,Pleasant Hill,39.2060773108978,41.6019,-93.52498,Lakeside Dental,2,"Madrid, IA",False,-1,5.0,IA
+"3324 Orion Dr, Ames, IA 50010",dental,Ames,25.966708517490098,42.0551643371582,-93.6212539672852,North Grand Dental,4,"Madrid, IA",False,-1,4.0,IA
+"8573 Urbandale Ave, Urbandale, IA 50322",dental,Urbandale,29.14634089799406,41.622241,-93.734928,Davidson Family Dentistry,14,"Madrid, IA",False,-1,4.0,IA
+"1212 Willis Ave, Ames, IA 50010",dental,Ames,23.70464004764387,42.0229606628418,-93.6148147583008,Swanson Dental Care,1,"Madrid, IA",False,-1,5.0,IA
+"2400 128th St, Urbandale, IA 50323",dental,Urbandale,28.982124090816086,41.61634,-93.79177,McDonald Family Dentistry,2,"Madrid, IA",False,-1,5.0,IA
+"11088 Hickman Rd, Clive, IA 50325",dental,Clive,29.44051120261397,41.6143551,-93.7710624,Heritage Creek Dental,5,"Madrid, IA",False,-1,4.0,IA
+"6128 Douglas Ave, Des Moines, IA 50322",dental,Des Moines,29.222580521056706,41.6290473937988,-93.7022171020508,Douglas Avenue Dental,2,"Madrid, IA",False,-1,5.0,IA
+"3755 East 33rd St, Des Moines, IA 50317",dental,Des Moines,35.53975787710495,41.628098487854,-93.5514995455742,Brady Dental Care,3,"Madrid, IA",False,-1,5.0,IA

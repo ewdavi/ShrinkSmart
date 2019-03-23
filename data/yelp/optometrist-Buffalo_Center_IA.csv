@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2610 Bridge Ave, Albert Lea, MN 56007",optometrist,Albert Lea,57.51947263271262,43.68288,-93.35702,Shopko,2,"Buffalo Center, IA",False,-1,1.0,MN
+"21 Main St S, Winnebago, MN 56098",optometrist,Winnebago,45.859739186790165,43.768983,-94.166437,Blue Earth Valley Eye Clinic,2,"Buffalo Center, IA",False,-1,3.0,MN
+"14 N 8th St, Clear Lake, IA 50428",optometrist,Clear Lake,53.66848054779157,43.137896,-93.3786351,Clear Lake Optometry,2,"Buffalo Center, IA",False,-1,4.0,IA
+"3121 4th St SW, Mason City, IA 50401",optometrist,Mason City,62.47086412557799,43.14745,-93.24775,North Iowa Eye Clinic,1,"Buffalo Center, IA",False,-1,4.0,IA
+"302 1st Ave S, Saint James, MN 56081",optometrist,Saint James,85.88680435424054,43.9805967,-94.6317227,Olson Optical,1,"Buffalo Center, IA",False,-1,5.0,MN

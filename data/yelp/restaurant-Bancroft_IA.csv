@@ -1,0 +1,20 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"109 W Ramsey St, Bancroft, IA 50517",restaurant,Bancroft,0.1770996601446912,43.29325,-94.21854,Wrangling Grace Cafe,5,"Bancroft, IA",False,2,4.5,IA
+"D5-G4-06, Solaris Dutamas, Jalan Dutamas, 50480 Kuala Lumpur, Malaysia",restaurant,Kuala Lumpur,14.821653291846037,43.2386807,-94.0491077,Zender's Restaurant and Bar,1,"Bancroft, IA",False,-1,5.0,14
+"106 Main St E, Wesley, IA 50483",restaurant,Wesley,29.149878454595786,43.0887,-93.99062,Johnny's Bar & Grill,1,"Bancroft, IA",False,-1,5.0,IA
+"405 Smith St, Ste 100, Lakota, IA 50451",restaurant,Lakota,13.575614554527698,43.3770955,-94.0951435,Luby's on Smith St.,2,"Bancroft, IA",False,-1,5.0,IA
+"1515 N McCoy St, Algona, IA 50511",restaurant,Algona,23.370081299372742,43.0820866,-94.2143849,Emerald's Fine Foods and Libations,2,"Bancroft, IA",False,-1,5.0,IA
+"4 E State St, Algona, IA 50511",restaurant,Algona,24.947584056121215,43.068531036377,-94.2377319335938,Billie Jo's Bar and Grill,11,"Bancroft, IA",False,2,4.5,IA
+"Junction Hwy 18 & 169, Algona, IA 50511",restaurant,Algona,23.245846375316884,43.08385,-94.235516,Chrome Country Inn,6,"Bancroft, IA",False,1,4.5,IA
+"224 E Norwood Dr, Algona, IA 50511",restaurant,Algona,23.856400460708596,43.078301,-94.234498,Cinco De Mayo Mexican Restaurant,11,"Bancroft, IA",False,2,3.5,IA
+"121 E State St, Algona, IA 50511",restaurant,Algona,24.89720929792707,43.068979,-94.235742,Premier Pizza,7,"Bancroft, IA",False,2,4.0,IA
+"Bricelyn, MN 56014",restaurant,Bricelyn,44.35833630000881,43.55777,-93.80914,Bud's Cafe & Market,3,"Bancroft, IA",False,1,4.5,MN
+"1504 Hwy 169 N, Algona, IA 50511",restaurant,Algona,23.60680520659986,43.080616,-94.235915,NO.1 Buffet,5,"Bancroft, IA",False,1,2.0,IA
+"204-208 E State St, Algona, IA 50511",restaurant,Algona,24.93819002290613,43.0687599,-94.2351608,The Locker Room Bar & Grill,2,"Bancroft, IA",False,-1,4.0,IA
+"1325 Hwy 169 N, Algona, IA 50511",restaurant,Algona,23.643065662264313,43.08055,-94.23753,Pizza Ranch,2,"Bancroft, IA",False,1,3.0,IA
+"12 E State St, Algona, IA 50511",restaurant,Algona,24.949196068251837,43.068588,-94.237376,Sum Hing Chinese Restaurant,6,"Bancroft, IA",False,1,3.5,IA
+"813 N Roan St, Algona, IA 50511",restaurant,Algona,24.09761929297719,43.0767,-94.22214,Dad's Belgian Waffles,1,"Bancroft, IA",False,-1,3.0,IA
+"1513 US Hwy 169 N, Algona, IA 50511",restaurant,Algona,23.598485223557738,43.0807,-94.2361,KFC,2,"Bancroft, IA",False,-1,2.5,IA
+"1321 Hwy 169 N, Algona, IA 50511",restaurant,Algona,23.612394526416576,43.0806023072316,-94.2366577761004,McDonald's,2,"Bancroft, IA",False,1,3.0,IA
+"803 S Phillips St, Algona, IA 50511",restaurant,Algona,25.62749268674342,43.0621099,-94.22659,Subway,1,"Bancroft, IA",False,-1,3.0,IA
+"1513 US Hwy 169 N, Algona, IA 50511",restaurant,Algona,23.40686801795086,43.08246,-94.23782,Long John Silver's,5,"Bancroft, IA",False,-1,1.0,IA

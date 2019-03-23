@@ -1,0 +1,14 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"4151 4th St SW, Mason City, IA 50401",pharmacy,Mason City,28.500359226019388,43.14612,-93.26261,Walmart Pharmacy,1,"Sheffield, IA",False,-1,5.0,IA
+"875 4th St SW, Mason City, IA 50401",pharmacy,Mason City,28.3923420621143,43.14776,-93.21414,Hy-Vee Drugstore,2,"Sheffield, IA",False,2,3.0,IA
+"2509 White Tail Dr, Cedar Falls, IA 50613",pharmacy,Cedar Falls,71.7061195804787,42.54075,-92.47594,Walgreens,1,"Sheffield, IA",False,1,1.0,IA
+"840 S Oak St, Iowa Falls, IA 50126",pharmacy,Iowa Falls,43.5340470436694,42.50297,-93.26228,Clinic Pharmacy,1,"Sheffield, IA",False,-1,3.0,IA
+"615 S Monroe Ave, Mason City, IA 50401",pharmacy,Mason City,28.15237894376915,43.145961,-93.207778,Shopko,1,"Sheffield, IA",False,2,3.0,IA
+"3910 University Ave, Waterloo, IA 50701",pharmacy,Waterloo,78.86984315037152,42.5053863525391,-92.4027633666992,Walgreens,2,"Sheffield, IA",False,1,5.0,IA
+"1602 Edgington Ave, Eldora, IA 50627",pharmacy,Eldora,59.760895637719486,42.3608818054199,-93.1032485961914,Medicap Pharmacy,1,"Sheffield, IA",False,-1,4.0,IA
+"600 2nd Ave N, Clear Lake, IA 50428",pharmacy,Clear Lake,30.70104128397288,43.13936,-93.38041,Journey Health Shop,2,"Sheffield, IA",False,-1,5.0,IA
+"901 Kelly St, Charles City, IA 50616",pharmacy,Charles City,47.80942088485471,43.06735,-92.67523,Hy-Vee Food Store,2,"Sheffield, IA",False,1,4.0,IA
+"621 G Ave, Grundy Center, IA 50638",pharmacy,Grundy Center,69.07870440616244,42.3618393,-92.7721634,Manly Drug Store,1,"Sheffield, IA",False,-1,1.0,IA
+"1501 4th St SW, Mason City, IA 50401",pharmacy,Mason City,28.32012000150977,43.1482039,-93.2233516,Mercy Home Therapy Shoppe,2,"Sheffield, IA",False,-1,1.0,IA
+"616 E US Highway 9, Forest City, IA 50436",pharmacy,Forest City,53.811734982244495,43.269191,-93.627415,Shopko Hometown,1,"Sheffield, IA",False,-1,2.0,IA
+"525 Brandilynn Blvd, Cedar Falls, IA 50613",pharmacy,Cedar Falls,77.55914532536431,42.48637,-92.44002,Walmart Pharmacy,1,"Sheffield, IA",False,-1,1.0,IA

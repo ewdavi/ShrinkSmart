@@ -1,0 +1,4 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1409 N 2nd St, Red Oak, IA 51566",optometrist,Red Oak,22.609306698513883,41.0173301696777,-95.2305755615234,Michael J Portz  PC,1,"Villisca, IA",False,-1,5.0,IA
+"1400 Senate Ave, Ste 104, Red Oak, IA 51566",optometrist,Red Oak,22.02781496314752,41.0263443,-95.2169189,Red Oak Pharmacy,1,"Villisca, IA",False,-1,5.0,IA
+"4 W 5th St, Atlantic, IA 50022",optometrist,Atlantic,52.80415238955019,41.4061241149902,-95.0134582519531,Family Vision Center,1,"Villisca, IA",False,-1,1.0,IA

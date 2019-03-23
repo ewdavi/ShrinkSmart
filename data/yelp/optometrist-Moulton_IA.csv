@@ -1,0 +1,5 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"125 N 13th St, Centerville, IA 52544",optometrist,Centerville,17.40491621183125,40.733363,-92.873098,International Eyecare Center,1,"Moulton, IA",False,-1,5.0,IA
+"224 E Main St, Ottumwa, IA 52501",optometrist,Ottumwa,43.04919780492545,41.0164558,-92.4108879,"Mark A Altfillisch, OD - The Optical Shoppe",1,"Moulton, IA",False,2,5.0,IA
+"6584 165th St, Albia, IA 52531",optometrist,Albia,41.224257875876425,41.0447696596384,-92.7966447919607,Adler William R OD,1,"Moulton, IA",False,-1,1.0,IA
+"506 Rosewood Dr, Kirksville, MO 63501",optometrist,Kirksville,53.64492104468667,40.20874,-92.57908,Laurence I Miller DO,1,"Moulton, IA",False,-1,4.0,MO

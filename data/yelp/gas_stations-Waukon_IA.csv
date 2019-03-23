@@ -1,0 +1,10 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"905 Short St, Decorah, IA 52101",gas stations,Decorah,25.89889335495992,43.291934967041,-91.7956466674805,Kwik Star Food Stores,2,"Waukon, IA",False,2,4.5,IA
+"530 West Ave N, La Crosse, WI 54601",gas stations,La Crosse,63.93136388369143,43.81721,-91.23871,Kwik Trip Stores,1,"Waukon, IA",False,2,5.0,WI
+"748 Main St, Lansing, IA 52151",gas stations,Lansing,22.858698218489362,43.3620414733887,-91.2253723144531,Expresso,2,"Waukon, IA",False,-1,4.0,IA
+"209 Kansas St NW, Preston, MN 55965",gas stations,Preston,66.68990179441658,43.6756744384766,-92.0840301513672,Bp,1,"Waukon, IA",False,-1,3.0,MN
+"215 W Main St, Fredericksburg, IA 50630",gas stations,Fredericksburg,67.77794961043527,42.965163,-92.201119,Casey's General Store,1,"Waukon, IA",False,-1,4.0,IA
+"2506 South Ave, La Crosse, WI 54601",gas stations,La Crosse,60.9870721191491,43.789054,-91.23796,Kwik Trip Stores,2,"Waukon, IA",False,2,3.5,WI
+"1914 State Rd, La Crosse, WI 54601",gas stations,La Crosse,62.486409794578165,43.800914,-91.227981,Citgo,2,"Waukon, IA",False,1,1.0,WI
+"107 1st Ave E, Farley, IA 52046",gas stations,Farley,99.54654854909366,42.44301,-91.00519,Delaneys Auto & Ag Repair,1,"Waukon, IA",False,-1,5.0,IA
+"705 N Union St, Mauston, WI 53948",gas stations,Mauston,128.1225543973222,43.8049617,-90.0701373,Northside Mobil,1,"Waukon, IA",False,-1,5.0,WI

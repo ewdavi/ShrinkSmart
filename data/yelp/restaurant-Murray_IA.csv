@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"401 Maple St, Murray, IA 50174",restaurant,Murray,0.13940718248705156,41.0410079956055,-93.9503936767578,Hometown Cafe,1,"Murray, IA",False,-1,5.0,IA
+"123 S Main St, Osceola, IA 50213",restaurant,Osceola,15.327408319265116,41.0381840181906,-93.7661929428577,Iron Horse Neighborhood Grill,47,"Murray, IA",False,2,4.0,IA
+"3034 Clark Tower Rd, Winterset, IA 50273",restaurant,Winterset,20.09032417816098,41.2106381356716,-94.0329728275537,Podunk Center,1,"Murray, IA",False,-1,5.0,IA
+"302 N Douglas St, Afton, IA 50830",restaurant,Afton,20.91970972767162,41.029545,-94.197815,Up In Smoke Bbq,9,"Murray, IA",False,1,4.0,IA
+"128 W Jefferson St, Osceola, IA 50213",restaurant,Osceola,15.30775053592831,41.03307,-93.76669,Mayberry's,6,"Murray, IA",False,-1,5.0,IA
+"707 W Mclane St, Osceola, IA 50213",restaurant,Osceola,14.562419816057234,41.030956,-93.775824,Playa Margaritas Mexican Restaurants,13,"Murray, IA",False,2,4.0,IA
+"104 NE 4th St, Decatur, IA 50067",restaurant,Decatur,34.888249355858875,40.740114,-93.832864,Dinky Diner,25,"Murray, IA",False,1,4.0,IA
+"1610 Jeffreys Dr, Osceola, IA 50213",restaurant,Osceola,13.58535776742464,41.0277621,-93.7875027,Nana Greer's Family Table Restaurant,45,"Murray, IA",False,1,3.5,IA
+"112 N Main St, Osceola, IA 50213",restaurant,Osceola,15.361597180545687,41.03545,-93.76594,El Vallarta Mexican Restaurant & Bar,1,"Murray, IA",False,-1,4.0,IA
+"61 E Jefferson St, Winterset, IA 50273",restaurant,Winterset,33.16812417867824,41.33556,-94.01406,Northside Cafe,58,"Murray, IA",False,2,4.0,IA
+"411 W St, New Virginia, IA 50210",restaurant,New Virginia,23.99860420443506,41.18112,-93.73062,The Depot Restaurant and Catering,1,"Murray, IA",False,2,4.0,IA
+"183 E Kansas, Afton, IA 50830",restaurant,Afton,20.83322732022913,41.0285470037265,-94.1967002447121,El Ranchito,1,"Murray, IA",False,1,4.0,IA
+"127 W 2nd St, Grand River, IA 50108",restaurant,Grand River,24.816009154155893,40.8184259,-93.9626182,Patty's Back Door,1,"Murray, IA",False,-1,4.0,IA
+"101 S Main St, Osceola, IA 50213",restaurant,Osceola,15.40545686904933,41.03475,-93.7656,The China Star,5,"Murray, IA",False,1,3.5,IA
+"777 Casino Dr, Osceola, IA 50213",restaurant,Osceola,15.300294037273746,41.0342618,-93.7667160846557,Heartland Cafe and Buffet,4,"Murray, IA",False,-1,2.0,IA
+"419 S 1st St, Winterset, IA 50273",restaurant,Winterset,32.67422409710848,41.3312006,-94.013161,Rudy's Restaurant,6,"Murray, IA",False,1,4.0,IA
+"224 E Hwy 92, Winterset, IA 50273",restaurant,Winterset,33.993362295311535,41.3445491,-94.0083775,The Sports Page,13,"Murray, IA",False,4,2.5,IA
+"615 W McLane St, Osceola, IA 50213",restaurant,Osceola,14.685396022160516,41.0307236,-93.7738342,Caseys Carry Out Pizza,1,"Murray, IA",False,-1,5.0,IA
+"111 S 1st Ave, Winterset, IA 50273",restaurant,Winterset,33.03751031940753,41.3342671841383,-94.0144924074411,Cellar,9,"Murray, IA",False,-1,4.5,IA
+"105 Ariel Dr, Osceola, IA 50213",restaurant,Osceola,12.83080887639702,41.02522,-93.79774,Arby's,7,"Murray, IA",False,1,3.5,IA

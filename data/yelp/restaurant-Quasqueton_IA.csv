@@ -1,0 +1,18 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"101 S Water St, Quasqueton, IA 52326",restaurant,Quasqueton,0.3938185373241725,42.3944244384766,-91.7614288330078,Wolfey's Wapsie Outback,5,"Quasqueton, IA",False,-1,3.0,IA
+"114 Greene St, Walker, IA 52352",restaurant,Walker,12.391100883617467,42.2858487,-91.7810448,Winns Alley,1,"Quasqueton, IA",False,-1,5.0,IA
+"1749 Golf Course Blvd, Independence, IA 50644",restaurant,Independence,17.706472745556074,42.4860937,-91.9345924,Okoboji Grill,10,"Quasqueton, IA",False,2,3.0,IA
+"300 1st St E, Independence, IA 50644",restaurant,Independence,13.730609278725831,42.4689636230469,-91.8916244506836,Majestic Bar & Grill,1,"Quasqueton, IA",False,-1,5.0,IA
+"1826 1st St W, Independence, IA 50644",restaurant,Independence,15.430174509927372,42.4684397,-91.9170626,Arianna's Kitchen,5,"Quasqueton, IA",False,1,4.5,IA
+"Troy Mills, IA 52344",restaurant,Troy Mills,13.141952571021502,42.29278,-91.68258,Troy Store,1,"Quasqueton, IA",False,-1,4.0,IA
+"412 1st St E, Independence, IA 50644",restaurant,Independence,13.609958953956673,42.468995,-91.889763,First Street Deli,8,"Quasqueton, IA",False,1,4.5,IA
+"2335 Jamestown Ave, Independence, IA 50644",restaurant,Independence,12.719166436558078,42.45285,-91.89043,Lucky Buffet,8,"Quasqueton, IA",False,2,3.5,IA
+"105 1st St E, Independence, IA 50644",restaurant,Independence,13.856460130540142,42.4685851,-91.8936199,Chuong Garden Resturant,9,"Quasqueton, IA",False,3,3.0,IA
+"323 1st St E, Independence, IA 50644",restaurant,Independence,13.646527833509515,42.4684542954186,-91.8908607959747,Del Rio Restaurante Mexicano,2,"Quasqueton, IA",False,-1,3.0,IA
+"1900 1st St W, Independence, IA 50644",restaurant,Independence,15.600880140999907,42.4688682556152,-91.9191436767578,Pizza Ranch,1,"Quasqueton, IA",False,-1,4.0,IA
+"323 1st St E, Independence, IA 50644",restaurant,Independence,13.643473673667673,42.46842,-91.89085,Eldorado Mexican Restaurant,1,"Quasqueton, IA",False,3,1.0,IA
+"315 1st St E, Independence, IA 50644",restaurant,Independence,13.670684740930392,42.468448638916,-91.8910751342773,R & R Cafe,1,"Quasqueton, IA",False,-1,1.0,IA
+"200 1st St W, Independence, IA 50644",restaurant,Independence,14.037597601307773,42.4691429138184,-91.8960189819336,Burger King,2,"Quasqueton, IA",False,-1,2.5,IA
+"1640 1st St W, Independence, IA 50644",restaurant,Independence,15.18506697568976,42.4687271118164,-91.9133224487305,Pizza Hut,3,"Quasqueton, IA",False,1,2.5,IA
+"1811 1st St W, Independence, IA 50644",restaurant,Independence,15.412987556548238,42.4679064877203,-91.9172590970993,McDonald's,2,"Quasqueton, IA",False,-1,1.0,IA
+"1705 1st St W, Independence, IA 50644",restaurant,Independence,15.234264848221988,42.4681816101074,-91.9144592285156,Subway,2,"Quasqueton, IA",False,1,2.0,IA

@@ -1,0 +1,3 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2298 540th St SW, Kalona, IA 52247",dollar store,Kalona,40.926240531527895,41.5422287,-91.7072678,Central Discount,2,"Columbus Junction, IA",False,1,5.0,IA
+"118 E Main St, Aledo, IL 61231",dollar store,Aledo,52.32070551309122,41.201358795166,-90.7483367919922,Dollar General Stores,1,"Columbus Junction, IA",False,-1,4.0,IL

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"102 N 2nd St, Fairfield, IA 52556",restaurants,Fairfield,16.943696982383614,41.007781997323,-91.9651586562395,The Cider House,54,"Batavia, IA",False,2,4.5,IA
+"332 E Main St, Ottumwa, IA 52501",restaurants,Ottumwa,20.522795522056253,41.0154508952562,-92.4095363169909,Appanoose Rapids,57,"Batavia, IA",False,2,4.5,IA
+"110 W Burlington Ave, Fairfield, IA 52556",restaurants,Fairfield,16.994528480903124,41.00635,-91.96436,Asian Pho Bistro,10,"Batavia, IA",False,1,4.0,IA
+"116 N Main St, Fairfield, IA 52556",restaurants,Fairfield,17.02783668632584,41.00825,-91.96415,Ila,39,"Batavia, IA",False,2,4.5,IA
+"1839 200th St, Fairfield, IA 52556",restaurants,Fairfield,12.646752873309818,41.01797,-92.01731,Jefferson County Ciderworks,4,"Batavia, IA",False,1,5.0,IA
+"403 N 4th St, Fairfield, IA 52556",restaurants,Fairfield,16.727126478002347,41.010113,-91.9679512,Binghimon's Caribbean Kitchen,23,"Batavia, IA",False,1,4.5,IA
+"117 N Court St, Fairfield, IA 52556",restaurants,Fairfield,17.18167126289919,41.0082532,-91.9622973,Sweet And Saucy,27,"Batavia, IA",False,1,4.5,IA
+"905 S Washington St, Bloomfield, IA 52537",restaurants,Bloomfield,35.092267368381194,40.7404861450195,-92.4118499755859,Southfork,10,"Batavia, IA",False,1,4.5,IA
+"518 Church St, Ottumwa, IA 52501",restaurants,Ottumwa,21.267860374684222,41.0087199,-92.41915,Uncle Buck's Bar & Grill,7,"Batavia, IA",False,2,5.0,IA
+"112 E 2nd St, Ottumwa, IA 52501",restaurants,Ottumwa,20.755952173312412,41.0180850897873,-92.4119392409921,Canteen Lunch In the Alley,60,"Batavia, IA",False,1,4.5,IA
+"2094 185 Th St, Ste 22, Fairfield, IA 52556",restaurants,Fairfield,17.234526828199577,41.03812,-91.96944,Sabi's Cafe,4,"Batavia, IA",False,2,5.0,IA
+"59 N Court St, Fairfield, IA 52556",restaurants,Fairfield,17.159761897202838,41.0071885585785,-91.9624301791191,Noodle House,20,"Batavia, IA",False,1,4.0,IA
+"53 E Broadway, Fairfield, IA 52556",restaurants,Fairfield,17.13153562104675,41.0079231262207,-91.962890625,Amore Mio Ristorante Italiano,13,"Batavia, IA",False,2,3.5,IA
+"203 Weaver Rd, Bloomfield, IA 52537",restaurants,Bloomfield,34.268590495309454,40.7518248421882,-92.4155426592927,North End Grill,2,"Batavia, IA",False,1,5.0,IA
+"112 North Market St, Ottumwa, IA 52501",restaurants,Ottumwa,20.625797261027813,41.0180065069916,-92.4103892795087,Tequila Grill,26,"Batavia, IA",False,2,4.5,IA
+"8401 73rd St, Bldg 1, Agency, IA 52530",restaurants,Agency,10.776555026856375,40.9956832230091,-92.3226407915354,Smokin Bones,1,"Batavia, IA",False,-1,5.0,IA
+"510 W Main St, Agency, IA 52530",restaurants,Agency,12.428359401967837,40.9947205,-92.3142166,Agency Cafe,2,"Batavia, IA",False,1,5.0,IA
+"206 S Main St, Fairfield, IA 52556",restaurants,Fairfield,17.035545748171355,41.0048904,-91.9641037,Docs Inn Cafe,11,"Batavia, IA",False,1,4.0,IA
+"103 E Jefferson St, Bloomfield, IA 52537",restaurants,Bloomfield,34.225222978309624,40.75198,-92.41467,The Farmer's Table,1,"Batavia, IA",False,-1,5.0,IA
+"102 S Madison St, Bloomfield, IA 52537",restaurants,Bloomfield,34.27789849224031,40.75146,-92.41544,Rancho Centinela Mexican Restaurant,5,"Batavia, IA",False,2,4.5,IA

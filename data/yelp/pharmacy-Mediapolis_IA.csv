@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"526 Main St, Mediapolis, IA 52637",pharmacy,Mediapolis,0.23232238308692194,41.0076789855957,-91.1643218994141,Carruthers Pharmacy,1,"Mediapolis, IA",False,2,5.0,IA
+"3245 Agency St, Burlington, IA 52601",pharmacy,Burlington,21.734696283093665,40.8143882751465,-91.1406936645508,Walgreens,1,"Mediapolis, IA",False,-1,5.0,IA
+"1703 Park Ave, Muscatine, IA 52761",pharmacy,Muscatine,49.662883945163,41.4446,-91.02977,Walgreens,4,"Mediapolis, IA",False,2,3.5,IA
+"1525 E Kimberly Rd, Davenport, IA 52807",pharmacy,Davenport,79.36756398867924,41.55589,-90.55235,Walgreens,1,"Mediapolis, IA",False,2,5.0,IA
+"2617 18th Ave, Rock Island, IL 61201",pharmacy,Rock Island,73.68990764085528,41.4932,-90.5603,CVS Pharmacy,1,"Mediapolis, IA",False,2,5.0,IL
+"129 S Jefferson St, Mount Pleasant, IA 52641",pharmacy,Mount Pleasant,33.305531170932504,40.9659,-91.55513,Hy-Vee Drugstore,1,"Mediapolis, IA",False,1,3.0,IA
+"939 Angular St, Burlington, IA 52601",pharmacy,Burlington,23.527151737559286,40.8014,-91.1104,Hy-Vee Food Stores,1,"Mediapolis, IA",False,-1,2.0,IA
+"1500 SE 5th St, Aledo, IL 61231",pharmacy,Aledo,41.72032269340946,41.198048,-90.732197,Walmart Pharmacy,1,"Mediapolis, IA",False,-1,5.0,IL
+"129 W Locust St, Davenport, IA 52803",pharmacy,Davenport,76.59478358132688,41.53814,-90.57526,Main At Locust Pharmacy & Medical Supply,4,"Mediapolis, IA",False,3,4.5,IA
+"3601 16Th St, Moline, IL 61265",pharmacy,Moline,75.50536006117358,41.4769592285156,-90.5074768066406,Walgreens,1,"Mediapolis, IA",False,3,5.0,IL
+"1777 Division St, Davenport, IA 52804",pharmacy,Davenport,75.24332387743415,41.53777,-90.60043,CVS Pharmacy,2,"Mediapolis, IA",False,2,2.5,IA
+"3425 Middle Rd, Bettendorf, IA 52722",pharmacy,Bettendorf,82.62252130942636,41.55027,-90.48505,Walgreens,4,"Mediapolis, IA",False,-1,1.0,IA
+"300 E Jackson St, Macomb, IL 61455",pharmacy,Macomb,74.00305582316027,40.4590606689453,-90.6679306030273,Walgreens,2,"Mediapolis, IA",False,2,2.0,IL
+"4000 Avenue Of The Cities, Moline, IL 61265",pharmacy,Moline,78.11866214938395,41.48962,-90.48041,Walgreens,3,"Mediapolis, IA",False,-1,2.5,IL
+"1400 N Henderson St, Galesburg, IL 61401",pharmacy,Galesburg,65.52362651157935,40.9650077819824,-90.3840942382812,Hy-Vee,2,"Mediapolis, IA",False,-1,5.0,IL
+"555 19Th Ave, Moline, IL 61265",pharmacy,Moline,75.58158965459869,41.4936904907227,-90.5285110473633,Walgreens,1,"Mediapolis, IA",False,1,2.0,IL
+"4011 E 53Rd St, Davenport, IA 52807",pharmacy,Davenport,82.9523323847727,41.5743637084961,-90.5142440795898,Walgreens,5,"Mediapolis, IA",False,2,2.0,IA
+"1600 E Jackson St, Macomb, IL 61455",pharmacy,Macomb,74.84404334087472,40.4601783752441,-90.6478576660156,Hy-Vee,6,"Mediapolis, IA",False,2,4.5,IL
+"1805 Brady St, Davenport, IA 52803",pharmacy,Davenport,76.65877610637145,41.5377883911133,-90.5734405517578,Walgreens,2,"Mediapolis, IA",False,1,2.5,IA
+"301 30Th Ave, East Moline, IL 61244",pharmacy,East Moline,80.5156190548356,41.500526,-90.455184,Walgreens,1,"Mediapolis, IA",False,-1,1.0,IL

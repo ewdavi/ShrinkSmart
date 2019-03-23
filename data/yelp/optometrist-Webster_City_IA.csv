@@ -1,0 +1,9 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2701 Stange Rd, Ste 100, Ames, IA 50010",optometrist,Ames,47.43918660491303,42.0488891601562,-93.6454544067383,Eye Works,9,"Webster City, IA",False,3,4.0,IA
+"201 10th St, Ames, IA 50010",optometrist,Ames,50.135722780680446,42.0313835144043,-93.6127166748047,Ames Eye Clinic,1,"Webster City, IA",False,-1,5.0,IA
+"2020 Philadelphia St, Ames, IA 50010",optometrist,Ames,50.567199298002855,42.034884,-93.585403,Wolfe Eye Clinic- Ames,1,"Webster City, IA",False,-1,5.0,IA
+"2634 Stange Rd, Ames, IA 50010",optometrist,Ames,47.506874040426084,42.048415,-93.644627,Pearle Vision,1,"Webster City, IA",False,-1,5.0,IA
+"1128 Duff Ave, Ames, IA 50010",optometrist,Ames,50.03541747982788,42.0328941345215,-93.6097106933594,McFarland Clinic: Duff Avenue Eye Center,1,"Webster City, IA",False,-1,4.0,IA
+"819 Wheeler St, Ste 7, Northern Lights Ctr, Ames, IA 50010",optometrist,Ames,47.396369786421715,42.054980478225,-93.6222936374451,Whylie Eye Care Centers,1,"Webster City, IA",False,4,1.0,IA
+"3600 Lincoln Way, Ames, IA 50014",optometrist,Ames,49.86939851791705,42.0218887329102,-93.6689910888672,McFarland Clinic - West Ames Eye Center,2,"Webster City, IA",False,-1,1.0,IA
+"1128 Duff Ave, Ames, IA 50010",optometrist,Ames,50.03466381900503,42.0328712,-93.6104889,Duff Avenue Eye Center,1,"Webster City, IA",False,-1,1.0,IA

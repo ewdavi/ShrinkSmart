@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"217 W 6th St, Storm Lake, IA 50588",dental,Storm Lake,30.769250276302557,42.64563,-95.20223,Family 1st Dental of Storm Lake,1,"Cherokee, IA",False,-1,2.0,IA
+"5738 Sunnybrook Dr, Sioux City, IA 51106",dental,Sioux City,71.45524841763739,42.451707,-96.331911,Family Dental Care of Sioux City,1,"Cherokee, IA",False,-1,5.0,IA
+"5708 Sunnybrook Dr, Sioux City, IA 51106",dental,Sioux City,71.42217383093231,42.4524391,-96.3327443,"Gotch Jennifer, DDS",1,"Cherokee, IA",False,-1,5.0,IA
+"5001 Sergeant Rd, Sioux City, IA 51106",dental,Sioux City,72.62914754925825,42.44723,-96.34488,Aspen Dental,2,"Cherokee, IA",False,-1,2.0,IA
+"4704 Morningside Ave, Sioux City, IA 51106",dental,Sioux City,71.59894143277164,42.4704,-96.346409,Morningside Dental,1,"Cherokee, IA",False,-1,1.0,IA
+"4100 Morningside Ave, Ste B, Wheelock & Bursick Dentistry, Sioux City, IA 51106",dental,Sioux City,72.19755955530694,42.47033,-96.35456,"Douglas A Wheelock,DDS",1,"Cherokee, IA",False,-1,1.0,IA

@@ -1,0 +1,12 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"21022 State Hwy N I-35 Exit 106, Eagleville, MO 64442",gas stations,Eagleville,58.005521232771066,40.468629,-93.978968,Loves Travel Stop,5,"Allerton, IA",False,1,4.5,MO
+"207 S Front St, Humeston, IA 50123",gas stations,Humeston,19.9980053267299,40.857606,-93.4995549,Casey's General Store,1,"Allerton, IA",False,-1,5.0,IA
+"1706 Jeffreys Dr, Osceola, IA 50213",gas stations,Osceola,50.1859343405457,41.02729,-93.789346,Casey's General Store,3,"Allerton, IA",False,1,3.0,IA
+"114 S Prairie St, Russell, IA 50238",gas stations,Russell,34.090991171902246,40.98304,-93.1978199,Last Chance,1,"Allerton, IA",False,-1,4.0,IA
+"601 S Merino Ave, Eddyville, IA 52553",gas stations,Eddyville,79.61373998358707,41.1538840324077,-92.6273371522425,BP,1,"Allerton, IA",False,1,3.0,IA
+"24063 E 240th Ave, Eagleville, MO 64442",gas stations,Eagleville,59.272102237501684,40.44705,-93.97598,Phillips 66,2,"Allerton, IA",False,-1,4.5,MO
+"21022 E state Hwy N, Eagleville, MO 64442",gas stations,Eagleville,58.175147871120295,40.465752,-93.979255,Love's,2,"Allerton, IA",False,-1,3.5,MO
+"210 S Spruce Dr, Lamoni, IA 50140",gas stations,Lamoni,45.73565648135871,40.621723,-93.898589,I-35 Auto & Truck,4,"Allerton, IA",False,-1,3.0,IA
+"315 N Kent St, Knoxville, IA 50138",gas stations,Knoxville,71.83924961443441,41.3215,-93.10173,Mikes Towing,3,"Allerton, IA",False,-1,3.5,IA
+"2214 N Baltimore St, Kirksville, MO 63501",gas stations,Kirksville,85.93734496112641,40.217960357666,-92.5821685791016,Ayerco Convenience Store,1,"Allerton, IA",False,2,1.0,MO
+"2609 N Baltimore St, Kirksville, MO 63501",gas stations,Kirksville,85.67984510913094,40.220486,-92.583352,Ice House Lube & Wash,3,"Allerton, IA",False,-1,1.5,MO

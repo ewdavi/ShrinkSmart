@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"211 Isabella St, Radcliffe, IA 50230",restaurant,Radcliffe,0.46843701401981847,42.313473,-93.434546,Babe's Steakhouse,7,"Radcliffe, IA",False,2,3.5,IA
+"516 Broad St, Story City, IA 50248",restaurant,Story City,19.76223305370097,42.18672,-93.59678,Dinners by Dawn,33,"Radcliffe, IA",False,1,4.5,IA
+"206 Berkley St, Owasa, IA 50126",restaurant,Owasa,22.708416375746214,42.4318410495594,-93.205208927393,Three Days Grille and Saloon,2,"Radcliffe, IA",False,-1,5.0,IA
+"425 Main St, Kamrar, IA 50132",restaurant,Kamrar,25.652607246449424,42.39214,-93.72993,Pickles Pub,12,"Radcliffe, IA",False,1,4.0,IA
+"424 Oak St, Iowa Falls, IA 50126",restaurant,Iowa Falls,26.677318073380835,42.521411,-93.26279,Red Rooster Grill,3,"Radcliffe, IA",False,-1,5.0,IA
+"210 Main St, Williams, IA 50271",restaurant,Williams,20.934468688088536,42.4875602722168,-93.5442733764648,Wayside Inn,1,"Radcliffe, IA",False,-1,4.0,IA
+"1327 12th St, Eldora, IA 50627",restaurant,Eldora,28.052530784847793,42.36009,-93.0979,Eldora Pizza and Steakhouse,2,"Radcliffe, IA",False,-1,4.5,IA
+"701 Railroad St, Iowa Falls, IA 50126",restaurant,Iowa Falls,26.269725798874564,42.5183937065383,-93.2656243443489,River Tap,1,"Radcliffe, IA",False,-1,5.0,IA
+"1214 Water St, Alden, IA 50006",restaurant,Alden,23.08154755517933,42.5208,-93.37653,Westside Restaurant & Lounge,3,"Radcliffe, IA",False,1,4.5,IA
+"648 S Oak St, Iowa Falls, IN 50126",restaurant,Iowa Falls,25.326114858908554,42.5067192201609,-93.2623443379998,Plaza Veracruz,5,"Radcliffe, IA",False,1,5.0,IN
+"104 W 3rd St, Saint Anthony, IA 50239",restaurant,Saint Anthony,28.919249484362723,42.1252861022949,-93.198127746582,Flatheads Bar & Grill,3,"Radcliffe, IA",False,1,4.0,IA
+"502 Washington Ave, Iowa Falls, IA 50126",restaurant,Iowa Falls,26.516792008278813,42.5198974609375,-93.2631530761719,502 Grillhouse,10,"Radcliffe, IA",False,1,3.0,IA
+"1202 19th St, Eldora, IA 50627",restaurant,Eldora,27.336970438648006,42.36122,-93.10711,Firehouse Saloon & Grill,4,"Radcliffe, IA",False,-1,3.5,IA
+"301-399 W Main St, Steamboat Rock, IA 50672",restaurant,Steamboat Rock,31.897909660126253,42.4074249,-93.0646667,Mama's Family Diner,4,"Radcliffe, IA",False,1,4.5,IA
+"624 Broad St, Story City, IA 50248",restaurant,Story City,19.64546734889992,42.1868117145999,-93.5947759822011,Jolena Asian Cafe,3,"Radcliffe, IA",False,-1,3.5,IA
+"306 W Market St, Steamboat Rock, IA 50672",restaurant,Steamboat Rock,31.943756951665907,42.4077606,-93.0652084,Schoolhouse Cafe,1,"Radcliffe, IA",False,-1,4.0,IA
+"208 Main St, Roland, IA 50236",restaurant,Roland,17.479457506668183,42.16819,-93.50008,The Silver Spoon,2,"Radcliffe, IA",False,-1,2.5,IA
+"3065 220th St, Williams, IA 50271",restaurant,Williams,20.250557887506275,42.4718031139996,-93.5658118128777,Boondocks USA Truckstop,7,"Radcliffe, IA",False,-1,2.5,IA
+"1518 Broad St, Story City, IA 50248",restaurant,Story City,18.633216944160544,42.187469499808,-93.5769243412839,Los Altos Mexican Restaurant,12,"Radcliffe, IA",False,1,3.5,IA
+"1266 Edgington Ave, Eldora, IA 50627",restaurant,Eldora,27.967413529002723,42.3609046936035,-93.0992126464844,Ahoy Fountain,2,"Radcliffe, IA",False,1,3.5,IA

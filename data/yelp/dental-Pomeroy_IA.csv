@@ -1,0 +1,9 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"804 Kenyon Rd, Ste120, Fort Dodge, IA 50501",dental,Fort Dodge,40.19485809201904,42.4923174859341,-94.1936002671719,Fort Dodge Oral Surgery,2,"Pomeroy, IA",False,-1,5.0,IA
+"2953 5th Ave S, Fort Dodge, IA 50501",dental,Fort Dodge,43.13364313849218,42.501002,-94.155598,Aspen Dental,3,"Pomeroy, IA",False,-1,2.5,IA
+"1800 Floral Ave, Fort Dodge, IA 50501",dental,Fort Dodge,41.43695620379228,42.519725,-94.173633,"James H Knight, DDS",5,"Pomeroy, IA",False,-1,2.5,IA
+"2727 N 15th St, Fort Dodge, IA 50501",dental,Fort Dodge,41.036143238503904,42.5328442,-94.177304,"Rolling Hills Dental Clinic, PC",2,"Pomeroy, IA",False,-1,1.5,IA
+"217 W 6th St, Storm Lake, IA 50588",dental,Storm Lake,44.21790836347181,42.64563,-95.20223,Family 1st Dental of Storm Lake,1,"Pomeroy, IA",False,-1,2.0,IA
+"818 N Main St, Carroll, IA 51401",dental,Carroll,55.82277962411272,42.0683555603027,-94.8654556274414,Fangman Nicholas J Dr DDS,1,"Pomeroy, IA",False,-1,5.0,IA
+"2211 10th St, Emmetsburg, IA 50536",dental,Emmetsburg,62.32314871734728,43.1112899,-94.67981,Zimmerman Family Dental,1,"Pomeroy, IA",False,-1,1.0,IA
+"1905 S Marshall, Boone, IA 50036",dental,Boone,87.1733766212192,42.0356511,-93.8786868,Midwest Dental,1,"Pomeroy, IA",False,-1,1.0,IA

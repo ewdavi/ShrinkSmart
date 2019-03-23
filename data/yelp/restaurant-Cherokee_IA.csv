@@ -1,0 +1,14 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"214 W Main St, Cherokee, IA 51012",restaurant,Cherokee,0.7087226915630535,42.749927520752,-95.5520935058594,Gasthaus,11,"Cherokee, IA",False,2,4.0,IA
+"115 S 2nd St, Cherokee, IA 51012",restaurant,Cherokee,0.6300695491337727,42.7490501403809,-95.5516510009766,Carey's Restaurant,4,"Cherokee, IA",False,-1,5.0,IA
+"1013 S 2nd St, Cherokee, IA 51012",restaurant,Cherokee,0.7543404805053487,42.7371139526367,-95.5522613525391,Danny's Sports Spot,3,"Cherokee, IA",False,1,4.5,IA
+"1301 N 2nd St, Cherokee, IA 51012",restaurant,Cherokee,2.449319199443948,42.7657165527344,-95.5533599853516,Monterey Mexican Restaurant,12,"Cherokee, IA",False,1,4.5,IA
+"212 W Maple St, Cherokee, IA 51012",restaurant,Cherokee,0.6244072874705405,42.749095916748,-95.5520324707031,Little Panda,3,"Cherokee, IA",False,1,4.5,IA
+"415 W Main St, Cherokee Iowa, IA 51005",restaurant,Cherokee Iowa,0.6641988133063241,42.7496951993087,-95.5541224178862,Nichols Smokin' BBQ,1,"Cherokee, IA",False,-1,1.0,IA
+"119 E Main St, Cherokee, IA 51012",restaurant,Cherokee,0.713772282406559,42.7493934631348,-95.5502090454102,Pool & Pub Inc,4,"Cherokee, IA",False,2,2.5,IA
+"103 E Indian St, Cherokee, IA 51012",restaurant,Cherokee,2.2620764824530206,42.763957,-95.551407,Godfather's Pizza,2,"Cherokee, IA",False,1,2.5,IA
+"745 N 2nd St, Cherokee, IA 51012",restaurant,Cherokee,1.65208626989292,42.7583,-95.5513,Family Table Restaurant,3,"Cherokee, IA",False,2,3.0,IA
+"1500 N 2nd St, Cherokee, IA 51012",restaurant,Cherokee,2.7141080684966297,42.7680827,-95.5521733,McDonald's,4,"Cherokee, IA",False,-1,2.5,IA
+"110 Indian St, Cherokee, IA 51012",restaurant,Cherokee,2.3193835250799277,42.7642349,-95.5525273,Godfathers Pizza,1,"Cherokee, IA",False,-1,2.0,IA
+"307 N 2nd St, Cherokee, IA 51012",restaurant,Cherokee,0.948230799432193,42.7519721984863,-95.5515670776367,Subway,1,"Cherokee, IA",False,1,5.0,IA
+"902 N 2nd St, Cherokee, IA 51012",restaurant,Cherokee,2.0156420858203714,42.7616920634926,-95.5510229096035,Taco John's,1,"Cherokee, IA",False,-1,1.0,IA

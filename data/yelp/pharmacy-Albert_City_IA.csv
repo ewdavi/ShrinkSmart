@@ -1,0 +1,5 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1831 Lake Ave, Storm Lake, IA 50588",pharmacy,Storm Lake,24.127128445814616,42.664124,-95.1970284,Walmart Supercenter,1,"Albert City, IA",False,2,1.0,IA
+"1012 Okoboji Ave, Milford, IA 51351",pharmacy,Milford,62.629575253565356,43.3253021240234,-95.1495513916016,Hy-Vee,1,"Albert City, IA",False,-1,3.0,IA
+"1111 N 2nd, Cherokee, IA 51012",pharmacy,Cherokee,49.38175913908489,42.763485,-95.553152,Kmart,2,"Albert City, IA",False,-1,1.0,IA
+"3036 1st Ave S, Fort Dodge, IA 50501",pharmacy,Fort Dodge,71.83831634380532,42.506465,-94.153936,Walmart Supercenter,3,"Albert City, IA",False,2,3.0,IA

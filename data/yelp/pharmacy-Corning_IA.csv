@@ -1,0 +1,10 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"120 N 1st Ave, Winterset, IA 50273",pharmacy,Winterset,71.7785435648025,41.33513,-94.01465,Montross Pharmacy,8,"Corning, IA",False,1,4.0,IA
+"401 Washington Street, Fontanelle, IA 50846",pharmacy,Fontanelle,36.14764139343364,41.28947,-94.56254,Fontanelle Drug,1,"Corning, IA",False,1,5.0,IA
+"1400 Senate Ave, Ste 104, Red Oak, IA 51566",pharmacy,Red Oak,39.89619801162637,41.0263443,-95.2169189,Red Oak Pharmacy,1,"Corning, IA",False,-1,5.0,IA
+"806 Laurel St, Creston, IA 50801",pharmacy,Creston,31.59456391955491,41.0476270463133,-94.3729910421543,Walmart Supercenter,2,"Corning, IA",False,1,3.0,IA
+"1605 N Broadway St, Red Oak, IA 51566",pharmacy,Red Oak,41.382980784687525,41.0186272,-95.2329178,Hy-Vee Pharmacy,1,"Corning, IA",False,-1,1.0,IA
+"628 Nile Kinnick Dr, Ste 1, Adel, IA 50003",pharmacy,Adel,91.50224750526901,41.6108,-94.01723,Sumpter Pharmacy and Wellness,1,"Corning, IA",False,1,5.0,IA
+"201 S 16th St, Clarinda, IA 51632",pharmacy,Clarinda,37.83520101218729,40.737082734704,-95.0379174202681,Hy-Vee Food Store,1,"Corning, IA",False,2,4.0,IA
+"120 N 1st Ave, Winterset, IA 50273",pharmacy,Winterset,71.7785435648025,41.33513,-94.01465,Montross Health Mart Pharmacy,1,"Corning, IA",False,-1,5.0,IA
+"101 E Main St, Lamoni, IA 50140",pharmacy,Lamoni,79.61115054856515,40.6236353516579,-93.9331094920635,Varsity Drug,1,"Corning, IA",False,1,4.0,IA

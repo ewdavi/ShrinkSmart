@@ -1,0 +1,8 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1798 Old Stage Rd, Decorah, IA 52101",pharmacy,Decorah,15.629452655069008,43.29132,-91.75431,Walmart Pharmacy,1,"Calmar, IA",False,-1,4.0,IA
+"21 W Main St, Waukon, IA 52172",pharmacy,Waukon,33.353675927472175,43.2695503,-91.4766617,Hartig Drug,2,"Calmar, IA",False,-1,5.0,IA
+"12 S Frederick Ave, Oelwein, IA 50662",pharmacy,Oelwein,55.827143981120194,42.6780166625977,-91.9136962890625,Schuchmanns'valu-Rite Pharmacy,1,"Calmar, IA",False,-1,5.0,IA
+"109 N Marquette Rd, Prairie Du Chien, WI 53821",pharmacy,Prairie Du Chien,60.683020858678624,43.05223,-91.1414099,Walgreens,2,"Calmar, IA",False,1,5.0,WI
+"230 Main St, Mc Gregor, IA 52157",pharmacy,Mc Gregor,58.81764175876503,43.0242004394531,-91.1763076782227,McGregor Pharmacy,1,"Calmar, IA",False,-1,4.0,IA
+"200 Jefferson St, West Union, IA 52175",pharmacy,West Union,23.93832787187997,42.967976,-91.810828,Palmer Home Medical Supply Services,1,"Calmar, IA",False,-1,1.0,IA
+"901 Kelly St, Charles City, IA 50616",pharmacy,Charles City,66.57176887175464,43.06735,-92.67523,Hy-Vee Food Store,2,"Calmar, IA",False,1,4.0,IA

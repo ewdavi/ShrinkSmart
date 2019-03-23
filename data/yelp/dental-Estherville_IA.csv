@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"214 N 6th St, Estherville, IA 51334",dental,Estherville,0.1404670518416665,43.4044380187988,-94.8363571166992,Lester Dental Clinic,1,"Estherville, IA",False,-1,4.0,IA
+"326 W Central Ave, Estherville, IA 51334",dental,Estherville,1.099205441966923,43.4023857116699,-94.8511810302734,Williams Greg Dr DDS,1,"Estherville, IA",False,-1,1.0,IA
+"1510 Hill Ave, Spirit Lake, IA 51360",dental,Spirit Lake,21.700731666112357,43.4248962402344,-95.1027908325195,"Darren Dotson, DDS",3,"Estherville, IA",False,-1,4.5,IA
+"2211 10th St, Emmetsburg, IA 50536",dental,Emmetsburg,34.83718499575925,43.1112899,-94.67981,Zimmerman Family Dental,1,"Estherville, IA",False,-1,1.0,IA
+"717 S State St, Fairmont, MN 56031",dental,Fairmont,41.48882953670211,43.6469499,-94.44619,"Thomas J Larson, DDS",1,"Estherville, IA",False,-1,1.0,MN

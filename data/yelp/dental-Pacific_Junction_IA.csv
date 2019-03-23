@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"208 N Walnut St, Glenwood, IA 51534",dental,Glenwood,5.820439053917359,41.04916,-95.74377,Weber Dental,1,"Pacific Junction, IA",False,-1,1.0,IA
+"3615 Summit Plaza Dr, Ste 101, Bellevue, NE 68123",dental,Bellevue,19.636678231476335,41.14018,-95.96846,Summit Plaza Dental Care,3,"Pacific Junction, IA",False,-1,5.0,NE
+"3811 Twin Creek Dr, Ste 103, Bellevue, NE 68123",dental,Bellevue,19.811085780242763,41.1406021118164,-95.9707107543945,Twin Creek Dental,6,"Pacific Junction, IA",False,-1,4.0,NE
+"1004 Lincoln Rd, Ste 100, Bellevue, NE 68005",dental,Bellevue,17.285216588309655,41.15018,-95.90806,Bellevue Family Practice Dentistry,3,"Pacific Junction, IA",False,-1,5.0,NE
+"11511 S 42nd St, Ste 101, Bellevue, NE 68123",dental,Bellevue,19.916822932688664,41.13882,-95.97526,Bellevue Pediatric Dentistry,1,"Pacific Junction, IA",False,-1,5.0,NE
+"5050 L St, Omaha, NE 68117",dental,Omaha,27.08175631663934,41.2129135131836,-95.9933013916016,Parra Family Dentistry,3,"Pacific Junction, IA",False,-1,5.0,NE
+"713 N 132nd St, Omaha, NE 68154",dental,Omaha,38.481481461099484,41.2663522,-96.1195142,Quality Dental Care,14,"Pacific Junction, IA",False,-1,5.0,NE
+"1026 Woodbury Ave, Council Bluffs, IA 51503",dental,Council Bluffs,24.841455599969134,41.2403,-95.8268,Omni Dental Centre,2,"Pacific Junction, IA",False,-1,3.0,IA
+"11336 S 96th St, Ste 111, Papillion, NE 68046",dental,Papillion,26.395739407510376,41.1448364257812,-96.0653305053711,Walnut Creek Pediatric Dentistry,3,"Pacific Junction, IA",False,-1,4.5,NE
+"1004 Lincoln Rd, Ste 102, Bellevue, NE 68005",dental,Bellevue,17.285216588309655,41.15018,-95.90806,Bellevue Oral & Maxillofacial Surgery,1,"Pacific Junction, IA",False,-1,5.0,NE
+"9961 S 168th Ave, Omaha, NE 68136",dental,Omaha,35.4470293361017,41.160257,-96.178,Sanders Family Dental,3,"Pacific Junction, IA",False,-1,5.0,NE
+"10365 Pacific St, Omaha, NE 68114",dental,Omaha,34.444022348087444,41.2477220427611,-96.0753699019913,Dentistry For Health,11,"Pacific Junction, IA",False,-1,4.5,NE
+"1860 Madison Ave, Ste 4, Council Bluffs, IA 51503",dental,Council Bluffs,25.011610086820685,41.24172,-95.82016,Stuntz Family Dentistry,2,"Pacific Junction, IA",False,-1,5.0,IA
+"8104 S 96th St, Ste 1, La Vista, NE 68128",dental,La Vista,28.43862540984751,41.179653,-96.062606,Elite Dental DDS PC,3,"Pacific Junction, IA",False,-1,5.0,NE
+"11336 S 96th St, Ste 121, Papillion, NE 68046",dental,Papillion,26.395739407510376,41.14483,-96.06532,Neighborhood Dental,2,"Pacific Junction, IA",False,-1,5.0,NE
+"7302 Giles Rd, Ste 1, La Vista, NE 68128",dental,La Vista,25.914985592906227,41.17688,-96.02557,Inspired Dental,4,"Pacific Junction, IA",False,-1,5.0,NE
+"9743 Q St, Omaha, NE 68127",dental,Omaha,30.372013974134195,41.204056,-96.064895,Applewood Dental Center,1,"Pacific Junction, IA",False,-1,5.0,NE
+"10732 Virginia Plz, La Vista, NE 68128",dental,La Vista,29.243429284307147,41.1756634,-96.0787984,"Mark C Frill, DDS - Portal Ridge Dental",1,"Pacific Junction, IA",False,-1,5.0,NE
+"1105 Howard St, Fl 2, Omaha, NE 68102",dental,Omaha,28.577494319146005,41.25514,-95.931,Summit Dental Health Old Market,6,"Pacific Junction, IA",False,-1,3.5,NE
+"11717 Burt St, Ste 100, Omaha, NE 68154",dental,Omaha,37.21694835862341,41.265308,-96.098785,"Cristin C Wilson, DDS",1,"Pacific Junction, IA",False,-1,5.0,NE

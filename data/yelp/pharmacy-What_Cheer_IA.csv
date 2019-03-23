@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"205 N E St, Oskaloosa, IA 52577",pharmacy,Oskaloosa,27.32755856816992,41.2966243,-92.6517631,Mahaska Drug,2,"What Cheer, IA",False,2,5.0,IA
+"102 2Nd St, Coralville, IA 52241",pharmacy,Coralville,72.08702862389194,41.6687584,-91.5666199,Walgreens,10,"What Cheer, IA",False,2,2.0,IA
+"337 Church St, Ottumwa, IA 52501",pharmacy,Ottumwa,43.665765183273194,41.00996,-92.41839,South Side Drug Store,2,"What Cheer, IA",False,-1,5.0,IA
+"701 Mormon Trek Blvd, Iowa City, IA 52246",pharmacy,Iowa City,70.73582310999574,41.6520004,-91.5754166,Hartig USA Drug,2,"What Cheer, IA",False,2,4.0,IA
+"1204 1St Ave E, Newton, IA 50208",pharmacy,Newton,65.92953035686534,41.69959,-93.0380799,Walgreens,1,"What Cheer, IA",False,-1,1.0,IA
+"514 Elm St, Williamsburg, IA 52361",pharmacy,Williamsburg,40.80958570156021,41.6611404418945,-92.0105819702148,Peterson Drug,1,"What Cheer, IA",False,-1,3.0,IA
+"901 W Pleasant St, Knoxville, IA 50138",pharmacy,Knoxville,63.49668011481315,41.3210258483887,-93.1078720092773,Medicap Pharmacy,1,"What Cheer, IA",False,-1,5.0,IA
+"400 1st Ave W, Newton, IA 50208",pharmacy,Newton,67.36808056123981,41.6997985839844,-93.0577545166016,Medicap Pharmacy,1,"What Cheer, IA",False,-1,5.0,IA
+"625 Pacha Pkwy, North Liberty, IA 52317",pharmacy,North Liberty,73.07190166816389,41.7451181205432,-91.6072869300842,Walgreens,4,"What Cheer, IA",False,-1,4.0,IA
+"324 Edgewood Rd Nw, Cedar Rapids, IA 52405",pharmacy,Cedar Rapids,83.05838626896217,41.975044,-91.716637,Walgreens,1,"What Cheer, IA",False,3,5.0,IA
+"555 W Cherry St, North Liberty, IA 52317",pharmacy,North Liberty,73.37019017185978,41.7489,-91.60624,CarePro Pharmacy - North Liberty,2,"What Cheer, IA",False,2,3.0,IA
+"107 W Main St, Ottumwa, IA 52501",pharmacy,Ottumwa,42.67536412747651,41.0184799,-92.41298,Nucara Pharmacy,1,"What Cheer, IA",False,-1,2.0,IA
+"301 Highway 34 W, Albia, IA 52531",pharmacy,Albia,57.303411257002885,41.016779,-92.812985,Hy-Vee,1,"What Cheer, IA",False,-1,5.0,IA
+"303 Nicholas Dr, Marshalltown, IA 50158",pharmacy,Marshalltown,82.98397164206374,42.0152708,-92.9185267,Hy Vee Drugstore Clinic,1,"What Cheer, IA",False,-1,5.0,IA
+"2751 Heartland Dr, Coralville, IA 52241",pharmacy,Coralville,70.48800461002078,41.70104,-91.60947,Walgreens,4,"What Cheer, IA",False,2,3.5,IA
+"129 S Jefferson St, Mount Pleasant, IA 52641",pharmacy,Mount Pleasant,82.48524120088044,40.9659,-91.55513,Hy-Vee Drugstore,1,"What Cheer, IA",False,1,3.0,IA
+"415 Industrial Ave, Grinnell, IA 50112",pharmacy,Grinnell,47.57739511490746,41.721868,-92.730954,Walmart Supercenter,3,"What Cheer, IA",False,1,3.0,IA
+"4825 Johnson Ave NW, Cedar Rapids, IA 52405",pharmacy,Cedar Rapids,81.56373538075643,41.96759,-91.7329,Hy-Vee Drugstore,3,"What Cheer, IA",False,1,3.5,IA
+"2801 Commerce Dr, Coralville, IA 52241",pharmacy,Coralville,70.09139021403188,41.697239,-91.612035,Walmart Pharmacy,1,"What Cheer, IA",False,-1,1.0,IA
+"2821 1St Ave Se, Cedar Rapids, IA 52402",pharmacy,Cedar Rapids,90.08759615603307,42.0056305,-91.6341705,Walgreens,1,"What Cheer, IA",False,2,3.0,IA

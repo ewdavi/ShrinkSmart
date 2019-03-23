@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1206 W Front St, Albert Lea, MN 56007",dental,Albert Lea,26.03643703961022,43.64471,-93.38397,Advanced Family Dental,3,"Northwood, IA",False,-1,4.0,MN
+"141 E William St, Albert Lea, MN 56007",dental,Albert Lea,25.83266937481672,43.6489649,-93.3680545,Uptown Dental,1,"Northwood, IA",False,-1,4.0,MN
+"205 6th Pl NW, Austin, MN 55912",dental,Austin,31.81623016257129,43.6715523,-92.9768723,Nelson Dental,1,"Northwood, IA",False,-1,5.0,MN
+"607 18th Ave NW, Schieck Dental, Austin, MN 55912",dental,Austin,32.79823692294431,43.6847747862339,-92.9816005378962,Schieck Dental,1,"Northwood, IA",False,-1,5.0,MN
+"1651 W Main St, Albert Lea, MN 56007",dental,Albert Lea,26.241339737789648,43.6444629818819,-93.3888215571642,Alpha Orthodontics,2,"Northwood, IA",False,-1,4.0,MN
+"141 E William St, Albert Lea, MN 56007",dental,Albert Lea,25.83266937481672,43.6489649,-93.3680545,Kamel Marko DDS DDS,1,"Northwood, IA",False,-1,5.0,MN
+"4199 4th St SW, Mason City, IA 50401",dental,Mason City,33.192252002325084,43.147761,-93.264856,Aspen Dental,4,"Northwood, IA",False,-1,3.0,IA
+"800 1st Ave N, Ste 2, Clear Lake, IA 50428",dental,Clear Lake,36.41360200561471,43.13843,-93.37875,Sorensen Family Dentistry,2,"Northwood, IA",False,-1,5.0,IA
+"23 N Federal Ave, Mason City, IA 50401",dental,Mason City,32.45193663871561,43.15254,-93.20064,Central Park Dentistry,1,"Northwood, IA",False,-1,5.0,IA
+"132 E J St, Forest City Family Dentistry, Forest City, IA 50436",dental,Forest City,39.55129706907496,43.2634605,-93.6379154,"Laila Buck, DDS",2,"Northwood, IA",False,-1,5.0,IA
+"1601 4th Ave S, Clear Lake, IA 50428",dental,Clear Lake,36.715132156916674,43.1333832840901,-93.3697045695823,Clear Lake Pediatric Dentistry,1,"Northwood, IA",False,-1,5.0,IA
+"2800 4th St SW, Ste 1, Mason City, IA 50401",dental,Mason City,32.87955024191303,43.149139,-93.2433061,"Burgmeier Daniel, DDS - Burgmeier Dentistry",2,"Northwood, IA",False,-1,3.0,IA
+"1453 4th St SE, Mason City, IA 50401",dental,Mason City,33.13088806274227,43.1480255,-93.1718244,Alpha Orthodontics,2,"Northwood, IA",False,-1,3.0,IA
+"207 N Jackson St, Charles City, IA 50616",dental,Charles City,60.3019136261716,43.06864,-92.67959,Central Park Dentistry,1,"Northwood, IA",False,-1,5.0,IA
+"18 3rd St SW, Ste 300, Rochester, MN 55902",dental,Rochester,88.09436694847015,44.0202255249023,-92.4639358520508,Blue Sky Dental,9,"Northwood, IA",False,-1,5.0,MN
+"4270 Maine Ave SE, Ste 200, Rochester, MN 55904",dental,Rochester,83.569213809985,43.96007,-92.46039,Minnesota Lakes Dental,1,"Northwood, IA",False,-1,1.0,MN
+"1801 Greenview Dr SW, Ste 101, Rochester, MN 55902",dental,Rochester,85.14533619325186,44.0003699,-92.48837,Calcagno Cosmetic and Family Dentistry,6,"Northwood, IA",False,-1,4.5,MN
+"1705 S Broadway, Ste B, Rochester, MN 55904",dental,Rochester,86.28193781768763,43.9978434,-92.46432,Rochester Pediatric Dentistry,2,"Northwood, IA",False,-1,5.0,MN
+"1290 Salem Rd SW, Rochester, MN 55902",dental,Rochester,85.79238097480011,44.005809,-92.484519,Aspen Dental,4,"Northwood, IA",False,-1,4.0,MN
+"1008 12th St SE, Rochester, MN 55904",dental,Rochester,87.82592719200714,44.0070153,-92.4491694,12th Street Dental Office,1,"Northwood, IA",False,-1,5.0,MN

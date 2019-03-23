@@ -1,0 +1,12 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"110 S D St, Oskaloosa, IA 52577",groceries,Oskaloosa,2.9663126481942377,41.294864654541,-92.6484603881836,Hy-Vee Food Store,1,"University Park, IA",False,-1,3.0,IA
+"101 N Center St, Delta, IA 52550",groceries,Delta,24.128719517643752,41.3226867467165,-92.3304111510515,Delta Grocery,1,"University Park, IA",False,1,3.0,IA
+"940 Quincy Ave, Ottumwa, IA 52501",groceries,Ottumwa,33.653023692354886,41.014328095729,-92.4379432168111,Aldi,1,"University Park, IA",False,-1,5.0,IA
+"820 Main St, Pella, IA 50219",groceries,Pella,28.534583270473266,41.40744,-92.91593,In't Veld Meat Market,14,"University Park, IA",False,1,5.0,IA
+"316 Church St, Ottumwa, IA 52501",groceries,Ottumwa,34.79351412348332,41.0102199,-92.41712,Fareway Stores,1,"University Park, IA",False,-1,4.0,IA
+"114 High Ave W, Oskaloosa, IA 52577",groceries,Oskaloosa,2.7575284296390934,41.29506,-92.64581,R C B Oriental Food Store,1,"University Park, IA",False,-1,1.0,IA
+"1325 Albia Rd, Ottumwa, IA 52501",groceries,Ottumwa,33.95851113138507,41.01007,-92.44035,Fareway Stores,1,"University Park, IA",False,-1,5.0,IA
+"121 Walnut, Eddyville, IA 52553",groceries,Eddyville,14.553926574161114,41.1563569307327,-92.6382824778557,Eddyville Market,1,"University Park, IA",False,1,4.0,IA
+"1025 N Quincy Ave, Ottumwa, IA 52501",groceries,Ottumwa,33.464212232802915,41.01545,-92.43979,Hy-Vee Food Store,1,"University Park, IA",False,2,1.0,IA
+"525 Church St, Ottumwa, IA 52501",groceries,Ottumwa,34.89629147092588,41.00879,-92.41974,Vaphual Asian Market,2,"University Park, IA",False,1,4.5,IA
+"906 S Clinton St, Albia, IA 52531",groceries,Albia,33.8150376143418,41.01846,-92.80904,Snack Shack ,1,"University Park, IA",False,-1,1.0,IA

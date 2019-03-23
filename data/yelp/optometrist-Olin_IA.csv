@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"218 E Washington St, Iowa City, IA 52240",optometrist,Iowa City,49.531333967355906,41.6604309082031,-91.5323181152344,Discerning Eye,16,"Olin, IA",False,3,5.0,IA
+"4801 1st Ave SE, Cedar Rapids, IA 52402",optometrist,Cedar Rapids,39.6600179912705,42.0257452903854,-91.620265468955,All About Eyes - Cedar Rapids,4,"Olin, IA",False,1,5.0,IA
+"603 E Main St, Anamosa, IA 52205",optometrist,Anamosa,16.6641935440424,42.108081817627,-91.2786865234375,Total Eye Health Center,1,"Olin, IA",False,-1,2.0,IA
+"1065 E Post Rd, Marion, IA 52302",optometrist,Marion,37.8075815951875,42.019551,-91.598363,Iowa EyeCare,2,"Olin, IA",False,-1,4.5,IA
+"640 Highway 1 W, Ste 2, Iowa City, IA 52246",optometrist,Iowa City,51.4395171620624,41.648196,-91.5485,Jensen Eyecare Center,2,"Olin, IA",False,-1,5.0,IA
+"2900 Heartland Dr, Coralville, IA 52241",optometrist,Coralville,51.639970781968955,41.697404,-91.617348,Aria Eye Care,2,"Olin, IA",False,-1,5.0,IA
+"660 W Cherry St, North Liberty, IA 52317",optometrist,North Liberty,47.511360168590144,41.74998,-91.60865,Blink Vision By Veatch,1,"Olin, IA",False,-1,5.0,IA
+"1650 1st Ave NE, Cedar Rapids, IA 52402",optometrist,Cedar Rapids,41.94349426255816,41.9905,-91.64916,Iowa Eye Center Optical,3,"Olin, IA",False,-1,3.5,IA
+"1451 Coral Ridge Ave, Ste 518, Coralville, IA 52241",optometrist,Coralville,51.12567650318101,41.690949,-91.601543,Pearle Vision,1,"Olin, IA",False,-1,5.0,IA
+"510 10th St SE, Cedar Rapids, IA 52403",optometrist,Cedar Rapids,42.5330884516852,41.980368,-91.655824,Iowa EyeCare,1,"Olin, IA",False,-1,5.0,IA
+"3225 Williams Pkwy SW, Ste 1, Cedar Rapids, IA 52404",optometrist,Cedar Rapids,47.35403184511216,41.9586868286133,-91.7121810913086,Fitzgerald & Associates,5,"Olin, IA",False,-1,4.5,IA
+"315 Parham St, Ste B, Muscatine, IA 52761",optometrist,Muscatine,63.00836189009244,41.43428,-91.0561,Family Eye Center,2,"Olin, IA",False,-1,5.0,IA
+"915 Robins Square Dr, Robins, IA 52328",optometrist,Robins,43.152293470102784,42.0689507,-91.6553421,Iowa EyeCare,2,"Olin, IA",False,-1,4.5,IA
+"1425 Boyson Rd, Hiawatha, IA 52233",optometrist,Hiawatha,45.71429426631317,42.0437579,-91.691624,Iowa EyeCare,1,"Olin, IA",False,2,4.0,IA
+"2605 Blairs Ferry Rd NE, Cedar Rapids, IA 52402",optometrist,Cedar Rapids,44.60199545155275,42.0321197509766,-91.6796035766602,Copeland Eyecare,2,"Olin, IA",False,-1,4.5,IA
+"1030 Blairs Ferry Rd NE, Cedar Rapids, IA 52402",optometrist,Cedar Rapids,42.29278368903889,42.037188,-91.650896,Target Optical,1,"Olin, IA",False,-1,5.0,IA
+"965 Main St, Dubuque, IA 52001",optometrist,Dubuque,68.32323180851839,42.5021298229694,-90.6679049134254,Key City Vision Center,6,"Olin, IA",False,-1,5.0,IA
+"1614 Sycamore St, Iowa City, IA 52240",optometrist,Iowa City,49.9050093292696,41.6428877,-91.5114851,McDonald Optical,3,"Olin, IA",False,3,3.5,IA
+"2056 8th St, Coralville, IA 52241",optometrist,Coralville,51.331216668540144,41.682258,-91.594198,The Looking Glass Optical,3,"Olin, IA",False,2,3.5,IA
+"985 31st St, Marion, IA 52302",optometrist,Marion,36.35603764104839,42.035714,-91.578808,Sigma Eyehealth Centers,1,"Olin, IA",False,3,1.0,IA

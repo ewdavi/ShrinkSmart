@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"121 E Main St, Anthon, IA 51004",restaurants,Anthon,12.170387583080792,42.38853,-95.86679,Fireside Steakhouse & Lounge,5,"Correctionville, IA",False,2,5.0,IA
+"420 11th St, Correctionville, IA 51016",restaurants,Correctionville,0.5069452043483005,42.48198,-95.78456,Valley Drive Inn,2,"Correctionville, IA",False,-1,2.0,IA
+"517 Driftwood St, Correctionville, IA 51016",restaurants,Correctionville,0.4739449961041599,42.4755630493164,-95.7860412597656,Club Casmo,1,"Correctionville, IA",False,-1,2.0,IA
+"108 N Main St, Holstein, IA 51025",restaurants,Holstein,19.453501224052612,42.4896202,-95.5446625,Inside Scoop,4,"Correctionville, IA",False,-1,4.5,IA
+"119 N Main St, Holstein, IA 51025",restaurants,Holstein,19.434173505266994,42.4898357899234,-95.5450139970786,Backdraft Bar & Grill,5,"Correctionville, IA",False,2,4.0,IA
+"510 2nd, Pierson, IA 51048",restaurants,Pierson,10.171451863707077,42.543541,-95.8669434,Gas Lantern,3,"Correctionville, IA",False,1,5.0,IA
+"88 E State Hwy 175, Ida Grove, IA 51445",restaurants,Ida Grove,30.43181270322021,42.3449358974216,-95.4575874719029,Zimmys Bar And Grill,2,"Correctionville, IA",False,2,4.0,IA
+"121 Main St, Galva, IA 51020",restaurants,Galva,30.042724560332232,42.5074941028943,-95.4172364458077,Sizzlin J BBQ,1,"Correctionville, IA",False,-1,5.0,IA
+"1301 N 2nd St, Cherokee, IA 51012",restaurants,Cherokee,37.0349572410445,42.7657165527344,-95.5533599853516,Monterey Mexican Restaurant,9,"Correctionville, IA",False,1,4.0,IA
+"214 W Main St, Cherokee, IA 51012",restaurants,Cherokee,35.58202503385585,42.749927520752,-95.5520935058594,Gasthaus,9,"Correctionville, IA",False,2,4.0,IA
+"105 E 2nd St, Holstein, IA 51025",restaurants,Holstein,19.456245594351746,42.48921,-95.5445,Midwest Deli & Grill,2,"Correctionville, IA",False,-1,3.0,IA
+"119 Main St, Battle Creek, IA 51006",restaurants,Battle Creek,23.42038454215102,42.3160400390625,-95.5991897583008,BC Bakery & Cafe,2,"Correctionville, IA",False,-1,5.0,IA
+"415 W Main St, Cherokee Iowa, IA 51005",restaurants,Cherokee Iowa,35.47548361367997,42.7496951993087,-95.5541224178862,Nichols Smokin' BBQ,1,"Correctionville, IA",False,-1,1.0,IA
+"140 Main St, Moville, IA 51039",restaurants,Moville,24.014753700302233,42.4886151,-96.0740794,Misty's Restaurant,3,"Correctionville, IA",False,-1,4.5,IA
+"508 2nd St, Ida Grove, IA 51445",restaurants,Ida Grove,29.386899302906397,42.3452346054152,-95.471999187244,Mi Rancho,1,"Correctionville, IA",False,2,5.0,IA
+"115 S 2nd St, Cherokee, IA 51012",restaurants,Cherokee,35.52123038746148,42.7490501403809,-95.5516510009766,Carey's Restaurant,3,"Correctionville, IA",False,-1,5.0,IA
+"117 Main St, Danbury, IA 51019",restaurants,Danbury,27.62032629610681,42.234073638916,-95.7221221923828,Schrank's Bar & Grill,1,"Correctionville, IA",False,-1,5.0,IA
+"1013 S 2nd St, Cherokee, IA 51012",restaurants,Cherokee,34.38041428978176,42.7371139526367,-95.5522613525391,Danny's Sports Spot,2,"Correctionville, IA",False,1,4.0,IA
+"745 N 2nd St, Cherokee, IA 51012",restaurants,Cherokee,36.41357303013156,42.7583,-95.5513,Family Table Restaurant,3,"Correctionville, IA",False,2,3.0,IA
+"212 W Maple St, Cherokee, IA 51012",restaurants,Cherokee,35.508617564105215,42.749095916748,-95.5520324707031,Little Panda,2,"Correctionville, IA",False,1,4.0,IA

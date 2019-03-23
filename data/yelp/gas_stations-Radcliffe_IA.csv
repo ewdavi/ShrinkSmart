@@ -1,0 +1,15 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1400 Industrial Park Rd, Ellsworth, IA 50075",gas stations,Ellsworth,11.522060295576594,42.3113351867892,-93.5742956712918,Love's Travel Stop,3,"Radcliffe, IA",False,-1,4.5,IA
+"3040 220th St, Williams, IA 50271",gas stations,Williams,20.393417581936557,42.4703646750988,-93.572019618831,Flying J Travel Center,9,"Radcliffe, IA",False,-1,4.0,IA
+"1111 Ia Hwy 175, Ellsworth, IA 50075",gas stations,Ellsworth,11.390050618031651,42.30969,-93.57294,Kum & Go,2,"Radcliffe, IA",False,1,3.5,IA
+"3065 220th St, Williams, IA 50271",gas stations,Williams,20.250557887506275,42.4718031139996,-93.5658118128777,Boondocks USA Truckstop,7,"Radcliffe, IA",False,-1,2.5,IA
+"102 E Main St, Steamboat Rock, IA 50672",gas stations,Steamboat Rock,32.206839023944546,42.4077033996582,-93.0618438720703,Rock Stop,1,"Radcliffe, IA",False,-1,5.0,IA
+"203 Welch Ave, Ames, IA 50010",gas stations,Ames,37.44149199641555,42.0213737487793,-93.6502227783203,Kum & Go,2,"Radcliffe, IA",False,-1,3.0,IA
+"2801 E 13th St, Ames, IA 50010",gas stations,Ames,33.56350904211557,42.0345587,-93.575628,Kum & Go,4,"Radcliffe, IA",False,1,3.5,IA
+"3218 Orion Dr, Ames, IA 50010",gas stations,Ames,33.073529520653764,42.0543746948242,-93.6212387084961,Swift Stop No 5,3,"Radcliffe, IA",False,-1,4.5,IA
+"2400 University Blvd, Ames, IA 50010",gas stations,Ames,33.6505827592712,42.0341191283991,-93.5770660424983,Phillips 66,2,"Radcliffe, IA",False,-1,1.0,IA
+"2019 E Lincoln Way, Ames, IA 50010",gas stations,Ames,34.99180890708882,42.02348,-93.585117,Central Iowa Towing and Recovery,7,"Radcliffe, IA",False,-1,4.5,IA
+"519 Lincoln Hwy, Nevada, IA 50201",gas stations,Nevada,32.81470463690453,42.022964,-93.453269,Good & Quick,2,"Radcliffe, IA",False,1,2.0,IA
+"105 E Lincoln Way, Ames, IA 50010",gas stations,Ames,35.802447668697155,42.0231056213379,-93.6100387573242,Hansens Sinclair,3,"Radcliffe, IA",False,-1,3.5,IA
+"204 Clark Ave, Ames, IA 50010",gas stations,Ames,35.95232863194298,42.02384,-93.61613,Wild Water Car Wash and Pet Wash,4,"Radcliffe, IA",False,-1,1.5,IA
+"220 S Duff Ave, Ames, IA 50010",gas stations,Ames,36.00386493086188,42.020897,-93.609688,Tornado Wash,11,"Radcliffe, IA",False,-1,2.5,IA

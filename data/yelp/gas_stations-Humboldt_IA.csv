@@ -1,0 +1,9 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"3040 220th St, Williams, IA 50271",gas stations,Williams,60.52730448595981,42.4703646750988,-93.572019618831,Flying J Travel Center,9,"Humboldt, IA",False,-1,4.0,IA
+"220 E High St, Rockwell City, IA 50579",gas stations,Rockwell City,48.59442829572372,42.39906,-94.62615,Casey's General Store,1,"Humboldt, IA",False,2,4.0,IA
+"1400 Industrial Park Rd, Ellsworth, IA 50075",gas stations,Ellsworth,70.39361824533752,42.3113351867892,-93.5742956712918,Love's Travel Stop,3,"Humboldt, IA",False,-1,4.5,IA
+"3065 220th St, Williams, IA 50271",gas stations,Williams,60.904135595000014,42.4718031139996,-93.5658118128777,Boondocks USA Truckstop,7,"Humboldt, IA",False,-1,2.5,IA
+"1111 Ia Hwy 175, Ellsworth, IA 50075",gas stations,Ellsworth,70.61491251569788,42.30969,-93.57294,Kum & Go,2,"Humboldt, IA",False,1,3.5,IA
+"211 Hwy 18 E, Algona, IA 50511",gas stations,Algona,40.16425341935353,43.0837050911743,-94.2347734611994,Chrome Truck Stop,3,"Humboldt, IA",False,-1,3.5,IA
+"1211 9th St, Lake View, IA 51450",gas stations,Lake View,80.83266760046908,42.310832,-95.040174,Sparky's One Stop-Lake View,2,"Humboldt, IA",False,-1,3.0,IA
+"304 S Eskridge St, Dows, IA 50071",gas stations,Dows,59.65109989857525,42.6540985,-93.5031204,Maximum Overdrive,1,"Humboldt, IA",False,-1,5.0,IA

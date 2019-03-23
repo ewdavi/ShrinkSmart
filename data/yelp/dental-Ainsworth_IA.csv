@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"525 Hwy 1 S, Washington, IA 52353",dental,Washington,12.879378136200005,41.30397,-91.71821,Dental House of Washington,1,"Ainsworth, IA",False,-1,5.0,IA
+"525 Hwy 1, Washington, IA 52353",dental,Washington,12.85661063891693,41.2960795,-91.708086,Harris & Harris,2,"Ainsworth, IA",False,-1,3.0,IA
+"106 E Washington Ave, Fairfield, IA 52556",dental,Fairfield,46.53717538047168,41.0053787,-91.9615402,Holt Family Dental Care,1,"Ainsworth, IA",False,-1,5.0,IA
+"1205 N Columbus St, West Liberty, IA 52776",dental,West Liberty,40.469833248695195,41.580208,-91.260976,Gentle Family Dentists,2,"Ainsworth, IA",False,-1,1.0,IA
+"1205 N Columbus St, West Liberty, IA 52776",dental,West Liberty,40.469833248695195,41.580207824707,-91.2609786987305,"Moreno Carol L, DDS",1,"Ainsworth, IA",False,-1,1.0,IA

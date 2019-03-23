@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"205 N E St, Oskaloosa, IA 52577",pharmacy,Oskaloosa,3.28397614136938,41.2966243,-92.6517631,Mahaska Drug,2,"University Park, IA",False,2,5.0,IA
+"337 Church St, Ottumwa, IA 52501",pharmacy,Ottumwa,34.82904375153442,41.00996,-92.41839,South Side Drug Store,2,"University Park, IA",False,-1,5.0,IA
+"1204 1St Ave E, Newton, IA 50208",pharmacy,Newton,57.93265459105734,41.69959,-93.0380799,Walgreens,1,"University Park, IA",False,-1,1.0,IA
+"901 W Pleasant St, Knoxville, IA 50138",pharmacy,Knoxville,41.366464949356946,41.3210258483887,-93.1078720092773,Medicap Pharmacy,1,"University Park, IA",False,-1,5.0,IA
+"301 Highway 34 W, Albia, IA 52531",pharmacy,Albia,34.215184904375555,41.016779,-92.812985,Hy-Vee,1,"University Park, IA",False,-1,5.0,IA
+"101 N Walnut St, Colfax, IA 50054",pharmacy,Colfax,68.24654172438889,41.6777769,-93.2455896,Benzer Pharmacy,3,"University Park, IA",False,2,3.5,IA
+"400 1st Ave W, Newton, IA 50208",pharmacy,Newton,58.96952389069773,41.6997985839844,-93.0577545166016,Medicap Pharmacy,1,"University Park, IA",False,-1,5.0,IA
+"107 W Main St, Ottumwa, IA 52501",pharmacy,Ottumwa,34.22387635953656,41.0184799,-92.41298,Nucara Pharmacy,1,"University Park, IA",False,-1,2.0,IA
+"514 Elm St, Williamsburg, IA 52361",pharmacy,Williamsburg,65.40227850176088,41.6611404418945,-92.0105819702148,Peterson Drug,1,"University Park, IA",False,-1,3.0,IA
+"415 Industrial Ave, Grinnell, IA 50112",pharmacy,Grinnell,49.417635714138925,41.721868,-92.730954,Walmart Supercenter,3,"University Park, IA",False,1,3.0,IA

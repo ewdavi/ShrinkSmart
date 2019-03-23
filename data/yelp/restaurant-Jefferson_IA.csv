@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"108 W State St, Jefferson, IA 50129",restaurant,Jefferson,0.9774036021760034,42.0162768,-94.3749085,Uptown Cafe,14,"Jefferson, IA",False,1,4.0,IA
+"777 Wild Rose Rd, Jefferson, IA 50129",restaurant,Jefferson,2.348135298576384,42.0359820403654,-94.3823157995939,Coaches Corner at The Wild Rose Casino,3,"Jefferson, IA",False,2,3.5,IA
+"901 N Elm St, Jefferson, IA 50129",restaurant,Jefferson,1.2057433609628951,42.0254698,-94.3774336,Bett & Bev's Bbq,3,"Jefferson, IA",False,1,4.0,IA
+"113 N Chestnut St, Jefferson, IA 50129",restaurant,Jefferson,1.0979752658486877,42.0156995665347,-94.373368094697,Doc's Stadium,5,"Jefferson, IA",False,-1,2.5,IA
+"101 E Lincolnway St, Jefferson, IA 50129",restaurant,Jefferson,0.9975191101588483,42.0149955749512,-94.3745574951172,Peony Chinese Restaurant,2,"Jefferson, IA",False,1,5.0,IA
+"1409 N Elm St, Jefferson, IA 50129",restaurant,Jefferson,1.6562533530312524,42.0282399,-94.3770399,Casa De Oro,9,"Jefferson, IA",False,1,4.0,IA
+"109 E Lincoln Way, Jefferson, IA 50129",restaurant,Jefferson,1.024209385634202,42.015,-94.37424,Breadeaux Pizza,3,"Jefferson, IA",False,1,4.0,IA
+"106 W Washington St, Ste 1, Jefferson, IA 50129",restaurant,Jefferson,1.0096080396821832,42.018784,-94.375459,Hy-Vee Food Store,3,"Jefferson, IA",False,-1,5.0,IA
+"508 N Elm St, Jefferson, IA 50129",restaurant,Jefferson,0.9062081648779213,42.0200538635254,-94.3778228759766,Casey's Carry Out Pizza,1,"Jefferson, IA",False,-1,4.0,IA
+"104 N Elm St, Jefferson, IA 50129",restaurant,Jefferson,0.7287486088750113,42.01557,-94.37774,Subway,1,"Jefferson, IA",False,-1,4.0,IA

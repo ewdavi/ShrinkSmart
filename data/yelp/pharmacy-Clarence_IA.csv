@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"113 1st St NE, Mount Vernon, IA 52314",pharmacy,Mount Vernon,30.024536360043676,41.922131,-91.416167,CarePro Pharmacy - Mount Vernon,1,"Clarence, IA",False,-1,3.0,IA
+"102 2Nd St, Coralville, IA 52241",pharmacy,Coralville,48.722868649168646,41.6687584,-91.5666199,Walgreens,10,"Clarence, IA",False,2,2.0,IA
+"201 S Clinton St, Iowa City, IA 52240",pharmacy,Iowa City,47.05223075361362,41.659489,-91.53557,CVS Pharmacy,7,"Clarence, IA",False,1,3.0,IA
+"2214 Muscatine Ave, Iowa City, IA 52240",pharmacy,Iowa City,45.39062384143296,41.6499710083008,-91.5027160644531,Walgreens,4,"Clarence, IA",False,2,3.5,IA
+"701 Mormon Trek Blvd, Iowa City, IA 52246",pharmacy,Iowa City,50.23548653611446,41.6520004,-91.5754166,Hartig USA Drug,2,"Clarence, IA",False,2,4.0,IA
+"1525 E Kimberly Rd, Davenport, IA 52807",pharmacy,Davenport,55.703989246247374,41.55589,-90.55235,Walgreens,1,"Clarence, IA",False,2,5.0,IA
+"310 N 1st Ave, Iowa City, IA 52245",pharmacy,Iowa City,44.317569549307365,41.6659056434211,-91.5018634434764,Hy Vee Drugstore,2,"Clarence, IA",False,2,4.5,IA
+"1703 Park Ave, Muscatine, IA 52761",pharmacy,Muscatine,49.17062173212971,41.4446,-91.02977,Walgreens,4,"Clarence, IA",False,2,3.5,IA
+"129 W Locust St, Davenport, IA 52803",pharmacy,Davenport,55.64230778170715,41.53814,-90.57526,Main At Locust Pharmacy & Medical Supply,4,"Clarence, IA",False,3,4.5,IA
+"2617 18th Ave, Rock Island, IL 61201",pharmacy,Rock Island,60.07307004968311,41.4932,-90.5603,CVS Pharmacy,1,"Clarence, IA",False,2,5.0,IL
+"812 S 1st Ave, Iowa City, IA 52245",pharmacy,Iowa City,45.17597037481628,41.6514053344727,-91.5008926391602,Hy-Vee,10,"Clarence, IA",False,2,3.0,IA
+"55 John F Kennedy Rd, Dubuque, IA 52002",pharmacy,Dubuque,73.056339862933,42.4929,-90.715915,Walgreens,5,"Clarence, IA",False,2,2.5,IA
+"225 E Le Claire Rd, Eldridge, IA 52748",pharmacy,Eldridge,47.13774118427235,41.6542816,-90.5809784,North Scott Pharmacy,1,"Clarence, IA",False,-1,1.0,IA
+"625 Pacha Pkwy, North Liberty, IA 52317",pharmacy,North Liberty,48.26348241778102,41.7451181205432,-91.6072869300842,Walgreens,4,"Clarence, IA",False,-1,4.0,IA
+"324 Edgewood Rd Nw, Cedar Rapids, IA 52405",pharmacy,Cedar Rapids,55.486769387346655,41.975044,-91.716637,Walgreens,1,"Clarence, IA",False,3,5.0,IA
+"1777 Division St, Davenport, IA 52804",pharmacy,Davenport,54.19497733908771,41.53777,-90.60043,CVS Pharmacy,2,"Clarence, IA",False,2,2.5,IA
+"555 W Cherry St, North Liberty, IA 52317",pharmacy,North Liberty,48.0396376918519,41.7489,-91.60624,CarePro Pharmacy - North Liberty,2,"Clarence, IA",False,2,3.0,IA
+"3425 Middle Rd, Bettendorf, IA 52722",pharmacy,Bettendorf,60.389226214824504,41.55027,-90.48505,Walgreens,4,"Clarence, IA",False,-1,1.0,IA
+"1225 7Th Ave, Marion, IA 52302",pharmacy,Marion,47.51149662274834,42.0328369140625,-91.5963287353516,Walgreens,3,"Clarence, IA",False,4,2.5,IA
+"4011 E 53Rd St, Davenport, IA 52807",pharmacy,Davenport,56.812939003198345,41.5743637084961,-90.5142440795898,Walgreens,5,"Clarence, IA",False,2,2.0,IA

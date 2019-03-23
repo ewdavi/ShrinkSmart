@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"10889 West Red Gates Rd, Galena, IL 61036",convenience stores,Galena,39.916810348785724,42.423987,-90.444674,Casey's General Store,5,"Epworth, IA",False,2,2.5,IL
+"2685 Dodge St, Dubuque, IA 52003",convenience stores,Dubuque,19.318792944986487,42.49196,-90.70248,Kwik Star,5,"Epworth, IA",False,2,3.5,IA
+"3270 Dodge St, Dubuque, IA 52003",convenience stores,Dubuque,18.40585899365362,42.491739523315,-90.7139552440695,Hy Vee Gas & Convenience Stores,1,"Epworth, IA",False,1,5.0,IA
+"620 Sinsinawa Ave, East Dubuque, IL 61025",convenience stores,East Dubuque,24.281948605813543,42.4893208,-90.6395985,Leibold Brother's Convenience Store,1,"Epworth, IA",False,-1,1.0,IL
+"3500 Dodge St, Dubuque, IA 52003",convenience stores,Dubuque,17.736520916287215,42.490219,-90.721855,Target,7,"Epworth, IA",False,2,3.5,IA
+"2320 Gateway Dr, Dubuque, IA 52003",convenience stores,Dubuque,21.163260372086892,42.4585972,-90.6725219,Kwikstop Food Mart,1,"Epworth, IA",False,2,5.0,IA
+"400 S Locust St, Dubuque, IA 52003",convenience stores,Dubuque,22.334939985143357,42.486929797055,-90.663160275336,Hy-Vee Food Store,17,"Epworth, IA",False,1,3.0,IA
+"202 N Cedar St, Monticello, IA 52310",convenience stores,Monticello,31.425135296935263,42.2395,-91.18962,Karde's Convenience Store,1,"Epworth, IA",False,-1,2.0,IA
+"609 Dodge St, Mineral Point, WI 53565",convenience stores,Mineral Point,77.42740603075532,42.86902,-90.17648,The Pitstop,1,"Epworth, IA",False,-1,4.0,WI
+"470 Sinsinawa Ave, East Dubuque, IL 61025",convenience stores,East Dubuque,24.215741125989474,42.4907100525338,-90.6406397747204,Vans Liquor Store,4,"Epworth, IA",False,1,4.0,IL
+"955 Washington St, Dubuque, IA 52001",convenience stores,Dubuque,22.786611155804376,42.5035452947905,-90.6629522144794,Inspire Cafe,65,"Epworth, IA",False,1,4.5,IA
+"3445 County Home Rd, Cedar Rapids, IA 52411",convenience stores,Cedar Rapids,74.38266497841607,42.09436,-91.6988499,Otter Creek Country Stores,6,"Epworth, IA",False,2,3.0,IA
+"105 S Main Ave, Alburnett, IA 52202",convenience stores,Alburnett,65.68644689333581,42.1480522155762,-91.6189041137695,Co-Op Convenience Store,1,"Epworth, IA",False,-1,5.0,IA
+"501 7th Ave SE, Cedar Rapids, IA 52410",convenience stores,Cedar Rapids,79.75278380155513,41.97551,-91.65963,Benz Beverage Depot,11,"Epworth, IA",False,2,4.5,IA
+"1201 1st Ave SE, Cedar Rapids, IA 52402",convenience stores,Cedar Rapids,78.93532773954769,41.9848,-91.65733,Casey's General Store,1,"Epworth, IA",False,1,1.0,IA
+"116 N Main St, Cuba City, WI 53807",convenience stores,Cuba City,44.642012414381746,42.6070175,-90.4306001,Gile Cheese Store,5,"Epworth, IA",False,2,4.0,WI
+"975 Robins Rd, Hiawatha, IA 52233",convenience stores,Hiawatha,75.56112695475767,42.04731,-91.6724799,Hawkeye Convenience Store,1,"Epworth, IA",False,2,5.0,IA
+"20 Wilson Ave SW, Cedar Rapids, IA 52404",convenience stores,Cedar Rapids,81.05493419917178,41.9568099975586,-91.6585540771484,Hy-Vee Food Stores,7,"Epworth, IA",False,3,4.5,IA
+"515 S Main St, Galena, IL 61036",convenience stores,Galena,41.14258634467781,42.4126263,-90.4308886,Galena Cellars Vineyard & Winery,51,"Epworth, IA",False,2,4.0,IL
+"3915 Center Point Rd NE, Cedar Rapids, IA 52402",convenience stores,Cedar Rapids,77.00336403956038,42.0192,-91.66541,La Guanajuato,33,"Epworth, IA",False,1,4.5,IA

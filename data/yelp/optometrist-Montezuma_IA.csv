@@ -1,0 +1,12 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"935 Broad St, Grinnell, IA 50112",optometrist,Grinnell,24.358600153828593,41.74446,-92.72449,Jensen Optometrists,3,"Montezuma, IA",False,-1,2.5,IA
+"224 E Main St, Marengo, IA 52301",optometrist,Marengo,45.0309008032807,41.8005,-92.0681,Iowa Valley Eye Care,1,"Montezuma, IA",False,-1,5.0,IA
+"224 E Main St, Ottumwa, IA 52501",optometrist,Ottumwa,63.76861026302385,41.0164558,-92.4108879,"Mark A Altfillisch, OD - The Optical Shoppe",1,"Montezuma, IA",False,2,5.0,IA
+"6584 165th St, Albia, IA 52531",optometrist,Albia,64.16945511483387,41.0447696596384,-92.7966447919607,Adler William R OD,1,"Montezuma, IA",False,-1,1.0,IA
+"513 1st Ave, Vinton, IA 52349",optometrist,Vinton,76.95009454494017,42.1660766601562,-92.0246734619141,Martin Eye Clinic OD,1,"Montezuma, IA",False,-1,5.0,IA
+"309 E Church St, Marshalltown, IA 50158",optometrist,Marshalltown,60.58637833087751,42.0478869,-92.9078939,Wolfe Eye Clinic- Marshalltown,1,"Montezuma, IA",False,-1,4.0,IA
+"3225 Williams Pkwy SW, Ste 1, Cedar Rapids, IA 52404",optometrist,Cedar Rapids,79.3398247639369,41.9586868286133,-91.7121810913086,Fitzgerald & Associates,5,"Montezuma, IA",False,-1,4.5,IA
+"3005 Wiley Blvd SW, Cedar Rapids, IA 52404",optometrist,Cedar Rapids,78.16056246968017,41.948276,-91.7203679,America's Best Contacts & Eyeglasses,3,"Montezuma, IA",False,-1,3.5,IA
+"3255 Williams Blvd SW, Cedar Rapids, IA 52404",optometrist,Cedar Rapids,79.26842631634749,41.959056854248,-91.7135238647461,Vision In Motion,1,"Montezuma, IA",False,-1,5.0,IA
+"3225 Williams Pkwy SW, Cedar Rapids, IA 52404",optometrist,Cedar Rapids,79.3398247639369,41.9586868286133,-91.7121810913086,Fitzgerald Deann Dr OD,1,"Montezuma, IA",False,-1,5.0,IA
+"3400 Edgewood Rd SW, Cedar Rapids, IA 52404",optometrist,Cedar Rapids,78.16966569950539,41.944797,-91.717447,Target Optical,2,"Montezuma, IA",False,-1,1.0,IA

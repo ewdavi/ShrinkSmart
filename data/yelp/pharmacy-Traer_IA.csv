@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"111 W Ridgeway Ave, Waterloo, IA 50701",pharmacy,Waterloo,32.44410928745613,42.4687843322754,-92.3574829101562,Walgreens,3,"Traer, IA",False,1,3.0,IA
+"209 E San Marnan Dr, Waterloo, IA 50702",pharmacy,Waterloo,31.428674705930593,42.4581413,-92.3520584,Nucara Pharmacy,2,"Traer, IA",False,3,1.5,IA
+"2509 White Tail Dr, Cedar Falls, IA 50613",pharmacy,Cedar Falls,39.28841541887563,42.54075,-92.47594,Walgreens,1,"Traer, IA",False,1,1.0,IA
+"3910 University Ave, Waterloo, IA 50701",pharmacy,Waterloo,35.68204583414532,42.5053863525391,-92.4027633666992,Walgreens,2,"Traer, IA",False,1,5.0,IA
+"111 W 4th St, Vinton, IA 52349",pharmacy,Vinton,36.14410746301505,42.1678428649902,-92.0250396728516,LaGrange Pharmacy,1,"Traer, IA",False,-1,5.0,IA
+"1825 E San Marnan Dr, Waterloo, IA 50702",pharmacy,Waterloo,33.21018312720844,42.467471,-92.321879,CVS Pharmacy,2,"Traer, IA",False,-1,1.5,IA
+"621 G Ave, Grundy Center, IA 50638",pharmacy,Grundy Center,31.99337286112795,42.3618393,-92.7721634,Manly Drug Store,1,"Traer, IA",False,-1,1.0,IA
+"303 Nicholas Dr, Marshalltown, IA 50158",pharmacy,Marshalltown,42.11270017758812,42.0152708,-92.9185267,Hy Vee Drugstore Clinic,1,"Traer, IA",False,-1,5.0,IA
+"1204 1St Ave E, Newton, IA 50208",pharmacy,Newton,72.16555337284994,41.69959,-93.0380799,Walgreens,1,"Traer, IA",False,-1,1.0,IA
+"12 S Frederick Ave, Oelwein, IA 50662",pharmacy,Oelwein,70.74591319074307,42.6780166625977,-91.9136962890625,Schuchmanns'valu-Rite Pharmacy,1,"Traer, IA",False,-1,5.0,IA
+"525 Brandilynn Blvd, Cedar Falls, IA 50613",pharmacy,Cedar Falls,33.32275844382286,42.48637,-92.44002,Walmart Pharmacy,1,"Traer, IA",False,-1,1.0,IA
+"324 Edgewood Rd Nw, Cedar Rapids, IA 52405",pharmacy,Cedar Rapids,65.96024994061071,41.975044,-91.716637,Walgreens,1,"Traer, IA",False,3,5.0,IA
+"1602 Edgington Ave, Eldora, IA 50627",pharmacy,Eldora,56.10277959848914,42.3608818054199,-93.1032485961914,Medicap Pharmacy,1,"Traer, IA",False,-1,4.0,IA
+"400 1st Ave W, Newton, IA 50208",pharmacy,Newton,73.23610635709996,41.6997985839844,-93.0577545166016,Medicap Pharmacy,1,"Traer, IA",False,-1,5.0,IA
+"207 Franklin St, Waterloo, IA 50703",pharmacy,Waterloo,36.68623581611407,42.5041,-92.3369,CVS Pharmacy,1,"Traer, IA",False,-1,4.0,IA
+"101 N Walnut St, Colfax, IA 50054",pharmacy,Colfax,86.05966868262108,41.6777769,-93.2455896,Benzer Pharmacy,3,"Traer, IA",False,2,3.5,IA
+"4116 Center Point Rd NE, Cedar Rapids, IA 52402",pharmacy,Cedar Rapids,68.42038409998969,42.020918,-91.664465,CVS Pharmacy,4,"Traer, IA",False,2,2.5,IA
+"514 Elm St, Williamsburg, IA 52361",pharmacy,Williamsburg,69.47768593613766,41.6611404418945,-92.0105819702148,Peterson Drug,1,"Traer, IA",False,-1,3.0,IA
+"840 S Oak St, Iowa Falls, IA 50126",pharmacy,Iowa Falls,74.3119354559711,42.50297,-93.26228,Clinic Pharmacy,1,"Traer, IA",False,-1,3.0,IA
+"4825 Johnson Ave NW, Cedar Rapids, IA 52405",pharmacy,Cedar Rapids,65.03444797539537,41.96759,-91.7329,Hy-Vee Drugstore,3,"Traer, IA",False,1,3.5,IA

@@ -1,0 +1,5 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"125 N 13th St, Centerville, IA 52544",optometrist,Centerville,41.828445266972935,40.733363,-92.873098,International Eyecare Center,1,"Allerton, IA",False,-1,5.0,IA
+"147 S Main St, Osceola, IA 50213",optometrist,Osceola,49.29908921927695,41.0335731506348,-93.7653656005859,Osceola Vision Center,2,"Allerton, IA",False,-1,1.0,IA
+"6584 165th St, Albia, IA 52531",optometrist,Albia,60.712638743734686,41.0447696596384,-92.7966447919607,Adler William R OD,1,"Allerton, IA",False,-1,1.0,IA
+"506 Rosewood Dr, Kirksville, MO 63501",optometrist,Kirksville,86.83202791793649,40.20874,-92.57908,Laurence I Miller DO,1,"Allerton, IA",False,-1,4.0,MO

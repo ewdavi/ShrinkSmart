@@ -1,0 +1,17 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"317 Main St, Manning, IA 51455",pharmacy,Manning,35.04154404026556,41.9084,-95.06523,Manning Pharmacy,3,"Elk Horn, IA",False,-1,3.5,IA
+"400 N Elm St, Jefferson, IA 50129",pharmacy,Jefferson,73.86802362741754,42.0185279846191,-94.377815246582,Medicap Pharmacy,1,"Elk Horn, IA",False,2,5.0,IA
+"401 Washington Street, Fontanelle, IA 50846",pharmacy,Fontanelle,53.667485017124,41.28947,-94.56254,Fontanelle Drug,1,"Elk Horn, IA",False,1,5.0,IA
+"1206 S Locust St, Glenwood, IA 51534",pharmacy,Glenwood,84.39173812308302,41.0369699,-95.74997,Medicap Pharmacy,1,"Elk Horn, IA",False,-1,2.0,IA
+"106 W Washington St, Ste 1, Jefferson, IA 50129",pharmacy,Jefferson,74.04334993890599,42.018784,-94.375459,Hy-Vee Food Store,3,"Elk Horn, IA",False,-1,5.0,IA
+"1400 Senate Ave, Ste 104, Red Oak, IA 51566",pharmacy,Red Oak,64.23900982812222,41.0263443,-95.2169189,Red Oak Pharmacy,1,"Elk Horn, IA",False,-1,5.0,IA
+"2508 W Broadway, Council Bluffs, IA 51501",pharmacy,Council Bluffs,77.64324695216214,41.262405,-95.882652,Walgreens,2,"Elk Horn, IA",False,2,3.0,IA
+"1605 N Broadway St, Red Oak, IA 51566",pharmacy,Red Oak,65.47461006550857,41.0186272,-95.2329178,Hy-Vee Pharmacy,1,"Elk Horn, IA",False,-1,1.0,IA
+"3201 Manawa Centre Dr, Council Bluffs, IA 51501",pharmacy,Council Bluffs,76.80901801305859,41.22762,-95.84466,Walmart Pharmacy,1,"Elk Horn, IA",False,-1,3.0,IA
+"701 16th Ave, Council Bluffs, IA 51501",pharmacy,Council Bluffs,76.51186377124118,41.2464599609375,-95.8550415039062,Oard-Ross Drug,1,"Elk Horn, IA",False,1,4.0,IA
+"535 E Broadway, Council Bluffs, IA 51503",pharmacy,Council Bluffs,74.30566126330895,41.26572,-95.83935,Walgreens,4,"Elk Horn, IA",False,2,2.0,IA
+"301 W Bennett Ave, Council Bluffs, IA 51503",pharmacy,Council Bluffs,74.70168286104297,41.244252,-95.828105,Walgreens,3,"Elk Horn, IA",False,2,2.5,IA
+"1800 N 16th St, Council Bluffs, ID 51501",pharmacy,Council Bluffs,75.713809172599,41.2800242,-95.869066,Walmart Pharmacy,1,"Elk Horn, IA",False,-1,1.0,ID
+"806 Laurel St, Creston, IA 50801",pharmacy,Creston,83.65636084621403,41.0476270463133,-94.3729910421543,Walmart Supercenter,2,"Elk Horn, IA",False,1,3.0,IA
+"757 W Broadway, Council Bluffs, IA 51501",pharmacy,Council Bluffs,75.74791176433378,41.2615468,-95.8549971,Hy-Vee Drugstore,1,"Elk Horn, IA",False,2,2.0,IA
+"3804 Metro Dr, Council Bluffs, IA 51501",pharmacy,Council Bluffs,76.86561918445946,41.220723,-95.838976,Target,8,"Elk Horn, IA",False,2,3.5,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"11925 University Ave, Clive, IA 50325",convenience stores,Clive,73.41019269921065,41.60107,-93.78218,QuikTrip,7,"Fontanelle, IA",False,2,4.0,IA
+"4100 University Ave, Ste 260, West Des Moines, IA 50266",convenience stores,West Des Moines,74.83806432248639,41.5985553908381,-93.7611208195531,Whole Foods Market,65,"Fontanelle, IA",False,2,4.0,IA
+"1019 N Chestnut St, Avoca, IA 51521",convenience stores,Avoca,68.36823396135823,41.4852025173397,-95.3361962963767,Casey's General Store,4,"Fontanelle, IA",False,1,3.0,IA
+"1715 N Broadway St, Red Oak, IA 51566",convenience stores,Red Oak,63.88537698094239,41.0196571,-95.2329712,Lincoln Farm & Home Service,1,"Fontanelle, IA",False,-1,5.0,IA
+"1203 Guthrie St, De Soto, IA 50069",convenience stores,De Soto,53.24833295782692,41.5376482,-94.0125451,Kum & Go,2,"Fontanelle, IA",False,2,2.0,IA
+"1802 Sycamore St, Granger, IA 50109",convenience stores,Granger,80.32756705519384,41.758681,-93.82479,Casey's General Store,1,"Fontanelle, IA",False,2,1.0,IA
+"3005 100th St, Urbandale, IA 50322",convenience stores,Urbandale,76.540030590581,41.621624,-93.7556,Wang's Asian Market,14,"Fontanelle, IA",False,2,4.0,IA
+"1010 60th St, West Des Moines, IA 50266",convenience stores,West Des Moines,71.90786399314592,41.584968,-93.791191,Hy-Vee Drugstore,2,"Fontanelle, IA",False,-1,4.0,IA
+"64975 Boston Rd, Atlantic, IA 50022",convenience stores,Atlantic,38.97612793810106,41.4859719688138,-94.9464303163691,Conoco Gas,2,"Fontanelle, IA",False,-1,1.0,IA
+"7265 Vista Dr, West Des Moines, IA 50266",convenience stores,West Des Moines,70.9136530800959,41.5892921,-93.8078504,Kum & Go,5,"Fontanelle, IA",False,2,3.0,IA
+"1706 Jeffreys Dr, Osceola, IA 50213",convenience stores,Osceola,70.75080992469096,41.02729,-93.789346,Casey's General Store,3,"Fontanelle, IA",False,1,3.0,IA
+"220 50th St, West Des Moines, IA 50265",convenience stores,West Des Moines,72.87953740759943,41.5736376,-93.7709694,Kum & Go,3,"Fontanelle, IA",False,2,4.5,IA
+"2900 University Ave, West Des Moines, IA 50266",convenience stores,West Des Moines,76.12819527985934,41.5994463021701,-93.7443388402789,Fresh Thyme Farmers Market,33,"Fontanelle, IA",False,2,4.0,IA
+"5308 University Ave, West Des Moines, IA 50266",convenience stores,West Des Moines,73.60343342969875,41.6001296,-93.7789262,Kum & Go,3,"Fontanelle, IA",False,1,4.5,IA
+"375 S Jordan Creek Pkwy, West Des Moines, IA 50266",convenience stores,West Des Moines,69.41422830956536,41.5605579006756,-93.8095621206575,Hy-Vee Health Market,2,"Fontanelle, IA",False,2,3.5,IA
+"6365 Stagecoach Dr, West Des Moines, IA 50266",convenience stores,West Des Moines,70.1593413978575,41.558355,-93.7975,Walmart Supercenter,25,"Fontanelle, IA",False,2,3.0,IA
+"4900 Mills Civic Pkwy, West Des Moines, IA 50265",convenience stores,West Des Moines,72.25417447369509,41.55856,-93.77,Walgreens,6,"Fontanelle, IA",False,2,3.5,IA
+"555 S 51st St, West Des Moines, IA 50265",convenience stores,West Des Moines,71.96521511052879,41.56066,-93.77455,Hy-Vee Food Stores,16,"Fontanelle, IA",False,2,4.5,IA
+"904 N Walnut, Avoca, IA 51521",convenience stores,Avoca,68.42543282490314,41.4842592560023,-95.3373330831528,Shell Gas Station,1,"Fontanelle, IA",False,-1,4.0,IA
+"101 Jordan Creek Pkwy, West Des Moines, IA 50266",convenience stores,West Des Moines,70.13374889267358,41.5687937093089,-93.8044804104415,Jordan Creek Town Center,51,"Fontanelle, IA",False,2,4.0,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"32000 Route 2 N, Hillsdale, IL 61257",gas stations,Hillsdale,48.45260416072962,41.612827,-90.186699,Shell Gasoline,3,"Grand Mound, IA",False,-1,1.5,IL
+"9927 Rt 20 W, Galena, IL 61036",gas stations,Galena,67.66642663113244,42.4072555481277,-90.4201756319316,R & L Gas Mart,1,"Grand Mound, IA",False,1,2.0,IL
+"1403 Eagle Ridge Rd, Le Claire, IA 52753",gas stations,Le Claire,35.47629410051466,41.5869932932501,-90.3628931567073,Shell,2,"Grand Mound, IA",False,-1,4.0,IA
+"755 W Iowa 80 Rd, I-80 Exit 284, Walcott, IA 52773",gas stations,Walcott,25.286674325218673,41.6178044903672,-90.7811987400055,"Iowa 80 Truckstop, Verizon Authorized Retailer",148,"Grand Mound, IA",False,2,4.0,IA
+"10889 West Red Gates Rd, Galena, IL 61036",gas stations,Galena,68.92890156275824,42.423987,-90.444674,Casey's General Store,5,"Grand Mound, IA",False,2,2.5,IL
+"8255 Nw Blvd, Davenport, IA 52806",gas stations,Davenport,24.395096262996198,41.604668996205,-90.6233522270845,Love's Travel Stop,4,"Grand Mound, IA",False,2,4.0,IA
+"2433 S Oakwood Ave, Geneseo, IL 61254",gas stations,Geneseo,59.626487028538335,41.43258,-90.15913,Becks,4,"Grand Mound, IA",False,-1,2.5,IL
+"2975 N Plainview Rd, Walcott, IA 52773",gas stations,Walcott,25.65753459155473,41.61449,-90.78223,Pilot Travel Center,13,"Grand Mound, IA",False,-1,3.0,IA
+"2321 Lincoln Way, Clinton, IA 52732",gas stations,Clinton,33.89660746339224,41.8155540525913,-90.2403346449137,Kwik Star,2,"Grand Mound, IA",False,2,5.0,IA
+"306 N Canal St, Annawan, IL 61234",gas stations,Annawan,77.625591177288,41.4023282694728,-89.9052214622498,Shell,1,"Grand Mound, IA",False,-1,3.0,IL
+"3850 Elmore Ave, Davenport, IA 52807",gas stations,Davenport,31.233732448745734,41.55757,-90.52766,Hy-Vee Gas Station,2,"Grand Mound, IA",False,-1,4.0,IA
+"412 1st Ave, Colona, IL 61241",gas stations,Colona,44.655921836479564,41.4835281,-90.3634872,7-Eleven,3,"Grand Mound, IA",False,1,3.5,IL
+"620 S Downey St, West Branch, IA 52358",gas stations,West Branch,60.531893100822394,41.662053,-91.34717,Kum & Go,3,"Grand Mound, IA",False,1,3.5,IA
+"103 Diagonal St, Elizabeth, IL 61028",gas stations,Elizabeth,65.34752991910922,42.3186761,-90.2234871,Little Keg,2,"Grand Mound, IA",False,-1,3.0,IL
+"105 W 1st Ave, Coal Valley, IL 61240",gas stations,Coal Valley,44.15061656418251,41.4520818,-90.4611637,7-Eleven,3,"Grand Mound, IA",False,1,3.5,IL
+"716 S 4th St, Clinton, IA 52732",gas stations,Clinton,37.867440503441784,41.8386378139257,-90.1933101564646,Hop N Shop,1,"Grand Mound, IA",False,-1,3.0,IA
+"1512 Lincoln Way, Clinton, IA 52732",gas stations,Clinton,35.49051217509755,41.8176994,-90.2214508,Porter's Convenient,3,"Grand Mound, IA",False,1,4.5,IA
+"Viola, IL 61486",gas stations,Viola,68.20879138045663,41.2116030316862,-90.5861363599293,Casey's,2,"Grand Mound, IA",False,-1,3.5,IL
+"150 S Main St, Stockton, IL 61085",gas stations,Stockton,78.90867159942447,42.3490327,-90.0069925,Casey General Store 2505,2,"Grand Mound, IA",False,1,4.5,IL
+"755 W Iowa 80 Rd, Walcott, IA 52773",gas stations,Walcott,25.259985812389026,41.61754,-90.78062,Travel Centers-Walcott,3,"Grand Mound, IA",False,-1,4.0,IA

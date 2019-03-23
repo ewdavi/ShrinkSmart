@@ -1,0 +1,4 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1916 N Baltimore St, Kirksville, MO 63501",dental,Kirksville,86.45492992496013,40.2121551,-92.5813698,Kirksville Dental Group,2,"Allerton, IA",False,-1,5.0,MO
+"1310 Crown Dr, Kirksville, MO 63501",dental,Kirksville,87.37584105943638,40.2057342529297,-92.5734100341797,Riley Donald D DDS,1,"Allerton, IA",False,-1,5.0,MO
+"902 S 17th St, Oskaloosa, IA 52577",dental,Oskaloosa,89.86936051659453,41.288094,-92.62335,Osky Dental,2,"Allerton, IA",False,-1,3.0,IA

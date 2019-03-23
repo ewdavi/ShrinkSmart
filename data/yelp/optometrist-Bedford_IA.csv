@@ -1,0 +1,3 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1409 N 2nd St, Red Oak, IA 51566",optometrist,Red Oak,57.31848527312337,41.0173301696777,-95.2305755615234,Michael J Portz  PC,1,"Bedford, IA",False,-1,5.0,IA
+"1400 Senate Ave, Ste 104, Red Oak, IA 51566",optometrist,Red Oak,57.18008897562189,41.0263443,-95.2169189,Red Oak Pharmacy,1,"Bedford, IA",False,-1,5.0,IA

@@ -1,0 +1,10 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"711 E Main St, Lake City, IA 51449",convenience stores,Lake City,65.08406626702875,42.26732,-94.72568,Sparky's One Stop-Lake City,2,"Humboldt, IA",False,2,4.0,IA
+"590 Parker St, Stanhope, IA 50246",convenience stores,Stanhope,59.73290924001195,42.2897283487349,-93.7957038292291,Sparky's One Stop,1,"Humboldt, IA",False,1,3.0,IA
+"1111 Ia Hwy 175, Ellsworth, IA 50075",convenience stores,Ellsworth,70.61491251569788,42.30969,-93.57294,Kum & Go,2,"Humboldt, IA",False,1,3.5,IA
+"5253 S Shore Dr, Clear Lake, IA 50428",convenience stores,Clear Lake,79.39024679462334,43.11498,-93.41288,Market At Oakwood,1,"Humboldt, IA",False,-1,5.0,IA
+"2307 Superior St, Webster City, IA 50595",convenience stores,Webster City,44.98411645718472,42.4526924,-93.8179493,Kmart,1,"Humboldt, IA",False,1,3.0,IA
+"306 Washington St, Story City, IA 50248",convenience stores,Story City,78.84482289709247,42.1852760314941,-93.5997543334961,Harlan's Food Mart,4,"Humboldt, IA",False,3,3.0,IA
+"3065 220th St, Williams, IA 50271",convenience stores,Williams,60.904135595000014,42.4718031139996,-93.5658118128777,Boondocks USA Truckstop,7,"Humboldt, IA",False,-1,2.5,IA
+"1211 9th St, Lake View, IA 51450",convenience stores,Lake View,80.83266760046908,42.310832,-95.040174,Sparky's One Stop-Lake View,2,"Humboldt, IA",False,-1,3.0,IA
+"213 Isabella St, Radcliffe, IA 50230",convenience stores,Radcliffe,79.30227004352375,42.3136,-93.43463,It's All Good,2,"Humboldt, IA",False,1,4.5,IA

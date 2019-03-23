@@ -1,0 +1,5 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"200 Euclid Ave, Des Moines, IA 50313",Pawn Shops,Des Moines,11.619243104036965,41.62736,-93.6202799,A To Z Pawn,3,"Altoona, IA",False,2,2.5,IA
+"3311 Ingersoll Ave, Des Moines, IA 50312",Pawn Shops,Des Moines,16.499477950245023,41.5866089,-93.6617737,Solar Loan and Sales,2,"Altoona, IA",False,2,3.0,IA
+"3025 SE 14th St, Des Moines, IA 50320",Pawn Shops,Des Moines,14.210152830403667,41.5574265,-93.5967026,EZ Pawn,2,"Altoona, IA",False,1,2.0,IA
+"3009 Douglas Ave, Des Moines, IA 50310",Pawn Shops,Des Moines,14.861817860416709,41.6296179592609,-93.6590963602066,Pawn Store,3,"Altoona, IA",False,1,2.5,IA

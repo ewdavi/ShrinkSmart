@@ -1,0 +1,13 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"331 E Main St, Ottumwa, IA 52501",restaurant,Ottumwa,8.790242808979857,41.015454638143,-92.4091857937619,Market On Main,1,"Agency, IA",False,-1,5.0,IA
+"1317 E Mary St, Ottumwa, IA 52501",restaurant,Ottumwa,8.204727174561274,40.9948094934225,-92.4053131788969,Riverside Family Restaurant,16,"Agency, IA",False,1,3.5,IA
+"536 E Main St, Ottumwa, IA 52501",restaurant,Ottumwa,8.566613472616703,41.01347,-92.4071699,Schimm's,1,"Agency, IA",False,-1,5.0,IA
+"1119 E Main St, Ottumwa, IA 52501",restaurant,Ottumwa,7.9291199390952665,41.0102563351393,-92.4000191688538,Tortaco,7,"Agency, IA",False,1,4.5,IA
+"2818 N Court Rd, Ottumwa, IA 52501",restaurant,Ottumwa,11.118076905397547,41.06131,-92.40922,Warehouse Babeque,1,"Agency, IA",False,-1,4.0,IA
+"2511 N Court St, Ottumwa, IA 52501",restaurant,Ottumwa,10.43119114891026,41.0510749816895,-92.4088134765625,Courtside Bar & Grill,17,"Agency, IA",False,1,3.5,IA
+"624 E Main St, Ottumwa, IA 52501",restaurant,Ottumwa,8.490993628135673,41.01278,-92.4062299,Taqueria Juquilita,8,"Agency, IA",False,1,4.5,IA
+"1147 N Jefferson, Ottumwa, IA 52501",restaurant,Ottumwa,8.610400286874773,41.02648,-92.40171,Pita Pit,2,"Agency, IA",False,1,5.0,IA
+"1110 S Madison Ave, Ottumwa, IA 52501",restaurant,Ottumwa,8.580118035733646,40.9909445,-92.4095551,Rock N Roll Dairy Bar,2,"Agency, IA",False,1,3.0,IA
+"627 E Pennsylvania Ave, Ottumwa, IA 52501",restaurant,Ottumwa,8.418293691073547,41.0275949,-92.397909,Quiznos,2,"Agency, IA",False,-1,3.0,IA
+"401 E Main St, Ottumwa, IA 52501",restaurant,Ottumwa,8.733357328857547,41.0153428,-92.4089222,Breadeaux Pizza,5,"Agency, IA",False,2,2.0,IA
+"1001 E Main St, Ottumwa, IA 52501",restaurant,Ottumwa,8.034006596929236,41.010756,-92.4014718,Casey's Carry-Out Pizza,1,"Agency, IA",False,-1,5.0,IA

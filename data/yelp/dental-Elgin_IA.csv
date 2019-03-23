@@ -1,0 +1,17 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"135 7th St SE, Oelwein, IA 50662",dental,Oelwein,38.74318399237487,42.6697998,-91.9104614,Oelwein Dental Associates,1,"Elgin, IA",False,-1,5.0,IA
+"820 S Marquette Rd, Prairie Du Chien, WI 53821",dental,Prairie Du Chien,41.479986301618375,43.041524,-91.139774,Dental Associates Of Prairie Du Chien,1,"Elgin, IA",False,-1,5.0,WI
+"216 E Charles St, Oelwein, IA 50662",dental,Oelwein,37.83432473783264,42.67837,-91.90961,Berryman Clinton DDS,1,"Elgin, IA",False,-1,5.0,IA
+"2765 Crossroads Blvd, Waterloo, IA 50702",dental,Waterloo,78.39230274190815,42.463336,-92.32579,Aspen Dental,4,"Elgin, IA",False,-1,2.5,IA
+"206 3rd Ave NE, Independence, IA 50644",dental,Independence,57.6340702896342,42.4702399,-91.89152,"Kegler, Kegler & Arend Family Dentistry",1,"Elgin, IA",False,-1,5.0,IA
+"1022 W 5th St, Waterloo, IA 50702",dental,Waterloo,77.82167576773499,42.48815,-92.34778,Comfort Dental,1,"Elgin, IA",False,-1,5.0,IA
+"2102 Kimball Ave, Waterloo, IA 50702",dental,Waterloo,79.70519399138877,42.471047,-92.357656,Waterloo Dental Associates,1,"Elgin, IA",False,-1,5.0,IA
+"3308 Kimball Ave, Waterloo, IA 50702",dental,Waterloo,80.19962202825714,42.4644660949707,-92.3576278686523,"Spragg, Squires & Wirth Family Dental",1,"Elgin, IA",False,-1,5.0,IA
+"1709 University Ave, Waterloo, IA 50701",dental,Waterloo,78.56421126138606,42.4958877563477,-92.3688812255859,"Schreiner Mark, DDS",3,"Elgin, IA",False,-1,5.0,IA
+"825 E Main St, Manchester, IA 52057",dental,Manchester,54.37522582886781,42.48375,-91.44693,Manchester Dental,1,"Elgin, IA",False,-1,1.0,IA
+"315 E San Marnan Dr, Waterloo, IA 50702",dental,Waterloo,80.18227794703269,42.4579887,-92.3490372,Kimball Eric DDS,1,"Elgin, IA",False,-1,5.0,IA
+"4015 Hurst Dr, Waterloo, IA 50701",dental,Waterloo,81.23025504689421,42.4681396484375,-92.374397277832,Kimball & Beecher Family Dentistry - Waterloo,3,"Elgin, IA",False,-1,2.5,IA
+"239 E San Marnan Dr, Waterloo, IA 50702",dental,Waterloo,80.28625196277648,42.4580993652344,-92.3509902954102,Only Kids Dentistry,2,"Elgin, IA",False,-1,3.0,IA
+"1950 Plymouth Ave, Waterloo, IA 50702",dental,Waterloo,77.73067485662177,42.469872,-92.32314,Crossroads Dental,1,"Elgin, IA",False,-1,1.0,IA
+"907 Rainbow Dr, Cedar Falls, IA 50613",dental,Cedar Falls,81.10100679959614,42.52111,-92.43573,Midwest Dental,1,"Elgin, IA",False,-1,1.0,IA
+"7504 University Ave, Cedar Falls, IA 50613",dental,Cedar Falls,82.4452697520179,42.51352,-92.44839,"David C Roberts, DDS",1,"Elgin, IA",False,-1,1.0,IA

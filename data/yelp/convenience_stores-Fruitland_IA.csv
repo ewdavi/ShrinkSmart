@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"234 W 3rd St, Davenport, IA 52801",convenience stores,Davenport,49.85565330344961,41.52255,-90.57658,Central Grocery,3,"Fruitland, IA",False,-1,4.0,IA
+"3010 University Dr, Muscatine, IA 52761",convenience stores,Muscatine,15.290201969135643,41.4583471028896,-91.0176622867584,Casey's General Store,3,"Fruitland, IA",False,2,4.5,IA
+"1810 5th Ave, Moline, IL 61265",convenience stores,Moline,54.32524359259003,41.50754,-90.51174,Central Store,2,"Fruitland, IA",False,-1,5.0,IL
+"416 Cedar St, Muscatine, IA 52761",convenience stores,Muscatine,10.857391040966982,41.42412,-91.04539,Kum & Go,1,"Fruitland, IA",False,-1,5.0,IA
+"2702 Ave Of The Cities, Moline, IL 61265",convenience stores,Moline,54.82595901658785,41.49203,-90.49875,7-Eleven,1,"Fruitland, IA",False,1,5.0,IL
+"755 W Iowa 80 Rd, I-80 Exit 284, Walcott, IA 52773",convenience stores,Walcott,41.601665664169815,41.6178044903672,-90.7811987400055,"Iowa 80 Truckstop, Verizon Authorized Retailer",148,"Fruitland, IA",False,2,4.0,IA
+"3509 Steamboat Way, Muscatine, IA 52761",convenience stores,Muscatine,11.752375139196344,41.4492381725198,-91.0857249175101,Caseys,2,"Fruitland, IA",False,-1,3.5,IA
+"401 E Market St, Iowa City, IA 52245",convenience stores,Iowa City,48.47004775165193,41.663318,-91.529846,John's Grocery,64,"Fruitland, IA",False,2,4.5,IA
+"2050 Ia Highway 38, Tipton, IA 52772",convenience stores,Tipton,33.32036823201637,41.6478464,-91.1152662,Kum & Go,4,"Fruitland, IA",False,1,3.5,IA
+"1636 38th St, Rock Island, IL 61201",convenience stores,Rock Island,50.957388411006725,41.4937461857261,-90.5480884667668,7-Eleven,1,"Fruitland, IA",False,1,5.0,IL
+"4520 11th St, Rock Island, IL 61201",convenience stores,Rock Island,47.17390199667661,41.4665891881351,-90.5844198167324,7-Eleven,1,"Fruitland, IA",False,1,5.0,IL
+"100 W 65th St, Davenport, IA 52806",convenience stores,Davenport,53.3041734689909,41.5855864617402,-90.5717530846596,Kwik Star,2,"Fruitland, IA",False,1,5.0,IA
+"4720 27th St, Moline, IL 61265",convenience stores,Moline,54.0742243542327,41.4661746029751,-90.4985877871513,7-Eleven,2,"Fruitland, IA",False,-1,4.0,IL
+"108 E College St, Iowa City, IA 52240",convenience stores,Iowa City,48.37735314690962,41.6590839,-91.5343379,Sauce,2,"Fruitland, IA",False,-1,3.0,IA
+"502 Mulberry Ave, Muscatine, IA 52761",convenience stores,Muscatine,11.11013508183478,41.4261021684162,-91.04403258381,El Olmito,17,"Fruitland, IA",False,1,4.5,IA
+"1700 18th Ave, Rock Island, IL 61201",convenience stores,Rock Island,49.04805674487772,41.4934339407884,-90.5721441919923,7-Eleven,1,"Fruitland, IA",False,-1,1.0,IL
+"1026 W River Dr, Davenport, IA 52802",convenience stores,Davenport,48.84697293659512,41.5203209,-90.5884476,Sara Mini Mart,1,"Fruitland, IA",False,-1,1.0,IA
+"1528 Locust St, Davenport, IA 52804",convenience stores,Davenport,48.99800319161829,41.53857,-90.59738,two brother's liquor store,1,"Fruitland, IA",False,-1,4.0,IA
+"103 1st St S, Kalona, IA 52247",convenience stores,Kalona,51.201330016624304,41.4879612,-91.7144299,Westside Petro,1,"Fruitland, IA",False,-1,1.0,IA
+"3105 175th Ave, Sherrard, IL 61281",convenience stores,Sherrard,53.13897198604199,41.32289,-90.4920999,7-Eleven,1,"Fruitland, IA",False,-1,5.0,IL

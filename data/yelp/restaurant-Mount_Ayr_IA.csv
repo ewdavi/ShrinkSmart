@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"100 W South St, Mount Ayr, IA 50854",restaurant,Mount Ayr,0.35455203376650113,40.7110937,-94.2375975,El Vaquero,3,"Mount Ayr, IA",False,1,4.5,IA
+"115 N Taylor St, Mount Ayr, IA 50854",restaurant,Mount Ayr,0.21783509399184883,40.7149125,-94.2375448,The Early Bird,1,"Mount Ayr, IA",False,-1,5.0,IA
+"118 W Adams St, Mount Ayr, IA 50854",restaurant,Mount Ayr,0.28744497647790684,40.7157705724239,-94.237886890769,Jamie's Coffee Mill & Deli,5,"Mount Ayr, IA",False,-1,5.0,IA
+"103 W Monroe St, Mount Ayr, IA 50854",restaurant,Mount Ayr,0.1727710148922656,40.7138245,-94.2376428,greggo's pizza,2,"Mount Ayr, IA",False,1,4.0,IA
+"101 S Monroe St, Tingley, IA 50863",restaurant,Tingley,15.90050508223282,40.8541156,-94.1940849,Wagon Wheel Cafe,1,"Mount Ayr, IA",False,-1,1.0,IA

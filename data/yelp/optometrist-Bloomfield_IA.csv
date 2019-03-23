@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"224 E Main St, Ottumwa, IA 52501",optometrist,Ottumwa,30.100151392749556,41.0164558,-92.4108879,"Mark A Altfillisch, OD - The Optical Shoppe",1,"Bloomfield, IA",False,2,5.0,IA
+"125 N 13th St, Centerville, IA 52544",optometrist,Centerville,38.856240835176656,40.733363,-92.873098,International Eyecare Center,1,"Bloomfield, IA",False,-1,5.0,IA
+"506 Rosewood Dr, Kirksville, MO 63501",optometrist,Kirksville,61.33789774048766,40.20874,-92.57908,Laurence I Miller DO,1,"Bloomfield, IA",False,-1,4.0,MO
+"6584 165th St, Albia, IA 52531",optometrist,Albia,46.514695811856924,41.0447696596384,-92.7966447919607,Adler William R OD,1,"Bloomfield, IA",False,-1,1.0,IA
+"605 S 10th Ave, Washington, IA 52353",optometrist,Washington,86.46158486473391,41.2938766479492,-91.6814727783203,Williams Ben Optometrist,1,"Bloomfield, IA",False,-1,5.0,IA
+"301 S Iowa Ave, Washington, IA 52353",optometrist,Washington,86.07860908857883,41.2971458435059,-91.6921768188477,Washington Eye Care Center,1,"Bloomfield, IA",False,-1,1.0,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"601 S 13th St, Omaha, NE 68102",convenience stores,Omaha,34.092792100135036,41.254234,-95.9331451,Cubby's,32,"Missouri Valley, IA",False,2,3.5,NE
+"7828 S 123rd Plz, La Vista, NE 68128",convenience stores,La Vista,45.308552975360506,41.1818885803223,-96.1054916381836,Fantasy's,5,"Missouri Valley, IA",False,2,4.5,NE
+"75 Maple St, Mondamin, IA 51557",convenience stores,Mondamin,19.563034190539717,41.7106628417969,-96.0257873535156,Jiffy Mart,4,"Missouri Valley, IA",False,1,4.5,IA
+"511 S 11th St, Omaha, NE 68102",convenience stores,Omaha,33.97051345167958,41.2550048828125,-95.9302749633789,La Buvette Wine & Grocery,253,"Missouri Valley, IA",False,2,4.0,NE
+"1202 S 13th St, Omaha, NE 68108",convenience stores,Omaha,34.78859722269587,41.2479081337044,-95.9335125779088,Casey's General Store,3,"Missouri Valley, IA",False,1,3.5,NE
+"454 S 19th St, Blair, NE 68008",convenience stores,Blair,19.84589222019774,41.5399699,-96.1406499,Petromart II Bp,1,"Missouri Valley, IA",False,2,5.0,NE
+"5150 Center St, Omaha, NE 68106",convenience stores,Omaha,36.126812568240865,41.2422937195146,-95.9945615920842,Hy-Vee,39,"Missouri Valley, IA",False,2,3.0,NE
+"3434 Nebraska Ave, Council Bluffs, IA 51501",convenience stores,Council Bluffs,35.03819176160827,41.2449531555176,-95.9007949829102,Bucky's,3,"Missouri Valley, IA",False,2,3.5,IA
+"9516 Calhoun Rd, Omaha, NE 68112",convenience stores,Omaha,24.29332311236298,41.346622467041,-95.9665451049805,Florence Food Mart,3,"Missouri Valley, IA",False,1,3.0,NE
+"9220 Mormon Bridge Rd, Omaha, NE 68152",convenience stores,Omaha,25.008717062663035,41.3432273864746,-95.98388671875,Cubby's,7,"Missouri Valley, IA",False,1,1.5,NE
+"111 Morman Bridge Rd, Crescent, IA 51526",convenience stores,Crescent,22.313485682870724,41.362179,-95.858611,Caseys General Store,4,"Missouri Valley, IA",False,1,2.5,IA
+"6003 Center St, Omaha, NE 68106",convenience stores,Omaha,36.842743821950215,41.23738,-96.00542,Bucky's Express,4,"Missouri Valley, IA",False,2,3.5,NE
+"1305 N 25th St, Council Bluffs, IA 51501",convenience stores,Council Bluffs,31.880202959406017,41.2738,-95.88135,Dual Stop,1,"Missouri Valley, IA",False,-1,3.0,IA
+"3253 Dodge St, Omaha, NE 68131",convenience stores,Omaha,33.74814526931299,41.2596,-95.96102,Wohlner's Neighborhood Grocery & Deli,38,"Missouri Valley, IA",False,2,3.5,NE
+"1704 S 72nd St, Omaha, NE 68124",convenience stores,Omaha,36.65195804208962,41.243,-96.02457,QuikTrip,4,"Missouri Valley, IA",False,2,4.5,NE
+"6206 Maple St, Omaha, NE 68197",convenience stores,Omaha,31.780992005719476,41.2851249,-96.0081466,Jake's Cigars and Spirits,72,"Missouri Valley, IA",False,2,4.0,NE
+"12 East St, Shelby, IA 51570",convenience stores,Shelby,38.162070013830885,41.506002,-95.4510104,The Corn Crib,57,"Missouri Valley, IA",False,1,4.5,IA
+"11400 S 72nd St, Papillion, NE 68046",convenience stores,Papillion,47.85386074404441,41.1393,-96.02423,Bucky's,1,"Missouri Valley, IA",False,-1,3.0,NE
+"4720 Hamilton St, Omaha, NE 68132",convenience stores,Omaha,32.63778602542935,41.2727009112362,-95.9840930238731,QuikTrip,3,"Missouri Valley, IA",False,1,3.5,NE
+"8404 N 30th St, Omaha, NE 68112",convenience stores,Omaha,25.293557078041076,41.3366089,-95.9611969,Hy-Vee,4,"Missouri Valley, IA",False,2,4.5,NE

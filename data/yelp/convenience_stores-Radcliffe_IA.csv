@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1111 Ia Hwy 175, Ellsworth, IA 50075",convenience stores,Ellsworth,11.390050618031651,42.30969,-93.57294,Kum & Go,2,"Radcliffe, IA",False,1,3.5,IA
+"213 Isabella St, Radcliffe, IA 50230",convenience stores,Radcliffe,0.4542714947743325,42.3136,-93.43463,It's All Good,2,"Radcliffe, IA",False,1,4.5,IA
+"590 Parker St, Stanhope, IA 50246",convenience stores,Stanhope,29.872772822848926,42.2897283487349,-93.7957038292291,Sparky's One Stop,1,"Radcliffe, IA",False,1,3.0,IA
+"203 Welch Ave, Ames, IA 50010",convenience stores,Ames,37.44149199641555,42.0213737487793,-93.6502227783203,Kum & Go,2,"Radcliffe, IA",False,-1,3.0,IA
+"102 E Main St, Steamboat Rock, IA 50672",convenience stores,Steamboat Rock,32.206839023944546,42.4077033996582,-93.0618438720703,Rock Stop,1,"Radcliffe, IA",False,-1,5.0,IA
+"306 Washington St, Story City, IA 50248",convenience stores,Story City,20.0430469204861,42.1852760314941,-93.5997543334961,Harlan's Food Mart,4,"Radcliffe, IA",False,3,3.0,IA
+"2719 Grand Ave, Ames, IA 50010",convenience stores,Ames,33.611287476010475,42.048965,-93.621231,Walgreens,5,"Radcliffe, IA",False,2,4.5,IA
+"413 Northwestern Ave, Ames, IA 50010",convenience stores,Ames,35.99200577453176,42.02516,-93.6216,Wheatsfield Cooperative,34,"Radcliffe, IA",False,2,4.0,IA
+"500 Main St, Ames, IA 50010",convenience stores,Ames,35.86510055115162,42.0248933074596,-93.6169910430908,Hy-Vee Drugstore,3,"Radcliffe, IA",False,3,4.0,IA
+"130 Dobson Dr, Ames, IA 50014",convenience stores,Ames,38.234550555732724,42.0220982424913,-93.6714619129946,Ames Asian Market West,2,"Radcliffe, IA",False,2,5.0,IA
+"3065 220th St, Williams, IA 50271",convenience stores,Williams,20.250557887506275,42.4718031139996,-93.5658118128777,Boondocks USA Truckstop,7,"Radcliffe, IA",False,-1,2.5,IA
+"3218 Orion Dr, Ames, IA 50010",convenience stores,Ames,33.073529520653764,42.0543746948242,-93.6212387084961,Swift Stop No 5,3,"Radcliffe, IA",False,-1,4.5,IA
+"819 Wheeler St, Ste 5, Ames, IA 50010",convenience stores,Ames,33.073340458178585,42.054952,-93.622598,Ames Asian Market,4,"Radcliffe, IA",False,2,3.5,IA
+"111 Duff Ave, Ames, IA 50010",convenience stores,Ames,35.78608494317506,42.0234884,-93.610478,Kum & Go,3,"Radcliffe, IA",False,-1,3.0,IA
+"3800 Lincoln Way, Ames, IA 50014",convenience stores,Ames,38.2056435786057,42.022618,-93.671955,Hy-Vee,14,"Radcliffe, IA",False,2,3.5,IA
+"129 Welch Ave, Ste 101, Ames, IA 50014",convenience stores,Ames,37.414387885365194,42.02171,-93.65026,AJ's Liquor,5,"Radcliffe, IA",False,-1,4.0,IA
+"519 Lincoln Hwy, Nevada, IA 50201",convenience stores,Nevada,32.81470463690453,42.022964,-93.453269,Good & Quick,2,"Radcliffe, IA",False,1,2.0,IA
+"3720 Lincoln Way, Ames, IA 50014",convenience stores,Ames,38.0818558973285,42.02193,-93.66991,Fareway,3,"Radcliffe, IA",False,-1,3.0,IA
+"2307 Superior St, Webster City, IA 50595",convenience stores,Webster City,34.89355042444469,42.4526924,-93.8179493,Kmart,1,"Radcliffe, IA",False,1,3.0,IA
+"2721 E 13th St, Ames, IA 50010",convenience stores,Ames,33.54216141921544,42.035018,-93.576554,Jimmy John's,6,"Radcliffe, IA",False,-1,2.5,IA

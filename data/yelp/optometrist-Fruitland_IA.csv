@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"315 Parham St, Ste B, Muscatine, IA 52761",optometrist,Muscatine,11.27895438175096,41.43428,-91.0561,Family Eye Center,2,"Fruitland, IA",False,-1,5.0,IA
+"218 E Washington St, Iowa City, IA 52240",optometrist,Iowa City,48.37315411240123,41.6604309082031,-91.5323181152344,Discerning Eye,16,"Fruitland, IA",False,3,5.0,IA
+"315 Parham St, Muscatine, IA 52761",optometrist,Muscatine,11.279833462941369,41.43428,-91.0561,Virdi Eye Clinic,1,"Fruitland, IA",False,-1,1.0,IA
+"640 Highway 1 W, Ste 2, Iowa City, IA 52246",optometrist,Iowa City,48.37618963457098,41.648196,-91.5485,Jensen Eyecare Center,2,"Fruitland, IA",False,-1,5.0,IA
+"1176 Commercial Dr, Riverside, IA 52327",optometrist,Riverside,38.23455302855805,41.4875740864398,-91.5468949824572,Iowa River Crossing,1,"Fruitland, IA",False,-1,4.0,IA
+"1700 Park Ave, Muscatine, IA 52761",optometrist,Muscatine,13.386079406199825,41.44465,-91.03127,Vision Center PC,1,"Fruitland, IA",False,-1,1.0,IA
+"2900 Heartland Dr, Coralville, IA 52241",optometrist,Coralville,56.29053041447835,41.697404,-91.617348,Aria Eye Care,2,"Fruitland, IA",False,-1,5.0,IA
+"103 W Main St, New London, IA 52645",optometrist,New London,52.326066461661654,40.9255447387695,-91.4020080566406,McPheron Robert S Optometrist,2,"Fruitland, IA",False,-1,5.0,IA
+"605 S 10th Ave, Washington, IA 52353",optometrist,Washington,46.63016261208641,41.2938766479492,-91.6814727783203,Williams Ben Optometrist,1,"Fruitland, IA",False,-1,5.0,IA
+"1451 Coral Ridge Ave, Ste 518, Coralville, IA 52241",optometrist,Coralville,54.845459296519216,41.690949,-91.601543,Pearle Vision,1,"Fruitland, IA",False,-1,5.0,IA
+"1718 E Kimberly Rd, Davenport, IA 52807",optometrist,Davenport,53.41526837345657,41.5574258325614,-90.5506145954132,Lifetime Eyehealth Associates,2,"Fruitland, IA",False,2,4.0,IA
+"1035 Lawrence Dr, Ste 106, Burlington, IA 52601",optometrist,Burlington,61.2389626618242,40.797684940876,-91.140743335809,All About Eyes - Burlington,2,"Fruitland, IA",False,1,4.5,IA
+"1614 Sycamore St, Iowa City, IA 52240",optometrist,Iowa City,45.51203663343219,41.6428877,-91.5114851,McDonald Optical,3,"Fruitland, IA",False,3,3.5,IA
+"3378 Middle Rd, Bettendorf, IA 52722",optometrist,Bettendorf,58.12747580866682,41.5515213,-90.4851685,Eye Care Studio,3,"Fruitland, IA",False,3,5.0,IA
+"660 W Cherry St, North Liberty, IA 52317",optometrist,North Liberty,59.971733522032494,41.74998,-91.60865,Blink Vision By Veatch,1,"Fruitland, IA",False,-1,5.0,IA
+"2150 East Kimberly Road, Davenport, IA 52807",optometrist,Davenport,53.75318022924117,41.55735,-90.54606,Vision4Less,7,"Fruitland, IA",False,2,3.5,IA
+"1230 E Rusholme St, Ste 203, Bldg 2, Davenport, IA 52803",optometrist,Davenport,52.28929165366073,41.543473,-90.5568577,Davenport Eye Group,3,"Fruitland, IA",False,-1,4.5,IA
+"2056 8th St, Coralville, IA 52241",optometrist,Coralville,53.73685300147609,41.682258,-91.594198,The Looking Glass Optical,3,"Fruitland, IA",False,2,3.5,IA
+"201 S Clinton St, Iowa City, IA 52240",optometrist,Iowa City,48.461591724233905,41.6592781,-91.5354108,Advanced Eye Care,5,"Fruitland, IA",False,-1,2.0,IA
+"1018 William St, Iowa City, IA 52240",optometrist,Iowa City,45.556459789660316,41.6493507,-91.4987203,Eye Associates,3,"Fruitland, IA",False,-1,2.0,IA

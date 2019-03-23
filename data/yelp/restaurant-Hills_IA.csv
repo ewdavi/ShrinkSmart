@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"108 E Main St, Hills, IA 52235",restaurant,Hills,2.9094405403276165,41.5544406,-91.5355264,Old 218 Tap,6,"Hills, IA",False,1,4.5,IA
+"1755 Boyrum St, Iowa City, IA 52240",restaurant,Iowa City,7.0235062137040725,41.643316,-91.5281637,Pho Lucky,9,"Hills, IA",False,-1,4.5,IA
+"102 Main St E, Hills, IA 52235",restaurant,Hills,2.8861049990252137,41.5546531677246,-91.5358047485352,Hills Bar & Grill,1,"Hills, IA",False,-1,4.0,IA
+"1225 S Gilbert St, Iowa City, IA 52240",restaurant,Iowa City,7.361834604158767,41.64674,-91.53308,Big Grove Brewery and Taproom,167,"Hills, IA",False,2,4.0,IA
+"625 S Dubuque St, Iowa City, IA 52240",restaurant,Iowa City,8.144125111633684,41.6537032,-91.5333805,Her Soup Kitchen,219,"Hills, IA",False,2,4.5,IA
+"1940 Lower Muscatine Rd, Iowa City, IA 52240",restaurant,Iowa City,7.21876110755831,41.6426,-91.50668,Jimmy Jack's Rib Shack - Iowa City,221,"Hills, IA",False,2,4.5,IA
+"521 S Gilbert St, Iowa City, IA 52240",restaurant,Iowa City,8.261007698513893,41.6548,-91.53052,Orchard Green,150,"Hills, IA",False,3,4.5,IA
+"405 S Gilbert St, Iowa City, IA 52240",restaurant,Iowa City,8.430499207282491,41.6563301,-91.5305176,Sanctuary,88,"Hills, IA",False,2,4.0,IA
+"525 S Gilbert St, Iowa City, IA 52240",restaurant,Iowa City,8.240622571578704,41.6546053964467,-91.5304067730904,Mosley's Barbecue and Provisions,108,"Hills, IA",False,2,4.0,IA
+"1308 Melrose Ave, Iowa City, IA 52246",restaurant,Iowa City,8.6908839097804,41.6558559317421,-91.5604072809219,Maggie's Farm Wood-Fired Pizza,67,"Hills, IA",False,2,4.5,IA
+"436 Hwy 1 W, Iowa City, IA 52246",restaurant,Iowa City,7.568357293070349,41.647993,-91.544499,La Regia Taqueria,303,"Hills, IA",False,1,4.5,IA
+"1681 S First Ave, Iowa City, IA 52240",restaurant,Iowa City,7.30864106072943,41.6428367745724,-91.5046639367938,Sun Cafe,73,"Hills, IA",False,1,4.0,IA
+"1006 Melrose Ave, Iowa City, IA 52246",restaurant,Iowa City,8.691606536845288,41.657075254716,-91.553665603124,Stella,118,"Hills, IA",False,2,3.5,IA
+"310 E Prentiss St, Iowa City, IA 52240",restaurant,Iowa City,8.260290258426275,41.654792,-91.531108,Trumpet Blossom Cafe,78,"Hills, IA",False,2,4.5,IA
+"1301 S Gilbert St, Ste 6, Iowa City, IA 52240",restaurant,Iowa City,7.272180793078545,41.645914,-91.532573,Red Ginger,2,"Hills, IA",False,-1,5.0,IA
+"110 E Court St, Iowa City, IA 52240",restaurant,Iowa City,8.475257973040192,41.6567249,-91.5343293,Jiang Hu Asian Street Food,27,"Hills, IA",False,-1,4.5,IA
+"1210 S Gilbert St, Iowa City, IA 52240",restaurant,Iowa City,7.395482837157039,41.6471176147461,-91.5312728881836,Thai Spice,106,"Hills, IA",False,2,4.0,IA
+"376 S Clinton St, Iowa City, IA 52240",restaurant,Iowa City,8.48715134827753,41.65684,-91.53418,The Encounter Cafe,45,"Hills, IA",False,2,4.5,IA
+"819 S 1st Ave, Iowa City, IA 52245",restaurant,Iowa City,8.260373520221375,41.6512463159063,-91.5022231221431,Shakespeare's,23,"Hills, IA",False,2,3.5,IA
+"1705 S 1st Ave, Iowa City, IA 52240",restaurant,Iowa City,7.278985019339774,41.64277,-91.50551,2 Dogs Pub,39,"Hills, IA",False,2,4.0,IA

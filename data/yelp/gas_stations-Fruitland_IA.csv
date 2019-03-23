@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"755 W Iowa 80 Rd, I-80 Exit 284, Walcott, IA 52773",gas stations,Walcott,41.601665664169815,41.6178044903672,-90.7811987400055,"Iowa 80 Truckstop, Verizon Authorized Retailer",148,"Fruitland, IA",False,2,4.0,IA
+"900 Plaza Ave, Woodhull, IL 61490",gas stations,Woodhull,68.56742320974817,41.1807763,-90.338145,Pilot Travel Center,7,"Fruitland, IA",False,-1,3.5,IL
+"1403 Eagle Ridge Rd, Le Claire, IA 52753",gas stations,Le Claire,69.02518198230844,41.5869932932501,-90.3628931567073,Shell,2,"Fruitland, IA",False,-1,4.0,IA
+"2798 Commerce Dr, Coralville, IA 52241",gas stations,Coralville,55.72409766458596,41.6953699,-91.6104299,Casey's General Store,1,"Fruitland, IA",False,1,5.0,IA
+"620 S Downey St, West Branch, IA 52358",gas stations,West Branch,39.38378430162173,41.662053,-91.34717,Kum & Go,3,"Fruitland, IA",False,1,3.5,IA
+"305 W Main St, Hills, IA 52235",gas stations,Hills,40.80050006893131,41.5540851,-91.539348,Casey's General Store,3,"Fruitland, IA",False,1,4.5,IA
+"1300 N Grand Ave, Mount Pleasant, IA 52641",gas stations,Mount Pleasant,53.362678489488715,40.9821487143417,-91.5396831929684,Pilot Travel Center,4,"Fruitland, IA",False,-1,3.5,IA
+"Viola, IL 61486",gas stations,Viola,47.73536682080391,41.2116030316862,-90.5861363599293,Casey's,2,"Fruitland, IA",False,-1,3.5,IL
+"8255 Nw Blvd, Davenport, IA 52806",gas stations,Davenport,50.76892535188424,41.604668996205,-90.6233522270845,Love's Travel Stop,4,"Fruitland, IA",False,2,4.0,IA
+"204 N Dubuque St, Iowa City, IA 52245",gas stations,Iowa City,48.67971367436939,41.6639060974121,-91.5327758789062,Casey's General Store,4,"Fruitland, IA",False,2,3.5,IA
+"302 E School Ave, Old, IA 52647",gas stations,Old,41.98797734590261,41.1340908950474,-91.5411704778671,Saint Avenue BP,1,"Fruitland, IA",False,1,5.0,IA
+"101 Village Dr, Tiffin, IA 52340",gas stations,Tiffin,59.216099968034136,41.6965966,-91.6657604,Kum & Go,5,"Fruitland, IA",False,2,2.0,IA
+"3509 Steamboat Way, Muscatine, IA 52761",gas stations,Muscatine,11.752375139196344,41.4492381725198,-91.0857249175101,Caseys,2,"Fruitland, IA",False,-1,3.5,IA
+"822 1st Ave, Coralville, IA 52241",gas stations,Coralville,51.986768026198774,41.6813452,-91.5658962,Kum & Go,7,"Fruitland, IA",False,2,3.5,IA
+"2975 N Plainview Rd, Walcott, IA 52773",gas stations,Walcott,41.280482015998025,41.61449,-90.78223,Pilot Travel Center,13,"Fruitland, IA",False,-1,3.0,IA
+"1006 N Columbus St, West Liberty, IA 52776",gas stations,West Liberty,27.887700231713353,41.578578,-91.260162,Giri Bp,3,"Fruitland, IA",False,1,2.5,IA
+"624 W 5th St, Wilton, IA 52778",gas stations,Wilton,28.111580569630938,41.58958,-91.02621,Casey's General Store,3,"Fruitland, IA",False,-1,3.5,IA
+"955 Mormon Trek Blvd, Iowa City, IA 52246",gas stations,Iowa City,50.11321797372594,41.6499404907227,-91.5745162963867,Kum & Go,1,"Fruitland, IA",False,1,5.0,IA
+"2400 2nd Ave, Muscatine, IA 52761",gas stations,Muscatine,13.679503839330511,41.4510192871094,-91.0362396240234,HyVee,3,"Fruitland, IA",False,-1,2.5,IA
+"2600 Holiday Rd, Coralville, IA 52241",gas stations,Coralville,55.88392130038752,41.70015,-91.60744,Kum & Go,2,"Fruitland, IA",False,2,3.5,IA

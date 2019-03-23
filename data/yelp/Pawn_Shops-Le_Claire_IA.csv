@@ -1,0 +1,3 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"4121 N Brady St, Davenport, IA 52806",Pawn Shops,Davenport,16.905132306339176,41.562846,-90.5671944,Premier Jewelry & Loan,2,"Le Claire, IA",False,1,3.0,IA
+"2147 W 3rd St, Davenport, IA 52802",Pawn Shops,Davenport,21.761803100228857,41.5221539030714,-90.6110135089735,Quick Cash Pawn,1,"Le Claire, IA",False,-1,5.0,IA

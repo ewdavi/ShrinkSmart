@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2380 8th Ave, Ste 4, Plattsmouth, NE 68048",optometrist,Plattsmouth,9.179513498330143,41.00349,-95.90711,"John E Bateman, OD",2,"Pacific Junction, IA",False,2,4.0,NE
+"3157 Farnam St, Ste 7103, Omaha, NE 68131",optometrist,Omaha,29.794058936377436,41.2574685,-95.9590667,Definitive Vision,20,"Pacific Junction, IA",False,-1,5.0,NE
+"6307 Center St, Ste 20, Omaha, NE 68106",optometrist,Omaha,30.15103438706714,41.2377551,-96.01083,Aksarben Eye Care,10,"Pacific Junction, IA",False,-1,5.0,NE
+"1810 Wilshire Dr, Bellevue, NE 68005",optometrist,Bellevue,16.759449544810497,41.14108,-95.91466,Bellevue Vision Clinic,2,"Pacific Junction, IA",False,-1,2.5,NE
+"3906 Twin Creek Dr, Bellevue, NE 68123",optometrist,Bellevue,19.915001838986374,41.1413825,-95.971701,Pearle Vision,3,"Pacific Junction, IA",False,2,3.5,NE
+"12660 Q St, Omaha, NE 68137",optometrist,Omaha,33.426041963685726,41.2051948,-96.1116647,Millard Family Eyecare,24,"Pacific Junction, IA",False,-1,4.5,NE
+"14607 W Center Rd, Omaha, NE 68144",optometrist,Omaha,37.451203106313145,41.23348,-96.14331,Omaha Primary EyeCare,6,"Pacific Junction, IA",False,-1,4.5,NE
+"11513 S 42nd St, Bellevue, NE 68123",optometrist,Bellevue,19.908163398551913,41.138357,-95.975315,Bellevue Family Eyecare Center,1,"Pacific Junction, IA",False,-1,2.0,NE
+"928 Valley View Dr, Ste 17, Council Bluffs, IA 51503",optometrist,Council Bluffs,25.820266521737437,41.2496147155762,-95.8134536743164,Ideal Eyecare,1,"Pacific Junction, IA",False,-1,5.0,IA
+"14528 Fir Cir, Plattsmouth, NE 68048",optometrist,Plattsmouth,16.521481815956285,40.9897155761719,-95.9928131103516,Bateman John Dr Optmtrst,1,"Pacific Junction, IA",False,-1,5.0,NE
+"16920 Wright Plz, Ste 122, Omaha, NE 68130",optometrist,Omaha,39.729448720816364,41.2335110182708,-96.1778107735412,Schaffer Family Eye Care,4,"Pacific Junction, IA",False,2,5.0,NE
+"7202 Giles Rd, La Vista, NE 68128",optometrist,La Vista,25.821888500316746,41.176712,-96.024505,"Midwest Eye Care, PC",2,"Pacific Junction, IA",False,-1,3.0,NE
+"7505 Towne Ctr Pkwy, Ste 101, Papillion, NE 68046",optometrist,Papillion,22.968617980082236,41.1334778,-96.0266759,Visionworks,10,"Pacific Junction, IA",False,-1,3.0,NE
+"11811 Fort St, Ste 105, Omaha, NE 68164",optometrist,Omaha,40.654485063556244,41.30615234375,-96.0982894897461,Clarity Eye Care,5,"Pacific Junction, IA",False,2,5.0,NE
+"715 Harmony St, Ste 300, Council Bluffs, IA 51503",optometrist,Council Bluffs,28.093744257196732,41.26897,-95.8409999,Midwest Eye Care PC,3,"Pacific Junction, IA",False,-1,4.5,IA
+"4353 Dodge St, Omaha, NE 68131",optometrist,Omaha,30.731310682702716,41.259396,-95.978153,"Midwest Eye Care, PC",11,"Pacific Junction, IA",False,-1,3.5,NE
+"9737 Giles Rd, La Vista, NE 68128",optometrist,La Vista,28.280099593702605,41.1761549860239,-96.0636538267136,I Care Optical,4,"Pacific Junction, IA",False,-1,4.0,NE
+"3701 Metro Dr, Ste 400, Council Bluffs, IA 51501",optometrist,Council Bluffs,22.943971093256373,41.222307,-95.837729,America's Best Contacts & Eyeglasses,4,"Pacific Junction, IA",False,2,2.5,IA
+"13104 W Dodge Rd, Omaha, NE 68154",optometrist,Omaha,38.16604540300679,41.2635942,-96.1166988,Exclusively Eyecare,4,"Pacific Junction, IA",False,2,5.0,NE
+"2514 W Broadway, Council Bluffs, IA 51501",optometrist,Council Bluffs,28.063297465197646,41.262302,-95.883533,Vision Specialists Of Council Bluffs,1,"Pacific Junction, IA",False,-1,5.0,IA

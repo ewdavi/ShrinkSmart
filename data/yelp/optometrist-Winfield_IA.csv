@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"103 W Main St, New London, IA 52645",optometrist,New London,22.44823371993925,40.9255447387695,-91.4020080566406,McPheron Robert S Optometrist,2,"Winfield, IA",False,-1,5.0,IA
+"605 S 10th Ave, Washington, IA 52353",optometrist,Washington,27.61627311028761,41.2938766479492,-91.6814727783203,Williams Ben Optometrist,1,"Winfield, IA",False,-1,5.0,IA
+"218 E Washington St, Iowa City, IA 52240",optometrist,Iowa City,59.98973896171494,41.6604309082031,-91.5323181152344,Discerning Eye,16,"Winfield, IA",False,3,5.0,IA
+"1035 Lawrence Dr, Ste 106, Burlington, IA 52601",optometrist,Burlington,44.209697709139064,40.797684940876,-91.140743335809,All About Eyes - Burlington,2,"Winfield, IA",False,1,4.5,IA
+"315 Parham St, Ste B, Muscatine, IA 52761",optometrist,Muscatine,46.909989605365574,41.43428,-91.0561,Family Eye Center,2,"Winfield, IA",False,-1,5.0,IA
+"1176 Commercial Dr, Riverside, IA 52327",optometrist,Riverside,41.26107627057417,41.4875740864398,-91.5468949824572,Iowa River Crossing,1,"Winfield, IA",False,-1,4.0,IA
+"301 S Iowa Ave, Washington, IA 52353",optometrist,Washington,28.522641558793513,41.2971458435059,-91.6921768188477,Washington Eye Care Center,1,"Winfield, IA",False,-1,1.0,IA
+"640 Highway 1 W, Ste 2, Iowa City, IA 52246",optometrist,Iowa City,58.83642912100235,41.648196,-91.5485,Jensen Eyecare Center,2,"Winfield, IA",False,-1,5.0,IA
+"2900 Heartland Dr, Coralville, IA 52241",optometrist,Coralville,65.31307845036805,41.697404,-91.617348,Aria Eye Care,2,"Winfield, IA",False,-1,5.0,IA
+"315 Parham St, Muscatine, IA 52761",optometrist,Muscatine,46.910745616220595,41.43428,-91.0561,Virdi Eye Clinic,1,"Winfield, IA",False,-1,1.0,IA
+"1451 Coral Ridge Ave, Ste 518, Coralville, IA 52241",optometrist,Coralville,64.3233479384734,41.690949,-91.601543,Pearle Vision,1,"Winfield, IA",False,-1,5.0,IA
+"1035 Lawrence Dr, Ste 106, Burlington, IA 52601",optometrist,Burlington,44.200812291034154,40.797755,-91.140795,"Spitz Eyecare, LLC",1,"Winfield, IA",False,-1,5.0,IA
+"1614 Sycamore St, Iowa City, IA 52240",optometrist,Iowa City,57.697739501358164,41.6428877,-91.5114851,McDonald Optical,3,"Winfield, IA",False,3,3.5,IA
+"2056 8th St, Coralville, IA 52241",optometrist,Coralville,63.25077283323537,41.682258,-91.594198,The Looking Glass Optical,3,"Winfield, IA",False,2,3.5,IA
+"1700 Park Ave, Muscatine, IA 52761",optometrist,Muscatine,49.161485621352796,41.44465,-91.03127,Vision Center PC,1,"Winfield, IA",False,-1,1.0,IA
+"201 S Clinton St, Iowa City, IA 52240",optometrist,Iowa City,59.89689123873559,41.6592781,-91.5354108,Advanced Eye Care,5,"Winfield, IA",False,-1,2.0,IA
+"1018 William St, Iowa City, IA 52240",optometrist,Iowa City,58.461681359914365,41.6493507,-91.4987203,Eye Associates,3,"Winfield, IA",False,-1,2.0,IA
+"1451 Coral Ridge Ave, Ste 104, Coralville, IA 52241",optometrist,Coralville,64.38693846200391,41.690953,-91.605091,LensCrafters,2,"Winfield, IA",False,2,2.5,IA
+"1481 Coral Ridge Ave, Coralville, IA 52241",optometrist,Coralville,64.87854470763091,41.6918716,-91.6058197,Copeland Eyacare,1,"Winfield, IA",False,-1,5.0,IA
+"16 S Clinton St, Iowa City, IA 52240",optometrist,Iowa City,60.042096729763756,41.6607,-91.53414,McDonald Optical,1,"Winfield, IA",False,-1,1.0,IA

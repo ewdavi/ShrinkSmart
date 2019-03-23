@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1706 Jeffreys Dr, Osceola, IA 50213",gas stations,Osceola,34.0478038741046,41.02729,-93.789346,Casey's General Store,3,"Afton, IA",False,1,3.0,IA
+"1203 Guthrie St, De Soto, IA 50069",gas stations,De Soto,58.5971793931203,41.5376482,-94.0125451,Kum & Go,2,"Afton, IA",False,2,2.0,IA
+"21022 State Hwy N I-35 Exit 106, Eagleville, MO 64442",gas stations,Eagleville,64.90454510313079,40.468629,-93.978968,Loves Travel Stop,5,"Afton, IA",False,1,4.5,MO
+"64975 Boston Rd, Atlantic, IA 50022",gas stations,Atlantic,80.78615391739955,41.4859719688138,-94.9464303163691,Conoco Gas,2,"Afton, IA",False,-1,1.0,IA
+"1421 Ingersoll Ave, Des Moines, IA 50309",gas stations,Des Moines,77.63290201977122,41.58683,-93.63655,QuikTrip,5,"Afton, IA",False,1,4.5,IA
+"5901 Mills Civic Pkwy, West Des Moines, IA 50266",gas stations,West Des Moines,68.1721847615152,41.5599312,-93.7874919,Kum & Go,4,"Afton, IA",False,2,4.5,IA
+"5308 University Ave, West Des Moines, IA 50266",gas stations,West Des Moines,72.41440242650803,41.6001296,-93.7789262,Kum & Go,3,"Afton, IA",False,1,4.5,IA
+"110 S 5th St, Adair, IA 50002",gas stations,Adair,64.00904031277688,41.495762,-94.6431785,Casey's General Store,4,"Afton, IA",False,1,3.0,IA
+"601 SE Kent St, Greenfield, IA 50849",gas stations,Greenfield,37.39275561951184,41.30325,-94.4526,Casey's General Store,1,"Afton, IA",False,-1,4.0,IA
+"7265 Vista Dr, West Des Moines, IA 50266",gas stations,West Des Moines,70.21562662996733,41.5892921,-93.8078504,Kum & Go,5,"Afton, IA",False,2,3.0,IA
+"1300 Keo Way, Des Moines, IA 50309",gas stations,Des Moines,78.36056222666788,41.59392,-93.6345,Kum & Go,3,"Afton, IA",False,1,5.0,IA
+"100-122 Fleur Dr, Des Moines, IA 50321",gas stations,Des Moines,70.67571465961026,41.5117952904305,-93.6454126297028,Casey's General Store,1,"Afton, IA",False,1,3.0,IA
+"24063 E 240th Ave, Eagleville, MO 64442",gas stations,Eagleville,68.08648402023724,40.44705,-93.97598,Phillips 66,2,"Afton, IA",False,-1,4.5,MO
+"400 Prairie Bluff Dr, Waukee, IA 50263",gas stations,Waukee,65.19355775834693,41.56527,-93.880197,Kum & Go,3,"Afton, IA",False,2,4.5,IA
+"11925 University Ave, Clive, IA 50325",gas stations,Clive,72.35897316685964,41.60107,-93.78218,QuikTrip,7,"Afton, IA",False,2,4.0,IA
+"665 S 51st St, West Des Moines, IA 50265",gas stations,West Des Moines,68.74833015202931,41.559795,-93.773468,Hy-Vee Gas,2,"Afton, IA",False,-1,5.0,IA
+"207 S Front St, Humeston, IA 50123",gas stations,Humeston,61.4660389294191,40.857606,-93.4995549,Casey's General Store,1,"Afton, IA",False,-1,5.0,IA
+"1501 E Grand Ave, Des Moines, IA 50316",gas stations,Des Moines,80.36279406299826,41.5935599,-93.59464,QuikTrip,1,"Afton, IA",False,1,4.0,IA
+"4021 Fleur Dr, Des Moines, IA 50321",gas stations,Des Moines,73.81351338200193,41.547992,-93.64462,QuikTrip,7,"Afton, IA",False,2,3.5,IA
+"1000 E University Ave, Des Moines, IA 50316",gas stations,Des Moines,80.42385959972147,41.600746,-93.605682,QuikTrip,4,"Afton, IA",False,2,5.0,IA

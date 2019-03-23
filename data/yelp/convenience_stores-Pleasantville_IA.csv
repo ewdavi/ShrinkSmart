@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"606 Walnut St, Des Moines, IA 50309",convenience stores,Des Moines,36.83785963522241,41.58544,-93.62502,Walgreens,6,"Pleasantville, IA",False,2,3.5,IA
+"420 Court Ave, Des Moines, IA 50309",convenience stores,Des Moines,36.587310593745286,41.58461387468,-93.6220497511848,Hy-Vee,42,"Pleasantville, IA",False,2,3.5,IA
+"555 Walnut St, Ste 210, Des Moines, IA 50309",convenience stores,Des Moines,36.82463809234626,41.58631,-93.6241,Market Place,1,"Pleasantville, IA",False,-1,4.0,IA
+"515 E Grand Ave, Des Moines, IA 50309",convenience stores,Des Moines,36.25359583926364,41.590633301355,-93.610725445747,New Oriental Food Store,17,"Pleasantville, IA",False,1,4.5,IA
+"114 Brick St SE, Bondurant, IA 50035",convenience stores,Bondurant,37.3014889467375,41.68988,-93.46195,Brick Street Market and Cafe,20,"Pleasantville, IA",False,2,4.5,IA
+"1421 Ingersoll Ave, Des Moines, IA 50309",convenience stores,Des Moines,37.70284138896027,41.58683,-93.63655,QuikTrip,5,"Pleasantville, IA",False,1,4.5,IA
+"11925 University Ave, Clive, IA 50325",convenience stores,Clive,48.75414593018688,41.60107,-93.78218,QuikTrip,7,"Pleasantville, IA",False,2,4.0,IA
+"744 Washington St, Pella, IA 50219",convenience stores,Pella,29.58125132171437,41.40827,-92.91831,Kum & Go,1,"Pleasantville, IA",False,2,5.0,IA
+"1010 SE Oralabor Rd, Ankeny, IA 50021",convenience stores,Ankeny,43.72494342818713,41.70355,-93.58201,Casey's General Store,8,"Pleasantville, IA",False,2,4.0,IA
+"3805 6th Ave, Des Moines, IA 50313",convenience stores,Des Moines,39.95604855548357,41.629753,-93.624404,Linn's Super Market,5,"Pleasantville, IA",False,2,4.0,IA
+"2702 Se Delaware Ave, Ankeny, IA 50021",convenience stores,Ankeny,43.59317721384656,41.70214,-93.58189,Walgreens,3,"Pleasantville, IA",False,2,5.0,IA
+"2002 Woodland Ave, Des Moines, IA 50312",convenience stores,Des Moines,38.24862426073263,41.58758,-93.64413,Gateway Market,172,"Pleasantville, IA",False,2,4.0,IA
+"4100 University Ave, Ste 260, West Des Moines, IA 50266",convenience stores,West Des Moines,47.11391066653321,41.5985553908381,-93.7611208195531,Whole Foods Market,65,"Pleasantville, IA",False,2,4.0,IA
+"2945 E University Ave, Des Moines, IA 50317",convenience stores,Des Moines,33.737880693649096,41.6001,-93.55904,QuikTrip,7,"Pleasantville, IA",False,1,5.0,IA
+"849 Army Post Rd, Des Moines, IA 50315",convenience stores,Des Moines,33.33980142241939,41.526717,-93.625031,QuikTrip,2,"Pleasantville, IA",False,2,4.0,IA
+"802 E 1st St, Ankeny, IA 50021",convenience stores,Ankeny,46.557574721660274,41.7323379516602,-93.5863265991211,QuikTrip,8,"Pleasantville, IA",False,1,4.5,IA
+"1200 W 18th St S, Newton, IA 50208",convenience stores,Newton,37.2768153471168,41.6880302429199,-93.0762329101562,Casey's General Store,2,"Pleasantville, IA",False,2,4.0,IA
+"1825 N Ankeny Blvd, Ankeny, IA 50021",convenience stores,Ankeny,48.483295891863,41.74677,-93.59948,Kum & Go,5,"Pleasantville, IA",False,2,3.5,IA
+"207 S Front St, Humeston, IA 50123",convenience stores,Humeston,61.84777712668328,40.857606,-93.4995549,Casey's General Store,1,"Pleasantville, IA",False,-1,5.0,IA
+"1307 Army Post Rd, Des Moines, IA 50315",convenience stores,Des Moines,33.95087819514,41.52679,-93.63333,Git-N-Go Convenience Stores,1,"Pleasantville, IA",False,-1,4.0,IA

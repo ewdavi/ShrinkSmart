@@ -1,0 +1,4 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"818 N Main St, Carroll, IA 51401",dental,Carroll,40.72758189959006,42.0683555603027,-94.8654556274414,Fangman Nicholas J Dr DDS,1,"Denison, IA",False,-1,5.0,IA
+"317 Main, Minden, IA 51553",dental,Minden,62.24235785442191,41.46723,-95.54173,Steg Thomas B DDS,1,"Denison, IA",False,-1,5.0,IA
+"138 S 17th St, Blair, NE 68008",dental,Blair,83.21632891387836,41.5433282,-96.1376251,Blair Dental Clinic,1,"Denison, IA",False,-1,5.0,NE

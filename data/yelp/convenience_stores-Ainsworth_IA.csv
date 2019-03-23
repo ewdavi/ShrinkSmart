@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"103 1st St S, Kalona, IA 52247",convenience stores,Kalona,25.24170574067296,41.4879612,-91.7144299,Westside Petro,1,"Ainsworth, IA",False,-1,1.0,IA
+"401 E Market St, Iowa City, IA 52245",convenience stores,Iowa City,41.54104080040913,41.663318,-91.529846,John's Grocery,64,"Ainsworth, IA",False,2,4.5,IA
+"2125 Libertyville Rd, Fairfield, IA 52556",convenience stores,Fairfield,47.96494300406094,40.9886932373047,-91.9636383056641,Casey's General Store,2,"Ainsworth, IA",False,2,4.5,IA
+"121 5th St, Kalona, IA 52247",convenience stores,Kalona,24.896304062174462,41.48283,-91.70643,Kalona General Store,1,"Ainsworth, IA",False,-1,5.0,IA
+"3010 University Dr, Muscatine, IA 52761",convenience stores,Muscatine,48.529372902456394,41.4583471028896,-91.0176622867584,Casey's General Store,3,"Ainsworth, IA",False,2,4.5,IA
+"108 E College St, Iowa City, IA 52240",convenience stores,Iowa City,41.04877276279878,41.6590839,-91.5343379,Sauce,2,"Ainsworth, IA",False,-1,3.0,IA
+"400 W Washington St, Mount Pleasant, IA 52641",convenience stores,Mount Pleasant,36.09105785379455,40.9654350280762,-91.5579681396484,Casey's General Store,4,"Ainsworth, IA",False,1,4.5,IA
+"416 Cedar St, Muscatine, IA 52761",convenience stores,Muscatine,44.99451345712208,41.42412,-91.04539,Kum & Go,1,"Ainsworth, IA",False,-1,5.0,IA
+"508 N 4th St, Fairfield, IA 52556",convenience stores,Fairfield,46.39305564942425,41.012797,-91.968219,Logli's Store,6,"Ainsworth, IA",False,1,5.0,IA
+"106 S Linn St, Iowa City, IA 52240",convenience stores,Iowa City,41.12777137287298,41.6597282,-91.5315251,The Konnexion,5,"Ainsworth, IA",False,2,4.0,IA
+"102 2Nd St, Coralville, IA 52241",convenience stores,Coralville,42.10093143156271,41.6687584,-91.5666199,Walgreens,10,"Ainsworth, IA",False,2,2.0,IA
+"1668 Sycamore St, Iowa City, IA 52240",convenience stores,Iowa City,39.3402035906836,41.6424194257421,-91.5091292711639,Lucky's Market,58,"Ainsworth, IA",False,2,4.0,IA
+"1310 W Burlington Ave, Fairfield, IA 52556",convenience stores,Fairfield,47.59251701942605,41.0064296,-91.9798484,Hy-Vee Gas,2,"Ainsworth, IA",False,-1,4.5,IA
+"1101 2nd St, Coralville, IA 52241",convenience stores,Coralville,42.77256024859869,41.67453,-91.58028,New Pioneer Food Co-op,32,"Ainsworth, IA",False,2,4.5,IA
+"1300 W Burlington Ave, Fairfield, IA 52556",convenience stores,Fairfield,47.639097083797395,41.0063133,-91.9796829,"Hy-Vee Food Stores, Inc",5,"Ainsworth, IA",False,3,3.5,IA
+"731 S Riverside Dr, Iowa City, IA 52246",convenience stores,Iowa City,40.08823457031449,41.6506275,-91.540572,Kum & Go,4,"Ainsworth, IA",False,1,4.0,IA
+"2050 Ia Highway 38, Tipton, IA 52772",convenience stores,Tipton,54.034407187463664,41.6478464,-91.1152662,Kum & Go,4,"Ainsworth, IA",False,1,3.5,IA
+"755 W Iowa 80 Rd, I-80 Exit 284, Walcott, IA 52773",convenience stores,Walcott,74.01800822702974,41.6178044903672,-90.7811987400055,"Iowa 80 Truckstop, Verizon Authorized Retailer",148,"Ainsworth, IA",False,2,4.0,IA
+"309 W Washington St, Mount Pleasant, IA 52641",convenience stores,Mount Pleasant,36.03884996539952,40.96609,-91.55708,Dickey's Prairie Home,2,"Ainsworth, IA",False,1,3.0,IA
+"1914 8th St, Coralville, IA 52241",convenience stores,Coralville,43.65169527792174,41.6818177,-91.5918789,Hy-Vee Food Stores,28,"Ainsworth, IA",False,2,3.5,IA

@@ -1,0 +1,17 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"N Hwy 63, Lancaster, MO 63548",gas stations,Lancaster,25.170801222431233,40.5349082946777,-92.5151596069336,Shell Gas Station,1,"Bloomfield, IA",False,-1,1.0,MO
+"Highway 34 E, Agency, IA 52530",gas stations,Agency,29.753165770585,41.002339,-92.310709,Agency Bp,2,"Bloomfield, IA",False,-1,4.5,IA
+"1310 W Burlington Ave, Fairfield, IA 52556",gas stations,Fairfield,46.49642643293669,41.0064296,-91.9798484,Hy-Vee Gas,2,"Bloomfield, IA",False,-1,4.5,IA
+"601 S Merino Ave, Eddyville, IA 52553",gas stations,Eddyville,48.853962646950464,41.1538840324077,-92.6273371522425,BP,1,"Bloomfield, IA",False,1,3.0,IA
+"2125 Libertyville Rd, Fairfield, IA 52556",gas stations,Fairfield,46.37824172073766,40.9886932373047,-91.9636383056641,Casey's General Store,2,"Bloomfield, IA",False,2,4.5,IA
+"1609 W 2nd St, Ottumwa, IA 52501",gas stations,Ottumwa,32.22947316290984,41.0349659,-92.4331556,Casey's Carry Out Pizza,2,"Bloomfield, IA",False,-1,3.0,IA
+"2214 N Baltimore St, Kirksville, MO 63501",gas stations,Kirksville,60.41116210603603,40.217960357666,-92.5821685791016,Ayerco Convenience Store,1,"Bloomfield, IA",False,2,1.0,MO
+"103 E 6th St, Hedrick, IA 52563",gas stations,Hedrick,48.770923814944936,41.177066,-92.307183,Hedrick Sinclair,2,"Bloomfield, IA",False,-1,2.5,IA
+"500 N 2nd St, Fairfield, IA 52556",gas stations,Fairfield,47.844524053083234,41.0111649334431,-91.9651398807764,University Bp,2,"Bloomfield, IA",False,-1,4.0,IA
+"200 E Lafayette St, Edina, MO 63537",gas stations,Edina,67.41863033444159,40.1671939670174,-92.1735801326766,Casey's General Store,1,"Bloomfield, IA",False,-1,4.0,MO
+"4118 73rd St, Agency, IA 52530",gas stations,Agency,31.298535086172322,40.99489,-92.23913,D's Eldon Y,1,"Bloomfield, IA",False,-1,5.0,IA
+"114 S Prairie St, Russell, IA 50238",gas stations,Russell,71.18998345859175,40.98304,-93.1978199,Last Chance,1,"Bloomfield, IA",False,-1,4.0,IA
+"2609 N Baltimore St, Kirksville, MO 63501",gas stations,Kirksville,60.16682904039091,40.220486,-92.583352,Ice House Lube & Wash,3,"Bloomfield, IA",False,-1,1.5,MO
+"508 N 4th St, Fairfield, IA 52556",gas stations,Fairfield,47.700936360313285,41.012797,-91.968219,Logli's Store,6,"Bloomfield, IA",False,1,5.0,IA
+"108 S Maple St, Salem, IA 52649",gas stations,Salem,67.78086930024496,40.853889465332,-91.6196136474609,Kramer's Gas & Grocery,2,"Bloomfield, IA",False,1,2.5,IA
+"315 N Kent St, Knoxville, IA 50138",gas stations,Knoxville,86.28158919951248,41.3215,-93.10173,Mikes Towing,3,"Bloomfield, IA",False,-1,3.5,IA

@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1611 S Baltimore St, Ste B, Kirksville, MO 63501",pharmacy,Kirksville,56.71377766253777,40.1817652,-92.5718251,Kirksville Pharmacy,1,"Moulton, IA",False,-1,4.0,MO
+"337 Church St, Ottumwa, IA 52501",pharmacy,Ottumwa,42.11955790762213,41.00996,-92.41839,South Side Drug Store,2,"Moulton, IA",False,-1,5.0,IA
+"205 N E St, Oskaloosa, IA 52577",pharmacy,Oskaloosa,67.99803660018094,41.2966243,-92.6517631,Mahaska Drug,2,"Moulton, IA",False,2,5.0,IA
+"301 Highway 34 W, Albia, IA 52531",pharmacy,Albia,38.59449624872255,41.016779,-92.812985,Hy-Vee,1,"Moulton, IA",False,-1,5.0,IA
+"107 W Main St, Ottumwa, IA 52501",pharmacy,Ottumwa,43.16337446682426,41.0184799,-92.41298,Nucara Pharmacy,1,"Moulton, IA",False,-1,2.0,IA

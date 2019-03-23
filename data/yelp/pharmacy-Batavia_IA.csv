@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"337 Church St, Ottumwa, IA 52501",pharmacy,Ottumwa,21.212498143827172,41.00996,-92.41839,South Side Drug Store,2,"Batavia, IA",False,-1,5.0,IA
+"107 W Main St, Ottumwa, IA 52501",pharmacy,Ottumwa,20.848313847817952,41.0184799,-92.41298,Nucara Pharmacy,1,"Batavia, IA",False,-1,2.0,IA
+"205 N E St, Oskaloosa, IA 52577",pharmacy,Oskaloosa,52.645221551667674,41.2966243,-92.6517631,Mahaska Drug,2,"Batavia, IA",False,2,5.0,IA
+"301 Highway 34 W, Albia, IA 52531",pharmacy,Albia,54.30938670102277,41.016779,-92.812985,Hy-Vee,1,"Batavia, IA",False,-1,5.0,IA
+"129 S Jefferson St, Mount Pleasant, IA 52641",pharmacy,Mount Pleasant,51.418838440426,40.9659,-91.55513,Hy-Vee Drugstore,1,"Batavia, IA",False,1,3.0,IA
+"1215 Main St, Keokuk, IA 52632",pharmacy,Keokuk,93.02476460342281,40.4020195,-91.3889389,Walgreens,1,"Batavia, IA",False,1,5.0,IA

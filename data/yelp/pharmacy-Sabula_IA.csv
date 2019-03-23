@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"101 W Market St, Mount Carroll, IL 61053",pharmacy,Mount Carroll,16.85075833912537,42.1013803035021,-89.9790472537279,Pharmacy Center,1,"Sabula, IA",False,-1,5.0,IL
+"1905 N 2Nd St, Clinton, IA 52732",pharmacy,Clinton,22.1106652801233,41.86633,-90.18183,Walgreens,1,"Sabula, IA",False,1,5.0,IA
+"124 E Main St, Morrison, IL 61270",pharmacy,Morrison,33.44350859077781,41.8092334270477,-89.9662886559963,Fitzgerald Pharmacy,1,"Sabula, IA",False,-1,2.0,IL
+"1700 1St Ave, Rock Falls, IL 61071",pharmacy,Rock Falls,52.34457327884296,41.76504,-89.69014,Walgreens,3,"Sabula, IA",False,1,2.0,IL
+"806 S 4Th St, Clinton, IA 52732",pharmacy,Clinton,25.403766279214654,41.837227,-90.193903,Walgreens,1,"Sabula, IA",False,2,5.0,IA
+"1525 E Kimberly Rd, Davenport, IA 52807",pharmacy,Davenport,64.59305907006812,41.55589,-90.55235,Walgreens,1,"Sabula, IA",False,2,5.0,IA
+"1535 W Galena Ave, Freeport, IL 61032",pharmacy,Freeport,50.820009371615235,42.30209,-89.64936,CVS Pharmacy,2,"Sabula, IA",False,-1,3.0,IL
+"55 John F Kennedy Rd, Dubuque, IA 52002",pharmacy,Dubuque,64.9982404020189,42.4929,-90.715915,Walgreens,5,"Sabula, IA",False,2,2.5,IA
+"1732 S West Ave, Freeport, IL 61032",pharmacy,Freeport,50.72863317329442,42.277542,-89.632553,Walgreens,3,"Sabula, IA",False,-1,4.0,IL
+"835 W Galena Ave, Freeport, IL 61032",pharmacy,Freeport,51.9398735225089,42.30136,-89.6329,Walgreens,1,"Sabula, IA",False,2,5.0,IL
+"11002 Bartel Blvd, Galena, IL 61036",pharmacy,Galena,46.47762862044787,42.4319799,-90.4469571,Hartigs USA Drug,1,"Sabula, IA",False,-1,1.0,IL
+"129 W Locust St, Davenport, IA 52803",pharmacy,Davenport,67.2755949400224,41.53814,-90.57526,Main At Locust Pharmacy & Medical Supply,4,"Sabula, IA",False,3,4.5,IA
+"2617 18th Ave, Rock Island, IL 61201",pharmacy,Rock Island,71.11139144584338,41.4932,-90.5603,CVS Pharmacy,1,"Sabula, IA",False,2,5.0,IL
+"3425 Middle Rd, Bettendorf, IA 52722",pharmacy,Bettendorf,62.68659386013469,41.55027,-90.48505,Walgreens,4,"Sabula, IA",False,-1,1.0,IA
+"225 E Le Claire Rd, Eldridge, IA 52748",pharmacy,Eldridge,56.64500406939169,41.6542816,-90.5809784,North Scott Pharmacy,1,"Sabula, IA",False,-1,1.0,IA
+"4011 E 53Rd St, Davenport, IA 52807",pharmacy,Davenport,61.32857038639627,41.5743637084961,-90.5142440795898,Walgreens,5,"Sabula, IA",False,2,2.0,IA
+"1777 Division St, Davenport, IA 52804",pharmacy,Davenport,68.34804013103624,41.53777,-90.60043,CVS Pharmacy,2,"Sabula, IA",False,2,2.5,IA
+"3601 16Th St, Moline, IL 61265",pharmacy,Moline,70.95885024125093,41.4769592285156,-90.5074768066406,Walgreens,1,"Sabula, IA",False,3,5.0,IL
+"4000 Avenue Of The Cities, Moline, IL 61265",pharmacy,Moline,68.79988917884828,41.48962,-90.48041,Walgreens,3,"Sabula, IA",False,-1,2.5,IL
+"4 W 3rd St, Sterling, IL 61081",pharmacy,Sterling,50.33959529565864,41.7880474,-89.6962167,The Medicine Shoppe,2,"Sabula, IA",False,-1,3.0,IL

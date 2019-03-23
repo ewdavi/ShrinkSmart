@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"601 S Merino Ave, Eddyville, IA 52553",gas stations,Eddyville,20.602172935982942,41.1538840324077,-92.6273371522425,BP,1,"Albia, IA",False,1,3.0,IA
+"414 S Clark St, Pella, IA 50219",gas stations,Pella,41.81396999940545,41.3918762207031,-92.9115447998047,Casey's General Store,1,"Albia, IA",False,-1,3.0,IA
+"N Hwy 63, Lancaster, MO 63548",gas stations,Lancaster,59.696663105365936,40.5349082946777,-92.5151596069336,Shell Gas Station,1,"Albia, IA",False,-1,1.0,MO
+"Highway 34 E, Agency, IA 52530",gas stations,Agency,41.38328206484937,41.002339,-92.310709,Agency Bp,2,"Albia, IA",False,-1,4.5,IA
+"1609 W 2nd St, Ottumwa, IA 52501",gas stations,Ottumwa,31.092508811009953,41.0349659,-92.4331556,Casey's Carry Out Pizza,2,"Albia, IA",False,-1,3.0,IA
+"114 S Prairie St, Russell, IA 50238",gas stations,Russell,33.318371161402844,40.98304,-93.1978199,Last Chance,1,"Albia, IA",False,-1,4.0,IA
+"103 E 6th St, Hedrick, IA 52563",gas stations,Hedrick,44.91084591844591,41.177066,-92.307183,Hedrick Sinclair,2,"Albia, IA",False,-1,2.5,IA
+"207 S Front St, Humeston, IA 50123",gas stations,Humeston,61.3504493261991,40.857606,-93.4995549,Casey's General Store,1,"Albia, IA",False,-1,5.0,IA
+"Highway 14 S, Monroe, IA 50170",gas stations,Monroe,60.53386029650746,41.535244,-93.101507,Hewitt Service Center,1,"Albia, IA",False,-1,5.0,IA
+"315 N Kent St, Knoxville, IA 50138",gas stations,Knoxville,41.37361735172643,41.3215,-93.10173,Mikes Towing,3,"Albia, IA",False,-1,3.5,IA
+"4118 73rd St, Agency, IA 52530",gas stations,Agency,47.477052680548624,40.99489,-92.23913,D's Eldon Y,1,"Albia, IA",False,-1,5.0,IA
+"5970 Morning Star Ct, Pleasant Hill, IA 50317",gas stations,Pleasant Hill,85.85262079020805,41.597944,-93.492188,Kum & Go,1,"Albia, IA",False,1,5.0,IA
+"2150 E Army Post Rd, Des Moines, IA 50320",gas stations,Des Moines,85.49056233569243,41.526733,-93.5784,Casey's General Store,1,"Albia, IA",False,1,5.0,IA
+"5830 SE 14th St, Des Moines, IA 50315",gas stations,Des Moines,87.16969698474726,41.5332069,-93.5975208,Kum & Go,3,"Albia, IA",False,2,4.5,IA
+"3941 SE 14th St, Des Moines, IA 50320",gas stations,Des Moines,88.20967984846325,41.548698425293,-93.5961990356445,QuikTrip,1,"Albia, IA",False,2,5.0,IA
+"6501 SE 14th St, Des Moines, IA 50320",gas stations,Des Moines,86.42959493613014,41.5252108,-93.5966451,Git-N-Go Convenience Stores,2,"Albia, IA",False,-1,2.5,IA
+"2945 E University Ave, Des Moines, IA 50317",gas stations,Des Moines,89.85584215342102,41.6001,-93.55904,QuikTrip,7,"Albia, IA",False,1,5.0,IA
+"1501 E Grand Ave, Des Moines, IA 50316",gas stations,Des Moines,91.46840200862444,41.5935599,-93.59464,QuikTrip,1,"Albia, IA",False,1,4.0,IA
+"1000 E University Ave, Des Moines, IA 50316",gas stations,Des Moines,92.68492319169205,41.600746,-93.605682,QuikTrip,4,"Albia, IA",False,2,5.0,IA
+"2110 Guthrie Ave, Des Moines, IA 50317",gas stations,Des Moines,92.21306849448989,41.61538,-93.5786491,Kum & Go,3,"Albia, IA",False,2,3.5,IA

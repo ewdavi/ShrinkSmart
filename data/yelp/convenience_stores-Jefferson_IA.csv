@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"711 E Main St, Lake City, IA 51449",convenience stores,Lake City,39.58609650376025,42.26732,-94.72568,Sparky's One Stop-Lake City,2,"Jefferson, IA",False,2,4.0,IA
+"606 Walnut St, Des Moines, IA 50309",convenience stores,Des Moines,79.17442321479285,41.58544,-93.62502,Walgreens,6,"Jefferson, IA",False,2,3.5,IA
+"420 Court Ave, Des Moines, IA 50309",convenience stores,Des Moines,79.42437620969176,41.58461387468,-93.6220497511848,Hy-Vee,42,"Jefferson, IA",False,2,3.5,IA
+"11925 University Ave, Clive, IA 50325",convenience stores,Clive,68.06474662943725,41.60107,-93.78218,QuikTrip,7,"Jefferson, IA",False,2,4.0,IA
+"555 Walnut St, Ste 210, Des Moines, IA 50309",convenience stores,Des Moines,79.1868208869156,41.58631,-93.6241,Market Place,1,"Jefferson, IA",False,-1,4.0,IA
+"590 Parker St, Stanhope, IA 50246",convenience stores,Stanhope,57.49314584897428,42.2897283487349,-93.7957038292291,Sparky's One Stop,1,"Jefferson, IA",False,1,3.0,IA
+"515 E Grand Ave, Des Moines, IA 50309",convenience stores,Des Moines,79.77517781242275,41.590633301355,-93.610725445747,New Oriental Food Store,17,"Jefferson, IA",False,1,4.5,IA
+"203 Welch Ave, Ames, IA 50010",convenience stores,Ames,60.838909042208904,42.0213737487793,-93.6502227783203,Kum & Go,2,"Jefferson, IA",False,-1,3.0,IA
+"1421 Ingersoll Ave, Des Moines, IA 50309",convenience stores,Des Moines,78.31786437670155,41.58683,-93.63655,QuikTrip,5,"Jefferson, IA",False,1,4.5,IA
+"305 E 1st St, Early, IA 50535",convenience stores,Early,79.86388156758018,42.4599199,-95.14842,Casey's General Store,1,"Jefferson, IA",False,-1,4.0,IA
+"1802 Sycamore St, Granger, IA 50109",convenience stores,Granger,54.55425843812776,41.758681,-93.82479,Casey's General Store,1,"Jefferson, IA",False,2,1.0,IA
+"1111 Ia Hwy 175, Ellsworth, IA 50075",convenience stores,Ellsworth,74.67262914857837,42.30969,-93.57294,Kum & Go,2,"Jefferson, IA",False,1,3.5,IA
+"4100 University Ave, Ste 260, West Des Moines, IA 50266",convenience stores,West Des Moines,69.52192587582456,41.5985553908381,-93.7611208195531,Whole Foods Market,65,"Jefferson, IA",False,2,4.0,IA
+"1010 SE Oralabor Rd, Ankeny, IA 50021",convenience stores,Ankeny,75.10231969453089,41.70355,-93.58201,Casey's General Store,8,"Jefferson, IA",False,2,4.0,IA
+"4510 Mortenson Rd, Ames, IA 50014",convenience stores,Ames,58.40935745968329,42.0116892428016,-93.6796534422765,Kum & Go,1,"Jefferson, IA",False,1,5.0,IA
+"1825 N Ankeny Blvd, Ankeny, IA 50021",convenience stores,Ankeny,71.66393500237922,41.74677,-93.59948,Kum & Go,5,"Jefferson, IA",False,2,3.5,IA
+"1310 NW 18th St, Ankeny, IA 50023",convenience stores,Ankeny,70.36972586697888,41.74683,-93.61679,Casey's,3,"Jefferson, IA",False,2,4.0,IA
+"1602 W 1st St, Ankeny, IA 50023",convenience stores,Ankeny,70.68605082101692,41.7323,-93.622047,Casey's General Store,3,"Jefferson, IA",False,2,3.5,IA
+"2702 Se Delaware Ave, Ankeny, IA 50021",convenience stores,Ankeny,75.18108998700407,41.70214,-93.58189,Walgreens,3,"Jefferson, IA",False,2,5.0,IA
+"802 E 1st St, Ankeny, IA 50021",convenience stores,Ankeny,73.33796784530769,41.7323379516602,-93.5863265991211,QuikTrip,8,"Jefferson, IA",False,1,4.5,IA

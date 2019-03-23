@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2719 Grand Ave, Ames, IA 50010",pharmacy,Ames,25.361124382551445,42.048965,-93.621231,Walgreens,5,"Colo, IA",False,2,4.5,IA
+"621 Broad St, Story City, IA 50248",pharmacy,Story City,29.872237134476112,42.1874122619629,-93.5947952270508,Story City Pharmacy,1,"Colo, IA",False,2,3.0,IA
+"2709 Northridge Pkwy, Ames, IA 50014",pharmacy,Ames,27.367827098895724,42.04878,-93.64585,Somerset Pharmacy,2,"Colo, IA",False,1,4.5,IA
+"640 Lincoln Way, Ames, IA 50010",pharmacy,Ames,24.9577889062405,42.0227623,-93.6194763,Hy-Vee Food Stores - west ames,12,"Colo, IA",False,2,4.0,IA
+"606 Walnut St, Des Moines, IA 50309",pharmacy,Des Moines,54.08106113362839,41.58544,-93.62502,Walgreens,6,"Colo, IA",False,2,3.5,IA
+"3800 Lincoln Way, Ames, IA 50014",pharmacy,Ames,29.278927158361444,42.022618,-93.671955,Hy-Vee,14,"Colo, IA",False,2,3.5,IA
+"1204 1St Ave E, Newton, IA 50208",pharmacy,Newton,41.979528057538914,41.69959,-93.0380799,Walgreens,1,"Colo, IA",False,-1,1.0,IA
+"640 Lincoln Way, Ames, IA 50010",pharmacy,Ames,24.9577889062405,42.0227623,-93.6194763,Hy-Vee Pharmacies,1,"Colo, IA",False,1,1.0,IA
+"2702 Se Delaware Ave, Ankeny, IA 50021",pharmacy,Ankeny,41.05418614401501,41.70214,-93.58189,Walgreens,3,"Colo, IA",False,2,5.0,IA
+"640 Lincoln Way, Ames, IA 50010",pharmacy,Ames,24.9577889062405,42.0227623,-93.6194763,Hy-Vee Food & Drug Stores,1,"Colo, IA",False,1,5.0,IA
+"2420 Lincoln Way, Ames, IA 50014",pharmacy,Ames,27.45897829576148,42.0225123272262,-93.6499174343586,CVS Pharmacy,1,"Colo, IA",False,-1,4.0,IA
+"101 N Walnut St, Colfax, IA 50054",pharmacy,Colfax,37.906956622161694,41.6777769,-93.2455896,Benzer Pharmacy,3,"Colo, IA",False,2,3.5,IA
+"901 N Ankeny Blvd, Ankeny, IA 50023",pharmacy,Ankeny,38.47213420271849,41.73904,-93.59936,Walgreens,8,"Colo, IA",False,3,3.0,IA
+"107 NE Delaware Ave, Ankeny, IA 50021",pharmacy,Ankeny,38.17969773376431,41.73245,-93.5808799,Medicap Pharmacy,2,"Colo, IA",False,2,4.5,IA
+"303 Nicholas Dr, Marshalltown, IA 50158",pharmacy,Marshalltown,33.0189544943189,42.0152708,-92.9185267,Hy Vee Drugstore Clinic,1,"Colo, IA",False,-1,5.0,IA
+"4900 Mills Civic Pkwy, West Des Moines, IA 50265",pharmacy,West Des Moines,63.05754390850991,41.55856,-93.77,Walgreens,6,"Colo, IA",False,2,3.5,IA
+"500 Main St, Ames, IA 50010",pharmacy,Ames,24.75104541829352,42.0248933074596,-93.6169910430908,Hy-Vee Drugstore,3,"Colo, IA",False,3,4.0,IA
+"420 Court Ave, Des Moines, IA 50309",pharmacy,Des Moines,54.04829608017855,41.58461387468,-93.6220497511848,Hy-Vee,42,"Colo, IA",False,2,3.5,IA
+"3802 Ingersoll Ave, Des Moines, IA 50312",pharmacy,Des Moines,55.8037845833091,41.58588,-93.66838,Bauder Pharmacy,43,"Colo, IA",False,1,4.5,IA
+"12753 University Ave, Clive, IA 50325",pharmacy,Clive,60.575252855023,41.600944519043,-93.7936019897461,Walgreens,8,"Colo, IA",False,2,2.5,IA

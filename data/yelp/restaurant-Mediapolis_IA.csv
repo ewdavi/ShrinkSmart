@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"626 Main St, Mediapolis, IA 52637",restaurant,Mediapolis,0.1909076199769472,41.0077107658212,-91.163515,Coconuts Cabana,3,"Mediapolis, IA",False,-1,4.5,IA
+"608 Main St, Mediapolis, IA 52637",restaurant,Mediapolis,0.20687623354374088,41.0076751708984,-91.1638107299805,Apron Strings,2,"Mediapolis, IA",False,-1,3.5,IA
+"20478 Eastern Ave, Yarmouth, IA 52660",restaurant,Yarmouth,13.519813940598286,41.026353,-91.322035,Yarmouth Filling Station,1,"Mediapolis, IA",False,-1,5.0,IA
+"9753 F Ave, Wapello, IA 52653",restaurant,Wapello,21.624433990156117,41.2004675252726,-91.1155055817786,Odessa Grille,3,"Mediapolis, IA",False,-1,4.5,IA
+"608 Russell St, Oakville, IA 52646",restaurant,Oakville,14.183114862753488,41.1002699215647,-91.043999902904,Piggy Bank,1,"Mediapolis, IA",False,-1,5.0,IA
+"305 Schuyler St, Oquawka, IL 61469",restaurant,Oquawka,19.36019528812285,40.933948,-90.95457,Oarhouse And Grill,3,"Mediapolis, IA",False,1,4.5,IL
+"210 Van Buren St, Wapello, IA 52653",restaurant,Wapello,19.298598942795362,41.181955,-91.184782,Johnnie B's,7,"Mediapolis, IA",False,2,3.5,IA
+"2016 S Main St, Burlington, IA 52601",restaurant,Burlington,25.033555432279016,40.78939,-91.09827,The Buffalo Tavern,29,"Mediapolis, IA",False,2,4.0,IA
+"316 N 4th St, Burlington, IA 52601",restaurant,Burlington,22.634127555055464,40.8106536865234,-91.1033248901367,La Tavola Italian Restaurant & Pizza,66,"Mediapolis, IA",False,2,4.5,IA
+"322 N 4th St, Burlington, IA 52601",restaurant,Burlington,22.611528492034104,40.81084,-91.10336,Krafted Bar & Bistro,13,"Mediapolis, IA",False,3,4.5,IA
+"Second And Schuyler St, Oquawka, IL 61469",restaurant,Oquawka,19.18595196594203,40.9347659608448,-90.9563510119915,The Oquawka Diner,5,"Mediapolis, IA",False,1,4.5,IL
+"111 E Monroe St, Mount Pleasant, IA 52641",restaurant,Mount Pleasant,33.176984811054794,40.966835,-91.553748,Walt's Taproom,1,"Mediapolis, IA",False,-1,5.0,IA
+"1201 Derek Lincoln Dr, West Burlington, IA 52655",restaurant,West Burlington,21.951791354196782,40.811763,-91.154281,Uncle Ronnies,29,"Mediapolis, IA",False,2,3.5,IA
+"2505 Mount Pleasant St, Burlington, IA 52601",restaurant,Burlington,20.738648580171876,40.82416,-91.13227,The Outpost Bar & Grill,1,"Mediapolis, IA",False,-1,5.0,IA
+"207 Main St, Columbus Junction, IA 52738",restaurant,Columbus Junction,34.40809968274686,41.2803782,-91.3605238,Antojitos Carmen,25,"Mediapolis, IA",False,1,5.0,IA
+"5055 Augusta Main Rd, Wever, IA 52658",restaurant,Wever,29.932723929474456,40.7546616,-91.2757797,Fat Annie's Augusta Tavern,3,"Mediapolis, IA",False,1,3.5,IA
+"610 N 4th St, Ste 400, Burlington, IA 52601",restaurant,Burlington,22.40129644131147,40.8130111694336,-91.1025695800781,Martini's Grille,51,"Mediapolis, IA",False,3,4.0,IA
+"201 N Hwy 61, Wapello, IA 52653",restaurant,Wapello,19.237712038086098,41.1804900380351,-91.1951799318194,Arandas 3,1,"Mediapolis, IA",False,-1,4.0,IA
+"710 N Front St, Burlington, IA 52601",restaurant,Burlington,22.326970682296345,40.814236,-91.09918,Big Muddy's,46,"Mediapolis, IA",False,2,3.0,IA
+"119 W Main St, Joy, IL 61260",restaurant,Joy,31.537873788912222,41.196693,-90.880013,The Boon Docks,2,"Mediapolis, IA",False,-1,5.0,IL

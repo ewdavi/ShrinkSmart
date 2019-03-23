@@ -1,0 +1,9 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"4 W 5th St, Atlantic, IA 50022",optometrist,Atlantic,21.214276413937498,41.4061241149902,-95.0134582519531,Family Vision Center,1,"Elk Horn, IA",False,-1,1.0,IA
+"1409 N 2nd St, Red Oak, IA 51566",optometrist,Red Oak,65.56049323861241,41.0173301696777,-95.2305755615234,Michael J Portz  PC,1,"Elk Horn, IA",False,-1,5.0,IA
+"928 Valley View Dr, Ste 17, Council Bluffs, IA 51503",optometrist,Council Bluffs,73.33585815405668,41.2496147155762,-95.8134536743164,Ideal Eyecare,1,"Elk Horn, IA",False,-1,5.0,IA
+"1400 Senate Ave, Ste 104, Red Oak, IA 51566",optometrist,Red Oak,64.23900982812222,41.0263443,-95.2169189,Red Oak Pharmacy,1,"Elk Horn, IA",False,-1,5.0,IA
+"715 Harmony St, Ste 300, Council Bluffs, IA 51503",optometrist,Council Bluffs,74.22530476383419,41.26897,-95.8409999,Midwest Eye Care PC,3,"Elk Horn, IA",False,-1,4.5,IA
+"204 S 35th St, Ste 100, Council Bluffs, IA 51501",optometrist,Council Bluffs,77.32863351177559,41.2613362,-95.8776502,Wahl Optical,5,"Elk Horn, IA",False,2,3.0,IA
+"3701 Metro Dr, Ste 400, Council Bluffs, IA 51501",optometrist,Council Bluffs,76.6824829220806,41.222307,-95.837729,America's Best Contacts & Eyeglasses,4,"Elk Horn, IA",False,2,2.5,IA
+"1851 Madison Ave, Ste 714, Council Bluffs, IA 51503",optometrist,Council Bluffs,74.24946327624933,41.2410274659892,-95.8190782772461,Pearle Vision,1,"Elk Horn, IA",False,-1,5.0,IA

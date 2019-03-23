@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"601 S 13th St, Omaha, NE 68102",convenience stores,Omaha,28.528879958339093,41.254234,-95.9331451,Cubby's,32,"Pacific Junction, IA",False,2,3.5,NE
+"515 Sharp St, Glenwood, IA 51534",convenience stores,Glenwood,5.613242313500389,41.0462869,-95.7440777,BP Lincoln Farm & Home Service,2,"Pacific Junction, IA",False,1,5.0,IA
+"7828 S 123rd Plz, La Vista, NE 68128",convenience stores,La Vista,31.41996102851691,41.1818885803223,-96.1054916381836,Fantasy's,5,"Pacific Junction, IA",False,2,4.5,NE
+"511 S 11th St, Omaha, NE 68102",convenience stores,Omaha,28.550861893615032,41.2550048828125,-95.9302749633789,La Buvette Wine & Grocery,253,"Pacific Junction, IA",False,2,4.0,NE
+"11511 S 36th St, Bellevue, NE 68123",convenience stores,Bellevue,19.400323548129045,41.1385117,-95.9667435,Tobacco & Phones 4 Less,1,"Pacific Junction, IA",False,-1,1.0,NE
+"1202 S 13th St, Omaha, NE 68108",convenience stores,Omaha,27.921360442844975,41.2479081337044,-95.9335125779088,Casey's General Store,3,"Pacific Junction, IA",False,1,3.5,NE
+"11400 S 72nd St, Papillion, NE 68046",convenience stores,Papillion,23.16484667894173,41.1393,-96.02423,Bucky's,1,"Pacific Junction, IA",False,-1,3.0,NE
+"23226 Centre Dr, Glenwood, IA 51534",convenience stores,Glenwood,13.366277111849374,41.1304024593056,-95.7430239351959,Lake Ohana Market,2,"Pacific Junction, IA",False,-1,3.0,IA
+"5150 Center St, Omaha, NE 68106",convenience stores,Omaha,29.816257914607736,41.2422937195146,-95.9945615920842,Hy-Vee,39,"Pacific Junction, IA",False,2,3.0,NE
+"3434 Nebraska Ave, Council Bluffs, IA 51501",convenience stores,Council Bluffs,26.61509156220786,41.2449531555176,-95.9007949829102,Bucky's,3,"Pacific Junction, IA",False,2,3.5,IA
+"2401 Oak Hill Rd, Plattsmouth, NE 68048",convenience stores,Plattsmouth,9.24520903197835,41.0128212,-95.909523,Lucky's,1,"Pacific Junction, IA",False,3,1.0,NE
+"10504 S 15th St, Bellevue, NE 68123",convenience stores,Bellevue,19.14448522395798,41.155673,-95.936641,Walmart Supercenter,13,"Pacific Junction, IA",False,1,2.0,NE
+"10 Main St, Highway 50 & Main, Louisville, NE 68037",convenience stores,Louisville,30.450257120497014,41.0042933161083,-96.1619509528032,Taylor Quik-Pik,1,"Pacific Junction, IA",False,2,3.0,NE
+"2103 Capehart Rd, Bellevue, NE 68123",convenience stores,Bellevue,16.27003328175951,41.11767578125,-95.9416656494141,Kwik Shop,3,"Pacific Junction, IA",False,1,3.0,NE
+"6003 Center St, Omaha, NE 68106",convenience stores,Omaha,29.87866277151158,41.23738,-96.00542,Bucky's Express,4,"Pacific Junction, IA",False,2,3.5,NE
+"502 W Mission Ave, Bellevue, NE 68005",convenience stores,Bellevue,15.647906496878301,41.1368293762207,-95.8992691040039,Kwik Shop,5,"Pacific Junction, IA",False,1,3.0,NE
+"3614 Twin Creek Dr, Bellevue, NE 68123",convenience stores,Bellevue,19.816654568029655,41.141952,-95.968734,Baker's Supermarkets,25,"Pacific Junction, IA",False,2,3.5,NE
+"6912 S 110th St, La Vista, NE 68128",convenience stores,La Vista,30.87835724920425,41.1900482,-96.0888138,Pump & Pantry,2,"Pacific Junction, IA",False,-1,2.5,NE
+"1704 S 72nd St, Omaha, NE 68124",convenience stores,Omaha,31.324043834025193,41.243,-96.02457,QuikTrip,4,"Pacific Junction, IA",False,2,4.5,NE
+"3253 Dodge St, Omaha, NE 68131",convenience stores,Omaha,30.072378524552008,41.2596,-95.96102,Wohlner's Neighborhood Grocery & Deli,38,"Pacific Junction, IA",False,2,3.5,NE

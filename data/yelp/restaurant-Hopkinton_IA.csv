@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"22392 255th St, Delhi, IA 52223",restaurant,Delhi,11.811771650769206,42.415655,-91.352283,Smokey's Grille,2,"Hopkinton, IA",False,-1,5.0,IA
+"306 Franklin St, Delhi, IA 52223",restaurant,Delhi,11.897200003211497,42.429777,-91.33124,Buliceks Landing,8,"Hopkinton, IA",False,2,4.5,IA
+"126 E 1st St, Monticello, IA 52310",restaurant,Monticello,12.548134467278777,42.238036,-91.188607,The Jitney,13,"Hopkinton, IA",False,2,5.0,IA
+"12612 Stone City Rd, Anamosa, IA 52205",restaurant,Anamosa,26.666118307616003,42.1153177320957,-91.3547542691231,The General Store Pub,35,"Hopkinton, IA",False,2,4.5,IA
+"225 S Main St, Monticello, IA 52310",restaurant,Monticello,12.865104329796935,42.2362404,-91.1843414,Darrell's A Family Tradition,7,"Hopkinton, IA",False,2,4.5,IA
+"14575 E23 County Home Rd, Anamosa, IA 52205",restaurant,Anamosa,23.45145316385178,42.1407225996159,-91.1624130606651,Teddys Barn And Grill,28,"Hopkinton, IA",False,2,3.5,IA
+"21592 US-151 Bus, Monticello, IA 52310",restaurant,Monticello,12.123311431173066,42.249531,-91.170244,Hillside Sports Bar & Grill,1,"Hopkinton, IA",False,2,5.0,IA
+"275 Jackson St, Cascade, IA 52033",restaurant,Cascade,20.2903720575915,42.30314,-91.00792,Kalmes Club 528,1,"Hopkinton, IA",False,-1,5.0,IA
+"913 15th Ave SE, Dyersville, IA 52040",restaurant,Dyersville,18.200813099748988,42.471019744873,-91.1135711669922,Country Junction Restaurant,44,"Hopkinton, IA",False,2,4.0,IA
+"112 N Madison St, Manchester, IA 52057",restaurant,Manchester,23.32697175009479,42.48472,-91.45692,5K BBQ Shack,5,"Hopkinton, IA",False,-1,4.5,IA
+"26166 208th Ave, Delhi, IA 52223",restaurant,Delhi,13.937057531053075,42.4109327048063,-91.3906589895487,Pizza Place Inc,4,"Hopkinton, IA",False,2,4.5,IA
+"220 Pierce SW, Cascade, IA 52033",restaurant,Cascade,20.08674443984435,42.2984294,-91.0126857,Cascade,1,"Hopkinton, IA",False,-1,5.0,IA
+"119 N Washington St, Edgewood, IA 52042",restaurant,Edgewood,35.98007205290623,42.64523,-91.40091,Cafe Rose,6,"Hopkinton, IA",False,2,5.0,IA
+"11666 County Rd E17, Monticello, IA 52310",restaurant,Monticello,22.1792791813993,42.1726016700268,-91.1053383350372,The Grove Bar and Grill,2,"Hopkinton, IA",False,-1,4.0,IA
+"118 N Franklin St, Manchester, IA 52057",restaurant,Manchester,23.3943170311756,42.48471,-91.45811,Jude's Cafe,2,"Hopkinton, IA",False,1,4.5,IA
+"107 Northern Ave, Earlville, IA 52041",restaurant,Earlville,15.744621873290345,42.4821395394602,-91.2726257389008,Earlville Pub and Grub,2,"Hopkinton, IA",False,1,5.0,IA
+"2266 185th Ave, Manchester, IA 52057",restaurant,Manchester,19.984676310577953,42.460953,-91.431159,Pin Oak Pub and Links,2,"Hopkinton, IA",False,2,4.5,IA
+"110 1st St NW, Farley, IA 52046",restaurant,Farley,22.927623477229588,42.443402,-91.006386,Bill's Tap,2,"Hopkinton, IA",False,-1,4.5,IA
+"122 E Main St, Anamosa, IA 52205",restaurant,Anamosa,26.074764910529485,42.108512878418,-91.2845611572266,Tyler & Downing's Eatery,11,"Hopkinton, IA",False,2,3.5,IA
+"232 1st Ave E, Dyersville, IA 52040",restaurant,Dyersville,19.032690311299667,42.4848670959473,-91.1221160888672,Ritz Restaurant,2,"Hopkinton, IA",False,2,5.0,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2615 S Center St, Marshalltown, IA 50158",dental,Marshalltown,41.86442862382578,42.0140322479,-92.9131383151,Aspen Dental,1,"Traer, IA",False,-1,1.0,IA
+"2765 Crossroads Blvd, Waterloo, IA 50702",dental,Waterloo,32.667543638164226,42.463336,-92.32579,Aspen Dental,4,"Traer, IA",False,-1,2.5,IA
+"4048 Glass Rd NE, Cedar Rapids, IA 52402",dental,Cedar Rapids,65.85524230751363,42.01861,-91.69787,River Ridge Dental,6,"Traer, IA",False,-1,5.0,IA
+"3308 Kimball Ave, Waterloo, IA 50702",dental,Waterloo,31.98055279279924,42.4644660949707,-92.3576278686523,"Spragg, Squires & Wirth Family Dental",1,"Traer, IA",False,-1,5.0,IA
+"1022 W 5th St, Waterloo, IA 50702",dental,Waterloo,34.73958660989192,42.48815,-92.34778,Comfort Dental,1,"Traer, IA",False,-1,5.0,IA
+"2102 Kimball Ave, Waterloo, IA 50702",dental,Waterloo,32.685094216120675,42.471047,-92.357656,Waterloo Dental Associates,1,"Traer, IA",False,-1,5.0,IA
+"4015 Hurst Dr, Waterloo, IA 50701",dental,Waterloo,31.032828314533226,42.4681396484375,-92.374397277832,Kimball & Beecher Family Dentistry - Waterloo,3,"Traer, IA",False,-1,2.5,IA
+"315 E San Marnan Dr, Waterloo, IA 50702",dental,Waterloo,31.485959739725953,42.4579887,-92.3490372,Kimball Eric DDS,1,"Traer, IA",False,-1,5.0,IA
+"1709 University Ave, Waterloo, IA 50701",dental,Waterloo,35.142022252247216,42.4958877563477,-92.3688812255859,"Schreiner Mark, DDS",3,"Traer, IA",False,-1,5.0,IA
+"1304 W 1st St, Cedar Falls, IA 50613",dental,Cedar Falls,38.91480658186892,42.5375389,-92.461036,"Michael R Arcuri, DDS MS",1,"Traer, IA",False,-1,5.0,IA
+"239 E San Marnan Dr, Waterloo, IA 50702",dental,Waterloo,31.457640581542428,42.4580993652344,-92.3509902954102,Only Kids Dentistry,2,"Traer, IA",False,-1,3.0,IA
+"1950 Plymouth Ave, Waterloo, IA 50702",dental,Waterloo,33.42468456205591,42.469872,-92.32314,Crossroads Dental,1,"Traer, IA",False,-1,1.0,IA
+"4207 Glass Rd NE, Ste 2, Cedar Rapids, IA 52402",dental,Cedar Rapids,65.73181738196038,42.01643,-91.70052,Balster Pediatric Dentistry,3,"Traer, IA",False,-1,5.0,IA
+"4141 Glass Rd NE, Cedar Rapids, IA 52402",dental,Cedar Rapids,65.82977184257177,42.01694,-91.6988,Horton Family Dental,1,"Traer, IA",False,-1,5.0,IA
+"1421 W 1st St, Ste B, Cedar Falls, IA 50613",dental,Cedar Falls,38.98534957631138,42.53811,-92.46294,All Smiles Family Dentistry,4,"Traer, IA",False,-1,4.0,IA
+"7504 University Ave, Cedar Falls, IA 50613",dental,Cedar Falls,36.25418974288796,42.51352,-92.44839,"David C Roberts, DDS",1,"Traer, IA",False,-1,1.0,IA
+"907 Rainbow Dr, Cedar Falls, IA 50613",dental,Cedar Falls,37.14997630551731,42.52111,-92.43573,Midwest Dental,1,"Traer, IA",False,-1,1.0,IA
+"827 S Highland St, Williamsburg, IA 52361",dental,Williamsburg,70.11169071022627,41.656023,-92.0070048,Williamsburg Dental Health Clinic,2,"Traer, IA",False,-1,5.0,IA
+"206 3rd Ave NE, Independence, IA 50644",dental,Independence,56.48060348463401,42.4702399,-91.89152,"Kegler, Kegler & Arend Family Dentistry",1,"Traer, IA",False,-1,5.0,IA
+"907 Bank Ct, Center Point, IA 52213",dental,Center Point,56.83025082985126,42.18012,-91.77332,Center Point Family Dentistry,1,"Traer, IA",False,-1,5.0,IA

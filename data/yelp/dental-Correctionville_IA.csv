@@ -1,0 +1,15 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"5738 Sunnybrook Dr, Sioux City, IA 51106",dental,Sioux City,45.24613650817569,42.451707,-96.331911,Family Dental Care of Sioux City,1,"Correctionville, IA",False,-1,5.0,IA
+"2100 Indian Hills Dr, Sioux City, IA 51104",dental,Sioux City,49.72006506197623,42.5339698791504,-96.3833770751953,Lilly Family Dentistry,3,"Correctionville, IA",False,-1,2.5,IA
+"5708 Sunnybrook Dr, Sioux City, IA 51106",dental,Sioux City,45.246991040200605,42.4524391,-96.3327443,"Gotch Jennifer, DDS",1,"Correctionville, IA",False,-1,5.0,IA
+"5001 Sergeant Rd, Sioux City, IA 51106",dental,Sioux City,46.34356138894198,42.44723,-96.34488,Aspen Dental,2,"Correctionville, IA",False,-1,2.0,IA
+"2928 Hamilton Blvd, Upper E, Sioux City, IA 51104",dental,Sioux City,52.34010785827052,42.52136,-96.417198,Family 1st Dental of Sioux City,1,"Correctionville, IA",False,-1,5.0,IA
+"1855 Indian Hills Dr, Sioux City, IA 51104",dental,Sioux City,49.94348900662087,42.5351982,-96.3858032,"Ivan K. Salmons, DDS, PC",2,"Correctionville, IA",False,-1,3.0,IA
+"4704 Morningside Ave, Sioux City, IA 51106",dental,Sioux City,46.34135273673407,42.4704,-96.346409,Morningside Dental,1,"Correctionville, IA",False,-1,1.0,IA
+"150 Tower Rd, Ste 100, Dakota Dunes, SD 57049",dental,Dakota Dunes,58.49032921461386,42.50451,-96.49415,"Jeff Reinking, DDS",1,"Correctionville, IA",False,-1,5.0,SD
+"301 Oak Tree Ln, Dakota Dunes, SD 57049",dental,Dakota Dunes,57.82186335210258,42.50537,-96.485615,Oral Surgery & Implant Specialists,3,"Correctionville, IA",False,-1,3.5,SD
+"4100 Morningside Ave, Ste B, Wheelock & Bursick Dentistry, Sioux City, IA 51106",dental,Sioux City,47.00932112296051,42.47033,-96.35456,"Douglas A Wheelock,DDS",1,"Correctionville, IA",False,-1,1.0,IA
+"217 W 6th St, Storm Lake, IA 50588",dental,Storm Lake,50.9678416878042,42.64563,-95.20223,Family 1st Dental of Storm Lake,1,"Correctionville, IA",False,-1,2.0,IA
+"2930 Hamilton Blvd Uppr F, Ste 103, Sioux City, IA 51104",dental,Sioux City,52.27941360036637,42.521616,-96.417782,Knopik Family Dentistry,1,"Correctionville, IA",False,-1,2.0,IA
+"2417 Pierce St, Sioux City, IA 51104",dental,Sioux City,51.30611509978065,42.5158548,-96.4051621,Octapharma Plasma,1,"Correctionville, IA",False,-1,2.0,IA
+"810 Central Ave, Hawarden, IA 51023",dental,Hawarden,81.25780847114655,42.9948501586914,-96.4847717285156,Family 1st Dental - Hawarden,1,"Correctionville, IA",False,-1,1.0,IA

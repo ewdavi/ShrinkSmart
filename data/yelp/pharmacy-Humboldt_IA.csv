@@ -1,0 +1,4 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"621 Broad St, Story City, IA 50248",pharmacy,Story City,78.95423305471307,42.1874122619629,-93.5947952270508,Story City Pharmacy,1,"Humboldt, IA",False,2,3.0,IA
+"3036 1st Ave S, Fort Dodge, IA 50501",pharmacy,Fort Dodge,24.76575419511236,42.506465,-94.153936,Walmart Supercenter,3,"Humboldt, IA",False,2,3.0,IA
+"616 E US Highway 9, Forest City, IA 50436",pharmacy,Forest City,77.94356887691161,43.269191,-93.627415,Shopko Hometown,1,"Humboldt, IA",False,-1,2.0,IA

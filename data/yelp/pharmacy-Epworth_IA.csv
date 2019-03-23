@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"55 John F Kennedy Rd, Dubuque, IA 52002",pharmacy,Dubuque,18.286435528710324,42.4929,-90.715915,Walgreens,5,"Epworth, IA",False,2,2.5,IA
+"711 16th Ave SE, Dyersville, IA 52040",pharmacy,Dyersville,15.57821086244691,42.470414,-91.11732,Hartig USA Drug,1,"Epworth, IA",False,3,4.0,IA
+"3500 Dodge St, Dubuque, IA 52003",pharmacy,Dubuque,17.691759343748203,42.48991,-90.722305,CVS Pharmacy,2,"Epworth, IA",False,2,2.5,IA
+"113 1st St NE, Mount Vernon, IA 52314",pharmacy,Mount Vernon,70.79697166608923,41.922131,-91.416167,CarePro Pharmacy - Mount Vernon,1,"Epworth, IA",False,-1,3.0,IA
+"11002 Bartel Blvd, Galena, IL 61036",pharmacy,Galena,39.682775287202645,42.4319799,-90.4469571,Hartigs USA Drug,1,"Epworth, IA",False,-1,1.0,IL
+"111 S Franklin St, Manchester, IA 52057",pharmacy,Manchester,43.51864212836851,42.4834785461426,-91.4583282470703,Widner Drug & Gift Store,2,"Epworth, IA",False,1,4.5,IA
+"400 S Locust St, Dubuque, IA 52003",pharmacy,Dubuque,22.334939985143357,42.486929797055,-90.663160275336,Hy-Vee Food Store,17,"Epworth, IA",False,1,3.0,IA
+"3500 Dodge St, Ste 1a, Dubuque, IA 52003",pharmacy,Dubuque,17.730543013807356,42.49062,-90.72243,Hy-Vee Food Stores,4,"Epworth, IA",False,1,4.5,IA
+"128 High St, Mineral Point, WI 53565",pharmacy,Mineral Point,76.65708840018068,42.85961,-90.17919,Ivey's Pharmacy,1,"Epworth, IA",False,2,3.0,WI
+"3500 Dodge St, Dubuque, IA 52003",pharmacy,Dubuque,17.736520916287215,42.490219,-90.721855,Target,7,"Epworth, IA",False,2,3.5,IA
+"109 N Marquette Rd, Prairie Du Chien, WI 53821",pharmacy,Prairie Du Chien,69.49087222775911,43.05223,-91.1414099,Walgreens,2,"Epworth, IA",False,1,5.0,WI
+"1905 N 2Nd St, Clinton, IA 52732",pharmacy,Clinton,89.31513794562517,41.86633,-90.18183,Walgreens,1,"Epworth, IA",False,1,5.0,IA
+"324 Edgewood Rd Nw, Cedar Rapids, IA 52405",pharmacy,Cedar Rapids,83.38007909003856,41.975044,-91.716637,Walgreens,1,"Epworth, IA",False,3,5.0,IA
+"230 Main St, Mc Gregor, IA 52157",pharmacy,Mc Gregor,67.24355975088469,43.0242004394531,-91.1763076782227,McGregor Pharmacy,1,"Epworth, IA",False,-1,4.0,IA
+"675 S Water St, Platteville, WI 53818",pharmacy,Platteville,48.49412707248767,42.727651438819,-90.476488330269,Walgreens,1,"Epworth, IA",False,-1,5.0,WI
+"1225 7Th Ave, Marion, IA 52302",pharmacy,Marion,71.6282127537576,42.0328369140625,-91.5963287353516,Walgreens,3,"Epworth, IA",False,4,2.5,IA
+"4116 Center Point Rd NE, Cedar Rapids, IA 52402",pharmacy,Cedar Rapids,76.82379703120472,42.020918,-91.664465,CVS Pharmacy,4,"Epworth, IA",False,2,2.5,IA
+"505 Boyson Rd NE, Cedar Rapids, IA 52402",pharmacy,Cedar Rapids,73.45403062246277,42.04618,-91.63914,Hy-Vee Drugstore,1,"Epworth, IA",False,-1,4.0,IA
+"103 E Carlisle, Maquoketa, IA 52060",pharmacy,Maquoketa,49.454608970996425,42.0488109119892,-90.6628040859833,Walmart Supercenter,2,"Epworth, IA",False,-1,2.5,IA
+"279 Collins Rd NE, Cedar Rapids, IA 52402",pharmacy,Cedar Rapids,74.38352451701833,42.0276833,-91.6311417,Hy-Vee,3,"Epworth, IA",False,2,4.5,IA

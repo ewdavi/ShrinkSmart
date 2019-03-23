@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"206 8th St SE, Orange City, IA 51041",gas stations,Orange City,15.178243070942752,42.99721,-96.05674,Mulder Oil,2,"Hospers, IA",False,-1,3.0,IA
+"215 S Rerick Ave, Primghar, IA 51245",gas stations,Primghar,22.666657252526708,43.086071032491,-95.6246391404494,Shortee's Pit Stop,2,"Hospers, IA",False,1,3.5,IA
+"623 S Marion St, Remsen, IA 51050",gas stations,Remsen,30.224807861998176,42.8097801,-95.9768219,Mrs B's,1,"Hospers, IA",False,2,4.0,IA
+"202 W Southern St, Sutherland, IA 51058",gas stations,Sutherland,34.90489573047166,42.9681664,-95.4985123,Car-Go Express/Convenience Store,2,"Hospers, IA",False,-1,3.0,IA
+"512 N Harlem Ave, Sioux Falls, SD 57104",gas stations,Sioux Falls,87.61684894738666,43.5545159,-96.7635551,Chris's Auto Repair,11,"Hospers, IA",False,-1,5.0,SD

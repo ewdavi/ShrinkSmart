@@ -1,0 +1,17 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"209 Main St E, Smithland, IA 51056",gas stations,Smithland,13.177204228928995,42.2289634813961,-95.9288631007075,Smithland Country Store,1,"Mapleton, IA",False,-1,5.0,IA
+"75 Maple St, Mondamin, IA 51557",gas stations,Mondamin,54.71882345689423,41.7106628417969,-96.0257873535156,Jiffy Mart,4,"Mapleton, IA",False,1,4.5,IA
+"524 1st St, Ste 1, Correctionville, IA 51016",gas stations,Correctionville,34.646380971184364,42.4819427928409,-95.7831815715701,Casey's General Store,1,"Mapleton, IA",False,1,5.0,IA
+"4727 Southern Hills Dr, Sioux City, IA 51106",gas stations,Sioux City,54.829661915607176,42.4409116279333,-96.3472460837763,Casey's General Store,2,"Mapleton, IA",False,-1,4.5,IA
+"4301 Stone Ave, Sioux City, IA 51106",gas stations,Sioux City,57.581522706004904,42.4797547415395,-96.3514964283398,Casey's General Store,1,"Mapleton, IA",False,2,5.0,IA
+"1211 9th St, Lake View, IA 51450",gas stations,Lake View,63.65412764368762,42.310832,-95.040174,Sparky's One Stop-Lake View,2,"Mapleton, IA",False,-1,3.0,IA
+"2026 Riverside Blvd, Sioux City, IA 51109",gas stations,Sioux City,68.0624183254678,42.5149635,-96.474264,Kum & Go,2,"Mapleton, IA",False,1,4.5,IA
+"404 11th St, Correctionville, IA 51016",gas stations,Correctionville,34.63411657011763,42.4819107055664,-95.7852935791016,Valley Stop-Shell,1,"Mapleton, IA",False,1,1.0,IA
+"5401 Morningside Ave, Sioux City, IA 51106",gas stations,Sioux City,55.98539114641582,42.470171,-96.336898,East End Mini Max & Car Wash,1,"Mapleton, IA",False,-1,5.0,IA
+"3808 Dakota Ave, South Sioux City, NE 68776",gas stations,South Sioux City,60.09414116537563,42.452357,-96.413274,Kum & Go,2,"Mapleton, IA",False,-1,4.0,NE
+"455 S 1st St, Moville, IA 51039",gas stations,Moville,42.177465125873525,42.48444,-96.07753,4 Way Stop Shop,1,"Mapleton, IA",False,-1,1.0,IA
+"923 W 7th St, Sioux City, IA 51103",gas stations,Sioux City,63.65437508350178,42.5035577,-96.4188589,Sams Mini Mart,1,"Mapleton, IA",False,1,5.0,IA
+"3241 Floyd Blvd, Sioux City, IA 51108",gas stations,Sioux City,62.5689584124916,42.5345764160156,-96.3701248168945,Floyd Food & Fuel,1,"Mapleton, IA",False,-1,1.0,IA
+"319 Main St, Hubbard, NE 68741",gas stations,Hubbard,70.09578770418854,42.386022127834,-96.590413,Hubbard Mini Mart,1,"Mapleton, IA",False,-1,5.0,NE
+"3908 Floyd Blvd, Sioux City, IA 51108",gas stations,Sioux City,62.38104491251453,42.5405388,-96.3600922,Dollar General,1,"Mapleton, IA",False,-1,1.0,IA
+"302 Portland St, Westfield, IA 51062",gas stations,Westfield,93.43193717141779,42.757002,-96.605314,Station,1,"Mapleton, IA",False,-1,5.0,IA

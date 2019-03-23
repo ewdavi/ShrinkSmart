@@ -1,0 +1,10 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1255 Theatre Dr, Ottumwa, IA 52501",dental,Ottumwa,30.47455564773945,41.0190594595852,-92.4378921613015,Aspen Dental,3,"Bloomfield, IA",False,-1,4.0,IA
+"106 E Washington Ave, Fairfield, IA 52556",dental,Fairfield,47.63700844621978,41.0053787,-91.9615402,Holt Family Dental Care,1,"Bloomfield, IA",False,-1,5.0,IA
+"1916 N Baltimore St, Kirksville, MO 63501",dental,Kirksville,61.03932214617246,40.2121551,-92.5813698,Kirksville Dental Group,2,"Bloomfield, IA",False,-1,5.0,MO
+"902 S 17th St, Oskaloosa, IA 52577",dental,Oskaloosa,62.86117317347445,41.288094,-92.62335,Osky Dental,2,"Bloomfield, IA",False,-1,3.0,IA
+"727 Pennsylvania Ave, Ottumwa, IA 52501",dental,Ottumwa,31.37219903256902,41.0275854300932,-92.3969004303217,Patritto Orthodontics,3,"Bloomfield, IA",False,-1,2.5,IA
+"1310 Crown Dr, Kirksville, MO 63501",dental,Kirksville,61.57266422042198,40.2057342529297,-92.5734100341797,Riley Donald D DDS,1,"Bloomfield, IA",False,-1,5.0,MO
+"1317 N Elm St, Ottumwa, IA 52501",dental,Ottumwa,31.428664426080722,41.02792,-92.3978,Gillespie Dennis M Dr DDS,1,"Bloomfield, IA",False,-1,1.0,IA
+"525 Hwy 1 S, Washington, IA 52353",dental,Washington,84.88658016389077,41.30397,-91.71821,Dental House of Washington,1,"Bloomfield, IA",False,-1,5.0,IA
+"525 Hwy 1, Washington, IA 52353",dental,Washington,85.05659664217674,41.2960795,-91.708086,Harris & Harris,2,"Bloomfield, IA",False,-1,3.0,IA

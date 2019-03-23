@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1015 2nd Ave, Sibley, IA 51249",restaurant,Sibley,0.6498562262369068,43.3980331,-95.7522125,1015 Steak Company,5,"Sibley, IA",False,2,4.0,IA
+"926 4th Ave, Sibley, IA 51249",restaurant,Sibley,0.35145682170194936,43.3987768,-95.7489048,El Tio Nachos,7,"Sibley, IA",False,1,3.5,IA
+"207 8th St, Sheldon, IA 51201",restaurant,Sheldon,25.83115790371022,43.1823075,-95.8554291,Langer's Bar & Grill,7,"Sibley, IA",False,-1,5.0,IA
+"208 N Louisiana Ave, Adrian, MN 56110",restaurant,Adrian,30.66316742537051,43.6397425299114,-95.9341171409981,Countryside Inn Steakhouse,5,"Sibley, IA",False,-1,4.0,MN
+"316 9th St, Sibley, IA 51249",restaurant,Sibley,0.4064924232422073,43.3993783847835,-95.74998167405,Pizza Ranch,3,"Sibley, IA",False,1,3.5,IA
+"157 Main St, Round Lake, MN 56167",restaurant,Round Lake,27.280440955286483,43.54109,-95.468181,Sunset Grill,3,"Sibley, IA",False,-1,4.5,MN
+"111 S Main St, George, IA 51237",restaurant,George,21.7364540540427,43.3433853576781,-96.0023778934457,Glory Days Cafe,1,"Sibley, IA",False,-1,5.0,IA
+"1113 2nd Ave, Sheldon, IA 51201",restaurant,Sheldon,26.321819219124148,43.1786575,-95.8570557,Old 60 Steaks & Chops,6,"Sibley, IA",False,2,4.0,IA
+"1202 S Kniss Ave, Luverne, MN 56156",restaurant,Luverne,45.772054557418,43.6378593,-96.2141266,The Bluestem,23,"Sibley, IA",False,2,4.0,MN
+"240 N 8th Ave E, Hartley, IA 51346",restaurant,Hartley,32.955559260568826,43.1843496802291,-95.466468706727,Crazy Bob's,5,"Sibley, IA",False,2,3.0,IA
+"306 W Hatting St, Luverne, MN 56156",restaurant,Luverne,46.58680907923852,43.645655,-96.2136554,Vinnies Dang Fine Dine,16,"Sibley, IA",False,1,5.0,MN
+"608 2nd St, Jackson, MN 56143",restaurant,Jackson,65.91076486568292,43.6226081848145,-94.9874114990234,Kat's Hog Heaven,12,"Sibley, IA",False,1,4.5,MN
+"215 1st Ave, Rock Rapids, IA 51246",restaurant,Rock Rapids,34.31003628361704,43.43192,-96.16771,Sully's Grill,1,"Sibley, IA",False,-1,4.0,IA
+"222 Main St, Doon, IA 51235",restaurant,Doon,41.71184621208875,43.279101,-96.2332194,Doon Steak House,7,"Sibley, IA",False,-1,4.0,IA
+"2015 N Humiston Ave, Worthington, MN 56187",restaurant,Worthington,29.160042799614185,43.6400328,-95.5937012,Hickory Lodge Bar & Grill,10,"Sibley, IA",False,2,3.5,MN
+"Everly, IA 51338",restaurant,Everly,43.271101317980914,43.159839630127,-95.3250274658203,Barb's Corner,1,"Sibley, IA",False,-1,5.0,IA
+"418 10th St, Worthington, MN 56187",restaurant,Worthington,27.238469800113283,43.6208831,-95.5978728,El Taco,10,"Sibley, IA",False,1,5.0,MN
+"223 10th St, Worthington, MN 56187",restaurant,Worthington,27.125410466282386,43.6191699,-95.59641,La Azteca,16,"Sibley, IA",False,2,4.0,MN
+"120 W 7th St, Hwy 18, Sanborn, IA 51248",restaurant,Sanborn,24.866642100743316,43.1862120841907,-95.6569578770924,Jay's Restaurant and Lounge,4,"Sibley, IA",False,2,5.0,IA
+"135 S Green Ave, Primghar, IA 51245",restaurant,Primghar,36.1243429741896,43.0868834,-95.6285349,Baxterz Bar & Grill,1,"Sibley, IA",False,-1,5.0,IA

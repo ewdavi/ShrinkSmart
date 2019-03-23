@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1706 Jeffreys Dr, Osceola, IA 50213",convenience stores,Osceola,13.473771785577444,41.02729,-93.789346,Casey's General Store,3,"Murray, IA",False,1,3.0,IA
+"606 Walnut St, Des Moines, IA 50309",convenience stores,Des Moines,66.2718971429468,41.58544,-93.62502,Walgreens,6,"Murray, IA",False,2,3.5,IA
+"207 S Front St, Humeston, IA 50123",convenience stores,Humeston,42.92942274030201,40.857606,-93.4995549,Casey's General Store,1,"Murray, IA",False,-1,5.0,IA
+"420 Court Ave, Des Moines, IA 50309",convenience stores,Des Moines,66.28858151470159,41.58461387468,-93.6220497511848,Hy-Vee,42,"Murray, IA",False,2,3.5,IA
+"555 Walnut St, Ste 210, Des Moines, IA 50309",convenience stores,Des Moines,66.37949669987594,41.58631,-93.6241,Market Place,1,"Murray, IA",False,-1,4.0,IA
+"515 E Grand Ave, Des Moines, IA 50309",convenience stores,Des Moines,67.29000831822513,41.590633301355,-93.610725445747,New Oriental Food Store,17,"Murray, IA",False,1,4.5,IA
+"11925 University Ave, Clive, IA 50325",convenience stores,Clive,63.75263284175716,41.60107,-93.78218,QuikTrip,7,"Murray, IA",False,2,4.0,IA
+"1421 Ingersoll Ave, Des Moines, IA 50309",convenience stores,Des Moines,66.02534392086903,41.58683,-93.63655,QuikTrip,5,"Murray, IA",False,1,4.5,IA
+"2091 E Main St, Lamoni, IA 50140",convenience stores,Lamoni,46.72197983179909,40.6230485,-93.8965803,Kum & Go,5,"Murray, IA",False,-1,3.5,IA
+"4100 University Ave, Ste 260, West Des Moines, IA 50266",convenience stores,West Des Moines,63.910776915652114,41.5985553908381,-93.7611208195531,Whole Foods Market,65,"Murray, IA",False,2,4.0,IA
+"3805 6th Ave, Des Moines, IA 50313",convenience stores,Des Moines,70.81803206524552,41.629753,-93.624404,Linn's Super Market,5,"Murray, IA",False,2,4.0,IA
+"2002 Woodland Ave, Des Moines, IA 50312",convenience stores,Des Moines,65.85044795906997,41.58758,-93.64413,Gateway Market,172,"Murray, IA",False,2,4.0,IA
+"849 Army Post Rd, Des Moines, IA 50315",convenience stores,Des Moines,60.37354108536769,41.526717,-93.625031,QuikTrip,2,"Murray, IA",False,2,4.0,IA
+"8650 Hickman Rd, Clive, IA 50325",convenience stores,Clive,66.11895933935727,41.614331,-93.737159,Natural Grocers,14,"Murray, IA",False,2,4.5,IA
+"3005 100th St, Urbandale, IA 50322",convenience stores,Urbandale,66.64623109392089,41.621624,-93.7556,Wang's Asian Market,14,"Murray, IA",False,2,4.0,IA
+"530 N Ave, Norwalk, IA 50211",convenience stores,Norwalk,53.16242292990816,41.4752936,-93.6819061,Kum & Go,1,"Murray, IA",False,2,4.0,IA
+"1010 60th St, West Des Moines, IA 50266",convenience stores,West Des Moines,61.855912106711315,41.584968,-93.791191,Hy-Vee Drugstore,2,"Murray, IA",False,-1,4.0,IA
+"1203 Guthrie St, De Soto, IA 50069",convenience stores,De Soto,55.44016847316137,41.5376482,-94.0125451,Kum & Go,2,"Murray, IA",False,2,2.0,IA
+"3104 University Ave, Des Moines, IA 50311",convenience stores,Des Moines,66.64960784525952,41.600067,-93.6598549,Kum & Go,6,"Murray, IA",False,1,2.5,IA
+"1307 Army Post Rd, Des Moines, IA 50315",convenience stores,Des Moines,60.06839725055612,41.52679,-93.63333,Git-N-Go Convenience Stores,1,"Murray, IA",False,-1,4.0,IA

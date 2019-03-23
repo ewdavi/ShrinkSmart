@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"101 Olive St, Farmington, IA 52626",restaurant,Farmington,0.5236413638306023,40.6410713,-91.7442322,Bridge Cafe & Supper Club,2,"Farmington, IA",False,-1,3.5,IA
+"713 1st St, Bonaparte, IA 52620",restaurant,Bonaparte,8.589778331591965,40.6980077763455,-91.8033962314447,Bonaparte Retreat,10,"Farmington, IA",False,2,3.5,IA
+"1467 155th Ave, Donnellson, IA 52625",restaurant,Donnellson,16.42112941589513,40.751848,-91.613835,Mt Hamill Tap,10,"Farmington, IA",False,1,4.0,IA
+"1962 253rd St, Donnellson, IA 52625",restaurant,Donnellson,18.2393968765224,40.5913391113281,-91.5321350097656,Charleston Board of Trade,3,"Farmington, IA",False,-1,4.5,IA
+"1529 253rd St, Mount Pleasant, IA 52641",restaurant,Mount Pleasant,34.66473606912649,40.936126,-91.615254,River Rock Cafe,37,"Farmington, IA",False,1,4.0,IA
+"101 Elm St, Mount Sterling, IA 52573",restaurant,Mount Sterling,16.468088143086895,40.61781,-91.93225,AJs Bar and Grill,1,"Farmington, IA",False,-1,5.0,IA
+"719 1st St, Keosauqua, IA 52565",restaurant,Keosauqua,21.396714483769948,40.73077,-91.96186,First St Grille,6,"Farmington, IA",False,-1,4.0,IA
+"3065 Mississippi River Rd, Montrose, IA 52639",restaurant,Montrose,33.10994239668714,40.51319,-91.38352,Fat Jimmys Smoke House,14,"Farmington, IA",False,2,3.5,IA
+"3461 Main St, Keokuk, IA 52632",restaurant,Keokuk,36.949150429041794,40.4210161,-91.4087073,V's Restaurant & Brewpub,44,"Farmington, IA",False,2,4.0,IA
+"603 1st St, Keosauqua, IA 52565",restaurant,Keosauqua,21.417826309714723,40.72994,-91.96286,River Bend Pizza & Steakhouse,5,"Farmington, IA",False,-1,3.5,IA
+"900 N 5th St, Warsaw, IL 62379",restaurant,Warsaw,40.02158677399099,40.36111,-91.43481,Warsaw Brewery,3,"Farmington, IA",False,-1,4.5,IL
+"6111 Reve Ct, Fort Madison, IA 52627",restaurant,Fort Madison,29.107176024944014,40.62579,-91.3949,Buffalo61 Bar & Grille,10,"Farmington, IA",False,3,4.0,IA
+"1006 Main St, Keokuk, IA 52632",restaurant,Keokuk,39.83319659771178,40.3998289,-91.387768,Angelini's Ristorante Italiano,47,"Farmington, IA",False,2,4.5,IA
+"106 Main St, Keosauqua, IA 52565",restaurant,Keosauqua,21.35807462359727,40.72951,-91.96221,Misty's Malt Shop,14,"Farmington, IA",False,1,4.0,IA
+"RR 1 Box 185G, Arbela, MO 63432",restaurant,Arbela,30.573492479501777,40.4624,-92.01707,Catfish Place,5,"Farmington, IA",False,2,3.5,MO
+"2205 Mullholland St, Nauvoo, IL 62354",restaurant,Nauvoo,32.93545910925525,40.5497763837377,-91.3669395446777,Peter's Place,6,"Farmington, IA",False,1,3.5,IL
+"465 S Johnson St, Kahoka, MO 63445",restaurant,Kahoka,24.865787243363645,40.4168531,-91.7194551,Ice Cream Shoppe,2,"Farmington, IA",False,-1,4.0,MO
+"115 S Jefferson St, Kahoka, MO 63445",restaurant,Kahoka,24.371503010937904,40.4201749,-91.7232851,Kahoka Meat Processing & Deli,1,"Farmington, IA",False,-1,5.0,MO
+"18 S 5th St, Keokuk, IA 52632",restaurant,Keokuk,40.39185169856934,40.3955383300781,-91.3840866088867,Harrington's Restaurant,3,"Farmington, IA",False,-1,3.5,IA
+"1100 Main St, Keokuk, IA 52632",restaurant,Keokuk,39.739018558160076,40.4003932,-91.3886723,Getwell's Bar & Grill,21,"Farmington, IA",False,1,4.0,IA

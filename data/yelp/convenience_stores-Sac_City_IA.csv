@@ -1,0 +1,5 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"305 E 1st St, Early, IA 50535",convenience stores,Early,13.070837292431472,42.4599199,-95.14842,Casey's General Store,1,"Sac City, IA",False,-1,4.0,IA
+"711 E Main St, Lake City, IA 51449",convenience stores,Lake City,28.20350035199573,42.26732,-94.72568,Sparky's One Stop-Lake City,2,"Sac City, IA",False,2,4.0,IA
+"1211 9th St, Lake View, IA 51450",convenience stores,Lake View,12.822566948668445,42.310832,-95.040174,Sparky's One Stop-Lake View,2,"Sac City, IA",False,-1,3.0,IA
+"202 W Southern St, Sutherland, IA 51058",convenience stores,Sutherland,73.31776063872482,42.9681664,-95.4985123,Car-Go Express/Convenience Store,2,"Sac City, IA",False,-1,3.0,IA

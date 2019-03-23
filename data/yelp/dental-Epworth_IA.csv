@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"3430 Dodge St, Ste 21, Dubuque, IA 52003",dental,Dubuque,18.118753708121854,42.4915800428309,-90.7175311322632,Abbadent Family & Cosmetic Dentistry,3,"Epworth, IA",False,-1,3.5,IA
+"2728 Asbury Rd, Dubuque, IA 52001",dental,Dubuque,19.44157166002533,42.50919,-90.7085,Kuttler Dental Team,3,"Epworth, IA",False,-1,5.0,IA
+"3432 Dodge St, Dubuque, IA 52003",dental,Dubuque,17.978842044201787,42.4913988668247,-90.7192349325409,Aspen Dental,2,"Epworth, IA",False,-1,3.0,IA
+"4200 Asbury Rd, Dubuque, IA 52002",dental,Dubuque,17.79580967704074,42.5155917,-90.7339023,Exceptional Dentistry of the Tri-State Region,1,"Epworth, IA",False,-1,5.0,IA
+"1645 John F Kennedy Rd, Dubuque, IA 52002",dental,Dubuque,18.062819476322293,42.49942,-90.72161,Dubuque Pediatric Dentistry,1,"Epworth, IA",False,-1,5.0,IA
+"1303 Delhi St, Dubuque, IA 52001",dental,Dubuque,20.961854555067273,42.4987502,-90.684244,Kane Family Dentistry,1,"Epworth, IA",False,-1,5.0,IA
+"666 Loras Blvd, Dubuque, IA 52001",dental,Dubuque,21.75312882489131,42.5036392211914,-90.6763000488281,Solinger Family Dentistry,1,"Epworth, IA",False,-1,5.0,IA
+"2055 Holliday Dr, Ste 101, Dubuque, IA 52002",dental,Dubuque,16.85027518329482,42.5087623596191,-90.742301940918,Midwest Dental,1,"Epworth, IA",False,-1,5.0,IA
+"2100 Asbury Rd, Dubuque, IA 52001",dental,Dubuque,19.815501571731872,42.5059242248535,-90.7017211914062,Pines Family Dentistry,1,"Epworth, IA",False,-1,5.0,IA
+"100 Bryant St, Dubuque, IA 52003",dental,Dubuque,21.307767629091956,42.48909,-90.6765999,Great River OMS - Dubuque,2,"Epworth, IA",False,-1,3.0,IA
+"216 N Main St, Ste 1, Monticello, IA 52310",dental,Monticello,31.101150757671018,42.2394778579473,-91.1835716664791,Wolken Dental,1,"Epworth, IA",False,-1,5.0,IA
+"988 W 3rd St, Ste 107, Dubuque, IA 52001",dental,Dubuque,21.52212386007868,42.49421,-90.6756,Dubuque Endodontic Practice,3,"Epworth, IA",False,-1,3.5,IA
+"1250 N Water St, Platteville, WI 53818",dental,Platteville,50.46116493079295,42.74617,-90.46635,OakPark Dental,3,"Epworth, IA",False,-1,5.0,WI
+"4048 Glass Rd NE, Cedar Rapids, IA 52402",dental,Cedar Rapids,79.13582042873117,42.01861,-91.69787,River Ridge Dental,6,"Epworth, IA",False,-1,5.0,IA
+"820 S Marquette Rd, Prairie Du Chien, WI 53821",dental,Prairie Du Chien,68.27261842674764,43.041524,-91.139774,Dental Associates Of Prairie Du Chien,1,"Epworth, IA",False,-1,5.0,WI
+"4207 Glass Rd NE, Ste 2, Cedar Rapids, IA 52402",dental,Cedar Rapids,79.45627987624292,42.01643,-91.70052,Balster Pediatric Dentistry,3,"Epworth, IA",False,-1,5.0,IA
+"4141 Glass Rd NE, Cedar Rapids, IA 52402",dental,Cedar Rapids,79.32891060039665,42.01694,-91.6988,Horton Family Dental,1,"Epworth, IA",False,-1,5.0,IA
+"825 E Main St, Manchester, IA 52057",dental,Manchester,42.60186883725653,42.48375,-91.44693,Manchester Dental,1,"Epworth, IA",False,-1,1.0,IA
+"1700 Blairs Ferry Rd, Hiawatha, IA 52233",dental,Hiawatha,76.03326312419577,42.042283,-91.674439,Blair Ridge Dental,5,"Epworth, IA",False,-1,4.0,IA
+"4332 Center Point Rd NE, Cedar Rapids, IA 52402",dental,Cedar Rapids,76.72789765792623,42.02329,-91.6657,Dental Health Partners,1,"Epworth, IA",False,-1,5.0,IA

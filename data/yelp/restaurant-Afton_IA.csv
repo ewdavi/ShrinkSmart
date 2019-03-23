@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"302 N Douglas St, Afton, IA 50830",restaurant,Afton,0.2303623136923321,41.029545,-94.197815,Up In Smoke Bbq,9,"Afton, IA",False,1,4.0,IA
+"183 E Kansas, Afton, IA 50830",restaurant,Afton,0.1281260785004588,41.0285470037265,-94.1967002447121,El Ranchito,1,"Afton, IA",False,1,4.0,IA
+"119 N Walnut St, Creston, IA 50801",restaurant,Creston,14.209854920654479,41.0583822338837,-94.360089674592,Spencer's Chophouse,8,"Afton, IA",False,2,4.5,IA
+"3034 Clark Tower Rd, Winterset, IA 50273",restaurant,Winterset,24.381809582022157,41.2106381356716,-94.0329728275537,Podunk Center,1,"Afton, IA",False,-1,5.0,IA
+"400 W Taylor St, Creston, IA 50801",restaurant,Creston,14.437676683079724,41.0487922,-94.3653359920307,Casa De Oro,21,"Afton, IA",False,2,4.5,IA
+"129 N Pine St, Creston, IA 50801",restaurant,Creston,14.291856189642896,41.058342,-94.361107,Mario's Sports Bar & Grill,5,"Afton, IA",False,1,5.0,IA
+"102 W Taylor St, Creston, IA 50801",restaurant,Creston,14.191524819303702,41.0486,-94.36256,The Windrow,8,"Afton, IA",False,1,3.5,IA
+"61 E Jefferson St, Winterset, IA 50273",restaurant,Winterset,37.32682086768309,41.33556,-94.01406,Northside Cafe,58,"Afton, IA",False,2,4.0,IA
+"403 W Montgomery St, Creston, IA 50801",restaurant,Creston,14.659607786947204,41.0586749,-94.3652448,Elks Lodge & Club Rooms,1,"Afton, IA",False,-1,5.0,IA
+"802 W Taylor St, Creston, IA 50801",restaurant,Creston,15.013363603488036,41.04896,-94.3721,Creston Family Restaurant,8,"Afton, IA",False,1,3.0,IA
+"108 N Elm St, Creston, IA 50801",restaurant,Creston,14.522790370927487,41.05785,-94.36394,Elm's Club,8,"Afton, IA",False,1,4.0,IA
+"401 Maple St, Murray, IA 50174",restaurant,Murray,20.572449263997107,41.0410079956055,-93.9503936767578,Hometown Cafe,1,"Afton, IA",False,-1,5.0,IA
+"102 E Montgomery St, Creston, IA 50801",restaurant,Creston,14.279151059345233,41.05845,-94.36094,S & K Cafe,5,"Afton, IA",False,1,3.5,IA
+"108 E Iowa St, Greenfield, IA 50849",restaurant,Greenfield,37.87106943596557,41.3049527429765,-94.4601541757584,The Olive Branch,5,"Afton, IA",False,-1,4.0,IA
+"903 W Townline St, Creston, IA 50801",restaurant,Creston,15.685006215933909,41.07119,-94.37343,Chuong Garden Restaurant,6,"Afton, IA",False,-1,3.0,IA
+"104 NE 4th St, Decatur, IA 50067",restaurant,Decatur,44.25942686649848,40.740114,-93.832864,Dinky Diner,25,"Afton, IA",False,1,4.0,IA
+"1610 Jeffreys Dr, Osceola, IA 50213",restaurant,Osceola,34.16260450966079,41.0277621,-93.7875027,Nana Greer's Family Table Restaurant,45,"Afton, IA",False,1,3.5,IA
+"419 S 1st St, Winterset, IA 50273",restaurant,Winterset,36.910116829541074,41.3312006,-94.013161,Rudy's Restaurant,6,"Afton, IA",False,1,4.0,IA
+"315 W Adams St, Creston, IA 50801",restaurant,Creston,14.535600355364872,41.0574299,-94.36455,Jade Garden,2,"Afton, IA",False,-1,3.5,IA
+"302 SE Kent St, Greenfield, IA 50849",restaurant,Greenfield,37.57396805621394,41.3029766883541,-94.457722353343,Los Altos Mexican Restaurant,3,"Afton, IA",False,1,4.5,IA

@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"619 Davis Ave, Corning, IA 50841",restaurant,Corning,0.9127612455252224,40.9887025549612,-94.7345465874671,Primrose Restaurant,7,"Corning, IA",False,-1,4.5,IA
+"300 9th St, Corning, IA 50841",restaurant,Corning,0.947686909585873,40.991165112281,-94.7321927486878,Three C's Diner,5,"Corning, IA",False,1,4.0,IA
+"608 Davis Ave, Corning, IA 50841",restaurant,Corning,0.9472594707353532,40.9882428,-94.7342851,Kay's Kafe,1,"Corning, IA",False,-1,5.0,IA
+"716 Davis Ave, Corning, IA 50841",restaurant,Corning,0.9020896498184554,40.98918,-94.7342,Breadeaux Pizza,1,"Corning, IA",False,1,4.0,IA
+"617 Davis Ave, Corning, IA 50841",restaurant,Corning,0.9070016403884552,40.988639,-94.73471,Subway,2,"Corning, IA",False,1,2.5,IA

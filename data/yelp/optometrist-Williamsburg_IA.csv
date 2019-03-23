@@ -1,0 +1,12 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"224 E Main St, Marengo, IA 52301",optometrist,Marengo,15.0496794477217,41.8005,-92.0681,Iowa Valley Eye Care,1,"Williamsburg, IA",False,-1,5.0,IA
+"2900 Heartland Dr, Coralville, IA 52241",optometrist,Coralville,32.709329299747814,41.697404,-91.617348,Aria Eye Care,2,"Williamsburg, IA",False,-1,5.0,IA
+"1451 Coral Ridge Ave, Ste 518, Coralville, IA 52241",optometrist,Coralville,33.967767203466224,41.690949,-91.601543,Pearle Vision,1,"Williamsburg, IA",False,-1,5.0,IA
+"660 W Cherry St, North Liberty, IA 52317",optometrist,North Liberty,34.35944622739123,41.74998,-91.60865,Blink Vision By Veatch,1,"Williamsburg, IA",False,-1,5.0,IA
+"3225 Williams Pkwy SW, Ste 1, Cedar Rapids, IA 52404",optometrist,Cedar Rapids,40.27230264013421,41.9586868286133,-91.7121810913086,Fitzgerald & Associates,5,"Williamsburg, IA",False,-1,4.5,IA
+"1451 Coral Ridge Ave, Ste 104, Coralville, IA 52241",optometrist,Coralville,33.673696407166,41.690953,-91.605091,LensCrafters,2,"Williamsburg, IA",False,2,2.5,IA
+"1481 Coral Ridge Ave, Coralville, IA 52241",optometrist,Coralville,33.433758547515886,41.6918716,-91.6058197,Copeland Eyacare,1,"Williamsburg, IA",False,-1,5.0,IA
+"3005 Wiley Blvd SW, Cedar Rapids, IA 52404",optometrist,Cedar Rapids,38.94314525547074,41.948276,-91.7203679,America's Best Contacts & Eyeglasses,3,"Williamsburg, IA",False,-1,3.5,IA
+"3255 Williams Blvd SW, Cedar Rapids, IA 52404",optometrist,Cedar Rapids,40.23254386083174,41.959056854248,-91.7135238647461,Vision In Motion,1,"Williamsburg, IA",False,-1,5.0,IA
+"3225 Williams Pkwy SW, Cedar Rapids, IA 52404",optometrist,Cedar Rapids,40.27230264013421,41.9586868286133,-91.7121810913086,Fitzgerald Deann Dr OD,1,"Williamsburg, IA",False,-1,5.0,IA
+"3400 Edgewood Rd SW, Cedar Rapids, IA 52404",optometrist,Cedar Rapids,38.790314317386915,41.944797,-91.717447,Target Optical,2,"Williamsburg, IA",False,-1,1.0,IA

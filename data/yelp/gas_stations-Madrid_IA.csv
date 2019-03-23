@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1203 Guthrie St, De Soto, IA 50069",gas stations,De Soto,40.8028775008638,41.5376482,-94.0125451,Kum & Go,2,"Madrid, IA",False,2,2.0,IA
+"1200 N Walnut St, Colfax, IA 50054",gas stations,Colfax,52.198038240062075,41.686408996582,-93.2465133666992,Kum & Go,3,"Madrid, IA",False,2,3.5,IA
+"203 Welch Ave, Ames, IA 50010",gas stations,Ames,21.543978589685196,42.0213737487793,-93.6502227783203,Kum & Go,2,"Madrid, IA",False,-1,3.0,IA
+"303 W Broadway St, Polk City, IA 50226",gas stations,Polk City,14.683369393504572,41.771827,-93.7137901,Kum & Go,1,"Madrid, IA",False,2,5.0,IA
+"3603 NE Otter View Cir, Ankeny, IA 50021",gas stations,Ankeny,24.393310534093438,41.7613717,-93.5716395,Kum & Go,5,"Madrid, IA",False,2,3.5,IA
+"1421 Ingersoll Ave, Des Moines, IA 50309",gas stations,Des Moines,35.674777827781995,41.58683,-93.63655,QuikTrip,5,"Madrid, IA",False,1,4.5,IA
+"5308 University Ave, West Des Moines, IA 50266",gas stations,West Des Moines,30.896720023109797,41.6001296,-93.7789262,Kum & Go,3,"Madrid, IA",False,1,4.5,IA
+"1400 Industrial Park Rd, Ellsworth, IA 50075",gas stations,Ellsworth,52.55487366192019,42.3113351867892,-93.5742956712918,Love's Travel Stop,3,"Madrid, IA",False,-1,4.5,IA
+"5901 Mills Civic Pkwy, West Des Moines, IA 50266",gas stations,West Des Moines,35.27402435354057,41.5599312,-93.7874919,Kum & Go,4,"Madrid, IA",False,2,4.5,IA
+"3040 220th St, Williams, IA 50271",gas stations,Williams,69.23183967329767,42.4703646750988,-93.572019618831,Flying J Travel Center,9,"Madrid, IA",False,-1,4.0,IA
+"7265 Vista Dr, West Des Moines, IA 50266",gas stations,West Des Moines,31.91232475094952,41.5892921,-93.8078504,Kum & Go,5,"Madrid, IA",False,2,3.0,IA
+"1300 Keo Way, Des Moines, IA 50309",gas stations,Des Moines,35.04308152472261,41.59392,-93.6345,Kum & Go,3,"Madrid, IA",False,1,5.0,IA
+"2801 E 13th St, Ames, IA 50010",gas stations,Ames,26.971782147016366,42.0345587,-93.575628,Kum & Go,4,"Madrid, IA",False,1,3.5,IA
+"802 E 1st St, Ankeny, IA 50021",gas stations,Ankeny,25.264884427242077,41.7323379516602,-93.5863265991211,QuikTrip,8,"Madrid, IA",False,1,4.5,IA
+"1880 SE Princeton Dr, Grimes, IA 50111",gas stations,Grimes,22.901308363687754,41.673471,-93.772943,Kum & Go,2,"Madrid, IA",False,2,4.0,IA
+"11925 University Ave, Clive, IA 50325",gas stations,Clive,30.78849455619929,41.60107,-93.78218,QuikTrip,7,"Madrid, IA",False,2,4.0,IA
+"3231 Adventureland Dr, Altoona, IA 50009",gas stations,Altoona,35.97292737030887,41.660171,-93.499532,Flying J Travel Center,14,"Madrid, IA",False,-1,3.0,IA
+"1010 SE Oralabor Rd, Ankeny, IA 50021",gas stations,Ankeny,27.671287893116077,41.70355,-93.58201,Casey's General Store,8,"Madrid, IA",False,2,4.0,IA
+"1310 NW 18th St, Ankeny, IA 50023",gas stations,Ankeny,22.30329696363134,41.74683,-93.61679,Casey's,3,"Madrid, IA",False,2,4.0,IA
+"1501 E Grand Ave, Des Moines, IA 50316",gas stations,Des Moines,36.669398362562546,41.5935599,-93.59464,QuikTrip,1,"Madrid, IA",False,1,4.0,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"320 1st Ave NE, Buffalo Center, IA 50424",restaurants,Buffalo Center,0.3794058009870917,43.3855361938477,-93.9423065185547,Driver's Choice Restaurant,2,"Buffalo Center, IA",False,-1,2.5,IA
+"135 Jackson St, Thompson, IA 50478",restaurants,Thompson,14.183350355414914,43.370739,-93.7709274,Branding Iron,5,"Buffalo Center, IA",False,2,4.5,IA
+"1400 N State St, Fairmont, MN 56031",restaurants,Fairmont,50.94933345632319,43.667098376714,-94.4469074287095,Bean Town Grill,38,"Buffalo Center, IA",False,2,4.5,MN
+"D5-G4-06, Solaris Dutamas, Jalan Dutamas, 50480 Kuala Lumpur, Malaysia",restaurants,Kuala Lumpur,18.757872463256206,43.2386807,-94.0491077,Zender's Restaurant and Bar,1,"Buffalo Center, IA",False,-1,5.0,14
+"1430 Giant Dr, Blue Earth, MN 56013",restaurants,Blue Earth,32.11200941027361,43.65617,-94.09762,Country Kitchen,16,"Buffalo Center, IA",False,1,4.0,MN
+"14 N 3rd St, Clear Lake, IA 50428",restaurants,Clear Lake,53.49472310938137,43.13652,-93.38218,Fieldhouse,12,"Buffalo Center, IA",False,3,4.5,IA
+"23 N Main St, Sherburn, MN 56171",restaurants,Sherburn,69.59722270605536,43.6528663635254,-94.7278442382812,Cup & Saucer & Sweet Shoppe,13,"Buffalo Center, IA",False,2,5.0,MN
+"208 N Clark St, Forest City, IA 50436",restaurants,Forest City,28.378841401986296,43.26474,-93.6383133,Ay Jalisco,12,"Buffalo Center, IA",False,2,4.5,IA
+"100 E Maine St, Amboy, MN 56010",restaurants,Amboy,58.082785429698966,43.8882294,-94.1582031,The Amboy Cottage Cafe,16,"Buffalo Center, IA",False,2,5.0,MN
+"224 W Main St, Lake Mills, IA 50450",restaurants,Lake Mills,33.28202868123002,43.4193617,-93.5345516,Teluwut Grille House & Pub,7,"Buffalo Center, IA",False,2,3.5,IA
+"218 Main St, Walters, MN 56097",restaurants,Walters,32.58309729842306,43.6063329130411,-93.6731725931168,R&R Roadhouse Bar & Grill,2,"Buffalo Center, IA",False,-1,4.5,MN
+"Hwys 18 & 169, Algona, IA 50511",restaurants,Algona,41.46679468779491,43.08281,-94.23621,Chrome Country Inn,5,"Buffalo Center, IA",False,1,5.0,IA
+"777 Diamond Jo Ln, Northwood, IA 50459",restaurants,Northwood,48.28998441418164,43.44707,-93.35246,Woodfire Grille,7,"Buffalo Center, IA",False,3,4.0,IA
+"10 S Federal Ave, Mason City, IA 50401",restaurants,Mason City,65.70390410139137,43.15142,-93.20152,The Quarry Restaurant,54,"Buffalo Center, IA",False,2,4.5,IA
+"Highway 69, Leland, IA 50453",restaurants,Leland,25.107213266112367,43.4138720951326,-93.6355210840702,Mitchell's,3,"Buffalo Center, IA",False,-1,3.5,IA
+"4 E State St, Algona, IA 50511",restaurants,Algona,42.82312675022079,43.068531036377,-94.2377319335938,Billie Jo's Bar and Grill,10,"Buffalo Center, IA",False,2,4.5,IA
+"1021 Broadway, Emmetsburg, IA 50536",restaurants,Emmetsburg,67.08280737079149,43.11024,-94.679,Kimbucks Cuisine,4,"Buffalo Center, IA",False,1,4.5,IA
+"324 N Grove St, Blue Earth, MN 56013",restaurants,Blue Earth,30.399159714859735,43.6411105,-94.0909104,Cedar Inn,2,"Buffalo Center, IA",False,1,5.0,MN
+"115 E 6th St, Blue Earth, MN 56013",restaurants,Blue Earth,30.520909689506176,43.6388953723366,-94.1016213958624,Double Play,7,"Buffalo Center, IA",False,1,3.5,MN
+"310 E 8th St, Albert Lea, MN 56007",restaurants,Albert Lea,54.14169157216697,43.6350151,-93.3652394,The Elbow Room,29,"Buffalo Center, IA",False,1,4.5,MN

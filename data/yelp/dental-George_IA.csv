@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"6301 S Minnesota Ave, Ste 100, Sioux Falls, SD 57108",dental,Sioux Falls,60.84038816888442,43.4870415,-96.7289115,Sensational Smiles,7,"George, IA",False,-1,5.0,SD
+"1110 W 5th St, Canton, SD 57013",dental,Canton,49.000282804127764,43.3015217,-96.6058296,Canton Dental Clinic,1,"George, IA",False,-1,5.0,SD
+"5201 S Western Ave, Sioux Falls, SD 57108",dental,Sioux Falls,62.59223491589208,43.4957444,-96.7481359,South Western Dental,5,"George, IA",False,-1,3.5,SD
+"5120 S Cliff Ave, Sioux Falls, SD 57108",dental,Sioux Falls,59.49688222603278,43.4970182,-96.7076885,Van Hofwegen Dental,1,"George, IA",False,-1,5.0,SD
+"5200 S Cliff Ave, Ste 102, Sioux Falls, SD 57108",dental,Sioux Falls,59.43024056395562,43.496553,-96.706963,Wermerson Orthodontics,2,"George, IA",False,-1,5.0,SD
+"3500 S Kiwanis Ave, Sioux Falls, SD 57105",dental,Sioux Falls,63.923519072519944,43.5127258300781,-96.758544921875,Tri-State Endodontics DMD PC,3,"George, IA",False,-1,5.0,SD
+"518 N Sycamore Ave, Sioux Falls, SD 57110",dental,Sioux Falls,58.75121921464489,43.55204,-96.67039,East Ridge Dental,1,"George, IA",False,-1,5.0,SD
+"5121 S Solberg Ave, Ste 120, Sioux Falls, SD 57108",dental,Sioux Falls,57.245086812810065,43.4701134314978,-96.6889572143555,Great Plains Dental,6,"George, IA",False,-1,3.5,SD
+"120 Cliff Ave, Harrisburg, SD 57032",dental,Harrisburg,61.608542740364314,43.4321741,-96.7075551,Neighborhood Dental,1,"George, IA",False,-1,5.0,SD
+"117 E Holly Blvd, Brandon, SD 57005",dental,Brandon,55.125618595957185,43.5942780679176,-96.5906126617318,Wehrkamp Dentistry,1,"George, IA",False,-1,4.0,SD
+"4501 E 41st St, Dental Comfort Center, Sioux Falls, SD 57110",dental,Sioux Falls,57.25897679133037,43.51443,-96.6707,"Cody Henrikse, DDS",1,"George, IA",False,-1,4.0,SD
+"6908 S Lyncrest Pl, Sioux Falls, SD 57108",dental,Sioux Falls,60.643202385263024,43.4820633,-96.7292709,ABC Pediatric Dentistry,1,"George, IA",False,-1,5.0,SD
+"4921 E 26th St, Sioux Falls, SD 57110",dental,Sioux Falls,57.34660184670408,43.52865,-96.66471,"Edward R Kusek, DDS",1,"George, IA",False,-1,3.0,SD
+"3517 W 57th St, Sioux Falls, SD 57108",dental,Sioux Falls,64.3605620812001,43.4998557,-96.7693149,Advanced Dental,2,"George, IA",False,-1,3.5,SD
+"6104 S Lyncrest Ave, Sioux Falls, SD 57108",dental,Sioux Falls,60.937460761808595,43.489235,-96.729335,Dental Wellness,2,"George, IA",False,-1,5.0,SD
+"5208 W 26th St, Sioux Falls, SD 57106",dental,Sioux Falls,66.90819062718752,43.5295846,-96.7896692,Pillar Dental,1,"George, IA",False,-1,5.0,SD
+"3813 S Kiwanis Cir, Sioux Falls, SD 57105",dental,Sioux Falls,63.877152768752005,43.5087572,-96.7595349,Children's Dental Center,3,"George, IA",False,-1,2.5,SD
+"810 Central Ave, Hawarden, IA 51023",dental,Hawarden,54.94761951082606,42.9948501586914,-96.4847717285156,Family 1st Dental - Hawarden,1,"George, IA",False,-1,1.0,IA
+"5701 S Remington Pl, Sioux Falls, SD 57108",dental,Sioux Falls,62.53919069404528,43.492347,-96.748649,Karmazin Dental,3,"George, IA",False,-1,2.5,SD
+"3610 S Western Ave, Sioux Falls, SD 57105",dental,Sioux Falls,63.27113993033881,43.510997,-96.750427,Dental Essence,3,"George, IA",False,-1,4.0,SD

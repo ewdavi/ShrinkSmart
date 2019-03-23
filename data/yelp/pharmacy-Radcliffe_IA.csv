@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"2719 Grand Ave, Ames, IA 50010",pharmacy,Ames,33.611287476010475,42.048965,-93.621231,Walgreens,5,"Radcliffe, IA",False,2,4.5,IA
+"621 Broad St, Story City, IA 50248",pharmacy,Story City,19.602901551265923,42.1874122619629,-93.5947952270508,Story City Pharmacy,1,"Radcliffe, IA",False,2,3.0,IA
+"2709 Northridge Pkwy, Ames, IA 50014",pharmacy,Ames,34.60351087722764,42.04878,-93.64585,Somerset Pharmacy,2,"Radcliffe, IA",False,1,4.5,IA
+"840 S Oak St, Iowa Falls, IA 50126",pharmacy,Iowa Falls,25.022210833592514,42.50297,-93.26228,Clinic Pharmacy,1,"Radcliffe, IA",False,-1,3.0,IA
+"1602 Edgington Ave, Eldora, IA 50627",pharmacy,Eldora,27.640245744436925,42.3608818054199,-93.1032485961914,Medicap Pharmacy,1,"Radcliffe, IA",False,-1,4.0,IA
+"640 Lincoln Way, Ames, IA 50010",pharmacy,Ames,36.465446262514895,42.0227623,-93.6194763,Hy-Vee Food Stores - west ames,12,"Radcliffe, IA",False,2,4.0,IA
+"3800 Lincoln Way, Ames, IA 50014",pharmacy,Ames,38.2056435786057,42.022618,-93.671955,Hy-Vee,14,"Radcliffe, IA",False,2,3.5,IA
+"640 Lincoln Way, Ames, IA 50010",pharmacy,Ames,36.465446262514895,42.0227623,-93.6194763,Hy-Vee Pharmacies,1,"Radcliffe, IA",False,1,1.0,IA
+"640 Lincoln Way, Ames, IA 50010",pharmacy,Ames,36.465446262514895,42.0227623,-93.6194763,Hy-Vee Food & Drug Stores,1,"Radcliffe, IA",False,1,5.0,IA
+"2420 Lincoln Way, Ames, IA 50014",pharmacy,Ames,37.31807216628544,42.0225123272262,-93.6499174343586,CVS Pharmacy,1,"Radcliffe, IA",False,-1,4.0,IA
+"500 Main St, Ames, IA 50010",pharmacy,Ames,35.86510055115162,42.0248933074596,-93.6169910430908,Hy-Vee Drugstore,3,"Radcliffe, IA",False,3,4.0,IA
+"901 N Ankeny Blvd, Ankeny, IA 50023",pharmacy,Ankeny,65.7519085872034,41.73904,-93.59936,Walgreens,8,"Radcliffe, IA",False,3,3.0,IA
+"107 NE Delaware Ave, Ankeny, IA 50021",pharmacy,Ankeny,66.19511593509363,41.73245,-93.5808799,Medicap Pharmacy,2,"Radcliffe, IA",False,2,4.5,IA
+"303 Nicholas Dr, Marshalltown, IA 50158",pharmacy,Marshalltown,54.17728263651024,42.0152708,-92.9185267,Hy Vee Drugstore Clinic,1,"Radcliffe, IA",False,-1,5.0,IA
+"104 E First St, Ankeny, IA 50023",pharmacy,Ankeny,66.50823463011174,41.7325,-93.601,CVS Pharmacy,3,"Radcliffe, IA",False,2,3.5,IA
+"310 Story St, Boone, IA 50036",pharmacy,Boone,46.59066668321998,42.05912,-93.8794999,Walgreens,1,"Radcliffe, IA",False,-1,3.0,IA
+"1215 141st St, Perry, IA 50220",pharmacy,Perry,77.53639089712057,41.82892,-94.10262,Hy-Vee Food Store,2,"Radcliffe, IA",False,-1,4.0,IA
+"2117 Philadelphia St, Ste 120, Ames, IA 50010",pharmacy,Ames,33.66436139519408,42.035831451416,-93.5840148925781,Choice Medical,2,"Radcliffe, IA",False,3,2.0,IA
+"621 G Ave, Grundy Center, IA 50638",pharmacy,Grundy Center,54.65368422492394,42.3618393,-92.7721634,Manly Drug Store,1,"Radcliffe, IA",False,-1,1.0,IA
+"534 S Duff Ave, Ames, IA 50010",pharmacy,Ames,36.42183832880464,42.0161278,-93.606957,Walmart Supercenter,14,"Radcliffe, IA",False,1,2.5,IA

@@ -1,0 +1,15 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1515 S 16th St, Clarinda, IA 51632",restaurant,Clarinda,1.7912445593422606,40.7232322692871,-95.0386047363281,Clarinda Ice House,17,"Clarinda, IA",False,2,4.0,IA
+"120 S 15th St, Clarinda, IA 51632",restaurant,Clarinda,0.23168090410013192,40.737489,-95.036138,Down Right Delicious,3,"Clarinda, IA",False,2,5.0,IA
+"117 N 15th, Clarinda, IA 51632",restaurant,Clarinda,0.16900204113480125,40.73887,-95.03609,J Bruners Clarinda,8,"Clarinda, IA",False,3,4.0,IA
+"108 E Washington St, Clarinda, IA 51632",restaurant,Clarinda,0.2843034135501491,40.7395799,-95.03734,J's Pizza & Steak House,9,"Clarinda, IA",False,1,4.0,IA
+"106 N 16th St, Clarinda, IA 51632",restaurant,Clarinda,0.32822870915303265,40.738579,-95.038011,The Garrison,6,"Clarinda, IA",False,-1,5.0,IA
+"112 E Washington St, Clarinda, IA 51632",restaurant,Clarinda,0.25889549766123554,40.7395799,-95.03709,Robin's Nest Cafe And Bakery,1,"Clarinda, IA",False,1,5.0,IA
+"221 1/2 N 16th St, Clarinda, IA 51632",restaurant,Clarinda,0.3267121907411575,40.7400412650202,-95.0377269060459,Mi Casita,3,"Clarinda, IA",False,-1,4.5,IA
+"112 E Washington St, Clarinda, IA 51632",restaurant,Clarinda,0.25889549766123554,40.7395782,-95.0370865,Vaughn's Cafe And Bakery,4,"Clarinda, IA",False,1,4.0,IA
+"1521 E Washington St, Clarinda, IA 51632",restaurant,Clarinda,1.4272172021091967,40.7390444,-95.0172023,China Express Restaurants,1,"Clarinda, IA",False,1,4.0,IA
+"822 E Washington St, Clarinda, IA 51632",restaurant,Clarinda,0.5315420782276046,40.73975,-95.02793,Chinese Restaurant,3,"Clarinda, IA",False,1,3.0,IA
+"1108 S 16th St, Clarinda, IA 51632",restaurant,Clarinda,1.2503080303803957,40.7279508,-95.0376751,Runza Restaurant,1,"Clarinda, IA",False,-1,3.0,IA
+"1320 S 16th St, Clarinda, IA 51632",restaurant,Clarinda,1.5221432844976461,40.7254207148222,-95.0371243675382,Pizza Hut,3,"Clarinda, IA",False,1,3.0,IA
+"1202 S 16th St, Clarinda, IA 51632",restaurant,Clarinda,1.3869296940087354,40.7266581189008,-95.0371442735195,McDonald's,2,"Clarinda, IA",False,1,4.0,IA
+"1108 S 16th St, Clarinda, IA 51632",restaurant,Clarinda,1.2503080303803957,40.727951,-95.037674,Subway,2,"Clarinda, IA",False,-1,3.0,IA

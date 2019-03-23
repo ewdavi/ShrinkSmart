@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"714 South East St, Pomeroy, IA 50575",restaurant,Pomeroy,0.8655496684940757,42.5430483275857,-94.6785463392735,The Co-Op Bar & Grill,1,"Pomeroy, IA",False,-1,5.0,IA
+"112 S Main St, Pomeroy, IA 50575",restaurant,Pomeroy,0.6379420515101936,42.55079,-94.68564,Byron's,1,"Pomeroy, IA",False,1,5.0,IA
+"1029 Main St, Manson, IA 50563",restaurant,Manson,11.998283667589629,42.53004,-94.53389,Shoreside Pub & Grub,3,"Pomeroy, IA",False,2,4.5,IA
+"1004 Main St, Manson, IA 50563",restaurant,Manson,11.955474798567844,42.5294,-94.53458,Big Beve's Bar & Grill,1,"Pomeroy, IA",False,-1,5.0,IA
+"6903 Twin Lakes Rd, Rockwell City, IA 50579",restaurant,Rockwell City,9.167403109066797,42.4738769620254,-94.6373626962304,Twin Lakes Grocery & Grill,1,"Pomeroy, IA",False,2,5.0,IA

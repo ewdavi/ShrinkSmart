@@ -1,0 +1,5 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"14 N 8th St, Clear Lake, IA 50428",optometrist,Clear Lake,7.088872641477602,43.137896,-93.3786351,Clear Lake Optometry,2,"Ventura, IA",False,-1,4.0,IA
+"3121 4th St SW, Mason City, IA 50401",optometrist,Mason City,17.75874876340899,43.14745,-93.24775,North Iowa Eye Clinic,1,"Ventura, IA",False,-1,4.0,IA
+"2610 Bridge Ave, Albert Lea, MN 56007",optometrist,Albert Lea,62.172926512854595,43.68288,-93.35702,Shopko,2,"Ventura, IA",False,-1,1.0,MN
+"318 N Main St, Austin, MN 55912",optometrist,Austin,71.86937873137485,43.6685593350863,-92.9747890681028,InnoVision Eyecare,1,"Ventura, IA",False,-1,5.0,MN

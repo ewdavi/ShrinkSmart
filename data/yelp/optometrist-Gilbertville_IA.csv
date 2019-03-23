@@ -1,0 +1,11 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1409 W 1st St, Cedar Falls, IA 50613",optometrist,Cedar Falls,24.350298170818302,42.53811,-92.46245,Cedar Valley Eye Care,3,"Gilbertville, IA",False,-1,4.5,IA
+"2027 Crossroads Blvd, Waterloo, IA 50702",optometrist,Waterloo,10.332868462864788,42.4662365720999,-92.3219132423401,All About Eyes - Waterloo,1,"Gilbertville, IA",False,2,3.0,IA
+"1501 E San Marnan Dr, Waterloo, IA 50702",optometrist,Waterloo,10.728998802461325,42.465794,-92.327829,Target Optical,4,"Gilbertville, IA",False,2,4.0,IA
+"4521 Chadwick Rd, Ste 1, Cedar Falls, IA 50613",optometrist,Cedar Falls,18.446288278730794,42.4970998,-92.4118677,"Anthony D Bailey, OD",3,"Gilbertville, IA",False,-1,3.0,IA
+"2018 Sears Street, Waterloo, IA 50702",optometrist,Waterloo,10.34845464739431,42.4647062390668,-92.3233360309167,Vision4Less,3,"Gilbertville, IA",False,-1,1.0,IA
+"513 1st Ave, Vinton, IA 52349",optometrist,Vinton,32.11168044343523,42.1660766601562,-92.0246734619141,Martin Eye Clinic OD,1,"Gilbertville, IA",False,-1,5.0,IA
+"6301 University Ave, Ofc, Cedar Falls, IA 50613",optometrist,Cedar Falls,20.888971851281234,42.5107688,-92.435688,Krieger & Associates,2,"Gilbertville, IA",False,-1,1.0,IA
+"2515 Cyclone Dr, Waterloo, IA 50701",optometrist,Waterloo,16.850809637940227,42.4683272,-92.407726,Mauer Eye Center,3,"Gilbertville, IA",False,4,1.0,IA
+"6301 University Ave, Ofc, Cedar Falls, IA 50613",optometrist,Cedar Falls,20.731422195340915,42.512447,-92.432179,LensCrafters,2,"Gilbertville, IA",False,2,2.5,IA
+"516 Division St, Ste 120, Cedar Falls, IA 50613",optometrist,Cedar Falls,23.826685344386252,42.533769,-92.458798,Wolfe Eye Clinic- Cedar Falls,2,"Gilbertville, IA",False,-1,1.0,IA

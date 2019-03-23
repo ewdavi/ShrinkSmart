@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"606 Walnut St, Des Moines, IA 50309",convenience stores,Des Moines,78.09504442848883,41.58544,-93.62502,Walgreens,6,"Afton, IA",False,2,3.5,IA
+"420 Court Ave, Des Moines, IA 50309",convenience stores,Des Moines,78.17228302886163,41.58461387468,-93.6220497511848,Hy-Vee,42,"Afton, IA",False,2,3.5,IA
+"555 Walnut St, Ste 210, Des Moines, IA 50309",convenience stores,Des Moines,78.20850590913291,41.58631,-93.6241,Market Place,1,"Afton, IA",False,-1,4.0,IA
+"207 S Front St, Humeston, IA 50123",convenience stores,Humeston,61.4660389294191,40.857606,-93.4995549,Casey's General Store,1,"Afton, IA",False,-1,5.0,IA
+"11925 University Ave, Clive, IA 50325",convenience stores,Clive,72.35897316685964,41.60107,-93.78218,QuikTrip,7,"Afton, IA",False,2,4.0,IA
+"1706 Jeffreys Dr, Osceola, IA 50213",convenience stores,Osceola,34.0478038741046,41.02729,-93.789346,Casey's General Store,3,"Afton, IA",False,1,3.0,IA
+"515 E Grand Ave, Des Moines, IA 50309",convenience stores,Des Moines,79.28001820517514,41.590633301355,-93.610725445747,New Oriental Food Store,17,"Afton, IA",False,1,4.5,IA
+"1421 Ingersoll Ave, Des Moines, IA 50309",convenience stores,Des Moines,77.63290201977122,41.58683,-93.63655,QuikTrip,5,"Afton, IA",False,1,4.5,IA
+"2091 E Main St, Lamoni, IA 50140",convenience stores,Lamoni,51.649741467274325,40.6230485,-93.8965803,Kum & Go,5,"Afton, IA",False,-1,3.5,IA
+"4100 University Ave, Ste 260, West Des Moines, IA 50266",convenience stores,West Des Moines,72.98826251956905,41.5985553908381,-93.7611208195531,Whole Foods Market,65,"Afton, IA",False,2,4.0,IA
+"1203 Guthrie St, De Soto, IA 50069",convenience stores,De Soto,58.5971793931203,41.5376482,-94.0125451,Kum & Go,2,"Afton, IA",False,2,2.0,IA
+"2002 Woodland Ave, Des Moines, IA 50312",convenience stores,Des Moines,77.31992372058188,41.58758,-93.64413,Gateway Market,172,"Afton, IA",False,2,4.0,IA
+"8650 Hickman Rd, Clive, IA 50325",convenience stores,Clive,75.50739424673682,41.614331,-93.737159,Natural Grocers,14,"Afton, IA",False,2,4.5,IA
+"3005 100th St, Urbandale, IA 50322",convenience stores,Urbandale,75.57934528552765,41.621624,-93.7556,Wang's Asian Market,14,"Afton, IA",False,2,4.0,IA
+"1010 60th St, West Des Moines, IA 50266",convenience stores,West Des Moines,70.43332703933572,41.584968,-93.791191,Hy-Vee Drugstore,2,"Afton, IA",False,-1,4.0,IA
+"3104 University Ave, Des Moines, IA 50311",convenience stores,Des Moines,77.67472547090587,41.600067,-93.6598549,Kum & Go,6,"Afton, IA",False,1,2.5,IA
+"849 Army Post Rd, Des Moines, IA 50315",convenience stores,Des Moines,73.04058626913137,41.526717,-93.625031,QuikTrip,2,"Afton, IA",False,2,4.0,IA
+"7265 Vista Dr, West Des Moines, IA 50266",convenience stores,West Des Moines,70.21562662996733,41.5892921,-93.8078504,Kum & Go,5,"Afton, IA",False,2,3.0,IA
+"530 N Ave, Norwalk, IA 50211",convenience stores,Norwalk,65.61760625772709,41.4752936,-93.6819061,Kum & Go,1,"Afton, IA",False,2,4.0,IA
+"1307 Army Post Rd, Des Moines, IA 50315",convenience stores,Des Moines,72.59288506336247,41.52679,-93.63333,Git-N-Go Convenience Stores,1,"Afton, IA",False,-1,4.0,IA

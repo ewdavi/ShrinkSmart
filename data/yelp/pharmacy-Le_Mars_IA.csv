@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1111 Holton Dr, Le Mars, IA 51031",pharmacy,Le Mars,0.4708417259455028,42.7818016,-96.1876388,Walmart Supercenter,7,"Le Mars, IA",False,2,3.5,IA
+"2729 Outer Dr N, Sioux City, IA 51104",pharmacy,Sioux City,31.419015854775378,42.536771,-96.373251,Leeds Northside Pharmacy,3,"Le Mars, IA",False,-1,5.0,IA
+"111 S Washington St, Remsen, IA 51050",pharmacy,Remsen,17.450569371846367,42.8155251,-95.9731064,Remsen Pharmacy,1,"Le Mars, IA",False,2,5.0,IA
+"104 Albany Ave NE, Orange City, IA 51041",pharmacy,Orange City,27.005734098211438,43.0068359375,-96.05712890625,Dutch Mill Pharmacy,1,"Le Mars, IA",False,-1,2.0,IA
+"1900 Hamilton Blvd, Sioux City, IA 51104",pharmacy,Sioux City,35.67296038231755,42.510704,-96.4164963,Walgreens Pharmacy,1,"Le Mars, IA",False,1,5.0,IA
+"911 W 7th St, Sioux City, IA 51103",pharmacy,Sioux City,36.497861321961196,42.50347,-96.4186299,Thompson Dean Drug,1,"Le Mars, IA",False,-1,5.0,IA
+"2501 Cornhusker Dr, South Sioux City, NE 68776",pharmacy,South Sioux City,40.52469566900377,42.46586,-96.42766,Hy-Vee,3,"Le Mars, IA",False,1,5.0,NE
+"2627 Pierce St, Mainstreet, Sioux City, IA 51104",pharmacy,Sioux City,34.61112815438459,42.5174961741306,-96.4054343919234,Hy-Vee,4,"Le Mars, IA",False,2,5.0,IA
+"4010 Morningside Ave, Sioux City, IA 51106",pharmacy,Sioux City,37.43714022145103,42.470285,-96.355506,Drilling Pharmacy,1,"Le Mars, IA",False,-1,5.0,IA
+"105 Gaul Dr, Ste A, Sergeant Bluff, IA 51054",pharmacy,Sergeant Bluff,44.73835995446468,42.3993005,-96.3514466,Sergeant Bluff Pharmacy,2,"Le Mars, IA",False,-1,5.0,IA
+"4650 Morningside Ave, Sioux City, IA 51106",pharmacy,Sioux City,37.22963885849885,42.4698295593262,-96.3471221923828,Walgreens,2,"Le Mars, IA",False,2,5.0,IA
+"107 Main E, Elk Point, SD 57025",pharmacy,Elk Point,42.3935185573815,42.686104,-96.684317,Edgar's,2,"Le Mars, IA",False,1,5.0,SD
+"1030 W 21St St, South Sioux City, NE 68776",pharmacy,South Sioux City,40.08113604800405,42.4697851,-96.4228594,Walgreens,1,"Le Mars, IA",False,1,4.0,NE
+"3301 Gordon Dr, Sioux City, IA 51105",pharmacy,Sioux City,35.78642782760764,42.4888615778355,-96.3630928085523,Hy-Vee Gordon Dr,4,"Le Mars, IA",False,2,4.0,IA
+"4500 Sergeant Rd, Southern Hills Mall, Sioux City, IA 51106",pharmacy,Sioux City,39.742501768473936,42.4458744,-96.3477866,Hy-Vee,7,"Le Mars, IA",False,2,3.0,IA
+"3400 Singing Hills Blvd, Sioux City, IA 51106",pharmacy,Sioux City,41.47147741452437,42.4335878,-96.3634497,Walmart Supercenter,1,"Le Mars, IA",False,-1,1.0,IA
+"2442 Transit Ave, Sioux City, IA 51106",pharmacy,Sioux City,37.63755190767582,42.4755712598562,-96.3776184618473,Valumed Pharmacy,1,"Le Mars, IA",False,-1,2.0,IA
+"2827 Hamilton Blvd, Sioux City, IA 51104",pharmacy,Sioux City,34.978680405868644,42.5201119522457,-96.4192528269837,Hy-Vee,7,"Le Mars, IA",False,2,3.5,IA
+"4450 Sergeant Rd, Sioux City, IA 51106",pharmacy,Sioux City,39.5540379450337,42.4477151781321,-96.3479565829039,Hy-Vee Gas,2,"Le Mars, IA",False,-1,4.0,IA
+"525 W Cherry St, Vermillion, SD 57069",pharmacy,Vermillion,61.90957978193105,42.7868449,-96.9394179,Hy-Vee,3,"Le Mars, IA",False,3,4.0,SD

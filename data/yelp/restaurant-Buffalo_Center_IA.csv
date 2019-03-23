@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"135 Jackson St, Thompson, IA 50478",restaurant,Thompson,14.183350355414914,43.370739,-93.7709274,Branding Iron,8,"Buffalo Center, IA",False,2,5.0,IA
+"405 Smith St, Ste 100, Lakota, IA 50451",restaurant,Lakota,12.275087691228979,43.3770955,-94.0951435,Luby's on Smith St.,2,"Buffalo Center, IA",False,-1,5.0,IA
+"D5-G4-06, Solaris Dutamas, Jalan Dutamas, 50480 Kuala Lumpur, Malaysia",restaurant,Kuala Lumpur,18.757872463256206,43.2386807,-94.0491077,Zender's Restaurant and Bar,1,"Buffalo Center, IA",False,-1,5.0,14
+"146 Jackson St, Thompson, IA 50478",restaurant,Thompson,14.143058960256084,43.3705101,-93.7711411,Air Bear's Restaurant & Bar,1,"Buffalo Center, IA",False,-1,5.0,IA
+"106 Main St E, Wesley, IA 50483",restaurant,Wesley,33.67837741103273,43.0887,-93.99062,Johnny's Bar & Grill,1,"Buffalo Center, IA",False,-1,5.0,IA
+"72 Main Ave S, Britt, IA 50423",restaurant,Britt,34.55629307141327,43.0962871,-93.8019799,Mary Jo's Hobo House and Catering,5,"Buffalo Center, IA",False,-1,4.5,IA
+"109 W Ramsey St, Bancroft, IA 50517",restaurant,Bancroft,24.606365346698304,43.29325,-94.21854,Wrangling Grace Cafe,5,"Buffalo Center, IA",False,2,4.5,IA
+"107 B St, Leland, IA 50453",restaurant,Leland,25.667302786312835,43.3380737304688,-93.6347579956055,Mitchell's,5,"Buffalo Center, IA",False,-1,4.0,IA
+"441 North Main Ave, Britt, IA 50423",restaurant,Britt,34.147747631173026,43.100123628974,-93.8018555939198,Heartland Diner,2,"Buffalo Center, IA",False,-1,4.5,IA
+"1400 N State St, Fairmont, MN 56031",restaurant,Fairmont,50.94933345632319,43.667098376714,-94.4469074287095,Bean Town Grill,42,"Buffalo Center, IA",False,2,4.0,MN
+"Bricelyn, MN 56014",restaurant,Bricelyn,22.00712518546124,43.55777,-93.80914,Bud's Cafe & Market,3,"Buffalo Center, IA",False,1,4.5,MN
+"210 W Main St, Lake Mills, IA 50450",restaurant,Lake Mills,33.30731677805633,43.4195823669434,-93.5342636108398,Main Street Pizza,2,"Buffalo Center, IA",False,2,5.0,IA
+"Junction Hwy 18 & 169, Algona, IA 50511",restaurant,Algona,41.33855754782337,43.08385,-94.235516,Chrome Country Inn,6,"Buffalo Center, IA",False,1,4.5,IA
+"208 N Clark St, Forest City, IA 50436",restaurant,Forest City,28.368859504062232,43.26474,-93.6383133,Ay Jalisco Mexican Restaurant,18,"Buffalo Center, IA",False,2,4.5,IA
+"1430 Giant Dr, Blue Earth, MN 56013",restaurant,Blue Earth,32.16933710023643,43.656307447535,-94.0977206215653,Country Kitchen,21,"Buffalo Center, IA",False,1,4.0,MN
+"133 N Clark St, Forest City, IA 50436",restaurant,Forest City,28.42161793673974,43.26411,-93.63795,Sally's,7,"Buffalo Center, IA",False,-1,4.0,IA
+"4 E State St, Algona, IA 50511",restaurant,Algona,42.84092201564191,43.068531036377,-94.2377319335938,Billie Jo's Bar and Grill,11,"Buffalo Center, IA",False,2,4.5,IA
+"777 Diamond Jo Ln, Northwood, IA 50459",restaurant,Northwood,48.28998441418164,43.44707,-93.35246,Woodfire Grille,8,"Buffalo Center, IA",False,3,3.5,IA
+"1515 N McCoy St, Algona, IA 50511",restaurant,Algona,40.544359872013466,43.0820866,-94.2143849,Emerald's Fine Foods and Libations,2,"Buffalo Center, IA",False,-1,5.0,IA
+"224 W Main St, Lake Mills, IA 50450",restaurant,Lake Mills,33.28202868123002,43.4193617,-93.5345516,Teluwut Grille House & Pub,13,"Buffalo Center, IA",False,2,3.5,IA

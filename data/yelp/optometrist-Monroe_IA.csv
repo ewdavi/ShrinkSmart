@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"935 Broad St, Grinnell, IA 50112",optometrist,Grinnell,40.4414082713194,41.74446,-92.72449,Jensen Optometrists,3,"Monroe, IA",False,-1,2.5,IA
+"5075 E University Ave, Ste C, Pleasant Hill, IA 50327",optometrist,Pleasant Hill,35.14653154035935,41.6004564,-93.5145763,Eye Care Of Iowa PC - Pleasant Hill,5,"Monroe, IA",False,-1,3.5,IA
+"9250 University Ave, Ste 110, West Des Moines, IA 50266",optometrist,West Des Moines,61.245645881866366,41.6003351,-93.8160694,Elite Eye Care,13,"Monroe, IA",False,-1,4.5,IA
+"1310 SW State St, Ste A, Ankeny, IA 50023",optometrist,Ankeny,48.06457262633813,41.71697,-93.62046,"Eye Care Of Iowa, PC - Ankeny",6,"Monroe, IA",False,-1,4.0,IA
+"700 Locust St, Ste 305, Des Moines, IA 50309",optometrist,Des Moines,43.93188565243534,41.58615,-93.6266799,"Jeffrey Koenen, OD - Dsmeye-Skywalk",3,"Monroe, IA",False,2,5.0,IA
+"103 2nd St SE, Altoona, IA 50009",optometrist,Altoona,33.165948872249224,41.65057,-93.46435,Total Eyewear Gallery,1,"Monroe, IA",False,-1,5.0,IA
+"200 Army Post Rd, Ste 16, Des Moines, IA 50315",optometrist,Des Moines,42.64301585446661,41.52572,-93.61866,Eye Care of Iowa -South Des Moines,3,"Monroe, IA",False,-1,4.5,IA
+"2405 Ingersoll Ave, Des Moines, IA 50312",optometrist,Des Moines,45.877293608016714,41.58603,-93.65005,Vogue Vision,10,"Monroe, IA",False,2,4.0,IA
+"111 NW 9th St, Ankeny, IA 50023",optometrist,Ankeny,47.859609570067754,41.738376,-93.601897,Eyecare Associates of Ankeny,2,"Monroe, IA",False,3,5.0,IA
+"2701 Stange Rd, Ste 100, Ames, IA 50010",optometrist,Ames,73.94370539518533,42.0488891601562,-93.6454544067383,Eye Works,9,"Monroe, IA",False,3,4.0,IA
+"1551 Valley West Dr, Ste 242, West Des Moines, IA 50266",optometrist,West Des Moines,54.21649465296227,41.597501,-93.749512,Huseman Eye Care,10,"Monroe, IA",False,-1,4.5,IA
+"3800 Merle Hay Rd, Ste 407, Des Moines, IA 50310",optometrist,Des Moines,50.70759118397674,41.6295475512743,-93.6978703737259,Huseman Eye Care,3,"Monroe, IA",False,-1,5.0,IA
+"4660 86th St, Urbandale, IA 50322",optometrist,Urbandale,54.247066323595455,41.6448316610064,-93.7365401730666,Advanced Eyecare Center,3,"Monroe, IA",False,-1,5.0,IA
+"1810 SW White Birch Cir, Ste 109, Ankeny, IA 50023",optometrist,Ankeny,47.65370726234943,41.7025099,-93.6244433,World Of Vision,1,"Monroe, IA",False,-1,5.0,IA
+"501 8th St SE, Altoona, IA 50009",optometrist,Altoona,32.48249499382037,41.64453,-93.45905,Whylie Eye Care Centers,2,"Monroe, IA",False,-1,1.5,IA
+"5201 SE 14th Street, Des Moines, IA 50320",optometrist,Des Moines,40.835524819319865,41.5372657775879,-93.596321105957,Vision4Less,3,"Monroe, IA",False,2,3.0,IA
+"2135 SE Delaware Ave, Ankeny, IA 50021",optometrist,Ankeny,44.56245908636637,41.709546,-93.578042,Target Optical,3,"Monroe, IA",False,2,5.0,IA
+"2600 Grand Ave 202, Ste 202, Des Moines, IA 50312",optometrist,Des Moines,45.943812920849936,41.583854,-93.651684,Des Moines Eye Care,3,"Monroe, IA",False,-1,5.0,IA
+"311 N Ankeny Blvd, Ankeny, IA 50023",optometrist,Ankeny,47.47389266379829,41.73462,-93.59958,Ankeny Family Vision Center,4,"Monroe, IA",False,3,4.0,IA
+"315 E 5th St, Des Moines, IA 50309",optometrist,Des Moines,42.67404817286855,41.58911,-93.61057,Westrum Optometry,4,"Monroe, IA",False,3,4.5,IA

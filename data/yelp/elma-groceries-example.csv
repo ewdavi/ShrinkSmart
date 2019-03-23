@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"901 Kelly St, Charles City, IA 50616",groceries,Charles City,27.58412297773248,43.06735,-92.67523,Hy-Vee Food Store,2,"Elma, IA",False,1,4.0,IA
+"312 W Water St, Decorah, IA 52101",groceries,Decorah,53.0455229520181,43.3044357299805,-91.7889251708984,Oneota Community Food Co-op,12,"Elma, IA",False,2,5.0,IA
+"218 S Main, Protivin, IA 52163",groceries,Protivin,28.387914870399296,43.21545,-92.0909999,Polashek's Locker Service,4,"Elma, IA",False,1,5.0,IA
+"708 Main St, Plainfield, IA 50666",groceries,Plainfield,45.05672620007012,42.8468742370605,-92.5367050170898,The Oak Tree,1,"Elma, IA",False,1,4.0,IA
+"915 Short St, Decorah, IA 52101",groceries,Decorah,52.26361453709841,43.29087,-91.79683,Quillins Food Ranch,1,"Elma, IA",False,-1,3.0,IA
+"Grand Meadow, MN 55936",groceries,Grand Meadow,52.25824206757611,43.70632,-92.56971,Stier Grocery,1,"Elma, IA",False,2,3.0,MN
+"640 N Broadway St, Spring Valley, MN 55975",groceries,Spring Valley,49.95553672630617,43.6946256,-92.3950618,Kwik Trip,1,"Elma, IA",False,2,5.0,MN
+"102 2nd St SE, Oelwein, IA 50662",groceries,Oelwein,76.57482304623062,42.67533,-91.91197,Fareway Stores,1,"Elma, IA",False,2,4.0,IA
+"1798 Old Stage Rd, Decorah, IA 52101",groceries,Decorah,55.74690765896546,43.29132,-91.75431,Walmart Supercenter,4,"Elma, IA",False,1,3.5,IA
+"1510 S Grand Ave, Charles City, IA 50616",groceries,Charles City,29.06916024789214,43.04741,-92.6715399,Kwik Star,5,"Elma, IA",False,1,4.0,IA
+"501 N Park Dr, Spring Valley, MN 55975",groceries,Spring Valley,49.07414688151676,43.6963379,-92.3944751,Tj's Liquer,1,"Elma, IA",False,-1,5.0,MN
+"1702 17th St NW, Austin, MN 55912",groceries,Austin,66.14327047777249,43.6824324401501,-92.9958449745256,Aldi's,2,"Elma, IA",False,2,5.0,MN
+"1311 4th St SW, Waverly, IA 50677",groceries,Waverly,59.413611215717296,42.7122268676758,-92.4739456176758,Hy-Vee Food Stores,1,"Elma, IA",False,1,4.0,IA
+"811 Barrick Rd, Janesville, IA 50647",groceries,Janesville,66.25321023513992,42.6500282287598,-92.4552154541016,Kwik Star,2,"Elma, IA",False,-1,4.5,IA
+"104 11th St NE, Austin, MN 55912",groceries,Austin,62.83759043017478,43.6667442,-92.9585953,Jim's Supervalu Foods,1,"Elma, IA",False,-1,5.0,MN
+"1000 18th Ave NW, Austin, MN 55912",groceries,Austin,66.11671339867031,43.6850749,-92.986415,Walmart Supercenter,3,"Elma, IA",False,2,2.5,MN
+"905 Short St, Decorah, IA 52101",groceries,Decorah,52.34971447078699,43.291934967041,-91.7956466674805,Kwik Star Food Stores,2,"Elma, IA",False,2,4.5,IA
+"244 Center St, Elgin, IA 52141",groceries,Elgin,73.16052364140586,42.95769,-91.63035,Moore Company,1,"Elma, IA",False,1,5.0,IA
+"1205 Oakland Pl SE, Austin, MN 55912",groceries,Austin,62.7515607510573,43.6657686531544,-92.9585355520248,Ankeny's Mini Mart No.1,4,"Elma, IA",False,2,4.0,MN
+"1307 18th Ave NW, Austin, MN 55912",groceries,Austin,65.92038271493082,43.6832202522757,-92.9905900492085,Hy-Vee,1,"Elma, IA",False,-1,5.0,MN

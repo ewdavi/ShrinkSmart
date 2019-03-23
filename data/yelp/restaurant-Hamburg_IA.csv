@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"908 Main St, Hamburg, IA 51640",restaurant,Hamburg,0.4129695833857206,40.6026115,-95.6581116,Blue Moon Bar,3,"Hamburg, IA",False,1,4.5,IA
+"717 Central Ave, Nebraska City, NE 68410",restaurant,Nebraska City,18.4520812184292,40.67633,-95.85466,The Keeping Room,22,"Hamburg, IA",False,2,4.5,NE
+"812 Illinois St, Sidney, IA 51652",restaurant,Sidney,15.802502166264418,40.7479286,-95.6473923,Whip's Steakhouse,3,"Hamburg, IA",False,2,3.5,IA
+"2496 210th Ave, Percival, IA 51648",restaurant,Percival,14.637230243239664,40.6900822822302,-95.7900765306897,Apple Barrel,29,"Hamburg, IA",False,1,3.5,IA
+"615 Main St, Sidney, IA 51652",restaurant,Sidney,15.4889874155235,40.745103,-95.646917,Horseshoe Catering Company,2,"Hamburg, IA",False,-1,4.5,IA
+"725 S 6th St, Nebraska City, NE 68410",restaurant,Nebraska City,18.110414192734545,40.6721243872494,-95.8527358991067,Luigi's,3,"Hamburg, IA",False,-1,4.5,NE
+"715 1st Corso, Nebraska City, NE 68410",restaurant,Nebraska City,18.413569680819432,40.6754,-95.85472,Buck Snort,12,"Hamburg, IA",False,-1,4.0,NE
+"1211 Washington St, Hamburg, IA 51640",restaurant,Hamburg,0.14185173590152286,40.6051788,-95.6547775,Casey's General Store,3,"Hamburg, IA",False,2,3.5,IA
+"200 K St, Riverton, IA 51650",restaurant,Riverton,11.668730659164934,40.687056,-95.5687426,Water Fowl Cafe,1,"Hamburg, IA",False,-1,5.0,IA
+"228 E 4th Corso, Nebraska City, NE 68410",restaurant,Nebraska City,17.43939153436968,40.6735509636254,-95.8431169018149,Mary's Cafe,4,"Hamburg, IA",False,1,3.5,NE
+"416 Central Ave, Nebraska City, NE 68410",restaurant,Nebraska City,18.17650299977003,40.6766544427816,-95.8508490398526,Little Ted's Pub & Grill,9,"Hamburg, IA",False,1,3.5,NE
+"605 5th St, Peru, NE 68421",restaurant,Peru,15.09755432820109,40.48231,-95.73024,Zach's Bar And Grill,1,"Hamburg, IA",False,-1,5.0,NE
+"725 S 6th St, Nebraska City, NE 68410",restaurant,Nebraska City,18.056522094190793,40.6710702180862,-95.8525237441063,C&G's Grill and Bar,1,"Hamburg, IA",False,-1,5.0,NE
+"610 S 11th St, Nebraska City, NE 68410",restaurant,Nebraska City,18.597146774843864,40.6715597567472,-95.8593496074139,Ladybug BBQ,12,"Hamburg, IA",False,2,4.0,NE
+"600 Central Ave, Nebraska City, NE 68410",restaurant,Nebraska City,18.325219877806468,40.67686,-95.85267,Johnny's Place,22,"Hamburg, IA",False,1,3.5,NE
+"610 Central Ave, Nebraska City, NE 68410",restaurant,Nebraska City,18.346486374977058,40.67686,-95.85302,Prairie City Chophouse,10,"Hamburg, IA",False,-1,3.0,NE
+"108 S 8th St, Nebraska City, NE 68410",restaurant,Nebraska City,18.492958575636614,40.676468834281,-95.855213329196,Dinty Moore's Lunch Room,8,"Hamburg, IA",False,1,4.5,NE
+"1640 S 11th St, Nebraska City, NE 68410",restaurant,Nebraska City,18.253351073838925,40.66275,-95.85976,El Portal Mexican Restaurant,46,"Hamburg, IA",False,1,4.5,NE
+"600 Central Ave, Nebraska City, NE 68410",restaurant,Nebraska City,18.325219877806468,40.67686,-95.85267,Jonny's Cafe,3,"Hamburg, IA",False,-1,4.5,NE
+"123 S 7th St, Nebraska City, NE 68410",restaurant,Nebraska City,18.348548023671647,40.6763369,-95.8536951,Tacos El Pueblito,10,"Hamburg, IA",False,1,4.5,NE

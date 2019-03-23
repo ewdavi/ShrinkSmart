@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"201 N Warren Ave, Bevington, IA 50033",restaurant,Bevington,8.20559043607387,41.3619421698858,-93.797385777832,Hitchin Post Grill,16,"St. Charles, IA",False,1,4.0,IA
+"123 S Main St, Osceola, IA 50213",restaurant,Osceola,28.076354580948177,41.0381840181906,-93.7661929428577,Iron Horse Neighborhood Grill,47,"St. Charles, IA",False,2,4.0,IA
+"61 E Jefferson St, Winterset, IA 50273",restaurant,Winterset,17.92207413691663,41.33556,-94.01406,Northside Cafe,58,"St. Charles, IA",False,2,4.0,IA
+"904 1st St, Redfield, IA 50233",restaurant,Redfield,46.57342654333066,41.5907936096191,-94.1957855224609,Harvey's Diner & Pub,21,"St. Charles, IA",False,2,4.5,IA
+"419 S 1st St, Winterset, IA 50273",restaurant,Winterset,17.71799604712156,41.3312006,-94.013161,Rudy's Restaurant,6,"St. Charles, IA",False,1,4.0,IA
+"3034 Clark Tower Rd, Winterset, IA 50273",restaurant,Winterset,20.62138498252897,41.2106381356716,-94.0329728275537,Podunk Center,1,"St. Charles, IA",False,-1,5.0,IA
+"128 W Jefferson St, Osceola, IA 50213",restaurant,Osceola,28.603639930236252,41.03307,-93.76669,Mayberry's,6,"St. Charles, IA",False,-1,5.0,IA
+"411 W St, New Virginia, IA 50210",restaurant,New Virginia,13.623815792499366,41.18112,-93.73062,The Depot Restaurant and Catering,1,"St. Charles, IA",False,2,4.0,IA
+"111 S 1st Ave, Winterset, IA 50273",restaurant,Winterset,17.910836274764378,41.3342671841383,-94.0144924074411,Cellar,9,"St. Charles, IA",False,-1,4.5,IA
+"103 N 1st St, Winterset, IA 50273",restaurant,Winterset,17.83115249372923,41.334656,-94.01325,Mi Pueblito Mexican Restaurant,19,"St. Charles, IA",False,1,3.5,IA
+"118 N Howard St, Indianola, IA 50125",restaurant,Indianola,22.225170540961237,41.3609657287598,-93.5605697631836,Pete's Pizza,11,"St. Charles, IA",False,2,4.5,IA
+"127 S Chestnut Ave, Earlham, IA 50072",restaurant,Earlham,34.580150104867016,41.4912109,-94.1231689,Earlham Iowa,1,"St. Charles, IA",False,-1,5.0,IA
+"122 W Ashland Ave, Indianola, IA 50125",restaurant,Indianola,22.13961777615443,41.3614158630371,-93.5619506835938,Winns Pizza & Steak house,25,"St. Charles, IA",False,2,4.5,IA
+"113 E Salem Ave, Ste 101, Indianola, IA 50125",restaurant,Indianola,21.635924321691277,41.3601652679699,-93.567780084001,Mishmash Eats,12,"St. Charles, IA",False,1,4.5,IA
+"707 W Mclane St, Osceola, IA 50213",restaurant,Osceola,28.78545279664656,41.030956,-93.775824,Playa Margaritas Mexican Restaurants,13,"St. Charles, IA",False,2,4.0,IA
+"224 E Hwy 92, Winterset, IA 50273",restaurant,Winterset,17.96260537123949,41.3445491,-94.0083775,The Sports Page,13,"St. Charles, IA",False,4,2.5,IA
+"11905 550th St, Lucas, IA 50151",restaurant,Lucas,30.61967654672898,41.1173368,-93.5214954,Raleigh's Grill,6,"St. Charles, IA",False,-1,4.0,IA
+"8056 Hwy 28, Prole, IA 50211",restaurant,Prole,15.0829557312232,41.409626,-93.727031,Social Station Café & Floral,3,"St. Charles, IA",False,-1,4.5,IA
+"1802 W 2nd Ave, Indianola, IA 50125",restaurant,Indianola,20.15970427260804,41.356783,-93.585025,Sports Page Bar & Grill,14,"St. Charles, IA",False,2,3.0,IA
+"200 S Jefferson Way, Indianola, IA 50125",restaurant,Indianola,22.34389555798234,41.35896,-93.55793,Las Flores Mexican Restaurant,3,"St. Charles, IA",False,-1,4.5,IA

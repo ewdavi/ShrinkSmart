@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1525 E Kimberly Rd, Davenport, IA 52807",pharmacy,Davenport,15.866500930837525,41.55589,-90.55235,Walgreens,1,"Le Claire, IA",False,2,5.0,IA
+"3425 Middle Rd, Bettendorf, IA 52722",pharmacy,Bettendorf,10.910436292724748,41.55027,-90.48505,Walgreens,4,"Le Claire, IA",False,-1,1.0,IA
+"129 W Locust St, Davenport, IA 52803",pharmacy,Davenport,18.337314963963863,41.53814,-90.57526,Main At Locust Pharmacy & Medical Supply,4,"Le Claire, IA",False,3,4.5,IA
+"2617 18th Ave, Rock Island, IL 61201",pharmacy,Rock Island,19.617900248851544,41.4932,-90.5603,CVS Pharmacy,1,"Le Claire, IA",False,2,5.0,IL
+"4011 E 53Rd St, Davenport, IA 52807",pharmacy,Davenport,12.336831142817562,41.5743637084961,-90.5142440795898,Walgreens,5,"Le Claire, IA",False,2,2.0,IA
+"4000 Avenue Of The Cities, Moline, IL 61265",pharmacy,Moline,15.067833647349694,41.48962,-90.48041,Walgreens,3,"Le Claire, IA",False,-1,2.5,IL
+"301 30Th Ave, East Moline, IL 61244",pharmacy,East Moline,12.817929112924045,41.500526,-90.455184,Walgreens,1,"Le Claire, IA",False,-1,1.0,IL
+"3601 16Th St, Moline, IL 61265",pharmacy,Moline,17.594671096810348,41.4769592285156,-90.5074768066406,Walgreens,1,"Le Claire, IA",False,3,5.0,IL
+"1905 N 2Nd St, Clinton, IA 52732",pharmacy,Clinton,33.851232663173214,41.86633,-90.18183,Walgreens,1,"Le Claire, IA",False,1,5.0,IA
+"2002 Spruce Hills, Bettendorf, IA 52722",pharmacy,Bettendorf,12.276392270893542,41.5506967095186,-90.5033699095586,CVS Pharmacy,3,"Le Claire, IA",False,2,1.0,IA
+"858 Middle Rd, Bettendorf, IA 52722",pharmacy,Bettendorf,14.136353712491772,41.5402638,-90.521502,Schnucks Pharmacy - Bettendorf,1,"Le Claire, IA",False,-1,5.0,IA
+"1777 Division St, Davenport, IA 52804",pharmacy,Davenport,20.311258036281313,41.53777,-90.60043,CVS Pharmacy,2,"Le Claire, IA",False,2,2.5,IA
+"1009 S Oakwood Ave, Geneseo, IL 61254",pharmacy,Geneseo,24.903989816970483,41.4399452209473,-90.1549301147461,Walgreens,3,"Le Claire, IA",False,2,2.0,IL
+"225 E Le Claire Rd, Eldridge, IA 52748",pharmacy,Eldridge,18.769038370773213,41.6542816,-90.5809784,North Scott Pharmacy,1,"Le Claire, IA",False,-1,1.0,IA
+"555 19Th Ave, Moline, IL 61265",pharmacy,Moline,17.489518868277063,41.4936904907227,-90.5285110473633,Walgreens,1,"Le Claire, IA",False,1,2.0,IL
+"124 E Main St, Morrison, IL 61270",pharmacy,Morrison,40.99724361018487,41.8092334270477,-89.9662886559963,Fitzgerald Pharmacy,1,"Le Claire, IA",False,-1,2.0,IL
+"1805 Brady St, Davenport, IA 52803",pharmacy,Davenport,18.21571507114108,41.5377883911133,-90.5734405517578,Walgreens,2,"Le Claire, IA",False,1,2.5,IA
+"1700 1St Ave, Rock Falls, IL 61071",pharmacy,Rock Falls,59.41699456686183,41.76504,-89.69014,Walgreens,3,"Le Claire, IA",False,1,2.0,IL
+"855 Illini Dr, Silvis, IL 61282",pharmacy,Silvis,12.062879301002395,41.49435,-90.41725,Illini Clinic Pharmacy,2,"Le Claire, IA",False,-1,5.0,IL
+"358 Front St, Galva, IL 61434",pharmacy,Galva,54.86564377226715,41.1663246154785,-90.0460586547852,Galva Pharmacy,1,"Le Claire, IA",False,1,5.0,IL

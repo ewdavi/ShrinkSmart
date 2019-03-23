@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"111 W Ridgeway Ave, Waterloo, IA 50701",pharmacy,Waterloo,13.049626947537437,42.4687843322754,-92.3574829101562,Walgreens,3,"Gilbertville, IA",False,1,3.0,IA
+"209 E San Marnan Dr, Waterloo, IA 50702",pharmacy,Waterloo,12.189998846562803,42.4581413,-92.3520584,Nucara Pharmacy,2,"Gilbertville, IA",False,3,1.5,IA
+"2509 White Tail Dr, Cedar Falls, IA 50613",pharmacy,Cedar Falls,25.43031917239038,42.54075,-92.47594,Walgreens,1,"Gilbertville, IA",False,1,1.0,IA
+"3910 University Ave, Waterloo, IA 50701",pharmacy,Waterloo,18.268522836248206,42.5053863525391,-92.4027633666992,Walgreens,2,"Gilbertville, IA",False,1,5.0,IA
+"1825 E San Marnan Dr, Waterloo, IA 50702",pharmacy,Waterloo,10.401181747553311,42.467471,-92.321879,CVS Pharmacy,2,"Gilbertville, IA",False,-1,1.5,IA
+"12 S Frederick Ave, Oelwein, IA 50662",pharmacy,Oelwein,37.878542883977154,42.6780166625977,-91.9136962890625,Schuchmanns'valu-Rite Pharmacy,1,"Gilbertville, IA",False,-1,5.0,IA
+"111 W 4th St, Vinton, IA 52349",pharmacy,Vinton,31.912678025265667,42.1678428649902,-92.0250396728516,LaGrange Pharmacy,1,"Gilbertville, IA",False,-1,5.0,IA
+"113 1st St NE, Mount Vernon, IA 52314",pharmacy,Mount Vernon,85.84294846782142,41.922131,-91.416167,CarePro Pharmacy - Mount Vernon,1,"Gilbertville, IA",False,-1,3.0,IA
+"525 Brandilynn Blvd, Cedar Falls, IA 50613",pharmacy,Cedar Falls,20.028077691548038,42.48637,-92.44002,Walmart Pharmacy,1,"Gilbertville, IA",False,-1,1.0,IA
+"207 Franklin St, Waterloo, IA 50703",pharmacy,Waterloo,13.865011306185963,42.5041,-92.3369,CVS Pharmacy,1,"Gilbertville, IA",False,-1,4.0,IA
+"324 Edgewood Rd Nw, Cedar Rapids, IA 52405",pharmacy,Cedar Rapids,64.11513202565459,41.975044,-91.716637,Walgreens,1,"Gilbertville, IA",False,3,5.0,IA
+"111 S Franklin St, Manchester, IA 52057",pharmacy,Manchester,62.38942818528205,42.4834785461426,-91.4583282470703,Widner Drug & Gift Store,2,"Gilbertville, IA",False,1,4.5,IA
+"621 G Ave, Grundy Center, IA 50638",pharmacy,Grundy Center,46.30097183105138,42.3618393,-92.7721634,Manly Drug Store,1,"Gilbertville, IA",False,-1,1.0,IA
+"1225 7Th Ave, Marion, IA 52302",pharmacy,Marion,66.52281743095247,42.0328369140625,-91.5963287353516,Walgreens,3,"Gilbertville, IA",False,4,2.5,IA
+"303 Nicholas Dr, Marshalltown, IA 50158",pharmacy,Marshalltown,73.26883507706252,42.0152708,-92.9185267,Hy Vee Drugstore Clinic,1,"Gilbertville, IA",False,-1,5.0,IA
+"4116 Center Point Rd NE, Cedar Rapids, IA 52402",pharmacy,Cedar Rapids,63.26392659596992,42.020918,-91.664465,CVS Pharmacy,4,"Gilbertville, IA",False,2,2.5,IA
+"505 Boyson Rd NE, Cedar Rapids, IA 52402",pharmacy,Cedar Rapids,62.87147352874712,42.04618,-91.63914,Hy-Vee Drugstore,1,"Gilbertville, IA",False,-1,4.0,IA
+"279 Collins Rd NE, Cedar Rapids, IA 52402",pharmacy,Cedar Rapids,64.95216893653686,42.0276833,-91.6311417,Hy-Vee,3,"Gilbertville, IA",False,2,4.5,IA
+"2821 1St Ave Se, Cedar Rapids, IA 52402",pharmacy,Cedar Rapids,66.25073434588464,42.0056305,-91.6341705,Walgreens,1,"Gilbertville, IA",False,2,3.0,IA
+"4825 Johnson Ave NW, Cedar Rapids, IA 52405",pharmacy,Cedar Rapids,63.93239405884788,41.96759,-91.7329,Hy-Vee Drugstore,3,"Gilbertville, IA",False,1,3.5,IA

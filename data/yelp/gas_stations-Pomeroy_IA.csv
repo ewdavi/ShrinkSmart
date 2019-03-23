@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"220 E High St, Rockwell City, IA 50579",gas stations,Rockwell City,17.37803031740847,42.39906,-94.62615,Casey's General Store,1,"Pomeroy, IA",False,2,4.0,IA
+"1211 9th St, Lake View, IA 51450",gas stations,Lake View,39.96849258601699,42.310832,-95.040174,Sparky's One Stop-Lake View,2,"Pomeroy, IA",False,-1,3.0,IA
+"402 E 6th St, Carroll, IA 51401",gas stations,Carroll,56.21617181341849,42.0641899108887,-94.8626403808594,Sparky's One Stop,1,"Pomeroy, IA",False,3,4.0,IA
+"211 Hwy 18 E, Algona, IA 50511",gas stations,Algona,69.39615386244364,43.0837050911743,-94.2347734611994,Chrome Truck Stop,3,"Pomeroy, IA",False,-1,3.5,IA
+"800 S Grand Ave, Spencer, IA 51301",gas stations,Spencer,74.76149353977672,43.1300392150879,-95.1432952880859,Casey's Carry Out Pizza,1,"Pomeroy, IA",False,-1,5.0,IA
+"2019 E Lincoln Way, Ames, IA 50010",gas stations,Ames,107.30326822390444,42.02348,-93.585117,Central Iowa Towing and Recovery,7,"Pomeroy, IA",False,-1,4.5,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1105 Main St, Hamburg, IA 51640",pharmacy,Hamburg,0.21313340004611528,40.6044488400221,-95.6578094512224,Stoner Drug,3,"Hamburg, IA",False,2,3.5,IA
+"714 Illinois St, Sidney, IA 51652",pharmacy,Sidney,15.731322390861662,40.7473041124881,-95.6474058410698,Penn Drug,2,"Hamburg, IA",False,1,5.0,IA
+"1821 S 11th St, Nebraska City, NE 68410",pharmacy,Nebraska City,18.14667745205805,40.660724,-95.8591818,Moser's U-Save Pharmacy,1,"Hamburg, IA",False,2,5.0,NE
+"1206 S Locust St, Glenwood, IA 51534",pharmacy,Glenwood,48.5604137260487,41.0369699,-95.74997,Medicap Pharmacy,1,"Hamburg, IA",False,-1,2.0,IA
+"611 N Hwy 6, Gretna, NE 68028",pharmacy,Gretna,77.37842903195795,41.1445696642028,-96.2393921613693,U Save Pharmacy - Gretna,2,"Hamburg, IA",False,-1,2.5,NE
+"205 Main St, Springfield, NE 68059",pharmacy,Springfield,66.36272408171905,41.0816,-96.13317,Springfield Drug,8,"Hamburg, IA",False,1,5.0,NE
+"1701 South Galvin Rd, Bellevue, NE 68005",pharmacy,Bellevue,63.368696237548946,41.14263,-95.90953,CVS Pharmacy,6,"Hamburg, IA",False,2,4.5,NE
+"1400 Senate Ave, Ste 104, Red Oak, IA 51566",pharmacy,Red Oak,59.72222373427564,41.0263443,-95.2169189,Red Oak Pharmacy,1,"Hamburg, IA",False,-1,5.0,IA
+"6901 So 84th St, Lavista, NE 68128",pharmacy,Lavista,72.58715481865336,41.190286,-96.041729,CVS Pharmacy,2,"Hamburg, IA",False,1,4.5,NE
+"1802 Galvin Rd S, Bellevue, NE 68005",pharmacy,Bellevue,63.17784716505148,41.14092,-95.90988,Walgreens,6,"Hamburg, IA",False,2,2.5,NE
+"5110 L St, Omaha, NE 68117",pharmacy,Omaha,73.21220427945542,41.2126549,-95.9940359,Kohll's Pharmacy & Homecare,3,"Hamburg, IA",False,3,3.5,NE
+"6905 S 36Th St, Bellevue, NE 68147",pharmacy,Bellevue,70.01399510288863,41.19042,-95.96693,Walgreens,2,"Hamburg, IA",False,2,4.0,NE
+"9460 Giles Rd, La Vista, NE 68128",pharmacy,La Vista,72.04504597837612,41.1776858,-96.0599452,Walmart Neighborhood Market,5,"Hamburg, IA",False,1,4.5,NE
+"3808 Twin Creek Dr, Bellevue, NE 68123",pharmacy,Bellevue,65.22360821917242,41.1426,-95.9699,CVS Pharmacy,1,"Hamburg, IA",False,-1,4.0,NE
+"11343 S 96th St, Papillion, NE 68046",pharmacy,Papillion,68.9021871246587,41.1439091,-96.063407,Walgreens,2,"Hamburg, IA",False,2,4.0,NE
+"11650 S 73rd St, Papillion, NE 68046",pharmacy,Papillion,66.57943788455331,41.135275,-96.026836,Hy-Vee Pharmacies,1,"Hamburg, IA",False,-1,2.0,NE
+"1605 N Broadway St, Red Oak, IA 51566",pharmacy,Red Oak,58.02557812365508,41.0186272,-95.2329178,Hy-Vee Pharmacy,1,"Hamburg, IA",False,-1,1.0,IA
+"2323 L St, Omaha, NE 68107",pharmacy,Omaha,71.6246268846984,41.2118339538574,-95.9461975097656,Walgreens,1,"Hamburg, IA",False,3,3.0,NE
+"18040 R Plz, Omaha, NE 68135",pharmacy,Omaha,80.63271716050778,41.20473,-96.19823,Walgreens,1,"Hamburg, IA",False,2,5.0,NE
+"201 S 16th St, Clarinda, IA 51632",pharmacy,Clarinda,54.169067073458706,40.737082734704,-95.0379174202681,Hy-Vee Food Store,1,"Hamburg, IA",False,2,4.0,IA

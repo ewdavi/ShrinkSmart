@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"337 Church St, Ottumwa, IA 52501",pharmacy,Ottumwa,29.39350084648392,41.00996,-92.41839,South Side Drug Store,2,"Bloomfield, IA",False,-1,5.0,IA
+"1611 S Baltimore St, Ste B, Kirksville, MO 63501",pharmacy,Kirksville,64.11714705061813,40.1817652,-92.5718251,Kirksville Pharmacy,1,"Bloomfield, IA",False,-1,4.0,MO
+"205 N E St, Oskaloosa, IA 52577",pharmacy,Oskaloosa,64.47430517318273,41.2966243,-92.6517631,Mahaska Drug,2,"Bloomfield, IA",False,2,5.0,IA
+"107 W Main St, Ottumwa, IA 52501",pharmacy,Ottumwa,30.33186009434419,41.0184799,-92.41298,Nucara Pharmacy,1,"Bloomfield, IA",False,-1,2.0,IA
+"901 W Pleasant St, Knoxville, IA 50138",pharmacy,Knoxville,86.59298679531926,41.3210258483887,-93.1078720092773,Medicap Pharmacy,1,"Bloomfield, IA",False,-1,5.0,IA
+"301 Highway 34 W, Albia, IA 52531",pharmacy,Albia,45.21123670652288,41.016779,-92.812985,Hy-Vee,1,"Bloomfield, IA",False,-1,5.0,IA

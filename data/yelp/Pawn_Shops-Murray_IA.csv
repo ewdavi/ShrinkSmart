@@ -1,0 +1,5 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"3311 Ingersoll Ave, Des Moines, IA 50312",Pawn Shops,Des Moines,65.18791744704642,41.5866089,-93.6617737,Solar Loan and Sales,2,"Murray, IA",False,2,3.0,IA
+"3025 SE 14th St, Des Moines, IA 50320",Pawn Shops,Des Moines,64.44580701071177,41.5574265,-93.5967026,EZ Pawn,2,"Murray, IA",False,1,2.0,IA
+"200 Euclid Ave, Des Moines, IA 50313",Pawn Shops,Des Moines,70.71670190053021,41.62736,-93.6202799,A To Z Pawn,3,"Murray, IA",False,2,2.5,IA
+"3009 Douglas Ave, Des Moines, IA 50310",Pawn Shops,Des Moines,69.69713160653663,41.6296179592609,-93.6590963602066,Pawn Store,3,"Murray, IA",False,1,2.5,IA

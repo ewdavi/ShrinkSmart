@@ -1,0 +1,9 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"5925 University Ave, Cedar Falls, IA 50613",convenience stores,Cedar Falls,20.561477307936794,42.5122729142461,-92.4299175509683,Happy's Wine & Spirits,6,"Gilbertville, IA",False,2,4.5,IA
+"2019 College St, Cedar Falls, IA 50613",convenience stores,Cedar Falls,22.81105895906842,42.5189247131348,-92.4562301635742,Kwik Star # 726,5,"Gilbertville, IA",False,1,4.5,IA
+"1105 Cedar Bend St, Waterloo, IA 50703",convenience stores,Waterloo,17.668644909230704,42.528980255127,-92.3691864013672,Kwik Star # 724,1,"Gilbertville, IA",False,-1,5.0,IA
+"1422 Flammang Dr, Waterloo, IA 50702",convenience stores,Waterloo,10.32693380804004,42.45872,-92.32791,Hy-Vee Food Stores,7,"Gilbertville, IA",False,2,4.5,IA
+"518 Brandilynn Blvd, Cedar Falls, IA 50613",convenience stores,Cedar Falls,19.98680300496095,42.4845352172852,-92.4403457641602,Murphy USA,1,"Gilbertville, IA",False,-1,4.0,IA
+"3015 Kimball Ave, Waterloo, IA 50702",convenience stores,Waterloo,12.962356975665887,42.4690119,-92.3562043,Hansen Dairy,9,"Gilbertville, IA",False,1,4.5,IA
+"814 C Ave, Vinton, IA 52349",convenience stores,Vinton,32.287046211075406,42.1631164550781,-92.0275421142578,John's Qwik Stop,1,"Gilbertville, IA",False,-1,2.0,IA
+"815 Brandilynn Blvd, Cedar Falls, IA 50613",convenience stores,Cedar Falls,19.743825591886413,42.4852821975946,-92.4367848783731,Hobby Lobby,1,"Gilbertville, IA",False,-1,5.0,IA

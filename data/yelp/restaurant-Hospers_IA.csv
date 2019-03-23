@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"207 8th St, Sheldon, IA 51201",restaurant,Sheldon,12.518648874537094,43.1823075,-95.8554291,Langer's Bar & Grill,7,"Hospers, IA",False,-1,5.0,IA
+"814 Lincoln Pl SE, Orange City, IA 51041",restaurant,Orange City,14.62122795060652,42.99602,-96.04671,Blue Mountain,18,"Hospers, IA",False,2,3.5,IA
+"44028 Highway 3, Remsen, IA 51050",restaurant,Remsen,30.043570726245648,42.8079908341169,-95.9569796919823,Golden Pheasant,3,"Hospers, IA",False,2,4.5,IA
+"1113 2nd Ave, Sheldon, IA 51201",restaurant,Sheldon,12.027285764013248,43.1786575,-95.8570557,Old 60 Steaks & Chops,6,"Hospers, IA",False,2,4.0,IA
+"4995 Carnes Dr, Alton, IA 51003",restaurant,Alton,20.50485966010135,42.9287514968675,-96.0562083497644,Sfumato Pizzeria,20,"Hospers, IA",False,2,5.0,IA
+"819 Lincoln Pl SE, Orange City, IA 51041",restaurant,Orange City,14.551925256091122,42.9964612,-96.0461215,Hatchery Restaurant & Lounge,9,"Hospers, IA",False,1,4.5,IA
+"202 10th St, Alton, IA 51003",restaurant,Alton,13.084230284420084,42.9866286,-96.0093316,10th Street Pub,2,"Hospers, IA",False,1,4.5,IA
+"4811 Oak Hill Ave, Paullina, IA 51046",restaurant,Paullina,16.946539127704185,42.9519,-95.781232,Hideout,1,"Hospers, IA",False,-1,4.0,IA
+"135 S Green Ave, Primghar, IA 51245",restaurant,Primghar,22.353995710987906,43.0868834,-95.6285349,Baxterz Bar & Grill,1,"Hospers, IA",False,-1,5.0,IA
+"120 W 7th St, Hwy 18, Sanborn, IA 51248",restaurant,Sanborn,23.485790296692468,43.1862120841907,-95.6569578770924,Jay's Restaurant and Lounge,4,"Hospers, IA",False,2,5.0,IA
+"172 N Main Ave, Sioux Center, IA 51250",restaurant,Sioux Center,22.07910716259794,43.07836,-96.17515,The Fruited Plain Cafe,14,"Hospers, IA",False,2,4.5,IA
+"224 4th Ave NE, Le Mars, IA 51031",restaurant,Le Mars,37.37852830118071,42.7967,-96.16027,Archie's Waeside,37,"Hospers, IA",False,2,4.5,IA
+"Sioux Center, IA 51250",restaurant,Sioux Center,22.14349339033522,43.0632566791369,-96.1754404790598,Sioux County Livestock,4,"Hospers, IA",False,2,4.0,IA
+"604 8th St SE, Orange City, IA 51041",restaurant,Orange City,14.865139693199051,42.997127532959,-96.0515060424805,Nederlander's Grill,11,"Hospers, IA",False,2,3.5,IA
+"215 S Rerick Ave, Primghar, IA 51245",restaurant,Primghar,22.666657252526708,43.086071032491,-95.6246391404494,Shortee's Pit Stop,2,"Hospers, IA",False,1,3.5,IA
+"183 First Ave NE, Sioux Center, IA 51250",restaurant,Sioux Center,21.987455719359254,43.0784818,-96.1740284,La Rancherita,7,"Hospers, IA",False,-1,4.5,IA
+"708 E 1st St, Mechanicsville, IA 51031",restaurant,Mechanicsville,38.06540993798315,42.7927964723882,-96.1672172695398,Iowa BBQ Company,4,"Hospers, IA",False,-1,4.5,IA
+"1402 Main St, Rock Valley, IA 51247",restaurant,Rock Valley,34.840529431847216,43.2042576106132,-96.2947628467951,Cabrera's Mexican Restaurant,2,"Hospers, IA",False,1,5.0,IA
+"222 Main St, Doon, IA 51235",restaurant,Doon,35.04970423120458,43.279101,-96.2332194,Doon Steak House,7,"Hospers, IA",False,-1,4.0,IA
+"1923 S Main Ave, Sioux Center, IA 51250",restaurant,Sioux Center,22.371356395974423,43.056664,-96.177541,Los Tulipanes,7,"Hospers, IA",False,2,3.5,IA

@@ -1,0 +1,14 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1015 Duff Ave, Ames, IA 50010",dental,Ames,34.98080113206034,42.031623,-93.611063,Metzger Family Dental,1,"Radcliffe, IA",False,-1,5.0,IA
+"410 Broad St, Story City, IA 50248",dental,Story City,19.880195438912725,42.186718,-93.598855,Cook Family Dentistry,2,"Radcliffe, IA",False,-1,5.0,IA
+"701 Washington Ave, Iowa Falls, IA 50126",dental,Iowa Falls,26.360466019325955,42.51932,-93.26606,Iowa Falls Family Dentistry,1,"Radcliffe, IA",False,-1,5.0,IA
+"3324 Orion Dr, Ames, IA 50010",dental,Ames,32.98980795608972,42.0551643371582,-93.6212539672852,North Grand Dental,4,"Radcliffe, IA",False,-1,4.0,IA
+"511 Duff Ave, Ste 200, Ames, IA 50010",dental,Ames,35.49473324565059,42.0264508,-93.6107643,"Stoltze & Stoltze: Stoltze Newstr Sonya M, DDS",1,"Radcliffe, IA",False,-1,5.0,IA
+"1212 Willis Ave, Ames, IA 50010",dental,Ames,35.985925582563425,42.0229606628418,-93.6148147583008,Swanson Dental Care,1,"Radcliffe, IA",False,-1,5.0,IA
+"1226 Duff Ave, Ames, IA 50010",dental,Ames,34.679316306016915,42.03428,-93.61021,Katie Kearney Porter DDS,2,"Radcliffe, IA",False,-1,5.0,IA
+"601 Fair Meadow Dr, Webster City, IA 50595",dental,Webster City,35.030884828946235,42.453352,-93.819378,Maharry Family Dentistry,2,"Radcliffe, IA",False,-1,5.0,IA
+"415 S Duff Ave, Ste D, Ames, IA 50010",dental,Ames,36.320681375851926,42.0186416,-93.61172,Ames Center For Cosmetic & Family Dentistry,3,"Radcliffe, IA",False,-1,4.0,IA
+"1212 Duff Ave, Ames, IA 50010",dental,Ames,34.74208185844962,42.03366,-93.61007,Ames Oral Surgeons,2,"Radcliffe, IA",False,-1,1.0,IA
+"620 5th St, Ames, IA 50010",dental,Ames,35.87599412268277,42.0255737304688,-93.619255065918,Jeffrey Herrick DDS,1,"Radcliffe, IA",False,-1,5.0,IA
+"806 S Duff Ave, Ames, IA 50010",dental,Ames,36.66706689141648,42.0145673869389,-93.6096042394638,Aspen Dental,5,"Radcliffe, IA",False,-1,1.0,IA
+"2701 Stange Rd, Ste 100, Ames, IA 50010",dental,Ames,34.582960643432784,42.0488891601562,-93.6454544067383,Eye Works,9,"Radcliffe, IA",False,3,4.0,IA

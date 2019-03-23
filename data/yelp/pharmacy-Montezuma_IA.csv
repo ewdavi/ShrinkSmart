@@ -1,0 +1,17 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"205 N E St, Oskaloosa, IA 52577",pharmacy,Oskaloosa,33.565913720292045,41.2966243,-92.6517631,Mahaska Drug,2,"Montezuma, IA",False,2,5.0,IA
+"1204 1St Ave E, Newton, IA 50208",pharmacy,Newton,44.48644493795492,41.69959,-93.0380799,Walgreens,1,"Montezuma, IA",False,-1,1.0,IA
+"400 1st Ave W, Newton, IA 50208",pharmacy,Newton,46.06973180509983,41.6997985839844,-93.0577545166016,Medicap Pharmacy,1,"Montezuma, IA",False,-1,5.0,IA
+"101 N Walnut St, Colfax, IA 50054",pharmacy,Colfax,60.74306977324948,41.6777769,-93.2455896,Benzer Pharmacy,3,"Montezuma, IA",False,2,3.5,IA
+"901 W Pleasant St, Knoxville, IA 50138",pharmacy,Knoxville,56.62776491987741,41.3210258483887,-93.1078720092773,Medicap Pharmacy,1,"Montezuma, IA",False,-1,5.0,IA
+"514 Elm St, Williamsburg, IA 52361",pharmacy,Williamsburg,43.70242826212518,41.6611404418945,-92.0105819702148,Peterson Drug,1,"Montezuma, IA",False,-1,3.0,IA
+"337 Church St, Ottumwa, IA 52501",pharmacy,Ottumwa,64.38295421177305,41.00996,-92.41839,South Side Drug Store,2,"Montezuma, IA",False,-1,5.0,IA
+"303 Nicholas Dr, Marshalltown, IA 50158",pharmacy,Marshalltown,58.082050670832395,42.0152708,-92.9185267,Hy Vee Drugstore Clinic,1,"Montezuma, IA",False,-1,5.0,IA
+"415 Industrial Ave, Grinnell, IA 50112",pharmacy,Grinnell,22.97176608247477,41.721868,-92.730954,Walmart Supercenter,3,"Montezuma, IA",False,1,3.0,IA
+"324 Edgewood Rd Nw, Cedar Rapids, IA 52405",pharmacy,Cedar Rapids,79.99440348268688,41.975044,-91.716637,Walgreens,1,"Montezuma, IA",False,3,5.0,IA
+"111 W 4th St, Vinton, IA 52349",pharmacy,Vinton,77.1073043177623,42.1678428649902,-92.0250396728516,LaGrange Pharmacy,1,"Montezuma, IA",False,-1,5.0,IA
+"301 Highway 34 W, Albia, IA 52531",pharmacy,Albia,67.4118104813492,41.016779,-92.812985,Hy-Vee,1,"Montezuma, IA",False,-1,5.0,IA
+"107 W Main St, Ottumwa, IA 52501",pharmacy,Ottumwa,63.51520952051226,41.0184799,-92.41298,Nucara Pharmacy,1,"Montezuma, IA",False,-1,2.0,IA
+"4825 Johnson Ave NW, Cedar Rapids, IA 52405",pharmacy,Cedar Rapids,78.42131897116039,41.96759,-91.7329,Hy-Vee Drugstore,3,"Montezuma, IA",False,1,3.5,IA
+"3419 16th Ave SW, Cedar Rapids, IA 52404",pharmacy,Cedar Rapids,79.25861457693152,41.96314,-91.71695,CVS Pharmacy,2,"Montezuma, IA",False,-1,1.0,IA
+"3325 16Th Ave Sw, Cedar Rapids, IA 52404",pharmacy,Cedar Rapids,79.36336972581508,41.9629974365234,-91.7154006958008,Walgreens,1,"Montezuma, IA",False,-1,1.0,IA

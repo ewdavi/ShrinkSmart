@@ -1,0 +1,6 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"24425 Hwy 60 NE, Worthington, MN 56187",gas stations,Worthington,28.41430531751284,43.640626,-95.563307,Blue Line Travel Center,23,"Lake Park, IA",False,1,3.0,MN
+"1802 Hwy 71 N, Okoboji, IA 51355",gas stations,Okoboji,17.97255190605491,43.3918991,-95.1264035,Casey's General Store,3,"Lake Park, IA",False,-1,3.5,IA
+"2001 Highway 71 N, Jackson, MN 56143",gas stations,Jackson,35.116991893061545,43.6418118,-94.995938,Vet's Whoa N'go Fuel Stop,2,"Lake Park, IA",False,1,4.0,MN
+"300 18th St, Spirit Lake, IA 51360",gas stations,Spirit Lake,19.74578663682018,43.4226064,-95.0940079,Kum & Go,2,"Lake Park, IA",False,-1,2.5,IA
+"1401 18th St, Spirit Lake, IA 51360",gas stations,Spirit Lake,18.448195901587084,43.4224751,-95.1108594,Towing-Jennings Tow & Repair,2,"Lake Park, IA",False,-1,4.5,IA

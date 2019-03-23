@@ -1,0 +1,7 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"602 2nd St, Traer, IA 50675",restaurant,Traer,0.6833637354762918,42.1934495553041,-92.4652478098869,1901 Chop Haus,15,"Traer, IA",False,2,4.5,IA
+"104 S Main St, Traer, IA 50675",restaurant,Traer,0.7525858071882329,42.19406,-92.46569,Pizza Palace,7,"Traer, IA",False,2,4.5,IA
+"542 2nd St, Traer, IA 50675",restaurant,Traer,0.7299336880159578,42.19368,-92.46605,Sweets On Main,2,"Traer, IA",False,-1,5.0,IA
+"307 Main St, Dysart, IA 52224",restaurant,Dysart,12.997830590598962,42.1715317,-92.3067017,KE Black Mercantile,3,"Traer, IA",False,-1,4.5,IA
+"309 Jefferson St, Dysart, IA 52224",restaurant,Dysart,13.11167424426893,42.17093,-92.30529,Chelle's Bar & Grill,4,"Traer, IA",False,-1,4.0,IA
+"1763 210th St, Toledo, IA 52342",restaurant,Toledo,13.855492509198179,42.1398,-92.61809,Maid-Rite Big T,7,"Traer, IA",False,1,2.5,IA

@@ -1,0 +1,21 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"1021 Broadway, Emmetsburg, IA 50536",restaurant,Emmetsburg,15.198886398000955,43.11024,-94.679,Kimbucks Cuisine,4,"Graettinger, IA",False,1,4.5,IA
+"3639 450th Ave, Emmetsburg, IA 50536",restaurant,Emmetsburg,13.59903639592468,43.1203188,-94.6987412,Dublin's Food & Spirits,5,"Graettinger, IA",False,2,4.0,IA
+"1208 Gowrie St, Ruthven, IA 51358",restaurant,Ruthven,16.932207327207465,43.129127,-94.898794,Bully's Bar & Grill,4,"Graettinger, IA",False,1,4.5,IA
+"511 1st Ave S, Estherville, IA 51334",restaurant,Estherville,19.59460130313017,43.401038,-94.8377924,Fat Boys Pub and Grub,2,"Graettinger, IA",False,1,4.5,IA
+"1027 Central Ave, Estherville, IA 51334",restaurant,Estherville,19.527156539504656,43.4023132324219,-94.8305892944336,Mother Nature's,7,"Graettinger, IA",False,2,2.5,IA
+"600 Central Ave, Estherville, IA 51334",restaurant,Estherville,19.627562989739882,43.4016914367676,-94.8363647460938,Don Jose Mexican Restaurant,10,"Graettinger, IA",False,2,4.5,IA
+"123 S Broadway Ave, West Bend, IA 50597",restaurant,West Bend,39.59052605064519,42.95894,-94.44554,The Wagon Wheel Cafe,3,"Graettinger, IA",False,-1,3.5,IA
+"9 W 1st St N, Estherville, IA 51334",restaurant,Estherville,19.99082469533494,43.4023704528809,-94.8462829589844,Woody's Pizza,6,"Graettinger, IA",False,2,3.0,IA
+"516 Central Ave, Estherville, IA 51334",restaurant,Estherville,20.412236609078395,43.4035197169899,-94.8557424545288,One N One,3,"Graettinger, IA",False,2,4.5,IA
+"1601 Old Highway 18, Ruthven, IA 51358",restaurant,Ruthven,17.134645072051903,43.1265400146301,-94.8987600579858,Blue Daisy Cafe & Catering,1,"Graettinger, IA",False,-1,5.0,IA
+"909 Broadway St, Emmetsburg, IA 50536",restaurant,Emmetsburg,15.065117246328969,43.1115112304688,-94.6792907714844,Don Jose Mexican Restaurant,9,"Graettinger, IA",False,2,4.0,IA
+"710 Central Ave, Estherville, IA 51334",restaurant,Estherville,19.59397834241998,43.4018538179624,-94.834798441791,El Tequilla,2,"Graettinger, IA",False,-1,4.0,IA
+"122 Main St, Webb, IA 51366",restaurant,Webb,38.35178560690785,42.9490394592285,-95.0116653442383,Jacksons Cafe,1,"Graettinger, IA",False,-1,5.0,IA
+"3101 Main St, Emmetsburg, IA 50536",restaurant,Emmetsburg,14.668876855500207,43.1122436523438,-94.6905059814453,Kirby's Cafe,5,"Graettinger, IA",False,1,3.0,IA
+"3401 Main St, Emmetsburg, IA 50536",restaurant,Emmetsburg,14.575335144479967,43.112247467041,-94.6942367553711,A & W Restaurant,2,"Graettinger, IA",False,-1,4.5,IA
+"1205 S Grand Ave, Spencer, IA 51301",restaurant,Spencer,34.229208324510815,43.124683380127,-95.1441192626953,Prime Rib,32,"Graettinger, IA",False,2,3.5,IA
+"777 Main St, Emmetsburg, IA 50536",restaurant,Emmetsburg,15.295225802304403,43.11514,-94.66163,Dunigan's Irish Pub,6,"Graettinger, IA",False,2,1.5,IA
+"777 Main St, Emmetsburg, IA 50536",restaurant,Emmetsburg,15.295225802304403,43.1151428222656,-94.6616363525391,Wild Rose Casino & Resort,7,"Graettinger, IA",False,-1,3.0,IA
+"207 11th St SE, Spencer, IA 51301",restaurant,Spencer,33.97142750329676,43.126421335093,-95.1416106149554,Tienda Mexicana,10,"Graettinger, IA",False,1,5.0,IA
+"777 Main St, Emmetsburg, IA 50536",restaurant,Emmetsburg,15.295225802304403,43.1151399,-94.66163,Emmet's Grill Buffet,1,"Graettinger, IA",False,-1,3.0,IA

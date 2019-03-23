@@ -1,0 +1,4 @@
+address,category,city,km distance,latitude,longitude,name,num reviews,origination,permanently closed?,price,rating,state
+"103 W Main St, New London, IA 52645",optometrist,New London,34.08743027387924,40.9255447387695,-91.4020080566406,McPheron Robert S Optometrist,2,"Donnellson, IA",False,-1,5.0,IA
+"1035 Lawrence Dr, Ste 106, Burlington, IA 52601",optometrist,Burlington,39.48222192362268,40.797684940876,-91.140743335809,All About Eyes - Burlington,2,"Donnellson, IA",False,1,4.5,IA
+"1035 Lawrence Dr, Ste 106, Burlington, IA 52601",optometrist,Burlington,39.481642487956975,40.797755,-91.140795,"Spitz Eyecare, LLC",1,"Donnellson, IA",False,-1,5.0,IA
