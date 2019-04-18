@@ -1,0 +1,294 @@
+,home city,work city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+20191,"Dubuque, IA","Dubuque, IA",3867,7585,2614,1755,10321,1990,4624,6106,3336,14066,2007
+20130,"Dubuque, IA","Asbury, IA",1136,1991,596,661,1980,1082,1125,1674,924,3723,2007
+20351,"Dubuque, IA","Sageville, IA",248,524,245,438,495,84,211,399,407,1017,2007
+20182,"Dubuque, IA","Davenport, IA",217,294,134,80,412,153,313,197,135,645,2007
+20161,"Dubuque, IA","Cedar Rapids, IA",242,289,78,42,294,273,239,237,133,609,2007
+20329,"Dubuque, IA","Peosta, IA",119,239,37,315,33,47,49,262,84,395,2007
+20143,"Dubuque, IA","Bettendorf, IA",120,130,39,4,149,136,163,101,25,289,2007
+20241,"Dubuque, IA","Hiawatha, IA",93,114,33,13,125,102,112,83,45,240,2007
+20250,"Dubuque, IA","Iowa City, IA",102,103,34,10,149,80,133,62,44,239,2007
+20170,"Dubuque, IA","Clinton, IA",128,79,27,9,179,46,137,64,33,234,2007
+20385,"Dubuque, IA","Waterloo, IA",87,87,27,43,101,57,75,61,65,201,2007
+20197,"Dubuque, IA","Eldridge, IA",46,116,26,42,101,45,47,38,103,188,2007
+20188,"Dubuque, IA","Des Moines, IA",50,102,29,7,107,67,36,69,76,181,2007
+20192,"Dubuque, IA","Dyersville, IA",54,91,24,47,72,50,69,73,27,169,2007
+20176,"Dubuque, IA","Coralville, IA",62,49,10,7,60,54,70,38,13,121,2007
+20208,"Dubuque, IA","Farley, IA",37,66,17,84,15,21,27,59,34,120,2007
+20160,"Dubuque, IA","Cedar Falls, IA",57,51,12,28,52,40,53,34,33,120,2007
+20302,"Dubuque, IA","Muscatine, IA",38,47,18,3,57,43,47,36,20,103,2007
+20278,"Dubuque, IA","Maquoketa, IA",26,57,19,14,56,32,22,53,27,102,2007
+20211,"Dubuque, IA","Fort Atkinson, IA",6,49,38,1,91,1,43,28,22,93,2007
+20206,"Dubuque, IA","Fairfax, IA",36,34,11,0,9,72,38,31,12,81,2007
+20171,"Dubuque, IA","Clive, IA",33,33,8,1,43,30,31,23,20,74,2007
+20202,"Dubuque, IA","Epworth, IA",20,43,11,16,44,14,21,29,24,74,2007
+20136,"Dubuque, IA","Balltown, IA",17,39,17,5,49,19,20,32,21,73,2007
+20347,"Dubuque, IA","Robins, IA",27,27,10,0,25,39,28,23,13,64,2007
+20368,"Dubuque, IA","Tiffin, IA",11,40,11,2,5,55,28,20,14,62,2007
+20372,"Dubuque, IA","University Heights, IA",41,17,3,2,37,22,36,13,12,61,2007
+20375,"Dubuque, IA","Urbandale, IA",22,32,6,5,21,34,15,25,20,60,2007
+20273,"Dubuque, IA","Low Moor, IA",30,22,6,4,27,27,29,21,8,58,2007
+20294,"Dubuque, IA","Monticello, IA",16,28,11,28,17,10,10,31,14,55,2007
+20276,"Dubuque, IA","Manchester, IA",21,24,9,3,34,17,15,29,10,54,2007
+20200,"Dubuque, IA","Elkader, IA",5,27,19,0,46,5,7,17,27,51,2007
+20128,"Dubuque, IA","Ankeny, IA",11,24,6,15,9,17,9,10,22,41,2007
+20321,"Dubuque, IA","Ottumwa, IA",11,25,5,10,9,22,12,13,16,41,2007
+20139,"Dubuque, IA","Bellevue, IA",7,21,11,10,23,6,16,15,8,39,2007
+20183,"Dubuque, IA","De Witt, IA",8,24,6,9,19,10,12,8,18,38,2007
+20358,"Dubuque, IA","Springbrook, IA",12,23,2,15,3,19,12,22,3,37,2007
+20283,"Dubuque, IA","Mason City, IA",12,21,3,0,24,12,13,8,15,36,2007
+20317,"Dubuque, IA","Oelwein, IA",17,14,4,6,20,9,17,17,1,35,2007
+20153,"Dubuque, IA","Burlington, IA",13,16,6,1,16,18,14,12,9,35,2007
+20247,"Dubuque, IA","Independence, IA",8,20,6,6,18,10,12,14,8,34,2007
+20309,"Dubuque, IA","New Vienna, IA",6,17,10,3,21,9,9,15,9,33,2007
+20212,"Dubuque, IA","Fort Dodge, IA",11,16,6,3,14,16,12,14,7,33,2007
+20300,"Dubuque, IA","Mount Pleasant, IA",9,14,8,4,7,20,7,18,6,31,2007
+20221,"Dubuque, IA","Graf, IA",8,13,9,11,15,4,8,15,7,30,2007
+20392,"Dubuque, IA","West Burlington, IA",12,12,4,0,6,22,9,13,6,28,2007
+20123,"Dubuque, IA","Ames, IA",14,7,7,1,23,4,20,8,0,28,2007
+20345,"Dubuque, IA","Riverdale, IA",9,11,6,0,24,2,10,13,3,26,2007
+20314,"Dubuque, IA","North Liberty, IA",9,10,5,2,15,7,13,8,3,24,2007
+20388,"Dubuque, IA","Waverly, IA",15,4,5,1,16,7,15,5,4,24,2007
+20274,"Dubuque, IA","Luana, IA",7,14,2,23,0,0,3,16,4,23,2007
+20401,"Dubuque, IA","Windsor Heights, IA",8,10,5,1,10,12,7,14,2,23,2007
+20184,"Dubuque, IA","Decorah, IA",11,7,4,3,8,11,13,7,2,22,2007
+20326,"Dubuque, IA","Panorama Park, IA",8,10,3,4,14,3,3,12,6,21,2007
+20280,"Dubuque, IA","Marion, IA",5,7,8,2,11,7,10,5,5,20,2007
+20124,"Dubuque, IA","Anamosa, IA",1,12,7,0,19,1,0,12,8,20,2007
+20122,"Dubuque, IA","Altoona, IA",7,10,2,1,4,14,9,7,3,19,2007
+20406,"Dubuque, IA","Worthington, IA",9,8,2,8,3,8,5,8,6,19,2007
+20155,"Dubuque, IA","Camanche, IA",7,9,2,0,6,12,10,8,0,18,2007
+20394,"Dubuque, IA","West Des Moines, IA",7,7,4,1,9,8,8,7,3,18,2007
+20148,"Dubuque, IA","Boone, IA",6,11,1,2,11,5,8,6,4,18,2007
+20311,"Dubuque, IA","Newton, IA",4,8,5,2,11,4,7,4,6,17,2007
+20157,"Dubuque, IA","Cascade, IA",5,10,2,0,15,2,6,7,4,17,2007
+20369,"Dubuque, IA","Tipton, IA",4,3,9,0,9,7,4,8,4,16,2007
+20353,"Dubuque, IA","Shueyville, IA",2,12,2,1,3,12,6,7,3,16,2007
+20296,"Dubuque, IA","Morley, IA",4,10,2,0,2,14,6,8,2,16,2007
+20213,"Dubuque, IA","Fort Madison, IA",11,5,0,2,10,4,7,8,1,16,2007
+20126,"Dubuque, IA","Andrew, IA",3,12,0,6,8,1,3,8,4,15,2007
+20177,"Dubuque, IA","Council Bluffs, IA",7,5,3,1,6,8,7,7,1,15,2007
+20229,"Dubuque, IA","Grinnell, IA",3,9,3,4,7,4,5,6,4,15,2007
+20305,"Dubuque, IA","New Hampton, IA",3,6,5,4,9,1,2,7,5,14,2007
+20384,"Dubuque, IA","Washington, IA",2,6,4,1,2,9,2,8,2,12,2007
+20132,"Dubuque, IA","Atlantic, IA",3,8,1,3,2,7,6,3,3,12,2007
+20203,"Dubuque, IA","Evansdale, IA",8,3,1,0,4,8,6,4,2,12,2007
+20255,"Dubuque, IA","Johnston, IA",4,7,0,1,8,2,4,1,6,11,2007
+20316,"Dubuque, IA","Norwalk, IA",7,2,2,0,2,9,8,0,3,11,2007
+20387,"Dubuque, IA","Waukon, IA",3,4,4,3,3,5,3,4,4,11,2007
+20251,"Dubuque, IA","Iowa Falls, IA",3,7,0,1,2,7,3,5,2,10,2007
+20281,"Dubuque, IA","Marshalltown, IA",3,7,0,1,5,4,4,3,3,10,2007
+20185,"Dubuque, IA","Delaware, IA",0,9,1,3,3,4,2,5,3,10,2007
+20370,"Dubuque, IA","Toledo, IA",6,2,2,0,9,1,4,6,0,10,2007
+20232,"Dubuque, IA","Guttenberg, IA",1,8,1,2,8,0,2,4,4,10,2007
+20386,"Dubuque, IA","Waukee, IA",1,9,0,1,4,5,2,3,5,10,2007
+20259,"Dubuque, IA","Knoxville, IA",2,4,4,2,4,4,5,4,1,10,2007
+20323,"Dubuque, IA","Oxford, IA",3,2,4,0,6,3,3,4,2,9,2007
+20320,"Dubuque, IA","Oskaloosa, IA",4,3,2,3,2,4,3,2,4,9,2007
+20164,"Dubuque, IA","Chariton, IA",4,5,0,0,1,8,5,2,2,9,2007
+20217,"Dubuque, IA","Garnavillo, IA",1,5,3,1,6,2,2,6,1,9,2007
+20335,"Dubuque, IA","Preston, IA",3,3,3,3,2,4,6,3,0,9,2007
+20207,"Dubuque, IA","Fairfield, IA",2,7,0,1,4,4,3,3,3,9,2007
+20378,"Dubuque, IA","Vinton, IA",1,4,3,1,1,6,1,6,1,8,2007
+20248,"Dubuque, IA","Indianola, IA",5,3,0,0,2,6,3,5,0,8,2007
+20396,"Dubuque, IA","West Union, IA",2,4,2,1,6,1,3,5,0,8,2007
+20346,"Dubuque, IA","Riverside, IA",4,2,2,0,2,6,3,3,2,8,2007
+20328,"Dubuque, IA","Pella, IA",6,0,1,2,2,3,6,1,0,7,2007
+20257,"Dubuque, IA","Keokuk, IA",2,4,1,0,3,4,3,3,1,7,2007
+20156,"Dubuque, IA","Carroll, IA",3,4,0,0,0,7,1,4,2,7,2007
+20331,"Dubuque, IA","Pleasant Hill, IA",3,2,1,1,1,4,2,0,4,6,2007
+20324,"Dubuque, IA","Palo, IA",0,6,0,1,2,3,2,3,1,6,2007
+20186,"Dubuque, IA","Denison, IA",0,4,2,4,2,0,0,5,1,6,2007
+20298,"Dubuque, IA","Morrison, IA",3,2,1,5,0,1,1,1,4,6,2007
+20144,"Dubuque, IA","Blairstown, IA",4,2,0,3,2,1,2,3,1,6,2007
+20199,"Dubuque, IA","Elk Run Heights, IA",1,5,0,2,3,1,1,3,2,6,2007
+20165,"Dubuque, IA","Charles City, IA",3,2,1,0,5,1,2,2,2,6,2007
+20397,"Dubuque, IA","Whitten, IA",1,5,0,0,0,6,0,5,1,6,2007
+20362,"Dubuque, IA","Storm Lake, IA",2,3,1,0,4,2,3,3,0,6,2007
+20373,"Dubuque, IA","University Park, IA",1,3,2,0,1,5,3,2,1,6,2007
+20363,"Dubuque, IA","Story City, IA",3,1,2,3,2,1,3,0,3,6,2007
+20334,"Dubuque, IA","Postville, IA",0,2,3,1,2,2,1,4,0,5,2007
+20233,"Dubuque, IA","Hampton, IA",1,3,1,2,1,2,0,5,0,5,2007
+20254,"Dubuque, IA","Jesup, IA",2,2,1,1,2,2,0,3,2,5,2007
+20279,"Dubuque, IA","Marengo, IA",1,2,2,0,4,1,3,2,0,5,2007
+20201,"Dubuque, IA","Ely, IA",4,1,0,0,5,0,1,4,0,5,2007
+20159,"Dubuque, IA","Castalia, IA",1,3,1,3,1,1,1,1,3,5,2007
+20169,"Dubuque, IA","Clear Lake, IA",2,3,0,1,4,0,1,2,2,5,2007
+20389,"Dubuque, IA","Webster City, IA",3,2,0,1,2,2,3,0,2,5,2007
+20286,"Dubuque, IA","Mechanicsville, IA",2,2,1,0,5,0,1,3,1,5,2007
+20196,"Dubuque, IA","Edgewood, IA",2,3,0,2,3,0,4,0,1,5,2007
+20409,"Dubuque, IA","Zwingle, IA",1,3,1,2,1,2,3,2,0,5,2007
+20256,"Dubuque, IA","Kalona, IA",0,3,1,3,0,1,1,2,1,4,2007
+20360,"Dubuque, IA","St. Olaf, IA",0,4,0,1,2,1,1,3,0,4,2007
+20356,"Dubuque, IA","Sioux City, IA",0,4,0,0,3,1,3,1,0,4,2007
+20319,"Dubuque, IA","Osceola, IA",1,3,0,0,3,1,0,1,3,4,2007
+20253,"Dubuque, IA","Jefferson, IA",1,3,0,0,3,1,2,1,1,4,2007
+20355,"Dubuque, IA","Sigourney, IA",0,2,2,0,3,1,2,1,1,4,2007
+20341,"Dubuque, IA","Reinbeck, IA",4,0,0,1,3,0,3,1,0,4,2007
+20288,"Dubuque, IA","Melcher-Dallas, IA",3,0,1,0,1,3,2,2,0,4,2007
+20330,"Dubuque, IA","Perry, IA",2,2,0,1,2,1,2,1,1,4,2007
+20336,"Dubuque, IA","Princeton, IA",3,1,0,0,4,0,3,1,0,4,2007
+20226,"Dubuque, IA","Greeley, IA",1,3,0,1,1,2,1,1,2,4,2007
+20120,"Dubuque, IA","Albia, IA",0,4,0,0,1,3,2,0,2,4,2007
+20222,"Dubuque, IA","Grandview, IA",1,0,3,0,3,1,1,3,0,4,2007
+20242,"Dubuque, IA","Hopkinton, IA",0,3,1,1,3,0,0,4,0,4,2007
+20205,"Dubuque, IA","Fairbank, IA",1,3,0,2,0,2,1,3,0,4,2007
+20152,"Dubuque, IA","Buffalo, IA",2,1,1,0,3,1,3,1,0,4,2007
+20407,"Dubuque, IA","Wyoming, IA",3,1,0,0,2,2,2,2,0,4,2007
+20235,"Dubuque, IA","Harlan, IA",0,3,1,0,3,1,0,1,3,4,2007
+20245,"Dubuque, IA","Humboldt, IA",1,3,0,1,2,1,1,2,1,4,2007
+20228,"Dubuque, IA","Grimes, IA",0,3,1,0,0,4,0,1,3,4,2007
+20381,"Dubuque, IA","Walford, IA",1,2,1,0,4,0,2,2,0,4,2007
+20391,"Dubuque, IA","West Branch, IA",1,3,0,0,1,3,1,3,0,4,2007
+20195,"Dubuque, IA","Eddyville, IA",0,4,0,1,2,1,0,1,3,4,2007
+20246,"Dubuque, IA","Huxley, IA",2,1,0,2,1,0,2,0,1,3,2007
+20146,"Dubuque, IA","Blue Grass, IA",0,3,0,1,1,1,0,0,3,3,2007
+20344,"Dubuque, IA","Ridgeway, IA",1,0,2,0,3,0,2,0,1,3,2007
+20190,"Dubuque, IA","Dixon, IA",0,1,2,0,3,0,0,0,3,3,2007
+20287,"Dubuque, IA","Mediapolis, IA",1,1,1,0,3,0,1,2,0,3,2007
+20307,"Dubuque, IA","New London, IA",0,1,2,0,3,0,0,0,3,3,2007
+20219,"Dubuque, IA","Gilbert, IA",2,1,0,3,0,0,1,1,1,3,2007
+20349,"Dubuque, IA","Sabula, IA",2,0,1,0,3,0,1,2,0,3,2007
+20187,"Dubuque, IA","Denver, IA",2,0,1,0,1,2,2,1,0,3,2007
+20301,"Dubuque, IA","Mount Union, IA",1,1,1,0,0,3,2,1,0,3,2007
+20297,"Dubuque, IA","Morning Sun, IA",2,0,1,1,2,0,1,2,0,3,2007
+20275,"Dubuque, IA","Lynnville, IA",1,2,0,1,2,0,0,1,2,3,2007
+20178,"Dubuque, IA","Creston, IA",2,1,0,0,2,1,2,1,0,3,2007
+20340,"Dubuque, IA","Red Oak, IA",1,1,1,0,2,1,0,2,1,3,2007
+20249,"Dubuque, IA","Ionia, IA",1,2,0,0,3,0,2,1,0,3,2007
+20141,"Dubuque, IA","Bennett, IA",0,3,0,1,0,2,1,1,1,3,2007
+20357,"Dubuque, IA","Spencer, IA",2,1,0,1,1,1,0,2,1,3,2007
+20367,"Dubuque, IA","Tennant, IA",0,3,0,0,2,1,0,2,1,3,2007
+20252,"Dubuque, IA","Janesville, IA",0,3,0,0,2,1,3,0,0,3,2007
+20359,"Dubuque, IA","Springville, IA",1,2,0,0,3,0,0,3,0,3,2007
+20223,"Dubuque, IA","Granger, IA",0,3,0,0,1,2,0,2,1,3,2007
+20121,"Dubuque, IA","Algona, IA",2,0,1,0,1,2,2,1,0,3,2007
+20374,"Dubuque, IA","Urbana, IA",1,1,1,0,0,3,1,1,1,3,2007
+20271,"Dubuque, IA","Long Grove, IA",0,3,0,0,1,2,1,2,0,3,2007
+20131,"Dubuque, IA","Atalissa, IA",0,3,0,0,3,0,2,1,0,3,2007
+20337,"Dubuque, IA","Protivin, IA",0,1,2,0,2,1,1,2,0,3,2007
+20168,"Dubuque, IA","Clarinda, IA",2,0,0,1,1,0,1,1,0,2,2007
+20166,"Dubuque, IA","Cherokee, IA",1,1,0,1,0,1,1,1,0,2,2007
+20304,"Dubuque, IA","Nevada, IA",0,2,0,0,2,0,0,2,0,2,2007
+20154,"Dubuque, IA","Bussey, IA",1,1,0,1,0,1,0,1,1,2,2007
+20403,"Dubuque, IA","Winterset, IA",0,2,0,0,0,2,0,2,0,2,2007
+20402,"Dubuque, IA","Winfield, IA",0,1,1,1,0,1,0,1,1,2,2007
+20322,"Dubuque, IA","Owasa, IA",1,1,0,0,1,1,1,1,0,2,2007
+20399,"Dubuque, IA","Williamsburg, IA",1,0,1,0,1,1,1,0,1,2,2007
+20310,"Dubuque, IA","Newell, IA",1,1,0,1,0,1,1,1,0,2,2007
+20395,"Dubuque, IA","West Liberty, IA",2,0,0,0,2,0,0,2,0,2,2007
+20315,"Dubuque, IA","Northwood, IA",2,0,0,2,0,0,0,2,0,2,2007
+20147,"Dubuque, IA","Bonaparte, IA",1,0,1,0,1,1,0,1,1,2,2007
+20318,"Dubuque, IA","Osage, IA",1,1,0,0,1,1,0,1,1,2,2007
+20398,"Dubuque, IA","Willey, IA",0,2,0,2,0,0,0,0,2,2,2007
+20227,"Dubuque, IA","Greenfield, IA",1,0,1,1,0,1,0,1,1,2,2007
+20174,"Dubuque, IA","Conrad, IA",2,0,0,0,1,1,1,1,0,2,2007
+20210,"Dubuque, IA","Forest City, IA",0,1,1,0,2,0,0,2,0,2,2007
+20236,"Dubuque, IA","Harpers Ferry, IA",0,1,1,0,0,2,0,0,2,2,2007
+20365,"Dubuque, IA","Strawberry Point, IA",2,0,0,1,0,1,1,1,0,2,2007
+20364,"Dubuque, IA","Stratford, IA",0,2,0,0,2,0,0,0,2,2,2007
+20261,"Dubuque, IA","Lake City, IA",0,1,1,0,1,1,0,2,0,2,2007
+20376,"Dubuque, IA","Van Meter, IA",0,2,0,1,0,1,0,1,1,2,2007
+20361,"Dubuque, IA","Stanhope, IA",1,0,1,1,0,1,1,1,0,2,2007
+20265,"Dubuque, IA","Lamoni, IA",1,0,1,0,2,0,1,1,0,2,2007
+20270,"Dubuque, IA","Lisbon, IA",2,0,0,0,0,2,1,0,1,2,2007
+20220,"Dubuque, IA","Gilman, IA",0,2,0,1,1,0,0,1,1,2,2007
+20180,"Dubuque, IA","Dallas Center, IA",0,2,0,0,1,1,1,1,0,2,2007
+20216,"Dubuque, IA","Fruitland, IA",0,0,2,0,0,2,0,2,0,2,2007
+20218,"Dubuque, IA","Garner, IA",1,0,1,1,1,0,0,1,1,2,2007
+20352,"Dubuque, IA","Shelby, IA",0,2,0,0,2,0,1,1,0,2,2007
+20293,"Dubuque, IA","Montezuma, IA",0,2,0,1,1,0,0,1,1,2,2007
+20380,"Dubuque, IA","Walcott, IA",1,0,1,0,1,1,2,0,0,2,2007
+20285,"Dubuque, IA","Maxwell, IA",0,1,1,0,0,2,0,1,1,2,2007
+20383,"Dubuque, IA","Wapello, IA",0,2,0,2,0,0,0,0,2,2,2007
+20408,"Dubuque, IA","Yetter, IA",1,0,0,0,0,1,0,0,1,1,2007
+20366,"Dubuque, IA","Sumner, IA",1,0,0,0,0,1,1,0,0,1,2007
+20338,"Dubuque, IA","Randalia, IA",0,1,0,0,1,0,0,0,1,1,2007
+20339,"Dubuque, IA","Raymond, IA",0,1,0,0,0,1,0,0,1,1,2007
+20371,"Dubuque, IA","Truesdale, IA",1,0,0,1,0,0,1,0,0,1,2007
+20390,"Dubuque, IA","Wellsburg, IA",0,1,0,0,0,1,0,0,1,1,2007
+20405,"Dubuque, IA","Woden, IA",0,1,0,0,1,0,0,1,0,1,2007
+20348,"Dubuque, IA","Rockwell City, IA",0,0,1,0,0,1,0,0,1,1,2007
+20379,"Dubuque, IA","Wadena, IA",0,1,0,0,1,0,1,0,0,1,2007
+20404,"Dubuque, IA","Wiota, IA",0,1,0,0,0,1,0,1,0,1,2007
+20342,"Dubuque, IA","Renwick, IA",0,1,0,0,0,1,0,0,1,1,2007
+20393,"Dubuque, IA","West Chester, IA",0,1,0,0,1,0,0,1,0,1,2007
+20400,"Dubuque, IA","Wilton, IA",0,1,0,0,1,0,0,1,0,1,2007
+20382,"Dubuque, IA","Walker, IA",0,1,0,1,0,0,1,0,0,1,2007
+20354,"Dubuque, IA","Sibley, IA",0,1,0,1,0,0,0,1,0,1,2007
+20343,"Dubuque, IA","Richland, IA",0,1,0,0,0,1,0,1,0,1,2007
+20377,"Dubuque, IA","Victor, IA",0,1,0,0,1,0,0,1,0,1,2007
+20350,"Dubuque, IA","Sac City, IA",1,0,0,0,0,1,0,1,0,1,2007
+20117,"Dubuque, IA","Ackley, IA",0,0,1,0,0,1,0,1,0,1,2007
+20333,"Dubuque, IA","Pomeroy, IA",1,0,0,0,1,0,0,1,0,1,2007
+20332,"Dubuque, IA","Polk City, IA",0,1,0,0,1,0,0,0,1,1,2007
+20167,"Dubuque, IA","Clarence, IA",1,0,0,0,0,1,0,1,0,1,2007
+20172,"Dubuque, IA","Colo, IA",0,1,0,0,1,0,0,0,1,1,2007
+20173,"Dubuque, IA","Columbus Junction, IA",0,1,0,1,0,0,0,1,0,1,2007
+20175,"Dubuque, IA","Coon Rapids, IA",1,0,0,0,0,1,0,0,1,1,2007
+20179,"Dubuque, IA","Crystal Lake, IA",0,0,1,0,0,1,0,1,0,1,2007
+20181,"Dubuque, IA","Danbury, IA",1,0,0,0,1,0,1,0,0,1,2007
+20189,"Dubuque, IA","Dexter, IA",1,0,0,0,1,0,1,0,0,1,2007
+20193,"Dubuque, IA","Dysart, IA",0,1,0,0,0,1,0,1,0,1,2007
+20194,"Dubuque, IA","Early, IA",1,0,0,0,1,0,1,0,0,1,2007
+20198,"Dubuque, IA","Elgin, IA",0,1,0,0,1,0,0,1,0,1,2007
+20204,"Dubuque, IA","Exira, IA",0,1,0,0,1,0,0,1,0,1,2007
+20209,"Dubuque, IA","Floris, IA",1,0,0,0,0,1,1,0,0,1,2007
+20214,"Dubuque, IA","Franklin, IA",1,0,0,0,0,1,1,0,0,1,2007
+20215,"Dubuque, IA","Fredericksburg, IA",1,0,0,1,0,0,0,1,0,1,2007
+20224,"Dubuque, IA","Grant, IA",0,1,0,0,0,1,0,1,0,1,2007
+20163,"Dubuque, IA","Centerville, IA",1,0,0,0,1,0,1,0,0,1,2007
+20162,"Dubuque, IA","Center Junction, IA",1,0,0,1,0,0,0,1,0,1,2007
+20158,"Dubuque, IA","Casey, IA",0,1,0,0,1,0,0,1,0,1,2007
+20135,"Dubuque, IA","Baldwin, IA",0,1,0,0,0,1,1,0,0,1,2007
+20119,"Dubuque, IA","Adel, IA",0,1,0,0,1,0,0,1,0,1,2007
+20125,"Dubuque, IA","Andover, IA",0,1,0,0,0,1,0,1,0,1,2007
+20127,"Dubuque, IA","Anita, IA",1,0,0,0,1,0,0,0,1,1,2007
+20129,"Dubuque, IA","Arthur, IA",0,1,0,0,1,0,0,1,0,1,2007
+20133,"Dubuque, IA","Aurelia, IA",1,0,0,0,1,0,0,1,0,1,2007
+20134,"Dubuque, IA","Bagley, IA",0,1,0,1,0,0,0,0,1,1,2007
+20137,"Dubuque, IA","Battle Creek, IA",0,1,0,0,0,1,0,0,1,1,2007
+20151,"Dubuque, IA","Braddyville, IA",0,1,0,0,0,1,0,0,1,1,2007
+20138,"Dubuque, IA","Belle Plaine, IA",0,1,0,0,1,0,1,0,0,1,2007
+20140,"Dubuque, IA","Belmond, IA",0,0,1,0,0,1,1,0,0,1,2007
+20142,"Dubuque, IA","Bertram, IA",1,0,0,0,1,0,1,0,0,1,2007
+20145,"Dubuque, IA","Bloomfield, IA",0,1,0,0,0,1,0,1,0,1,2007
+20149,"Dubuque, IA","Boxholm, IA",0,1,0,1,0,0,0,0,1,1,2007
+20150,"Dubuque, IA","Boyden, IA",0,1,0,0,1,0,0,1,0,1,2007
+20225,"Dubuque, IA","Gray, IA",0,1,0,0,1,0,0,1,0,1,2007
+20230,"Dubuque, IA","Guernsey, IA",0,1,0,0,1,0,1,0,0,1,2007
+20231,"Dubuque, IA","Guthrie Center, IA",0,1,0,0,0,1,1,0,0,1,2007
+20299,"Dubuque, IA","Mount Auburn, IA",0,1,0,0,1,0,1,0,0,1,2007
+20284,"Dubuque, IA","Massena, IA",1,0,0,0,1,0,1,0,0,1,2007
+20289,"Dubuque, IA","Meriden, IA",1,0,0,0,0,1,1,0,0,1,2007
+20290,"Dubuque, IA","Milford, IA",0,1,0,0,0,1,0,1,0,1,2007
+20291,"Dubuque, IA","Milton, IA",0,0,1,0,1,0,1,0,0,1,2007
+20292,"Dubuque, IA","Monona, IA",1,0,0,1,0,0,0,1,0,1,2007
+20295,"Dubuque, IA","Moravia, IA",1,0,0,1,0,0,0,1,0,1,2007
+20303,"Dubuque, IA","Nashua, IA",1,0,0,0,0,1,1,0,0,1,2007
+20277,"Dubuque, IA","Manning, IA",1,0,0,0,1,0,0,1,0,1,2007
+20306,"Dubuque, IA","New Hartford, IA",0,1,0,1,0,0,0,0,1,1,2007
+20308,"Dubuque, IA","New Sharon, IA",0,1,0,0,1,0,0,1,0,1,2007
+20312,"Dubuque, IA","Nodaway, IA",0,1,0,0,1,0,0,1,0,1,2007
+20313,"Dubuque, IA","North English, IA",0,1,0,0,1,0,0,1,0,1,2007
+20325,"Dubuque, IA","Panama, IA",0,1,0,0,1,0,1,0,0,1,2007
+20327,"Dubuque, IA","Parnell, IA",0,0,1,0,1,0,0,0,1,1,2007
+20282,"Dubuque, IA","Martelle, IA",0,1,0,0,0,1,0,1,0,1,2007
+20272,"Dubuque, IA","Lost Nation, IA",0,1,0,0,1,0,0,1,0,1,2007
+20234,"Dubuque, IA","Hanlontown, IA",0,1,0,0,0,1,1,0,0,1,2007
+20258,"Dubuque, IA","Kirkville, IA",1,0,0,0,1,0,0,0,1,1,2007
+20237,"Dubuque, IA","Hartwick, IA",0,0,1,0,0,1,1,0,0,1,2007
+20238,"Dubuque, IA","Harvey, IA",1,0,0,0,1,0,1,0,0,1,2007
+20239,"Dubuque, IA","Hastings, IA",0,1,0,0,0,1,0,1,0,1,2007
+20240,"Dubuque, IA","Hazleton, IA",0,1,0,1,0,0,0,0,1,1,2007
+20243,"Dubuque, IA","Hospers, IA",0,1,0,0,1,0,0,1,0,1,2007
+20244,"Dubuque, IA","Hudson, IA",1,0,0,1,0,0,0,1,0,1,2007
+20260,"Dubuque, IA","La Porte City, IA",0,1,0,0,1,0,1,0,0,1,2007
+20269,"Dubuque, IA","Lincoln, IA",1,0,0,0,1,0,1,0,0,1,2007
+20262,"Dubuque, IA","Lake Mills, IA",0,1,0,1,0,0,0,1,0,1,2007
+20118,"Dubuque, IA","Adair, IA",0,1,0,1,0,0,0,1,0,1,2007
+20264,"Dubuque, IA","Lambs Grove, IA",0,0,1,0,1,0,0,0,1,1,2007
+20266,"Dubuque, IA","Larrabee, IA",0,0,1,0,0,1,0,0,1,1,2007
+20267,"Dubuque, IA","Lawler, IA",0,1,0,1,0,0,0,0,1,1,2007
+20268,"Dubuque, IA","Le Claire, IA",0,1,0,1,0,0,1,0,0,1,2007
+20263,"Dubuque, IA","Lakeside, IA",0,1,0,1,0,0,1,0,0,1,2007

@@ -1,0 +1,488 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+2965,"Ankeny, IA","Ankeny, IA",1531,3286,1086,777,3893,1233,1880,1717,2306,5903,2011
+3069,"Ankeny, IA","Des Moines, IA",768,1492,437,697,1248,752,686,1140,871,2697,2011
+3300,"Ankeny, IA","Pleasant Hill, IA",317,737,208,330,517,415,252,468,542,1262,2011
+3391,"Ankeny, IA","Urbandale, IA",264,503,158,159,481,285,229,289,407,925,2011
+3425,"Ankeny, IA","Windsor Heights, IA",215,488,156,142,469,248,244,285,330,859,2011
+2960,"Ankeny, IA","Altoona, IA",221,437,127,153,364,268,180,284,321,785,2011
+3032,"Ankeny, IA","Clive, IA",176,354,112,66,392,184,212,135,295,642,2011
+2961,"Ankeny, IA","Ames, IA",220,263,91,58,347,169,202,181,191,574,2011
+3415,"Ankeny, IA","West Des Moines, IA",155,271,89,87,276,152,160,163,192,515,2011
+3171,"Ankeny, IA","Johnston, IA",150,234,97,84,254,143,134,150,197,481,2011
+3405,"Ankeny, IA","Waukee, IA",117,275,74,64,238,164,144,102,220,466,2011
+3272,"Ankeny, IA","Norwalk, IA",90,235,44,96,145,128,84,115,170,369,2011
+2996,"Ankeny, IA","Bondurant, IA",74,175,53,64,176,62,80,94,128,302,2011
+3009,"Ankeny, IA","Carlisle, IA",66,139,52,68,108,81,46,78,133,257,2011
+3158,"Ankeny, IA","Huxley, IA",46,136,48,43,126,61,55,72,103,230,2011
+3162,"Ankeny, IA","Indianola, IA",59,128,39,51,102,73,52,75,99,226,2011
+3305,"Ankeny, IA","Polk City, IA",53,139,33,33,129,63,46,60,119,225,2011
+3265,"Ankeny, IA","Newton, IA",60,117,35,51,70,91,48,69,95,212,2011
+2997,"Ankeny, IA","Boone, IA",58,108,43,31,115,63,64,52,93,209,2011
+3209,"Ankeny, IA","Madrid, IA",50,115,38,38,113,52,52,56,95,203,2011
+3007,"Ankeny, IA","Cambridge, IA",43,107,37,43,98,46,36,63,88,187,2011
+3237,"Ankeny, IA","Mitchellville, IA",41,103,30,60,61,53,41,48,85,174,2011
+3283,"Ankeny, IA","Ottumwa, IA",36,93,40,69,44,56,52,56,61,169,2011
+3404,"Ankeny, IA","Waterloo, IA",54,89,26,74,45,50,39,42,88,169,2011
+3220,"Ankeny, IA","Marshalltown, IA",37,102,22,19,82,60,70,54,37,161,2011
+3180,"Ankeny, IA","Knoxville, IA",44,87,25,24,64,68,27,52,77,156,2011
+3135,"Ankeny, IA","Grimes, IA",32,99,15,36,64,46,29,34,83,146,2011
+3016,"Ankeny, IA","Cedar Rapids, IA",47,80,18,17,56,72,54,40,51,145,2011
+3259,"Ankeny, IA","Nevada, IA",39,73,23,33,69,33,31,50,54,135,2011
+3059,"Ankeny, IA","Davenport, IA",27,59,31,6,45,66,31,39,47,117,2011
+3046,"Ankeny, IA","Council Bluffs, IA",43,45,29,4,57,56,40,46,31,117,2011
+3354,"Ankeny, IA","Sioux City, IA",42,49,19,3,53,54,41,33,36,110,2011
+3015,"Ankeny, IA","Cedar Falls, IA",46,44,20,43,40,27,32,29,49,110,2011
+3060,"Ankeny, IA","De Soto, IA",16,72,16,14,45,45,22,27,55,104,2011
+3112,"Ankeny, IA","Fort Dodge, IA",34,50,15,4,45,50,40,30,29,99,2011
+3331,"Ankeny, IA","Runnells, IA",26,42,12,24,31,25,19,29,32,80,2011
+3077,"Ankeny, IA","Dubuque, IA",20,50,8,12,38,28,14,21,43,78,2011
+3297,"Ankeny, IA","Perry, IA",22,40,16,13,43,22,35,23,20,78,2011
+3164,"Ankeny, IA","Iowa City, IA",31,28,15,1,29,44,29,21,24,74,2011
+3037,"Ankeny, IA","Colo, IA",24,41,6,5,37,29,17,24,30,71,2011
+3036,"Ankeny, IA","Colfax, IA",16,43,9,15,32,21,15,19,34,68,2011
+3360,"Ankeny, IA","Spring Hill, IA",14,36,16,16,29,21,11,13,42,66,2011
+3222,"Ankeny, IA","Mason City, IA",25,29,12,1,35,30,29,18,19,66,2011
+3321,"Ankeny, IA","Rhodes, IA",13,41,9,17,26,20,11,20,32,63,2011
+3363,"Ankeny, IA","St. Marys, IA",8,47,8,13,28,22,9,16,38,63,2011
+3131,"Ankeny, IA","Granger, IA",13,43,6,17,29,16,11,10,41,62,2011
+3325,"Ankeny, IA","Robins, IA",20,30,12,3,27,32,17,13,32,62,2011
+3355,"Ankeny, IA","Slater, IA",12,38,10,14,33,13,13,12,35,60,2011
+3281,"Ankeny, IA","Osceola, IA",21,25,13,12,23,24,20,24,15,59,2011
+3375,"Ankeny, IA","Swan, IA",13,36,9,17,24,17,13,17,28,58,2011
+3370,"Ankeny, IA","Story City, IA",18,34,5,4,33,20,19,14,24,57,2011
+3296,"Ankeny, IA","Pella, IA",23,22,11,8,30,18,23,22,11,56,2011
+3056,"Ankeny, IA","Dallas Center, IA",10,35,9,16,18,20,13,9,32,54,2011
+2948,"Ankeny, IA","Ackworth, IA",9,37,7,13,24,16,6,11,36,53,2011
+3154,"Ankeny, IA","Hiawatha, IA",13,32,7,2,25,25,15,18,19,52,2011
+3294,"Ankeny, IA","Patterson, IA",10,35,6,11,23,17,6,9,36,51,2011
+2989,"Ankeny, IA","Bettendorf, IA",11,29,10,2,21,27,13,17,20,50,2011
+3427,"Ankeny, IA","Winterset, IA",13,25,11,7,22,20,11,18,20,49,2011
+3228,"Ankeny, IA","Melcher-Dallas, IA",10,32,7,16,17,16,6,22,21,49,2011
+3070,"Ankeny, IA","Dexter, IA",11,26,12,12,24,13,4,12,33,49,2011
+3308,"Ankeny, IA","Prairie City, IA",12,31,3,13,26,7,8,18,20,46,2011
+2982,"Ankeny, IA","Baxter, IA",11,29,6,12,18,16,6,14,26,46,2011
+3136,"Ankeny, IA","Grinnell, IA",13,28,4,7,20,18,15,18,12,45,2011
+3282,"Ankeny, IA","Oskaloosa, IA",16,20,8,12,17,15,18,10,16,44,2011
+2950,"Ankeny, IA","Adel, IA",10,29,4,8,16,19,9,13,21,43,2011
+3021,"Ankeny, IA","Chariton, IA",12,22,8,3,18,21,14,12,16,42,2011
+3316,"Ankeny, IA","Reasnor, IA",5,28,7,15,17,8,5,15,20,40,2011
+2954,"Ankeny, IA","Albia, IA",9,26,4,17,14,8,10,9,20,39,2011
+3234,"Ankeny, IA","Minburn, IA",6,26,6,10,20,8,10,8,20,38,2011
+3051,"Ankeny, IA","Creston, IA",14,14,9,4,16,17,16,15,6,37,2011
+3184,"Ankeny, IA","Lambs Grove, IA",8,25,3,8,12,16,7,13,16,36,2011
+3303,"Ankeny, IA","Pleasantville, IA",7,20,7,7,11,16,6,11,17,34,2011
+3081,"Ankeny, IA","East Peru, IA",7,20,7,7,14,13,5,12,17,34,2011
+3165,"Ankeny, IA","Iowa Falls, IA",13,13,8,4,15,15,11,11,12,34,2011
+3332,"Ankeny, IA","Russell, IA",12,20,2,4,16,14,5,8,21,34,2011
+3004,"Ankeny, IA","Burlington, IA",9,18,7,3,15,16,11,10,13,34,2011
+3147,"Ankeny, IA","Harvey, IA",7,19,8,6,14,14,6,16,12,34,2011
+3207,"Ankeny, IA","Lynnville, IA",6,19,8,6,15,12,8,7,18,33,2011
+3365,"Ankeny, IA","Stanhope, IA",7,17,8,3,19,10,8,4,20,32,2011
+3276,"Ankeny, IA","Ogden, IA",7,21,4,5,18,9,7,11,14,32,2011
+3067,"Ankeny, IA","Denison, IA",9,21,2,3,21,8,10,11,11,32,2011
+3390,"Ankeny, IA","Urbana, IA",10,17,5,10,12,10,10,7,15,32,2011
+3010,"Ankeny, IA","Carroll, IA",10,12,9,5,14,12,12,4,15,31,2011
+3030,"Ankeny, IA","Clinton, IA",16,15,0,5,16,10,11,10,10,31,2011
+3230,"Ankeny, IA","Merrill, IA",11,12,8,3,15,13,11,7,13,31,2011
+3256,"Ankeny, IA","Muscatine, IA",7,19,4,2,10,18,11,6,13,30,2011
+3223,"Ankeny, IA","Maxwell, IA",2,21,7,11,10,9,2,8,20,30,2011
+3062,"Ankeny, IA","Decorah, IA",9,14,7,12,9,9,8,6,16,30,2011
+3389,"Ankeny, IA","University Park, IA",12,15,3,9,9,12,6,11,13,30,2011
+3196,"Ankeny, IA","Linden, IA",5,16,8,3,15,11,4,14,11,29,2011
+3190,"Ankeny, IA","Le Mars, IA",9,16,3,4,12,12,9,10,9,28,2011
+3174,"Ankeny, IA","Kellogg, IA",4,18,6,7,14,7,4,6,18,28,2011
+3393,"Ankeny, IA","Van Meter, IA",5,18,4,6,7,14,4,6,17,27,2011
+3181,"Ankeny, IA","Lacona, IA",4,19,4,5,9,13,3,9,15,27,2011
+3031,"Ankeny, IA","Clio, IA",8,15,3,1,10,15,10,5,11,26,2011
+3240,"Ankeny, IA","Monroe, IA",7,17,2,5,16,5,6,9,11,26,2011
+3324,"Ankeny, IA","Riverside, IA",11,8,6,0,11,14,9,8,8,25,2011
+3095,"Ankeny, IA","Evansdale, IA",12,12,1,10,4,11,3,9,13,25,2011
+3100,"Ankeny, IA","Fairfield, IA",7,13,5,3,16,6,10,9,6,25,2011
+3400,"Ankeny, IA","Wall Lake, IA",4,12,8,1,8,15,5,11,8,24,2011
+3338,"Ankeny, IA","Sandyville, IA",6,16,2,5,13,6,5,5,14,24,2011
+3011,"Ankeny, IA","Carter Lake, IA",8,11,4,3,9,11,8,6,9,23,2011
+3302,"Ankeny, IA","Pleasanton, IA",5,14,4,4,10,9,5,9,9,23,2011
+3320,"Ankeny, IA","Reinbeck, IA",7,13,3,3,9,11,4,6,13,23,2011
+3270,"Ankeny, IA","North Liberty, IA",8,9,6,2,8,13,10,5,8,23,2011
+2974,"Ankeny, IA","Aurelia, IA",7,10,5,1,14,7,8,8,6,22,2011
+3306,"Ankeny, IA","Pomeroy, IA",7,8,7,2,12,8,10,7,5,22,2011
+3126,"Ankeny, IA","Gilman, IA",4,12,6,4,9,9,7,7,8,22,2011
+3042,"Ankeny, IA","Coralville, IA",10,8,4,1,12,9,5,6,11,22,2011
+3379,"Ankeny, IA","Tiffin, IA",11,7,4,1,12,9,11,6,5,22,2011
+3284,"Ankeny, IA","Owasa, IA",4,10,6,5,8,7,2,12,6,20,2011
+3314,"Ankeny, IA","Raymond, IA",7,8,5,9,2,9,3,4,13,20,2011
+3245,"Ankeny, IA","Moravia, IA",3,15,2,3,13,4,7,4,9,20,2011
+3134,"Ankeny, IA","Greenfield, IA",9,7,4,3,10,7,7,7,6,20,2011
+3125,"Ankeny, IA","Gilbertville, IA",4,10,6,5,6,9,4,5,11,20,2011
+2969,"Ankeny, IA","Asbury, IA",11,7,2,5,8,7,6,4,10,20,2011
+3191,"Ankeny, IA","Le Roy, IA",4,10,6,2,8,10,5,7,8,20,2011
+3206,"Ankeny, IA","Luther, IA",2,11,7,7,7,6,2,3,15,20,2011
+3263,"Ankeny, IA","New Sharon, IA",9,6,4,1,11,7,4,8,7,19,2011
+3157,"Ankeny, IA","Humboldt, IA",7,11,1,2,9,8,6,3,10,19,2011
+3107,"Ankeny, IA","Ferguson, IA",4,9,6,2,8,9,6,6,7,19,2011
+3124,"Ankeny, IA","Gilbert, IA",3,11,5,3,12,4,5,3,11,19,2011
+2991,"Ankeny, IA","Blakesburg, IA",1,16,2,12,3,4,2,6,11,19,2011
+3085,"Ankeny, IA","Eldora, IA",6,6,7,2,10,7,2,5,12,19,2011
+3185,"Ankeny, IA","Lamoni, IA",4,12,3,1,9,9,6,5,8,19,2011
+3197,"Ankeny, IA","Lineville, IA",2,13,3,2,11,5,4,7,7,18,2011
+3407,"Ankeny, IA","Waverly, IA",3,12,3,6,8,4,4,6,8,18,2011
+3322,"Ankeny, IA","Richland, IA",2,12,4,8,2,8,3,4,11,18,2011
+3232,"Ankeny, IA","Millerton, IA",4,13,1,3,11,4,4,3,11,18,2011
+3005,"Ankeny, IA","Bussey, IA",1,12,5,2,10,6,3,5,10,18,2011
+3116,"Ankeny, IA","Fraser, IA",5,11,1,1,11,5,4,5,8,17,2011
+3275,"Ankeny, IA","Oelwein, IA",3,11,3,6,6,5,5,3,9,17,2011
+3193,"Ankeny, IA","Leon, IA",6,8,3,2,10,5,6,4,7,17,2011
+3099,"Ankeny, IA","Fairfax, IA",6,9,2,0,9,8,5,9,3,17,2011
+3248,"Ankeny, IA","Moulton, IA",2,14,1,8,5,4,1,7,9,17,2011
+3198,"Ankeny, IA","Liscomb, IA",1,11,5,2,8,7,4,6,7,17,2011
+3409,"Ankeny, IA","Webster City, IA",9,7,1,0,8,9,8,5,4,17,2011
+3383,"Ankeny, IA","Traer, IA",4,9,4,7,3,7,5,2,10,17,2011
+2952,"Ankeny, IA","Agency, IA",3,6,8,6,2,9,3,7,7,17,2011
+3330,"Ankeny, IA","Roland, IA",7,6,4,3,8,6,4,7,6,17,2011
+3142,"Ankeny, IA","Hampton, IA",3,12,1,0,9,7,3,5,8,16,2011
+3423,"Ankeny, IA","Williamsburg, IA",6,10,0,1,12,3,7,3,6,16,2011
+2972,"Ankeny, IA","Atlantic, IA",3,10,3,0,9,7,4,5,7,16,2011
+3186,"Ankeny, IA","Larrabee, IA",2,11,3,0,13,3,4,6,6,16,2011
+3358,"Ankeny, IA","Spencer, IA",3,11,2,2,9,5,3,4,9,16,2011
+3026,"Ankeny, IA","Clarinda, IA",4,10,2,0,8,8,4,5,7,16,2011
+2957,"Ankeny, IA","Algona, IA",8,6,2,2,5,9,8,5,3,16,2011
+3279,"Ankeny, IA","Orient, IA",0,14,2,0,13,3,4,2,10,16,2011
+3249,"Ankeny, IA","Mount Auburn, IA",5,8,3,6,4,6,3,5,8,16,2011
+3068,"Ankeny, IA","Denver, IA",5,8,3,4,6,6,9,1,6,16,2011
+2993,"Ankeny, IA","Bloomfield, IA",2,11,3,8,5,3,4,5,7,16,2011
+3084,"Ankeny, IA","Eldon, IA",3,11,2,4,4,8,5,5,6,16,2011
+2988,"Ankeny, IA","Bertram, IA",6,8,1,0,8,7,8,1,6,15,2011
+3168,"Ankeny, IA","Jefferson, IA",2,10,3,2,6,7,2,3,10,15,2011
+3406,"Ankeny, IA","Waukon, IA",4,8,3,7,6,2,3,1,11,15,2011
+3149,"Ankeny, IA","Haverhill, IA",3,8,4,4,5,6,3,5,7,15,2011
+3143,"Ankeny, IA","Harlan, IA",6,7,2,1,9,5,9,3,3,15,2011
+3388,"Ankeny, IA","University Heights, IA",8,5,2,1,7,7,7,4,4,15,2011
+3218,"Ankeny, IA","Marengo, IA",3,7,5,2,10,3,5,2,8,15,2011
+3367,"Ankeny, IA","State Center, IA",3,6,6,1,6,8,1,5,9,15,2011
+3082,"Ankeny, IA","Eddyville, IA",2,9,4,6,5,4,6,3,6,15,2011
+2973,"Ankeny, IA","Audubon, IA",6,5,4,1,10,4,6,7,2,15,2011
+3183,"Ankeny, IA","Lake Mills, IA",4,8,3,1,6,8,6,3,6,15,2011
+2956,"Ankeny, IA","Alden, IA",2,11,2,4,4,7,1,7,7,15,2011
+3057,"Ankeny, IA","Danbury, IA",4,7,4,2,5,8,5,7,3,15,2011
+3080,"Ankeny, IA","Eagle Grove, IA",2,7,5,0,7,7,2,5,7,14,2011
+3396,"Ankeny, IA","Vinton, IA",4,6,4,1,8,5,6,4,4,14,2011
+3019,"Ankeny, IA","Centerville, IA",3,7,4,4,4,6,4,5,5,14,2011
+3345,"Ankeny, IA","Sheldon, IA",3,10,1,1,7,6,6,3,5,14,2011
+3119,"Ankeny, IA","Garden Grove, IA",1,13,0,2,9,3,5,2,7,14,2011
+3398,"Ankeny, IA","Walford, IA",4,9,1,3,5,6,2,3,9,14,2011
+3290,"Ankeny, IA","Palo, IA",1,7,6,2,7,5,4,8,2,14,2011
+3028,"Ankeny, IA","Clear Lake, IA",6,5,3,1,5,8,6,1,7,14,2011
+2959,"Ankeny, IA","Alton, IA",6,5,3,2,6,6,8,4,2,14,2011
+3334,"Ankeny, IA","Ryan, IA",8,5,1,0,7,7,6,2,6,14,2011
+3429,"Ankeny, IA","Woodward, IA",0,13,1,4,4,6,1,5,8,14,2011
+3139,"Ankeny, IA","Guthrie Center, IA",5,7,1,4,5,4,5,4,4,13,2011
+3022,"Ankeny, IA","Charles City, IA",3,7,3,2,3,8,7,3,3,13,2011
+3382,"Ankeny, IA","Toledo, IA",2,10,1,3,5,5,3,5,5,13,2011
+3054,"Ankeny, IA","Cushing, IA",4,6,3,2,8,3,4,3,6,13,2011
+3242,"Ankeny, IA","Monticello, IA",4,4,5,1,8,4,4,8,1,13,2011
+3292,"Ankeny, IA","Parkersburg, IA",6,4,3,6,2,5,3,3,7,13,2011
+3341,"Ankeny, IA","Sergeant Bluff, IA",6,6,1,0,3,10,6,3,4,13,2011
+2955,"Ankeny, IA","Albion, IA",3,6,4,5,3,5,2,6,5,13,2011
+3132,"Ankeny, IA","Grant, IA",3,8,2,0,5,8,5,4,4,13,2011
+3238,"Ankeny, IA","Mondamin, IA",2,6,5,0,9,4,4,4,5,13,2011
+3319,"Ankeny, IA","Redfield, IA",2,9,2,5,3,5,2,6,5,13,2011
+2951,"Ankeny, IA","Afton, IA",1,7,4,1,8,3,3,5,4,12,2011
+3212,"Ankeny, IA","Manly, IA",8,3,1,0,8,4,3,5,4,12,2011
+3195,"Ankeny, IA","Lidderdale, IA",2,8,2,1,6,5,2,4,6,12,2011
+3151,"Ankeny, IA","Hazleton, IA",2,9,1,5,3,4,1,3,8,12,2011
+2984,"Ankeny, IA","Belle Plaine, IA",5,4,3,0,9,3,6,3,3,12,2011
+3161,"Ankeny, IA","Independence, IA",2,8,2,5,3,4,1,3,8,12,2011
+3188,"Ankeny, IA","Le Claire, IA",2,5,5,2,3,7,2,2,8,12,2011
+2977,"Ankeny, IA","Bagley, IA",2,9,1,3,8,1,2,7,3,12,2011
+3227,"Ankeny, IA","Melbourne, IA",2,9,1,6,4,2,0,8,4,12,2011
+3317,"Ankeny, IA","Red Oak, IA",5,5,2,0,8,4,6,1,5,12,2011
+3377,"Ankeny, IA","Tama, IA",3,3,6,4,6,2,1,7,4,12,2011
+3287,"Ankeny, IA","Oyens, IA",3,6,3,1,9,2,4,4,4,12,2011
+3113,"Ankeny, IA","Fort Madison, IA",2,6,4,0,6,6,4,5,3,12,2011
+3343,"Ankeny, IA","Shannon City, IA",4,4,4,6,3,3,1,4,7,12,2011
+3299,"Ankeny, IA","Plano, IA",4,4,4,7,3,2,3,4,5,12,2011
+3027,"Ankeny, IA","Clarion, IA",3,6,2,0,8,3,4,5,2,11,2011
+3215,"Ankeny, IA","Maquoketa, IA",4,5,2,3,2,6,2,5,4,11,2011
+3189,"Ankeny, IA","Le Grand, IA",2,6,3,2,3,6,3,2,6,11,2011
+3399,"Ankeny, IA","Walker, IA",2,7,2,2,3,6,2,1,8,11,2011
+3351,"Ankeny, IA","Sigourney, IA",1,9,1,2,6,3,2,5,4,11,2011
+3368,"Ankeny, IA","Steamboat Rock, IA",1,7,3,1,8,2,4,3,4,11,2011
+2987,"Ankeny, IA","Bennett, IA",3,4,4,4,3,4,3,3,5,11,2011
+3250,"Ankeny, IA","Mount Ayr, IA",5,5,1,2,6,3,4,3,4,11,2011
+3372,"Ankeny, IA","Strawberry Point, IA",2,7,2,3,6,2,4,3,4,11,2011
+3152,"Ankeny, IA","Hedrick, IA",4,4,3,1,3,7,4,1,6,11,2011
+3373,"Ankeny, IA","Sully, IA",1,7,3,3,2,6,0,2,9,11,2011
+3278,"Ankeny, IA","Orange City, IA",4,5,2,1,6,4,3,3,5,11,2011
+2949,"Ankeny, IA","Adair, IA",1,6,4,2,5,4,0,4,7,11,2011
+2998,"Ankeny, IA","Boxholm, IA",2,8,1,4,4,3,1,4,6,11,2011
+3170,"Ankeny, IA","Jewell Junction, IA",7,3,1,0,8,3,7,1,3,11,2011
+3262,"Ankeny, IA","New London, IA",1,6,3,1,4,5,2,4,4,10,2011
+3335,"Ankeny, IA","Sac City, IA",3,5,2,1,2,7,3,2,5,10,2011
+3348,"Ankeny, IA","Shueyville, IA",3,7,0,3,3,4,3,1,6,10,2011
+3336,"Ankeny, IA","Sageville, IA",2,4,4,2,5,3,4,2,4,10,2011
+3045,"Ankeny, IA","Corydon, IA",4,6,0,2,3,5,3,4,3,10,2011
+3260,"Ankeny, IA","New Albin, IA",2,5,3,4,2,4,1,2,7,10,2011
+3224,"Ankeny, IA","McCausland, IA",1,5,4,2,5,3,0,4,6,10,2011
+3202,"Ankeny, IA","Lone Tree, IA",5,1,4,1,6,3,5,2,3,10,2011
+3150,"Ankeny, IA","Hawarden, IA",3,4,3,0,5,5,4,3,3,10,2011
+3013,"Ankeny, IA","Casey, IA",0,7,3,0,7,3,2,2,6,10,2011
+3208,"Ankeny, IA","Macksburg, IA",1,7,2,0,7,3,1,2,7,10,2011
+3291,"Ankeny, IA","Panama, IA",3,5,1,0,4,5,2,2,5,9,2011
+3096,"Ankeny, IA","Exira, IA",5,4,0,0,7,2,4,4,1,9,2011
+3327,"Ankeny, IA","Rock Valley, IA",5,3,1,0,4,5,2,4,3,9,2011
+3430,"Ankeny, IA","Woolstock, IA",6,2,1,0,5,4,3,4,2,9,2011
+3194,"Ankeny, IA","Lewis, IA",4,3,2,0,5,4,3,4,2,9,2011
+3086,"Ankeny, IA","Eldridge, IA",4,4,1,2,3,4,4,2,3,9,2011
+3001,"Ankeny, IA","Britt, IA",5,3,1,0,4,5,6,3,0,9,2011
+3163,"Ankeny, IA","Inwood, IA",2,6,1,1,5,3,4,1,4,9,2011
+3214,"Ankeny, IA","Manson, IA",2,6,1,0,5,4,2,1,6,9,2011
+3041,"Ankeny, IA","Coon Rapids, IA",3,5,1,3,6,0,3,1,5,9,2011
+2994,"Ankeny, IA","Blue Grass, IA",0,7,2,0,4,5,0,4,5,9,2011
+3261,"Ankeny, IA","New Hampton, IA",3,6,0,2,4,3,1,2,6,9,2011
+3233,"Ankeny, IA","Milton, IA",1,6,2,4,3,2,2,3,4,9,2011
+3403,"Ankeny, IA","Washington, IA",1,3,5,3,2,4,2,5,2,9,2011
+2967,"Ankeny, IA","Arnolds Park, IA",4,4,1,0,4,5,7,2,0,9,2011
+2986,"Ankeny, IA","Belmond, IA",5,3,1,0,5,4,1,7,1,9,2011
+3253,"Ankeny, IA","Mount Vernon, IA",2,5,1,2,3,3,3,2,3,8,2011
+3312,"Ankeny, IA","Randalia, IA",2,5,1,1,3,4,4,1,3,8,2011
+3420,"Ankeny, IA","Whittemore, IA",2,4,2,0,4,4,1,4,3,8,2011
+3255,"Ankeny, IA","Murray, IA",1,6,1,1,2,5,3,2,3,8,2011
+3364,"Ankeny, IA","Stacyville, IA",4,2,2,0,3,5,3,3,2,8,2011
+3225,"Ankeny, IA","McIntire, IA",1,6,1,0,6,2,1,5,2,8,2011
+3247,"Ankeny, IA","Morrison, IA",1,5,2,4,3,1,1,2,5,8,2011
+3241,"Ankeny, IA","Montezuma, IA",5,1,2,0,6,2,1,6,1,8,2011
+3433,"Ankeny, IA","Zearing, IA",2,5,1,2,3,3,2,3,3,8,2011
+3075,"Ankeny, IA","Donnellson, IA",3,2,3,0,2,6,4,3,1,8,2011
+2968,"Ankeny, IA","Arthur, IA",1,4,3,2,4,2,1,1,6,8,2011
+3025,"Ankeny, IA","Cincinnati, IA",2,4,2,5,2,1,1,4,3,8,2011
+3012,"Ankeny, IA","Cascade, IA",2,5,1,1,3,4,2,2,4,8,2011
+3169,"Ankeny, IA","Jesup, IA",1,5,2,2,4,2,1,3,4,8,2011
+3138,"Ankeny, IA","Guernsey, IA",3,4,1,2,5,1,2,2,4,8,2011
+3018,"Ankeny, IA","Center Point, IA",2,4,2,1,3,4,3,3,2,8,2011
+3127,"Ankeny, IA","Glenwood, IA",4,3,1,1,1,6,3,3,2,8,2011
+3083,"Ankeny, IA","Elberon, IA",4,3,1,1,5,2,3,2,3,8,2011
+3088,"Ankeny, IA","Elk Run Heights, IA",0,8,0,5,0,3,0,2,6,8,2011
+3014,"Ankeny, IA","Castalia, IA",1,4,3,2,3,3,1,3,4,8,2011
+3091,"Ankeny, IA","Ely, IA",4,3,1,0,2,6,4,2,2,8,2011
+3104,"Ankeny, IA","Farnhamville, IA",5,2,1,0,6,2,4,2,2,8,2011
+2966,"Ankeny, IA","Anthon, IA",3,3,2,0,4,4,2,2,4,8,2011
+3094,"Ankeny, IA","Estherville, IA",4,3,1,0,5,3,3,3,2,8,2011
+3120,"Ankeny, IA","Garner, IA",4,2,1,0,5,2,3,0,4,7,2011
+3347,"Ankeny, IA","Shenandoah, IA",1,4,2,0,2,5,1,3,3,7,2011
+3109,"Ankeny, IA","Floyd, IA",2,3,2,0,1,6,2,2,3,7,2011
+3033,"Ankeny, IA","Clutier, IA",1,4,2,2,3,2,0,4,3,7,2011
+3098,"Ankeny, IA","Fairbank, IA",2,4,1,3,1,3,1,2,4,7,2011
+3110,"Ankeny, IA","Forest City, IA",3,2,2,0,2,5,3,3,1,7,2011
+3055,"Ankeny, IA","Dakota City, IA",2,5,0,0,4,3,1,3,3,7,2011
+3061,"Ankeny, IA","De Witt, IA",1,6,0,1,3,3,0,3,4,7,2011
+3323,"Ankeny, IA","Riverdale, IA",2,5,0,1,4,2,3,1,3,7,2011
+3318,"Ankeny, IA","Redding, IA",1,5,1,1,4,2,0,3,4,7,2011
+3315,"Ankeny, IA","Readlyn, IA",3,4,0,2,3,2,1,4,2,7,2011
+3293,"Ankeny, IA","Parnell, IA",5,2,0,1,4,2,5,2,0,7,2011
+3200,"Ankeny, IA","Livermore, IA",0,4,3,0,5,2,1,3,3,7,2011
+3236,"Ankeny, IA","Missouri Valley, IA",2,2,3,1,3,3,4,1,2,7,2011
+3271,"Ankeny, IA","Northwood, IA",2,4,1,0,2,5,2,3,2,7,2011
+3187,"Ankeny, IA","Laurens, IA",3,2,2,0,4,3,3,2,2,7,2011
+2975,"Ankeny, IA","Aurora, IA",1,5,1,1,3,3,2,3,2,7,2011
+2979,"Ankeny, IA","Balltown, IA",1,4,2,1,4,2,4,2,1,7,2011
+2983,"Ankeny, IA","Bedford, IA",0,3,4,1,3,3,0,5,2,7,2011
+3226,"Ankeny, IA","Mechanicsville, IA",0,5,2,2,3,2,3,2,2,7,2011
+2985,"Ankeny, IA","Bellevue, IA",1,3,3,1,3,3,4,2,1,7,2011
+2990,"Ankeny, IA","Blairstown, IA",1,5,1,2,1,4,1,0,6,7,2011
+2992,"Ankeny, IA","Blanchard, IA",5,2,0,0,1,6,3,0,4,7,2011
+3385,"Ankeny, IA","Underwood, IA",1,4,2,1,3,3,2,5,0,7,2011
+3211,"Ankeny, IA","Manchester, IA",0,7,0,1,3,3,2,0,5,7,2011
+2971,"Ankeny, IA","Atkins, IA",4,2,1,1,2,4,2,1,4,7,2011
+2964,"Ankeny, IA","Anita, IA",0,5,2,1,4,2,0,3,4,7,2011
+3002,"Ankeny, IA","Brooklyn, IA",1,5,1,0,3,4,2,2,3,7,2011
+3376,"Ankeny, IA","Swea City, IA",4,3,0,0,4,3,2,2,3,7,2011
+2962,"Ankeny, IA","Anamosa, IA",3,3,1,0,3,4,4,3,0,7,2011
+3428,"Ankeny, IA","Wiota, IA",0,5,2,1,3,3,3,2,2,7,2011
+3422,"Ankeny, IA","Williams, IA",2,4,0,1,3,2,1,2,3,6,2011
+3313,"Ankeny, IA","Rathbun, IA",2,2,2,2,1,3,2,2,2,6,2011
+3298,"Ankeny, IA","Plainfield, IA",3,2,1,1,2,3,1,1,4,6,2011
+3097,"Ankeny, IA","Exline, IA",1,5,0,1,2,3,2,2,2,6,2011
+3410,"Ankeny, IA","Webster, IA",0,2,4,2,4,0,2,1,3,6,2011
+3288,"Ankeny, IA","Pacific Junction, IA",1,3,2,1,1,4,2,3,1,6,2011
+3079,"Ankeny, IA","Dysart, IA",1,2,3,4,2,0,2,0,4,6,2011
+3108,"Ankeny, IA","Floris, IA",0,6,0,4,0,2,2,1,3,6,2011
+3432,"Ankeny, IA","Yetter, IA",0,4,2,0,3,3,1,1,4,6,2011
+3417,"Ankeny, IA","West Union, IA",0,3,3,3,1,2,1,1,4,6,2011
+3366,"Ankeny, IA","Stanton, IA",2,2,2,1,4,1,4,2,0,6,2011
+3071,"Ankeny, IA","Diagonal, IA",1,3,2,3,2,1,1,2,3,6,2011
+3329,"Ankeny, IA","Rodney, IA",0,4,2,1,4,1,3,0,3,6,2011
+3050,"Ankeny, IA","Cresco, IA",1,5,0,2,3,1,1,2,3,6,2011
+3049,"Ankeny, IA","Crescent, IA",2,3,1,0,3,3,2,4,0,6,2011
+3337,"Ankeny, IA","Sanborn, IA",2,3,1,0,4,2,3,2,1,6,2011
+3339,"Ankeny, IA","Schaller, IA",0,4,2,2,4,0,1,3,2,6,2011
+3047,"Ankeny, IA","Craig, IA",2,3,1,2,2,2,1,3,2,6,2011
+3342,"Ankeny, IA","Seymour, IA",0,6,0,1,4,1,1,2,3,6,2011
+3346,"Ankeny, IA","Shell Rock, IA",1,4,1,2,0,4,2,1,3,6,2011
+3353,"Ankeny, IA","Sioux Center, IA",1,4,1,0,2,4,2,3,1,6,2011
+3035,"Ankeny, IA","Coggon, IA",0,4,2,0,3,3,3,1,2,6,2011
+3034,"Ankeny, IA","Coburg, IA",2,2,2,0,4,2,2,1,3,6,2011
+3359,"Ankeny, IA","Spirit Lake, IA",1,4,1,0,4,2,2,4,0,6,2011
+3374,"Ankeny, IA","Sumner, IA",2,3,1,2,2,2,0,1,5,6,2011
+3066,"Ankeny, IA","Delta, IA",0,5,1,4,2,0,0,2,4,6,2011
+2947,"Ankeny, IA","Ackley, IA",1,2,3,1,2,3,2,1,3,6,2011
+3235,"Ankeny, IA","Minden, IA",2,3,1,0,3,3,2,2,2,6,2011
+3175,"Ankeny, IA","Keokuk, IA",0,4,2,1,2,3,3,2,1,6,2011
+3144,"Ankeny, IA","Harris, IA",4,2,0,1,3,2,4,1,1,6,2011
+3166,"Ankeny, IA","Irwin, IA",3,2,1,0,3,3,1,4,1,6,2011
+3172,"Ankeny, IA","Kalona, IA",1,5,0,0,2,4,2,4,0,6,2011
+3243,"Ankeny, IA","Montour, IA",0,4,2,3,0,3,1,1,4,6,2011
+3231,"Ankeny, IA","Milford, IA",2,3,1,0,3,3,2,2,2,6,2011
+3121,"Ankeny, IA","Garwin, IA",2,4,0,1,2,3,1,3,2,6,2011
+3269,"Ankeny, IA","North English, IA",5,0,1,2,4,0,2,2,2,6,2011
+3203,"Ankeny, IA","Long Grove, IA",3,3,0,0,2,4,2,0,4,6,2011
+3254,"Ankeny, IA","Moville, IA",1,5,0,1,1,4,2,1,3,6,2011
+3064,"Ankeny, IA","Delaware, IA",1,2,2,1,4,0,2,1,2,5,2011
+3130,"Ankeny, IA","Grandview, IA",0,3,2,0,2,3,2,1,2,5,2011
+3326,"Ankeny, IA","Rock Rapids, IA",0,4,1,0,3,2,2,1,2,5,2011
+3328,"Ankeny, IA","Rockwell, IA",0,4,1,0,4,1,2,0,3,5,2011
+3065,"Ankeny, IA","Deloit, IA",1,4,0,2,2,1,3,1,1,5,2011
+3052,"Ankeny, IA","Cromwell, IA",2,1,2,2,1,2,2,1,2,5,2011
+3140,"Ankeny, IA","Guttenberg, IA",0,3,2,2,3,0,2,1,2,5,2011
+3129,"Ankeny, IA","Grand River, IA",2,3,0,1,2,2,3,2,0,5,2011
+3340,"Ankeny, IA","Schleswig, IA",2,2,1,0,4,1,3,1,1,5,2011
+3239,"Ankeny, IA","Monona, IA",1,3,1,1,3,1,2,0,3,5,2011
+3274,"Ankeny, IA","Oakland, IA",2,2,1,0,3,2,1,3,1,5,2011
+3148,"Ankeny, IA","Havelock, IA",2,3,0,2,3,0,2,2,1,5,2011
+3137,"Ankeny, IA","Grundy Center, IA",0,5,0,4,1,0,0,2,3,5,2011
+3229,"Ankeny, IA","Meriden, IA",1,3,1,1,3,1,2,3,0,5,2011
+3362,"Ankeny, IA","Springville, IA",0,4,1,1,1,3,1,1,3,5,2011
+3156,"Ankeny, IA","Hubbard, IA",2,2,1,0,4,1,3,1,1,5,2011
+2958,"Ankeny, IA","Allison, IA",2,3,0,1,3,1,2,2,1,5,2011
+3416,"Ankeny, IA","West Liberty, IA",3,1,1,1,3,1,2,2,1,5,2011
+3178,"Ankeny, IA","Kinross, IA",1,2,2,1,2,2,2,2,1,5,2011
+3213,"Ankeny, IA","Manning, IA",1,3,1,3,2,0,0,3,2,5,2011
+2981,"Ankeny, IA","Battle Creek, IA",2,3,0,0,2,3,1,2,2,5,2011
+2999,"Ankeny, IA","Boyden, IA",3,1,1,0,0,5,4,0,1,5,2011
+3387,"Ankeny, IA","Unionville, IA",1,4,0,3,0,2,0,3,2,5,2011
+3221,"Ankeny, IA","Marysville, IA",1,3,1,1,3,1,2,2,1,5,2011
+3003,"Ankeny, IA","Buffalo, IA",2,3,0,1,1,3,3,0,2,5,2011
+3006,"Ankeny, IA","Camanche, IA",2,3,0,2,2,1,0,2,3,5,2011
+3378,"Ankeny, IA","Thompson, IA",2,2,1,1,0,4,2,1,2,5,2011
+3159,"Ankeny, IA","Ida Grove, IA",3,2,0,0,2,3,1,3,1,5,2011
+3020,"Ankeny, IA","Central City, IA",1,4,0,0,1,4,3,1,1,5,2011
+3023,"Ankeny, IA","Charter Oak, IA",0,5,0,1,2,2,2,1,2,5,2011
+3201,"Ankeny, IA","Lockridge, IA",1,3,1,0,2,3,2,1,2,5,2011
+3251,"Ankeny, IA","Mount Pleasant, IA",0,1,4,0,4,1,3,2,0,5,2011
+3273,"Ankeny, IA","Norway, IA",1,4,0,0,3,2,0,3,2,5,2011
+3087,"Ankeny, IA","Elgin, IA",2,3,0,1,1,3,2,2,1,5,2011
+3280,"Ankeny, IA","Osage, IA",1,2,2,1,2,2,2,3,0,5,2011
+3092,"Ankeny, IA","Emmetsburg, IA",2,3,0,0,1,4,1,3,1,5,2011
+3102,"Ankeny, IA","Farmersburg, IA",4,1,0,1,2,2,2,1,2,5,2011
+3122,"Ankeny, IA","George, IA",2,2,1,0,4,1,2,2,1,5,2011
+3295,"Ankeny, IA","Paullina, IA",2,2,1,1,0,4,2,2,1,5,2011
+3289,"Ankeny, IA","Packwood, IA",0,2,3,1,2,2,1,4,0,5,2011
+3106,"Ankeny, IA","Fayette, IA",1,4,0,2,1,2,1,1,3,5,2011
+3078,"Ankeny, IA","Dyersville, IA",2,3,0,0,2,3,0,2,3,5,2011
+3090,"Ankeny, IA","Elkport, IA",3,2,0,0,3,2,3,1,1,5,2011
+3266,"Ankeny, IA","Nichols, IA",1,2,1,0,2,2,1,1,2,4,2011
+3145,"Ankeny, IA","Hartley, IA",0,4,0,0,1,3,0,1,3,4,2011
+3146,"Ankeny, IA","Hartwick, IA",2,0,2,0,4,0,0,3,1,4,2011
+3040,"Ankeny, IA","Conrad, IA",1,1,2,2,1,1,1,1,2,4,2011
+3394,"Ankeny, IA","Victor, IA",2,2,0,1,2,1,0,3,1,4,2011
+3268,"Ankeny, IA","Nora Springs, IA",0,3,1,0,3,1,1,1,2,4,2011
+3038,"Ankeny, IA","Columbus Junction, IA",1,0,3,0,2,2,2,1,1,4,2011
+3039,"Ankeny, IA","Colwell, IA",2,0,2,2,1,1,1,1,2,4,2011
+3392,"Ankeny, IA","Van Horne, IA",0,2,2,0,1,3,1,1,2,4,2011
+3192,"Ankeny, IA","Lenox, IA",1,2,1,0,3,1,2,1,1,4,2011
+3356,"Ankeny, IA","Soldier, IA",2,1,1,1,2,1,3,0,1,4,2011
+2963,"Ankeny, IA","Andover, IA",2,2,0,0,0,4,2,0,2,4,2011
+3153,"Ankeny, IA","Henderson, IA",2,0,2,0,1,3,2,1,1,4,2011
+3000,"Ankeny, IA","Brighton, IA",0,4,0,1,0,3,2,0,2,4,2011
+3114,"Ankeny, IA","Fostoria, IA",0,3,1,0,3,1,0,2,2,4,2011
+2953,"Ankeny, IA","Ainsworth, IA",0,2,2,1,0,3,3,1,0,4,2011
+3073,"Ankeny, IA","Dixon, IA",0,3,1,0,0,4,2,1,1,4,2011
+3286,"Ankeny, IA","Oxford, IA",0,4,0,0,1,3,0,1,3,4,2011
+3141,"Ankeny, IA","Hamburg, IA",2,2,0,1,3,0,4,0,0,4,2011
+3277,"Ankeny, IA","Onawa, IA",2,0,2,1,2,1,2,1,1,4,2011
+3128,"Ankeny, IA","Grand Mound, IA",3,1,0,1,2,1,1,2,1,4,2011
+3210,"Ankeny, IA","Malcom, IA",0,3,1,1,1,2,0,0,4,4,2011
+3076,"Ankeny, IA","Dougherty, IA",2,1,1,1,2,1,1,2,1,4,2011
+3310,"Ankeny, IA","Promise City, IA",2,2,0,0,2,2,1,2,1,4,2011
+3309,"Ankeny, IA","Preston, IA",1,3,0,0,3,1,2,1,1,4,2011
+3307,"Ankeny, IA","Popejoy, IA",3,1,0,0,2,2,0,2,2,4,2011
+2970,"Ankeny, IA","Ashton, IA",2,2,0,0,3,1,2,1,1,4,2011
+3246,"Ankeny, IA","Morley, IA",2,1,1,0,4,0,0,3,1,4,2011
+3101,"Ankeny, IA","Farley, IA",2,2,0,0,2,2,2,1,1,4,2011
+2976,"Ankeny, IA","Avoca, IA",1,1,2,0,3,1,1,3,0,4,2011
+3401,"Ankeny, IA","Wallingford, IA",2,0,2,1,2,1,2,1,1,4,2011
+3304,"Ankeny, IA","Pocahontas, IA",1,1,2,0,1,3,1,2,1,4,2011
+3216,"Ankeny, IA","Marble Rock, IA",0,3,1,0,3,1,1,1,2,4,2011
+3424,"Ankeny, IA","Wilton, IA",0,2,2,0,2,2,2,0,2,4,2011
+3426,"Ankeny, IA","Winfield, IA",1,2,0,0,3,0,2,0,1,3,2011
+3267,"Ankeny, IA","Nodaway, IA",1,1,1,0,0,3,0,2,1,3,2011
+3381,"Ankeny, IA","Titonka, IA",1,2,0,0,0,3,1,1,1,3,2011
+3205,"Ankeny, IA","Luana, IA",1,2,0,3,0,0,1,0,2,3,2011
+2995,"Ankeny, IA","Bonaparte, IA",0,2,1,0,2,1,1,1,1,3,2011
+3219,"Ankeny, IA","Marion, IA",1,2,0,0,1,2,1,0,2,3,2011
+3397,"Ankeny, IA","Walcott, IA",1,0,2,0,3,0,0,2,1,3,2011
+3402,"Ankeny, IA","Wapello, IA",0,2,1,0,2,1,1,1,1,3,2011
+3408,"Ankeny, IA","Webb, IA",0,2,1,0,1,2,1,1,1,3,2011
+3411,"Ankeny, IA","Wellman, IA",1,2,0,1,1,1,1,1,1,3,2011
+3412,"Ankeny, IA","West Bend, IA",0,2,1,0,2,1,1,0,2,3,2011
+3252,"Ankeny, IA","Mount Union, IA",1,1,1,0,1,2,2,1,0,3,2011
+3264,"Ankeny, IA","Newell, IA",3,0,0,0,3,0,3,0,0,3,2011
+3419,"Ankeny, IA","Wheatland, IA",1,1,1,0,1,2,1,0,2,3,2011
+3029,"Ankeny, IA","Clearfield, IA",0,2,1,0,2,1,3,0,0,3,2011
+3043,"Ankeny, IA","Corning, IA",1,1,1,0,1,2,0,3,0,3,2011
+3349,"Ankeny, IA","Sibley, IA",0,2,1,0,2,1,0,2,1,3,2011
+3350,"Ankeny, IA","Sidney, IA",3,0,0,0,2,1,1,2,0,3,2011
+3333,"Ankeny, IA","Ruthven, IA",0,1,2,0,2,1,0,2,1,3,2011
+3089,"Ankeny, IA","Elkader, IA",0,3,0,1,1,1,1,1,1,3,2011
+3111,"Ankeny, IA","Fort Atkinson, IA",1,2,0,3,0,0,0,0,3,3,2011
+3155,"Ankeny, IA","Hillsboro, IA",2,0,1,0,2,1,2,1,0,3,2011
+3244,"Ankeny, IA","Montrose, IA",1,2,0,1,0,2,1,0,2,3,2011
+3058,"Ankeny, IA","Danville, IA",0,1,2,0,1,2,1,0,2,3,2011
+3063,"Ankeny, IA","Dedham, IA",0,2,1,1,1,1,1,1,1,3,2011
+3117,"Ankeny, IA","Fremont, IA",0,2,1,2,0,1,0,1,2,3,2011
+3123,"Ankeny, IA","Gibson, IA",1,2,0,0,3,0,2,1,0,3,2011
+3369,"Ankeny, IA","Storm Lake, IA",1,2,0,1,0,2,0,2,1,3,2011
+3133,"Ankeny, IA","Gravity, IA",1,0,1,1,1,0,0,0,2,2,2011
+3311,"Ankeny, IA","Protivin, IA",1,1,0,1,1,0,1,0,1,2,2011
+3199,"Ankeny, IA","Little Sioux, IA",0,2,0,1,0,1,1,0,1,2,2011
+3414,"Ankeny, IA","West Chester, IA",0,1,1,0,0,2,1,1,0,2,2011
+3072,"Ankeny, IA","Dickens, IA",1,0,1,0,2,0,1,1,0,2,2011
+3179,"Ankeny, IA","Kirkville, IA",0,1,1,0,1,1,0,2,0,2,2011
+3418,"Ankeny, IA","What Cheer, IA",1,0,1,0,1,1,2,0,0,2,2011
+3177,"Ankeny, IA","Keystone, IA",1,0,1,0,2,0,0,2,0,2,2011
+3257,"Ankeny, IA","Mystic, IA",0,2,0,1,0,1,0,2,0,2,2011
+2978,"Ankeny, IA","Baldwin, IA",1,0,1,0,0,2,0,0,2,2,2011
+3176,"Ankeny, IA","Keosauqua, IA",0,0,2,0,2,0,1,0,1,2,2011
+3204,"Ankeny, IA","Lorimor, IA",1,1,0,0,0,2,2,0,0,2,2011
+3386,"Ankeny, IA","Union, IA",1,0,1,1,0,1,1,1,0,2,2011
+2980,"Ankeny, IA","Batavia, IA",1,0,1,0,2,0,1,1,0,2,2011
+3371,"Ankeny, IA","Stratford, IA",0,2,0,0,0,2,0,1,1,2,2011
+3008,"Ankeny, IA","Cantril, IA",1,0,1,0,1,1,1,1,0,2,2011
+3115,"Ankeny, IA","Franklin, IA",1,0,1,0,0,2,2,0,0,2,2011
+3380,"Ankeny, IA","Tipton, IA",0,0,2,0,2,0,1,0,1,2,2011
+3182,"Ankeny, IA","Ladora, IA",2,0,0,0,2,0,0,2,0,2,2011
+3093,"Ankeny, IA","Epworth, IA",1,1,0,1,0,1,0,0,2,2,2011
+3024,"Ankeny, IA","Chester, IA",0,2,0,2,0,0,0,0,2,2,2011
+3301,"Ankeny, IA","Pleasant Plain, IA",1,1,0,0,1,1,0,1,1,2,2011
+3361,"Ankeny, IA","Springbrook, IA",1,0,1,0,1,1,2,0,0,2,2011
+3103,"Ankeny, IA","Farmington, IA",1,0,1,0,1,1,1,1,0,2,2011
+3352,"Ankeny, IA","Silver City, IA",1,0,1,0,1,1,0,2,0,2,2011
+3044,"Ankeny, IA","Corwith, IA",0,1,1,0,0,2,0,1,1,2,2011
+3017,"Ankeny, IA","Center Junction, IA",0,1,1,0,2,0,0,2,0,2,2011
+3048,"Ankeny, IA","Crawfordsville, IA",0,1,1,0,1,1,1,1,0,2,2011
+3105,"Ankeny, IA","Farragut, IA",0,1,1,0,1,1,1,1,0,2,2011
+3421,"Ankeny, IA","Whitten, IA",0,0,1,1,0,0,0,0,1,1,2011
+3431,"Ankeny, IA","Wyoming, IA",1,0,0,1,0,0,0,1,0,1,2011
+3074,"Ankeny, IA","Dolliver, IA",1,0,0,0,1,0,1,0,0,1,2011
+3413,"Ankeny, IA","West Burlington, IA",0,1,0,0,0,1,0,0,1,1,2011
+3217,"Ankeny, IA","Marcus, IA",0,0,1,0,1,0,0,0,1,1,2011
+3395,"Ankeny, IA","Vining, IA",1,0,0,0,1,0,1,0,0,1,2011
+3173,"Ankeny, IA","Kellerton, IA",0,1,0,1,0,0,0,0,1,1,2011
+3384,"Ankeny, IA","Truesdale, IA",0,1,0,0,0,1,0,1,0,1,2011
+3285,"Ankeny, IA","Oxford Junction, IA",1,0,0,0,0,1,1,0,0,1,2011
+3160,"Ankeny, IA","Imogene, IA",1,0,0,0,0,1,1,0,0,1,2011
+3118,"Ankeny, IA","Fruitland, IA",0,0,1,0,0,1,1,0,0,1,2011
+3357,"Ankeny, IA","South English, IA",0,1,0,0,0,1,0,1,0,1,2011
+3344,"Ankeny, IA","Sheffield, IA",1,0,0,0,1,0,1,0,0,1,2011
+3258,"Ankeny, IA","Nashua, IA",0,1,0,0,0,1,0,1,0,1,2011
+3053,"Ankeny, IA","Crystal Lake, IA",1,0,0,1,0,0,0,1,0,1,2011
+3167,"Ankeny, IA","Janesville, IA",0,1,0,1,0,0,0,0,1,1,2011

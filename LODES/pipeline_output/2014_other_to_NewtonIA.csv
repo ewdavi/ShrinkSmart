@@ -1,0 +1,397 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+53519,"Newton, IA","Newton, IA",585,1292,757,813,1598,223,702,1135,797,2634,2014
+53454,"Newton, IA","Lambs Grove, IA",77,191,102,117,223,30,86,156,128,370,2014
+53480,"Newton, IA","Marshalltown, IA",101,132,53,177,91,18,52,150,84,286,2014
+53365,"Newton, IA","Des Moines, IA",78,137,28,142,70,31,47,97,99,243,2014
+53447,"Newton, IA","Kellogg, IA",56,133,43,74,112,46,53,105,74,232,2014
+53558,"Newton, IA","Reasnor, IA",37,116,55,62,131,15,40,89,79,208,2014
+53499,"Newton, IA","Monroe, IA",29,77,33,38,91,10,41,56,42,139,2014
+53416,"Newton, IA","Grinnell, IA",31,55,30,27,65,24,28,41,47,116,2014
+53292,"Newton, IA","Baxter, IA",13,52,49,39,68,7,15,43,56,114,2014
+53408,"Newton, IA","Gilman, IA",16,55,37,39,58,11,21,47,40,108,2014
+53452,"Newton, IA","Knoxville, IA",28,59,18,51,42,12,19,53,33,105,2014
+53471,"Newton, IA","Lynnville, IA",26,46,23,25,61,9,20,38,37,95,2014
+53652,"Newton, IA","Windsor Heights, IA",32,45,9,44,33,9,9,35,42,86,2014
+53275,"Newton, IA","Ames, IA",27,34,25,20,40,26,24,36,26,86,2014
+53278,"Newton, IA","Ankeny, IA",19,45,15,28,39,12,15,13,51,79,2014
+53339,"Newton, IA","Colfax, IA",19,33,16,20,42,6,17,26,25,68,2014
+53483,"Newton, IA","Maxwell, IA",11,23,30,17,45,2,17,18,29,64,2014
+53496,"Newton, IA","Mitchellville, IA",12,34,16,28,32,2,14,26,22,62,2014
+53645,"Newton, IA","West Des Moines, IA",19,33,7,29,25,5,10,22,27,59,2014
+53545,"Newton, IA","Pleasant Hill, IA",14,30,11,29,24,2,4,19,32,55,2014
+53335,"Newton, IA","Clive, IA",20,29,5,19,21,14,17,11,26,54,2014
+53551,"Newton, IA","Prairie City, IA",16,26,9,23,24,4,6,30,15,51,2014
+53636,"Newton, IA","Waukee, IA",11,32,8,16,21,14,12,15,24,51,2014
+53541,"Newton, IA","Pella, IA",18,20,9,10,25,12,15,19,13,47,2014
+53609,"Newton, IA","Sully, IA",7,25,11,15,26,2,6,18,19,43,2014
+53533,"Newton, IA","Ottumwa, IA",12,22,5,7,17,15,12,19,8,39,2014
+53532,"Newton, IA","Oskaloosa, IA",11,18,8,14,13,10,14,18,5,37,2014
+53624,"Newton, IA","Urbandale, IA",5,21,9,17,12,6,8,13,14,35,2014
+53321,"Newton, IA","Cedar Rapids, IA",10,19,6,6,14,15,11,13,11,35,2014
+53518,"Newton, IA","New Sharon, IA",12,17,6,12,17,6,10,5,20,35,2014
+53444,"Newton, IA","Johnston, IA",10,18,6,13,17,4,5,13,16,34,2014
+53611,"Newton, IA","Swan, IA",9,17,7,13,17,3,7,12,14,33,2014
+53315,"Newton, IA","Carlisle, IA",11,17,4,15,10,7,5,10,17,32,2014
+53306,"Newton, IA","Boone, IA",9,15,7,5,16,10,8,14,9,31,2014
+53563,"Newton, IA","Rhodes, IA",8,15,6,9,13,7,5,14,10,29,2014
+53547,"Newton, IA","Pleasantville, IA",3,20,5,9,18,1,3,9,16,28,2014
+53436,"Newton, IA","Indianola, IA",5,15,7,5,13,9,5,8,14,27,2014
+53423,"Newton, IA","Harvey, IA",7,12,6,9,16,0,4,11,10,25,2014
+53613,"Newton, IA","Tama, IA",6,15,2,12,9,2,4,9,10,23,2014
+53525,"Newton, IA","Norwalk, IA",7,11,4,9,8,5,4,10,8,22,2014
+53268,"Newton, IA","Albia, IA",7,11,4,7,9,6,3,15,4,22,2014
+53438,"Newton, IA","Iowa City, IA",5,14,3,3,8,11,7,7,8,22,2014
+53274,"Newton, IA","Altoona, IA",6,12,3,8,9,4,2,8,11,21,2014
+53325,"Newton, IA","Chariton, IA",9,8,3,6,5,9,3,6,11,20,2014
+53346,"Newton, IA","Council Bluffs, IA",6,8,6,1,9,10,9,9,2,20,2014
+53439,"Newton, IA","Iowa Falls, IA",6,10,3,1,7,11,7,8,4,19,2014
+53487,"Newton, IA","Melcher-Dallas, IA",3,11,5,10,7,2,2,6,11,19,2014
+53429,"Newton, IA","Hiawatha, IA",4,8,6,4,7,7,6,7,5,18,2014
+53424,"Newton, IA","Haverhill, IA",1,13,4,7,7,4,1,15,2,18,2014
+53635,"Newton, IA","Waterloo, IA",6,8,3,1,6,10,6,8,3,17,2014
+53432,"Newton, IA","Huxley, IA",3,14,0,4,11,2,2,5,10,17,2014
+53357,"Newton, IA","De Soto, IA",5,10,2,3,8,6,9,4,4,17,2014
+53311,"Newton, IA","Burlington, IA",5,9,3,4,4,9,9,7,1,17,2014
+53548,"Newton, IA","Polk City, IA",4,9,3,4,10,2,2,6,8,16,2014
+53500,"Newton, IA","Montezuma, IA",7,6,2,2,13,0,5,6,4,15,2014
+53486,"Newton, IA","Melbourne, IA",4,9,2,6,6,3,2,11,2,15,2014
+53356,"Newton, IA","Davenport, IA",4,8,3,0,5,10,6,9,0,15,2014
+53320,"Newton, IA","Cedar Falls, IA",7,4,4,2,8,5,3,6,6,15,2014
+53387,"Newton, IA","Fairfield, IA",7,4,4,4,3,8,6,5,4,15,2014
+53592,"Newton, IA","Sioux City, IA",6,7,1,0,11,3,3,9,2,14,2014
+53634,"Newton, IA","Washington, IA",6,6,2,1,9,4,7,6,1,14,2014
+53333,"Newton, IA","Clinton, IA",6,7,0,0,8,5,5,8,0,13,2014
+53515,"Newton, IA","Nevada, IA",3,7,3,1,7,5,4,4,5,13,2014
+53493,"Newton, IA","Minburn, IA",3,9,1,0,8,5,2,10,1,13,2014
+53458,"Newton, IA","Le Grand, IA",3,6,4,5,5,3,1,9,3,13,2014
+53478,"Newton, IA","Marengo, IA",3,7,2,7,3,2,3,3,6,12,2014
+53600,"Newton, IA","St. Marys, IA",2,2,8,2,6,4,1,8,3,12,2014
+53527,"Newton, IA","Ogden, IA",6,3,3,1,6,5,6,4,2,12,2014
+53415,"Newton, IA","Grimes, IA",4,6,2,5,6,1,2,0,10,12,2014
+53622,"Newton, IA","University Park, IA",4,4,4,3,4,5,2,8,2,12,2014
+53392,"Newton, IA","Ferguson, IA",2,4,6,8,3,1,1,7,4,12,2014
+53542,"Newton, IA","Perry, IA",4,5,2,1,7,3,4,4,3,11,2014
+53465,"Newton, IA","Liscomb, IA",2,6,3,6,3,2,3,4,4,11,2014
+53417,"Newton, IA","Guernsey, IA",3,4,4,2,9,0,6,3,2,11,2014
+53531,"Newton, IA","Osceola, IA",1,5,5,2,5,4,3,4,4,11,2014
+53397,"Newton, IA","Fort Dodge, IA",3,6,2,0,6,5,5,3,3,11,2014
+53310,"Newton, IA","Brooklyn, IA",0,9,2,6,4,1,0,7,4,11,2014
+53369,"Newton, IA","Dubuque, IA",1,6,3,2,4,4,3,1,6,10,2014
+53567,"Newton, IA","Robins, IA",2,6,2,1,4,5,3,6,1,10,2014
+53263,"Newton, IA","Ackworth, IA",6,1,3,1,5,4,0,8,2,10,2014
+53350,"Newton, IA","Creston, IA",5,3,2,1,5,4,6,2,2,10,2014
+53572,"Newton, IA","Roland, IA",4,2,3,2,6,1,3,2,4,9,2014
+53606,"Newton, IA","Story City, IA",1,6,2,4,2,3,0,2,7,9,2014
+53617,"Newton, IA","Toledo, IA",3,5,1,6,2,1,2,3,4,9,2014
+53323,"Newton, IA","Centerville, IA",0,7,2,1,1,7,3,4,2,9,2014
+53375,"Newton, IA","Elberon, IA",3,2,3,1,4,3,3,4,1,8,2014
+53473,"Newton, IA","Madrid, IA",5,3,0,4,1,3,3,3,2,8,2014
+53462,"Newton, IA","Leon, IA",2,4,2,4,1,3,2,5,1,8,2014
+53514,"Newton, IA","Muscatine, IA",3,2,3,0,3,5,3,3,2,8,2014
+53474,"Newton, IA","Malcom, IA",2,3,3,6,1,1,1,3,4,8,2014
+53460,"Newton, IA","Le Roy, IA",1,5,2,3,5,0,4,2,2,8,2014
+53453,"Newton, IA","Lacona, IA",3,3,2,3,3,2,0,2,6,8,2014
+53267,"Newton, IA","Agency, IA",3,3,2,2,3,3,1,5,2,8,2014
+53269,"Newton, IA","Albion, IA",4,3,1,1,6,1,2,6,0,8,2014
+53603,"Newton, IA","State Center, IA",3,4,1,3,5,0,2,5,1,8,2014
+53597,"Newton, IA","Spring Hill, IA",2,3,2,3,1,3,2,3,2,7,2014
+53463,"Newton, IA","Lidderdale, IA",3,3,1,0,6,1,1,2,4,7,2014
+53312,"Newton, IA","Bussey, IA",5,1,1,2,4,1,6,1,0,7,2014
+53573,"Newton, IA","Russell, IA",2,1,4,1,0,6,2,1,4,7,2014
+53482,"Newton, IA","Mason City, IA",5,0,2,0,4,3,4,2,1,7,2014
+53459,"Newton, IA","Le Mars, IA",2,4,0,0,4,2,3,3,0,6,2014
+53561,"Newton, IA","Redfield, IA",4,1,1,0,3,3,4,2,0,6,2014
+53501,"Newton, IA","Monticello, IA",5,1,0,0,2,4,4,2,0,6,2014
+53614,"Newton, IA","Tiffin, IA",2,4,0,2,2,2,3,2,1,6,2014
+53621,"Newton, IA","University Heights, IA",0,4,2,3,2,1,2,2,2,6,2014
+53623,"Newton, IA","Urbana, IA",2,2,2,2,3,1,3,0,3,6,2014
+53414,"Newton, IA","Greenfield, IA",2,2,2,0,4,2,4,1,1,6,2014
+53529,"Newton, IA","Orange City, IA",2,0,4,2,3,1,2,3,1,6,2014
+53626,"Newton, IA","Van Meter, IA",3,0,3,3,0,3,3,1,2,6,2014
+53294,"Newton, IA","Belle Plaine, IA",0,5,1,4,1,1,1,4,1,6,2014
+53628,"Newton, IA","Vining, IA",1,5,0,4,1,1,0,1,5,6,2014
+53276,"Newton, IA","Anamosa, IA",2,3,1,3,1,2,1,2,3,6,2014
+53464,"Newton, IA","Linden, IA",1,2,3,0,3,3,3,2,1,6,2014
+53638,"Newton, IA","Waverly, IA",1,3,2,2,4,0,1,1,4,6,2014
+53566,"Newton, IA","Riverside, IA",1,3,2,0,2,4,2,3,1,6,2014
+53273,"Newton, IA","Alton, IA",2,3,1,0,5,1,0,5,1,6,2014
+53544,"Newton, IA","Plano, IA",1,3,2,2,2,2,0,1,5,6,2014
+53629,"Newton, IA","Vinton, IA",3,2,0,0,2,3,4,0,1,5,2014
+53654,"Newton, IA","Winterset, IA",2,3,0,1,2,2,2,1,2,5,2014
+53504,"Newton, IA","Moravia, IA",2,3,0,3,0,2,2,2,1,5,2014
+53297,"Newton, IA","Bennett, IA",1,4,0,0,5,0,2,1,2,5,2014
+53481,"Newton, IA","Marysville, IA",1,4,0,3,1,1,1,3,1,5,2014
+53641,"Newton, IA","Webster, IA",1,1,3,1,3,1,1,3,1,5,2014
+53640,"Newton, IA","Webster City, IA",1,2,2,0,4,1,2,2,1,5,2014
+53283,"Newton, IA","Atkins, IA",0,3,2,2,1,2,1,0,4,5,2014
+53418,"Newton, IA","Guthrie Center, IA",2,3,0,0,5,0,0,4,1,5,2014
+53316,"Newton, IA","Carroll, IA",3,2,0,1,4,0,0,4,1,5,2014
+53630,"Newton, IA","Walford, IA",2,1,2,0,3,2,0,3,2,5,2014
+53353,"Newton, IA","Dallas Center, IA",1,2,2,1,3,1,1,1,3,5,2014
+53374,"Newton, IA","Eddyville, IA",1,2,2,0,2,3,1,3,1,5,2014
+53376,"Newton, IA","Eldon, IA",2,2,1,0,2,3,2,2,1,5,2014
+53363,"Newton, IA","Denison, IA",2,1,2,0,3,2,1,4,0,5,2014
+53537,"Newton, IA","Palo, IA",0,2,3,2,0,3,3,2,0,5,2014
+53402,"Newton, IA","Garden Grove, IA",1,3,1,1,3,1,3,1,1,5,2014
+53507,"Newton, IA","Moulton, IA",0,3,1,0,2,2,1,3,0,4,2014
+53586,"Newton, IA","Shell Rock, IA",3,1,0,0,2,2,3,1,0,4,2014
+53390,"Newton, IA","Farnhamville, IA",1,2,1,0,2,2,2,2,0,4,2014
+53334,"Newton, IA","Clio, IA",1,2,1,1,2,1,0,0,4,4,2014
+53394,"Newton, IA","Floyd, IA",1,2,1,0,4,0,1,2,1,4,2014
+53284,"Newton, IA","Atlantic, IA",3,1,0,0,1,3,2,2,0,4,2014
+53539,"Newton, IA","Patterson, IA",1,3,0,0,3,1,1,1,2,4,2014
+53430,"Newton, IA","Hillsboro, IA",0,2,2,0,1,3,1,2,1,4,2014
+53336,"Newton, IA","Clutier, IA",2,1,1,1,2,1,0,1,3,4,2014
+53582,"Newton, IA","Seymour, IA",2,1,1,0,1,3,1,2,1,4,2014
+53366,"Newton, IA","Dexter, IA",1,3,0,0,4,0,1,0,3,4,2014
+53468,"Newton, IA","Lone Tree, IA",1,1,2,0,1,3,2,1,1,4,2014
+53345,"Newton, IA","Corydon, IA",0,3,1,0,1,3,1,1,2,4,2014
+53559,"Newton, IA","Red Oak, IA",2,1,1,0,3,1,2,1,1,4,2014
+53557,"Newton, IA","Readlyn, IA",1,2,1,0,4,0,0,1,3,4,2014
+53266,"Newton, IA","Afton, IA",0,4,0,2,1,1,1,2,1,4,2014
+53265,"Newton, IA","Adel, IA",2,2,0,0,2,2,1,0,3,4,2014
+53455,"Newton, IA","Lamoni, IA",0,4,0,1,3,0,1,3,0,4,2014
+53655,"Newton, IA","Woodward, IA",1,1,2,2,2,0,0,1,3,4,2014
+53293,"Newton, IA","Bedford, IA",1,3,0,0,2,2,1,1,2,4,2014
+53371,"Newton, IA","Dysart, IA",2,0,2,1,2,1,1,1,2,4,2014
+53627,"Newton, IA","Victor, IA",1,2,1,1,0,3,3,1,0,4,2014
+53524,"Newton, IA","Northwood, IA",0,4,0,0,1,3,0,2,2,4,2014
+53398,"Newton, IA","Fort Madison, IA",1,3,0,1,1,2,1,3,0,4,2014
+53506,"Newton, IA","Morrison, IA",0,3,1,0,3,1,0,2,2,4,2014
+53401,"Newton, IA","Fremont, IA",0,4,0,0,4,0,1,2,1,4,2014
+53354,"Newton, IA","Danbury, IA",0,2,2,0,3,1,0,3,1,4,2014
+53502,"Newton, IA","Montour, IA",2,2,0,1,1,2,2,1,1,4,2014
+53521,"Newton, IA","Nora Springs, IA",1,1,2,0,2,2,1,0,3,4,2014
+53523,"Newton, IA","North Liberty, IA",2,1,1,1,1,2,3,0,1,4,2014
+53410,"Newton, IA","Grand Mound, IA",2,2,0,0,4,0,1,1,2,4,2014
+53510,"Newton, IA","Mount Pleasant, IA",2,2,0,0,1,3,3,1,0,4,2014
+53588,"Newton, IA","Shueyville, IA",0,2,2,1,2,1,1,1,2,4,2014
+53329,"Newton, IA","Clarinda, IA",2,1,1,0,2,2,2,1,1,4,2014
+53590,"Newton, IA","Sidney, IA",1,1,2,0,2,2,2,2,0,4,2014
+53298,"Newton, IA","Bertram, IA",3,0,1,0,1,3,3,1,0,4,2014
+53477,"Newton, IA","Maquoketa, IA",1,2,0,0,1,2,1,0,2,3,2014
+53637,"Newton, IA","Waukon, IA",0,2,1,1,1,1,0,0,3,3,2014
+53583,"Newton, IA","Shannon City, IA",2,0,1,0,1,2,1,2,0,3,2014
+53596,"Newton, IA","Spirit Lake, IA",1,1,1,1,0,2,1,2,0,3,2014
+53555,"Newton, IA","Rathbun, IA",1,1,1,0,1,2,1,1,1,3,2014
+53549,"Newton, IA","Pomeroy, IA",0,3,0,0,2,1,1,0,2,3,2014
+53562,"Newton, IA","Reinbeck, IA",1,2,0,0,2,1,1,1,1,3,2014
+53593,"Newton, IA","Slater, IA",1,1,1,1,0,2,1,2,0,3,2014
+53650,"Newton, IA","Williamsburg, IA",0,2,1,2,1,0,1,1,1,3,2014
+53509,"Newton, IA","Mount Ayr, IA",1,1,1,0,2,1,0,1,2,3,2014
+53568,"Newton, IA","Rock Rapids, IA",0,2,1,2,1,0,0,2,1,3,2014
+53467,"Newton, IA","Lockridge, IA",0,2,1,1,0,2,0,1,2,3,2014
+53648,"Newton, IA","What Cheer, IA",0,0,3,2,0,1,0,1,2,3,2014
+53605,"Newton, IA","Storm Lake, IA",0,0,3,1,2,0,1,0,2,3,2014
+53508,"Newton, IA","Mount Auburn, IA",1,1,1,1,1,1,1,1,1,3,2014
+53591,"Newton, IA","Sioux Center, IA",1,1,1,1,2,0,0,3,0,3,2014
+53602,"Newton, IA","Stanhope, IA",1,2,0,1,2,0,1,0,2,3,2014
+53479,"Newton, IA","Marion, IA",1,2,0,0,1,2,2,0,1,3,2014
+53495,"Newton, IA","Missouri Valley, IA",0,1,2,0,1,2,0,3,0,3,2014
+53470,"Newton, IA","Luana, IA",0,3,0,0,1,2,0,2,1,3,2014
+53262,"Newton, IA","Ackley, IA",2,1,0,0,0,3,1,2,0,3,2014
+53451,"Newton, IA","Kinross, IA",1,1,1,0,1,2,2,1,0,3,2014
+53332,"Newton, IA","Clearfield, IA",0,0,3,0,1,2,1,2,0,3,2014
+53425,"Newton, IA","Hawarden, IA",1,2,0,0,2,1,1,0,2,3,2014
+53302,"Newton, IA","Blakesburg, IA",0,2,1,1,1,1,0,2,1,3,2014
+53303,"Newton, IA","Blanchard, IA",1,0,2,1,0,2,2,0,1,3,2014
+53307,"Newton, IA","Boyden, IA",2,1,0,0,1,2,1,0,2,3,2014
+53314,"Newton, IA","Cambridge, IA",1,2,0,1,2,0,1,0,2,3,2014
+53322,"Newton, IA","Center Point, IA",0,1,2,2,1,0,0,2,1,3,2014
+53409,"Newton, IA","Glenwood, IA",1,2,0,0,2,1,0,2,1,3,2014
+53404,"Newton, IA","Garwin, IA",1,2,0,0,2,1,2,1,0,3,2014
+53290,"Newton, IA","Batavia, IA",2,0,1,0,1,2,1,2,0,3,2014
+53340,"Newton, IA","Colo, IA",0,2,1,1,2,0,1,0,2,3,2014
+53349,"Newton, IA","Cresco, IA",1,1,1,1,2,0,1,1,1,3,2014
+53352,"Newton, IA","Dakota City, IA",1,2,0,0,1,2,0,2,1,3,2014
+53364,"Newton, IA","Denver, IA",2,0,1,1,1,1,2,1,0,3,2014
+53373,"Newton, IA","East Peru, IA",0,1,2,2,0,1,1,1,1,3,2014
+53377,"Newton, IA","Eldora, IA",1,1,1,0,2,1,0,1,2,3,2014
+53378,"Newton, IA","Elk Run Heights, IA",1,2,0,0,1,2,1,1,1,3,2014
+53299,"Newton, IA","Bettendorf, IA",2,1,0,0,2,1,1,1,1,3,2014
+53317,"Newton, IA","Carter Lake, IA",1,1,1,0,0,3,1,1,1,3,2014
+53443,"Newton, IA","Jewell Junction, IA",3,0,0,0,1,2,1,2,0,3,2014
+53433,"Newton, IA","Ida Grove, IA",1,1,1,0,3,0,1,2,0,3,2014
+53270,"Newton, IA","Alden, IA",1,0,2,1,2,0,2,0,1,3,2014
+53271,"Newton, IA","Algona, IA",1,1,1,1,1,1,1,1,1,3,2014
+53435,"Newton, IA","Independence, IA",0,1,2,1,2,0,0,1,2,3,2014
+53445,"Newton, IA","Kalona, IA",0,2,1,0,2,1,0,0,3,3,2014
+53281,"Newton, IA","Asbury, IA",1,1,1,0,2,1,1,2,0,3,2014
+53448,"Newton, IA","Keokuk, IA",1,2,0,0,1,2,2,1,0,3,2014
+53546,"Newton, IA","Pleasanton, IA",1,1,0,0,1,1,2,0,0,2,2014
+53646,"Newton, IA","West Liberty, IA",1,1,0,1,1,0,1,0,1,2,2014
+53569,"Newton, IA","Rock Valley, IA",0,2,0,0,2,0,1,0,1,2,2014
+53344,"Newton, IA","Coralville, IA",2,0,0,0,0,2,2,0,0,2,2014
+53347,"Newton, IA","Crawfordsville, IA",0,1,1,0,1,1,0,2,0,2,2014
+53277,"Newton, IA","Andover, IA",1,0,1,0,1,1,1,0,1,2,2014
+53550,"Newton, IA","Popejoy, IA",0,2,0,1,0,1,1,1,0,2,2014
+53359,"Newton, IA","Decorah, IA",2,0,0,0,1,1,2,0,0,2,2014
+53632,"Newton, IA","Wall Lake, IA",0,2,0,0,2,0,0,2,0,2,2014
+53337,"Newton, IA","Coburg, IA",1,1,0,0,2,0,0,1,1,2,2014
+53368,"Newton, IA","Donnellson, IA",1,1,0,0,0,2,1,1,0,2,2014
+53370,"Newton, IA","Dyersville, IA",1,0,1,1,0,1,1,0,1,2,2014
+53538,"Newton, IA","Panama, IA",0,0,2,0,1,1,0,1,1,2,2014
+53536,"Newton, IA","Packwood, IA",1,1,0,0,1,1,1,1,0,2,2014
+53534,"Newton, IA","Oxford Junction, IA",0,2,0,0,0,2,0,2,0,2,2014
+53656,"Newton, IA","Yetter, IA",0,1,1,0,1,1,1,1,0,2,2014
+53528,"Newton, IA","Onawa, IA",1,1,0,0,2,0,0,2,0,2,2014
+53543,"Newton, IA","Plainfield, IA",2,0,0,0,1,1,2,0,0,2,2014
+53331,"Newton, IA","Clear Lake, IA",0,1,1,0,1,1,0,0,2,2,2014
+53644,"Newton, IA","West Chester, IA",1,0,1,1,1,0,0,1,1,2,2014
+53309,"Newton, IA","Britt, IA",0,2,0,0,1,1,0,1,1,2,2014
+53633,"Newton, IA","Wapello, IA",1,0,1,0,0,2,2,0,0,2,2014
+53296,"Newton, IA","Belmond, IA",0,1,1,0,0,2,0,2,0,2,2014
+53301,"Newton, IA","Blairstown, IA",0,1,1,1,1,0,0,1,1,2,2014
+53288,"Newton, IA","Avoca, IA",2,0,0,0,1,1,0,2,0,2,2014
+53287,"Newton, IA","Aurora, IA",2,0,0,0,1,1,1,1,0,2,2014
+53618,"Newton, IA","Traer, IA",1,1,0,1,1,0,2,0,0,2,2014
+53304,"Newton, IA","Bloomfield, IA",1,1,0,1,1,0,2,0,0,2,2014
+53612,"Newton, IA","Swea City, IA",0,0,2,0,1,1,0,2,0,2,2014
+53286,"Newton, IA","Aurelia, IA",0,2,0,0,2,0,0,2,0,2,2014
+53526,"Newton, IA","Oelwein, IA",1,1,0,1,1,0,0,1,1,2,2014
+53631,"Newton, IA","Walker, IA",0,1,1,0,1,1,0,1,1,2,2014
+53601,"Newton, IA","Stacyville, IA",0,2,0,0,1,1,0,1,1,2,2014
+53318,"Newton, IA","Casey, IA",0,2,0,0,2,0,0,1,1,2,2014
+53599,"Newton, IA","Springville, IA",2,0,0,0,1,1,1,1,0,2,2014
+53642,"Newton, IA","Wellman, IA",0,0,2,0,2,0,2,0,0,2,2014
+53595,"Newton, IA","Spencer, IA",1,1,0,0,0,2,1,1,0,2,2014
+53594,"Newton, IA","South English, IA",0,1,1,0,2,0,1,1,0,2,2014
+53643,"Newton, IA","West Burlington, IA",1,1,0,0,1,1,1,1,0,2,2014
+53324,"Newton, IA","Central City, IA",0,2,0,0,0,2,0,0,2,2,2014
+53587,"Newton, IA","Shenandoah, IA",2,0,0,0,1,1,2,0,0,2,2014
+53380,"Newton, IA","Ely, IA",0,1,1,0,2,0,0,1,1,2,2014
+53355,"Newton, IA","Danville, IA",2,0,0,0,1,1,1,0,1,2,2014
+53422,"Newton, IA","Hartley, IA",1,0,1,1,1,0,0,2,0,2,2014
+53475,"Newton, IA","Manly, IA",1,0,1,0,0,2,1,0,1,2,2014
+53420,"Newton, IA","Hampton, IA",1,1,0,0,2,0,0,2,0,2,2014
+53472,"Newton, IA","Macksburg, IA",0,0,2,0,2,0,1,0,1,2,2014
+53431,"Newton, IA","Humboldt, IA",0,1,1,0,1,1,0,1,1,2,2014
+53403,"Newton, IA","Garner, IA",2,0,0,0,1,1,1,1,0,2,2014
+53440,"Newton, IA","Irwin, IA",1,1,0,0,1,1,2,0,0,2,2014
+53512,"Newton, IA","Moville, IA",1,1,0,0,2,0,1,0,1,2,2014
+53421,"Newton, IA","Harlan, IA",1,0,1,0,0,2,0,2,0,2,2014
+53513,"Newton, IA","Murray, IA",1,1,0,0,1,1,0,2,0,2,2014
+53442,"Newton, IA","Jesup, IA",1,1,0,0,2,0,0,1,1,2,2014
+53396,"Newton, IA","Fort Atkinson, IA",0,0,2,0,1,1,1,1,0,2,2014
+53413,"Newton, IA","Grant, IA",0,1,1,0,1,1,0,1,1,2,2014
+53492,"Newton, IA","Milton, IA",0,1,1,0,1,1,0,1,1,2,2014
+53517,"Newton, IA","New London, IA",0,2,0,0,1,1,2,0,0,2,2014
+53386,"Newton, IA","Fairfax, IA",0,2,0,0,1,1,0,1,1,2,2014
+53497,"Newton, IA","Mondamin, IA",0,1,1,0,1,1,0,1,1,2,2014
+53476,"Newton, IA","Manson, IA",2,0,0,0,0,2,1,1,0,2,2014
+53505,"Newton, IA","Morley, IA",0,1,1,0,2,0,0,1,1,2,2014
+53489,"Newton, IA","Merrill, IA",0,2,0,0,2,0,0,0,2,2,2014
+53400,"Newton, IA","Fraser, IA",0,1,1,0,2,0,1,0,1,2,2014
+53491,"Newton, IA","Millerton, IA",0,0,2,0,1,1,0,1,1,2,2014
+53615,"Newton, IA","Tipton, IA",0,1,0,0,0,1,0,1,0,1,2014
+53619,"Newton, IA","Union, IA",1,0,0,1,0,0,0,1,0,1,2014
+53620,"Newton, IA","Unionville, IA",1,0,0,0,0,1,1,0,0,1,2014
+53616,"Newton, IA","Titonka, IA",0,1,0,0,1,0,1,0,0,1,2014
+53382,"Newton, IA","Estherville, IA",0,1,0,0,1,0,0,1,0,1,2014
+53419,"Newton, IA","Hamburg, IA",0,0,1,0,1,0,0,1,0,1,2014
+53305,"Newton, IA","Blue Grass, IA",1,0,0,0,0,1,1,0,0,1,2014
+53484,"Newton, IA","McClelland, IA",0,0,1,0,1,0,0,1,0,1,2014
+53485,"Newton, IA","McIntire, IA",0,1,0,1,0,0,0,0,1,1,2014
+53426,"Newton, IA","Hazleton, IA",0,0,1,1,0,0,0,0,1,1,2014
+53308,"Newton, IA","Brighton, IA",0,0,1,0,1,0,0,0,1,1,2014
+53608,"Newton, IA","Strawberry Point, IA",0,1,0,0,0,1,0,1,0,1,2014
+53607,"Newton, IA","Stratford, IA",0,1,0,0,0,1,0,1,0,1,2014
+53313,"Newton, IA","Camanche, IA",0,0,1,0,1,0,0,0,1,1,2014
+53604,"Newton, IA","Steamboat Rock, IA",1,0,0,0,0,1,1,0,0,1,2014
+53412,"Newton, IA","Granger, IA",0,1,0,0,1,0,0,0,1,1,2014
+53488,"Newton, IA","Meriden, IA",0,1,0,0,1,0,0,0,1,1,2014
+53490,"Newton, IA","Milford, IA",1,0,0,0,0,1,1,0,0,1,2014
+53598,"Newton, IA","Springbrook, IA",0,1,0,0,0,1,0,0,1,1,2014
+53610,"Newton, IA","Superior, IA",0,1,0,0,1,0,1,0,0,1,2014
+53291,"Newton, IA","Battle Creek, IA",1,0,0,0,0,1,0,1,0,1,2014
+53300,"Newton, IA","Birmingham, IA",1,0,0,0,1,0,0,1,0,1,2014
+53427,"Newton, IA","Hedrick, IA",0,1,0,0,1,0,0,0,1,1,2014
+53449,"Newton, IA","Keosauqua, IA",0,1,0,1,0,0,0,1,0,1,2014
+53264,"Newton, IA","Adair, IA",1,0,0,0,1,0,1,0,0,1,2014
+53456,"Newton, IA","Larrabee, IA",0,1,0,0,1,0,0,1,0,1,2014
+53653,"Newton, IA","Winfield, IA",1,0,0,0,0,1,1,0,0,1,2014
+53457,"Newton, IA","Le Claire, IA",0,1,0,0,1,0,1,0,0,1,2014
+53651,"Newton, IA","Wilton, IA",1,0,0,0,0,1,0,1,0,1,2014
+53272,"Newton, IA","Allison, IA",0,1,0,0,0,1,0,1,0,1,2014
+53649,"Newton, IA","Whittemore, IA",0,0,1,0,0,1,0,0,1,1,2014
+53446,"Newton, IA","Kellerton, IA",1,0,0,1,0,0,0,0,1,1,2014
+53647,"Newton, IA","West Union, IA",0,0,1,0,0,1,0,1,0,1,2014
+53461,"Newton, IA","Lenox, IA",0,0,1,0,1,0,0,1,0,1,2014
+53279,"Newton, IA","Armstrong, IA",1,0,0,0,1,0,1,0,0,1,2014
+53441,"Newton, IA","Jefferson, IA",0,0,1,0,0,1,0,0,1,1,2014
+53280,"Newton, IA","Arthur, IA",0,1,0,0,1,0,0,0,1,1,2014
+53466,"Newton, IA","Livermore, IA",0,1,0,0,1,0,1,0,0,1,2014
+53639,"Newton, IA","Webb, IA",0,1,0,0,1,0,0,1,0,1,2014
+53282,"Newton, IA","Ashton, IA",0,1,0,0,1,0,0,0,1,1,2014
+53285,"Newton, IA","Audubon, IA",1,0,0,0,1,0,1,0,0,1,2014
+53437,"Newton, IA","Inwood, IA",0,1,0,0,0,1,1,0,0,1,2014
+53469,"Newton, IA","Lorimor, IA",1,0,0,0,1,0,0,1,0,1,2014
+53434,"Newton, IA","Imogene, IA",0,0,1,0,1,0,0,0,1,1,2014
+53428,"Newton, IA","Henderson, IA",0,1,0,0,1,0,0,0,1,1,2014
+53289,"Newton, IA","Baldwin, IA",1,0,0,0,0,1,1,0,0,1,2014
+53295,"Newton, IA","Bellevue, IA",0,1,0,0,1,0,0,0,1,1,2014
+53625,"Newton, IA","Van Horne, IA",1,0,0,1,0,0,0,0,1,1,2014
+53319,"Newton, IA","Castalia, IA",0,1,0,0,1,0,0,0,1,1,2014
+53327,"Newton, IA","Cherokee, IA",0,1,0,0,1,0,0,0,1,1,2014
+53411,"Newton, IA","Grand River, IA",0,0,1,0,0,1,1,0,0,1,2014
+53511,"Newton, IA","Mount Vernon, IA",0,0,1,0,1,0,0,0,1,1,2014
+53351,"Newton, IA","Cushing, IA",0,1,0,1,0,0,0,0,1,1,2014
+53556,"Newton, IA","Raymond, IA",1,0,0,1,0,0,0,1,0,1,2014
+53450,"Newton, IA","Keota, IA",0,1,0,0,1,0,0,1,0,1,2014
+53554,"Newton, IA","Randalia, IA",0,1,0,0,1,0,1,0,0,1,2014
+53553,"Newton, IA","Protivin, IA",0,1,0,0,1,0,0,1,0,1,2014
+53552,"Newton, IA","Promise City, IA",0,0,1,0,0,1,1,0,0,1,2014
+53358,"Newton, IA","De Witt, IA",0,0,1,0,1,0,0,0,1,1,2014
+53395,"Newton, IA","Forest City, IA",0,1,0,0,1,0,0,0,1,1,2014
+53393,"Newton, IA","Floris, IA",0,1,0,0,1,0,1,0,0,1,2014
+53360,"Newton, IA","Dedham, IA",0,1,0,0,1,0,0,0,1,1,2014
+53361,"Newton, IA","Delaware, IA",0,0,1,0,1,0,0,0,1,1,2014
+53391,"Newton, IA","Fayette, IA",1,0,0,0,1,0,1,0,0,1,2014
+53362,"Newton, IA","Deloit, IA",0,1,0,0,1,0,1,0,0,1,2014
+53367,"Newton, IA","Diagonal, IA",0,0,1,0,0,1,1,0,0,1,2014
+53494,"Newton, IA","Minden, IA",1,0,0,0,1,0,1,0,0,1,2014
+53540,"Newton, IA","Paullina, IA",0,1,0,0,1,0,0,0,1,1,2014
+53389,"Newton, IA","Farmersburg, IA",1,0,0,0,0,1,1,0,0,1,2014
+53388,"Newton, IA","Farley, IA",1,0,0,0,0,1,0,0,1,1,2014
+53372,"Newton, IA","Eagle Grove, IA",0,1,0,0,0,1,0,1,0,1,2014
+53516,"Newton, IA","New Albin, IA",1,0,0,0,1,0,1,0,0,1,2014
+53535,"Newton, IA","Oxford, IA",0,0,1,1,0,0,1,0,0,1,2014
+53385,"Newton, IA","Fairbank, IA",0,0,1,0,1,0,0,0,1,1,2014
+53520,"Newton, IA","Nodaway, IA",0,0,1,0,1,0,1,0,0,1,2014
+53530,"Newton, IA","Orient, IA",0,1,0,0,1,0,1,0,0,1,2014
+53379,"Newton, IA","Elkport, IA",0,1,0,0,0,1,0,0,1,1,2014
+53384,"Newton, IA","Exline, IA",1,0,0,0,0,1,1,0,0,1,2014
+53522,"Newton, IA","North English, IA",0,1,0,1,0,0,0,0,1,1,2014
+53383,"Newton, IA","Evansdale, IA",0,1,0,0,1,0,0,1,0,1,2014
+53399,"Newton, IA","Fostoria, IA",1,0,0,1,0,0,0,1,0,1,2014
+53560,"Newton, IA","Redding, IA",1,0,0,1,0,0,0,0,1,1,2014
+53348,"Newton, IA","Crescent, IA",0,1,0,0,1,0,0,1,0,1,2014
+53564,"Newton, IA","Rinard, IA",0,1,0,0,1,0,0,1,0,1,2014
+53407,"Newton, IA","Gilbertville, IA",0,0,1,1,0,0,0,0,1,1,2014
+53326,"Newton, IA","Charles City, IA",0,1,0,0,1,0,0,0,1,1,2014
+53381,"Newton, IA","Epworth, IA",0,1,0,0,0,1,1,0,0,1,2014
+53328,"Newton, IA","Cincinnati, IA",0,1,0,0,0,1,0,1,0,1,2014
+53589,"Newton, IA","Sibley, IA",1,0,0,0,0,1,1,0,0,1,2014
+53330,"Newton, IA","Clarion, IA",1,0,0,0,1,0,1,0,0,1,2014
+53498,"Newton, IA","Monona, IA",0,1,0,0,0,1,1,0,0,1,2014
+53585,"Newton, IA","Sheldon, IA",0,0,1,1,0,0,1,0,0,1,2014
+53584,"Newton, IA","Sharpsburg, IA",0,1,0,0,0,1,0,0,1,1,2014
+53406,"Newton, IA","Gilbert, IA",0,1,0,0,1,0,0,1,0,1,2014
+53405,"Newton, IA","George, IA",0,1,0,0,1,0,0,1,0,1,2014
+53581,"Newton, IA","Sergeant Bluff, IA",0,0,1,0,0,1,0,1,0,1,2014
+53580,"Newton, IA","Schleswig, IA",0,0,1,0,1,0,0,0,1,1,2014
+53579,"Newton, IA","Schaller, IA",0,1,0,1,0,0,0,0,1,1,2014
+53578,"Newton, IA","Sandyville, IA",0,1,0,0,0,1,0,1,0,1,2014
+53577,"Newton, IA","Sanborn, IA",0,1,0,0,1,0,0,1,0,1,2014
+53576,"Newton, IA","Sageville, IA",1,0,0,0,0,1,0,1,0,1,2014
+53575,"Newton, IA","Ryan, IA",0,1,0,0,0,1,1,0,0,1,2014
+53574,"Newton, IA","Ruthven, IA",0,0,1,0,1,0,1,0,0,1,2014
+53338,"Newton, IA","Coggon, IA",0,1,0,0,1,0,0,1,0,1,2014
+53571,"Newton, IA","Rodney, IA",0,1,0,0,1,0,0,1,0,1,2014
+53570,"Newton, IA","Rockwell, IA",0,1,0,0,1,0,0,1,0,1,2014
+53503,"Newton, IA","Montrose, IA",1,0,0,1,0,0,0,1,0,1,2014
+53341,"Newton, IA","Columbus Junction, IA",0,0,1,0,1,0,0,1,0,1,2014
+53342,"Newton, IA","Conrad, IA",0,1,0,0,1,0,0,0,1,1,2014
+53343,"Newton, IA","Coon Rapids, IA",0,1,0,0,0,1,0,1,0,1,2014
+53565,"Newton, IA","Riverdale, IA",0,1,0,0,0,1,1,0,0,1,2014
+53657,"Newton, IA","Zearing, IA",0,1,0,0,1,0,0,0,1,1,2014

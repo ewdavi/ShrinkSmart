@@ -1,0 +1,266 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+56343,"Red Oak, IA","Red Oak, IA",252,578,336,246,756,164,431,477,258,1166,2008
+56369,"Red Oak, IA","Stanton, IA",52,172,76,71,190,39,68,124,108,300,2008
+56194,"Red Oak, IA","Council Bluffs, IA",31,60,27,3,74,41,48,49,21,118,2008
+56236,"Red Oak, IA","Grant, IA",22,63,29,38,58,18,38,41,35,114,2008
+56282,"Red Oak, IA","Macedonia, IA",12,50,21,27,48,8,21,36,26,83,2008
+56217,"Red Oak, IA","Elliott, IA",15,38,27,28,37,15,23,28,29,80,2008
+56358,"Red Oak, IA","Shenandoah, IA",9,37,8,9,34,11,12,31,11,54,2008
+56219,"Red Oak, IA","Essex, IA",11,22,9,9,25,8,12,12,18,42,2008
+56187,"Red Oak, IA","Clarinda, IA",13,19,9,7,30,4,20,14,7,41,2008
+56192,"Red Oak, IA","Coburg, IA",5,25,9,7,26,6,8,18,13,39,2008
+56156,"Red Oak, IA","Atlantic, IA",9,23,3,9,23,3,19,12,4,35,2008
+56235,"Red Oak, IA","Glenwood, IA",5,21,8,0,20,14,10,12,12,34,2008
+56245,"Red Oak, IA","Harlan, IA",9,13,2,0,19,5,9,13,2,24,2008
+56274,"Red Oak, IA","Lewis, IA",2,14,6,5,12,5,8,4,10,22,2008
+56347,"Red Oak, IA","Riverton, IA",1,17,3,1,18,2,5,9,7,21,2008
+56284,"Red Oak, IA","Malvern, IA",6,11,4,3,14,4,5,9,7,21,2008
+56205,"Red Oak, IA","Des Moines, IA",7,11,0,0,13,5,5,9,4,18,2008
+56363,"Red Oak, IA","Silver City, IA",2,11,5,1,15,2,1,12,5,18,2008
+56248,"Red Oak, IA","Hastings, IA",4,7,6,4,9,4,2,7,8,17,2008
+56316,"Red Oak, IA","Nodaway, IA",5,8,3,1,7,8,5,7,4,16,2008
+56256,"Red Oak, IA","Imogene, IA",3,7,5,5,7,3,3,6,6,15,2008
+56326,"Red Oak, IA","Ottumwa, IA",4,11,0,2,6,7,6,6,3,15,2008
+56379,"Red Oak, IA","Urbandale, IA",5,8,2,0,13,2,3,8,4,15,2008
+56191,"Red Oak, IA","Clive, IA",4,9,1,1,7,6,5,2,7,14,2008
+56181,"Red Oak, IA","Cedar Rapids, IA",5,7,2,6,5,3,3,3,8,14,2008
+56178,"Red Oak, IA","Carter Lake, IA",4,9,0,2,5,6,7,5,1,13,2008
+56197,"Red Oak, IA","Cumberland, IA",2,7,4,2,9,2,3,6,4,13,2008
+56177,"Red Oak, IA","Carson, IA",4,8,0,1,9,2,6,3,3,12,2008
+56170,"Red Oak, IA","Braddyville, IA",1,6,4,5,5,1,4,4,3,11,2008
+56364,"Red Oak, IA","Sioux City, IA",4,5,1,0,5,5,6,2,2,10,2008
+56329,"Red Oak, IA","Pacific Junction, IA",5,4,1,0,6,4,4,2,4,10,2008
+56301,"Red Oak, IA","Missouri Valley, IA",3,5,2,0,6,4,4,6,0,10,2008
+56279,"Red Oak, IA","Logan, IA",2,4,4,3,4,3,2,6,2,10,2008
+56167,"Red Oak, IA","Blanchard, IA",1,8,1,3,5,2,8,2,0,10,2008
+56196,"Red Oak, IA","Creston, IA",1,6,3,2,5,3,1,6,3,10,2008
+56242,"Red Oak, IA","Hamburg, IA",1,5,3,0,5,4,2,4,3,9,2008
+56325,"Red Oak, IA","Oskaloosa, IA",2,5,2,2,5,2,2,4,3,9,2008
+56259,"Red Oak, IA","Iowa City, IA",2,7,0,3,5,1,2,3,4,9,2008
+56374,"Red Oak, IA","Tennant, IA",0,8,1,0,8,1,1,4,4,9,2008
+56342,"Red Oak, IA","Randolph, IA",2,7,0,1,6,2,3,5,1,9,2008
+56176,"Red Oak, IA","Carroll, IA",4,2,2,1,4,3,5,2,1,8,2008
+56204,"Red Oak, IA","Denison, IA",2,4,1,0,5,2,2,4,1,7,2008
+56335,"Red Oak, IA","Pleasant Hill, IA",2,4,1,1,6,0,1,3,3,7,2008
+56357,"Red Oak, IA","Shelby, IA",1,5,1,1,4,2,4,2,1,7,2008
+56392,"Red Oak, IA","West Des Moines, IA",3,4,0,0,6,1,2,4,1,7,2008
+56147,"Red Oak, IA","Ames, IA",3,2,2,0,3,4,1,4,2,7,2008
+56231,"Red Oak, IA","Fort Dodge, IA",3,3,1,1,5,1,3,2,2,7,2008
+56150,"Red Oak, IA","Ankeny, IA",2,4,1,1,5,1,1,3,3,7,2008
+56241,"Red Oak, IA","Guthrie Center, IA",0,4,2,0,2,4,3,2,1,6,2008
+56208,"Red Oak, IA","Dubuque, IA",3,2,1,2,1,3,3,1,2,6,2008
+56385,"Red Oak, IA","Waterloo, IA",3,3,0,0,1,5,2,1,3,6,2008
+56315,"Red Oak, IA","Newton, IA",2,3,1,1,3,2,0,0,6,6,2008
+56244,"Red Oak, IA","Hancock, IA",2,4,0,0,1,5,1,2,3,6,2008
+56225,"Red Oak, IA","Fairfield, IA",0,6,0,2,2,2,1,4,1,6,2008
+56303,"Red Oak, IA","Mondamin, IA",1,3,1,1,3,1,1,2,2,5,2008
+56375,"Red Oak, IA","Underwood, IA",2,3,0,0,3,2,3,2,0,5,2008
+56229,"Red Oak, IA","Floris, IA",1,2,2,1,3,1,1,2,2,5,2008
+56382,"Red Oak, IA","Walnut, IA",1,4,0,1,1,3,1,1,3,5,2008
+56324,"Red Oak, IA","Osceola, IA",0,4,1,1,3,1,1,3,1,5,2008
+56277,"Red Oak, IA","Lineville, IA",0,5,0,1,1,3,0,4,1,5,2008
+56319,"Red Oak, IA","Norwalk, IA",1,4,0,0,5,0,0,3,2,5,2008
+56227,"Red Oak, IA","Farragut, IA",0,3,1,0,4,0,0,2,2,4,2008
+56306,"Red Oak, IA","Moulton, IA",1,3,0,2,1,1,0,2,2,4,2008
+56265,"Red Oak, IA","Kirkman, IA",2,2,0,0,4,0,1,2,1,4,2008
+56263,"Red Oak, IA","Keosauqua, IA",0,1,3,0,3,1,0,2,2,4,2008
+56294,"Red Oak, IA","Massena, IA",0,3,1,2,0,2,0,1,3,4,2008
+56321,"Red Oak, IA","Oakland, IA",2,2,0,1,2,1,0,2,2,4,2008
+56292,"Red Oak, IA","Marshalltown, IA",2,2,0,2,1,1,1,2,1,4,2008
+56255,"Red Oak, IA","Ida Grove, IA",0,4,0,0,3,1,0,4,0,4,2008
+56308,"Red Oak, IA","Moville, IA",1,2,1,0,1,3,1,2,1,4,2008
+56222,"Red Oak, IA","Exira, IA",0,3,1,1,0,3,0,2,2,4,2008
+56226,"Red Oak, IA","Farmington, IA",1,1,2,0,2,2,2,0,2,4,2008
+56271,"Red Oak, IA","Le Mars, IA",1,1,2,0,3,1,4,0,0,4,2008
+56367,"Red Oak, IA","Spencer, IA",0,4,0,0,3,1,2,0,2,4,2008
+56333,"Red Oak, IA","Pella, IA",0,4,0,0,4,0,0,2,2,4,2008
+56370,"Red Oak, IA","Storm Lake, IA",3,0,1,0,3,1,2,2,0,4,2008
+56146,"Red Oak, IA","Altoona, IA",2,2,0,0,4,0,0,2,2,4,2008
+56184,"Red Oak, IA","Chariton, IA",2,0,2,0,3,1,2,1,1,4,2008
+56158,"Red Oak, IA","Aurelia, IA",1,3,0,0,3,1,3,0,1,4,2008
+56157,"Red Oak, IA","Audubon, IA",1,1,1,0,3,0,1,2,0,3,2008
+56296,"Red Oak, IA","McClelland, IA",2,1,0,1,0,2,2,0,1,3,2008
+56209,"Red Oak, IA","Dunlap, IA",3,0,0,0,2,1,2,1,0,3,2008
+56165,"Red Oak, IA","Bedford, IA",0,1,2,1,2,0,1,0,2,3,2008
+56291,"Red Oak, IA","Marcus, IA",0,1,2,1,1,1,1,0,2,3,2008
+56286,"Red Oak, IA","Manilla, IA",0,2,1,0,3,0,0,3,0,3,2008
+56249,"Red Oak, IA","Henderson, IA",2,1,0,0,0,3,1,0,2,3,2008
+56362,"Red Oak, IA","Sigourney, IA",0,1,2,0,3,0,2,1,0,3,2008
+56154,"Red Oak, IA","Asbury, IA",1,1,1,1,1,1,0,2,1,3,2008
+56281,"Red Oak, IA","Low Moor, IA",1,2,0,1,1,1,0,1,2,3,2008
+56386,"Red Oak, IA","Waukee, IA",1,2,0,1,1,1,1,1,1,3,2008
+56257,"Red Oak, IA","Indianola, IA",1,2,0,0,3,0,0,2,1,3,2008
+56142,"Red Oak, IA","Albia, IA",0,1,2,1,1,1,1,0,2,3,2008
+56264,"Red Oak, IA","Keota, IA",0,2,1,0,2,1,1,1,1,3,2008
+56140,"Red Oak, IA","Agency, IA",1,2,0,1,1,1,0,2,1,3,2008
+56299,"Red Oak, IA","Millerton, IA",0,3,0,1,2,0,0,1,2,3,2008
+56210,"Red Oak, IA","East Peru, IA",1,1,1,1,1,1,1,2,0,3,2008
+56139,"Red Oak, IA","Afton, IA",1,1,1,1,1,1,1,1,1,3,2008
+56356,"Red Oak, IA","Shannon City, IA",1,0,2,0,3,0,2,1,0,3,2008
+56312,"Red Oak, IA","New Market, IA",1,1,1,0,2,1,2,1,0,3,2008
+56345,"Red Oak, IA","Richland, IA",0,3,0,1,1,1,0,2,1,3,2008
+56341,"Red Oak, IA","Quimby, IA",2,1,0,0,3,0,3,0,0,3,2008
+56309,"Red Oak, IA","Muscatine, IA",1,2,0,0,3,0,0,3,0,3,2008
+56353,"Red Oak, IA","Sac City, IA",2,1,0,0,2,1,2,1,0,3,2008
+56193,"Red Oak, IA","Corydon, IA",1,0,2,1,2,0,2,1,0,3,2008
+56182,"Red Oak, IA","Center Point, IA",0,3,0,1,2,0,0,1,2,3,2008
+56175,"Red Oak, IA","Carlisle, IA",0,2,1,0,2,1,1,1,1,3,2008
+56232,"Red Oak, IA","Fort Madison, IA",2,1,0,0,2,1,1,2,0,3,2008
+56273,"Red Oak, IA","Leon, IA",1,0,1,1,0,1,1,0,1,2,2008
+56346,"Red Oak, IA","Rippey, IA",2,0,0,0,0,2,2,0,0,2,2008
+56275,"Red Oak, IA","Lidderdale, IA",1,1,0,0,0,2,1,1,0,2,2008
+56389,"Red Oak, IA","Webster, IA",0,2,0,0,2,0,0,1,1,2,2008
+56395,"Red Oak, IA","Windsor Heights, IA",2,0,0,0,1,1,0,2,0,2,2008
+56334,"Red Oak, IA","Plano, IA",0,2,0,1,1,0,0,1,1,2,2008
+56388,"Red Oak, IA","Webster City, IA",1,1,0,0,1,1,1,1,0,2,2008
+56331,"Red Oak, IA","Panama, IA",0,2,0,0,1,1,1,0,1,2,2008
+56361,"Red Oak, IA","Sidney, IA",1,0,1,0,1,1,1,1,0,2,2008
+56378,"Red Oak, IA","Urbana, IA",0,1,1,1,1,0,1,1,0,2,2008
+56384,"Red Oak, IA","Washington, IA",0,2,0,1,0,1,0,1,1,2,2008
+56283,"Red Oak, IA","Magnolia, IA",2,0,0,0,1,1,2,0,0,2,2008
+56365,"Red Oak, IA","Sloan, IA",0,1,1,0,1,1,2,0,0,2,2008
+56352,"Red Oak, IA","Russell, IA",0,1,1,0,1,1,1,1,0,2,2008
+56354,"Red Oak, IA","Sageville, IA",0,2,0,2,0,0,0,1,1,2,2008
+56355,"Red Oak, IA","Schleswig, IA",1,0,1,0,1,1,1,1,0,2,2008
+56376,"Red Oak, IA","University Heights, IA",0,1,1,2,0,0,0,0,2,2,2008
+56368,"Red Oak, IA","Stanhope, IA",1,0,1,0,2,0,1,1,0,2,2008
+56293,"Red Oak, IA","Mason City, IA",0,1,1,0,0,2,1,0,1,2,2008
+56304,"Red Oak, IA","Monroe, IA",1,1,0,0,1,1,0,2,0,2,2008
+56366,"Red Oak, IA","Soldier, IA",0,0,2,0,2,0,1,1,0,2,2008
+56138,"Red Oak, IA","Ackworth, IA",2,0,0,0,2,0,1,1,0,2,2008
+56270,"Red Oak, IA","Lamoni, IA",0,1,1,1,1,0,1,0,1,2,2008
+56162,"Red Oak, IA","Battle Creek, IA",1,0,1,0,0,2,2,0,0,2,2008
+56253,"Red Oak, IA","Humboldt, IA",0,2,0,0,2,0,0,1,1,2,2008
+56216,"Red Oak, IA","Elk Run Heights, IA",1,1,0,1,0,1,0,0,2,2,2008
+56174,"Red Oak, IA","Burlington, IA",1,1,0,0,2,0,0,2,0,2,2008
+56180,"Red Oak, IA","Cedar Falls, IA",1,1,0,0,2,0,0,0,2,2,2008
+56213,"Red Oak, IA","Eldon, IA",1,0,1,0,2,0,2,0,0,2,2008
+56246,"Red Oak, IA","Harris, IA",0,1,1,0,2,0,1,1,0,2,2008
+56186,"Red Oak, IA","Cherokee, IA",1,0,1,2,0,0,0,2,0,2,2008
+56211,"Red Oak, IA","Eddyville, IA",1,1,0,0,2,0,0,1,1,2,2008
+56159,"Red Oak, IA","Avoca, IA",1,1,0,0,1,1,0,1,1,2,2008
+56189,"Red Oak, IA","Clear Lake, IA",1,1,0,0,2,0,1,0,1,2,2008
+56250,"Red Oak, IA","Hiawatha, IA",1,0,1,0,0,2,2,0,0,2,2008
+56251,"Red Oak, IA","Hospers, IA",0,2,0,0,2,0,1,0,1,2,2008
+56252,"Red Oak, IA","Hubbard, IA",1,1,0,1,1,0,0,2,0,2,2008
+56171,"Red Oak, IA","Brighton, IA",1,1,0,0,2,0,0,2,0,2,2008
+56169,"Red Oak, IA","Boxholm, IA",2,0,0,0,0,2,2,0,0,2,2008
+56203,"Red Oak, IA","Dedham, IA",1,1,0,0,0,2,2,0,0,2,2008
+56258,"Red Oak, IA","Inwood, IA",1,0,1,0,0,2,2,0,0,2,2008
+56200,"Red Oak, IA","Danville, IA",0,1,1,0,1,1,0,1,1,2,2008
+56228,"Red Oak, IA","Fenton, IA",1,1,0,0,1,1,1,0,1,2,2008
+56261,"Red Oak, IA","Jefferson, IA",0,2,0,0,2,0,0,2,0,2,2008
+56190,"Red Oak, IA","Clinton, IA",1,1,0,1,0,1,0,0,2,2,2008
+56198,"Red Oak, IA","Dallas Center, IA",1,1,0,0,1,1,1,1,0,2,2008
+56166,"Red Oak, IA","Bellevue, IA",0,2,0,1,1,0,0,0,2,2,2008
+56215,"Red Oak, IA","Elk Horn, IA",0,1,1,0,2,0,0,2,0,2,2008
+56360,"Red Oak, IA","Sibley, IA",0,1,0,0,1,0,1,0,0,1,2008
+56172,"Red Oak, IA","Britt, IA",0,1,0,0,1,0,0,0,1,1,2008
+56173,"Red Oak, IA","Brooklyn, IA",0,0,1,1,0,0,0,1,0,1,2008
+56168,"Red Oak, IA","Boone, IA",0,1,0,0,0,1,0,0,1,1,2008
+56268,"Red Oak, IA","Lake View, IA",1,0,0,1,0,0,1,0,0,1,2008
+56359,"Red Oak, IA","Shueyville, IA",1,0,0,0,0,1,1,0,0,1,2008
+56179,"Red Oak, IA","Casey, IA",0,1,0,0,1,0,0,0,1,1,2008
+56183,"Red Oak, IA","Centerville, IA",0,0,1,0,1,0,0,0,1,1,2008
+56164,"Red Oak, IA","Bayard, IA",0,0,1,0,1,0,0,0,1,1,2008
+56188,"Red Oak, IA","Clarion, IA",1,0,0,0,1,0,1,0,0,1,2008
+56351,"Red Oak, IA","Royal, IA",0,1,0,0,0,1,1,0,0,1,2008
+56350,"Red Oak, IA","Rockford, IA",1,0,0,0,0,1,1,0,0,1,2008
+56349,"Red Oak, IA","Rock Rapids, IA",0,0,1,0,0,1,1,0,0,1,2008
+56348,"Red Oak, IA","Robins, IA",1,0,0,0,0,1,1,0,0,1,2008
+56195,"Red Oak, IA","Crescent, IA",1,0,0,0,0,1,1,0,0,1,2008
+56344,"Red Oak, IA","Redding, IA",0,0,1,0,1,0,0,1,0,1,2008
+56185,"Red Oak, IA","Charter Oak, IA",1,0,0,0,1,0,1,0,0,1,2008
+56373,"Red Oak, IA","Tama, IA",0,1,0,1,0,0,0,1,0,1,2008
+56163,"Red Oak, IA","Baxter, IA",1,0,0,0,0,1,1,0,0,1,2008
+56145,"Red Oak, IA","Alton, IA",0,1,0,0,0,1,0,1,0,1,2008
+56401,"Red Oak, IA","Wyoming, IA",0,1,0,1,0,0,0,0,1,1,2008
+56400,"Red Oak, IA","Woolstock, IA",0,1,0,0,1,0,1,0,0,1,2008
+56399,"Red Oak, IA","Woodbine, IA",0,0,1,0,1,0,1,0,0,1,2008
+56398,"Red Oak, IA","Wiota, IA",0,1,0,0,0,1,0,1,0,1,2008
+56397,"Red Oak, IA","Winterset, IA",0,1,0,0,0,1,0,1,0,1,2008
+56396,"Red Oak, IA","Winfield, IA",0,0,1,0,0,1,0,1,0,1,2008
+56141,"Red Oak, IA","Akron, IA",0,1,0,0,1,0,1,0,0,1,2008
+56394,"Red Oak, IA","Willey, IA",0,1,0,0,0,1,0,1,0,1,2008
+56393,"Red Oak, IA","Westside, IA",0,0,1,0,0,1,0,0,1,1,2008
+56143,"Red Oak, IA","Albion, IA",1,0,0,0,0,1,1,0,0,1,2008
+56391,"Red Oak, IA","West Burlington, IA",0,1,0,0,1,0,0,1,0,1,2008
+56390,"Red Oak, IA","Wellman, IA",1,0,0,1,0,0,1,0,0,1,2008
+56144,"Red Oak, IA","Algona, IA",0,1,0,0,1,0,0,0,1,1,2008
+56387,"Red Oak, IA","Webb, IA",0,1,0,0,0,1,1,0,0,1,2008
+56371,"Red Oak, IA","Stratford, IA",0,0,1,0,0,1,1,0,0,1,2008
+56148,"Red Oak, IA","Andover, IA",0,1,0,0,1,0,0,0,1,1,2008
+56149,"Red Oak, IA","Andrew, IA",0,0,1,0,0,1,1,0,0,1,2008
+56151,"Red Oak, IA","Armstrong, IA",0,0,1,0,1,0,1,0,0,1,2008
+56383,"Red Oak, IA","Wapello, IA",1,0,0,0,1,0,0,1,0,1,2008
+56152,"Red Oak, IA","Arnolds Park, IA",0,1,0,0,0,1,0,0,1,1,2008
+56381,"Red Oak, IA","Vining, IA",0,1,0,0,0,1,0,0,1,1,2008
+56380,"Red Oak, IA","Van Meter, IA",0,0,1,0,1,0,0,1,0,1,2008
+56153,"Red Oak, IA","Arthur, IA",1,0,0,0,1,0,1,0,0,1,2008
+56155,"Red Oak, IA","Atkins, IA",0,1,0,1,0,0,0,1,0,1,2008
+56377,"Red Oak, IA","University Park, IA",0,1,0,0,0,1,0,1,0,1,2008
+56160,"Red Oak, IA","Bagley, IA",0,0,1,0,0,1,0,0,1,1,2008
+56161,"Red Oak, IA","Baldwin, IA",0,1,0,1,0,0,0,1,0,1,2008
+56372,"Red Oak, IA","Superior, IA",0,1,0,0,0,1,0,0,1,1,2008
+56199,"Red Oak, IA","Danbury, IA",1,0,0,0,0,1,1,0,0,1,2008
+56202,"Red Oak, IA","De Witt, IA",0,1,0,0,1,0,0,1,0,1,2008
+56201,"Red Oak, IA","Dawson, IA",1,0,0,0,0,1,1,0,0,1,2008
+56340,"Red Oak, IA","Primghar, IA",0,1,0,0,0,1,1,0,0,1,2008
+56233,"Red Oak, IA","George, IA",0,0,1,0,0,1,1,0,0,1,2008
+56302,"Red Oak, IA","Mitchell, IA",1,0,0,0,1,0,1,0,0,1,2008
+56234,"Red Oak, IA","Gilman, IA",0,0,1,0,1,0,1,0,0,1,2008
+56300,"Red Oak, IA","Minden, IA",0,1,0,1,0,0,0,0,1,1,2008
+56237,"Red Oak, IA","Gravity, IA",0,1,0,0,1,0,0,1,0,1,2008
+56298,"Red Oak, IA","Milford, IA",1,0,0,0,1,0,1,0,0,1,2008
+56297,"Red Oak, IA","Merrill, IA",0,1,0,0,0,1,0,0,1,1,2008
+56238,"Red Oak, IA","Greenfield, IA",1,0,0,0,1,0,1,0,0,1,2008
+56295,"Red Oak, IA","Maurice, IA",0,1,0,0,1,0,0,1,0,1,2008
+56239,"Red Oak, IA","Grimes, IA",0,0,1,0,1,0,0,1,0,1,2008
+56240,"Red Oak, IA","Guernsey, IA",0,1,0,1,0,0,0,0,1,1,2008
+56243,"Red Oak, IA","Hampton, IA",1,0,0,0,0,1,1,0,0,1,2008
+56290,"Red Oak, IA","Maquoketa, IA",0,1,0,0,1,0,1,0,0,1,2008
+56289,"Red Oak, IA","Mapleton, IA",0,0,1,0,1,0,0,1,0,1,2008
+56288,"Red Oak, IA","Manson, IA",0,1,0,0,0,1,1,0,0,1,2008
+56287,"Red Oak, IA","Manning, IA",0,1,0,0,1,0,0,1,0,1,2008
+56247,"Red Oak, IA","Harvey, IA",1,0,0,0,0,1,1,0,0,1,2008
+56285,"Red Oak, IA","Manchester, IA",0,0,1,1,0,0,0,0,1,1,2008
+56280,"Red Oak, IA","Lost Nation, IA",0,1,0,1,0,0,0,0,1,1,2008
+56254,"Red Oak, IA","Huxley, IA",0,0,1,0,0,1,0,1,0,1,2008
+56278,"Red Oak, IA","Little Sioux, IA",1,0,0,0,1,0,1,0,0,1,2008
+56276,"Red Oak, IA","Linden, IA",1,0,0,0,1,0,1,0,0,1,2008
+56260,"Red Oak, IA","Iowa Falls, IA",0,0,1,1,0,0,0,0,1,1,2008
+56262,"Red Oak, IA","Keokuk, IA",1,0,0,0,1,0,0,1,0,1,2008
+56272,"Red Oak, IA","Le Roy, IA",0,1,0,0,1,0,0,1,0,1,2008
+56266,"Red Oak, IA","Knierim, IA",1,0,0,0,0,1,0,1,0,1,2008
+56267,"Red Oak, IA","Lacona, IA",0,0,1,0,0,1,1,0,0,1,2008
+56230,"Red Oak, IA","Forest City, IA",0,1,0,0,0,1,1,0,0,1,2008
+56305,"Red Oak, IA","Moorhead, IA",0,0,1,0,1,0,1,0,0,1,2008
+56307,"Red Oak, IA","Mount Union, IA",0,1,0,0,1,0,0,0,1,1,2008
+56214,"Red Oak, IA","Eldora, IA",1,0,0,0,0,1,0,1,0,1,2008
+56339,"Red Oak, IA","Preston, IA",0,1,0,0,0,1,1,0,0,1,2008
+56338,"Red Oak, IA","Prairie City, IA",0,1,0,0,1,0,0,1,0,1,2008
+56337,"Red Oak, IA","Pomeroy, IA",1,0,0,0,1,0,1,0,0,1,2008
+56336,"Red Oak, IA","Polk City, IA",1,0,0,0,0,1,1,0,0,1,2008
+56269,"Red Oak, IA","Lambs Grove, IA",0,1,0,0,1,0,0,1,0,1,2008
+56206,"Red Oak, IA","Dexter, IA",1,0,0,0,1,0,1,0,0,1,2008
+56332,"Red Oak, IA","Patterson, IA",0,1,0,0,1,0,0,0,1,1,2008
+56207,"Red Oak, IA","Donnellson, IA",0,1,0,0,0,1,0,0,1,1,2008
+56330,"Red Oak, IA","Palmer, IA",0,1,0,0,1,0,1,0,0,1,2008
+56328,"Red Oak, IA","Oyens, IA",0,0,1,0,0,1,1,0,0,1,2008
+56327,"Red Oak, IA","Oxford, IA",0,1,0,1,0,0,1,0,0,1,2008
+56212,"Red Oak, IA","Edgewood, IA",0,0,1,1,0,0,0,0,1,1,2008
+56323,"Red Oak, IA","Orient, IA",0,1,0,0,1,0,0,1,0,1,2008
+56224,"Red Oak, IA","Fairfax, IA",0,1,0,0,1,0,0,0,1,1,2008
+56322,"Red Oak, IA","Onawa, IA",0,1,0,0,0,1,0,1,0,1,2008
+56320,"Red Oak, IA","Norway, IA",0,1,0,0,1,0,0,1,0,1,2008
+56318,"Red Oak, IA","North English, IA",1,0,0,0,0,1,0,1,0,1,2008
+56317,"Red Oak, IA","Nora Springs, IA",0,1,0,0,0,1,1,0,0,1,2008
+56218,"Red Oak, IA","Emmetsburg, IA",0,1,0,0,0,1,0,1,0,1,2008
+56220,"Red Oak, IA","Estherville, IA",0,1,0,0,1,0,0,0,1,1,2008
+56314,"Red Oak, IA","New Vienna, IA",0,0,1,0,1,0,1,0,0,1,2008
+56313,"Red Oak, IA","New Sharon, IA",0,1,0,0,1,0,0,0,1,1,2008
+56221,"Red Oak, IA","Evansdale, IA",0,1,0,0,1,0,0,0,1,1,2008
+56311,"Red Oak, IA","New London, IA",0,1,0,0,1,0,0,1,0,1,2008
+56310,"Red Oak, IA","Nevada, IA",0,1,0,0,1,0,0,1,0,1,2008
+56223,"Red Oak, IA","Exline, IA",0,1,0,0,1,0,1,0,0,1,2008
+56402,"Red Oak, IA","Zwingle, IA",0,1,0,0,1,0,0,1,0,1,2008

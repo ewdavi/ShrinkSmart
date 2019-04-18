@@ -1,0 +1,454 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+71302,"University Heights, IA","Iowa City, IA",1207,3541,1696,43,6279,122,798,1687,3959,6444,2009
+71520,"University Heights, IA","University Heights, IA",766,1827,612,13,3130,62,451,698,2056,3205,2009
+71194,"University Heights, IA","Coralville, IA",491,1286,377,26,2089,39,251,583,1320,2154,2009
+71410,"University Heights, IA","North Liberty, IA",358,1279,439,14,2007,55,171,457,1448,2076,2009
+71170,"University Heights, IA","Cedar Rapids, IA",156,494,142,15,739,38,109,217,466,792,2009
+71427,"University Heights, IA","Oxford, IA",114,364,169,4,627,16,72,191,384,647,2009
+71514,"University Heights, IA","Tiffin, IA",113,406,106,3,601,21,59,115,451,625,2009
+71466,"University Heights, IA","Riverside, IA",73,300,134,3,489,15,47,172,288,507,2009
+71291,"University Heights, IA","Hiawatha, IA",57,212,76,9,316,20,34,91,220,345,2009
+71239,"University Heights, IA","Ely, IA",32,190,108,4,321,5,20,51,259,330,2009
+71311,"University Heights, IA","Kalona, IA",41,168,68,0,264,13,17,115,145,277,2009
+71341,"University Heights, IA","Lisbon, IA",25,159,86,5,256,9,23,54,193,270,2009
+71535,"University Heights, IA","Washington, IA",36,163,62,3,252,6,15,131,115,261,2009
+71546,"University Heights, IA","West Branch, IA",22,137,75,2,223,9,21,76,137,234,2009
+71468,"University Heights, IA","Robins, IA",44,114,39,2,184,11,35,45,117,197,2009
+71490,"University Heights, IA","Solon, IA",18,110,50,0,175,3,25,33,120,178,2009
+71559,"University Heights, IA","Williamsburg, IA",22,104,46,2,168,2,13,64,95,172,2009
+71208,"University Heights, IA","Davenport, IA",43,80,29,0,136,16,48,28,76,152,2009
+71399,"University Heights, IA","Muscatine, IA",46,78,23,0,135,12,23,43,81,147,2009
+71550,"University Heights, IA","West Liberty, IA",17,92,25,0,130,4,9,50,75,134,2009
+71292,"University Heights, IA","Hills, IA",31,72,30,2,129,2,11,45,77,133,2009
+71346,"University Heights, IA","Lone Tree, IA",21,82,26,1,126,2,11,47,71,129,2009
+71515,"University Heights, IA","Tipton, IA",21,78,27,2,122,2,9,55,62,126,2009
+71484,"University Heights, IA","Shueyville, IA",15,86,21,3,116,3,11,25,86,122,2009
+71361,"University Heights, IA","Marengo, IA",25,74,19,1,114,3,12,43,63,118,2009
+71560,"University Heights, IA","Wilton, IA",17,66,29,0,110,2,7,43,62,112,2009
+71526,"University Heights, IA","Victor, IA",12,66,19,0,97,0,8,50,39,97,2009
+71146,"University Heights, IA","Bennett, IA",11,56,24,1,88,2,7,28,56,91,2009
+71531,"University Heights, IA","Walford, IA",13,56,18,1,85,1,6,46,35,87,2009
+71215,"University Heights, IA","Des Moines, IA",33,36,16,0,76,9,31,31,23,85,2009
+71221,"University Heights, IA","Dubuque, IA",34,28,15,0,58,19,33,18,26,77,2009
+71130,"University Heights, IA","Atalissa, IA",10,42,20,0,70,2,7,31,34,72,2009
+71543,"University Heights, IA","Wellman, IA",9,45,18,3,67,2,6,28,38,72,2009
+71246,"University Heights, IA","Fairfax, IA",12,43,15,1,64,5,7,20,43,70,2009
+71433,"University Heights, IA","Parnell, IA",7,39,19,1,63,1,3,28,34,65,2009
+71407,"University Heights, IA","Nichols, IA",10,43,12,2,58,5,6,21,38,65,2009
+71510,"University Heights, IA","Swisher, IA",5,41,18,1,63,0,5,9,50,64,2009
+71161,"University Heights, IA","Burlington, IA",22,30,8,0,52,8,21,12,27,60,2009
+71562,"University Heights, IA","Winfield, IA",11,37,11,1,56,2,5,32,22,59,2009
+71148,"University Heights, IA","Bettendorf, IA",14,38,5,0,51,6,17,9,31,57,2009
+71395,"University Heights, IA","Mount Pleasant, IA",14,26,11,3,48,0,4,16,31,51,2009
+71429,"University Heights, IA","Palo, IA",11,33,6,1,49,0,13,10,27,50,2009
+71184,"University Heights, IA","Clinton, IA",18,19,11,0,42,6,17,15,16,48,2009
+71118,"University Heights, IA","Ainsworth, IA",10,30,8,1,47,0,7,11,30,48,2009
+71409,"University Heights, IA","North English, IA",2,34,10,0,45,1,6,24,16,46,2009
+71147,"University Heights, IA","Bertram, IA",12,28,5,0,38,7,6,14,25,45,2009
+71495,"University Heights, IA","Springville, IA",5,28,9,0,34,8,7,8,27,42,2009
+71370,"University Heights, IA","Mechanicsville, IA",7,25,10,1,39,2,2,15,25,42,2009
+71319,"University Heights, IA","Kinross, IA",2,30,10,1,37,4,2,17,23,42,2009
+71149,"University Heights, IA","Blairstown, IA",8,28,6,1,40,1,1,17,24,42,2009
+71191,"University Heights, IA","Columbus Junction, IA",7,26,8,1,40,0,2,25,14,41,2009
+71156,"University Heights, IA","Brighton, IA",6,24,9,2,36,1,4,18,17,39,2009
+71200,"University Heights, IA","Crawfordsville, IA",3,23,12,0,38,0,3,13,22,38,2009
+71548,"University Heights, IA","West Chester, IA",3,27,8,1,36,1,0,14,24,38,2009
+71122,"University Heights, IA","Ames, IA",10,18,8,0,26,10,12,11,13,36,2009
+71169,"University Heights, IA","Cedar Falls, IA",12,13,10,1,27,7,13,12,10,35,2009
+71440,"University Heights, IA","Pleasant Plain, IA",6,19,10,0,33,2,3,13,19,35,2009
+71424,"University Heights, IA","Ottumwa, IA",2,26,5,0,31,2,6,13,14,33,2009
+71362,"University Heights, IA","Marion, IA",7,19,6,0,31,1,4,9,19,32,2009
+71522,"University Heights, IA","Urbana, IA",8,20,4,3,28,1,2,13,17,32,2009
+71536,"University Heights, IA","Waterloo, IA",18,8,6,0,28,4,15,7,10,32,2009
+71540,"University Heights, IA","Wayland, IA",4,19,8,0,31,0,2,15,14,31,2009
+71153,"University Heights, IA","Blue Grass, IA",8,14,8,0,29,1,5,2,23,30,2009
+71439,"University Heights, IA","Pleasant Hill, IA",11,9,10,0,24,6,10,10,10,30,2009
+71126,"University Heights, IA","Ankeny, IA",6,18,5,0,24,5,11,11,7,29,2009
+71172,"University Heights, IA","Center Point, IA",6,20,3,0,27,2,6,6,17,29,2009
+71364,"University Heights, IA","Marshalltown, IA",18,7,4,0,19,10,13,8,8,29,2009
+71396,"University Heights, IA","Mount Union, IA",6,19,2,0,27,0,5,11,11,27,2009
+71279,"University Heights, IA","Grinnell, IA",5,20,2,0,26,1,6,4,17,27,2009
+71129,"University Heights, IA","Asbury, IA",9,11,7,0,21,6,11,13,3,27,2009
+71123,"University Heights, IA","Anamosa, IA",5,18,3,0,25,1,1,7,18,26,2009
+71561,"University Heights, IA","Windsor Heights, IA",8,14,3,0,20,5,10,9,6,25,2009
+71387,"University Heights, IA","Monticello, IA",6,10,8,1,20,3,8,2,14,24,2009
+71131,"University Heights, IA","Atkins, IA",4,20,0,0,22,2,2,7,15,24,2009
+71325,"University Heights, IA","Ladora, IA",4,13,6,0,22,1,1,11,11,23,2009
+71549,"University Heights, IA","West Des Moines, IA",12,4,6,0,21,1,9,8,5,22,2009
+71314,"University Heights, IA","Keokuk, IA",15,6,0,0,19,2,8,7,6,21,2009
+71143,"University Heights, IA","Belle Plaine, IA",8,4,9,0,21,0,6,11,4,21,2009
+71186,"University Heights, IA","Clive, IA",5,11,5,0,18,3,6,5,10,21,2009
+71523,"University Heights, IA","Urbandale, IA",6,10,4,0,16,4,8,4,8,20,2009
+71192,"University Heights, IA","Conesville, IA",0,14,5,0,19,0,0,12,7,19,2009
+71487,"University Heights, IA","Sioux City, IA",10,5,4,0,14,5,9,2,8,19,2009
+71247,"University Heights, IA","Fairfield, IA",6,11,2,0,17,2,7,5,7,19,2009
+71210,"University Heights, IA","De Witt, IA",10,8,0,0,17,1,3,11,4,18,2009
+71365,"University Heights, IA","Martelle, IA",2,12,3,1,15,1,0,5,12,17,2009
+71198,"University Heights, IA","Council Bluffs, IA",8,6,3,0,15,2,6,2,9,17,2009
+71390,"University Heights, IA","Morley, IA",1,5,11,1,16,0,1,3,13,17,2009
+71397,"University Heights, IA","Mount Vernon, IA",3,11,3,1,14,2,0,4,13,17,2009
+71179,"University Heights, IA","Clarence, IA",2,11,3,1,15,0,1,7,8,16,2009
+71359,"University Heights, IA","Manchester, IA",9,2,5,0,13,3,10,1,5,16,2009
+71271,"University Heights, IA","Grandview, IA",4,9,3,1,14,1,0,9,7,16,2009
+71286,"University Heights, IA","Hartwick, IA",1,9,5,0,15,0,0,1,14,15,2009
+71231,"University Heights, IA","Elberon, IA",2,11,2,0,14,1,4,6,5,15,2009
+71411,"University Heights, IA","Norwalk, IA",7,3,5,0,12,3,7,4,4,15,2009
+71347,"University Heights, IA","Long Grove, IA",5,6,3,0,12,2,6,2,6,14,2009
+71255,"University Heights, IA","Fort Madison, IA",9,3,1,0,11,2,5,7,1,13,2009
+71447,"University Heights, IA","Prairieburg, IA",3,9,1,0,13,0,3,4,6,13,2009
+71554,"University Heights, IA","Wheatland, IA",4,6,3,0,13,0,1,5,7,13,2009
+71534,"University Heights, IA","Wapello, IA",2,5,5,1,10,1,6,4,2,12,2009
+71211,"University Heights, IA","Decorah, IA",3,5,4,0,11,1,4,4,4,12,2009
+71547,"University Heights, IA","West Burlington, IA",6,6,0,0,10,2,3,4,5,12,2009
+71171,"University Heights, IA","Center Junction, IA",5,5,2,0,12,0,0,7,5,12,2009
+71367,"University Heights, IA","Mason City, IA",3,6,3,1,11,0,4,4,4,12,2009
+71422,"University Heights, IA","Oskaloosa, IA",3,7,1,0,11,0,3,4,4,11,2009
+71258,"University Heights, IA","Fruitland, IA",1,5,5,0,11,0,0,6,5,11,2009
+71173,"University Heights, IA","Centerville, IA",2,7,2,0,10,1,3,3,5,11,2009
+71404,"University Heights, IA","New London, IA",2,7,2,0,10,1,4,3,4,11,2009
+71163,"University Heights, IA","Camanche, IA",3,5,2,0,9,1,4,3,3,10,2009
+71415,"University Heights, IA","Oelwein, IA",4,5,1,0,8,2,5,3,2,10,2009
+71281,"University Heights, IA","Guernsey, IA",1,9,0,0,8,2,1,2,7,10,2009
+71528,"University Heights, IA","Vinton, IA",3,6,1,0,7,3,3,0,7,10,2009
+71301,"University Heights, IA","Indianola, IA",6,3,1,0,7,3,5,3,2,10,2009
+71309,"University Heights, IA","Johnston, IA",3,5,2,0,9,1,2,4,4,10,2009
+71224,"University Heights, IA","Dyersville, IA",7,2,1,1,8,1,6,2,2,10,2009
+71322,"University Heights, IA","Knoxville, IA",7,2,0,0,8,1,4,2,3,9,2009
+71203,"University Heights, IA","Creston, IA",5,4,0,0,8,1,2,3,4,9,2009
+71121,"University Heights, IA","Altoona, IA",2,5,2,0,7,2,3,3,3,9,2009
+71360,"University Heights, IA","Maquoketa, IA",1,7,1,0,7,2,3,1,5,9,2009
+71351,"University Heights, IA","Lowden, IA",3,4,2,0,8,1,1,3,5,9,2009
+71223,"University Heights, IA","Durant, IA",1,7,1,0,9,0,0,2,7,9,2009
+71524,"University Heights, IA","Van Horne, IA",1,8,0,0,9,0,0,4,5,9,2009
+71242,"University Heights, IA","Evansdale, IA",3,4,1,0,5,3,2,3,3,8,2009
+71254,"University Heights, IA","Fort Dodge, IA",2,4,2,0,7,1,1,3,4,8,2009
+71516,"University Heights, IA","Toledo, IA",7,1,0,0,5,3,3,1,4,8,2009
+71406,"University Heights, IA","Newton, IA",5,3,0,0,6,2,2,3,3,8,2009
+71498,"University Heights, IA","St. Paul, IA",3,2,3,0,8,0,0,2,6,8,2009
+71294,"University Heights, IA","Hopkinton, IA",2,4,2,0,8,0,2,2,4,8,2009
+71175,"University Heights, IA","Chariton, IA",1,7,0,0,7,1,1,2,5,8,2009
+71412,"University Heights, IA","Norway, IA",2,5,1,0,8,0,2,1,5,8,2009
+71155,"University Heights, IA","Boone, IA",1,5,2,0,8,0,4,3,1,8,2009
+71234,"University Heights, IA","Eldridge, IA",3,5,0,0,8,0,3,0,5,8,2009
+71152,"University Heights, IA","Bloomfield, IA",2,5,1,0,8,0,1,1,6,8,2009
+71331,"University Heights, IA","Le Claire, IA",2,4,1,0,5,2,4,1,2,7,2009
+71174,"University Heights, IA","Central City, IA",3,4,0,0,5,2,1,2,4,7,2009
+71300,"University Heights, IA","Independence, IA",5,2,0,0,6,1,3,1,3,7,2009
+71386,"University Heights, IA","Montezuma, IA",3,4,0,0,6,1,0,4,3,7,2009
+71449,"University Heights, IA","Princeton, IA",3,3,1,0,6,1,0,4,3,7,2009
+71218,"University Heights, IA","Dixon, IA",3,4,0,0,7,0,3,1,3,7,2009
+71144,"University Heights, IA","Bellevue, IA",2,3,2,0,6,1,3,3,1,7,2009
+71436,"University Heights, IA","Peosta, IA",4,3,0,0,5,2,3,3,1,7,2009
+71435,"University Heights, IA","Pella, IA",1,4,2,0,6,1,2,4,1,7,2009
+71164,"University Heights, IA","Carlisle, IA",5,2,0,0,4,3,2,5,0,7,2009
+71521,"University Heights, IA","University Park, IA",3,3,1,0,6,1,3,1,3,7,2009
+71349,"University Heights, IA","Lost Nation, IA",2,4,0,0,6,0,1,1,4,6,2009
+71391,"University Heights, IA","Morning Sun, IA",1,3,2,0,6,0,0,4,2,6,2009
+71388,"University Heights, IA","Montrose, IA",0,6,0,0,5,1,0,6,0,6,2009
+71136,"University Heights, IA","Baldwin, IA",0,6,0,0,5,1,0,2,4,6,2009
+71178,"University Heights, IA","Cincinnati, IA",1,2,3,0,5,1,1,2,3,6,2009
+71392,"University Heights, IA","Moulton, IA",1,4,1,0,6,0,0,3,3,6,2009
+71214,"University Heights, IA","Denver, IA",2,3,1,0,4,2,4,1,1,6,2009
+71511,"University Heights, IA","Tama, IA",2,4,0,1,3,2,1,5,0,6,2009
+71188,"University Heights, IA","Coggon, IA",0,6,0,0,6,0,0,1,5,6,2009
+71185,"University Heights, IA","Clio, IA",3,2,1,0,6,0,1,2,3,6,2009
+71182,"University Heights, IA","Clear Lake, IA",0,5,1,0,6,0,0,2,4,6,2009
+71394,"University Heights, IA","Mount Ayr, IA",2,1,3,0,6,0,2,4,0,6,2009
+71248,"University Heights, IA","Farley, IA",2,3,1,0,5,1,3,1,2,6,2009
+71465,"University Heights, IA","Riverdale, IA",2,3,0,0,5,0,1,0,4,5,2009
+71425,"University Heights, IA","Owasa, IA",4,0,1,0,5,0,3,2,0,5,2009
+71431,"University Heights, IA","Panorama Park, IA",1,4,0,0,2,3,2,1,2,5,2009
+71437,"University Heights, IA","Perry, IA",1,3,1,0,5,0,1,0,4,5,2009
+71142,"University Heights, IA","Bedford, IA",0,4,1,0,5,0,0,2,3,5,2009
+71206,"University Heights, IA","Dallas Center, IA",1,4,0,0,5,0,1,3,1,5,2009
+71464,"University Heights, IA","Richland, IA",1,3,1,0,5,0,1,3,1,5,2009
+71563,"University Heights, IA","Winterset, IA",2,3,0,0,5,0,0,1,4,5,2009
+71303,"University Heights, IA","Iowa Falls, IA",1,3,1,0,4,1,1,2,2,5,2009
+71235,"University Heights, IA","Elk Run Heights, IA",2,1,2,1,3,1,1,2,2,5,2009
+71475,"University Heights, IA","Ryan, IA",2,2,1,0,5,0,0,1,4,5,2009
+71419,"University Heights, IA","Orient, IA",1,3,1,0,5,0,2,1,2,5,2009
+71165,"University Heights, IA","Carroll, IA",1,1,3,0,3,2,0,2,3,5,2009
+71176,"University Heights, IA","Charles City, IA",0,5,0,0,4,1,1,3,1,5,2009
+71269,"University Heights, IA","Grand Mound, IA",2,3,0,0,3,2,2,0,3,5,2009
+71499,"University Heights, IA","Stanhope, IA",2,1,2,0,4,1,1,1,3,5,2009
+71477,"University Heights, IA","Sageville, IA",3,1,1,0,5,0,3,1,1,5,2009
+71212,"University Heights, IA","Delaware, IA",3,2,0,0,4,1,3,0,2,5,2009
+71496,"University Heights, IA","St. Marys, IA",3,2,0,0,3,2,2,1,2,5,2009
+71432,"University Heights, IA","Parkersburg, IA",0,4,0,0,3,1,1,1,2,4,2009
+71324,"University Heights, IA","Lacona, IA",0,3,1,0,3,1,0,2,2,4,2009
+71335,"University Heights, IA","Leon, IA",1,2,1,0,4,0,1,1,2,4,2009
+71400,"University Heights, IA","Nevada, IA",3,1,0,0,4,0,2,1,1,4,2009
+71471,"University Heights, IA","Roland, IA",4,0,0,0,4,0,3,1,0,4,2009
+71539,"University Heights, IA","Waverly, IA",3,1,0,0,4,0,2,2,0,4,2009
+71340,"University Heights, IA","Lineville, IA",1,1,2,0,4,0,1,1,2,4,2009
+71375,"University Heights, IA","Middletown, IA",1,3,0,0,4,0,1,1,2,4,2009
+71457,"University Heights, IA","Readlyn, IA",1,3,0,0,4,0,1,1,2,4,2009
+71456,"University Heights, IA","Raymond, IA",2,1,1,0,3,1,2,0,2,4,2009
+71481,"University Heights, IA","Sergeant Bluff, IA",2,0,2,0,2,2,3,1,0,4,2009
+71405,"University Heights, IA","New Sharon, IA",2,2,0,1,2,1,1,1,2,4,2009
+71567,"University Heights, IA","Zwingle, IA",2,2,0,0,3,1,0,0,4,4,2009
+71187,"University Heights, IA","Clutier, IA",1,2,1,0,4,0,0,2,2,4,2009
+71277,"University Heights, IA","Greenfield, IA",3,1,0,0,4,0,2,2,0,4,2009
+71259,"University Heights, IA","Garden Grove, IA",2,0,2,0,4,0,1,1,2,4,2009
+71261,"University Heights, IA","Garwin, IA",1,3,0,0,3,1,0,1,3,4,2009
+71219,"University Heights, IA","Donnellson, IA",2,1,1,0,4,0,2,1,1,4,2009
+71256,"University Heights, IA","Franklin, IA",2,2,0,0,4,0,0,2,2,4,2009
+71273,"University Heights, IA","Grant, IA",1,3,0,0,4,0,1,2,1,4,2009
+71295,"University Heights, IA","Houghton, IA",2,2,0,0,3,1,1,1,2,4,2009
+71232,"University Heights, IA","Eldon, IA",0,4,0,0,3,1,0,2,2,4,2009
+71421,"University Heights, IA","Osceola, IA",0,2,1,0,3,0,0,2,1,3,2009
+71537,"University Heights, IA","Waukee, IA",0,3,0,0,3,0,0,2,1,3,2009
+71233,"University Heights, IA","Eldora, IA",1,2,0,1,1,1,0,3,0,3,2009
+71276,"University Heights, IA","Greeley, IA",1,1,1,0,1,2,1,1,1,3,2009
+71486,"University Heights, IA","Silver City, IA",1,2,0,0,1,2,1,0,2,3,2009
+71278,"University Heights, IA","Grimes, IA",0,3,0,0,3,0,1,1,1,3,2009
+71369,"University Heights, IA","McCausland, IA",0,3,0,0,3,0,1,0,2,3,2009
+71541,"University Heights, IA","Webster City, IA",1,2,0,0,1,2,1,2,0,3,2009
+71228,"University Heights, IA","East Peru, IA",1,1,1,0,3,0,0,2,1,3,2009
+71352,"University Heights, IA","Luana, IA",2,1,0,0,1,2,2,1,0,3,2009
+71441,"University Heights, IA","Pleasantville, IA",1,0,2,0,3,0,1,2,0,3,2009
+71229,"University Heights, IA","Eddyville, IA",0,3,0,0,2,1,0,1,2,3,2009
+71168,"University Heights, IA","Casey, IA",0,2,1,0,3,0,0,0,3,3,2009
+71420,"University Heights, IA","Osage, IA",2,0,1,0,1,2,3,0,0,3,2009
+71530,"University Heights, IA","Walcott, IA",0,3,0,0,3,0,1,0,2,3,2009
+71402,"University Heights, IA","New Hampton, IA",2,1,0,0,2,1,2,0,1,3,2009
+71160,"University Heights, IA","Buffalo, IA",0,3,0,0,3,0,0,1,2,3,2009
+71519,"University Heights, IA","Unionville, IA",1,2,0,0,3,0,0,1,2,3,2009
+71408,"University Heights, IA","Nodaway, IA",1,2,0,0,2,1,0,2,1,3,2009
+71245,"University Heights, IA","Fairbank, IA",0,3,0,0,2,1,1,2,0,3,2009
+71266,"University Heights, IA","Gilman, IA",1,2,0,0,3,0,1,1,1,3,2009
+71150,"University Heights, IA","Blakesburg, IA",0,3,0,0,3,0,0,2,1,3,2009
+71216,"University Heights, IA","Dexter, IA",2,0,1,0,3,0,3,0,0,3,2009
+71380,"University Heights, IA","Missouri Valley, IA",2,1,0,0,3,0,2,1,0,3,2009
+71379,"University Heights, IA","Minburn, IA",1,2,0,0,2,1,2,1,0,3,2009
+71240,"University Heights, IA","Epworth, IA",0,3,0,0,2,1,2,1,0,3,2009
+71376,"University Heights, IA","Millerton, IA",1,2,0,0,2,1,0,1,2,3,2009
+71374,"University Heights, IA","Merrill, IA",2,1,0,0,3,0,0,1,2,3,2009
+71141,"University Heights, IA","Beaman, IA",2,1,0,0,3,0,0,1,2,3,2009
+71443,"University Heights, IA","Polk City, IA",1,1,1,0,3,0,3,0,0,3,2009
+71350,"University Heights, IA","Low Moor, IA",2,1,0,0,3,0,2,1,0,3,2009
+71183,"University Heights, IA","Clearfield, IA",0,3,0,0,3,0,0,0,3,3,2009
+71330,"University Heights, IA","Lawton, IA",2,1,0,0,1,2,2,0,1,3,2009
+71485,"University Heights, IA","Sigourney, IA",1,2,0,0,3,0,1,1,1,3,2009
+71565,"University Heights, IA","Wyoming, IA",2,1,0,1,2,0,0,2,1,3,2009
+71483,"University Heights, IA","Shenandoah, IA",2,1,0,0,3,0,3,0,0,3,2009
+71488,"University Heights, IA","Slater, IA",1,2,0,0,2,1,1,0,2,3,2009
+71196,"University Heights, IA","Corydon, IA",2,0,1,0,3,0,2,1,0,3,2009
+71297,"University Heights, IA","Humboldt, IA",2,1,0,0,2,1,3,0,0,3,2009
+71119,"University Heights, IA","Albia, IA",1,2,0,0,3,0,1,0,2,3,2009
+71492,"University Heights, IA","Spencer, IA",1,2,0,0,1,2,1,1,1,3,2009
+71474,"University Heights, IA","Russell, IA",2,0,1,0,3,0,0,2,1,3,2009
+71317,"University Heights, IA","Keystone, IA",0,3,0,0,3,0,0,2,1,3,2009
+71202,"University Heights, IA","Cresco, IA",0,1,2,0,3,0,2,1,0,3,2009
+71207,"University Heights, IA","Danville, IA",1,2,0,0,3,0,2,0,1,3,2009
+71125,"University Heights, IA","Andrew, IA",0,2,1,0,1,2,2,1,0,3,2009
+71328,"University Heights, IA","Lamoni, IA",1,2,0,0,3,0,1,1,1,3,2009
+71158,"University Heights, IA","Brooklyn, IA",1,2,0,0,3,0,2,0,1,3,2009
+71452,"University Heights, IA","Quimby, IA",2,0,1,0,2,1,3,0,0,3,2009
+71503,"University Heights, IA","Stockton, IA",0,3,0,0,3,0,0,1,2,3,2009
+71455,"University Heights, IA","Rathbun, IA",0,2,1,0,3,0,2,1,0,3,2009
+71451,"University Heights, IA","Protivin, IA",1,2,0,0,3,0,1,0,2,3,2009
+71132,"University Heights, IA","Atlantic, IA",2,1,0,0,3,0,1,1,1,3,2009
+71458,"University Heights, IA","Reasnor, IA",0,3,0,0,3,0,1,1,1,3,2009
+71195,"University Heights, IA","Corning, IA",0,2,0,0,1,1,1,0,1,2,2009
+71162,"University Heights, IA","Bussey, IA",1,1,0,0,1,1,0,1,1,2,2009
+71401,"University Heights, IA","New Albin, IA",1,0,1,0,1,1,1,1,0,2,2009
+71438,"University Heights, IA","Pierson, IA",1,1,0,0,2,0,1,0,1,2,2009
+71493,"University Heights, IA","Spring Hill, IA",2,0,0,0,2,0,2,0,0,2,2009
+71446,"University Heights, IA","Prairie City, IA",1,0,1,0,2,0,1,0,1,2,2009
+71197,"University Heights, IA","Coulter, IA",0,1,1,0,2,0,0,0,2,2,2009
+71244,"University Heights, IA","Exline, IA",0,2,0,0,2,0,0,0,2,2,2009
+71222,"University Heights, IA","Dunkerton, IA",2,0,0,0,2,0,1,1,0,2,2009
+71453,"University Heights, IA","Rake, IA",2,0,0,0,2,0,0,2,0,2,2009
+71166,"University Heights, IA","Carter Lake, IA",2,0,0,0,2,0,1,0,1,2,2009
+71167,"University Heights, IA","Cascade, IA",1,1,0,0,2,0,1,1,0,2,2009
+71414,"University Heights, IA","Oakville, IA",0,0,2,0,2,0,0,1,1,2,2009
+71181,"University Heights, IA","Clarion, IA",1,1,0,0,2,0,1,0,1,2,2009
+71225,"University Heights, IA","Dysart, IA",2,0,0,0,1,1,1,0,1,2,2009
+71502,"University Heights, IA","Steamboat Rock, IA",1,1,0,0,2,0,2,0,0,2,2009
+71230,"University Heights, IA","Edgewood, IA",2,0,0,0,2,0,0,2,0,2,2009
+71426,"University Heights, IA","Oxford Junction, IA",1,1,0,0,2,0,0,1,1,2,2009
+71462,"University Heights, IA","Remsen, IA",2,0,0,0,2,0,2,0,0,2,2009
+71236,"University Heights, IA","Elkader, IA",1,1,0,0,2,0,0,2,0,2,2009
+71209,"University Heights, IA","De Soto, IA",1,1,0,0,2,0,0,1,1,2,2009
+71423,"University Heights, IA","Otho, IA",0,1,1,0,1,1,1,0,1,2,2009
+71463,"University Heights, IA","Rhodes, IA",1,1,0,0,2,0,2,0,0,2,2009
+71213,"University Heights, IA","Denison, IA",1,1,0,0,2,0,0,1,1,2,2009
+71416,"University Heights, IA","Ogden, IA",0,1,1,0,1,1,1,1,0,2,2009
+71217,"University Heights, IA","Diagonal, IA",1,1,0,0,1,1,1,1,0,2,2009
+71418,"University Heights, IA","Orange City, IA",1,0,1,0,1,1,1,1,0,2,2009
+71469,"University Heights, IA","Rockwell City, IA",1,0,1,0,2,0,2,0,0,2,2009
+71472,"University Heights, IA","Rome, IA",0,2,0,0,2,0,0,0,2,2,2009
+71417,"University Heights, IA","Onawa, IA",0,2,0,0,2,0,2,0,0,2,2009
+71473,"University Heights, IA","Runnells, IA",0,0,2,0,2,0,0,1,1,2,2009
+71448,"University Heights, IA","Preston, IA",1,0,1,0,2,0,1,1,0,2,2009
+71115,"University Heights, IA","Ackley, IA",1,0,1,0,2,0,1,1,0,2,2009
+71545,"University Heights, IA","Welton, IA",1,1,0,0,2,0,0,0,2,2,2009
+71293,"University Heights, IA","Hinton, IA",1,1,0,0,1,1,1,1,0,2,2009
+71538,"University Heights, IA","Waukon, IA",2,0,0,0,2,0,1,1,0,2,2009
+71315,"University Heights, IA","Keosauqua, IA",0,2,0,0,2,0,0,2,0,2,2009
+71357,"University Heights, IA","Malcom, IA",0,2,0,0,2,0,0,1,1,2,2009
+71318,"University Heights, IA","Kingsley, IA",2,0,0,0,2,0,1,1,0,2,2009
+71320,"University Heights, IA","Kirkville, IA",0,1,1,0,2,0,0,0,2,2,2009
+71354,"University Heights, IA","Lynnville, IA",2,0,0,0,1,1,2,0,0,2,2009
+71124,"University Heights, IA","Andover, IA",1,1,0,0,0,2,1,1,0,2,2009
+71353,"University Heights, IA","Luther, IA",1,1,0,0,2,0,1,0,1,2,2009
+71542,"University Heights, IA","Webster, IA",0,2,0,0,2,0,1,1,0,2,2009
+71137,"University Heights, IA","Balltown, IA",0,2,0,0,1,1,0,2,0,2,2009
+71348,"University Heights, IA","Lorimor, IA",0,2,0,0,1,1,0,0,2,2,2009
+71274,"University Heights, IA","Gravity, IA",0,1,1,0,2,0,0,0,2,2,2009
+71323,"University Heights, IA","La Porte City, IA",2,0,0,0,2,0,1,1,0,2,2009
+71257,"University Heights, IA","Frederika, IA",0,2,0,0,2,0,0,0,2,2,2009
+71290,"University Heights, IA","Henderson, IA",2,0,0,0,2,0,2,0,0,2,2009
+71289,"University Heights, IA","Hawkeye, IA",1,0,1,0,1,1,0,1,1,2,2009
+71343,"University Heights, IA","Lockridge, IA",1,1,0,0,2,0,1,0,1,2,2009
+71133,"University Heights, IA","Audubon, IA",1,0,1,0,2,0,1,0,1,2,2009
+71116,"University Heights, IA","Ackworth, IA",0,1,1,0,2,0,1,0,1,2,2009
+71556,"University Heights, IA","Whitten, IA",2,0,0,0,2,0,2,0,0,2,2009
+71337,"University Heights, IA","Lidderdale, IA",0,2,0,0,2,0,0,0,2,2,2009
+71553,"University Heights, IA","What Cheer, IA",0,1,1,1,1,0,0,0,2,2,2009
+71363,"University Heights, IA","Marquette, IA",1,1,0,0,2,0,0,2,0,2,2009
+71316,"University Heights, IA","Keota, IA",1,1,0,0,2,0,2,0,0,2,2009
+71366,"University Heights, IA","Marysville, IA",2,0,0,0,2,0,1,0,1,2,2009
+71382,"University Heights, IA","Mitchellville, IA",1,1,0,0,2,0,0,0,2,2,2009
+71305,"University Heights, IA","Janesville, IA",2,0,0,0,2,0,1,1,0,2,2009
+71393,"University Heights, IA","Mount Auburn, IA",1,1,0,0,2,0,1,0,1,2,2009
+71308,"University Heights, IA","Jewell Junction, IA",0,1,1,0,1,1,2,0,0,2,2009
+71527,"University Heights, IA","Vining, IA",1,0,1,0,2,0,1,0,1,2,2009
+71264,"University Heights, IA","Gibson, IA",0,1,1,0,2,0,1,1,0,2,2009
+71298,"University Heights, IA","Huxley, IA",1,1,0,0,2,0,0,2,0,2,2009
+71389,"University Heights, IA","Moravia, IA",0,0,2,0,2,0,0,0,2,2,2009
+71564,"University Heights, IA","Wiota, IA",1,0,1,0,2,0,1,1,0,2,2009
+71120,"University Heights, IA","Albion, IA",2,0,0,0,1,1,2,0,0,2,2009
+71383,"University Heights, IA","Mondamin, IA",0,1,1,0,1,1,0,0,2,2,2009
+71332,"University Heights, IA","Le Mars, IA",1,1,0,0,2,0,0,2,0,2,2009
+71140,"University Heights, IA","Bayard, IA",0,1,1,0,2,0,0,0,2,2,2009
+71368,"University Heights, IA","Massena, IA",0,2,0,0,1,1,0,1,1,2,2009
+71533,"University Heights, IA","Wall Lake, IA",1,1,0,0,2,0,1,1,0,2,2009
+71117,"University Heights, IA","Agency, IA",0,2,0,0,2,0,0,1,1,2,2009
+71378,"University Heights, IA","Milton, IA",1,1,0,0,2,0,0,1,1,2,2009
+71372,"University Heights, IA","Melcher-Dallas, IA",2,0,0,0,2,0,2,0,0,2,2009
+71371,"University Heights, IA","Mediapolis, IA",2,0,0,0,2,0,2,0,0,2,2009
+71491,"University Heights, IA","South English, IA",0,1,0,0,1,0,0,0,1,1,2009
+71501,"University Heights, IA","State Center, IA",0,1,0,0,1,0,0,0,1,1,2009
+71555,"University Heights, IA","Whittemore, IA",1,0,0,0,1,0,1,0,0,1,2009
+71500,"University Heights, IA","Stanton, IA",1,0,0,0,1,0,1,0,0,1,2009
+71566,"University Heights, IA","Yetter, IA",1,0,0,0,1,0,1,0,0,1,2009
+71557,"University Heights, IA","Willey, IA",0,1,0,0,1,0,0,0,1,1,2009
+71558,"University Heights, IA","Williams, IA",0,1,0,0,1,0,0,0,1,1,2009
+71494,"University Heights, IA","Springbrook, IA",1,0,0,0,1,0,1,0,0,1,2009
+71189,"University Heights, IA","Colfax, IA",0,0,1,0,1,0,1,0,0,1,2009
+71497,"University Heights, IA","St. Olaf, IA",1,0,0,0,1,0,1,0,0,1,2009
+71190,"University Heights, IA","Colo, IA",0,1,0,0,1,0,0,0,1,1,2009
+71489,"University Heights, IA","Sloan, IA",1,0,0,0,0,1,1,0,0,1,2009
+71157,"University Heights, IA","Britt, IA",1,0,0,0,0,1,1,0,0,1,2009
+71127,"University Heights, IA","Arlington, IA",0,1,0,0,0,1,0,1,0,1,2009
+71177,"University Heights, IA","Cherokee, IA",1,0,0,0,0,1,1,0,0,1,2009
+71193,"University Heights, IA","Conrad, IA",1,0,0,0,0,1,1,0,0,1,2009
+71159,"University Heights, IA","Buffalo Center, IA",0,0,1,0,1,0,0,0,1,1,2009
+71154,"University Heights, IA","Bonaparte, IA",1,0,0,0,1,0,0,1,0,1,2009
+71518,"University Heights, IA","Tripoli, IA",0,0,1,0,1,0,0,0,1,1,2009
+71151,"University Heights, IA","Blanchard, IA",0,1,0,0,1,0,0,1,0,1,2009
+71529,"University Heights, IA","Wadena, IA",0,1,0,0,1,0,0,1,0,1,2009
+71517,"University Heights, IA","Traer, IA",0,1,0,0,0,1,1,0,0,1,2009
+71532,"University Heights, IA","Walker, IA",1,0,0,0,1,0,1,0,0,1,2009
+71145,"University Heights, IA","Belmond, IA",1,0,0,0,1,0,1,0,0,1,2009
+71513,"University Heights, IA","Thornton, IA",1,0,0,0,1,0,0,1,0,1,2009
+71139,"University Heights, IA","Baxter, IA",1,0,0,0,1,0,0,0,1,1,2009
+71512,"University Heights, IA","Tennant, IA",0,1,0,0,1,0,1,0,0,1,2009
+71138,"University Heights, IA","Bancroft, IA",0,1,0,0,1,0,0,0,1,1,2009
+71552,"University Heights, IA","West Union, IA",0,1,0,0,1,0,0,0,1,1,2009
+71180,"University Heights, IA","Clarinda, IA",1,0,0,0,0,1,1,0,0,1,2009
+71509,"University Heights, IA","Swea City, IA",0,1,0,0,1,0,0,1,0,1,2009
+71508,"University Heights, IA","Sutherland, IA",1,0,0,0,1,0,1,0,0,1,2009
+71507,"University Heights, IA","Sully, IA",0,0,1,0,0,1,0,0,1,1,2009
+71544,"University Heights, IA","Wellsburg, IA",1,0,0,0,0,1,0,1,0,1,2009
+71506,"University Heights, IA","Stuart, IA",0,1,0,0,1,0,0,0,1,1,2009
+71505,"University Heights, IA","Strawberry Point, IA",1,0,0,0,1,0,1,0,0,1,2009
+71504,"University Heights, IA","Story City, IA",1,0,0,0,1,0,0,0,1,1,2009
+71135,"University Heights, IA","Bagley, IA",0,1,0,0,0,1,1,0,0,1,2009
+71134,"University Heights, IA","Avoca, IA",1,0,0,0,0,1,1,0,0,1,2009
+71128,"University Heights, IA","Arthur, IA",0,1,0,0,1,0,0,0,1,1,2009
+71551,"University Heights, IA","West Point, IA",0,1,0,0,1,0,0,1,0,1,2009
+71525,"University Heights, IA","Van Meter, IA",0,1,0,0,1,0,0,0,1,1,2009
+71299,"University Heights, IA","Imogene, IA",0,1,0,0,1,0,0,0,1,1,2009
+71482,"University Heights, IA","Shell Rock, IA",0,0,1,0,1,0,0,0,1,1,2009
+71480,"University Heights, IA","Sandyville, IA",0,0,1,0,1,0,1,0,0,1,2009
+71345,"University Heights, IA","Lone Rock, IA",0,1,0,0,1,0,1,0,0,1,2009
+71284,"University Heights, IA","Hardy, IA",1,0,0,0,1,0,1,0,0,1,2009
+71283,"University Heights, IA","Hampton, IA",0,0,1,0,1,0,0,0,1,1,2009
+71282,"University Heights, IA","Hamburg, IA",0,1,0,0,1,0,0,1,0,1,2009
+71280,"University Heights, IA","Grundy Center, IA",1,0,0,0,1,0,0,0,1,1,2009
+71355,"University Heights, IA","Madrid, IA",1,0,0,0,1,0,0,1,0,1,2009
+71356,"University Heights, IA","Magnolia, IA",0,1,0,0,1,0,0,1,0,1,2009
+71358,"University Heights, IA","Malvern, IA",0,1,0,0,0,1,0,0,1,1,2009
+71275,"University Heights, IA","Gray, IA",1,0,0,0,1,0,1,0,0,1,2009
+71272,"University Heights, IA","Granger, IA",1,0,0,0,0,1,0,0,1,1,2009
+71270,"University Heights, IA","Grand River, IA",1,0,0,0,1,0,1,0,0,1,2009
+71373,"University Heights, IA","Meriden, IA",0,0,1,0,1,0,0,1,0,1,2009
+71268,"University Heights, IA","Graf, IA",0,1,0,0,1,0,1,0,0,1,2009
+71377,"University Heights, IA","Millville, IA",1,0,0,0,0,1,1,0,0,1,2009
+71381,"University Heights, IA","Mitchell, IA",0,1,0,0,1,0,0,0,1,1,2009
+71384,"University Heights, IA","Monona, IA",0,1,0,0,1,0,0,0,1,1,2009
+71385,"University Heights, IA","Monroe, IA",1,0,0,0,1,0,1,0,0,1,2009
+71344,"University Heights, IA","Logan, IA",0,1,0,0,1,0,0,1,0,1,2009
+71342,"University Heights, IA","Liscomb, IA",1,0,0,0,1,0,1,0,0,1,2009
+71285,"University Heights, IA","Harlan, IA",1,0,0,0,0,1,1,0,0,1,2009
+71326,"University Heights, IA","Lake Mills, IA",0,0,1,0,1,0,1,0,0,1,2009
+71306,"University Heights, IA","Jefferson, IA",0,1,0,0,1,0,0,1,0,1,2009
+71307,"University Heights, IA","Jesup, IA",1,0,0,0,0,1,1,0,0,1,2009
+71310,"University Heights, IA","Joice, IA",1,0,0,0,1,0,1,0,0,1,2009
+71312,"University Heights, IA","Kamrar, IA",1,0,0,0,1,0,1,0,0,1,2009
+71313,"University Heights, IA","Kellogg, IA",1,0,0,0,1,0,1,0,0,1,2009
+71296,"University Heights, IA","Hudson, IA",1,0,0,0,1,0,0,0,1,1,2009
+71321,"University Heights, IA","Kiron, IA",0,0,1,0,1,0,0,0,1,1,2009
+71327,"University Heights, IA","Lambs Grove, IA",1,0,0,0,1,0,1,0,0,1,2009
+71339,"University Heights, IA","Linden, IA",0,1,0,0,1,0,1,0,0,1,2009
+71329,"University Heights, IA","Lawler, IA",1,0,0,0,0,1,1,0,0,1,2009
+71288,"University Heights, IA","Haverhill, IA",0,1,0,0,1,0,0,0,1,1,2009
+71333,"University Heights, IA","Le Roy, IA",0,1,0,0,1,0,0,0,1,1,2009
+71334,"University Heights, IA","Lenox, IA",1,0,0,0,1,0,0,1,0,1,2009
+71287,"University Heights, IA","Harvey, IA",0,1,0,0,1,0,0,1,0,1,2009
+71336,"University Heights, IA","Lester, IA",0,1,0,0,1,0,0,1,0,1,2009
+71338,"University Heights, IA","Lincoln, IA",1,0,0,0,1,0,1,0,0,1,2009
+71267,"University Heights, IA","Glidden, IA",0,0,1,0,1,0,0,1,0,1,2009
+71265,"University Heights, IA","Gilbert, IA",0,0,1,0,1,0,0,0,1,1,2009
+71263,"University Heights, IA","George, IA",0,1,0,0,1,0,0,1,0,1,2009
+71205,"University Heights, IA","Cushing, IA",0,1,0,0,1,0,0,1,0,1,2009
+71444,"University Heights, IA","Pomeroy, IA",0,1,0,0,1,0,0,1,0,1,2009
+71445,"University Heights, IA","Popejoy, IA",1,0,0,0,1,0,0,1,0,1,2009
+71450,"University Heights, IA","Promise City, IA",0,1,0,0,1,0,0,1,0,1,2009
+71454,"University Heights, IA","Randalia, IA",0,1,0,0,1,0,1,0,0,1,2009
+71459,"University Heights, IA","Redding, IA",0,1,0,0,1,0,0,0,1,1,2009
+71460,"University Heights, IA","Redfield, IA",0,1,0,0,1,0,0,1,0,1,2009
+71461,"University Heights, IA","Reinbeck, IA",1,0,0,0,1,0,0,1,0,1,2009
+71204,"University Heights, IA","Cromwell, IA",0,0,1,0,1,0,0,0,1,1,2009
+71220,"University Heights, IA","Dougherty, IA",1,0,0,0,1,0,0,1,0,1,2009
+71467,"University Heights, IA","Riverton, IA",0,0,1,0,1,0,1,0,0,1,2009
+71470,"University Heights, IA","Rodney, IA",1,0,0,0,0,1,0,1,0,1,2009
+71201,"University Heights, IA","Crescent, IA",0,1,0,0,1,0,1,0,0,1,2009
+71199,"University Heights, IA","Craig, IA",0,1,0,0,1,0,0,0,1,1,2009
+71476,"University Heights, IA","Sabula, IA",1,0,0,0,1,0,0,0,1,1,2009
+71478,"University Heights, IA","Salem, IA",0,1,0,0,1,0,0,0,1,1,2009
+71479,"University Heights, IA","Sanborn, IA",1,0,0,0,1,0,1,0,0,1,2009
+71442,"University Heights, IA","Pocahontas, IA",1,0,0,0,0,1,1,0,0,1,2009
+71304,"University Heights, IA","Irwin, IA",0,1,0,0,1,0,1,0,0,1,2009
+71262,"University Heights, IA","Geneva, IA",0,1,0,0,1,0,1,0,0,1,2009
+71249,"University Heights, IA","Farnhamville, IA",0,0,1,0,1,0,0,1,0,1,2009
+71260,"University Heights, IA","Garner, IA",0,1,0,0,1,0,1,0,0,1,2009
+71398,"University Heights, IA","Murray, IA",1,0,0,0,0,1,0,1,0,1,2009
+71253,"University Heights, IA","Forest City, IA",0,1,0,0,1,0,0,1,0,1,2009
+71403,"University Heights, IA","New Hartford, IA",0,0,1,0,1,0,0,1,0,1,2009
+71252,"University Heights, IA","Floris, IA",0,1,0,0,1,0,0,0,1,1,2009
+71251,"University Heights, IA","Ferguson, IA",0,1,0,0,1,0,0,0,1,1,2009
+71250,"University Heights, IA","Fayette, IA",0,0,1,0,0,1,1,0,0,1,2009
+71243,"University Heights, IA","Exira, IA",1,0,0,0,0,1,1,0,0,1,2009
+71434,"University Heights, IA","Patterson, IA",0,0,1,0,1,0,0,0,1,1,2009
+71241,"University Heights, IA","Essex, IA",0,1,0,0,1,0,0,1,0,1,2009
+71413,"University Heights, IA","Oakland, IA",0,0,1,0,1,0,1,0,0,1,2009
+71238,"University Heights, IA","Elma, IA",1,0,0,0,0,1,1,0,0,1,2009
+71237,"University Heights, IA","Elliott, IA",0,0,1,0,1,0,0,0,1,1,2009
+71428,"University Heights, IA","Palmer, IA",0,0,1,0,0,1,0,1,0,1,2009
+71430,"University Heights, IA","Panora, IA",1,0,0,0,1,0,1,0,0,1,2009
+71227,"University Heights, IA","Early, IA",0,1,0,0,1,0,1,0,0,1,2009
+71226,"University Heights, IA","Eagle Grove, IA",1,0,0,0,1,0,0,0,1,1,2009

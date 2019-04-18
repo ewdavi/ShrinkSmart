@@ -1,0 +1,465 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+10049,"Carroll, IA","Carroll, IA",719,1625,740,481,1930,673,986,1241,857,3084,2010
+10443,"Carroll, IA","Willey, IA",84,154,74,69,187,56,120,108,84,312,2010
+10221,"Carroll, IA","Lidderdale, IA",65,181,62,62,175,71,97,138,73,308,2010
+10144,"Carroll, IA","Glidden, IA",63,127,40,55,134,41,76,85,69,230,2010
+10078,"Carroll, IA","Coon Rapids, IA",45,111,40,34,118,44,50,93,53,196,2010
+10441,"Carroll, IA","Westside, IA",39,103,45,33,118,36,50,91,46,187,2010
+10424,"Carroll, IA","Wall Lake, IA",42,116,28,15,112,59,45,96,45,186,2010
+10101,"Carroll, IA","Denison, IA",38,82,29,59,63,27,22,87,40,149,2010
+10009,"Carroll, IA","Arcadia, IA",24,80,37,31,83,27,35,76,30,141,2010
+10237,"Carroll, IA","Manning, IA",41,70,21,33,70,29,35,61,36,132,2010
+10015,"Carroll, IA","Audubon, IA",25,51,18,11,52,31,27,39,28,94,2010
+10135,"Carroll, IA","Fort Dodge, IA",16,36,19,12,30,29,19,33,19,71,2010
+10081,"Carroll, IA","Council Bluffs, IA",18,42,10,26,18,26,21,28,21,70,2010
+10006,"Carroll, IA","Ames, IA",11,42,15,4,41,23,12,27,29,68,2010
+10380,"Carroll, IA","Sioux City, IA",18,34,11,2,18,43,19,31,13,63,2010
+10360,"Carroll, IA","Sac City, IA",16,23,22,8,34,19,17,28,16,61,2010
+10151,"Carroll, IA","Gray, IA",18,31,11,12,36,12,20,28,12,60,2010
+10103,"Carroll, IA","Des Moines, IA",19,31,9,11,30,18,19,25,15,59,2010
+10096,"Carroll, IA","Dedham, IA",18,31,9,10,35,13,15,31,12,58,2010
+10189,"Carroll, IA","Jefferson, IA",15,35,8,7,34,17,19,34,5,58,2010
+10452,"Carroll, IA","Yetter, IA",9,29,17,9,26,20,7,32,16,55,2010
+10128,"Carroll, IA","Exira, IA",12,31,11,11,23,20,10,32,12,54,2010
+10099,"Carroll, IA","Deloit, IA",14,18,12,10,26,8,15,24,5,44,2010
+10063,"Carroll, IA","Churdan, IA",8,28,6,11,20,11,9,22,11,42,2010
+10207,"Carroll, IA","Lake View, IA",10,17,14,5,23,13,9,20,12,41,2010
+10008,"Carroll, IA","Ankeny, IA",12,19,4,5,11,19,15,10,10,35,2010
+10215,"Carroll, IA","Le Mars, IA",6,21,6,12,8,13,8,22,3,33,2010
+10419,"Carroll, IA","Urbandale, IA",7,21,3,8,12,11,6,10,15,31,2010
+10054,"Carroll, IA","Cedar Rapids, IA",8,13,7,6,5,17,6,15,7,28,2010
+10200,"Carroll, IA","Kiron, IA",10,13,4,4,10,13,4,11,12,27,2010
+10062,"Carroll, IA","Cherokee, IA",7,6,11,0,11,13,7,12,5,24,2010
+10114,"Carroll, IA","Early, IA",6,13,4,5,8,10,4,10,9,23,2010
+10446,"Carroll, IA","Windsor Heights, IA",10,10,0,0,7,13,8,9,3,20,2010
+10071,"Carroll, IA","Clive, IA",6,7,7,3,6,11,9,6,5,20,2010
+10282,"Carroll, IA","Newton, IA",5,13,2,9,7,4,5,6,9,20,2010
+10018,"Carroll, IA","Bagley, IA",6,6,7,2,12,5,6,7,6,19,2010
+10432,"Carroll, IA","Webster City, IA",2,12,5,4,4,11,4,10,5,19,2010
+10191,"Carroll, IA","Johnston, IA",6,10,3,1,10,8,7,6,6,19,2010
+10426,"Carroll, IA","Waterloo, IA",4,11,4,1,6,12,4,9,6,19,2010
+10288,"Carroll, IA","Norwalk, IA",8,6,4,8,3,7,2,3,13,18,2010
+10031,"Carroll, IA","Boone, IA",3,13,1,2,5,10,4,5,8,17,2010
+10092,"Carroll, IA","Dawson, IA",5,11,1,2,9,6,5,7,5,17,2010
+10290,"Carroll, IA","Odebolt, IA",3,10,4,3,10,4,3,9,5,17,2010
+10005,"Carroll, IA","Altoona, IA",4,10,2,5,5,6,3,7,6,16,2010
+10435,"Carroll, IA","West Des Moines, IA",3,8,5,6,6,4,5,3,8,16,2010
+10061,"Carroll, IA","Charter Oak, IA",4,7,4,3,9,3,1,10,4,15,2010
+10236,"Carroll, IA","Manilla, IA",4,8,3,0,10,5,2,9,4,15,2010
+10090,"Carroll, IA","Danbury, IA",6,8,1,10,4,1,1,8,6,15,2010
+10428,"Carroll, IA","Waukee, IA",4,6,4,2,7,5,2,6,6,14,2010
+10109,"Carroll, IA","Dubuque, IA",2,7,5,1,6,7,3,7,4,14,2010
+10385,"Carroll, IA","Spencer, IA",2,8,3,2,8,3,1,6,6,13,2010
+10053,"Carroll, IA","Cedar Falls, IA",3,8,2,1,4,8,2,8,3,13,2010
+10320,"Carroll, IA","Polk City, IA",2,7,4,3,6,4,6,6,1,13,2010
+10301,"Carroll, IA","Ottumwa, IA",2,7,4,2,2,9,2,6,5,13,2010
+10311,"Carroll, IA","Pella, IA",0,8,5,6,3,4,2,5,6,13,2010
+10202,"Carroll, IA","Knoxville, IA",3,5,4,2,5,5,4,5,3,12,2010
+10367,"Carroll, IA","Schleswig, IA",1,9,2,4,4,4,1,4,7,12,2010
+10316,"Carroll, IA","Pleasant Hill, IA",5,7,0,5,5,2,4,5,3,12,2010
+10172,"Carroll, IA","Hiawatha, IA",2,6,4,0,2,10,3,5,4,12,2010
+10180,"Carroll, IA","Ida Grove, IA",2,10,0,2,9,1,6,4,2,12,2010
+10238,"Carroll, IA","Manson, IA",2,10,0,3,1,8,3,7,2,12,2010
+10125,"Carroll, IA","Estherville, IA",1,9,2,3,5,4,1,8,3,12,2010
+10130,"Carroll, IA","Fairfield, IA",3,8,1,3,3,6,4,4,4,12,2010
+10244,"Carroll, IA","Mason City, IA",4,4,3,0,4,7,7,2,2,11,2010
+10294,"Carroll, IA","Orange City, IA",5,4,2,2,3,6,5,5,1,11,2010
+10016,"Carroll, IA","Aurelia, IA",2,5,4,2,7,2,2,5,4,11,2010
+10178,"Carroll, IA","Humboldt, IA",2,7,2,1,5,5,2,6,3,11,2010
+10093,"Carroll, IA","De Soto, IA",3,7,1,1,5,5,4,3,4,11,2010
+10157,"Carroll, IA","Guthrie Center, IA",2,6,3,2,6,3,3,3,5,11,2010
+10396,"Carroll, IA","Storm Lake, IA",3,4,3,2,4,4,1,7,2,10,2010
+10183,"Carroll, IA","Indianola, IA",1,7,2,7,2,1,2,2,6,10,2010
+10048,"Carroll, IA","Carlisle, IA",1,8,1,7,0,3,1,6,3,10,2010
+10240,"Carroll, IA","Marcus, IA",4,6,0,1,2,7,5,5,0,10,2010
+10383,"Carroll, IA","Sloan, IA",5,3,1,0,4,5,1,7,1,9,2010
+10022,"Carroll, IA","Bayard, IA",1,5,3,1,7,1,3,1,5,9,2010
+10386,"Carroll, IA","Spirit Lake, IA",3,4,2,1,5,3,6,2,1,9,2010
+10242,"Carroll, IA","Marshalltown, IA",4,2,3,2,3,4,5,3,1,9,2010
+10379,"Carroll, IA","Sioux Center, IA",3,6,0,4,2,3,4,4,1,9,2010
+10313,"Carroll, IA","Perry, IA",0,7,2,1,3,5,2,5,2,9,2010
+10113,"Carroll, IA","Eagle Grove, IA",2,5,1,1,3,4,0,5,3,8,2010
+10185,"Carroll, IA","Iowa City, IA",1,6,1,0,1,7,1,4,3,8,2010
+10179,"Carroll, IA","Huxley, IA",1,6,1,0,3,5,0,2,6,8,2010
+10014,"Carroll, IA","Atlantic, IA",3,2,3,0,2,6,4,2,2,8,2010
+10368,"Carroll, IA","Sergeant Bluff, IA",0,7,1,0,3,5,1,3,4,8,2010
+10039,"Carroll, IA","Buck Grove, IA",0,6,2,2,6,0,0,8,0,8,2010
+10393,"Carroll, IA","Stanhope, IA",0,6,2,0,5,3,2,5,1,8,2010
+10091,"Carroll, IA","Davenport, IA",1,5,1,0,3,4,3,2,2,7,2010
+10416,"Carroll, IA","University Heights, IA",3,3,1,0,4,3,2,3,2,7,2010
+10223,"Carroll, IA","Linden, IA",3,2,2,1,2,4,5,1,1,7,2010
+10070,"Carroll, IA","Clinton, IA",3,2,2,0,3,4,2,4,1,7,2010
+10029,"Carroll, IA","Blakesburg, IA",0,4,3,2,4,1,4,2,1,7,2010
+10344,"Carroll, IA","Rippey, IA",4,2,1,0,3,4,4,2,1,7,2010
+10347,"Carroll, IA","Robins, IA",2,4,1,0,4,3,1,5,1,7,2010
+10143,"Carroll, IA","Glenwood, IA",3,3,1,2,3,2,1,3,3,7,2010
+10348,"Carroll, IA","Rock Rapids, IA",3,4,0,0,1,6,5,2,0,7,2010
+10307,"Carroll, IA","Panora, IA",1,3,3,1,6,0,2,1,4,7,2010
+10349,"Carroll, IA","Rock Valley, IA",1,4,2,3,2,2,2,5,0,7,2010
+10336,"Carroll, IA","Red Oak, IA",2,3,2,2,1,4,3,3,1,7,2010
+10328,"Carroll, IA","Quimby, IA",1,4,2,0,5,2,0,6,1,7,2010
+10251,"Carroll, IA","Meriden, IA",4,3,0,0,2,5,6,1,0,7,2010
+10372,"Carroll, IA","Sheldon, IA",2,4,1,3,1,3,3,1,3,7,2010
+10184,"Carroll, IA","Inwood, IA",3,4,0,0,4,3,4,0,3,7,2010
+10287,"Carroll, IA","Northwood, IA",1,4,1,0,4,2,4,1,1,6,2010
+10156,"Carroll, IA","Grinnell, IA",1,3,2,0,4,2,2,2,2,6,2010
+10299,"Carroll, IA","Otho, IA",1,3,2,1,1,4,2,1,3,6,2010
+10138,"Carroll, IA","Garner, IA",2,3,1,0,4,2,4,2,0,6,2010
+10155,"Carroll, IA","Grimes, IA",3,3,0,2,2,2,1,1,4,6,2010
+10293,"Carroll, IA","Onawa, IA",2,1,3,0,0,6,0,3,3,6,2010
+10104,"Carroll, IA","Dexter, IA",1,5,0,1,1,4,2,1,3,6,2010
+10141,"Carroll, IA","Gilbert, IA",2,2,2,1,4,1,1,3,2,6,2010
+10304,"Carroll, IA","Pacific Junction, IA",1,4,1,0,3,3,1,2,3,6,2010
+10145,"Carroll, IA","Goldfield, IA",1,3,2,1,3,2,3,2,1,6,2010
+10174,"Carroll, IA","Hinton, IA",1,4,1,0,2,4,0,5,1,6,2010
+10168,"Carroll, IA","Hawarden, IA",0,3,3,2,0,4,1,5,0,6,2010
+10147,"Carroll, IA","Grand Junction, IA",2,4,0,0,3,3,2,4,0,6,2010
+10068,"Carroll, IA","Clear Lake, IA",2,4,0,0,3,3,1,2,3,6,2010
+10042,"Carroll, IA","Burlington, IA",2,3,1,0,0,6,2,3,1,6,2010
+10447,"Carroll, IA","Winterset, IA",2,2,2,2,1,3,2,0,4,6,2010
+10050,"Carroll, IA","Carter Lake, IA",1,5,0,2,2,2,1,3,2,6,2010
+10012,"Carroll, IA","Asbury, IA",1,3,2,1,3,2,2,1,3,6,2010
+10212,"Carroll, IA","Laurens, IA",2,4,0,1,5,0,1,2,3,6,2010
+10233,"Carroll, IA","Madrid, IA",2,3,1,0,5,1,2,2,2,6,2010
+10060,"Carroll, IA","Charles City, IA",2,3,1,0,1,5,2,1,3,6,2010
+10340,"Carroll, IA","Renwick, IA",5,1,0,0,4,2,3,2,1,6,2010
+9999,"Carroll, IA","Albia, IA",2,3,1,1,4,1,0,6,0,6,2010
+10257,"Carroll, IA","Missouri Valley, IA",1,4,1,3,2,1,2,2,2,6,2010
+10252,"Carroll, IA","Merrill, IA",2,2,2,0,1,5,0,4,2,6,2010
+10399,"Carroll, IA","Stuart, IA",2,3,1,1,3,2,1,2,3,6,2010
+10035,"Carroll, IA","Brayton, IA",2,3,1,0,3,3,1,5,0,6,2010
+10002,"Carroll, IA","Algona, IA",0,2,3,0,1,4,0,1,4,5,2010
+10004,"Carroll, IA","Alton, IA",1,1,3,1,1,3,0,3,2,5,2010
+10407,"Carroll, IA","Tennant, IA",1,4,0,3,0,2,0,3,2,5,2010
+10011,"Carroll, IA","Arthur, IA",1,2,2,2,1,2,1,2,2,5,2010
+10296,"Carroll, IA","Osage, IA",1,3,1,0,4,1,1,2,2,5,2010
+9993,"Carroll, IA","Adel, IA",1,3,1,0,2,3,0,2,3,5,2010
+10444,"Carroll, IA","Williams, IA",0,4,1,2,1,2,1,3,1,5,2010
+10026,"Carroll, IA","Belmond, IA",2,2,1,1,3,1,0,4,1,5,2010
+10374,"Carroll, IA","Shenandoah, IA",3,2,0,1,2,2,2,3,0,5,2010
+10032,"Carroll, IA","Boxholm, IA",1,3,1,0,2,3,1,4,0,5,2010
+10232,"Carroll, IA","Lynnville, IA",0,5,0,2,1,2,0,4,1,5,2010
+10208,"Carroll, IA","Lakeside, IA",2,3,0,1,2,2,2,3,0,5,2010
+10353,"Carroll, IA","Rodney, IA",4,1,0,0,0,5,0,1,4,5,2010
+10087,"Carroll, IA","Cushing, IA",1,2,2,0,0,5,1,4,0,5,2010
+10085,"Carroll, IA","Creston, IA",4,1,0,0,1,4,3,2,0,5,2010
+10354,"Carroll, IA","Roland, IA",2,2,1,0,4,1,1,3,1,5,2010
+10275,"Carroll, IA","Nevada, IA",1,3,1,1,4,0,2,2,1,5,2010
+10187,"Carroll, IA","Ireton, IA",2,3,0,1,1,3,3,2,0,5,2010
+10271,"Carroll, IA","Moville, IA",0,4,1,1,0,4,0,4,1,5,2010
+10281,"Carroll, IA","Newell, IA",2,1,1,0,3,1,3,1,0,4,2010
+10280,"Carroll, IA","New Sharon, IA",2,2,0,0,2,2,3,1,0,4,2010
+10193,"Carroll, IA","Kamrar, IA",1,1,2,0,2,2,1,3,0,4,2010
+10162,"Carroll, IA","Hardy, IA",2,1,1,0,2,2,2,1,1,4,2010
+10209,"Carroll, IA","Lamoni, IA",0,4,0,1,0,3,1,1,2,4,2010
+10390,"Carroll, IA","St. Marys, IA",1,2,1,2,1,1,0,2,2,4,2010
+10167,"Carroll, IA","Havelock, IA",2,1,1,0,1,3,0,2,2,4,2010
+10163,"Carroll, IA","Harlan, IA",1,1,2,1,3,0,2,2,0,4,2010
+10159,"Carroll, IA","Hampton, IA",2,2,0,0,1,3,0,4,0,4,2010
+10186,"Carroll, IA","Iowa Falls, IA",1,3,0,0,3,1,2,2,0,4,2010
+10414,"Carroll, IA","Truesdale, IA",0,3,1,2,0,2,1,3,0,4,2010
+10250,"Carroll, IA","Melcher-Dallas, IA",1,3,0,1,1,2,2,1,1,4,2010
+10335,"Carroll, IA","Reasnor, IA",1,3,0,2,1,1,3,0,1,4,2010
+10430,"Carroll, IA","Waverly, IA",0,3,1,0,2,2,1,1,2,4,2010
+10417,"Carroll, IA","University Park, IA",2,0,2,1,2,1,2,1,1,4,2010
+10067,"Carroll, IA","Clarion, IA",1,2,1,0,3,1,2,2,0,4,2010
+10326,"Carroll, IA","Primghar, IA",1,1,2,2,0,2,1,2,1,4,2010
+10095,"Carroll, IA","Decorah, IA",1,2,1,0,0,4,1,2,1,4,2010
+10420,"Carroll, IA","Van Meter, IA",0,4,0,1,2,1,0,3,1,4,2010
+10351,"Carroll, IA","Rockwell City, IA",2,1,1,0,1,3,2,2,0,4,2010
+10075,"Carroll, IA","Colo, IA",1,3,0,0,2,2,2,1,1,4,2010
+10298,"Carroll, IA","Oskaloosa, IA",1,3,0,1,1,2,1,2,1,4,2010
+10010,"Carroll, IA","Arnolds Park, IA",3,1,0,0,1,3,2,2,0,4,2010
+10339,"Carroll, IA","Remsen, IA",1,3,0,0,2,2,1,1,2,4,2010
+10297,"Carroll, IA","Osceola, IA",1,2,1,1,1,2,0,1,3,4,2010
+9997,"Carroll, IA","Akron, IA",0,4,0,2,2,0,0,2,2,4,2010
+10146,"Carroll, IA","Graettinger, IA",2,2,0,1,2,1,4,0,0,4,2010
+10423,"Carroll, IA","Walford, IA",1,3,0,1,1,2,3,0,1,4,2010
+10308,"Carroll, IA","Parkersburg, IA",1,3,0,0,3,1,1,1,2,4,2010
+10357,"Carroll, IA","Russell, IA",2,0,1,0,1,2,3,0,0,3,2010
+10057,"Carroll, IA","Centerville, IA",2,1,0,0,1,2,2,0,1,3,2010
+10272,"Carroll, IA","Muscatine, IA",1,1,1,0,2,1,0,1,2,3,2010
+10319,"Carroll, IA","Pocahontas, IA",1,1,1,1,2,0,1,2,0,3,2010
+10150,"Carroll, IA","Grant, IA",0,2,1,1,0,2,0,1,2,3,2010
+10066,"Carroll, IA","Clarinda, IA",0,2,1,1,1,1,0,2,1,3,2010
+10059,"Carroll, IA","Chariton, IA",2,1,0,1,2,0,2,1,0,3,2010
+10397,"Carroll, IA","Stratford, IA",2,1,0,0,2,1,2,1,0,3,2010
+10211,"Carroll, IA","Larrabee, IA",0,1,2,0,3,0,0,3,0,3,2010
+10322,"Carroll, IA","Popejoy, IA",0,2,1,0,1,2,0,2,1,3,2010
+10269,"Carroll, IA","Mount Pleasant, IA",1,2,0,0,1,2,1,2,0,3,2010
+10321,"Carroll, IA","Pomeroy, IA",2,1,0,0,1,2,1,2,0,3,2010
+9994,"Carroll, IA","Afton, IA",2,0,1,0,0,3,0,3,0,3,2010
+10253,"Carroll, IA","Middletown, IA",2,1,0,1,1,1,1,2,0,3,2010
+10247,"Carroll, IA","McClelland, IA",0,2,1,1,1,1,1,1,1,3,2010
+10259,"Carroll, IA","Mondamin, IA",0,2,1,1,1,1,0,2,1,3,2010
+10332,"Carroll, IA","Rathbun, IA",2,1,0,1,1,1,3,0,0,3,2010
+10350,"Carroll, IA","Rockford, IA",1,1,1,0,1,2,0,2,1,3,2010
+10437,"Carroll, IA","West Okoboji, IA",1,1,1,0,2,1,0,2,1,3,2010
+10384,"Carroll, IA","Soldier, IA",1,1,1,1,2,0,0,1,2,3,2010
+10228,"Carroll, IA","Logan, IA",0,3,0,0,1,2,0,0,3,3,2010
+10433,"Carroll, IA","Wellman, IA",1,1,1,0,2,1,2,1,0,3,2010
+10387,"Carroll, IA","Spring Hill, IA",1,2,0,1,1,1,0,1,2,3,2010
+10324,"Carroll, IA","Prairie City, IA",0,3,0,3,0,0,0,0,3,3,2010
+10366,"Carroll, IA","Schaller, IA",0,2,1,1,0,2,0,2,1,3,2010
+10218,"Carroll, IA","Lehigh, IA",1,2,0,1,1,1,2,1,0,3,2010
+10431,"Carroll, IA","Webb, IA",0,3,0,1,2,0,1,2,0,3,2010
+10083,"Carroll, IA","Crescent, IA",1,2,0,2,1,0,0,1,2,3,2010
+10149,"Carroll, IA","Granger, IA",0,3,0,1,1,1,1,0,2,3,2010
+10195,"Carroll, IA","Keokuk, IA",1,1,1,0,2,1,2,1,0,3,2010
+10110,"Carroll, IA","Duncombe, IA",1,2,0,0,3,0,2,1,0,3,2010
+10165,"Carroll, IA","Hartley, IA",1,2,0,1,0,2,1,2,0,3,2010
+10166,"Carroll, IA","Harvey, IA",0,3,0,3,0,0,0,0,3,3,2010
+10302,"Carroll, IA","Oxford, IA",1,2,0,1,0,2,1,0,2,3,2010
+10129,"Carroll, IA","Fairfax, IA",1,1,1,0,0,3,1,1,1,3,2010
+10346,"Carroll, IA","Riverton, IA",1,1,1,1,0,2,0,3,0,3,2010
+10131,"Carroll, IA","Farmersburg, IA",0,1,2,0,1,2,0,2,1,3,2010
+10132,"Carroll, IA","Farnhamville, IA",0,3,0,0,2,1,0,2,1,3,2010
+10119,"Carroll, IA","Elk Run Heights, IA",2,1,0,0,1,2,1,1,1,3,2010
+10133,"Carroll, IA","Farragut, IA",0,1,2,1,0,2,2,1,0,3,2010
+10116,"Carroll, IA","Eddyville, IA",0,3,0,2,1,0,1,2,0,3,2010
+10175,"Carroll, IA","Hospers, IA",0,2,1,2,0,1,0,1,2,3,2010
+10112,"Carroll, IA","Dyersville, IA",1,1,1,0,0,3,1,1,1,3,2010
+10177,"Carroll, IA","Hull, IA",1,2,0,2,0,1,1,2,0,3,2010
+10139,"Carroll, IA","Geneva, IA",0,1,2,0,1,2,1,1,1,3,2010
+10088,"Carroll, IA","Dakota City, IA",2,1,0,1,1,1,2,0,1,3,2010
+10084,"Carroll, IA","Cresco, IA",0,1,2,0,2,1,0,2,1,3,2010
+10182,"Carroll, IA","Independence, IA",2,0,1,0,0,3,1,2,0,3,2010
+10192,"Carroll, IA","Kalona, IA",0,1,2,0,0,3,0,2,1,3,2010
+10422,"Carroll, IA","Wahpeton, IA",1,2,0,2,1,0,0,3,0,3,2010
+10100,"Carroll, IA","Delta, IA",0,2,1,2,1,0,1,1,1,3,2010
+10292,"Carroll, IA","Ogden, IA",1,1,1,0,2,1,0,3,0,3,2010
+10363,"Carroll, IA","Sanborn, IA",0,1,2,1,1,1,2,1,0,3,2010
+10153,"Carroll, IA","Greenfield, IA",2,0,1,0,3,0,1,2,0,3,2010
+10415,"Carroll, IA","Underwood, IA",0,2,1,3,0,0,0,2,1,3,2010
+10343,"Carroll, IA","Rinard, IA",0,1,1,0,1,1,1,0,1,2,2010
+10334,"Carroll, IA","Readlyn, IA",1,1,0,0,0,2,0,1,1,2,2010
+10291,"Carroll, IA","Oelwein, IA",0,2,0,0,0,2,0,1,1,2,2010
+10337,"Carroll, IA","Redding, IA",1,1,0,1,0,1,0,2,0,2,2010
+10289,"Carroll, IA","Ocheyedan, IA",0,1,1,1,0,1,1,1,0,2,2010
+10338,"Carroll, IA","Redfield, IA",0,2,0,0,1,1,0,1,1,2,2010
+10258,"Carroll, IA","Mitchellville, IA",0,1,1,0,1,1,0,0,2,2,2010
+10256,"Carroll, IA","Minburn, IA",0,1,1,0,1,1,2,0,0,2,2010
+10286,"Carroll, IA","North Liberty, IA",1,0,1,0,0,2,1,0,1,2,2010
+10300,"Carroll, IA","Ottosen, IA",1,1,0,0,2,0,2,0,0,2,2010
+10283,"Carroll, IA","Nodaway, IA",0,1,1,2,0,0,0,1,1,2,2010
+10352,"Carroll, IA","Rockwell, IA",0,2,0,0,1,1,0,1,1,2,2010
+10261,"Carroll, IA","Monroe, IA",0,2,0,1,0,1,0,1,1,2,2010
+10274,"Carroll, IA","Nashua, IA",0,1,1,0,0,2,1,1,0,2,2010
+10312,"Carroll, IA","Peosta, IA",1,1,0,0,0,2,1,0,1,2,2010
+10356,"Carroll, IA","Runnells, IA",1,1,0,0,0,2,1,1,0,2,2010
+10310,"Carroll, IA","Paullina, IA",1,0,1,0,1,1,0,0,2,2,2010
+10309,"Carroll, IA","Patterson, IA",0,1,1,1,0,1,0,1,1,2,2010
+10369,"Carroll, IA","Shannon City, IA",1,1,0,1,0,1,1,0,1,2,2010
+10370,"Carroll, IA","Sheffield, IA",0,2,0,0,2,0,1,1,0,2,2010
+10306,"Carroll, IA","Palo, IA",1,0,1,0,1,1,2,0,0,2,2010
+10371,"Carroll, IA","Shelby, IA",1,0,1,0,1,1,1,1,0,2,2010
+10265,"Carroll, IA","Morning Sun, IA",2,0,0,0,1,1,1,0,1,2,2010
+10323,"Carroll, IA","Portsmouth, IA",0,2,0,1,0,1,0,0,2,2,2010
+10364,"Carroll, IA","Sandyville, IA",1,1,0,2,0,0,0,1,1,2,2010
+10284,"Carroll, IA","Nora Springs, IA",2,0,0,0,0,2,2,0,0,2,2010
+10362,"Carroll, IA","Salem, IA",0,2,0,0,0,2,1,1,0,2,2010
+10262,"Carroll, IA","Monticello, IA",0,1,1,0,0,2,0,1,1,2,2010
+10358,"Carroll, IA","Rutland, IA",0,2,0,0,1,1,0,1,1,2,2010
+9990,"Carroll, IA","Ackley, IA",0,2,0,0,0,2,0,2,0,2,2010
+10249,"Carroll, IA","Mechanicsville, IA",1,1,0,1,0,1,2,0,0,2,2010
+10051,"Carroll, IA","Casey, IA",1,1,0,0,2,0,1,0,1,2,2010
+10056,"Carroll, IA","Center Point, IA",1,0,1,0,1,1,1,1,0,2,2010
+10074,"Carroll, IA","Colfax, IA",1,1,0,2,0,0,0,2,0,2,2010
+10076,"Carroll, IA","Columbus Junction, IA",1,1,0,0,1,1,1,1,0,2,2010
+10077,"Carroll, IA","Colwell, IA",1,1,0,0,2,0,0,1,1,2,2010
+10079,"Carroll, IA","Coralville, IA",1,1,0,0,1,1,1,1,0,2,2010
+10102,"Carroll, IA","Denver, IA",2,0,0,0,1,1,2,0,0,2,2010
+10108,"Carroll, IA","Donnellson, IA",1,1,0,0,1,1,1,0,1,2,2010
+10111,"Carroll, IA","Dunlap, IA",0,2,0,2,0,0,0,1,1,2,2010
+10115,"Carroll, IA","East Peru, IA",0,2,0,0,1,1,0,1,1,2,2010
+10117,"Carroll, IA","Elberon, IA",0,1,1,0,0,2,2,0,0,2,2010
+10118,"Carroll, IA","Eldora, IA",1,0,1,0,1,1,1,1,0,2,2010
+10123,"Carroll, IA","Emmetsburg, IA",0,2,0,0,0,2,1,0,1,2,2010
+10127,"Carroll, IA","Everly, IA",1,1,0,0,1,1,2,0,0,2,2010
+10134,"Carroll, IA","Fonda, IA",1,1,0,0,1,1,1,0,1,2,2010
+10137,"Carroll, IA","Fremont, IA",1,1,0,0,0,2,2,0,0,2,2010
+10052,"Carroll, IA","Castana, IA",0,0,2,0,1,1,1,0,1,2,2010
+10046,"Carroll, IA","Cambridge, IA",1,1,0,1,0,1,0,1,1,2,2010
+10405,"Carroll, IA","Swea City, IA",1,1,0,0,2,0,1,0,1,2,2010
+10043,"Carroll, IA","Bussey, IA",0,2,0,0,0,2,0,0,2,2,2010
+9992,"Carroll, IA","Adair, IA",0,1,1,0,1,1,0,1,1,2,2010
+9995,"Carroll, IA","Agency, IA",1,1,0,1,0,1,0,2,0,2,2010
+10451,"Carroll, IA","Woolstock, IA",1,0,1,0,0,2,2,0,0,2,2010
+10450,"Carroll, IA","Woodbine, IA",0,1,1,0,2,0,1,0,1,2,2010
+10007,"Carroll, IA","Anita, IA",0,2,0,0,2,0,0,0,2,2,2010
+10019,"Carroll, IA","Balltown, IA",1,1,0,0,0,2,1,0,1,2,2010
+10445,"Carroll, IA","Wilton, IA",1,1,0,0,0,2,1,1,0,2,2010
+10021,"Carroll, IA","Baxter, IA",1,1,0,0,1,1,1,1,0,2,2010
+10023,"Carroll, IA","Bedford, IA",0,1,1,1,0,1,0,2,0,2,2010
+10024,"Carroll, IA","Belle Plaine, IA",1,1,0,0,0,2,1,0,1,2,2010
+10442,"Carroll, IA","Wheatland, IA",1,0,1,0,0,2,0,2,0,2,2010
+10030,"Carroll, IA","Blanchard, IA",1,1,0,0,1,1,1,1,0,2,2010
+10440,"Carroll, IA","Westfield, IA",0,2,0,0,0,2,0,2,0,2,2010
+10439,"Carroll, IA","West Union, IA",1,1,0,0,2,0,1,0,1,2,2010
+10436,"Carroll, IA","West Liberty, IA",0,2,0,0,1,1,1,1,0,2,2010
+10148,"Carroll, IA","Grandview, IA",1,1,0,0,0,2,2,0,0,2,2010
+10345,"Carroll, IA","Riverdale, IA",0,1,1,0,1,1,0,2,0,2,2010
+10404,"Carroll, IA","Swan, IA",0,1,1,1,0,1,1,0,1,2,2010
+10171,"Carroll, IA","Henderson, IA",0,2,0,0,1,1,0,1,1,2,2010
+10205,"Carroll, IA","Lake City, IA",0,2,0,0,0,2,0,1,1,2,2010
+10392,"Carroll, IA","Stacyville, IA",0,1,1,0,0,2,0,1,1,2,2010
+10217,"Carroll, IA","Ledyard, IA",1,0,1,0,2,0,2,0,0,2,2010
+10201,"Carroll, IA","Knierim, IA",1,1,0,0,1,1,0,1,1,2,2010
+10197,"Carroll, IA","Kimballton, IA",0,2,0,0,1,1,0,1,1,2,2010
+9991,"Carroll, IA","Ackworth, IA",0,2,0,1,0,1,0,2,0,2,2010
+10227,"Carroll, IA","Lockridge, IA",0,2,0,0,1,1,0,2,0,2,2010
+10382,"Carroll, IA","Slater, IA",1,0,1,1,0,1,0,0,2,2,2010
+10194,"Carroll, IA","Kellogg, IA",1,1,0,1,1,0,0,1,1,2,2010
+10190,"Carroll, IA","Jesup, IA",0,2,0,0,2,0,1,1,0,2,2010
+10400,"Carroll, IA","Sully, IA",0,2,0,1,0,1,0,1,1,2,2010
+10173,"Carroll, IA","Hillsboro, IA",0,2,0,2,0,0,0,2,0,2,2010
+10176,"Carroll, IA","Hudson, IA",0,1,1,0,1,1,0,1,1,2,2010
+10246,"Carroll, IA","Maxwell, IA",0,2,0,2,0,0,0,0,2,2,2010
+10402,"Carroll, IA","Superior, IA",0,2,0,1,0,1,0,1,1,2,2010
+10403,"Carroll, IA","Sutherland, IA",1,1,0,0,1,1,1,1,0,2,2010
+10161,"Carroll, IA","Harcourt, IA",0,2,0,0,0,2,1,0,1,2,2010
+10239,"Carroll, IA","Maquoketa, IA",1,0,1,0,0,2,1,1,0,2,2010
+10164,"Carroll, IA","Harris, IA",1,0,1,1,0,1,0,2,0,2,2010
+10210,"Carroll, IA","Larchwood, IA",1,1,0,1,1,0,1,1,0,2,2010
+10245,"Carroll, IA","Maurice, IA",1,1,0,0,0,2,1,1,0,2,2010
+10378,"Carroll, IA","Silver City, IA",1,1,0,0,1,1,1,0,1,2,2010
+10373,"Carroll, IA","Shell Rock, IA",1,0,0,0,0,1,1,0,0,1,2010
+10449,"Carroll, IA","Woden, IA",0,1,0,0,0,1,0,1,0,1,2010
+10448,"Carroll, IA","Wiota, IA",0,1,0,0,1,0,0,1,0,1,2010
+10375,"Carroll, IA","Sibley, IA",1,0,0,0,0,1,1,0,0,1,2010
+10388,"Carroll, IA","Springville, IA",0,1,0,0,0,1,0,0,1,1,2010
+10389,"Carroll, IA","St. Ansgar, IA",0,1,0,0,0,1,0,0,1,1,2010
+10438,"Carroll, IA","West Point, IA",0,1,0,0,0,1,0,1,0,1,2010
+10391,"Carroll, IA","St. Paul, IA",0,1,0,0,1,0,0,0,1,1,2010
+10376,"Carroll, IA","Sidney, IA",1,0,0,0,1,0,1,0,0,1,2010
+10434,"Carroll, IA","West Burlington, IA",1,0,0,0,1,0,0,0,1,1,2010
+10381,"Carroll, IA","Sioux Rapids, IA",0,1,0,1,0,0,0,0,1,1,2010
+10355,"Carroll, IA","Royal, IA",0,0,1,0,1,0,0,1,0,1,2010
+10394,"Carroll, IA","Stanton, IA",1,0,0,0,1,0,0,1,0,1,2010
+10395,"Carroll, IA","State Center, IA",0,1,0,0,1,0,0,1,0,1,2010
+10408,"Carroll, IA","Terril, IA",1,0,0,0,0,1,0,1,0,1,2010
+10361,"Carroll, IA","Sageville, IA",1,0,0,0,0,1,1,0,0,1,2010
+10409,"Carroll, IA","Thornton, IA",0,1,0,0,1,0,0,1,0,1,2010
+10377,"Carroll, IA","Sigourney, IA",0,1,0,0,1,0,1,0,0,1,2010
+10411,"Carroll, IA","Tipton, IA",0,1,0,0,0,1,1,0,0,1,2010
+10401,"Carroll, IA","Sumner, IA",0,1,0,0,1,0,0,1,0,1,2010
+10412,"Carroll, IA","Titonka, IA",0,1,0,0,0,1,0,1,0,1,2010
+10413,"Carroll, IA","Toledo, IA",0,1,0,1,0,0,0,0,1,1,2010
+10359,"Carroll, IA","Sabula, IA",0,0,1,0,0,1,1,0,0,1,2010
+10418,"Carroll, IA","Urbana, IA",0,1,0,0,0,1,0,1,0,1,2010
+10421,"Carroll, IA","Wadena, IA",0,1,0,0,0,1,0,0,1,1,2010
+10365,"Carroll, IA","Scarville, IA",0,1,0,0,1,0,0,1,0,1,2010
+10398,"Carroll, IA","Strawberry Point, IA",0,0,1,0,0,1,0,1,0,1,2010
+10425,"Carroll, IA","Walnut, IA",0,0,1,0,1,0,0,0,1,1,2010
+10406,"Carroll, IA","Tama, IA",0,1,0,0,0,1,1,0,0,1,2010
+10427,"Carroll, IA","Waucoma, IA",0,1,0,0,0,1,0,1,0,1,2010
+10429,"Carroll, IA","Waukon, IA",0,0,1,0,0,1,0,1,0,1,2010
+10410,"Carroll, IA","Tiffin, IA",0,1,0,0,0,1,1,0,0,1,2010
+10222,"Carroll, IA","Lime Springs, IA",0,1,0,0,0,1,0,0,1,1,2010
+10342,"Carroll, IA","Ridgeway, IA",1,0,0,0,1,0,1,0,0,1,2010
+10069,"Carroll, IA","Clearfield, IA",0,1,0,0,1,0,0,0,1,1,2010
+10073,"Carroll, IA","Coggon, IA",0,1,0,0,0,1,0,1,0,1,2010
+10080,"Carroll, IA","Corwith, IA",0,0,1,0,1,0,1,0,0,1,2010
+10082,"Carroll, IA","Craig, IA",1,0,0,1,0,0,0,0,1,1,2010
+10086,"Carroll, IA","Crystal Lake, IA",1,0,0,0,0,1,0,1,0,1,2010
+10089,"Carroll, IA","Dallas Center, IA",1,0,0,0,1,0,0,1,0,1,2010
+10094,"Carroll, IA","De Witt, IA",0,1,0,0,1,0,0,1,0,1,2010
+10097,"Carroll, IA","Defiance, IA",0,1,0,0,1,0,1,0,0,1,2010
+10098,"Carroll, IA","Delaware, IA",0,1,0,0,1,0,1,0,0,1,2010
+10105,"Carroll, IA","Diagonal, IA",0,1,0,0,0,1,0,1,0,1,2010
+10106,"Carroll, IA","Dickens, IA",0,1,0,1,0,0,0,0,1,1,2010
+10107,"Carroll, IA","Dixon, IA",0,0,1,0,1,0,0,1,0,1,2010
+10120,"Carroll, IA","Elkader, IA",1,0,0,0,0,1,0,1,0,1,2010
+10121,"Carroll, IA","Elliott, IA",0,1,0,0,1,0,0,0,1,1,2010
+10122,"Carroll, IA","Ellsworth, IA",0,1,0,0,0,1,0,1,0,1,2010
+10124,"Carroll, IA","Essex, IA",0,0,1,1,0,0,0,1,0,1,2010
+10126,"Carroll, IA","Evansdale, IA",0,1,0,0,0,1,0,1,0,1,2010
+10136,"Carroll, IA","Franklin, IA",1,0,0,0,1,0,0,1,0,1,2010
+10140,"Carroll, IA","George, IA",0,1,0,0,0,1,0,1,0,1,2010
+10142,"Carroll, IA","Gilman, IA",0,0,1,0,1,0,1,0,0,1,2010
+10152,"Carroll, IA","Greene, IA",0,1,0,0,1,0,0,0,1,1,2010
+10154,"Carroll, IA","Greenville, IA",0,1,0,1,0,0,0,1,0,1,2010
+10158,"Carroll, IA","Hamburg, IA",0,1,0,1,0,0,0,0,1,1,2010
+10160,"Carroll, IA","Hancock, IA",0,1,0,1,0,0,0,1,0,1,2010
+10072,"Carroll, IA","Coburg, IA",0,1,0,1,0,0,0,0,1,1,2010
+10065,"Carroll, IA","Clarence, IA",0,0,1,0,0,1,1,0,0,1,2010
+10170,"Carroll, IA","Hedrick, IA",1,0,0,0,0,1,1,0,0,1,2010
+10064,"Carroll, IA","Cincinnati, IA",0,1,0,1,0,0,0,1,0,1,2010
+9996,"Carroll, IA","Ainsworth, IA",0,1,0,0,0,1,0,0,1,1,2010
+9998,"Carroll, IA","Albert City, IA",0,1,0,0,0,1,0,0,1,1,2010
+10000,"Carroll, IA","Albion, IA",1,0,0,0,0,1,0,0,1,1,2010
+10001,"Carroll, IA","Alden, IA",0,0,1,0,0,1,0,1,0,1,2010
+10003,"Carroll, IA","Alta Vista, IA",0,1,0,0,0,1,0,0,1,1,2010
+10013,"Carroll, IA","Ashton, IA",0,1,0,0,0,1,0,1,0,1,2010
+10017,"Carroll, IA","Avoca, IA",0,0,1,0,1,0,0,1,0,1,2010
+10020,"Carroll, IA","Batavia, IA",0,0,1,0,0,1,0,0,1,1,2010
+10025,"Carroll, IA","Bellevue, IA",0,0,1,0,1,0,0,1,0,1,2010
+10027,"Carroll, IA","Bertram, IA",0,1,0,0,0,1,0,1,0,1,2010
+10028,"Carroll, IA","Blairstown, IA",0,1,0,0,1,0,0,0,1,1,2010
+10033,"Carroll, IA","Boyden, IA",1,0,0,0,1,0,0,1,0,1,2010
+10034,"Carroll, IA","Braddyville, IA",0,1,0,1,0,0,0,1,0,1,2010
+10036,"Carroll, IA","Bristow, IA",0,1,0,0,1,0,0,1,0,1,2010
+10037,"Carroll, IA","Britt, IA",0,0,1,0,0,1,0,0,1,1,2010
+10038,"Carroll, IA","Bronson, IA",1,0,0,0,1,0,1,0,0,1,2010
+10040,"Carroll, IA","Buffalo Center, IA",1,0,0,0,1,0,1,0,0,1,2010
+10041,"Carroll, IA","Buffalo, IA",0,1,0,0,0,1,0,1,0,1,2010
+10044,"Carroll, IA","Callender, IA",0,0,1,0,1,0,0,1,0,1,2010
+10045,"Carroll, IA","Camanche, IA",0,1,0,0,0,1,1,0,0,1,2010
+10047,"Carroll, IA","Cantril, IA",0,1,0,1,0,0,0,0,1,1,2010
+10055,"Carroll, IA","Center Junction, IA",0,1,0,1,0,0,0,0,1,1,2010
+10058,"Carroll, IA","Central City, IA",1,0,0,0,0,1,1,0,0,1,2010
+10169,"Carroll, IA","Hawkeye, IA",0,0,1,0,1,0,0,1,0,1,2010
+10181,"Carroll, IA","Imogene, IA",0,1,0,0,0,1,0,0,1,1,2010
+10341,"Carroll, IA","Rhodes, IA",1,0,0,0,0,1,1,0,0,1,2010
+10263,"Carroll, IA","Moorhead, IA",0,1,0,0,0,1,0,0,1,1,2010
+10266,"Carroll, IA","Morrison, IA",0,1,0,0,1,0,0,1,0,1,2010
+10267,"Carroll, IA","Moulton, IA",0,1,0,1,0,0,0,1,0,1,2010
+10268,"Carroll, IA","Mount Auburn, IA",1,0,0,0,1,0,0,1,0,1,2010
+10270,"Carroll, IA","Mount Union, IA",0,0,1,0,1,0,1,0,0,1,2010
+10273,"Carroll, IA","Mystic, IA",0,1,0,1,0,0,0,0,1,1,2010
+10276,"Carroll, IA","New Albin, IA",0,0,1,0,0,1,0,1,0,1,2010
+10277,"Carroll, IA","New Hampton, IA",0,0,1,0,1,0,0,1,0,1,2010
+10278,"Carroll, IA","New London, IA",1,0,0,0,1,0,1,0,0,1,2010
+10279,"Carroll, IA","New Market, IA",0,1,0,1,0,0,0,0,1,1,2010
+10285,"Carroll, IA","North English, IA",0,1,0,0,0,1,1,0,0,1,2010
+10295,"Carroll, IA","Orient, IA",0,1,0,0,1,0,1,0,0,1,2010
+10303,"Carroll, IA","Oyens, IA",0,1,0,1,0,0,0,1,0,1,2010
+10305,"Carroll, IA","Packwood, IA",1,0,0,0,1,0,1,0,0,1,2010
+10314,"Carroll, IA","Peterson, IA",0,1,0,0,0,1,1,0,0,1,2010
+10315,"Carroll, IA","Pierson, IA",0,0,1,0,1,0,0,0,1,1,2010
+10317,"Carroll, IA","Pleasantville, IA",0,1,0,1,0,0,0,0,1,1,2010
+10318,"Carroll, IA","Plymouth, IA",0,1,0,0,0,1,0,1,0,1,2010
+10325,"Carroll, IA","Preston, IA",0,1,0,0,0,1,0,0,1,1,2010
+10327,"Carroll, IA","Protivin, IA",0,0,1,0,1,0,0,1,0,1,2010
+10329,"Carroll, IA","Randalia, IA",0,0,1,0,1,0,1,0,0,1,2010
+10330,"Carroll, IA","Randall, IA",0,1,0,1,0,0,0,0,1,1,2010
+10331,"Carroll, IA","Randolph, IA",1,0,0,0,1,0,0,1,0,1,2010
+10333,"Carroll, IA","Raymond, IA",1,0,0,0,1,0,0,1,0,1,2010
+10264,"Carroll, IA","Morley, IA",1,0,0,0,1,0,0,1,0,1,2010
+10260,"Carroll, IA","Monona, IA",0,1,0,0,0,1,0,1,0,1,2010
+10188,"Carroll, IA","Irwin, IA",1,0,0,0,0,1,1,0,0,1,2010
+10255,"Carroll, IA","Milton, IA",0,1,0,0,0,1,0,0,1,1,2010
+10196,"Carroll, IA","Keota, IA",0,1,0,1,0,0,0,1,0,1,2010
+10198,"Carroll, IA","Kingsley, IA",0,1,0,1,0,0,0,1,0,1,2010
+10199,"Carroll, IA","Kirkville, IA",0,0,1,0,0,1,0,1,0,1,2010
+10203,"Carroll, IA","Lacona, IA",0,1,0,0,0,1,0,1,0,1,2010
+10204,"Carroll, IA","Ladora, IA",0,0,1,0,0,1,0,0,1,1,2010
+10206,"Carroll, IA","Lake Park, IA",0,0,1,0,0,1,0,1,0,1,2010
+10213,"Carroll, IA","Lawton, IA",0,1,0,0,0,1,0,0,1,1,2010
+10214,"Carroll, IA","Le Grand, IA",1,0,0,0,1,0,1,0,0,1,2010
+10216,"Carroll, IA","Le Roy, IA",1,0,0,0,1,0,1,0,0,1,2010
+10219,"Carroll, IA","Leon, IA",0,1,0,0,1,0,0,0,1,1,2010
+10220,"Carroll, IA","Lewis, IA",1,0,0,1,0,0,0,0,1,1,2010
+10224,"Carroll, IA","Little Rock, IA",0,1,0,0,0,1,0,0,1,1,2010
+10225,"Carroll, IA","Little Sioux, IA",0,1,0,1,0,0,0,1,0,1,2010
+10226,"Carroll, IA","Livermore, IA",1,0,0,1,0,0,1,0,0,1,2010
+10229,"Carroll, IA","Long Grove, IA",0,1,0,0,1,0,0,1,0,1,2010
+10230,"Carroll, IA","Luana, IA",0,1,0,0,0,1,0,0,1,1,2010
+10231,"Carroll, IA","Luther, IA",1,0,0,0,1,0,0,1,0,1,2010
+10234,"Carroll, IA","Malvern, IA",0,0,1,1,0,0,0,0,1,1,2010
+10235,"Carroll, IA","Manchester, IA",1,0,0,0,0,1,1,0,0,1,2010
+10241,"Carroll, IA","Marion, IA",0,0,1,0,1,0,0,0,1,1,2010
+10243,"Carroll, IA","Marysville, IA",0,1,0,1,0,0,0,0,1,1,2010
+10248,"Carroll, IA","McIntire, IA",0,0,1,0,0,1,0,1,0,1,2010
+10254,"Carroll, IA","Milford, IA",0,0,1,0,0,1,0,0,1,1,2010
+10453,"Carroll, IA","Zearing, IA",0,1,0,0,0,1,0,0,1,1,2010

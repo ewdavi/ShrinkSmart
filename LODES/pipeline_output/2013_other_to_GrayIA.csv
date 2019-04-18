@@ -1,0 +1,53 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+29099,"Gray, IA","Manning, IA",11,16,10,15,11,11,13,18,6,37,2013
+29088,"Gray, IA","Gray, IA",8,12,4,10,9,5,7,12,5,24,2013
+29082,"Gray, IA","Denison, IA",2,7,3,1,9,2,5,4,3,12,2013
+29074,"Gray, IA","Carroll, IA",2,4,3,2,2,5,4,4,1,9,2013
+29072,"Gray, IA","Audubon, IA",1,3,3,1,2,4,2,3,2,7,2013
+29116,"Gray, IA","Westside, IA",2,2,1,2,2,1,2,2,1,5,2013
+29098,"Gray, IA","Manilla, IA",2,2,1,1,2,2,2,2,1,5,2013
+29114,"Gray, IA","Wall Lake, IA",0,2,2,1,2,1,1,2,1,4,2013
+29109,"Gray, IA","Schleswig, IA",0,2,2,2,1,1,2,1,1,4,2013
+29112,"Gray, IA","Sioux City, IA",1,2,1,4,0,0,0,2,2,4,2013
+29085,"Gray, IA","Exira, IA",1,3,0,2,0,2,1,1,2,4,2013
+29068,"Gray, IA","Ames, IA",0,1,2,1,0,2,1,0,2,3,2013
+29071,"Gray, IA","Atlantic, IA",0,2,1,1,1,1,1,1,1,3,2013
+29077,"Gray, IA","Coon Rapids, IA",2,0,1,2,0,1,1,1,1,3,2013
+29086,"Gray, IA","Fort Dodge, IA",0,1,1,0,0,2,1,0,1,2,2013
+29080,"Gray, IA","Dedham, IA",1,1,0,0,2,0,0,2,0,2,2013
+29079,"Gray, IA","Danbury, IA",0,1,1,0,1,1,2,0,0,2,2013
+29078,"Gray, IA","Council Bluffs, IA",1,0,1,0,1,1,0,1,1,2,2013
+29117,"Gray, IA","Willey, IA",0,2,0,0,2,0,2,0,0,2,2013
+29070,"Gray, IA","Arcadia, IA",1,1,0,1,1,0,1,1,0,2,2013
+29103,"Gray, IA","Palo, IA",0,1,0,0,0,1,1,0,0,1,2013
+29107,"Gray, IA","Rock Rapids, IA",1,0,0,1,0,0,0,0,1,1,2013
+29104,"Gray, IA","Perry, IA",0,0,1,0,0,1,1,0,0,1,2013
+29105,"Gray, IA","Rhodes, IA",0,0,1,0,1,0,0,0,1,1,2013
+29106,"Gray, IA","Riverton, IA",0,0,1,1,0,0,0,0,1,1,2013
+29113,"Gray, IA","Tennant, IA",0,1,0,0,1,0,0,0,1,1,2013
+29108,"Gray, IA","Rodney, IA",0,0,1,0,1,0,1,0,0,1,2013
+29110,"Gray, IA","Shelby, IA",1,0,0,0,0,1,0,1,0,1,2013
+29111,"Gray, IA","Silver City, IA",0,1,0,0,1,0,0,0,1,1,2013
+29101,"Gray, IA","Oakland, IA",0,0,1,0,0,1,0,1,0,1,2013
+29115,"Gray, IA","Waukee, IA",0,0,1,0,0,1,1,0,0,1,2013
+29118,"Gray, IA","Winterset, IA",0,0,1,0,0,1,1,0,0,1,2013
+29102,"Gray, IA","Onawa, IA",0,1,0,0,1,0,0,0,1,1,2013
+29094,"Gray, IA","Lake View, IA",0,1,0,0,0,1,0,1,0,1,2013
+29100,"Gray, IA","Missouri Valley, IA",0,1,0,0,0,1,0,0,1,1,2013
+29097,"Gray, IA","Magnolia, IA",0,1,0,0,0,1,0,0,1,1,2013
+29073,"Gray, IA","Bagley, IA",0,0,1,0,0,1,0,1,0,1,2013
+29075,"Gray, IA","Charter Oak, IA",0,1,0,0,0,1,0,0,1,1,2013
+29076,"Gray, IA","Churdan, IA",1,0,0,0,1,0,0,1,0,1,2013
+29081,"Gray, IA","Defiance, IA",0,0,1,1,0,0,0,1,0,1,2013
+29083,"Gray, IA","East Peru, IA",1,0,0,0,1,0,0,1,0,1,2013
+29084,"Gray, IA","Elk Horn, IA",0,1,0,0,1,0,1,0,0,1,2013
+29087,"Gray, IA","Fraser, IA",0,0,1,0,0,1,1,0,0,1,2013
+29089,"Gray, IA","Guthrie Center, IA",0,0,1,0,0,1,1,0,0,1,2013
+29090,"Gray, IA","Hamburg, IA",1,0,0,1,0,0,1,0,0,1,2013
+29091,"Gray, IA","Harlan, IA",0,1,0,0,1,0,1,0,0,1,2013
+29092,"Gray, IA","Jefferson, IA",0,1,0,0,1,0,1,0,0,1,2013
+29093,"Gray, IA","Kimballton, IA",0,1,0,1,0,0,0,0,1,1,2013
+29069,"Gray, IA","Anita, IA",0,1,0,0,0,1,0,0,1,1,2013
+29095,"Gray, IA","Le Mars, IA",0,0,1,0,1,0,1,0,0,1,2013
+29096,"Gray, IA","Lidderdale, IA",0,1,0,0,1,0,1,0,0,1,2013
+29119,"Gray, IA","Yetter, IA",0,0,1,0,0,1,0,1,0,1,2013

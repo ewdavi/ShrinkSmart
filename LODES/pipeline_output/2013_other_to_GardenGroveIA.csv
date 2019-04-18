@@ -1,0 +1,85 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+27302,"Garden Grove, IA","Davenport, IA",1,8,11,0,0,20,10,10,0,20,2013
+27364,"Garden Grove, IA","Waterloo, IA",1,11,7,0,0,19,8,10,1,19,2013
+27295,"Garden Grove, IA","Clio, IA",2,10,4,1,13,2,6,6,4,16,2013
+27331,"Garden Grove, IA","Lineville, IA",0,6,4,3,4,3,2,6,2,10,2013
+27294,"Garden Grove, IA","Cedar Falls, IA",1,2,7,0,0,10,5,5,0,10,2013
+27289,"Garden Grove, IA","Bettendorf, IA",1,2,5,0,0,8,2,6,0,8,2013
+27317,"Garden Grove, IA","Garden Grove, IA",3,3,2,2,3,3,2,4,2,8,2013
+27287,"Garden Grove, IA","Ankeny, IA",1,1,5,0,0,7,5,2,0,7,2013
+27350,"Garden Grove, IA","Pleasanton, IA",1,2,3,1,4,1,4,2,0,6,2013
+27327,"Garden Grove, IA","Lamoni, IA",0,1,4,1,2,2,3,1,1,5,2013
+27330,"Garden Grove, IA","Leon, IA",2,2,1,4,0,1,0,5,0,5,2013
+27365,"Garden Grove, IA","Waukee, IA",1,0,4,0,0,5,2,3,0,5,2013
+27323,"Garden Grove, IA","Iowa City, IA",0,3,2,0,0,5,1,4,0,5,2013
+27343,"Garden Grove, IA","North Liberty, IA",1,3,0,0,0,4,3,1,0,4,2013
+27336,"Garden Grove, IA","Milton, IA",0,3,1,2,0,2,2,2,0,4,2013
+27293,"Garden Grove, IA","Cambridge, IA",1,1,1,0,0,3,1,2,0,3,2013
+27366,"Garden Grove, IA","Windsor Heights, IA",0,1,2,0,0,3,2,1,0,3,2013
+27349,"Garden Grove, IA","Pleasant Hill, IA",1,0,2,0,0,3,2,1,0,3,2013
+27309,"Garden Grove, IA","Eldridge, IA",0,2,1,0,0,3,0,3,0,3,2013
+27353,"Garden Grove, IA","Prairie City, IA",0,0,2,0,0,2,0,2,0,2,2013
+27342,"Garden Grove, IA","Murray, IA",0,2,0,2,0,0,0,2,0,2,2013
+27340,"Garden Grove, IA","Mount Auburn, IA",0,2,0,0,0,2,1,1,0,2,2013
+27319,"Garden Grove, IA","Grimes, IA",0,0,2,0,0,2,2,0,0,2,2013
+27359,"Garden Grove, IA","Tiffin, IA",1,1,0,0,0,2,1,1,0,2,2013
+27362,"Garden Grove, IA","Urbandale, IA",1,0,1,0,0,2,2,0,0,2,2013
+27298,"Garden Grove, IA","Coralville, IA",0,2,0,0,0,2,1,1,0,2,2013
+27352,"Garden Grove, IA","Polk City, IA",0,0,2,0,0,2,2,0,0,2,2013
+27324,"Garden Grove, IA","Johnston, IA",0,0,2,0,1,1,0,1,1,2,2013
+27332,"Garden Grove, IA","Lone Tree, IA",0,2,0,0,0,2,2,0,0,2,2013
+27356,"Garden Grove, IA","Seymour, IA",1,1,0,0,2,0,1,1,0,2,2013
+27307,"Garden Grove, IA","East Peru, IA",1,1,0,1,0,1,0,2,0,2,2013
+27334,"Garden Grove, IA","McCausland, IA",0,2,0,0,0,2,1,1,0,2,2013
+27305,"Garden Grove, IA","Dubuque, IA",0,1,1,0,1,1,1,1,0,2,2013
+27304,"Garden Grove, IA","Des Moines, IA",0,1,1,0,0,2,0,2,0,2,2013
+27361,"Garden Grove, IA","University Heights, IA",0,1,1,0,0,2,1,1,0,2,2013
+27367,"Garden Grove, IA","Woodward, IA",0,1,0,0,0,1,0,1,0,1,2013
+27339,"Garden Grove, IA","Moulton, IA",0,1,0,1,0,0,0,1,0,1,2013
+27338,"Garden Grove, IA","Moravia, IA",0,0,1,0,0,1,1,0,0,1,2013
+27341,"Garden Grove, IA","Mount Pleasant, IA",1,0,0,0,0,1,1,0,0,1,2013
+27360,"Garden Grove, IA","Toledo, IA",0,1,0,0,1,0,0,1,0,1,2013
+27348,"Garden Grove, IA","Perry, IA",1,0,0,0,0,1,0,1,0,1,2013
+27344,"Garden Grove, IA","Osceola, IA",1,0,0,0,1,0,1,0,0,1,2013
+27363,"Garden Grove, IA","Walcott, IA",0,0,1,0,0,1,1,0,0,1,2013
+27345,"Garden Grove, IA","Pacific Junction, IA",0,0,1,1,0,0,0,1,0,1,2013
+27346,"Garden Grove, IA","Patterson, IA",0,1,0,0,1,0,0,1,0,1,2013
+27347,"Garden Grove, IA","Pella, IA",0,1,0,0,0,1,0,1,0,1,2013
+27351,"Garden Grove, IA","Pleasantville, IA",0,0,1,0,1,0,1,0,0,1,2013
+27337,"Garden Grove, IA","Montezuma, IA",0,0,1,1,0,0,0,0,1,1,2013
+27355,"Garden Grove, IA","Riverdale, IA",0,0,1,0,0,1,1,0,0,1,2013
+27357,"Garden Grove, IA","Sigourney, IA",0,0,1,0,0,1,0,1,0,1,2013
+27358,"Garden Grove, IA","Strawberry Point, IA",0,1,0,0,0,1,1,0,0,1,2013
+27354,"Garden Grove, IA","Redding, IA",0,0,1,0,0,1,0,1,0,1,2013
+27285,"Garden Grove, IA","Altoona, IA",0,0,1,0,0,1,0,1,0,1,2013
+27335,"Garden Grove, IA","Millerton, IA",1,0,0,0,1,0,0,1,0,1,2013
+27311,"Garden Grove, IA","Ely, IA",0,1,0,0,0,1,1,0,0,1,2013
+27288,"Garden Grove, IA","Asbury, IA",0,0,1,0,0,1,0,1,0,1,2013
+27290,"Garden Grove, IA","Blue Grass, IA",0,1,0,0,0,1,0,1,0,1,2013
+27291,"Garden Grove, IA","Boone, IA",1,0,0,0,0,1,0,1,0,1,2013
+27292,"Garden Grove, IA","Brighton, IA",1,0,0,1,0,0,0,1,0,1,2013
+27296,"Garden Grove, IA","Clive, IA",0,0,1,0,0,1,0,1,0,1,2013
+27297,"Garden Grove, IA","Colfax, IA",0,0,1,0,0,1,1,0,0,1,2013
+27299,"Garden Grove, IA","Corydon, IA",1,0,0,0,0,1,0,1,0,1,2013
+27300,"Garden Grove, IA","Council Bluffs, IA",0,1,0,0,0,1,0,1,0,1,2013
+27301,"Garden Grove, IA","Creston, IA",1,0,0,0,0,1,1,0,0,1,2013
+27303,"Garden Grove, IA","Decorah, IA",0,1,0,1,0,0,0,0,1,1,2013
+27306,"Garden Grove, IA","Dysart, IA",0,0,1,0,0,1,1,0,0,1,2013
+27308,"Garden Grove, IA","Eddyville, IA",0,0,1,0,0,1,1,0,0,1,2013
+27310,"Garden Grove, IA","Elk Run Heights, IA",0,0,1,0,0,1,1,0,0,1,2013
+27312,"Garden Grove, IA","Evansdale, IA",0,0,1,0,0,1,0,1,0,1,2013
+27333,"Garden Grove, IA","Long Grove, IA",0,0,1,0,0,1,0,1,0,1,2013
+27313,"Garden Grove, IA","Exira, IA",0,1,0,1,0,0,0,0,1,1,2013
+27314,"Garden Grove, IA","Fairbank, IA",0,1,0,0,0,1,1,0,0,1,2013
+27315,"Garden Grove, IA","Fayette, IA",0,1,0,0,0,1,1,0,0,1,2013
+27316,"Garden Grove, IA","Forest City, IA",1,0,0,1,0,0,0,1,0,1,2013
+27318,"Garden Grove, IA","Gravity, IA",0,0,1,0,0,1,1,0,0,1,2013
+27320,"Garden Grove, IA","Huxley, IA",0,0,1,0,0,1,0,1,0,1,2013
+27321,"Garden Grove, IA","Independence, IA",0,1,0,1,0,0,0,1,0,1,2013
+27322,"Garden Grove, IA","Indianola, IA",0,0,1,0,0,1,0,1,0,1,2013
+27325,"Garden Grove, IA","Keokuk, IA",0,0,1,0,1,0,0,1,0,1,2013
+27326,"Garden Grove, IA","Lacona, IA",0,1,0,1,0,0,0,1,0,1,2013
+27286,"Garden Grove, IA","Ames, IA",0,1,0,0,0,1,0,1,0,1,2013
+27328,"Garden Grove, IA","Le Claire, IA",0,1,0,0,0,1,0,1,0,1,2013
+27329,"Garden Grove, IA","Le Roy, IA",0,0,1,1,0,0,0,1,0,1,2013
+27368,"Garden Grove, IA","Zearing, IA",0,0,1,0,0,1,1,0,0,1,2013

@@ -1,0 +1,82 @@
+,home city,work city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+30929,"Lewis, IA","Atlantic, IA",37,89,33,49,88,22,58,88,13,159,2003
+30969,"Lewis, IA","Lewis, IA",20,39,13,44,15,13,21,44,7,72,2003
+30944,"Lewis, IA","Council Bluffs, IA",21,37,13,3,39,29,24,37,10,71,2003
+30974,"Lewis, IA","Massena, IA",11,28,19,11,33,14,29,19,10,58,2003
+30946,"Lewis, IA","Cumberland, IA",5,25,17,6,28,13,22,19,6,47,2003
+30986,"Lewis, IA","Red Oak, IA",11,24,9,13,29,2,13,27,4,44,2003
+30960,"Lewis, IA","Greenfield, IA",9,26,7,18,22,2,16,24,2,42,2003
+30958,"Lewis, IA","Grant, IA",6,16,4,3,10,13,8,15,3,26,2003
+30948,"Lewis, IA","Des Moines, IA",5,14,1,1,14,5,4,11,5,20,2003
+30981,"Lewis, IA","Oakland, IA",7,6,2,0,13,2,10,4,1,15,2003
+31005,"Lewis, IA","Wiota, IA",1,10,3,8,5,1,5,7,2,14,2003
+30963,"Lewis, IA","Hancock, IA",2,9,3,0,9,5,7,7,0,14,2003
+30930,"Lewis, IA","Audubon, IA",0,11,0,6,3,2,0,11,0,11,2003
+30934,"Lewis, IA","Carson, IA",4,5,1,0,6,4,5,1,4,10,2003
+30945,"Lewis, IA","Creston, IA",4,5,1,3,3,4,6,1,3,10,2003
+31003,"Lewis, IA","Windsor Heights, IA",4,3,2,0,3,6,3,5,1,9,2003
+30992,"Lewis, IA","Sioux City, IA",3,4,0,0,1,6,4,3,0,7,2003
+30943,"Lewis, IA","Corning, IA",3,4,0,2,4,1,3,4,0,7,2003
+30937,"Lewis, IA","Cedar Rapids, IA",2,4,0,2,2,2,2,2,2,6,2003
+30932,"Lewis, IA","Bedford, IA",1,3,2,1,3,2,2,4,0,6,2003
+30993,"Lewis, IA","Stanton, IA",2,3,1,1,2,3,5,1,0,6,2003
+30964,"Lewis, IA","Harlan, IA",1,4,0,0,4,1,1,3,1,5,2003
+30926,"Lewis, IA","Ames, IA",2,3,0,0,2,3,3,2,0,5,2003
+30996,"Lewis, IA","Urbandale, IA",1,4,0,0,2,3,2,3,0,5,2003
+31002,"Lewis, IA","West Des Moines, IA",2,2,0,0,0,4,2,2,0,4,2003
+30927,"Lewis, IA","Anita, IA",0,4,0,0,4,0,1,0,3,4,2003
+31001,"Lewis, IA","Waukee, IA",1,3,0,0,2,2,1,0,3,4,2003
+30991,"Lewis, IA","Silver City, IA",1,3,0,0,3,1,4,0,0,4,2003
+30970,"Lewis, IA","Macedonia, IA",1,1,2,3,1,0,1,2,1,4,2003
+30962,"Lewis, IA","Hamburg, IA",2,2,0,2,1,1,1,3,0,4,2003
+30938,"Lewis, IA","Chariton, IA",2,1,1,0,1,3,3,1,0,4,2003
+30968,"Lewis, IA","Lenox, IA",2,1,0,0,3,0,1,2,0,3,2003
+30935,"Lewis, IA","Carter Lake, IA",1,2,0,2,1,0,1,1,1,3,2003
+30982,"Lewis, IA","Orient, IA",0,1,2,0,3,0,0,3,0,3,2003
+30961,"Lewis, IA","Grimes, IA",0,2,1,1,0,2,1,2,0,3,2003
+30939,"Lewis, IA","Clarinda, IA",0,2,1,2,1,0,0,2,1,3,2003
+30928,"Lewis, IA","Ankeny, IA",1,0,2,0,0,3,1,2,0,3,2003
+30941,"Lewis, IA","Clive, IA",2,1,0,0,3,0,1,1,1,3,2003
+31000,"Lewis, IA","Waterloo, IA",1,1,1,0,1,2,2,0,1,3,2003
+30940,"Lewis, IA","Clearfield, IA",0,1,2,1,1,1,1,1,1,3,2003
+30983,"Lewis, IA","Ottumwa, IA",0,2,0,2,0,0,0,2,0,2,2003
+30999,"Lewis, IA","Washington, IA",0,2,0,1,1,0,0,2,0,2,2003
+30995,"Lewis, IA","Underwood, IA",0,2,0,0,2,0,0,0,2,2,2003
+30985,"Lewis, IA","Pleasant Hill, IA",1,0,1,0,1,1,2,0,0,2,2003
+30988,"Lewis, IA","Shannon City, IA",1,1,0,0,2,0,0,0,2,2,2003
+30990,"Lewis, IA","Shenandoah, IA",1,1,0,0,2,0,0,2,0,2,2003
+30994,"Lewis, IA","Tennant, IA",1,1,0,0,1,1,1,1,0,2,2003
+30975,"Lewis, IA","McClelland, IA",0,1,1,0,0,2,1,1,0,2,2003
+30965,"Lewis, IA","Indianola, IA",1,1,0,0,1,1,2,0,0,2,2003
+30973,"Lewis, IA","Mason City, IA",1,1,0,0,1,1,1,1,0,2,2003
+30966,"Lewis, IA","Iowa City, IA",2,0,0,0,1,1,2,0,0,2,2003
+30950,"Lewis, IA","East Peru, IA",0,2,0,2,0,0,0,1,1,2,2003
+30952,"Lewis, IA","Elk Horn, IA",0,2,0,0,1,1,0,1,1,2,2003
+30957,"Lewis, IA","Glenwood, IA",1,1,0,0,2,0,2,0,0,2,2003
+30959,"Lewis, IA","Gravity, IA",0,2,0,0,0,2,0,2,0,2,2003
+30955,"Lewis, IA","Fort Dodge, IA",0,0,2,0,1,1,1,0,1,2,2003
+30971,"Lewis, IA","Macksburg, IA",0,0,1,1,0,0,1,0,0,1,2003
+30951,"Lewis, IA","Eldora, IA",1,0,0,0,0,1,0,0,1,1,2003
+31004,"Lewis, IA","Winterset, IA",0,1,0,0,1,0,0,1,0,1,2003
+30931,"Lewis, IA","Avoca, IA",0,1,0,0,1,0,1,0,0,1,2003
+30933,"Lewis, IA","Boone, IA",1,0,0,0,0,1,1,0,0,1,2003
+30936,"Lewis, IA","Casey, IA",0,1,0,1,0,0,0,1,0,1,2003
+30942,"Lewis, IA","Coralville, IA",0,1,0,0,1,0,0,1,0,1,2003
+30947,"Lewis, IA","Danbury, IA",1,0,0,0,1,0,1,0,0,1,2003
+30998,"Lewis, IA","Wall Lake, IA",0,1,0,1,0,0,0,1,0,1,2003
+30997,"Lewis, IA","Van Meter, IA",0,1,0,1,0,0,0,0,1,1,2003
+30949,"Lewis, IA","Dexter, IA",0,0,1,1,0,0,0,0,1,1,2003
+30976,"Lewis, IA","Melcher-Dallas, IA",0,1,0,1,0,0,1,0,0,1,2003
+30977,"Lewis, IA","Missouri Valley, IA",1,0,0,0,1,0,1,0,0,1,2003
+30967,"Lewis, IA","Johnston, IA",0,1,0,1,0,0,0,1,0,1,2003
+30953,"Lewis, IA","Elliott, IA",0,1,0,0,1,0,0,1,0,1,2003
+30954,"Lewis, IA","Essex, IA",0,0,1,1,0,0,1,0,0,1,2003
+30972,"Lewis, IA","Malvern, IA",0,0,1,0,1,0,1,0,0,1,2003
+30989,"Lewis, IA","Shelby, IA",0,1,0,1,0,0,0,0,1,1,2003
+30956,"Lewis, IA","Garner, IA",0,1,0,0,1,0,1,0,0,1,2003
+30987,"Lewis, IA","Schaller, IA",1,0,0,0,1,0,1,0,0,1,2003
+30978,"Lewis, IA","Moorhead, IA",1,0,0,0,1,0,0,1,0,1,2003
+30979,"Lewis, IA","Newton, IA",0,0,1,0,1,0,0,1,0,1,2003
+30984,"Lewis, IA","Plano, IA",0,0,1,0,0,1,1,0,0,1,2003
+30980,"Lewis, IA","Nodaway, IA",1,0,0,0,1,0,1,0,0,1,2003
+30925,"Lewis, IA","Adair, IA",0,1,0,0,0,1,0,1,0,1,2003

@@ -1,0 +1,65 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+29928,"Kalona, IA","Kalona, IA",70,153,68,71,120,100,117,135,39,291,2003
+29948,"Kalona, IA","Riverside, IA",72,130,61,70,91,102,112,118,33,263,2003
+29959,"Kalona, IA","Washington, IA",31,80,16,65,23,39,24,75,28,127,2003
+29927,"Kalona, IA","Iowa City, IA",20,43,4,34,18,15,23,30,14,67,2003
+29945,"Kalona, IA","Oxford, IA",5,32,10,14,15,18,20,23,4,47,2003
+29962,"Kalona, IA","Wellman, IA",11,23,12,19,12,15,8,32,6,46,2003
+29930,"Kalona, IA","Kinross, IA",8,25,4,17,10,10,12,23,2,37,2003
+29929,"Kalona, IA","Keota, IA",8,14,2,15,3,6,2,18,4,24,2003
+29906,"Kalona, IA","Brighton, IA",8,10,5,7,6,10,8,13,2,23,2003
+29961,"Kalona, IA","Webster, IA",5,14,2,12,4,5,5,16,0,21,2003
+29946,"Kalona, IA","Pleasant Plain, IA",6,9,5,9,5,6,7,12,1,20,2003
+29905,"Kalona, IA","Ainsworth, IA",4,11,5,11,5,4,6,11,3,20,2003
+29911,"Kalona, IA","Coralville, IA",6,11,2,2,8,9,1,17,1,19,2003
+29942,"Kalona, IA","North Liberty, IA",4,13,1,6,4,8,6,7,5,18,2003
+29951,"Kalona, IA","South English, IA",5,11,2,14,2,2,1,14,3,18,2003
+29964,"Kalona, IA","West Chester, IA",6,7,2,4,5,6,7,6,2,15,2003
+29954,"Kalona, IA","Tiffin, IA",2,9,1,3,6,3,3,6,3,12,2003
+29956,"Kalona, IA","University Heights, IA",5,7,0,3,8,1,3,6,3,12,2003
+29968,"Kalona, IA","Winfield, IA",5,2,0,6,1,0,1,6,0,7,2003
+29909,"Kalona, IA","Columbus Junction, IA",4,1,2,4,0,3,2,4,1,7,2003
+29960,"Kalona, IA","Wayland, IA",1,4,0,5,0,0,2,3,0,5,2003
+29939,"Kalona, IA","Muscatine, IA",0,5,0,3,1,1,2,2,1,5,2003
+29965,"Kalona, IA","West Liberty, IA",0,2,2,2,0,2,0,3,1,4,2003
+29917,"Kalona, IA","Donnellson, IA",0,3,1,1,1,2,0,2,2,4,2003
+29944,"Kalona, IA","Ottumwa, IA",0,3,1,0,0,4,3,1,0,4,2003
+29936,"Kalona, IA","Millerton, IA",2,1,1,1,2,1,0,4,0,4,2003
+29913,"Kalona, IA","Crawfordsville, IA",1,1,1,1,1,1,1,2,0,3,2003
+29949,"Kalona, IA","Sigourney, IA",1,2,0,3,0,0,0,3,0,3,2003
+29955,"Kalona, IA","Tipton, IA",0,2,1,0,2,1,0,3,0,3,2003
+29925,"Kalona, IA","Hills, IA",1,1,1,2,1,0,1,2,0,3,2003
+29957,"Kalona, IA","Victor, IA",1,2,0,2,1,0,0,1,2,3,2003
+29910,"Kalona, IA","Conesville, IA",0,2,1,0,2,1,0,3,0,3,2003
+29914,"Kalona, IA","Cromwell, IA",1,2,0,0,0,3,1,1,1,3,2003
+29919,"Kalona, IA","Fairfield, IA",0,3,0,1,0,2,1,2,0,3,2003
+29907,"Kalona, IA","Cedar Rapids, IA",2,1,0,0,1,2,2,1,0,3,2003
+29931,"Kalona, IA","Lacona, IA",2,1,0,1,1,1,2,1,0,3,2003
+29966,"Kalona, IA","What Cheer, IA",0,3,0,0,2,1,0,3,0,3,2003
+29923,"Kalona, IA","Grant, IA",2,1,0,0,2,1,1,2,0,3,2003
+29967,"Kalona, IA","Williamsburg, IA",1,1,1,1,2,0,2,1,0,3,2003
+29953,"Kalona, IA","Tama, IA",0,2,0,1,0,1,1,1,0,2,2003
+29908,"Kalona, IA","Clio, IA",0,0,2,1,1,0,0,2,0,2,2003
+29963,"Kalona, IA","West Branch, IA",2,0,0,0,0,2,2,0,0,2,2003
+29943,"Kalona, IA","Oskaloosa, IA",2,0,0,0,2,0,0,2,0,2,2003
+29921,"Kalona, IA","Gibson, IA",0,2,0,1,1,0,0,2,0,2,2003
+29924,"Kalona, IA","Hiawatha, IA",0,2,0,1,0,1,0,0,2,2,2003
+29958,"Kalona, IA","Vining, IA",0,1,0,1,0,0,0,1,0,1,2003
+29912,"Kalona, IA","Coulter, IA",1,0,0,0,0,1,1,0,0,1,2003
+29916,"Kalona, IA","Delta, IA",1,0,0,1,0,0,0,1,0,1,2003
+29952,"Kalona, IA","Springville, IA",1,0,0,1,0,0,0,1,0,1,2003
+29950,"Kalona, IA","Solon, IA",0,1,0,0,0,1,0,0,1,1,2003
+29915,"Kalona, IA","Davenport, IA",1,0,0,0,1,0,0,1,0,1,2003
+29947,"Kalona, IA","Ridgeway, IA",0,1,0,1,0,0,1,0,0,1,2003
+29918,"Kalona, IA","Dubuque, IA",0,0,1,1,0,0,0,1,0,1,2003
+29941,"Kalona, IA","Nichols, IA",0,1,0,0,1,0,0,1,0,1,2003
+29940,"Kalona, IA","New Hampton, IA",1,0,0,0,0,1,1,0,0,1,2003
+29938,"Kalona, IA","Mount Union, IA",0,1,0,1,0,0,0,1,0,1,2003
+29935,"Kalona, IA","Mason City, IA",1,0,0,0,0,1,1,0,0,1,2003
+29934,"Kalona, IA","Marengo, IA",0,1,0,0,1,0,1,0,0,1,2003
+29933,"Kalona, IA","Lockridge, IA",1,0,0,0,1,0,1,0,0,1,2003
+29932,"Kalona, IA","Lisbon, IA",0,1,0,0,1,0,0,0,1,1,2003
+29920,"Kalona, IA","Farmersburg, IA",0,1,0,0,0,1,1,0,0,1,2003
+29922,"Kalona, IA","Grand Mound, IA",0,1,0,0,0,1,0,1,0,1,2003
+29926,"Kalona, IA","Houghton, IA",1,0,0,1,0,0,0,1,0,1,2003
+29937,"Kalona, IA","Morrison, IA",1,0,0,0,0,1,0,1,0,1,2003

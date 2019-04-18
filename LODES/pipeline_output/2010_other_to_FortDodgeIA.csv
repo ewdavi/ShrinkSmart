@@ -1,0 +1,569 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+28627,"Fort Dodge, IA","Fort Dodge, IA",1666,4307,1863,1435,5109,1292,2153,3143,2540,7836,2010
+28823,"Fort Dodge, IA","Otho, IA",103,274,99,90,314,72,87,210,179,476,2010
+28755,"Fort Dodge, IA","Manson, IA",71,201,94,83,234,49,76,146,144,366,2010
+28979,"Fort Dodge, IA","Webster City, IA",54,200,72,42,205,79,78,127,121,326,2010
+28681,"Fort Dodge, IA","Humboldt, IA",62,194,64,80,173,67,69,106,145,320,2010
+28762,"Fort Dodge, IA","Mason City, IA",58,84,34,10,68,98,63,77,36,176,2010
+28619,"Fort Dodge, IA","Farnhamville, IA",41,99,35,33,110,32,30,87,58,175,2010
+28581,"Fort Dodge, IA","Des Moines, IA",59,83,26,11,90,67,64,64,40,168,2010
+28566,"Fort Dodge, IA","Dakota City, IA",38,109,20,31,106,30,35,53,79,167,2010
+28593,"Fort Dodge, IA","Eagle Grove, IA",39,87,32,19,82,57,39,66,53,158,2010
+28572,"Fort Dodge, IA","Dayton, IA",30,87,30,43,83,21,31,69,47,147,2010
+28849,"Fort Dodge, IA","Pomeroy, IA",20,95,32,31,95,21,26,59,62,147,2010
+28459,"Fort Dodge, IA","Ames, IA",40,85,21,21,74,51,43,45,58,146,2010
+28707,"Fort Dodge, IA","Knierim, IA",28,79,28,20,94,21,22,73,40,135,2010
+28590,"Fort Dodge, IA","Duncombe, IA",24,72,29,18,82,25,24,52,49,125,2010
+28728,"Fort Dodge, IA","Lehigh, IA",26,73,24,36,72,15,24,53,46,123,2010
+28513,"Fort Dodge, IA","Callender, IA",36,53,23,30,61,21,22,53,37,112,2010
+28887,"Fort Dodge, IA","Rockwell City, IA",20,67,24,24,68,19,30,40,41,111,2010
+28917,"Fort Dodge, IA","Sioux City, IA",30,52,20,0,38,64,38,39,25,102,2010
+28938,"Fort Dodge, IA","Stratford, IA",18,62,19,22,63,14,20,47,32,99,2010
+28456,"Fort Dodge, IA","Algona, IA",25,51,16,3,64,25,43,28,21,92,2010
+28643,"Fort Dodge, IA","Goldfield, IA",15,54,17,19,48,19,27,32,27,86,2010
+28973,"Fort Dodge, IA","Waterloo, IA",39,33,5,4,36,37,30,27,20,77,2010
+28663,"Fort Dodge, IA","Harcourt, IA",16,50,11,12,52,13,15,35,27,77,2010
+28462,"Fort Dodge, IA","Ankeny, IA",25,39,6,3,32,35,18,26,26,70,2010
+28962,"Fort Dodge, IA","Urbandale, IA",26,34,9,2,38,29,25,17,27,69,2010
+28544,"Fort Dodge, IA","Clive, IA",24,36,8,7,32,29,19,14,35,68,2010
+28518,"Fort Dodge, IA","Carroll, IA",18,39,11,4,26,38,18,30,20,68,2010
+29000,"Fort Dodge, IA","Windsor Heights, IA",18,38,11,8,31,28,19,28,20,67,2010
+28525,"Fort Dodge, IA","Cedar Rapids, IA",25,35,5,5,26,34,30,19,16,65,2010
+28557,"Fort Dodge, IA","Council Bluffs, IA",15,28,12,10,14,31,13,25,17,55,2010
+28986,"Fort Dodge, IA","West Des Moines, IA",17,26,11,3,22,29,14,20,20,54,2010
+28824,"Fort Dodge, IA","Ottosen, IA",11,28,14,7,33,13,13,20,20,53,2010
+28878,"Fort Dodge, IA","Rinard, IA",8,29,15,9,34,9,4,29,19,52,2010
+28570,"Fort Dodge, IA","Davenport, IA",20,22,8,6,18,26,16,18,16,50,2010
+28922,"Fort Dodge, IA","Spencer, IA",9,31,7,7,21,19,12,24,11,47,2010
+28739,"Fort Dodge, IA","Livermore, IA",7,33,7,12,26,9,8,26,13,47,2010
+28524,"Fort Dodge, IA","Cedar Falls, IA",21,20,6,3,12,32,17,17,13,47,2010
+28688,"Fort Dodge, IA","Iowa City, IA",15,18,10,3,20,20,18,15,10,43,2010
+28895,"Fort Dodge, IA","Rutland, IA",4,20,18,6,21,15,10,18,14,42,2010
+28799,"Fort Dodge, IA","Muscatine, IA",9,23,8,18,12,10,7,22,11,40,2010
+28843,"Fort Dodge, IA","Pleasant Hill, IA",12,24,3,2,20,17,10,21,8,39,2010
+28692,"Fort Dodge, IA","Jefferson, IA",14,18,7,4,22,13,11,15,13,39,2010
+28661,"Fort Dodge, IA","Hampton, IA",9,24,6,7,15,17,10,18,11,39,2010
+28997,"Fort Dodge, IA","Williams, IA",11,20,8,2,29,8,9,15,15,39,2010
+28664,"Fort Dodge, IA","Hardy, IA",8,19,10,6,26,5,6,18,13,37,2010
+28511,"Fort Dodge, IA","Burlington, IA",5,26,6,17,7,13,3,12,22,37,2010
+28498,"Fort Dodge, IA","Boone, IA",10,21,6,4,19,14,9,9,19,37,2010
+28540,"Fort Dodge, IA","Clear Lake, IA",11,15,10,4,12,20,9,19,8,36,2010
+28726,"Fort Dodge, IA","Le Mars, IA",7,21,6,2,17,15,9,12,13,34,2010
+28671,"Fort Dodge, IA","Havelock, IA",9,19,5,4,21,8,11,10,12,33,2010
+28539,"Fort Dodge, IA","Clarion, IA",7,23,3,1,18,14,13,11,9,33,2010
+28589,"Fort Dodge, IA","Dubuque, IA",8,19,5,3,14,15,7,10,15,32,2010
+28883,"Fort Dodge, IA","Robins, IA",14,13,3,6,7,17,11,12,7,30,2010
+28623,"Fort Dodge, IA","Floyd, IA",4,17,6,7,8,12,5,12,10,27,2010
+29010,"Fort Dodge, IA","Yetter, IA",5,13,9,0,15,12,8,11,8,27,2010
+28897,"Fort Dodge, IA","Sac City, IA",4,14,7,3,17,5,12,4,9,25,2010
+28712,"Fort Dodge, IA","Lake City, IA",4,17,4,0,14,11,4,9,12,25,2010
+28579,"Fort Dodge, IA","Denison, IA",12,11,2,1,11,13,8,8,9,25,2010
+28624,"Fort Dodge, IA","Fonda, IA",4,14,5,2,18,3,3,11,9,23,2010
+28458,"Fort Dodge, IA","Altoona, IA",7,11,5,4,9,10,7,8,8,23,2010
+28609,"Fort Dodge, IA","Estherville, IA",10,9,4,2,8,13,11,10,2,23,2010
+28759,"Fort Dodge, IA","Marcus, IA",2,16,4,1,12,9,8,11,3,22,2010
+28936,"Fort Dodge, IA","Storm Lake, IA",4,11,7,2,16,4,6,11,5,22,2010
+29007,"Fort Dodge, IA","Woolstock, IA",1,13,8,4,13,5,7,7,8,22,2010
+28474,"Fort Dodge, IA","Audubon, IA",4,11,7,7,7,8,5,11,6,22,2010
+28475,"Fort Dodge, IA","Aurelia, IA",8,9,5,5,9,8,7,11,4,22,2010
+28761,"Fort Dodge, IA","Marshalltown, IA",6,14,2,4,6,12,10,8,4,22,2010
+28488,"Fort Dodge, IA","Belmond, IA",9,10,2,5,11,5,3,12,6,21,2010
+28551,"Fort Dodge, IA","Coon Rapids, IA",5,12,4,4,14,3,7,8,6,21,2010
+28829,"Fort Dodge, IA","Palmer, IA",4,16,1,2,17,2,2,10,9,21,2010
+28491,"Fort Dodge, IA","Bettendorf, IA",8,9,4,4,4,13,2,9,10,21,2010
+28847,"Fort Dodge, IA","Pocahontas, IA",3,13,4,0,18,2,9,6,5,20,2010
+28860,"Fort Dodge, IA","Quimby, IA",10,7,3,3,8,9,9,8,3,20,2010
+28517,"Fort Dodge, IA","Carlisle, IA",10,7,3,0,5,15,9,6,5,20,2010
+28910,"Fort Dodge, IA","Sheldon, IA",5,12,3,4,13,3,7,6,7,20,2010
+28807,"Fort Dodge, IA","Newton, IA",7,11,2,1,9,10,8,5,7,20,2010
+28975,"Fort Dodge, IA","Waukee, IA",6,11,3,1,9,10,3,11,6,20,2010
+28923,"Fort Dodge, IA","Spirit Lake, IA",5,12,3,4,10,6,9,4,7,20,2010
+28542,"Fort Dodge, IA","Clinton, IA",7,9,3,1,8,10,8,4,7,19,2010
+28675,"Fort Dodge, IA","Hiawatha, IA",7,11,1,1,7,11,6,8,5,19,2010
+28610,"Fort Dodge, IA","Evansdale, IA",4,13,2,0,8,11,6,7,6,19,2010
+28994,"Fort Dodge, IA","Whittemore, IA",10,9,0,0,7,12,6,8,5,19,2010
+28722,"Fort Dodge, IA","Laurens, IA",9,7,3,0,14,5,10,5,4,19,2010
+29004,"Fort Dodge, IA","Woden, IA",5,9,5,1,11,7,4,5,10,19,2010
+28801,"Fort Dodge, IA","Nevada, IA",6,12,1,4,10,5,5,5,9,19,2010
+28695,"Fort Dodge, IA","Johnston, IA",6,8,4,0,11,7,5,9,4,18,2010
+28604,"Fort Dodge, IA","Ellsworth, IA",9,5,4,2,14,2,7,8,3,18,2010
+28531,"Fort Dodge, IA","Charles City, IA",6,9,3,2,4,12,5,9,4,18,2010
+28819,"Fort Dodge, IA","Onawa, IA",5,10,3,0,11,7,8,6,4,18,2010
+28850,"Fort Dodge, IA","Popejoy, IA",1,12,5,5,9,4,2,8,8,18,2010
+28820,"Fort Dodge, IA","Orange City, IA",6,7,5,1,10,7,6,7,5,18,2010
+28968,"Fort Dodge, IA","Wall Lake, IA",3,7,8,1,7,10,4,9,5,18,2010
+28821,"Fort Dodge, IA","Osage, IA",4,10,4,1,9,8,10,4,4,18,2010
+28806,"Fort Dodge, IA","Newell, IA",4,10,3,7,8,2,5,6,6,17,2010
+28930,"Fort Dodge, IA","Stanhope, IA",6,9,2,1,10,6,5,6,6,17,2010
+28573,"Fort Dodge, IA","De Soto, IA",4,10,3,2,10,5,5,5,7,17,2010
+28748,"Fort Dodge, IA","Madrid, IA",2,9,6,2,11,4,2,2,13,17,2010
+28863,"Fort Dodge, IA","Randall, IA",6,9,2,5,8,4,5,6,6,17,2010
+28683,"Fort Dodge, IA","Ida Grove, IA",3,8,5,1,8,7,7,7,2,16,2010
+28885,"Fort Dodge, IA","Rock Valley, IA",4,7,5,1,9,6,7,5,4,16,2010
+28702,"Fort Dodge, IA","Keokuk, IA",4,8,4,7,4,5,2,6,8,16,2010
+28812,"Fort Dodge, IA","Northwood, IA",2,12,2,4,5,7,2,6,8,16,2010
+28645,"Fort Dodge, IA","Grand Junction, IA",3,10,3,2,12,2,3,9,4,16,2010
+28813,"Fort Dodge, IA","Norwalk, IA",5,10,1,0,7,9,5,6,5,16,2010
+28565,"Fort Dodge, IA","Cushing, IA",4,6,5,2,9,4,3,9,3,15,2010
+28818,"Fort Dodge, IA","Ogden, IA",5,7,3,2,6,7,7,4,4,15,2010
+28903,"Fort Dodge, IA","Schaller, IA",2,9,4,1,11,3,7,5,3,15,2010
+28689,"Fort Dodge, IA","Iowa Falls, IA",3,8,4,3,3,9,6,6,3,15,2010
+28825,"Fort Dodge, IA","Ottumwa, IA",4,6,4,1,5,8,6,5,3,14,2010
+28920,"Fort Dodge, IA","Sloan, IA",4,7,3,3,5,6,5,5,4,14,2010
+28795,"Fort Dodge, IA","Mount Pleasant, IA",2,9,3,7,2,5,2,8,4,14,2010
+28594,"Fort Dodge, IA","Early, IA",2,8,4,1,9,4,8,5,1,14,2010
+28644,"Fort Dodge, IA","Graettinger, IA",6,4,3,1,6,6,7,5,1,13,2010
+28839,"Fort Dodge, IA","Perry, IA",3,8,2,2,6,5,2,4,7,13,2010
+28625,"Fort Dodge, IA","Forest City, IA",1,12,0,1,5,7,4,5,4,13,2010
+28628,"Fort Dodge, IA","Fort Madison, IA",3,6,4,5,3,5,3,7,3,13,2010
+28686,"Fort Dodge, IA","Inwood, IA",4,7,2,0,9,4,6,5,2,13,2010
+28991,"Fort Dodge, IA","Westside, IA",5,3,5,2,6,5,5,6,2,13,2010
+28533,"Fort Dodge, IA","Cherokee, IA",3,8,2,0,7,6,5,3,5,13,2010
+28470,"Fort Dodge, IA","Asbury, IA",8,3,2,2,3,8,5,4,4,13,2010
+28471,"Fort Dodge, IA","Ashton, IA",6,6,1,0,10,3,6,4,3,13,2010
+28682,"Fort Dodge, IA","Huxley, IA",1,9,2,1,8,3,0,6,6,12,2010
+28469,"Fort Dodge, IA","Arthur, IA",2,8,2,1,8,3,2,9,1,12,2010
+28473,"Fort Dodge, IA","Atlantic, IA",1,9,2,1,3,8,2,6,4,12,2010
+28996,"Fort Dodge, IA","Willey, IA",5,4,3,0,7,5,4,5,3,12,2010
+28905,"Fort Dodge, IA","Sergeant Bluff, IA",7,4,1,0,2,10,6,4,2,12,2010
+28607,"Fort Dodge, IA","Emmetsburg, IA",5,3,4,0,10,2,5,2,5,12,2010
+28642,"Fort Dodge, IA","Glidden, IA",3,8,1,0,11,1,3,9,0,12,2010
+28535,"Fort Dodge, IA","Churdan, IA",3,7,1,1,6,4,6,3,2,11,2010
+28898,"Fort Dodge, IA","Sageville, IA",5,4,2,2,4,5,6,5,0,11,2010
+28571,"Fort Dodge, IA","Dawson, IA",3,6,2,0,9,2,4,3,4,11,2010
+28999,"Fort Dodge, IA","Wilton, IA",2,7,2,3,3,5,3,3,5,11,2010
+28575,"Fort Dodge, IA","Decorah, IA",3,4,4,0,4,7,3,4,4,11,2010
+28708,"Fort Dodge, IA","Knoxville, IA",1,9,1,0,4,7,3,3,5,11,2010
+28715,"Fort Dodge, IA","Lake View, IA",5,3,3,2,4,5,2,7,2,11,2010
+28848,"Fort Dodge, IA","Polk City, IA",5,6,0,0,7,4,7,0,4,11,2010
+28916,"Fort Dodge, IA","Sioux Center, IA",4,5,2,0,8,3,3,4,4,11,2010
+28655,"Fort Dodge, IA","Grinnell, IA",3,5,3,1,4,6,4,4,3,11,2010
+28837,"Fort Dodge, IA","Pella, IA",4,7,0,1,5,5,5,2,4,11,2010
+28452,"Fort Dodge, IA","Akron, IA",6,4,1,2,6,3,0,9,2,11,2010
+28506,"Fort Dodge, IA","Britt, IA",0,7,4,0,6,5,1,6,4,11,2010
+28636,"Fort Dodge, IA","Garner, IA",5,4,1,0,5,5,5,5,0,10,2010
+28754,"Fort Dodge, IA","Manning, IA",5,3,2,2,3,5,2,6,2,10,2010
+29002,"Fort Dodge, IA","Winterset, IA",2,5,3,0,6,4,1,5,4,10,2010
+28685,"Fort Dodge, IA","Indianola, IA",3,4,3,1,6,3,3,5,2,10,2010
+28884,"Fort Dodge, IA","Rock Rapids, IA",2,5,3,0,8,2,6,1,3,10,2010
+28601,"Fort Dodge, IA","Elk Run Heights, IA",5,5,0,0,3,7,4,3,3,10,2010
+28568,"Fort Dodge, IA","Danbury, IA",1,7,2,1,6,3,2,4,4,10,2010
+28753,"Fort Dodge, IA","Manly, IA",3,7,0,0,2,8,0,7,3,10,2010
+28886,"Fort Dodge, IA","Rockford, IA",2,6,2,4,1,5,1,4,5,10,2010
+28457,"Fort Dodge, IA","Alton, IA",4,2,4,2,4,4,5,3,2,10,2010
+28772,"Fort Dodge, IA","Merrill, IA",3,5,2,1,7,2,3,5,2,10,2010
+28532,"Fort Dodge, IA","Charter Oak, IA",1,7,1,1,6,2,3,1,5,9,2010
+28787,"Fort Dodge, IA","Montrose, IA",1,4,4,3,0,6,1,4,4,9,2010
+28497,"Fort Dodge, IA","Bondurant, IA",4,4,1,2,5,2,1,5,3,9,2010
+28554,"Fort Dodge, IA","Corwith, IA",2,4,3,0,4,5,2,3,4,9,2010
+28810,"Fort Dodge, IA","Nora Springs, IA",3,2,4,3,2,4,5,3,1,9,2010
+28468,"Fort Dodge, IA","Arnolds Park, IA",5,2,2,0,7,2,5,2,2,9,2010
+28561,"Fort Dodge, IA","Creston, IA",1,4,4,0,4,5,4,2,3,9,2010
+28597,"Fort Dodge, IA","Elberon, IA",2,5,2,1,3,5,2,2,5,9,2010
+28620,"Fort Dodge, IA","Fenton, IA",1,5,2,0,4,4,2,6,0,8,2010
+28520,"Fort Dodge, IA","Carter Lake, IA",3,3,2,1,3,4,2,4,2,8,2010
+28943,"Fort Dodge, IA","Superior, IA",4,3,1,1,3,4,3,1,4,8,2010
+28616,"Fort Dodge, IA","Fairfield, IA",4,2,2,0,4,4,2,4,2,8,2010
+28913,"Fort Dodge, IA","Sibley, IA",0,7,1,1,4,3,1,3,4,8,2010
+28985,"Fort Dodge, IA","West Burlington, IA",1,4,3,3,1,4,0,4,4,8,2010
+28822,"Fort Dodge, IA","Oskaloosa, IA",1,5,2,2,1,5,1,0,7,8,2010
+28654,"Fort Dodge, IA","Grimes, IA",4,3,1,1,2,5,1,5,2,8,2010
+28966,"Fort Dodge, IA","Walford, IA",2,5,1,0,2,6,3,3,2,8,2010
+28956,"Fort Dodge, IA","Traer, IA",3,4,1,1,3,4,2,4,2,8,2010
+28477,"Fort Dodge, IA","Bagley, IA",2,1,5,0,8,0,2,3,3,8,2010
+28771,"Fort Dodge, IA","Meriden, IA",3,3,2,0,7,1,2,5,1,8,2010
+28576,"Fort Dodge, IA","Dedham, IA",1,3,4,4,2,2,3,1,4,8,2010
+28959,"Fort Dodge, IA","University Heights, IA",3,5,0,1,2,5,1,3,4,8,2010
+28567,"Fort Dodge, IA","Dallas Center, IA",2,6,0,1,2,5,2,5,1,8,2010
+28894,"Fort Dodge, IA","Ruthven, IA",2,4,2,2,3,3,4,3,1,8,2010
+28826,"Fort Dodge, IA","Oxford, IA",3,5,0,1,2,5,3,3,2,8,2010
+28836,"Fort Dodge, IA","Paullina, IA",4,3,1,1,5,2,4,2,2,8,2010
+28464,"Fort Dodge, IA","Arcadia, IA",2,4,1,0,2,5,3,2,2,7,2010
+28832,"Fort Dodge, IA","Panora, IA",3,1,3,1,3,3,5,2,0,7,2010
+28455,"Fort Dodge, IA","Alden, IA",1,4,2,2,4,1,2,1,4,7,2010
+28646,"Fort Dodge, IA","Grandview, IA",2,4,1,2,3,2,3,1,3,7,2010
+28709,"Fort Dodge, IA","La Porte City, IA",4,2,1,0,5,2,4,3,0,7,2010
+28912,"Fort Dodge, IA","Shenandoah, IA",3,4,0,2,1,4,0,6,1,7,2010
+28733,"Fort Dodge, IA","Lidderdale, IA",0,5,2,0,3,4,1,4,2,7,2010
+28546,"Fort Dodge, IA","Colfax, IA",2,3,2,0,3,4,4,1,2,7,2010
+28547,"Fort Dodge, IA","Colo, IA",0,5,2,1,3,3,1,2,4,7,2010
+28629,"Fort Dodge, IA","Fostoria, IA",2,2,3,1,1,5,2,5,0,7,2010
+28611,"Fort Dodge, IA","Everly, IA",1,3,3,2,3,2,3,1,3,7,2010
+28612,"Fort Dodge, IA","Exira, IA",1,3,3,0,2,5,2,3,2,7,2010
+28879,"Fort Dodge, IA","Rippey, IA",2,4,1,0,4,3,2,4,1,7,2010
+28904,"Fort Dodge, IA","Schleswig, IA",3,3,1,0,3,4,2,5,0,7,2010
+28954,"Fort Dodge, IA","Titonka, IA",3,4,0,1,5,1,2,0,5,7,2010
+28774,"Fort Dodge, IA","Milford, IA",2,2,3,0,4,3,5,2,0,7,2010
+28769,"Fort Dodge, IA","Mediapolis, IA",1,3,3,2,1,4,1,4,2,7,2010
+28841,"Fort Dodge, IA","Pierson, IA",1,5,1,0,4,3,3,2,2,7,2010
+28778,"Fort Dodge, IA","Minburn, IA",4,2,1,1,3,3,3,2,2,7,2010
+28987,"Fort Dodge, IA","West Liberty, IA",1,4,2,5,2,0,0,3,4,7,2010
+28583,"Fort Dodge, IA","Dickens, IA",2,4,0,3,3,0,0,2,4,6,2010
+28556,"Fort Dodge, IA","Coulter, IA",2,3,1,0,4,2,4,2,0,6,2010
+28552,"Fort Dodge, IA","Coralville, IA",1,5,0,0,3,3,1,3,2,6,2010
+28530,"Fort Dodge, IA","Chariton, IA",0,5,1,1,4,1,0,2,4,6,2010
+28599,"Fort Dodge, IA","Eldridge, IA",1,5,0,0,2,4,1,5,0,6,2010
+28972,"Fort Dodge, IA","Washington, IA",4,2,0,0,2,4,4,1,1,6,2010
+28690,"Fort Dodge, IA","Ireton, IA",2,0,4,0,3,3,3,2,1,6,2010
+28667,"Fort Dodge, IA","Hartley, IA",1,4,1,3,2,1,1,3,2,6,2010
+28784,"Fort Dodge, IA","Monroe, IA",3,2,1,0,4,2,3,2,1,6,2010
+28678,"Fort Dodge, IA","Hospers, IA",4,1,1,0,6,0,3,2,1,6,2010
+28747,"Fort Dodge, IA","Lynnville, IA",0,4,2,0,0,6,0,4,2,6,2010
+28701,"Fort Dodge, IA","Kensett, IA",3,3,0,0,2,4,3,3,0,6,2010
+28587,"Fort Dodge, IA","Donnellson, IA",1,3,2,2,3,1,2,1,3,6,2010
+28952,"Fort Dodge, IA","Thornton, IA",1,4,1,1,2,3,2,3,1,6,2010
+28659,"Fort Dodge, IA","Guttenberg, IA",3,2,1,1,2,3,2,2,2,6,2010
+28881,"Fort Dodge, IA","Riverside, IA",3,3,0,0,3,3,1,3,2,6,2010
+28811,"Fort Dodge, IA","North Liberty, IA",1,4,1,3,2,1,2,1,3,6,2010
+28560,"Fort Dodge, IA","Cresco, IA",1,3,2,2,2,2,1,2,3,6,2010
+28499,"Fort Dodge, IA","Boxholm, IA",1,5,0,0,5,1,2,2,2,6,2010
+28797,"Fort Dodge, IA","Moville, IA",2,3,1,0,2,4,1,3,2,6,2010
+28638,"Fort Dodge, IA","George, IA",2,2,2,0,5,1,3,2,1,6,2010
+28639,"Fort Dodge, IA","Gilbert, IA",2,4,0,0,4,2,1,1,4,6,2010
+28875,"Fort Dodge, IA","Rhodes, IA",2,4,0,1,2,3,2,3,1,6,2010
+28483,"Fort Dodge, IA","Bayard, IA",1,5,0,0,3,3,3,3,0,6,2010
+28493,"Fort Dodge, IA","Blakesburg, IA",1,2,3,0,2,4,3,1,2,6,2010
+28563,"Fort Dodge, IA","Crystal Lake, IA",1,3,2,2,3,1,2,4,0,6,2010
+28874,"Fort Dodge, IA","Renwick, IA",0,4,2,0,3,3,1,4,1,6,2010
+28720,"Fort Dodge, IA","Larchwood, IA",0,4,2,0,4,2,3,1,2,6,2010
+28873,"Fort Dodge, IA","Remsen, IA",2,2,2,0,2,4,2,4,0,6,2010
+28856,"Fort Dodge, IA","Primghar, IA",3,3,0,1,3,2,3,3,0,6,2010
+28718,"Fort Dodge, IA","Lamoni, IA",2,1,2,0,1,4,3,2,0,5,2010
+28781,"Fort Dodge, IA","Mitchellville, IA",1,3,1,1,3,1,0,2,3,5,2010
+28735,"Fort Dodge, IA","Linden, IA",0,5,0,1,1,3,2,2,1,5,2010
+28758,"Fort Dodge, IA","Marble Rock, IA",2,2,1,1,2,2,0,2,3,5,2010
+28840,"Fort Dodge, IA","Peterson, IA",2,1,2,0,4,1,2,3,0,5,2010
+28779,"Fort Dodge, IA","Missouri Valley, IA",2,2,1,0,0,5,3,1,1,5,2010
+28833,"Fort Dodge, IA","Panorama Park, IA",1,2,2,0,3,2,0,4,1,5,2010
+28835,"Fort Dodge, IA","Patterson, IA",2,2,1,0,1,4,0,4,1,5,2010
+28927,"Fort Dodge, IA","St. Marys, IA",3,2,0,1,3,1,1,2,2,5,2010
+28752,"Fort Dodge, IA","Manilla, IA",2,0,3,1,1,3,2,3,0,5,2010
+28890,"Fort Dodge, IA","Roland, IA",1,2,2,2,0,3,2,3,0,5,2010
+28751,"Fort Dodge, IA","Manchester, IA",0,5,0,0,1,4,3,1,1,5,2010
+28908,"Fort Dodge, IA","Sheffield, IA",1,4,0,1,4,0,0,3,2,5,2010
+28838,"Fort Dodge, IA","Peosta, IA",1,3,1,1,4,0,3,2,0,5,2010
+28527,"Fort Dodge, IA","Center Point, IA",3,1,1,1,2,2,2,3,0,5,2010
+28684,"Fort Dodge, IA","Independence, IA",2,2,1,0,0,5,2,1,2,5,2010
+28648,"Fort Dodge, IA","Grant, IA",1,3,1,1,0,4,1,3,1,5,2010
+28977,"Fort Dodge, IA","Waverly, IA",2,3,0,1,2,2,2,0,3,5,2010
+28653,"Fort Dodge, IA","Greenville, IA",3,2,0,2,2,1,2,2,1,5,2010
+28574,"Fort Dodge, IA","De Witt, IA",1,2,2,0,2,3,2,1,2,5,2010
+28937,"Fort Dodge, IA","Story City, IA",0,2,3,0,4,1,1,2,2,5,2010
+28953,"Fort Dodge, IA","Tipton, IA",1,2,2,1,3,1,1,2,2,5,2010
+28582,"Fort Dodge, IA","Dexter, IA",1,2,2,0,2,3,1,2,2,5,2010
+28971,"Fort Dodge, IA","Wapello, IA",0,5,0,0,1,4,3,2,0,5,2010
+28490,"Fort Dodge, IA","Bertram, IA",2,3,0,0,2,3,1,3,1,5,2010
+28485,"Fort Dodge, IA","Bedford, IA",0,3,2,0,1,4,1,4,0,5,2010
+28998,"Fort Dodge, IA","Williamsburg, IA",3,1,1,0,0,5,3,2,0,5,2010
+28467,"Fort Dodge, IA","Armstrong, IA",1,2,2,0,5,0,4,1,0,5,2010
+28454,"Fort Dodge, IA","Albia, IA",2,2,1,0,1,4,3,0,2,5,2010
+28448,"Fort Dodge, IA","Adel, IA",0,2,3,0,2,3,2,1,2,5,2010
+28960,"Fort Dodge, IA","University Park, IA",1,3,1,0,1,4,2,2,1,5,2010
+28598,"Fort Dodge, IA","Eldon, IA",1,2,2,0,1,4,2,1,2,5,2010
+28955,"Fort Dodge, IA","Toledo, IA",1,1,3,0,2,3,2,1,2,5,2010
+28585,"Fort Dodge, IA","Dixon, IA",2,2,1,1,3,1,2,2,1,5,2010
+28647,"Fort Dodge, IA","Granger, IA",2,1,2,1,1,3,2,1,2,5,2010
+28595,"Fort Dodge, IA","East Peru, IA",2,1,1,1,1,2,3,1,0,4,2010
+28757,"Fort Dodge, IA","Maquoketa, IA",0,3,1,1,0,3,0,2,2,4,2010
+28580,"Fort Dodge, IA","Denver, IA",2,0,2,1,3,0,2,1,1,4,2010
+28767,"Fort Dodge, IA","McIntire, IA",1,2,1,1,2,1,0,3,1,4,2010
+28578,"Fort Dodge, IA","Deloit, IA",2,2,0,1,0,3,1,2,1,4,2010
+28764,"Fort Dodge, IA","Maurice, IA",1,2,1,0,3,1,1,2,1,4,2010
+28602,"Fort Dodge, IA","Elkader, IA",1,1,2,1,1,2,2,1,1,4,2010
+28773,"Fort Dodge, IA","Middletown, IA",0,4,0,2,1,1,0,3,1,4,2010
+28891,"Fort Dodge, IA","Royal, IA",1,2,1,3,1,0,1,1,2,4,2010
+28549,"Fort Dodge, IA","Colwell, IA",2,0,2,0,3,1,3,1,0,4,2010
+28780,"Fort Dodge, IA","Mitchell, IA",2,1,1,0,1,3,3,1,0,4,2010
+28548,"Fort Dodge, IA","Columbus Junction, IA",1,2,1,0,1,3,2,1,1,4,2010
+28900,"Fort Dodge, IA","Sanborn, IA",0,2,2,2,1,1,1,2,1,4,2010
+28545,"Fort Dodge, IA","Coggon, IA",3,1,0,1,1,2,2,1,1,4,2010
+28929,"Fort Dodge, IA","Stacyville, IA",1,2,1,2,1,1,2,1,1,4,2010
+28538,"Fort Dodge, IA","Clarinda, IA",1,1,2,0,1,3,2,1,1,4,2010
+28528,"Fort Dodge, IA","Centerville, IA",1,1,2,0,1,3,1,2,1,4,2010
+29011,"Fort Dodge, IA","Zearing, IA",1,3,0,0,2,2,3,0,1,4,2010
+28834,"Fort Dodge, IA","Parkersburg, IA",3,1,0,0,1,3,3,0,1,4,2010
+28451,"Fort Dodge, IA","Ainsworth, IA",1,2,1,0,2,2,0,3,1,4,2010
+28453,"Fort Dodge, IA","Albert City, IA",0,3,1,1,1,2,0,3,1,4,2010
+28830,"Fort Dodge, IA","Palo, IA",0,4,0,0,1,3,2,1,1,4,2010
+28460,"Fort Dodge, IA","Anamosa, IA",2,2,0,0,1,3,3,1,0,4,2010
+28827,"Fort Dodge, IA","Oyens, IA",1,3,0,0,1,3,2,2,0,4,2010
+29009,"Fort Dodge, IA","Wyoming, IA",0,2,2,1,3,0,2,0,2,4,2010
+28817,"Fort Dodge, IA","Oelwein, IA",1,2,1,0,2,2,1,3,0,4,2010
+28872,"Fort Dodge, IA","Reinbeck, IA",2,2,0,0,1,3,1,2,1,4,2010
+28494,"Fort Dodge, IA","Bloomfield, IA",4,0,0,0,4,0,2,2,0,4,2010
+28804,"Fort Dodge, IA","New London, IA",1,2,1,3,1,0,0,1,3,4,2010
+28866,"Fort Dodge, IA","Raymond, IA",1,2,1,1,1,2,2,1,1,4,2010
+28802,"Fort Dodge, IA","New Hampton, IA",1,3,0,2,1,1,0,2,2,4,2010
+28800,"Fort Dodge, IA","Nashua, IA",1,1,2,1,2,1,1,2,1,4,2010
+28514,"Fort Dodge, IA","Camanche, IA",1,1,2,1,2,1,2,1,1,4,2010
+28515,"Fort Dodge, IA","Cambridge, IA",1,2,1,1,2,1,2,0,2,4,2010
+28880,"Fort Dodge, IA","Riverdale, IA",1,2,1,0,1,3,2,1,1,4,2010
+28791,"Fort Dodge, IA","Morrison, IA",2,2,0,0,2,2,2,2,0,4,2010
+28957,"Fort Dodge, IA","Truesdale, IA",1,1,2,1,2,1,2,2,0,4,2010
+28788,"Fort Dodge, IA","Moorhead, IA",1,3,0,0,3,1,1,3,0,4,2010
+28749,"Fort Dodge, IA","Malcom, IA",1,3,0,0,0,4,1,2,1,4,2010
+28584,"Fort Dodge, IA","Dike, IA",1,2,1,0,2,2,0,3,1,4,2010
+28606,"Fort Dodge, IA","Ely, IA",1,1,2,2,2,0,0,2,2,4,2010
+28862,"Fort Dodge, IA","Randalia, IA",0,4,0,1,0,3,0,3,1,4,2010
+28944,"Fort Dodge, IA","Sutherland, IA",1,3,0,0,3,1,2,2,0,4,2010
+28641,"Fort Dodge, IA","Glenwood, IA",1,3,0,1,1,2,2,1,1,4,2010
+28721,"Fort Dodge, IA","Larrabee, IA",1,2,1,0,1,3,3,0,1,4,2010
+28706,"Fort Dodge, IA","Klemme, IA",1,2,1,0,3,1,0,3,1,4,2010
+28950,"Fort Dodge, IA","Terril, IA",0,2,2,0,2,2,1,3,0,4,2010
+28649,"Fort Dodge, IA","Gray, IA",0,4,0,0,3,1,0,3,1,4,2010
+28717,"Fort Dodge, IA","Lambs Grove, IA",2,2,0,0,1,3,1,1,2,4,2010
+28700,"Fort Dodge, IA","Kellogg, IA",0,3,1,1,1,2,0,2,2,4,2010
+28941,"Fort Dodge, IA","Sully, IA",1,3,0,0,2,2,1,2,1,4,2010
+28698,"Fort Dodge, IA","Kamrar, IA",3,1,0,2,1,1,2,1,1,4,2010
+28672,"Fort Dodge, IA","Hawarden, IA",1,2,1,0,3,1,2,2,0,4,2010
+28621,"Fort Dodge, IA","Ferguson, IA",2,1,1,1,0,3,1,2,1,4,2010
+28696,"Fort Dodge, IA","Joice, IA",0,3,1,0,1,3,2,2,0,4,2010
+28676,"Fort Dodge, IA","Hinton, IA",2,1,1,0,2,2,2,2,0,4,2010
+28745,"Fort Dodge, IA","Luana, IA",0,3,1,0,1,3,2,1,1,4,2010
+28743,"Fort Dodge, IA","Long Grove, IA",1,2,1,0,2,2,0,3,1,4,2010
+28614,"Fort Dodge, IA","Fairbank, IA",1,3,0,1,0,3,1,1,2,4,2010
+28666,"Fort Dodge, IA","Harris, IA",1,3,0,0,3,1,1,1,2,4,2010
+28691,"Fort Dodge, IA","Janesville, IA",0,3,1,0,1,3,2,2,0,4,2010
+28746,"Fort Dodge, IA","Luther, IA",0,4,0,2,0,2,0,1,3,4,2010
+28939,"Fort Dodge, IA","Strawberry Point, IA",0,3,1,0,3,1,2,1,1,4,2010
+28725,"Fort Dodge, IA","Le Claire, IA",0,3,1,0,2,2,1,1,2,4,2010
+28993,"Fort Dodge, IA","Wheatland, IA",0,1,2,0,2,1,0,2,1,3,2010
+28495,"Fort Dodge, IA","Blue Grass, IA",0,3,0,1,1,1,0,1,2,3,2010
+28808,"Fort Dodge, IA","Nichols, IA",1,1,1,0,2,1,0,2,1,3,2010
+28854,"Fort Dodge, IA","Prairieburg, IA",1,1,1,0,1,2,2,1,0,3,2010
+28705,"Fort Dodge, IA","Kiron, IA",2,1,0,0,1,2,1,2,0,3,2010
+28500,"Fort Dodge, IA","Boyden, IA",2,1,0,1,2,0,3,0,0,3,2010
+28668,"Fort Dodge, IA","Hartwick, IA",1,2,0,1,1,1,1,0,2,3,2010
+28487,"Fort Dodge, IA","Bellevue, IA",1,0,2,0,0,3,1,2,0,3,2010
+28481,"Fort Dodge, IA","Battle Creek, IA",0,3,0,0,0,3,1,2,0,3,2010
+28924,"Fort Dodge, IA","Springbrook, IA",1,1,1,0,3,0,1,1,1,3,2010
+29008,"Fort Dodge, IA","Worthington, IA",2,1,0,0,1,2,1,1,1,3,2010
+28677,"Fort Dodge, IA","Hopkinton, IA",1,2,0,0,1,2,1,2,0,3,2010
+28449,"Fort Dodge, IA","Afton, IA",1,0,2,0,0,3,1,1,1,3,2010
+28928,"Fort Dodge, IA","St. Paul, IA",0,3,0,1,0,2,0,3,0,3,2010
+28694,"Fort Dodge, IA","Jewell Junction, IA",1,2,0,0,2,1,1,0,2,3,2010
+28868,"Fort Dodge, IA","Reasnor, IA",2,1,0,0,2,1,1,1,1,3,2010
+28674,"Fort Dodge, IA","Hazleton, IA",1,2,0,1,1,1,2,0,1,3,2010
+28925,"Fort Dodge, IA","St. Ansgar, IA",3,0,0,1,0,2,2,1,0,3,2010
+28465,"Fort Dodge, IA","Aredale, IA",0,2,1,0,1,2,1,2,0,3,2010
+28484,"Fort Dodge, IA","Beaman, IA",1,0,2,0,0,3,0,2,1,3,2010
+29006,"Fort Dodge, IA","Woodward, IA",1,1,1,0,2,1,1,2,0,3,2010
+28478,"Fort Dodge, IA","Baldwin, IA",3,0,0,0,1,2,2,1,0,3,2010
+29001,"Fort Dodge, IA","Winfield, IA",1,2,0,1,1,1,1,1,1,3,2010
+28658,"Fort Dodge, IA","Guthrie Center, IA",1,1,1,0,0,3,1,1,1,3,2010
+28482,"Fort Dodge, IA","Baxter, IA",2,1,0,0,1,2,3,0,0,3,2010
+28933,"Fort Dodge, IA","State Center, IA",2,0,1,0,2,1,0,1,2,3,2010
+28669,"Fort Dodge, IA","Harvey, IA",0,2,1,0,1,2,1,1,1,3,2010
+28660,"Fort Dodge, IA","Hamburg, IA",2,1,0,0,1,2,1,2,0,3,2010
+28857,"Fort Dodge, IA","Princeton, IA",3,0,0,0,1,2,0,3,0,3,2010
+28859,"Fort Dodge, IA","Protivin, IA",3,0,0,0,0,3,0,3,0,3,2010
+28564,"Fort Dodge, IA","Curlew, IA",2,1,0,0,0,3,2,1,0,3,2010
+28846,"Fort Dodge, IA","Plymouth, IA",0,3,0,0,0,3,0,0,3,3,2010
+28963,"Fort Dodge, IA","Van Meter, IA",2,1,0,0,2,1,0,2,1,3,2010
+28732,"Fort Dodge, IA","Lewis, IA",2,0,1,1,0,2,1,2,0,3,2010
+28630,"Fort Dodge, IA","Fraser, IA",1,2,0,0,3,0,0,2,1,3,2010
+28626,"Fort Dodge, IA","Fort Atkinson, IA",2,0,1,0,1,2,0,3,0,3,2010
+28737,"Fort Dodge, IA","Lisbon, IA",1,2,0,1,1,1,0,2,1,3,2010
+28618,"Fort Dodge, IA","Farmersburg, IA",1,1,1,0,1,2,1,1,1,3,2010
+28586,"Fort Dodge, IA","Dolliver, IA",0,1,2,0,2,1,2,0,1,3,2010
+28760,"Fort Dodge, IA","Marion, IA",1,1,1,1,1,1,2,1,0,3,2010
+28591,"Fort Dodge, IA","Dyersville, IA",0,3,0,0,3,0,1,2,0,3,2010
+28961,"Fort Dodge, IA","Urbana, IA",2,1,0,1,1,1,0,1,2,3,2010
+28615,"Fort Dodge, IA","Fairfax, IA",1,1,1,0,3,0,3,0,0,3,2010
+28756,"Fort Dodge, IA","Mapleton, IA",2,1,0,0,1,2,0,3,0,3,2010
+28741,"Fort Dodge, IA","Logan, IA",1,2,0,0,0,3,2,0,1,3,2010
+28596,"Fort Dodge, IA","Eddyville, IA",0,3,0,0,1,2,1,0,2,3,2010
+28964,"Fort Dodge, IA","Vinton, IA",2,1,0,1,1,1,1,2,0,3,2010
+28558,"Fort Dodge, IA","Craig, IA",1,1,1,0,1,2,0,2,1,3,2010
+28921,"Fort Dodge, IA","Soldier, IA",0,2,1,1,1,1,0,3,0,3,2010
+28633,"Fort Dodge, IA","Fruitland, IA",0,3,0,1,0,2,0,2,1,3,2010
+28508,"Fort Dodge, IA","Buck Grove, IA",1,2,0,1,1,1,1,2,0,3,2010
+28919,"Fort Dodge, IA","Slater, IA",3,0,0,0,3,0,3,0,0,3,2010
+28796,"Fort Dodge, IA","Mount Union, IA",0,3,0,1,1,1,0,3,0,3,2010
+28983,"Fort Dodge, IA","West Bend, IA",0,1,2,0,1,2,1,1,1,3,2010
+28978,"Fort Dodge, IA","Webb, IA",1,2,0,2,0,1,1,2,0,3,2010
+28716,"Fort Dodge, IA","Lakeside, IA",2,1,0,0,3,0,2,1,0,3,2010
+28918,"Fort Dodge, IA","Sioux Rapids, IA",1,2,0,2,0,1,1,2,0,3,2010
+28976,"Fort Dodge, IA","Waukon, IA",2,1,0,0,1,2,1,1,1,3,2010
+28541,"Fort Dodge, IA","Clearfield, IA",3,0,0,0,1,2,2,1,0,3,2010
+28635,"Fort Dodge, IA","Garnavillo, IA",1,0,2,0,3,0,1,0,2,3,2010
+28915,"Fort Dodge, IA","Silver City, IA",1,1,1,0,0,3,1,2,0,3,2010
+28946,"Fort Dodge, IA","Swea City, IA",2,1,0,2,0,1,1,1,1,3,2010
+28550,"Fort Dodge, IA","Conrad, IA",3,0,0,0,0,3,2,1,0,3,2010
+28888,"Fort Dodge, IA","Rockwell, IA",1,1,1,0,2,1,1,1,1,3,2010
+28969,"Fort Dodge, IA","Wallingford, IA",2,0,1,1,1,1,1,2,0,3,2010
+28861,"Fort Dodge, IA","Rake, IA",0,2,0,0,2,0,1,1,0,2,2010
+28445,"Fort Dodge, IA","Ackley, IA",1,1,0,0,2,0,1,1,0,2,2010
+28871,"Fort Dodge, IA","Redfield, IA",0,2,0,0,2,0,1,0,1,2,2010
+28876,"Fort Dodge, IA","Richland, IA",0,1,1,0,1,1,0,1,1,2,2010
+28877,"Fort Dodge, IA","Ridgeway, IA",0,1,1,0,1,1,1,0,1,2,2010
+28882,"Fort Dodge, IA","Riverton, IA",0,2,0,0,2,0,0,2,0,2,2010
+28893,"Fort Dodge, IA","Russell, IA",0,2,0,1,0,1,0,0,2,2,2010
+28907,"Fort Dodge, IA","Shannon City, IA",0,2,0,0,0,2,0,1,1,2,2010
+28911,"Fort Dodge, IA","Shell Rock, IA",0,2,0,0,0,2,0,1,1,2,2010
+28931,"Fort Dodge, IA","Stanley, IA",1,1,0,0,0,2,1,0,1,2,2010
+28932,"Fort Dodge, IA","Stanton, IA",0,2,0,2,0,0,0,0,2,2,2010
+28940,"Fort Dodge, IA","Stuart, IA",2,0,0,0,2,0,0,2,0,2,2010
+28967,"Fort Dodge, IA","Walker, IA",0,2,0,0,0,2,0,2,0,2,2010
+28981,"Fort Dodge, IA","Wellman, IA",1,0,1,0,1,1,1,1,0,2,2010
+28988,"Fort Dodge, IA","West Okoboji, IA",1,1,0,0,2,0,1,1,0,2,2010
+28992,"Fort Dodge, IA","What Cheer, IA",1,1,0,0,1,1,1,1,0,2,2010
+28995,"Fort Dodge, IA","Whitten, IA",0,0,2,1,1,0,0,0,2,2,2010
+28942,"Fort Dodge, IA","Sumner, IA",2,0,0,0,0,2,0,1,1,2,2010
+29012,"Fort Dodge, IA","Zwingle, IA",1,1,0,0,2,0,0,0,2,2,2010
+28740,"Fort Dodge, IA","Lockridge, IA",1,0,1,0,1,1,0,2,0,2,2010
+28768,"Fort Dodge, IA","Mechanicsville, IA",0,1,1,1,1,0,1,0,1,2,2010
+28536,"Fort Dodge, IA","Cincinnati, IA",1,0,1,0,0,2,1,1,0,2,2010
+28534,"Fort Dodge, IA","Chester, IA",0,1,1,0,0,2,0,1,1,2,2010
+28529,"Fort Dodge, IA","Central City, IA",0,1,1,0,0,2,1,0,1,2,2010
+28723,"Fort Dodge, IA","Lawler, IA",0,1,1,0,0,2,0,1,1,2,2010
+28724,"Fort Dodge, IA","Lawton, IA",1,0,1,0,1,1,0,2,0,2,2010
+28526,"Fort Dodge, IA","Center Junction, IA",1,1,0,0,1,1,1,1,0,2,2010
+28523,"Fort Dodge, IA","Castana, IA",0,1,1,0,2,0,0,2,0,2,2010
+28522,"Fort Dodge, IA","Castalia, IA",1,1,0,0,0,2,1,1,0,2,2010
+28730,"Fort Dodge, IA","Lenox, IA",1,1,0,0,1,1,1,1,0,2,2010
+28734,"Fort Dodge, IA","Lime Springs, IA",0,1,1,0,1,1,0,2,0,2,2010
+28521,"Fort Dodge, IA","Casey, IA",2,0,0,0,1,1,1,0,1,2,2010
+28744,"Fort Dodge, IA","Low Moor, IA",0,1,1,0,0,2,0,1,1,2,2010
+28512,"Fort Dodge, IA","Bussey, IA",1,1,0,0,0,2,1,1,0,2,2010
+28510,"Fort Dodge, IA","Buffalo, IA",1,1,0,1,1,0,0,1,1,2,2010
+28750,"Fort Dodge, IA","Malvern, IA",0,1,1,0,0,2,0,1,1,2,2010
+28704,"Fort Dodge, IA","Kingsley, IA",0,1,1,0,2,0,0,0,2,2,2010
+28697,"Fort Dodge, IA","Kalona, IA",1,1,0,0,0,2,1,1,0,2,2010
+28693,"Fort Dodge, IA","Jesup, IA",1,1,0,0,1,1,1,0,1,2,2010
+28651,"Fort Dodge, IA","Greene, IA",0,2,0,0,1,1,0,1,1,2,2010
+28632,"Fort Dodge, IA","Fremont, IA",1,1,0,1,1,0,1,0,1,2,2010
+28605,"Fort Dodge, IA","Elma, IA",0,1,1,1,1,0,1,0,1,2,2010
+28592,"Fort Dodge, IA","Dysart, IA",1,0,1,0,2,0,1,0,1,2,2010
+28637,"Fort Dodge, IA","Geneva, IA",0,2,0,0,0,2,1,0,1,2,2010
+28640,"Fort Dodge, IA","Gilman, IA",1,1,0,0,0,2,2,0,0,2,2010
+28650,"Fort Dodge, IA","Greeley, IA",0,2,0,0,2,0,0,0,2,2,2010
+28588,"Fort Dodge, IA","Doon, IA",0,2,0,0,2,0,1,0,1,2,2010
+28687,"Fort Dodge, IA","Ionia, IA",1,1,0,0,2,0,1,1,0,2,2010
+28657,"Fort Dodge, IA","Guernsey, IA",1,1,0,1,0,1,1,0,1,2,2010
+28665,"Fort Dodge, IA","Harlan, IA",1,1,0,0,0,2,1,1,0,2,2010
+28559,"Fort Dodge, IA","Crescent, IA",1,0,1,0,0,2,0,2,0,2,2010
+28673,"Fort Dodge, IA","Hawkeye, IA",0,1,1,0,1,1,1,1,0,2,2010
+28555,"Fort Dodge, IA","Corydon, IA",2,0,0,0,1,1,1,1,0,2,2010
+28680,"Fort Dodge, IA","Hull, IA",0,1,1,0,1,1,0,1,1,2,2010
+28766,"Fort Dodge, IA","McClelland, IA",0,2,0,0,0,2,0,1,1,2,2010
+28622,"Fort Dodge, IA","Floris, IA",1,1,0,0,1,1,1,1,0,2,2010
+28770,"Fort Dodge, IA","Melcher-Dallas, IA",0,2,0,0,2,0,1,1,0,2,2010
+28845,"Fort Dodge, IA","Pleasantville, IA",0,2,0,1,1,0,0,0,2,2,2010
+28479,"Fort Dodge, IA","Balltown, IA",0,1,1,0,1,1,0,2,0,2,2010
+28805,"Fort Dodge, IA","New Sharon, IA",0,1,1,0,0,2,0,2,0,2,2010
+28803,"Fort Dodge, IA","New Hartford, IA",1,1,0,0,1,1,1,0,1,2,2010
+28831,"Fort Dodge, IA","Panama, IA",0,1,1,0,0,2,1,1,0,2,2010
+28793,"Fort Dodge, IA","Mount Auburn, IA",0,2,0,0,1,1,0,1,1,2,2010
+28790,"Fort Dodge, IA","Morley, IA",0,1,1,0,0,2,0,2,0,2,2010
+28786,"Fort Dodge, IA","Monticello, IA",2,0,0,0,0,2,1,1,0,2,2010
+28842,"Fort Dodge, IA","Plainfield, IA",1,1,0,0,0,2,1,1,0,2,2010
+28816,"Fort Dodge, IA","Ocheyedan, IA",0,2,0,1,1,0,1,1,0,2,2010
+28783,"Fort Dodge, IA","Monona, IA",1,1,0,1,0,1,0,1,1,2,2010
+28450,"Fort Dodge, IA","Agency, IA",0,2,0,0,1,1,1,1,0,2,2010
+28463,"Fort Dodge, IA","Anthon, IA",2,0,0,0,1,1,2,0,0,2,2010
+28851,"Fort Dodge, IA","Portsmouth, IA",0,1,1,0,0,2,0,1,1,2,2010
+28502,"Fort Dodge, IA","Brandon, IA",2,0,0,0,2,0,1,1,0,2,2010
+28853,"Fort Dodge, IA","Prairie City, IA",0,2,0,0,1,1,0,0,2,2,2010
+28503,"Fort Dodge, IA","Brayton, IA",2,0,0,0,2,0,1,1,0,2,2010
+28814,"Fort Dodge, IA","Oakland, IA",0,1,1,1,0,1,0,0,2,2,2010
+28777,"Fort Dodge, IA","Milton, IA",0,2,0,0,2,0,0,1,1,2,2010
+28577,"Fort Dodge, IA","Delaware, IA",1,0,0,0,0,1,1,0,0,1,2010
+28603,"Fort Dodge, IA","Elkport, IA",1,0,0,0,0,1,1,0,0,1,2010
+28466,"Fort Dodge, IA","Arlington, IA",0,1,0,0,0,1,1,0,0,1,2010
+28958,"Fort Dodge, IA","Unionville, IA",0,1,0,0,0,1,0,0,1,1,2010
+28461,"Fort Dodge, IA","Anita, IA",0,1,0,0,1,0,0,0,1,1,2010
+28447,"Fort Dodge, IA","Adair, IA",0,0,1,0,1,0,0,0,1,1,2010
+28965,"Fort Dodge, IA","Wahpeton, IA",1,0,0,0,1,0,0,1,0,1,2010
+28600,"Fort Dodge, IA","Elk Horn, IA",0,1,0,0,1,0,0,1,0,1,2010
+28562,"Fort Dodge, IA","Cromwell, IA",0,1,0,0,1,0,0,1,0,1,2010
+28608,"Fort Dodge, IA","Epworth, IA",0,1,0,1,0,0,0,1,0,1,2010
+28472,"Fort Dodge, IA","Atalissa, IA",0,1,0,1,0,0,0,1,0,1,2010
+29005,"Fort Dodge, IA","Woodbine, IA",0,0,1,0,0,1,1,0,0,1,2010
+28476,"Fort Dodge, IA","Avoca, IA",0,0,1,0,1,0,0,0,1,1,2010
+28613,"Fort Dodge, IA","Exline, IA",0,0,1,0,0,1,1,0,0,1,2010
+28569,"Fort Dodge, IA","Danville, IA",1,0,0,0,0,1,0,1,0,1,2010
+28543,"Fort Dodge, IA","Clio, IA",0,0,1,0,1,0,1,0,0,1,2010
+29003,"Fort Dodge, IA","Wiota, IA",0,1,0,0,1,0,0,0,1,1,2010
+28553,"Fort Dodge, IA","Corning, IA",0,1,0,0,1,0,1,0,0,1,2010
+28507,"Fort Dodge, IA","Bronson, IA",1,0,0,0,0,1,0,1,0,1,2010
+28990,"Fort Dodge, IA","Westfield, IA",0,1,0,0,1,0,0,0,1,1,2010
+28989,"Fort Dodge, IA","West Point, IA",1,0,0,0,1,0,1,0,0,1,2010
+28509,"Fort Dodge, IA","Buffalo Center, IA",1,0,0,0,0,1,0,1,0,1,2010
+28504,"Fort Dodge, IA","Brighton, IA",1,0,0,0,0,1,1,0,0,1,2010
+28516,"Fort Dodge, IA","Cantril, IA",0,1,0,0,1,0,0,0,1,1,2010
+28617,"Fort Dodge, IA","Farley, IA",1,0,0,0,1,0,0,0,1,1,2010
+28984,"Fort Dodge, IA","West Branch, IA",0,1,0,0,1,0,0,1,0,1,2010
+28519,"Fort Dodge, IA","Carson, IA",1,0,0,0,0,1,1,0,0,1,2010
+28982,"Fort Dodge, IA","Welton, IA",0,1,0,0,1,0,0,1,0,1,2010
+28501,"Fort Dodge, IA","Braddyville, IA",1,0,0,0,0,1,0,0,1,1,2010
+28980,"Fort Dodge, IA","Webster, IA",1,0,0,0,0,1,0,1,0,1,2010
+28496,"Fort Dodge, IA","Bonaparte, IA",0,1,0,0,0,1,0,0,1,1,2010
+28492,"Fort Dodge, IA","Blairstown, IA",1,0,0,0,1,0,0,0,1,1,2010
+28489,"Fort Dodge, IA","Bennett, IA",1,0,0,0,0,1,1,0,0,1,2010
+28486,"Fort Dodge, IA","Belle Plaine, IA",0,0,1,0,0,1,0,0,1,1,2010
+28480,"Fort Dodge, IA","Bancroft, IA",0,0,1,0,0,1,0,0,1,1,2010
+28974,"Fort Dodge, IA","Waucoma, IA",1,0,0,0,1,0,0,1,0,1,2010
+28537,"Fort Dodge, IA","Clarence, IA",0,1,0,0,0,1,0,1,0,1,2010
+28505,"Fort Dodge, IA","Bristow, IA",0,1,0,0,0,1,0,1,0,1,2010
+28970,"Fort Dodge, IA","Walnut, IA",0,1,0,1,0,0,0,1,0,1,2010
+28855,"Fort Dodge, IA","Preston, IA",0,1,0,0,1,0,0,1,0,1,2010
+28935,"Fort Dodge, IA","Stockton, IA",0,1,0,1,0,0,0,0,1,1,2010
+28631,"Fort Dodge, IA","Frederika, IA",0,0,1,0,0,1,0,1,0,1,2010
+28789,"Fort Dodge, IA","Moravia, IA",0,1,0,0,0,1,0,1,0,1,2010
+28902,"Fort Dodge, IA","Scarville, IA",0,1,0,0,1,0,0,1,0,1,2010
+28901,"Fort Dodge, IA","Sandyville, IA",1,0,0,0,1,0,1,0,0,1,2010
+28899,"Fort Dodge, IA","Salem, IA",0,0,1,0,0,1,0,1,0,1,2010
+28763,"Fort Dodge, IA","Massena, IA",0,0,1,0,1,0,1,0,0,1,2010
+28765,"Fort Dodge, IA","Maxwell, IA",0,1,0,0,0,1,0,1,0,1,2010
+28896,"Fort Dodge, IA","Sabula, IA",1,0,0,0,0,1,1,0,0,1,2010
+28892,"Fort Dodge, IA","Runnells, IA",0,0,1,0,0,1,1,0,0,1,2010
+28775,"Fort Dodge, IA","Millerton, IA",0,0,1,0,0,1,0,0,1,1,2010
+28776,"Fort Dodge, IA","Millville, IA",1,0,0,0,1,0,1,0,0,1,2010
+28889,"Fort Dodge, IA","Rodney, IA",0,0,1,0,0,1,1,0,0,1,2010
+28782,"Fort Dodge, IA","Mondamin, IA",1,0,0,0,0,1,0,1,0,1,2010
+28785,"Fort Dodge, IA","Montezuma, IA",0,1,0,1,0,0,1,0,0,1,2010
+28792,"Fort Dodge, IA","Moulton, IA",1,0,0,0,0,1,1,0,0,1,2010
+28951,"Fort Dodge, IA","Thompson, IA",1,0,0,0,0,1,1,0,0,1,2010
+28794,"Fort Dodge, IA","Mount Ayr, IA",1,0,0,0,0,1,1,0,0,1,2010
+28798,"Fort Dodge, IA","Murray, IA",0,0,1,0,1,0,0,0,1,1,2010
+28809,"Fort Dodge, IA","Nodaway, IA",1,0,0,0,1,0,0,1,0,1,2010
+28815,"Fort Dodge, IA","Oakville, IA",0,1,0,0,0,1,0,1,0,1,2010
+28828,"Fort Dodge, IA","Pacific Junction, IA",0,0,1,0,0,1,0,1,0,1,2010
+28870,"Fort Dodge, IA","Redding, IA",0,1,0,0,0,1,0,1,0,1,2010
+28869,"Fort Dodge, IA","Red Oak, IA",1,0,0,0,0,1,1,0,0,1,2010
+28867,"Fort Dodge, IA","Readlyn, IA",0,0,1,0,1,0,0,1,0,1,2010
+28865,"Fort Dodge, IA","Rathbun, IA",0,1,0,1,0,0,0,0,1,1,2010
+28864,"Fort Dodge, IA","Randolph, IA",1,0,0,0,0,1,1,0,0,1,2010
+28844,"Fort Dodge, IA","Pleasant Plain, IA",0,1,0,0,0,1,0,1,0,1,2010
+28852,"Fort Dodge, IA","Postville, IA",0,1,0,1,0,0,0,0,1,1,2010
+28742,"Fort Dodge, IA","Lone Rock, IA",0,0,1,0,1,0,0,1,0,1,2010
+28906,"Fort Dodge, IA","Seymour, IA",1,0,0,0,1,0,0,1,0,1,2010
+28738,"Fort Dodge, IA","Liscomb, IA",0,0,1,0,0,1,0,0,1,1,2010
+28736,"Fort Dodge, IA","Lineville, IA",1,0,0,0,1,0,0,1,0,1,2010
+28949,"Fort Dodge, IA","Tennant, IA",0,1,0,0,0,1,1,0,0,1,2010
+28948,"Fort Dodge, IA","Tama, IA",0,1,0,0,0,1,1,0,0,1,2010
+28947,"Fort Dodge, IA","Swisher, IA",1,0,0,0,1,0,0,1,0,1,2010
+28634,"Fort Dodge, IA","Garden Grove, IA",0,1,0,0,0,1,0,1,0,1,2010
+28945,"Fort Dodge, IA","Swan, IA",1,0,0,0,0,1,1,0,0,1,2010
+28652,"Fort Dodge, IA","Greenfield, IA",1,0,0,0,1,0,1,0,0,1,2010
+28656,"Fort Dodge, IA","Grundy Center, IA",0,0,1,0,0,1,0,1,0,1,2010
+28662,"Fort Dodge, IA","Hanlontown, IA",0,1,0,1,0,0,0,0,1,1,2010
+28858,"Fort Dodge, IA","Promise City, IA",0,1,0,0,1,0,0,0,1,1,2010
+28934,"Fort Dodge, IA","Steamboat Rock, IA",1,0,0,0,0,1,1,0,0,1,2010
+28670,"Fort Dodge, IA","Hastings, IA",0,1,0,0,0,1,0,1,0,1,2010
+28679,"Fort Dodge, IA","Hudson, IA",0,1,0,0,0,1,1,0,0,1,2010
+28926,"Fort Dodge, IA","St. Lucas, IA",1,0,0,0,0,1,1,0,0,1,2010
+28699,"Fort Dodge, IA","Kellerton, IA",0,1,0,0,0,1,0,0,1,1,2010
+28703,"Fort Dodge, IA","Keosauqua, IA",0,1,0,0,0,1,0,1,0,1,2010
+28710,"Fort Dodge, IA","Lacona, IA",0,1,0,0,0,1,1,0,0,1,2010
+28711,"Fort Dodge, IA","Ladora, IA",0,1,0,0,1,0,0,0,1,1,2010
+28713,"Fort Dodge, IA","Lake Mills, IA",1,0,0,0,1,0,0,1,0,1,2010
+28714,"Fort Dodge, IA","Lake Park, IA",0,1,0,0,0,1,0,1,0,1,2010
+28719,"Fort Dodge, IA","Lansing, IA",0,1,0,0,0,1,0,1,0,1,2010
+28727,"Fort Dodge, IA","Ledyard, IA",0,1,0,0,0,1,1,0,0,1,2010
+28914,"Fort Dodge, IA","Sidney, IA",0,0,1,0,0,1,0,1,0,1,2010
+28446,"Fort Dodge, IA","Ackworth, IA",0,1,0,0,0,1,1,0,0,1,2010
+28731,"Fort Dodge, IA","Lester, IA",0,1,0,0,1,0,1,0,0,1,2010
+28909,"Fort Dodge, IA","Shelby, IA",1,0,0,0,0,1,1,0,0,1,2010
+28729,"Fort Dodge, IA","Leland, IA",1,0,0,0,1,0,0,1,0,1,2010

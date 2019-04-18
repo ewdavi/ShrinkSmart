@@ -1,0 +1,96 @@
+,home city,work city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+42368,"Madrid, IA","Des Moines, IA",78,296,97,45,366,60,71,103,297,471,2012
+42344,"Madrid, IA","Ames, IA",49,183,79,38,231,42,63,63,185,311,2012
+42345,"Madrid, IA","Ankeny, IA",59,133,37,40,123,66,67,53,109,229,2012
+42361,"Madrid, IA","Clive, IA",62,140,26,3,195,30,35,71,122,228,2012
+42395,"Madrid, IA","Madrid, IA",60,102,43,38,149,18,78,80,47,205,2012
+42351,"Madrid, IA","Boone, IA",46,99,50,23,142,30,38,64,93,195,2012
+42427,"Madrid, IA","Urbandale, IA",30,97,27,13,91,50,20,40,94,154,2012
+42386,"Madrid, IA","Johnston, IA",17,73,19,6,49,54,15,20,74,109,2012
+42428,"Madrid, IA","Waukee, IA",26,54,8,14,61,13,15,19,54,88,2012
+42430,"Madrid, IA","West Des Moines, IA",14,37,7,15,29,14,9,11,38,58,2012
+42432,"Madrid, IA","Windsor Heights, IA",13,33,4,10,30,10,11,15,24,50,2012
+42383,"Madrid, IA","Huxley, IA",10,31,9,6,27,17,14,10,26,50,2012
+42413,"Madrid, IA","Polk City, IA",6,23,11,7,32,1,13,13,14,40,2012
+42402,"Madrid, IA","Nevada, IA",4,17,14,8,26,1,0,7,28,35,2012
+42393,"Madrid, IA","Luther, IA",8,15,9,11,17,4,10,11,11,32,2012
+42343,"Madrid, IA","Altoona, IA",6,17,4,8,10,9,7,11,9,27,2012
+42379,"Madrid, IA","Grimes, IA",4,13,9,9,7,10,6,7,13,26,2012
+42411,"Madrid, IA","Pleasant Hill, IA",3,13,6,7,8,7,8,4,10,22,2012
+42434,"Madrid, IA","Woodward, IA",4,10,7,0,13,8,6,11,4,21,2012
+42422,"Madrid, IA","Stanhope, IA",1,12,7,9,7,4,4,5,11,20,2012
+42410,"Madrid, IA","Perry, IA",5,10,3,3,11,4,3,11,4,18,2012
+42366,"Madrid, IA","Dallas Center, IA",0,11,5,4,12,0,4,3,9,16,2012
+42397,"Madrid, IA","Marshalltown, IA",2,10,3,3,10,2,2,4,9,15,2012
+42418,"Madrid, IA","Slater, IA",6,8,1,1,10,4,6,4,5,15,2012
+42378,"Madrid, IA","Granger, IA",3,6,4,3,8,2,6,2,5,13,2012
+42404,"Madrid, IA","Norwalk, IA",2,9,1,3,6,3,3,4,5,12,2012
+42373,"Madrid, IA","Fort Dodge, IA",4,7,1,3,7,2,1,5,6,12,2012
+42405,"Madrid, IA","Ogden, IA",3,2,3,3,2,3,0,3,5,8,2012
+42355,"Madrid, IA","Carroll, IA",2,5,0,0,3,4,3,3,1,7,2012
+42389,"Madrid, IA","Knoxville, IA",5,2,0,5,1,1,1,1,5,7,2012
+42354,"Madrid, IA","Carlisle, IA",4,3,0,0,7,0,0,5,2,7,2012
+42385,"Madrid, IA","Iowa Falls, IA",0,5,1,0,3,3,0,3,3,6,2012
+42424,"Madrid, IA","Story City, IA",1,5,0,3,2,1,0,2,4,6,2012
+42403,"Madrid, IA","Newton, IA",1,4,1,0,3,3,1,4,1,6,2012
+42429,"Madrid, IA","Webster City, IA",0,4,1,0,0,5,1,0,4,5,2012
+42376,"Madrid, IA","Gilbert, IA",0,2,3,0,3,2,0,1,4,5,2012
+42392,"Madrid, IA","Linden, IA",1,0,3,1,1,2,1,0,3,4,2012
+42384,"Madrid, IA","Indianola, IA",1,2,1,2,1,1,1,1,2,4,2012
+42407,"Madrid, IA","Ottumwa, IA",2,2,0,2,1,1,0,2,2,4,2012
+42377,"Madrid, IA","Gilman, IA",1,3,0,2,1,1,2,0,2,4,2012
+42353,"Madrid, IA","Cambridge, IA",0,2,1,1,2,0,1,2,0,3,2012
+42362,"Madrid, IA","Colo, IA",2,1,0,0,3,0,1,0,2,3,2012
+42382,"Madrid, IA","Harvey, IA",3,0,0,1,0,2,2,1,0,3,2012
+42352,"Madrid, IA","Brooklyn, IA",0,1,2,3,0,0,0,1,2,3,2012
+42359,"Madrid, IA","Clarion, IA",1,1,0,1,1,0,0,1,1,2,2012
+42431,"Madrid, IA","Williams, IA",0,2,0,2,0,0,0,2,0,2,2012
+42363,"Madrid, IA","Coon Rapids, IA",1,1,0,0,0,2,0,0,2,2,2012
+42365,"Madrid, IA","Creston, IA",0,2,0,1,1,0,0,1,1,2,2012
+42367,"Madrid, IA","Dawson, IA",1,1,0,0,0,2,1,0,1,2,2012
+42347,"Madrid, IA","Audubon, IA",0,2,0,0,1,1,0,0,2,2,2012
+42348,"Madrid, IA","Bagley, IA",1,1,0,0,2,0,1,1,0,2,2012
+42369,"Madrid, IA","Dexter, IA",1,1,0,1,0,1,1,0,1,2,2012
+42406,"Madrid, IA","Oskaloosa, IA",0,1,1,0,0,2,0,2,0,2,2012
+42390,"Madrid, IA","Lambs Grove, IA",1,1,0,0,0,2,1,0,1,2,2012
+42346,"Madrid, IA","Atlantic, IA",0,2,0,0,1,1,0,1,1,2,2012
+42349,"Madrid, IA","Baxter, IA",1,1,0,0,0,2,1,0,1,2,2012
+42433,"Madrid, IA","Winterset, IA",1,1,0,0,1,1,2,0,0,2,2012
+42357,"Madrid, IA","Centerville, IA",2,0,0,0,1,1,1,1,0,2,2012
+42380,"Madrid, IA","Grinnell, IA",1,1,0,0,1,1,1,0,1,2,2012
+42374,"Madrid, IA","Fraser, IA",0,0,2,0,2,0,0,1,1,2,2012
+42401,"Madrid, IA","Mount Ayr, IA",1,1,0,0,1,1,0,2,0,2,2012
+42414,"Madrid, IA","Pomeroy, IA",0,0,1,0,0,1,0,0,1,1,2012
+42412,"Madrid, IA","Pleasantville, IA",0,1,0,0,0,1,0,0,1,1,2012
+42415,"Madrid, IA","Rhodes, IA",1,0,0,0,1,0,0,0,1,1,2012
+42416,"Madrid, IA","Richland, IA",0,1,0,1,0,0,0,0,1,1,2012
+42417,"Madrid, IA","Runnells, IA",0,1,0,0,1,0,0,1,0,1,2012
+42420,"Madrid, IA","Spring Hill, IA",1,0,0,0,1,0,0,1,0,1,2012
+42421,"Madrid, IA","St. Marys, IA",1,0,0,1,0,0,0,1,0,1,2012
+42426,"Madrid, IA","Toledo, IA",1,0,0,0,0,1,1,0,0,1,2012
+42425,"Madrid, IA","Tama, IA",0,0,1,0,0,1,1,0,0,1,2012
+42423,"Madrid, IA","Steamboat Rock, IA",0,1,0,0,1,0,1,0,0,1,2012
+42419,"Madrid, IA","South English, IA",0,1,0,0,0,1,1,0,0,1,2012
+42340,"Madrid, IA","Ackworth, IA",0,1,0,0,0,1,0,0,1,1,2012
+42409,"Madrid, IA","Pella, IA",0,0,1,0,1,0,0,1,0,1,2012
+42408,"Madrid, IA","Panora, IA",1,0,0,0,0,1,1,0,0,1,2012
+42342,"Madrid, IA","Albion, IA",0,0,1,1,0,0,0,0,1,1,2012
+42350,"Madrid, IA","Bondurant, IA",0,1,0,0,1,0,0,0,1,1,2012
+42356,"Madrid, IA","Casey, IA",1,0,0,0,0,1,1,0,0,1,2012
+42358,"Madrid, IA","Chariton, IA",0,1,0,0,0,1,1,0,0,1,2012
+42360,"Madrid, IA","Clio, IA",1,0,0,1,0,0,0,0,1,1,2012
+42364,"Madrid, IA","Corning, IA",1,0,0,0,0,1,1,0,0,1,2012
+42370,"Madrid, IA","Duncombe, IA",0,0,1,0,0,1,0,1,0,1,2012
+42371,"Madrid, IA","Eldora, IA",0,0,1,0,1,0,1,0,0,1,2012
+42372,"Madrid, IA","Ellsworth, IA",0,1,0,1,0,0,0,1,0,1,2012
+42375,"Madrid, IA","Fremont, IA",0,0,1,1,0,0,0,0,1,1,2012
+42381,"Madrid, IA","Guthrie Center, IA",0,0,1,0,0,1,0,0,1,1,2012
+42341,"Madrid, IA","Adel, IA",0,1,0,0,1,0,0,0,1,1,2012
+42388,"Madrid, IA","Knierim, IA",1,0,0,0,0,1,0,0,1,1,2012
+42391,"Madrid, IA","Lamoni, IA",0,1,0,0,1,0,0,1,0,1,2012
+42394,"Madrid, IA","Lynnville, IA",0,1,0,0,1,0,0,0,1,1,2012
+42396,"Madrid, IA","Manson, IA",1,0,0,0,0,1,0,0,1,1,2012
+42398,"Madrid, IA","Minburn, IA",0,1,0,0,0,1,0,0,1,1,2012
+42399,"Madrid, IA","Mitchellville, IA",0,0,1,0,1,0,0,0,1,1,2012
+42400,"Madrid, IA","Monroe, IA",1,0,0,0,0,1,0,1,0,1,2012
+42387,"Madrid, IA","Kamrar, IA",0,1,0,0,0,1,0,0,1,1,2012

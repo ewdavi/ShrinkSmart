@@ -1,0 +1,67 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+9824,"Cambridge, IA","Ankeny, IA",9,15,11,11,9,15,3,16,16,35,2014
+9853,"Cambridge, IA","Huxley, IA",5,14,3,6,13,3,5,8,9,22,2014
+9832,"Cambridge, IA","Cambridge, IA",2,7,4,2,7,4,2,5,6,13,2014
+9877,"Cambridge, IA","Slater, IA",1,8,4,2,9,2,2,3,8,13,2014
+9823,"Cambridge, IA","Ames, IA",2,6,5,3,7,3,3,3,7,13,2014
+9860,"Cambridge, IA","Madrid, IA",2,4,3,1,4,4,0,3,6,9,2014
+9829,"Cambridge, IA","Boone, IA",1,4,0,2,2,1,1,2,2,5,2014
+9842,"Cambridge, IA","Des Moines, IA",2,3,0,2,2,1,1,3,1,5,2014
+9865,"Cambridge, IA","Nevada, IA",1,2,1,2,0,2,1,0,3,4,2014
+9848,"Cambridge, IA","Grand Junction, IA",1,1,2,0,0,4,0,3,1,4,2014
+9833,"Cambridge, IA","Carlisle, IA",1,2,0,0,0,3,0,1,2,3,2014
+9873,"Cambridge, IA","Polk City, IA",1,1,1,2,1,0,1,1,1,3,2014
+9876,"Cambridge, IA","Roland, IA",0,3,0,0,2,1,1,0,2,3,2014
+9822,"Cambridge, IA","Altoona, IA",1,1,1,1,1,1,1,2,0,3,2014
+9855,"Cambridge, IA","Johnston, IA",2,0,0,0,0,2,0,0,2,2,2014
+9849,"Cambridge, IA","Granger, IA",0,0,2,0,2,0,1,0,1,2,2014
+9827,"Cambridge, IA","Bertram, IA",1,0,1,2,0,0,1,0,1,2,2014
+9837,"Cambridge, IA","Clive, IA",0,2,0,0,1,1,0,1,1,2,2014
+9838,"Cambridge, IA","Colo, IA",0,1,1,0,0,2,0,0,2,2,2014
+9878,"Cambridge, IA","Story City, IA",0,1,1,1,1,0,0,1,1,2,2014
+9840,"Cambridge, IA","Dallas Center, IA",0,2,0,0,1,1,1,0,1,2,2014
+9858,"Cambridge, IA","Lidderdale, IA",1,0,1,0,0,2,0,1,1,2,2014
+9867,"Cambridge, IA","Ogden, IA",1,0,1,0,0,2,0,2,0,2,2014
+9825,"Cambridge, IA","Baxter, IA",0,1,1,0,1,1,1,1,0,2,2014
+9856,"Cambridge, IA","Knoxville, IA",0,1,1,0,0,2,2,0,0,2,2014
+9874,"Cambridge, IA","Rhodes, IA",0,1,1,0,1,1,0,2,0,2,2014
+9830,"Cambridge, IA","Boxholm, IA",1,0,1,0,0,2,1,0,1,2,2014
+9866,"Cambridge, IA","Norwalk, IA",0,1,0,0,1,0,0,0,1,1,2014
+9869,"Cambridge, IA","Pacific Junction, IA",0,1,0,0,0,1,0,0,1,1,2014
+9884,"Cambridge, IA","Waukee, IA",0,1,0,1,0,0,0,0,1,1,2014
+9868,"Cambridge, IA","Orient, IA",0,0,1,0,1,0,0,1,0,1,2014
+9872,"Cambridge, IA","Pleasantville, IA",0,1,0,0,0,1,1,0,0,1,2014
+9870,"Cambridge, IA","Patterson, IA",1,0,0,0,1,0,0,0,1,1,2014
+9871,"Cambridge, IA","Pleasant Hill, IA",1,0,0,0,0,1,0,1,0,1,2014
+9883,"Cambridge, IA","Walker, IA",0,1,0,0,0,1,0,0,1,1,2014
+9881,"Cambridge, IA","Van Horne, IA",0,1,0,0,0,1,0,1,0,1,2014
+9875,"Cambridge, IA","Robins, IA",0,0,1,1,0,0,0,0,1,1,2014
+9882,"Cambridge, IA","Walford, IA",0,0,1,1,0,0,0,0,1,1,2014
+9863,"Cambridge, IA","Missouri Valley, IA",1,0,0,0,0,1,0,1,0,1,2014
+9879,"Cambridge, IA","Sully, IA",0,1,0,1,0,0,0,0,1,1,2014
+9880,"Cambridge, IA","Swan, IA",1,0,0,0,0,1,1,0,0,1,2014
+9864,"Cambridge, IA","Montezuma, IA",0,0,1,0,0,1,0,0,1,1,2014
+9820,"Cambridge, IA","Ackley, IA",0,1,0,0,1,0,0,0,1,1,2014
+9862,"Cambridge, IA","Melcher-Dallas, IA",0,1,0,0,0,1,0,1,0,1,2014
+9844,"Cambridge, IA","Elberon, IA",0,0,1,0,0,1,0,0,1,1,2014
+9826,"Cambridge, IA","Bayard, IA",0,0,1,0,0,1,0,0,1,1,2014
+9828,"Cambridge, IA","Bondurant, IA",0,1,0,0,0,1,0,1,0,1,2014
+9831,"Cambridge, IA","Burlington, IA",1,0,0,0,1,0,0,1,0,1,2014
+9834,"Cambridge, IA","Carroll, IA",0,1,0,0,0,1,0,0,1,1,2014
+9835,"Cambridge, IA","Carter Lake, IA",0,1,0,0,0,1,0,0,1,1,2014
+9836,"Cambridge, IA","Cedar Rapids, IA",1,0,0,1,0,0,1,0,0,1,2014
+9839,"Cambridge, IA","Coon Rapids, IA",0,1,0,1,0,0,0,1,0,1,2014
+9841,"Cambridge, IA","De Soto, IA",1,0,0,1,0,0,1,0,0,1,2014
+9843,"Cambridge, IA","Dexter, IA",0,1,0,0,0,1,0,0,1,1,2014
+9845,"Cambridge, IA","Ferguson, IA",0,1,0,0,0,1,0,0,1,1,2014
+9861,"Cambridge, IA","Marshalltown, IA",0,1,0,1,0,0,0,1,0,1,2014
+9846,"Cambridge, IA","Gilbert, IA",1,0,0,0,1,0,0,1,0,1,2014
+9847,"Cambridge, IA","Gilman, IA",0,0,1,1,0,0,0,1,0,1,2014
+9850,"Cambridge, IA","Grimes, IA",1,0,0,1,0,0,0,0,1,1,2014
+9851,"Cambridge, IA","Grinnell, IA",0,1,0,0,1,0,0,0,1,1,2014
+9852,"Cambridge, IA","Haverhill, IA",0,0,1,0,0,1,0,1,0,1,2014
+9821,"Cambridge, IA","Alden, IA",0,1,0,0,0,1,0,0,1,1,2014
+9854,"Cambridge, IA","Jefferson, IA",0,0,1,0,0,1,0,0,1,1,2014
+9857,"Cambridge, IA","Laurens, IA",0,1,0,0,0,1,0,0,1,1,2014
+9859,"Cambridge, IA","Lynnville, IA",0,1,0,0,0,1,0,0,1,1,2014
+9885,"Cambridge, IA","Windsor Heights, IA",0,1,0,1,0,0,0,0,1,1,2014

@@ -1,0 +1,71 @@
+,home city,work city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+8010,"Carson, IA","Council Bluffs, IA",43,59,19,18,80,23,33,60,28,121,2005
+8033,"Carson, IA","Lewis, IA",13,18,13,30,8,6,11,26,7,44,2005
+8002,"Carson, IA","Carson, IA",9,24,5,0,22,16,13,19,6,38,2005
+8045,"Carson, IA","Oakland, IA",9,16,12,1,33,3,15,14,8,37,2005
+8049,"Carson, IA","Red Oak, IA",0,19,2,12,9,0,1,15,5,21,2005
+8000,"Carson, IA","Atlantic, IA",2,8,4,5,6,3,4,6,4,14,2005
+8012,"Carson, IA","Cumberland, IA",2,9,3,0,14,0,4,6,4,14,2005
+8025,"Carson, IA","Hancock, IA",0,7,5,0,7,5,3,5,4,12,2005
+8022,"Carson, IA","Grant, IA",1,5,1,1,4,2,5,2,0,7,2005
+8004,"Carson, IA","Cedar Falls, IA",3,3,1,0,3,4,4,0,3,7,2005
+8013,"Carson, IA","Des Moines, IA",1,3,2,0,5,1,2,3,1,6,2005
+8035,"Carson, IA","Macedonia, IA",0,6,0,3,1,2,2,1,3,6,2005
+8052,"Carson, IA","Shenandoah, IA",4,1,0,2,1,2,1,4,0,5,2005
+8021,"Carson, IA","Glenwood, IA",1,4,0,1,3,1,1,1,3,5,2005
+8026,"Carson, IA","Harlan, IA",3,2,0,1,3,1,0,5,0,5,2005
+8058,"Carson, IA","Waterloo, IA",3,1,1,0,2,3,3,2,0,5,2005
+8060,"Carson, IA","West Des Moines, IA",4,0,1,0,2,3,3,1,1,5,2005
+8015,"Carson, IA","Elk Run Heights, IA",0,4,0,4,0,0,0,4,0,4,2005
+8062,"Carson, IA","Windsor Heights, IA",3,1,0,0,3,1,2,2,0,4,2005
+8036,"Carson, IA","Malvern, IA",1,2,1,0,1,3,2,2,0,4,2005
+8056,"Carson, IA","Underwood, IA",0,4,0,0,4,0,0,0,4,4,2005
+8054,"Carson, IA","Sioux City, IA",1,2,1,0,3,1,0,1,3,4,2005
+8003,"Carson, IA","Carter Lake, IA",0,2,2,4,0,0,0,0,4,4,2005
+8011,"Carson, IA","Creston, IA",3,1,0,1,0,3,3,1,0,4,2005
+8008,"Carson, IA","Clive, IA",1,3,0,0,4,0,1,2,1,4,2005
+8053,"Carson, IA","Silver City, IA",1,3,0,0,4,0,3,0,1,4,2005
+8024,"Carson, IA","Hamburg, IA",1,1,1,2,0,1,2,0,1,3,2005
+7996,"Carson, IA","Ames, IA",3,0,0,0,2,1,3,0,0,3,2005
+8064,"Carson, IA","Woodbine, IA",0,3,0,3,0,0,0,0,3,3,2005
+8038,"Carson, IA","McClelland, IA",1,2,0,0,0,3,1,0,2,3,2005
+8047,"Carson, IA","Pacific Junction, IA",0,2,1,0,0,3,1,0,2,3,2005
+8005,"Carson, IA","Cedar Rapids, IA",2,1,0,1,1,1,1,1,1,3,2005
+8043,"Carson, IA","Nodaway, IA",1,1,0,0,2,0,0,2,0,2,2005
+8044,"Carson, IA","Norwalk, IA",0,2,0,0,1,1,0,0,2,2,2005
+8037,"Carson, IA","Marshalltown, IA",1,1,0,0,0,2,0,1,1,2,2005
+8063,"Carson, IA","Wiota, IA",0,2,0,0,2,0,0,2,0,2,2005
+8034,"Carson, IA","Logan, IA",0,2,0,2,0,0,0,2,0,2,2005
+7995,"Carson, IA","Altoona, IA",1,1,0,0,0,2,0,2,0,2,2005
+8009,"Carson, IA","Corning, IA",0,2,0,1,1,0,0,1,1,2,2005
+8027,"Carson, IA","Henderson, IA",1,1,0,0,2,0,2,0,0,2,2005
+8007,"Carson, IA","Clarinda, IA",0,1,1,0,1,1,2,0,0,2,2005
+8019,"Carson, IA","Fort Dodge, IA",0,2,0,0,1,1,2,0,0,2,2005
+8032,"Carson, IA","Johnston, IA",0,1,0,0,0,1,0,0,1,1,2005
+8057,"Carson, IA","Urbandale, IA",0,1,0,0,1,0,0,1,0,1,2005
+8014,"Carson, IA","Elk Horn, IA",0,1,0,0,0,1,0,1,0,1,2005
+8055,"Carson, IA","Story City, IA",0,0,1,1,0,0,0,0,1,1,2005
+8006,"Carson, IA","Chariton, IA",0,1,0,0,1,0,0,1,0,1,2005
+8001,"Carson, IA","Boone, IA",1,0,0,0,0,1,1,0,0,1,2005
+8050,"Carson, IA","Shannon City, IA",0,1,0,1,0,0,1,0,0,1,2005
+8059,"Carson, IA","Webster City, IA",0,1,0,0,0,1,1,0,0,1,2005
+7999,"Carson, IA","Arthur, IA",0,1,0,0,0,1,0,1,0,1,2005
+8061,"Carson, IA","West Union, IA",0,1,0,0,1,0,0,1,0,1,2005
+7998,"Carson, IA","Ankeny, IA",1,0,0,1,0,0,0,1,0,1,2005
+7997,"Carson, IA","Anita, IA",0,1,0,0,0,1,1,0,0,1,2005
+8051,"Carson, IA","Shelby, IA",0,1,0,0,0,1,0,0,1,1,2005
+8016,"Carson, IA","Ely, IA",0,1,0,1,0,0,0,0,1,1,2005
+8031,"Carson, IA","Indianola, IA",0,1,0,0,0,1,0,0,1,1,2005
+8048,"Carson, IA","Polk City, IA",0,1,0,0,1,0,0,0,1,1,2005
+8017,"Carson, IA","Exira, IA",0,0,1,0,1,0,1,0,0,1,2005
+8046,"Carson, IA","Onawa, IA",0,1,0,0,1,0,1,0,0,1,2005
+8018,"Carson, IA","Farragut, IA",0,0,1,1,0,0,0,1,0,1,2005
+8020,"Carson, IA","Gilbert, IA",1,0,0,1,0,0,0,0,1,1,2005
+8042,"Carson, IA","Newton, IA",0,1,0,0,0,1,0,1,0,1,2005
+8041,"Carson, IA","Moville, IA",0,1,0,0,0,1,0,1,0,1,2005
+8040,"Carson, IA","Missouri Valley, IA",0,1,0,0,1,0,0,1,0,1,2005
+8039,"Carson, IA","Minden, IA",0,1,0,0,1,0,0,1,0,1,2005
+8023,"Carson, IA","Guthrie Center, IA",0,1,0,0,0,1,0,1,0,1,2005
+8028,"Carson, IA","Hiawatha, IA",0,0,1,0,0,1,1,0,0,1,2005
+8029,"Carson, IA","Ida Grove, IA",0,1,0,1,0,0,0,1,0,1,2005
+8030,"Carson, IA","Imogene, IA",1,0,0,0,1,0,1,0,0,1,2005

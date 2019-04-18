@@ -1,0 +1,217 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+39588,"Lakeside, IA","Storm Lake, IA",176,299,75,339,188,23,140,334,76,550,2007
+39505,"Lakeside, IA","Lakeside, IA",40,92,19,97,44,10,39,95,17,151,2007
+39409,"Lakeside, IA","Aurelia, IA",21,75,19,56,48,11,22,60,33,115,2007
+39538,"Lakeside, IA","Newell, IA",18,63,11,46,37,9,18,49,25,92,2007
+39574,"Lakeside, IA","Schaller, IA",17,28,10,27,23,5,13,32,10,55,2007
+39452,"Lakeside, IA","Denison, IA",10,18,8,31,4,1,6,29,1,36,2007
+39407,"Lakeside, IA","Arthur, IA",7,14,3,12,11,1,10,11,3,24,2007
+39593,"Lakeside, IA","Truesdale, IA",4,11,6,10,9,2,6,11,4,21,2007
+39454,"Lakeside, IA","Des Moines, IA",12,8,1,15,5,1,4,16,1,21,2007
+39467,"Lakeside, IA","Fort Dodge, IA",5,11,2,9,6,3,4,11,3,18,2007
+39580,"Lakeside, IA","Sioux Rapids, IA",4,8,6,11,6,1,1,12,5,18,2007
+39579,"Lakeside, IA","Sioux City, IA",5,10,1,10,5,1,5,7,4,16,2007
+39599,"Lakeside, IA","Webb, IA",7,4,3,8,4,2,3,7,4,14,2007
+39560,"Lakeside, IA","Quimby, IA",2,9,1,6,5,1,2,7,3,12,2007
+39443,"Lakeside, IA","Cushing, IA",5,4,3,4,5,3,6,2,4,12,2007
+39403,"Lakeside, IA","Ames, IA",3,7,2,6,4,2,3,9,0,12,2007
+39400,"Lakeside, IA","Albert City, IA",3,7,1,8,3,0,0,5,6,11,2007
+39523,"Lakeside, IA","Marcus, IA",2,8,1,6,4,1,4,4,3,11,2007
+39458,"Lakeside, IA","Early, IA",3,8,0,7,3,1,3,5,3,11,2007
+39539,"Lakeside, IA","Newton, IA",2,8,0,6,4,0,2,7,1,10,2007
+39607,"Lakeside, IA","Windsor Heights, IA",2,6,2,7,2,1,2,4,4,10,2007
+39596,"Lakeside, IA","Wall Lake, IA",2,6,2,5,5,0,2,6,2,10,2007
+39440,"Lakeside, IA","Council Bluffs, IA",5,3,2,8,2,0,1,7,2,10,2007
+39433,"Lakeside, IA","Cherokee, IA",4,3,1,2,6,0,4,3,1,8,2007
+39445,"Lakeside, IA","Davenport, IA",1,6,0,5,2,0,0,7,0,7,2007
+39425,"Lakeside, IA","Carroll, IA",2,2,2,2,4,0,0,6,0,6,2007
+39494,"Lakeside, IA","Jefferson, IA",1,4,1,2,3,1,0,6,0,6,2007
+39584,"Lakeside, IA","Spencer, IA",2,3,1,0,3,3,0,5,1,6,2007
+39444,"Lakeside, IA","Danbury, IA",2,1,2,2,2,1,1,4,0,5,2007
+39573,"Lakeside, IA","Sac City, IA",1,2,2,3,2,0,1,3,1,5,2007
+39590,"Lakeside, IA","Superior, IA",3,1,1,0,4,1,2,2,1,5,2007
+39585,"Lakeside, IA","Spirit Lake, IA",2,2,1,1,3,1,2,1,2,5,2007
+39507,"Lakeside, IA","Larrabee, IA",3,1,1,2,2,1,3,2,0,5,2007
+39510,"Lakeside, IA","Le Mars, IA",2,3,0,1,4,0,1,2,2,5,2007
+39575,"Lakeside, IA","Schleswig, IA",1,3,1,2,2,1,2,3,0,5,2007
+39600,"Lakeside, IA","Webster City, IA",0,4,1,5,0,0,2,2,1,5,2007
+39526,"Lakeside, IA","Meriden, IA",2,2,1,2,2,1,2,2,1,5,2007
+39594,"Lakeside, IA","Urbandale, IA",1,3,0,3,1,0,1,3,0,4,2007
+39576,"Lakeside, IA","Sergeant Bluff, IA",1,3,0,2,1,1,1,2,1,4,2007
+39402,"Lakeside, IA","Altoona, IA",1,3,0,3,1,0,0,3,1,4,2007
+39609,"Lakeside, IA","Winterset, IA",2,2,0,2,1,1,2,1,1,4,2007
+39604,"Lakeside, IA","Westside, IA",2,2,0,1,3,0,0,4,0,4,2007
+39546,"Lakeside, IA","Orange City, IA",2,1,1,0,4,0,2,2,0,4,2007
+39521,"Lakeside, IA","Manson, IA",0,3,1,2,2,0,0,3,1,4,2007
+39552,"Lakeside, IA","Pella, IA",1,1,2,2,2,0,1,2,1,4,2007
+39437,"Lakeside, IA","Clive, IA",1,3,0,2,2,0,1,2,1,4,2007
+39461,"Lakeside, IA","Estherville, IA",1,1,1,0,2,1,1,2,0,3,2007
+39498,"Lakeside, IA","Kiron, IA",0,2,1,0,2,1,0,1,2,3,2007
+39435,"Lakeside, IA","Clarion, IA",0,3,0,1,2,0,0,2,1,3,2007
+39577,"Lakeside, IA","Sheldon, IA",3,0,0,0,3,0,3,0,0,3,2007
+39481,"Lakeside, IA","Hartley, IA",1,2,0,1,1,1,2,1,0,3,2007
+39404,"Lakeside, IA","Ankeny, IA",0,2,1,1,1,1,0,1,2,3,2007
+39489,"Lakeside, IA","Indianola, IA",1,2,0,1,2,0,2,1,0,3,2007
+39612,"Lakeside, IA","Yetter, IA",0,3,0,2,1,0,0,3,0,3,2007
+39464,"Lakeside, IA","Fairfield, IA",3,0,0,2,1,0,2,1,0,3,2007
+39406,"Lakeside, IA","Arnolds Park, IA",1,1,1,1,2,0,1,2,0,3,2007
+39462,"Lakeside, IA","Everly, IA",1,1,1,2,1,0,0,1,2,3,2007
+39520,"Lakeside, IA","Manning, IA",2,1,0,1,1,1,1,1,1,3,2007
+39566,"Lakeside, IA","Rippey, IA",3,0,0,0,3,0,2,1,0,3,2007
+39414,"Lakeside, IA","Bettendorf, IA",1,2,0,2,1,0,1,1,1,3,2007
+39601,"Lakeside, IA","West Bend, IA",2,1,0,0,3,0,1,2,0,3,2007
+39431,"Lakeside, IA","Charles City, IA",1,1,1,1,1,1,1,1,1,3,2007
+39550,"Lakeside, IA","Ottumwa, IA",2,1,0,2,1,0,1,2,0,3,2007
+39423,"Lakeside, IA","Burlington, IA",0,3,0,2,1,0,0,2,1,3,2007
+39418,"Lakeside, IA","Boone, IA",2,1,0,2,1,0,2,1,0,3,2007
+39428,"Lakeside, IA","Cedar Rapids, IA",2,1,0,0,2,1,2,1,0,3,2007
+39555,"Lakeside, IA","Pleasant Hill, IA",1,1,1,2,1,0,0,1,2,3,2007
+39542,"Lakeside, IA","Norwalk, IA",1,1,0,1,1,0,0,1,1,2,2007
+39508,"Lakeside, IA","Laurens, IA",1,1,0,0,2,0,1,1,0,2,2007
+39480,"Lakeside, IA","Harlan, IA",1,1,0,2,0,0,0,1,1,2,2007
+39534,"Lakeside, IA","Muscatine, IA",1,1,0,0,1,1,1,0,1,2,2007
+39513,"Lakeside, IA","Lisbon, IA",0,2,0,0,2,0,1,1,0,2,2007
+39487,"Lakeside, IA","Ida Grove, IA",1,0,1,0,1,1,1,0,1,2,2007
+39572,"Lakeside, IA","Ruthven, IA",0,0,2,2,0,0,2,0,0,2,2007
+39484,"Lakeside, IA","Hiawatha, IA",1,0,1,1,1,0,1,0,1,2,2007
+39527,"Lakeside, IA","Merrill, IA",1,1,0,0,2,0,2,0,0,2,2007
+39568,"Lakeside, IA","Rock Rapids, IA",1,1,0,0,2,0,0,2,0,2,2007
+39504,"Lakeside, IA","Lake View, IA",1,1,0,2,0,0,1,0,1,2,2007
+39558,"Lakeside, IA","Pomeroy, IA",0,2,0,0,1,1,0,2,0,2,2007
+39544,"Lakeside, IA","Odebolt, IA",1,1,0,1,1,0,1,1,0,2,2007
+39549,"Lakeside, IA","Ottosen, IA",1,1,0,0,2,0,1,1,0,2,2007
+39537,"Lakeside, IA","New London, IA",0,2,0,2,0,0,0,2,0,2,2007
+39446,"Lakeside, IA","Dawson, IA",1,0,1,1,0,1,0,1,1,2,2007
+39586,"Lakeside, IA","Spring Hill, IA",1,0,1,1,1,0,1,1,0,2,2007
+39429,"Lakeside, IA","Centerville, IA",1,1,0,0,1,1,0,1,1,2,2007
+39426,"Lakeside, IA","Carter Lake, IA",0,2,0,1,0,1,0,2,0,2,2007
+39473,"Lakeside, IA","Graettinger, IA",0,2,0,0,2,0,0,2,0,2,2007
+39449,"Lakeside, IA","Defiance, IA",1,0,1,0,2,0,0,2,0,2,2007
+39591,"Lakeside, IA","Sutherland, IA",1,1,0,0,1,1,1,1,0,2,2007
+39424,"Lakeside, IA","Carlisle, IA",1,1,0,0,2,0,0,1,1,2,2007
+39451,"Lakeside, IA","Deloit, IA",0,2,0,1,1,0,0,1,1,2,2007
+39602,"Lakeside, IA","West Des Moines, IA",0,2,0,2,0,0,0,2,0,2,2007
+39420,"Lakeside, IA","Boyden, IA",0,1,1,1,0,1,1,0,1,2,2007
+39598,"Lakeside, IA","Waukee, IA",1,1,0,0,2,0,1,1,0,2,2007
+39413,"Lakeside, IA","Belmond, IA",0,1,1,0,2,0,0,2,0,2,2007
+39432,"Lakeside, IA","Charter Oak, IA",1,1,0,2,0,0,0,2,0,2,2007
+39468,"Lakeside, IA","Fort Madison, IA",0,2,0,2,0,0,0,1,1,2,2007
+39581,"Lakeside, IA","Sloan, IA",1,1,0,1,1,0,0,2,0,2,2007
+39470,"Lakeside, IA","Fraser, IA",2,0,0,2,0,0,0,2,0,2,2007
+39583,"Lakeside, IA","South English, IA",1,1,0,1,1,0,1,1,0,2,2007
+39401,"Lakeside, IA","Alton, IA",1,1,0,0,2,0,1,1,0,2,2007
+39460,"Lakeside, IA","Emmetsburg, IA",2,0,0,0,1,1,1,1,0,2,2007
+39611,"Lakeside, IA","Woolstock, IA",1,0,0,1,0,0,0,1,0,1,2007
+39551,"Lakeside, IA","Oyens, IA",0,1,0,0,0,1,0,0,1,1,2007
+39548,"Lakeside, IA","Otho, IA",1,0,0,0,0,1,0,1,0,1,2007
+39547,"Lakeside, IA","Oskaloosa, IA",0,1,0,0,1,0,1,0,0,1,2007
+39543,"Lakeside, IA","Oakland, IA",1,0,0,0,1,0,1,0,0,1,2007
+39610,"Lakeside, IA","Wiota, IA",0,0,1,1,0,0,0,1,0,1,2007
+39540,"Lakeside, IA","North Liberty, IA",0,1,0,1,0,0,0,1,0,1,2007
+39541,"Lakeside, IA","Northwood, IA",1,0,0,1,0,0,0,1,0,1,2007
+39603,"Lakeside, IA","West Liberty, IA",1,0,0,0,1,0,0,0,1,1,2007
+39545,"Lakeside, IA","Onawa, IA",1,0,0,0,1,0,1,0,0,1,2007
+39605,"Lakeside, IA","Williams, IA",0,1,0,1,0,0,0,1,0,1,2007
+39608,"Lakeside, IA","Winfield, IA",0,1,0,0,0,1,0,1,0,1,2007
+39606,"Lakeside, IA","Williamsburg, IA",0,1,0,0,1,0,0,1,0,1,2007
+39578,"Lakeside, IA","Shenandoah, IA",0,1,0,0,0,1,0,0,1,1,2007
+39553,"Lakeside, IA","Perry, IA",0,1,0,1,0,0,0,1,0,1,2007
+39554,"Lakeside, IA","Peterson, IA",0,1,0,1,0,0,1,0,0,1,2007
+39582,"Lakeside, IA","Soldier, IA",0,1,0,1,0,0,0,1,0,1,2007
+39571,"Lakeside, IA","Rodney, IA",0,1,0,1,0,0,0,1,0,1,2007
+39570,"Lakeside, IA","Rockwell City, IA",0,1,0,0,0,1,0,1,0,1,2007
+39569,"Lakeside, IA","Rockford, IA",1,0,0,0,0,1,1,0,0,1,2007
+39536,"Lakeside, IA","New Hampton, IA",1,0,0,0,1,0,1,0,0,1,2007
+39567,"Lakeside, IA","Robins, IA",0,1,0,0,1,0,0,0,1,1,2007
+39565,"Lakeside, IA","Renwick, IA",0,1,0,1,0,0,0,1,0,1,2007
+39564,"Lakeside, IA","Reasnor, IA",1,0,0,0,1,0,0,1,0,1,2007
+39563,"Lakeside, IA","Readlyn, IA",0,1,0,1,0,0,0,0,1,1,2007
+39562,"Lakeside, IA","Randall, IA",0,1,0,1,0,0,0,1,0,1,2007
+39587,"Lakeside, IA","Stanton, IA",0,1,0,1,0,0,0,1,0,1,2007
+39561,"Lakeside, IA","Randalia, IA",0,1,0,1,0,0,0,0,1,1,2007
+39589,"Lakeside, IA","Strawberry Point, IA",0,1,0,1,0,0,0,0,1,1,2007
+39559,"Lakeside, IA","Primghar, IA",0,1,0,1,0,0,0,1,0,1,2007
+39557,"Lakeside, IA","Pocahontas, IA",0,0,1,0,0,1,1,0,0,1,2007
+39556,"Lakeside, IA","Pleasanton, IA",1,0,0,1,0,0,0,1,0,1,2007
+39592,"Lakeside, IA","Toledo, IA",1,0,0,0,1,0,1,0,0,1,2007
+39595,"Lakeside, IA","Victor, IA",1,0,0,0,1,0,0,1,0,1,2007
+39597,"Lakeside, IA","Wapello, IA",0,1,0,0,1,0,0,1,0,1,2007
+39398,"Lakeside, IA","Ackworth, IA",1,0,0,0,1,0,1,0,0,1,2007
+39506,"Lakeside, IA","Lambs Grove, IA",0,1,0,1,0,0,0,1,0,1,2007
+39535,"Lakeside, IA","Nevada, IA",1,0,0,0,1,0,1,0,0,1,2007
+39459,"Lakeside, IA","East Peru, IA",0,1,0,1,0,0,0,1,0,1,2007
+39447,"Lakeside, IA","De Soto, IA",0,1,0,0,1,0,0,0,1,1,2007
+39448,"Lakeside, IA","Decorah, IA",1,0,0,1,0,0,0,1,0,1,2007
+39450,"Lakeside, IA","Delaware, IA",1,0,0,0,1,0,1,0,0,1,2007
+39453,"Lakeside, IA","Denver, IA",1,0,0,0,1,0,1,0,0,1,2007
+39455,"Lakeside, IA","Diagonal, IA",0,1,0,0,1,0,0,1,0,1,2007
+39456,"Lakeside, IA","Dubuque, IA",0,1,0,1,0,0,1,0,0,1,2007
+39457,"Lakeside, IA","Eagle Grove, IA",0,1,0,1,0,0,0,1,0,1,2007
+39463,"Lakeside, IA","Fairfax, IA",0,1,0,1,0,0,0,1,0,1,2007
+39477,"Lakeside, IA","Guthrie Center, IA",1,0,0,0,1,0,1,0,0,1,2007
+39465,"Lakeside, IA","Farnhamville, IA",0,1,0,1,0,0,0,0,1,1,2007
+39466,"Lakeside, IA","Fayette, IA",1,0,0,0,1,0,0,1,0,1,2007
+39469,"Lakeside, IA","Fostoria, IA",0,1,0,1,0,0,0,1,0,1,2007
+39471,"Lakeside, IA","Gilbert, IA",0,1,0,0,1,0,0,1,0,1,2007
+39472,"Lakeside, IA","Glenwood, IA",0,1,0,1,0,0,0,1,0,1,2007
+39474,"Lakeside, IA","Grand Junction, IA",0,1,0,1,0,0,0,0,1,1,2007
+39475,"Lakeside, IA","Greenville, IA",0,0,1,0,1,0,0,1,0,1,2007
+39442,"Lakeside, IA","Curlew, IA",1,0,0,0,1,0,1,0,0,1,2007
+39441,"Lakeside, IA","Creston, IA",0,1,0,0,1,0,0,1,0,1,2007
+39439,"Lakeside, IA","Conrad, IA",0,1,0,1,0,0,0,1,0,1,2007
+39438,"Lakeside, IA","Columbus Junction, IA",0,1,0,1,0,0,1,0,0,1,2007
+39405,"Lakeside, IA","Arcadia, IA",1,0,0,1,0,0,0,1,0,1,2007
+39408,"Lakeside, IA","Atlantic, IA",0,0,1,0,1,0,0,1,0,1,2007
+39410,"Lakeside, IA","Bagley, IA",0,1,0,0,1,0,0,1,0,1,2007
+39411,"Lakeside, IA","Bayard, IA",0,0,1,1,0,0,0,0,1,1,2007
+39412,"Lakeside, IA","Belle Plaine, IA",0,1,0,1,0,0,1,0,0,1,2007
+39415,"Lakeside, IA","Blakesburg, IA",0,1,0,1,0,0,0,1,0,1,2007
+39416,"Lakeside, IA","Blanchard, IA",0,1,0,1,0,0,0,1,0,1,2007
+39417,"Lakeside, IA","Bloomfield, IA",0,1,0,1,0,0,0,0,1,1,2007
+39419,"Lakeside, IA","Boxholm, IA",0,1,0,1,0,0,0,0,1,1,2007
+39421,"Lakeside, IA","Britt, IA",0,1,0,0,1,0,0,1,0,1,2007
+39422,"Lakeside, IA","Buck Grove, IA",0,1,0,1,0,0,0,0,1,1,2007
+39427,"Lakeside, IA","Castana, IA",0,0,1,0,0,1,0,1,0,1,2007
+39430,"Lakeside, IA","Central City, IA",1,0,0,1,0,0,0,1,0,1,2007
+39434,"Lakeside, IA","Churdan, IA",0,1,0,1,0,0,0,0,1,1,2007
+39436,"Lakeside, IA","Clearfield, IA",0,1,0,1,0,0,0,1,0,1,2007
+39476,"Lakeside, IA","Grimes, IA",0,1,0,1,0,0,0,0,1,1,2007
+39478,"Lakeside, IA","Hamburg, IA",1,0,0,1,0,0,0,1,0,1,2007
+39533,"Lakeside, IA","Mount Auburn, IA",0,1,0,0,0,1,0,1,0,1,2007
+39519,"Lakeside, IA","Malvern, IA",0,0,1,0,1,0,0,0,1,1,2007
+39511,"Lakeside, IA","Lewis, IA",0,0,1,1,0,0,0,1,0,1,2007
+39512,"Lakeside, IA","Lidderdale, IA",0,1,0,0,1,0,1,0,0,1,2007
+39514,"Lakeside, IA","Liscomb, IA",0,1,0,1,0,0,0,1,0,1,2007
+39515,"Lakeside, IA","Lockridge, IA",0,1,0,1,0,0,0,1,0,1,2007
+39516,"Lakeside, IA","Luther, IA",0,0,1,1,0,0,0,0,1,1,2007
+39517,"Lakeside, IA","Lynnville, IA",1,0,0,1,0,0,0,1,0,1,2007
+39518,"Lakeside, IA","Malcom, IA",0,1,0,1,0,0,0,1,0,1,2007
+39522,"Lakeside, IA","Mapleton, IA",1,0,0,1,0,0,0,1,0,1,2007
+39479,"Lakeside, IA","Hampton, IA",1,0,0,0,1,0,1,0,0,1,2007
+39524,"Lakeside, IA","Marshalltown, IA",0,1,0,0,0,1,1,0,0,1,2007
+39525,"Lakeside, IA","Mason City, IA",1,0,0,1,0,0,1,0,0,1,2007
+39528,"Lakeside, IA","Milford, IA",1,0,0,0,1,0,1,0,0,1,2007
+39529,"Lakeside, IA","Missouri Valley, IA",0,0,1,1,0,0,0,1,0,1,2007
+39530,"Lakeside, IA","Monona, IA",1,0,0,0,1,0,0,1,0,1,2007
+39531,"Lakeside, IA","Monticello, IA",0,0,1,0,0,1,0,0,1,1,2007
+39532,"Lakeside, IA","Morrison, IA",1,0,0,1,0,0,1,0,0,1,2007
+39509,"Lakeside, IA","Lawton, IA",0,0,1,1,0,0,0,0,1,1,2007
+39399,"Lakeside, IA","Agency, IA",0,1,0,1,0,0,0,1,0,1,2007
+39503,"Lakeside, IA","Lake Park, IA",0,1,0,0,1,0,1,0,0,1,2007
+39502,"Lakeside, IA","Lake City, IA",0,1,0,1,0,0,0,1,0,1,2007
+39482,"Lakeside, IA","Havelock, IA",1,0,0,0,1,0,0,1,0,1,2007
+39483,"Lakeside, IA","Hawarden, IA",0,1,0,0,1,0,1,0,0,1,2007
+39485,"Lakeside, IA","Hubbard, IA",0,0,1,1,0,0,0,0,1,1,2007
+39486,"Lakeside, IA","Humboldt, IA",0,1,0,1,0,0,0,1,0,1,2007
+39488,"Lakeside, IA","Independence, IA",0,1,0,1,0,0,0,0,1,1,2007
+39490,"Lakeside, IA","Inwood, IA",1,0,0,1,0,0,0,1,0,1,2007
+39491,"Lakeside, IA","Iowa City, IA",0,1,0,1,0,0,0,1,0,1,2007
+39492,"Lakeside, IA","Ireton, IA",1,0,0,0,1,0,1,0,0,1,2007
+39493,"Lakeside, IA","Janesville, IA",0,1,0,0,0,1,0,0,1,1,2007
+39495,"Lakeside, IA","Jewell Junction, IA",0,0,1,1,0,0,0,0,1,1,2007
+39496,"Lakeside, IA","Kellogg, IA",1,0,0,1,0,0,0,1,0,1,2007
+39497,"Lakeside, IA","Kirkman, IA",0,0,1,0,0,1,0,1,0,1,2007
+39499,"Lakeside, IA","Knierim, IA",0,1,0,0,1,0,0,1,0,1,2007
+39500,"Lakeside, IA","Knoxville, IA",1,0,0,1,0,0,0,1,0,1,2007
+39501,"Lakeside, IA","Lacona, IA",0,1,0,1,0,0,0,1,0,1,2007
+39613,"Lakeside, IA","Zearing, IA",0,1,0,1,0,0,0,0,1,1,2007

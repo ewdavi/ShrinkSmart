@@ -1,0 +1,476 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+75190,"Waukee, IA","Clive, IA",326,665,179,72,916,182,298,294,578,1170,2010
+75223,"Waukee, IA","Des Moines, IA",311,510,132,130,652,171,212,439,302,953,2010
+75551,"Waukee, IA","Waukee, IA",200,474,127,95,608,98,228,207,366,801,2010
+75569,"Waukee, IA","Windsor Heights, IA",135,315,85,47,396,92,111,179,245,535,2010
+75538,"Waukee, IA","Urbandale, IA",157,290,79,34,407,85,109,165,252,526,2010
+75560,"Waukee, IA","West Des Moines, IA",165,250,72,28,382,77,106,155,226,487,2010
+75120,"Waukee, IA","Ankeny, IA",165,252,59,41,369,66,80,154,242,476,2010
+75446,"Waukee, IA","Pleasant Hill, IA",92,172,49,53,207,53,63,137,113,313,2010
+75312,"Waukee, IA","Johnston, IA",75,168,40,33,212,38,65,75,143,283,2010
+75214,"Waukee, IA","De Soto, IA",43,129,45,33,149,35,61,74,82,217,2010
+75414,"Waukee, IA","Norwalk, IA",65,113,20,20,145,33,45,63,90,198,2010
+75277,"Waukee, IA","Grimes, IA",36,113,23,11,128,33,32,58,82,172,2010
+75115,"Waukee, IA","Altoona, IA",33,98,12,15,112,16,15,44,84,143,2010
+75381,"Waukee, IA","Minburn, IA",31,63,41,36,87,12,48,51,36,135,2010
+75274,"Waukee, IA","Granger, IA",32,82,16,5,109,16,28,49,53,130,2010
+75305,"Waukee, IA","Indianola, IA",37,55,21,18,75,20,27,51,35,113,2010
+75449,"Waukee, IA","Polk City, IA",34,65,14,11,72,30,16,43,54,113,2010
+75540,"Waukee, IA","Van Meter, IA",19,62,25,17,72,17,21,38,47,106,2010
+75104,"Waukee, IA","Adel, IA",24,60,20,22,71,11,29,43,32,104,2010
+75116,"Waukee, IA","Ames, IA",36,48,16,10,63,27,34,35,31,100,2010
+75167,"Waukee, IA","Carlisle, IA",20,57,11,4,72,12,14,37,37,88,2010
+75224,"Waukee, IA","Dexter, IA",20,40,16,9,53,14,14,36,26,76,2010
+75439,"Waukee, IA","Patterson, IA",21,46,8,13,47,15,21,28,26,75,2010
+75442,"Waukee, IA","Perry, IA",18,41,8,27,31,9,5,43,19,67,2010
+75175,"Waukee, IA","Cedar Rapids, IA",21,37,7,1,50,14,13,25,27,65,2010
+75153,"Waukee, IA","Boone, IA",16,33,16,3,36,26,22,17,26,65,2010
+75211,"Waukee, IA","Dallas Center, IA",13,32,14,10,45,4,14,25,20,59,2010
+75356,"Waukee, IA","Madrid, IA",13,31,8,8,32,12,7,21,24,52,2010
+75570,"Waukee, IA","Winterset, IA",11,33,7,6,34,11,3,24,24,51,2010
+75508,"Waukee, IA","Spring Hill, IA",11,24,7,9,23,10,11,13,18,42,2010
+75212,"Waukee, IA","Davenport, IA",11,19,11,1,22,18,19,16,6,41,2010
+75550,"Waukee, IA","Waterloo, IA",12,22,5,2,19,18,12,16,11,39,2010
+75501,"Waukee, IA","Sioux City, IA",8,27,4,0,24,15,13,15,11,39,2010
+75465,"Waukee, IA","Redfield, IA",6,21,8,3,27,5,8,14,13,35,2010
+75201,"Waukee, IA","Council Bluffs, IA",5,20,9,0,14,20,10,15,9,34,2010
+75306,"Waukee, IA","Iowa City, IA",16,14,4,2,19,13,14,8,12,34,2010
+75344,"Waukee, IA","Linden, IA",7,21,5,9,22,2,8,13,12,33,2010
+75281,"Waukee, IA","Guthrie Center, IA",7,21,5,13,18,2,2,22,9,33,2010
+75427,"Waukee, IA","Ottumwa, IA",9,18,5,2,20,10,10,14,8,32,2010
+75409,"Waukee, IA","Newton, IA",13,16,3,6,19,7,8,14,10,32,2010
+75512,"Waukee, IA","St. Marys, IA",7,19,5,3,24,4,6,13,12,31,2010
+75573,"Waukee, IA","Woodward, IA",10,19,1,2,25,3,3,12,15,30,2010
+75172,"Waukee, IA","Casey, IA",8,19,1,4,18,6,7,9,12,28,2010
+75230,"Waukee, IA","East Peru, IA",4,17,7,6,16,6,5,8,15,28,2010
+75174,"Waukee, IA","Cedar Falls, IA",10,13,4,3,14,10,8,10,9,27,2010
+75301,"Waukee, IA","Huxley, IA",5,17,4,4,16,6,4,11,11,26,2010
+75369,"Waukee, IA","Marshalltown, IA",9,12,5,0,22,4,9,11,6,26,2010
+75324,"Waukee, IA","Knoxville, IA",10,11,4,2,13,10,9,8,8,25,2010
+75179,"Waukee, IA","Chariton, IA",7,12,5,6,8,10,2,9,13,24,2010
+75255,"Waukee, IA","Fort Dodge, IA",11,11,1,2,13,8,7,13,3,23,2010
+75384,"Waukee, IA","Mitchellville, IA",4,16,3,2,18,3,4,7,12,23,2010
+75295,"Waukee, IA","Hiawatha, IA",6,15,2,1,14,8,9,6,8,23,2010
+75152,"Waukee, IA","Bondurant, IA",5,18,0,0,19,4,5,7,11,23,2010
+75144,"Waukee, IA","Bettendorf, IA",5,13,4,2,15,5,5,8,9,22,2010
+75424,"Waukee, IA","Oskaloosa, IA",10,7,3,0,17,3,4,9,7,20,2010
+75423,"Waukee, IA","Osceola, IA",7,9,4,2,11,7,4,7,9,20,2010
+75276,"Waukee, IA","Greenfield, IA",4,15,0,4,10,5,0,12,7,19,2010
+75225,"Waukee, IA","Dubuque, IA",4,9,6,1,10,8,4,7,8,19,2010
+75372,"Waukee, IA","Mason City, IA",5,9,5,2,13,4,8,9,2,19,2010
+75168,"Waukee, IA","Carroll, IA",6,10,2,1,15,2,11,3,4,18,2010
+75376,"Waukee, IA","Melcher-Dallas, IA",7,8,2,4,5,8,3,8,6,17,2010
+75435,"Waukee, IA","Panora, IA",1,7,8,6,8,2,3,7,6,16,2010
+75473,"Waukee, IA","Robins, IA",4,7,5,0,12,4,6,3,7,16,2010
+75137,"Waukee, IA","Baxter, IA",3,10,3,5,8,3,1,6,9,16,2010
+75402,"Waukee, IA","Nevada, IA",2,10,4,1,11,4,2,5,9,16,2010
+75103,"Waukee, IA","Adair, IA",2,9,3,4,7,3,6,4,4,14,2010
+75441,"Waukee, IA","Pella, IA",5,7,2,0,9,5,6,6,2,14,2010
+75138,"Waukee, IA","Bayard, IA",2,10,2,5,7,2,1,6,7,14,2010
+75205,"Waukee, IA","Creston, IA",3,7,4,1,10,3,3,9,2,14,2010
+75525,"Waukee, IA","Swan, IA",2,8,3,4,6,3,3,3,7,13,2010
+75448,"Waukee, IA","Pleasantville, IA",5,8,0,2,8,3,1,8,4,13,2010
+75468,"Waukee, IA","Rhodes, IA",4,7,2,4,5,4,1,4,8,13,2010
+75102,"Waukee, IA","Ackworth, IA",1,10,2,2,8,3,0,7,6,13,2010
+75129,"Waukee, IA","Audubon, IA",5,5,2,3,5,4,3,7,2,12,2010
+75536,"Waukee, IA","University Park, IA",4,5,3,2,7,3,2,9,1,12,2010
+75418,"Waukee, IA","Ogden, IA",2,7,3,0,6,6,5,1,6,12,2010
+75194,"Waukee, IA","Colo, IA",3,8,0,5,4,2,1,7,3,11,2010
+75243,"Waukee, IA","Exira, IA",2,6,3,3,7,1,2,4,5,11,2010
+75166,"Waukee, IA","Cambridge, IA",3,7,1,2,6,3,2,7,2,11,2010
+75535,"Waukee, IA","University Heights, IA",5,5,1,2,7,2,4,3,4,11,2010
+75314,"Waukee, IA","Kellogg, IA",1,8,1,0,6,4,5,0,5,10,2010
+75325,"Waukee, IA","Lacona, IA",3,5,2,2,6,2,1,2,7,10,2010
+75221,"Waukee, IA","Denison, IA",4,6,0,1,4,5,5,3,2,10,2010
+75355,"Waukee, IA","Macksburg, IA",2,6,2,2,8,0,3,1,6,10,2010
+75452,"Waukee, IA","Prairie City, IA",3,6,1,1,6,3,1,2,7,10,2010
+75523,"Waukee, IA","Stuart, IA",1,8,1,5,3,2,1,4,5,10,2010
+75482,"Waukee, IA","Runnells, IA",1,9,0,0,9,1,3,2,5,10,2010
+75549,"Waukee, IA","Washington, IA",3,5,1,1,5,3,5,3,1,9,2010
+75264,"Waukee, IA","Gilbert, IA",1,7,1,1,7,1,2,3,4,9,2010
+75354,"Waukee, IA","Lynnville, IA",3,5,1,2,4,3,2,4,3,9,2010
+75520,"Waukee, IA","Story City, IA",3,3,3,2,5,2,5,2,2,9,2010
+75412,"Waukee, IA","North Liberty, IA",6,2,1,0,6,3,5,4,0,9,2010
+75108,"Waukee, IA","Albia, IA",6,3,0,2,4,3,3,4,2,9,2010
+75487,"Waukee, IA","Sandyville, IA",3,6,0,1,6,2,3,0,6,9,2010
+75400,"Waukee, IA","Muscatine, IA",3,3,3,0,4,5,3,5,1,9,2010
+75462,"Waukee, IA","Reasnor, IA",3,5,0,0,5,3,2,3,3,8,2010
+75310,"Waukee, IA","Jefferson, IA",6,0,2,2,3,3,1,5,2,8,2010
+75162,"Waukee, IA","Burlington, IA",4,4,0,0,4,4,2,4,2,8,2010
+75507,"Waukee, IA","Spencer, IA",4,4,0,0,4,4,4,4,0,8,2010
+75119,"Waukee, IA","Anita, IA",3,5,0,2,3,3,1,1,6,8,2010
+75388,"Waukee, IA","Monticello, IA",2,6,0,1,3,4,2,3,3,8,2010
+75265,"Waukee, IA","Gilman, IA",2,3,3,0,4,4,2,4,2,8,2010
+75189,"Waukee, IA","Clio, IA",0,5,3,0,2,6,2,1,5,8,2010
+75386,"Waukee, IA","Monroe, IA",4,1,2,0,6,1,0,2,5,7,2010
+75117,"Waukee, IA","Anamosa, IA",1,4,2,0,3,4,4,0,3,7,2010
+75106,"Waukee, IA","Agency, IA",3,2,2,1,4,2,1,3,3,7,2010
+75242,"Waukee, IA","Evansdale, IA",2,4,1,0,3,4,2,2,3,7,2010
+75278,"Waukee, IA","Grinnell, IA",4,3,0,0,7,0,2,4,1,7,2010
+75184,"Waukee, IA","Clarinda, IA",3,1,3,0,3,4,3,3,1,7,2010
+75149,"Waukee, IA","Bloomfield, IA",3,3,1,1,5,1,3,3,1,7,2010
+75186,"Waukee, IA","Clear Lake, IA",1,4,2,1,3,3,1,2,4,7,2010
+75195,"Waukee, IA","Coon Rapids, IA",3,3,1,1,2,4,0,5,2,7,2010
+75307,"Waukee, IA","Iowa Falls, IA",4,1,2,0,2,5,2,5,0,7,2010
+75421,"Waukee, IA","Orient, IA",2,3,1,1,2,3,1,3,2,6,2010
+75245,"Waukee, IA","Fairfax, IA",1,4,1,0,4,2,1,4,1,6,2010
+75555,"Waukee, IA","Webster City, IA",1,5,0,0,4,2,0,4,2,6,2010
+75417,"Waukee, IA","Oelwein, IA",2,2,2,0,4,2,2,3,1,6,2010
+75346,"Waukee, IA","Lisbon, IA",5,1,0,0,3,3,3,1,2,6,2010
+75429,"Waukee, IA","Oxford, IA",4,0,2,0,3,3,2,4,0,6,2010
+75147,"Waukee, IA","Blakesburg, IA",1,3,2,0,4,2,0,5,1,6,2010
+75503,"Waukee, IA","Slater, IA",1,5,0,0,5,1,1,0,5,6,2010
+75105,"Waukee, IA","Afton, IA",2,2,2,2,2,2,2,0,4,6,2010
+75471,"Waukee, IA","Riverside, IA",1,5,0,1,2,3,0,2,4,6,2010
+75367,"Waukee, IA","Marengo, IA",3,1,1,0,3,2,2,2,1,5,2010
+75395,"Waukee, IA","Mount Ayr, IA",4,1,0,0,4,1,3,2,0,5,2010
+75516,"Waukee, IA","Stanton, IA",1,3,1,0,3,2,2,2,1,5,2010
+75510,"Waukee, IA","Springville, IA",2,1,2,0,5,0,1,1,3,5,2010
+75399,"Waukee, IA","Murray, IA",1,3,1,1,2,2,1,1,3,5,2010
+75330,"Waukee, IA","Lambs Grove, IA",1,2,2,0,4,1,0,2,3,5,2010
+75331,"Waukee, IA","Lamoni, IA",1,3,1,0,2,3,1,3,1,5,2010
+75335,"Waukee, IA","Le Claire, IA",0,3,2,0,3,2,1,1,3,5,2010
+75170,"Waukee, IA","Carter Lake, IA",2,3,0,1,3,1,3,1,1,5,2010
+75392,"Waukee, IA","Morley, IA",0,4,1,0,5,0,1,4,0,5,2010
+75258,"Waukee, IA","Fraser, IA",0,2,3,1,2,2,1,1,3,5,2010
+75280,"Waukee, IA","Guernsey, IA",0,3,2,2,0,3,1,2,2,5,2010
+75188,"Waukee, IA","Clinton, IA",3,2,0,0,1,4,2,2,1,5,2010
+75393,"Waukee, IA","Moulton, IA",3,1,1,0,5,0,0,3,2,5,2010
+75420,"Waukee, IA","Orange City, IA",0,5,0,0,5,0,3,2,0,5,2010
+75353,"Waukee, IA","Luther, IA",3,2,0,1,3,1,0,3,2,5,2010
+75271,"Waukee, IA","Grand Junction, IA",1,2,2,1,3,1,2,2,1,5,2010
+75546,"Waukee, IA","Wall Lake, IA",4,1,0,1,2,2,3,1,1,5,2010
+75553,"Waukee, IA","Waverly, IA",1,2,2,0,3,2,3,1,1,5,2010
+75337,"Waukee, IA","Le Mars, IA",1,3,0,0,2,2,1,2,1,4,2010
+75374,"Waukee, IA","Maxwell, IA",0,4,0,0,3,1,1,2,1,4,2010
+75289,"Waukee, IA","Harvey, IA",2,2,0,0,4,0,1,2,1,4,2010
+75366,"Waukee, IA","Marcus, IA",1,3,0,0,0,4,0,3,1,4,2010
+75283,"Waukee, IA","Hampton, IA",3,0,1,0,4,0,1,3,0,4,2010
+75422,"Waukee, IA","Osage, IA",3,0,1,0,2,2,3,0,1,4,2010
+75338,"Waukee, IA","Le Roy, IA",0,3,1,0,3,1,0,1,3,4,2010
+75124,"Waukee, IA","Arthur, IA",2,0,2,0,1,3,3,1,0,4,2010
+75177,"Waukee, IA","Center Point, IA",1,2,1,1,1,2,1,1,2,4,2010
+75178,"Waukee, IA","Centerville, IA",1,3,0,1,2,1,0,2,2,4,2010
+75480,"Waukee, IA","Roland, IA",4,0,0,0,3,1,1,3,0,4,2010
+75182,"Waukee, IA","Churdan, IA",0,2,2,1,2,1,0,1,3,4,2010
+75486,"Waukee, IA","Sac City, IA",2,0,2,1,2,1,2,1,1,4,2010
+75490,"Waukee, IA","Sergeant Bluff, IA",1,3,0,0,1,3,2,2,0,4,2010
+75461,"Waukee, IA","Raymond, IA",2,2,0,0,2,2,1,2,1,4,2010
+75193,"Waukee, IA","Colfax, IA",0,4,0,3,0,1,0,0,4,4,2010
+75196,"Waukee, IA","Coralville, IA",4,0,0,0,2,2,1,2,1,4,2010
+75197,"Waukee, IA","Corning, IA",1,3,0,0,2,2,1,2,1,4,2010
+75491,"Waukee, IA","Seymour, IA",0,2,2,0,0,4,0,0,4,4,2010
+75128,"Waukee, IA","Atlantic, IA",0,3,1,0,3,1,0,2,2,4,2010
+75492,"Waukee, IA","Shannon City, IA",1,1,2,1,2,1,0,3,1,4,2010
+75232,"Waukee, IA","Elberon, IA",0,3,1,1,0,3,0,1,3,4,2010
+75568,"Waukee, IA","Wilton, IA",4,0,0,0,4,0,4,0,0,4,2010
+75404,"Waukee, IA","New Hampton, IA",1,3,0,0,4,0,0,2,2,4,2010
+75236,"Waukee, IA","Elk Run Heights, IA",0,1,3,0,2,2,1,2,1,4,2010
+75408,"Waukee, IA","Newell, IA",1,0,3,1,3,0,3,1,0,4,2010
+75532,"Waukee, IA","Toledo, IA",1,2,1,1,2,1,1,1,2,4,2010
+75231,"Waukee, IA","Eddyville, IA",2,2,0,0,3,1,1,3,0,4,2010
+75470,"Waukee, IA","Rippey, IA",0,3,1,0,3,1,1,3,0,4,2010
+75218,"Waukee, IA","Delaware, IA",1,1,2,0,3,1,1,1,2,4,2010
+75213,"Waukee, IA","Dawson, IA",2,2,0,0,3,1,0,1,3,4,2010
+75326,"Waukee, IA","Ladora, IA",1,2,0,1,1,1,1,1,1,3,2010
+75327,"Waukee, IA","Lake City, IA",3,0,0,0,1,2,1,2,0,3,2010
+75494,"Waukee, IA","Shell Rock, IA",1,1,1,0,2,1,2,1,0,3,2010
+75500,"Waukee, IA","Sioux Center, IA",2,0,1,0,2,1,3,0,0,3,2010
+75474,"Waukee, IA","Rock Rapids, IA",1,1,1,0,2,1,1,1,1,3,2010
+75483,"Waukee, IA","Russell, IA",1,0,2,0,1,2,0,2,1,3,2010
+75309,"Waukee, IA","Janesville, IA",2,0,1,0,2,1,1,2,0,3,2010
+75527,"Waukee, IA","Tennant, IA",0,1,2,0,1,2,1,2,0,3,2010
+75336,"Waukee, IA","Le Grand, IA",1,1,1,0,3,0,1,1,1,3,2010
+75519,"Waukee, IA","Storm Lake, IA",2,1,0,0,2,1,1,1,1,3,2010
+75495,"Waukee, IA","Shenandoah, IA",1,2,0,0,1,2,0,2,1,3,2010
+75394,"Waukee, IA","Mount Auburn, IA",1,2,0,0,2,1,2,1,0,3,2010
+75342,"Waukee, IA","Lidderdale, IA",2,1,0,0,1,2,1,1,1,3,2010
+75552,"Waukee, IA","Waukon, IA",1,2,0,0,1,2,1,0,2,3,2010
+75398,"Waukee, IA","Moville, IA",1,2,0,0,2,1,1,2,0,3,2010
+75405,"Waukee, IA","New Liberty, IA",0,3,0,0,2,1,0,1,2,3,2010
+75383,"Waukee, IA","Mitchell, IA",0,2,1,0,1,2,0,2,1,3,2010
+75377,"Waukee, IA","Merrill, IA",2,1,0,0,2,1,2,1,0,3,2010
+75554,"Waukee, IA","Webb, IA",0,1,2,0,3,0,0,1,2,3,2010
+75436,"Waukee, IA","Panorama Park, IA",2,0,1,0,3,0,2,1,0,3,2010
+75359,"Waukee, IA","Manchester, IA",1,2,0,0,3,0,1,0,2,3,2010
+75469,"Waukee, IA","Richland, IA",1,2,0,1,1,1,1,1,1,3,2010
+75450,"Waukee, IA","Pomeroy, IA",1,2,0,0,2,1,1,2,0,3,2010
+75459,"Waukee, IA","Randolph, IA",0,1,2,0,3,0,2,1,0,3,2010
+75350,"Waukee, IA","Long Grove, IA",2,1,0,0,1,2,2,1,0,3,2010
+75391,"Waukee, IA","Moravia, IA",2,0,1,1,1,1,2,0,1,3,2010
+75537,"Waukee, IA","Urbana, IA",0,2,1,0,2,1,1,0,2,3,2010
+75466,"Waukee, IA","Reinbeck, IA",1,0,2,0,1,2,2,0,1,3,2010
+75463,"Waukee, IA","Red Oak, IA",1,1,1,0,2,1,1,2,0,3,2010
+75101,"Waukee, IA","Ackley, IA",1,2,0,0,3,0,1,1,1,3,2010
+75206,"Waukee, IA","Cromwell, IA",0,3,0,2,1,0,1,2,0,3,2010
+75302,"Waukee, IA","Ida Grove, IA",1,2,0,0,2,1,2,0,1,3,2010
+75291,"Waukee, IA","Haverhill, IA",0,3,0,0,2,1,0,1,2,3,2010
+75181,"Waukee, IA","Cherokee, IA",0,1,2,0,3,0,1,1,1,3,2010
+75109,"Waukee, IA","Albion, IA",0,1,2,0,1,2,2,1,0,3,2010
+75143,"Waukee, IA","Bertram, IA",1,2,0,0,3,0,0,3,0,3,2010
+75146,"Waukee, IA","Blairstown, IA",2,0,1,1,0,2,1,1,1,3,2010
+75216,"Waukee, IA","Decorah, IA",2,1,0,0,2,1,1,2,0,3,2010
+75161,"Waukee, IA","Buffalo, IA",1,2,0,0,2,1,1,2,0,3,2010
+75238,"Waukee, IA","Ellsworth, IA",0,2,1,0,1,2,0,2,1,3,2010
+75266,"Waukee, IA","Glenwood, IA",1,1,1,0,2,1,0,2,1,3,2010
+75130,"Waukee, IA","Aurelia, IA",2,1,0,0,1,2,2,0,1,3,2010
+75154,"Waukee, IA","Boxholm, IA",1,0,2,0,3,0,3,0,0,3,2010
+75304,"Waukee, IA","Independence, IA",0,2,0,1,1,0,0,1,1,2,2010
+75207,"Waukee, IA","Crystal Lake, IA",0,2,0,0,1,1,0,1,1,2,2010
+75451,"Waukee, IA","Portsmouth, IA",1,1,0,0,2,0,2,0,0,2,2010
+75447,"Waukee, IA","Pleasanton, IA",0,1,1,0,0,2,0,1,1,2,2010
+75203,"Waukee, IA","Crescent, IA",1,0,1,0,1,1,1,1,0,2,2010
+75209,"Waukee, IA","Cushing, IA",0,2,0,1,0,1,1,0,1,2,2010
+75199,"Waukee, IA","Corydon, IA",1,1,0,0,1,1,1,1,0,2,2010
+75453,"Waukee, IA","Primghar, IA",1,0,1,0,1,1,1,1,0,2,2010
+75454,"Waukee, IA","Promise City, IA",0,0,2,0,0,2,0,0,2,2,2010
+75455,"Waukee, IA","Protivin, IA",1,1,0,0,2,0,0,0,2,2,2010
+75460,"Waukee, IA","Rathbun, IA",1,1,0,1,0,1,0,1,1,2,2010
+75303,"Waukee, IA","Imogene, IA",1,1,0,0,1,1,0,2,0,2,2010
+75428,"Waukee, IA","Owasa, IA",1,1,0,0,1,1,0,2,0,2,2010
+75210,"Waukee, IA","Dakota City, IA",1,1,0,0,1,1,1,1,0,2,2010
+75407,"Waukee, IA","New Sharon, IA",0,2,0,0,2,0,1,0,1,2,2010
+75389,"Waukee, IA","Montour, IA",0,1,1,0,1,1,0,2,0,2,2010
+75246,"Waukee, IA","Fairfield, IA",0,2,0,0,1,1,0,1,1,2,2010
+75241,"Waukee, IA","Estherville, IA",1,1,0,0,1,1,0,1,1,2,2010
+75240,"Waukee, IA","Emmetsburg, IA",1,1,0,0,2,0,0,1,1,2,2010
+75239,"Waukee, IA","Ely, IA",0,1,1,0,0,2,0,1,1,2,2010
+75403,"Waukee, IA","New Albin, IA",0,1,1,0,1,1,1,1,0,2,2010
+75411,"Waukee, IA","Nora Springs, IA",1,1,0,0,2,0,2,0,0,2,2010
+75430,"Waukee, IA","Oyens, IA",1,1,0,0,2,0,1,1,0,2,2010
+75233,"Waukee, IA","Eldon, IA",0,1,1,1,0,1,0,2,0,2,2010
+75413,"Waukee, IA","Northwood, IA",2,0,0,0,1,1,1,1,0,2,2010
+75228,"Waukee, IA","Dysart, IA",2,0,0,0,1,1,2,0,0,2,2010
+75425,"Waukee, IA","Otho, IA",0,1,1,0,2,0,1,1,0,2,2010
+75426,"Waukee, IA","Ottosen, IA",0,1,1,0,1,1,0,1,1,2,2010
+75187,"Waukee, IA","Clearfield, IA",0,2,0,0,1,1,0,0,2,2,2010
+75191,"Waukee, IA","Clutier, IA",0,2,0,0,0,2,1,1,0,2,2010
+75164,"Waukee, IA","Callender, IA",1,1,0,0,1,1,1,1,0,2,2010
+75185,"Waukee, IA","Clarion, IA",0,1,1,0,2,0,1,1,0,2,2010
+75531,"Waukee, IA","Titonka, IA",0,1,1,0,0,2,1,0,1,2,2010
+75107,"Waukee, IA","Ainsworth, IA",2,0,0,0,2,0,1,1,0,2,2010
+75571,"Waukee, IA","Wiota, IA",1,0,1,0,0,2,1,1,0,2,2010
+75111,"Waukee, IA","Algona, IA",0,2,0,0,2,0,1,1,0,2,2010
+75566,"Waukee, IA","Williams, IA",1,0,1,0,1,1,1,0,1,2,2010
+75564,"Waukee, IA","Whittemore, IA",0,2,0,0,1,1,1,0,1,2,2010
+75563,"Waukee, IA","What Cheer, IA",0,2,0,1,1,0,0,1,1,2,2010
+75556,"Waukee, IA","Webster, IA",0,0,2,0,1,1,2,0,0,2,2010
+75113,"Waukee, IA","Alta Vista, IA",0,1,1,0,1,1,0,2,0,2,2010
+75114,"Waukee, IA","Alton, IA",0,2,0,0,1,1,0,0,2,2,2010
+75122,"Waukee, IA","Armstrong, IA",2,0,0,0,0,2,1,0,1,2,2010
+75123,"Waukee, IA","Arnolds Park, IA",2,0,0,0,1,1,1,1,0,2,2010
+75547,"Waukee, IA","Walnut, IA",0,1,1,0,0,2,0,1,1,2,2010
+75541,"Waukee, IA","Victor, IA",2,0,0,0,1,1,2,0,0,2,2010
+75533,"Waukee, IA","Traer, IA",2,0,0,0,2,0,0,2,0,2,2010
+75530,"Waukee, IA","Tipton, IA",0,2,0,0,1,1,0,0,2,2,2010
+75467,"Waukee, IA","Remsen, IA",0,1,1,0,2,0,0,1,1,2,2010
+75135,"Waukee, IA","Batavia, IA",1,1,0,0,0,2,0,1,1,2,2010
+75526,"Waukee, IA","Swea City, IA",0,1,1,0,1,1,1,0,1,2,2010
+75141,"Waukee, IA","Bellevue, IA",0,1,1,1,0,1,0,1,1,2,2010
+75517,"Waukee, IA","State Center, IA",0,2,0,0,2,0,0,0,2,2,2010
+75142,"Waukee, IA","Belmond, IA",0,1,1,0,1,1,0,2,0,2,2010
+75504,"Waukee, IA","Sloan, IA",2,0,0,0,0,2,2,0,0,2,2010
+75155,"Waukee, IA","Boyden, IA",1,1,0,0,2,0,0,2,0,2,2010
+75158,"Waukee, IA","Britt, IA",0,1,1,0,2,0,1,0,1,2,2010
+75489,"Waukee, IA","Schleswig, IA",1,1,0,0,1,1,1,1,0,2,2010
+75488,"Waukee, IA","Scarville, IA",1,1,0,0,2,0,0,2,0,2,2010
+75160,"Waukee, IA","Buffalo Center, IA",0,2,0,1,0,1,0,2,0,2,2010
+75485,"Waukee, IA","Rutland, IA",2,0,0,0,2,0,1,1,0,2,2010
+75253,"Waukee, IA","Forest City, IA",1,1,0,0,0,2,1,0,1,2,2010
+75472,"Waukee, IA","Riverton, IA",0,1,1,1,1,0,2,0,0,2,2010
+75385,"Waukee, IA","Mondamin, IA",1,0,1,0,2,0,1,0,1,2,2010
+75575,"Waukee, IA","Zearing, IA",0,2,0,0,2,0,1,0,1,2,2010
+75340,"Waukee, IA","Leon, IA",0,2,0,0,2,0,0,0,2,2,2010
+75259,"Waukee, IA","Fremont, IA",1,1,0,0,2,0,2,0,0,2,2010
+75357,"Waukee, IA","Malcom, IA",1,1,0,0,0,2,2,0,0,2,2010
+75294,"Waukee, IA","Hedrick, IA",1,1,0,0,1,1,2,0,0,2,2010
+75341,"Waukee, IA","Lewis, IA",0,0,2,0,1,1,0,2,0,2,2010
+75322,"Waukee, IA","Klemme, IA",0,2,0,0,1,1,0,1,1,2,2010
+75363,"Waukee, IA","Manson, IA",1,1,0,0,2,0,1,1,0,2,2010
+75364,"Waukee, IA","Maquoketa, IA",0,2,0,0,2,0,2,0,0,2,2010
+75290,"Waukee, IA","Havelock, IA",1,0,1,0,2,0,2,0,0,2,2010
+75351,"Waukee, IA","Lorimor, IA",1,0,1,0,2,0,0,1,1,2,2010
+75332,"Waukee, IA","Larchwood, IA",1,1,0,0,2,0,0,1,1,2,2010
+75348,"Waukee, IA","Livermore, IA",2,0,0,0,2,0,1,1,0,2,2010
+75316,"Waukee, IA","Keokuk, IA",1,1,0,0,1,1,1,0,1,2,2010
+75375,"Waukee, IA","Melbourne, IA",1,1,0,1,0,1,1,0,1,2,2010
+75347,"Waukee, IA","Liscomb, IA",1,1,0,1,0,1,1,1,0,2,2010
+75292,"Waukee, IA","Hawarden, IA",2,0,0,0,1,1,1,1,0,2,2010
+75299,"Waukee, IA","Hull, IA",1,1,0,0,1,1,1,1,0,2,2010
+75256,"Waukee, IA","Fort Madison, IA",0,2,0,0,1,1,1,1,0,2,2010
+75378,"Waukee, IA","Millerton, IA",1,0,1,1,1,0,0,1,1,2,2010
+75282,"Waukee, IA","Hamburg, IA",0,1,1,0,1,1,1,1,0,2,2010
+75339,"Waukee, IA","Leland, IA",2,0,0,0,2,0,1,1,0,2,2010
+75298,"Waukee, IA","Houghton, IA",0,2,0,0,1,1,2,0,0,2,2010
+75513,"Waukee, IA","St. Paul, IA",0,0,1,0,1,0,0,0,1,1,2010
+75514,"Waukee, IA","Stacyville, IA",0,0,1,0,0,1,0,0,1,1,2010
+75515,"Waukee, IA","Stanhope, IA",1,0,0,0,1,0,1,0,0,1,2010
+75159,"Waukee, IA","Bronson, IA",0,1,0,0,0,1,0,0,1,1,2010
+75329,"Waukee, IA","Lakota, IA",0,0,1,0,1,0,0,0,1,1,2010
+75518,"Waukee, IA","Stockton, IA",0,1,0,0,1,0,1,0,0,1,2010
+75140,"Waukee, IA","Belle Plaine, IA",0,1,0,0,0,1,0,0,1,1,2010
+75285,"Waukee, IA","Harlan, IA",1,0,0,0,1,0,0,1,0,1,2010
+75328,"Waukee, IA","Lake Mills, IA",1,0,0,0,1,0,1,0,0,1,2010
+75284,"Waukee, IA","Hanlontown, IA",0,1,0,0,1,0,0,1,0,1,2010
+75521,"Waukee, IA","Stratford, IA",1,0,0,1,0,0,0,0,1,1,2010
+75522,"Waukee, IA","Strawberry Point, IA",0,1,0,0,1,0,0,0,1,1,2010
+75139,"Waukee, IA","Bedford, IA",0,0,1,0,0,1,0,1,0,1,2010
+75288,"Waukee, IA","Hartwick, IA",0,0,1,0,1,0,0,0,1,1,2010
+75287,"Waukee, IA","Hartley, IA",0,1,0,0,1,0,1,0,0,1,2010
+75496,"Waukee, IA","Shueyville, IA",0,0,1,0,1,0,0,1,0,1,2010
+75145,"Waukee, IA","Birmingham, IA",1,0,0,0,1,0,0,1,0,1,2010
+75497,"Waukee, IA","Sibley, IA",1,0,0,0,1,0,1,0,0,1,2010
+75156,"Waukee, IA","Brayton, IA",0,0,1,0,0,1,0,0,1,1,2010
+75498,"Waukee, IA","Sidney, IA",0,1,0,1,0,0,0,1,0,1,2010
+75499,"Waukee, IA","Silver City, IA",0,1,0,0,1,0,0,1,0,1,2010
+75334,"Waukee, IA","Lawton, IA",0,1,0,0,1,0,0,0,1,1,2010
+75151,"Waukee, IA","Bonaparte, IA",1,0,0,0,1,0,0,1,0,1,2010
+75502,"Waukee, IA","Sioux Rapids, IA",0,0,1,0,1,0,1,0,0,1,2010
+75150,"Waukee, IA","Blue Grass, IA",0,1,0,0,0,1,0,1,0,1,2010
+75493,"Waukee, IA","Sheldon, IA",1,0,0,0,1,0,1,0,0,1,2010
+75333,"Waukee, IA","Larrabee, IA",0,1,0,0,1,0,0,1,0,1,2010
+75524,"Waukee, IA","Sully, IA",0,0,1,0,0,1,1,0,0,1,2010
+75157,"Waukee, IA","Bristow, IA",0,1,0,0,1,0,0,0,1,1,2010
+75505,"Waukee, IA","Soldier, IA",0,0,1,0,1,0,0,1,0,1,2010
+75506,"Waukee, IA","South English, IA",0,0,1,0,1,0,1,0,0,1,2010
+75148,"Waukee, IA","Blanchard, IA",0,1,0,0,0,1,0,1,0,1,2010
+75286,"Waukee, IA","Harpers Ferry, IA",0,1,0,1,0,0,0,1,0,1,2010
+75509,"Waukee, IA","Springbrook, IA",0,0,1,0,1,0,0,0,1,1,2010
+75511,"Waukee, IA","St. Ansgar, IA",0,1,0,0,1,0,0,1,0,1,2010
+75382,"Waukee, IA","Missouri Valley, IA",1,0,0,0,0,1,1,0,0,1,2010
+75136,"Waukee, IA","Battle Creek, IA",0,1,0,0,1,0,1,0,0,1,2010
+75293,"Waukee, IA","Hazleton, IA",1,0,0,0,1,0,0,1,0,1,2010
+75118,"Waukee, IA","Andrew, IA",0,1,0,0,1,0,0,0,1,1,2010
+75315,"Waukee, IA","Kensett, IA",0,1,0,0,0,1,0,0,1,1,2010
+75296,"Waukee, IA","Hopkinton, IA",0,0,1,0,0,1,0,1,0,1,2010
+75557,"Waukee, IA","Wellsburg, IA",0,1,0,0,1,0,0,1,0,1,2010
+75558,"Waukee, IA","Welton, IA",1,0,0,0,0,1,0,1,0,1,2010
+75559,"Waukee, IA","West Burlington, IA",0,1,0,0,0,1,0,0,1,1,2010
+75112,"Waukee, IA","Allison, IA",0,1,0,0,1,0,0,0,1,1,2010
+75561,"Waukee, IA","West Liberty, IA",0,0,1,0,1,0,0,1,0,1,2010
+75562,"Waukee, IA","Westside, IA",0,1,0,0,1,0,1,0,0,1,2010
+75313,"Waukee, IA","Kalona, IA",1,0,0,0,1,0,0,1,0,1,2010
+75297,"Waukee, IA","Hospers, IA",1,0,0,0,1,0,0,1,0,1,2010
+75565,"Waukee, IA","Whitten, IA",1,0,0,0,1,0,1,0,0,1,2010
+75311,"Waukee, IA","Jewell Junction, IA",0,0,1,0,0,1,1,0,0,1,2010
+75567,"Waukee, IA","Williamsburg, IA",1,0,0,0,0,1,0,1,0,1,2010
+75110,"Waukee, IA","Alden, IA",1,0,0,0,0,1,0,0,1,1,2010
+75308,"Waukee, IA","Ireton, IA",1,0,0,0,1,0,1,0,0,1,2010
+75572,"Waukee, IA","Woden, IA",0,1,0,0,0,1,0,0,1,1,2010
+75300,"Waukee, IA","Humboldt, IA",0,0,1,0,0,1,1,0,0,1,2010
+75574,"Waukee, IA","Yetter, IA",0,1,0,0,1,0,0,1,0,1,2010
+75121,"Waukee, IA","Arcadia, IA",0,0,1,0,1,0,0,1,0,1,2010
+75317,"Waukee, IA","Keota, IA",0,0,1,0,1,0,1,0,0,1,2010
+75318,"Waukee, IA","Kimballton, IA",0,1,0,0,1,0,0,1,0,1,2010
+75539,"Waukee, IA","Van Horne, IA",0,1,0,0,0,1,0,0,1,1,2010
+75528,"Waukee, IA","Terril, IA",1,0,0,0,0,1,1,0,0,1,2010
+75529,"Waukee, IA","Tiffin, IA",0,1,0,1,0,0,0,0,1,1,2010
+75134,"Waukee, IA","Baldwin, IA",1,0,0,0,0,1,0,0,1,1,2010
+75534,"Waukee, IA","Underwood, IA",1,0,0,0,0,1,0,1,0,1,2010
+75133,"Waukee, IA","Bagley, IA",1,0,0,1,0,0,1,0,0,1,2010
+75132,"Waukee, IA","Avoca, IA",0,1,0,0,1,0,0,0,1,1,2010
+75131,"Waukee, IA","Aurora, IA",0,0,1,0,1,0,0,0,1,1,2010
+75321,"Waukee, IA","Kiron, IA",0,1,0,0,1,0,0,0,1,1,2010
+75127,"Waukee, IA","Atkins, IA",0,1,0,0,1,0,1,0,0,1,2010
+75125,"Waukee, IA","Asbury, IA",0,1,0,0,1,0,0,1,0,1,2010
+75320,"Waukee, IA","Kirkville, IA",0,1,0,0,0,1,0,0,1,1,2010
+75542,"Waukee, IA","Vining, IA",0,1,0,0,1,0,0,0,1,1,2010
+75543,"Waukee, IA","Vinton, IA",0,1,0,0,1,0,0,1,0,1,2010
+75544,"Waukee, IA","Walcott, IA",1,0,0,0,1,0,0,0,1,1,2010
+75545,"Waukee, IA","Walford, IA",1,0,0,0,1,0,1,0,0,1,2010
+75126,"Waukee, IA","Atalissa, IA",0,1,0,1,0,0,0,1,0,1,2010
+75319,"Waukee, IA","Kirkman, IA",1,0,0,0,0,1,1,0,0,1,2010
+75548,"Waukee, IA","Wapello, IA",1,0,0,0,1,0,0,1,0,1,2010
+75323,"Waukee, IA","Knierim, IA",0,1,0,0,1,0,0,1,0,1,2010
+75479,"Waukee, IA","Rodney, IA",0,0,1,0,0,1,0,0,1,1,2010
+75484,"Waukee, IA","Ruthven, IA",0,1,0,0,1,0,0,1,0,1,2010
+75234,"Waukee, IA","Eldora, IA",1,0,0,0,1,0,0,1,0,1,2010
+75371,"Waukee, IA","Marysville, IA",1,0,0,0,1,0,1,0,0,1,2010
+75370,"Waukee, IA","Martelle, IA",0,1,0,1,0,0,1,0,0,1,2010
+75262,"Waukee, IA","George, IA",0,0,1,0,0,1,1,0,0,1,2010
+75229,"Waukee, IA","Early, IA",1,0,0,0,1,0,1,0,0,1,2010
+75415,"Waukee, IA","Norway, IA",0,1,0,0,1,0,0,1,0,1,2010
+75416,"Waukee, IA","Oakland, IA",0,0,1,0,0,1,1,0,0,1,2010
+75368,"Waukee, IA","Marion, IA",1,0,0,0,0,1,1,0,0,1,2010
+75227,"Waukee, IA","Dyersville, IA",0,0,1,0,1,0,0,0,1,1,2010
+75419,"Waukee, IA","Onawa, IA",0,0,1,0,1,0,0,0,1,1,2010
+75226,"Waukee, IA","Duncombe, IA",0,1,0,0,1,0,0,0,1,1,2010
+75222,"Waukee, IA","Denver, IA",0,1,0,0,1,0,0,1,0,1,2010
+75220,"Waukee, IA","Delta, IA",1,0,0,0,1,0,0,0,1,1,2010
+75219,"Waukee, IA","Deloit, IA",1,0,0,0,1,0,1,0,0,1,2010
+75217,"Waukee, IA","Defiance, IA",1,0,0,0,1,0,0,0,1,1,2010
+75263,"Waukee, IA","Gibson, IA",1,0,0,0,1,0,1,0,0,1,2010
+75365,"Waukee, IA","Marble Rock, IA",1,0,0,0,0,1,1,0,0,1,2010
+75215,"Waukee, IA","De Witt, IA",0,0,1,0,1,0,0,1,0,1,2010
+75362,"Waukee, IA","Manning, IA",1,0,0,1,0,0,0,1,0,1,2010
+75431,"Waukee, IA","Pacific Junction, IA",1,0,0,0,1,0,0,1,0,1,2010
+75410,"Waukee, IA","Nodaway, IA",0,1,0,0,1,0,0,0,1,1,2010
+75235,"Waukee, IA","Elgin, IA",1,0,0,0,0,1,1,0,0,1,2010
+75433,"Waukee, IA","Palo, IA",0,1,0,0,1,0,1,0,0,1,2010
+75261,"Waukee, IA","Garwin, IA",0,0,1,0,1,0,0,1,0,1,2010
+75380,"Waukee, IA","Milton, IA",0,1,0,0,1,0,0,0,1,1,2010
+75252,"Waukee, IA","Floyd, IA",1,0,0,0,1,0,1,0,0,1,2010
+75387,"Waukee, IA","Montezuma, IA",0,1,0,0,1,0,0,1,0,1,2010
+75251,"Waukee, IA","Floris, IA",1,0,0,0,1,0,0,0,1,1,2010
+75379,"Waukee, IA","Millville, IA",0,1,0,0,0,1,0,0,1,1,2010
+75390,"Waukee, IA","Montrose, IA",0,1,0,0,0,1,0,0,1,1,2010
+75250,"Waukee, IA","Ferguson, IA",1,0,0,0,1,0,0,0,1,1,2010
+75249,"Waukee, IA","Fenton, IA",0,0,1,0,1,0,0,1,0,1,2010
+75248,"Waukee, IA","Farnhamville, IA",1,0,0,0,1,0,0,1,0,1,2010
+75247,"Waukee, IA","Farley, IA",0,1,0,0,1,0,0,0,1,1,2010
+75396,"Waukee, IA","Mount Union, IA",0,1,0,0,0,1,0,0,1,1,2010
+75397,"Waukee, IA","Mount Vernon, IA",0,0,1,0,1,0,1,0,0,1,2010
+75244,"Waukee, IA","Fairbank, IA",0,0,1,0,0,1,1,0,0,1,2010
+75257,"Waukee, IA","Fostoria, IA",1,0,0,0,1,0,0,0,1,1,2010
+75401,"Waukee, IA","Nashua, IA",1,0,0,0,1,0,1,0,0,1,2010
+75260,"Waukee, IA","Garner, IA",1,0,0,0,1,0,0,1,0,1,2010
+75373,"Waukee, IA","Massena, IA",0,1,0,1,0,0,0,1,0,1,2010
+75237,"Waukee, IA","Elliott, IA",0,1,0,0,0,1,0,0,1,1,2010
+75406,"Waukee, IA","New London, IA",0,1,0,0,0,1,0,0,1,1,2010
+75432,"Waukee, IA","Palmer, IA",0,1,0,0,0,1,0,0,1,1,2010
+75434,"Waukee, IA","Panama, IA",1,0,0,0,1,0,0,1,0,1,2010
+75163,"Waukee, IA","Bussey, IA",0,0,1,0,1,0,1,0,0,1,2010
+75198,"Waukee, IA","Corwith, IA",0,1,0,0,0,1,0,0,1,1,2010
+75192,"Waukee, IA","Coburg, IA",0,1,0,0,0,1,0,1,0,1,2010
+75464,"Waukee, IA","Redding, IA",0,1,0,1,0,0,0,0,1,1,2010
+75275,"Waukee, IA","Grant, IA",0,1,0,0,1,0,0,0,1,1,2010
+75183,"Waukee, IA","Cincinnati, IA",0,1,0,0,1,0,0,0,1,1,2010
+75345,"Waukee, IA","Lineville, IA",1,0,0,1,0,0,0,1,0,1,2010
+75279,"Waukee, IA","Grundy Center, IA",0,0,1,0,1,0,0,1,0,1,2010
+75180,"Waukee, IA","Charles City, IA",0,1,0,0,1,0,0,1,0,1,2010
+75176,"Waukee, IA","Center Junction, IA",1,0,0,0,0,1,1,0,0,1,2010
+75173,"Waukee, IA","Castalia, IA",1,0,0,0,0,1,1,0,0,1,2010
+75343,"Waukee, IA","Lincoln, IA",0,0,1,0,1,0,1,0,0,1,2010
+75171,"Waukee, IA","Cascade, IA",0,1,0,0,1,0,0,1,0,1,2010
+75169,"Waukee, IA","Carson, IA",1,0,0,0,0,1,0,0,1,1,2010
+75475,"Waukee, IA","Rock Valley, IA",0,1,0,0,1,0,1,0,0,1,2010
+75476,"Waukee, IA","Rockford, IA",1,0,0,0,1,0,1,0,0,1,2010
+75477,"Waukee, IA","Rockwell City, IA",0,1,0,0,0,1,0,0,1,1,2010
+75478,"Waukee, IA","Rockwell, IA",0,1,0,0,1,0,0,1,0,1,2010
+75254,"Waukee, IA","Fort Atkinson, IA",0,0,1,0,1,0,1,0,0,1,2010
+75165,"Waukee, IA","Camanche, IA",1,0,0,0,0,1,0,1,0,1,2010
+75481,"Waukee, IA","Royal, IA",1,0,0,0,1,0,0,0,1,1,2010
+75349,"Waukee, IA","Logan, IA",0,1,0,1,0,0,0,0,1,1,2010
+75458,"Waukee, IA","Randall, IA",0,0,1,0,0,1,1,0,0,1,2010
+75361,"Waukee, IA","Manly, IA",0,1,0,0,0,1,0,0,1,1,2010
+75457,"Waukee, IA","Rake, IA",0,0,1,0,0,1,1,0,0,1,2010
+75360,"Waukee, IA","Manilla, IA",0,1,0,0,1,0,0,1,0,1,2010
+75437,"Waukee, IA","Parkersburg, IA",0,1,0,0,1,0,0,1,0,1,2010
+75438,"Waukee, IA","Parnell, IA",0,0,1,0,0,1,1,0,0,1,2010
+75208,"Waukee, IA","Cumberland, IA",0,1,0,0,1,0,0,1,0,1,2010
+75267,"Waukee, IA","Glidden, IA",0,0,1,0,0,1,0,1,0,1,2010
+75358,"Waukee, IA","Malvern, IA",0,1,0,0,0,1,1,0,0,1,2010
+75443,"Waukee, IA","Peterson, IA",1,0,0,0,1,0,1,0,0,1,2010
+75444,"Waukee, IA","Pierson, IA",0,1,0,0,0,1,0,0,1,1,2010
+75445,"Waukee, IA","Plano, IA",1,0,0,0,1,0,1,0,0,1,2010
+75204,"Waukee, IA","Cresco, IA",1,0,0,1,0,0,0,1,0,1,2010
+75268,"Waukee, IA","Goldfield, IA",0,1,0,0,1,0,0,0,1,1,2010
+75269,"Waukee, IA","Graettinger, IA",1,0,0,0,1,0,0,1,0,1,2010
+75202,"Waukee, IA","Craig, IA",0,1,0,0,0,1,0,0,1,1,2010
+75200,"Waukee, IA","Coulter, IA",0,1,0,0,1,0,0,1,0,1,2010
+75270,"Waukee, IA","Graf, IA",0,0,1,0,0,1,0,1,0,1,2010
+75272,"Waukee, IA","Grand River, IA",1,0,0,0,1,0,0,1,0,1,2010
+75352,"Waukee, IA","Low Moor, IA",0,0,1,0,1,0,0,1,0,1,2010
+75273,"Waukee, IA","Grandview, IA",0,1,0,0,1,0,0,1,0,1,2010
+75456,"Waukee, IA","Quimby, IA",1,0,0,0,1,0,1,0,0,1,2010
+75440,"Waukee, IA","Paullina, IA",0,1,0,0,1,0,0,1,0,1,2010

@@ -1,0 +1,54 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+52010,"Oakland, IA","Oakland, IA",15,11,21,7,33,7,18,20,9,47,2012
+51992,"Oakland, IA","Hancock, IA",10,18,16,3,35,6,16,18,10,44,2012
+51980,"Oakland, IA","Carson, IA",2,12,7,1,20,0,6,9,6,21,2012
+51998,"Oakland, IA","Lewis, IA",1,9,7,0,15,2,10,5,2,17,2012
+51978,"Oakland, IA","Atlantic, IA",3,7,1,6,5,0,4,2,5,11,2012
+51983,"Oakland, IA","Council Bluffs, IA",3,2,4,3,6,0,2,4,3,9,2012
+52017,"Oakland, IA","Shelby, IA",0,7,1,0,6,2,1,6,1,8,2012
+52025,"Oakland, IA","Walnut, IA",1,2,1,1,1,2,1,2,1,4,2012
+52004,"Oakland, IA","Minden, IA",0,3,0,1,2,0,0,1,2,3,2012
+51981,"Oakland, IA","Carter Lake, IA",1,1,1,2,1,0,1,1,1,3,2012
+52002,"Oakland, IA","McClelland, IA",1,2,0,0,3,0,0,2,1,3,2012
+51991,"Oakland, IA","Grant, IA",1,2,0,0,3,0,2,1,0,3,2012
+52019,"Oakland, IA","Silver City, IA",0,1,1,0,1,1,1,0,1,2,2012
+52016,"Oakland, IA","Sergeant Bluff, IA",0,2,0,0,2,0,1,0,1,2,2012
+52023,"Oakland, IA","Underwood, IA",0,2,0,0,2,0,0,0,2,2,2012
+52000,"Oakland, IA","Macedonia, IA",0,2,0,0,2,0,0,0,2,2,2012
+51987,"Oakland, IA","Elliott, IA",1,1,0,0,2,0,1,0,1,2,2012
+51982,"Oakland, IA","Charter Oak, IA",0,0,2,0,2,0,0,1,1,2,2012
+52014,"Oakland, IA","Red Oak, IA",0,1,0,0,1,0,1,0,0,1,2012
+52013,"Oakland, IA","Randolph, IA",0,0,1,0,1,0,1,0,0,1,2012
+52015,"Oakland, IA","Rock Valley, IA",0,0,1,0,1,0,0,0,1,1,2012
+52012,"Oakland, IA","Pleasant Hill, IA",0,1,0,0,0,1,0,1,0,1,2012
+51977,"Oakland, IA","Ames, IA",0,0,1,0,1,0,0,1,0,1,2012
+52021,"Oakland, IA","Spring Hill, IA",1,0,0,0,1,0,1,0,0,1,2012
+52018,"Oakland, IA","Shenandoah, IA",0,1,0,0,1,0,0,1,0,1,2012
+52020,"Oakland, IA","Soldier, IA",0,0,1,0,1,0,1,0,0,1,2012
+52022,"Oakland, IA","Tennant, IA",0,0,1,0,1,0,0,1,0,1,2012
+52024,"Oakland, IA","Urbandale, IA",1,0,0,0,1,0,1,0,0,1,2012
+52026,"Oakland, IA","Waterloo, IA",1,0,0,0,1,0,1,0,0,1,2012
+52027,"Oakland, IA","Willey, IA",0,0,1,0,0,1,1,0,0,1,2012
+52028,"Oakland, IA","Wiota, IA",0,1,0,1,0,0,0,1,0,1,2012
+52011,"Oakland, IA","Pacific Junction, IA",0,0,1,0,1,0,0,1,0,1,2012
+52003,"Oakland, IA","Millerton, IA",0,1,0,0,0,1,1,0,0,1,2012
+52009,"Oakland, IA","Mount Vernon, IA",1,0,0,0,1,0,0,0,1,1,2012
+52008,"Oakland, IA","Moulton, IA",0,1,0,0,1,0,0,1,0,1,2012
+51979,"Oakland, IA","Buck Grove, IA",0,0,1,0,1,0,0,0,1,1,2012
+51984,"Oakland, IA","Dakota City, IA",0,1,0,0,1,0,0,1,0,1,2012
+51985,"Oakland, IA","Des Moines, IA",0,1,0,0,1,0,0,1,0,1,2012
+51986,"Oakland, IA","Elk Horn, IA",1,0,0,0,1,0,0,1,0,1,2012
+51988,"Oakland, IA","Fairfax, IA",1,0,0,0,1,0,0,1,0,1,2012
+51989,"Oakland, IA","Fairfield, IA",0,0,1,0,1,0,0,1,0,1,2012
+51990,"Oakland, IA","Grand Junction, IA",0,1,0,0,1,0,0,1,0,1,2012
+51993,"Oakland, IA","Harlan, IA",0,1,0,0,0,1,0,1,0,1,2012
+51994,"Oakland, IA","Hastings, IA",0,0,1,0,1,0,1,0,0,1,2012
+51995,"Oakland, IA","Imogene, IA",0,0,1,0,1,0,1,0,0,1,2012
+51996,"Oakland, IA","Inwood, IA",1,0,0,0,1,0,1,0,0,1,2012
+51997,"Oakland, IA","Le Mars, IA",1,0,0,0,1,0,1,0,0,1,2012
+51999,"Oakland, IA","Little Sioux, IA",0,0,1,0,0,1,0,1,0,1,2012
+52001,"Oakland, IA","Manning, IA",0,1,0,0,0,1,0,0,1,1,2012
+52005,"Oakland, IA","Missouri Valley, IA",0,0,1,0,0,1,1,0,0,1,2012
+52006,"Oakland, IA","Mondamin, IA",0,0,1,0,1,0,0,1,0,1,2012
+52007,"Oakland, IA","Monticello, IA",1,0,0,0,1,0,0,0,1,1,2012
+52029,"Oakland, IA","Woodbine, IA",1,0,0,0,1,0,0,0,1,1,2012

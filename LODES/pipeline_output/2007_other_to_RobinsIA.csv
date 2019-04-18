@@ -1,0 +1,374 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+60165,"Robins, IA","Cedar Rapids, IA",381,676,205,227,828,207,485,504,273,1262,2007
+60259,"Robins, IA","Hiawatha, IA",254,553,184,136,697,158,357,342,292,991,2007
+60396,"Robins, IA","Robins, IA",189,596,189,102,754,118,317,313,344,974,2007
+60421,"Robins, IA","Springville, IA",35,63,21,18,78,23,50,41,28,119,2007
+60222,"Robins, IA","Fairfax, IA",22,55,23,21,60,19,35,38,27,100,2007
+60315,"Robins, IA","Marion, IA",23,53,23,22,65,12,33,33,33,99,2007
+60369,"Robins, IA","Palo, IA",20,60,17,31,56,10,27,34,36,97,2007
+60142,"Robins, IA","Bertram, IA",22,53,17,14,63,15,30,40,22,92,2007
+60441,"Robins, IA","Urbana, IA",16,56,20,26,51,15,24,36,32,92,2007
+60167,"Robins, IA","Center Point, IA",17,43,15,16,44,15,16,35,24,75,2007
+60267,"Robins, IA","Iowa City, IA",25,39,10,5,49,20,29,20,25,74,2007
+60204,"Robins, IA","Dubuque, IA",27,27,10,0,25,39,28,23,13,64,2007
+60189,"Robins, IA","Davenport, IA",23,32,4,3,25,31,28,12,19,59,2007
+60318,"Robins, IA","Martelle, IA",12,28,13,10,33,10,16,19,18,53,2007
+60198,"Robins, IA","Des Moines, IA",19,24,9,2,32,18,18,23,11,52,2007
+60454,"Robins, IA","Waterloo, IA",20,17,8,2,27,16,19,17,9,45,2007
+60299,"Robins, IA","Lisbon, IA",11,25,9,9,30,6,17,10,18,45,2007
+60332,"Robins, IA","Morley, IA",14,21,5,6,25,9,10,21,9,40,2007
+60330,"Robins, IA","Monticello, IA",6,23,7,9,23,4,4,15,17,36,2007
+60352,"Robins, IA","North Liberty, IA",7,22,6,6,18,11,10,9,16,35,2007
+60382,"Robins, IA","Prairieburg, IA",5,23,7,12,19,4,5,14,16,35,2007
+60168,"Robins, IA","Central City, IA",7,24,4,7,19,9,12,14,9,35,2007
+60122,"Robins, IA","Anamosa, IA",12,17,4,9,15,9,8,17,8,33,2007
+60174,"Robins, IA","Clinton, IA",10,18,4,6,14,12,13,10,9,32,2007
+60180,"Robins, IA","Coralville, IA",8,21,1,5,16,9,14,12,4,30,2007
+60449,"Robins, IA","Walford, IA",4,22,3,9,13,7,10,9,10,29,2007
+60439,"Robins, IA","University Heights, IA",11,13,5,1,21,7,14,8,7,29,2007
+60121,"Robins, IA","Ames, IA",14,13,1,1,14,13,16,9,3,28,2007
+60164,"Robins, IA","Cedar Falls, IA",14,8,5,2,12,13,12,9,6,27,2007
+60446,"Robins, IA","Vinton, IA",7,11,6,11,9,4,7,12,5,24,2007
+60476,"Robins, IA","Windsor Heights, IA",8,15,0,3,13,7,7,11,5,23,2007
+60216,"Robins, IA","Ely, IA",5,11,6,4,10,8,9,6,7,22,2007
+60143,"Robins, IA","Bettendorf, IA",8,12,1,1,12,8,10,5,6,21,2007
+60176,"Robins, IA","Coggon, IA",4,16,0,5,14,1,4,8,8,20,2007
+60378,"Robins, IA","Pleasant Hill, IA",7,10,3,0,11,9,12,7,1,20,2007
+60411,"Robins, IA","Shueyville, IA",5,12,2,4,9,6,3,8,8,19,2007
+60183,"Robins, IA","Council Bluffs, IA",8,8,2,4,7,7,12,3,3,18,2007
+60311,"Robins, IA","Manchester, IA",6,9,3,7,10,1,4,7,7,18,2007
+60337,"Robins, IA","Mount Vernon, IA",6,7,3,2,9,5,4,5,7,16,2007
+60367,"Robins, IA","Oxford, IA",3,10,3,3,9,4,6,6,4,16,2007
+60453,"Robins, IA","Washington, IA",5,9,2,0,9,7,8,6,2,16,2007
+60317,"Robins, IA","Marshalltown, IA",9,6,1,2,7,7,10,3,3,16,2007
+60211,"Robins, IA","Elberon, IA",8,8,0,2,10,4,10,3,3,16,2007
+60127,"Robins, IA","Asbury, IA",4,7,4,1,5,9,6,3,6,15,2007
+60265,"Robins, IA","Independence, IA",8,5,2,2,6,7,4,6,5,15,2007
+60262,"Robins, IA","Hopkinton, IA",4,10,1,10,4,1,0,7,8,15,2007
+60156,"Robins, IA","Burlington, IA",6,7,1,1,7,6,10,3,1,14,2007
+60151,"Robins, IA","Brandon, IA",2,12,0,4,6,4,0,8,6,14,2007
+60175,"Robins, IA","Clive, IA",6,5,2,1,4,8,7,0,6,13,2007
+60191,"Robins, IA","De Witt, IA",8,5,0,2,7,4,7,3,3,13,2007
+60358,"Robins, IA","Oelwein, IA",4,9,0,1,6,6,4,7,2,13,2007
+60207,"Robins, IA","Dyersville, IA",7,4,2,0,8,5,9,4,0,13,2007
+60433,"Robins, IA","Tiffin, IA",4,8,1,1,8,4,3,4,6,13,2007
+60192,"Robins, IA","Decorah, IA",9,3,0,1,8,3,7,5,0,12,2007
+60414,"Robins, IA","Sioux City, IA",5,6,1,0,5,7,6,1,5,12,2007
+60442,"Robins, IA","Urbandale, IA",6,6,0,0,6,6,7,5,0,12,2007
+60166,"Robins, IA","Center Junction, IA",3,5,3,3,4,4,4,2,5,11,2007
+60312,"Robins, IA","Maquoketa, IA",7,2,2,5,2,4,6,3,2,11,2007
+60129,"Robins, IA","Atkins, IA",4,5,2,3,7,1,3,3,5,11,2007
+60150,"Robins, IA","Boone, IA",7,3,0,0,5,5,4,4,2,10,2007
+60197,"Robins, IA","Denver, IA",5,4,1,1,2,7,4,3,3,10,2007
+60339,"Robins, IA","Muscatine, IA",5,3,1,0,3,6,7,1,1,9,2007
+60395,"Robins, IA","Riverside, IA",4,4,1,0,6,3,2,5,2,9,2007
+60402,"Robins, IA","Ryan, IA",1,7,1,6,2,1,1,4,4,9,2007
+60458,"Robins, IA","Waverly, IA",4,4,1,0,2,7,7,2,0,9,2007
+60434,"Robins, IA","Tipton, IA",2,6,1,1,4,4,3,3,3,9,2007
+60144,"Robins, IA","Blairstown, IA",2,7,0,3,2,4,1,4,4,9,2007
+60125,"Robins, IA","Ankeny, IA",6,2,1,0,4,5,8,1,0,9,2007
+60474,"Robins, IA","Williamsburg, IA",3,5,0,0,5,3,4,3,1,8,2007
+60219,"Robins, IA","Evansdale, IA",2,6,0,0,6,2,3,4,1,8,2007
+60322,"Robins, IA","Mechanicsville, IA",2,5,1,2,6,0,4,2,2,8,2007
+60135,"Robins, IA","Balltown, IA",2,5,1,0,3,5,8,0,0,8,2007
+60371,"Robins, IA","Panorama Park, IA",4,4,0,0,4,4,3,4,1,8,2007
+60478,"Robins, IA","Winthrop, IA",0,8,0,5,3,0,0,4,4,8,2007
+60431,"Robins, IA","Swisher, IA",1,7,0,1,6,1,2,3,3,8,2007
+60246,"Robins, IA","Grinnell, IA",4,3,0,0,2,5,6,1,0,7,2007
+60344,"Robins, IA","New Hampton, IA",3,4,0,3,2,2,3,1,3,7,2007
+60467,"Robins, IA","West Des Moines, IA",3,2,2,1,5,1,2,4,1,7,2007
+60372,"Robins, IA","Parkersburg, IA",1,5,1,0,3,4,1,5,1,7,2007
+60405,"Robins, IA","Sageville, IA",3,2,2,1,3,3,4,2,1,7,2007
+60274,"Robins, IA","Keokuk, IA",2,4,0,0,3,3,2,2,2,6,2007
+60139,"Robins, IA","Bellevue, IA",2,2,2,1,2,3,2,2,2,6,2007
+60224,"Robins, IA","Farley, IA",1,5,0,1,3,2,2,3,1,6,2007
+60280,"Robins, IA","Knoxville, IA",2,3,1,0,6,0,3,2,1,6,2007
+60365,"Robins, IA","Ottumwa, IA",3,1,2,1,0,5,3,0,3,6,2007
+60391,"Robins, IA","Reinbeck, IA",3,2,1,0,4,2,4,1,1,6,2007
+60450,"Robins, IA","Walker, IA",1,5,0,1,5,0,2,1,3,6,2007
+60409,"Robins, IA","Shell Rock, IA",4,1,1,0,2,4,4,2,0,6,2007
+60272,"Robins, IA","Johnston, IA",1,4,0,0,5,0,4,0,1,5,2007
+60239,"Robins, IA","Grand Mound, IA",3,1,1,2,3,0,4,0,1,5,2007
+60271,"Robins, IA","Jesup, IA",1,4,0,0,3,2,1,1,3,5,2007
+60355,"Robins, IA","Norway, IA",1,3,1,3,2,0,2,3,0,5,2007
+60266,"Robins, IA","Indianola, IA",1,4,0,0,3,2,0,1,4,5,2007
+60347,"Robins, IA","New London, IA",1,2,2,0,5,0,3,1,1,5,2007
+60214,"Robins, IA","Elk Run Heights, IA",3,1,1,0,2,3,5,0,0,5,2007
+60213,"Robins, IA","Eldridge, IA",2,2,1,1,2,2,0,3,2,5,2007
+60363,"Robins, IA","Oskaloosa, IA",2,2,1,0,1,4,3,1,1,5,2007
+60457,"Robins, IA","Waukon, IA",3,1,1,1,3,1,3,2,0,5,2007
+60375,"Robins, IA","Peosta, IA",0,4,1,1,1,3,0,3,2,5,2007
+60335,"Robins, IA","Mount Auburn, IA",3,2,0,1,4,0,4,1,0,5,2007
+60293,"Robins, IA","Le Grand, IA",3,2,0,0,3,2,3,2,0,5,2007
+60314,"Robins, IA","Marengo, IA",0,3,1,0,2,2,0,2,2,4,2007
+60136,"Robins, IA","Beaman, IA",3,1,0,0,3,1,3,1,0,4,2007
+60354,"Robins, IA","Norwalk, IA",2,2,0,0,1,3,1,2,1,4,2007
+60426,"Robins, IA","Story City, IA",3,1,0,0,2,2,3,0,1,4,2007
+60138,"Robins, IA","Belle Plaine, IA",2,1,1,1,3,0,2,1,1,4,2007
+60134,"Robins, IA","Baldwin, IA",1,2,1,1,1,2,3,1,0,4,2007
+60475,"Robins, IA","Wilton, IA",1,2,1,1,1,2,1,3,0,4,2007
+60443,"Robins, IA","Van Horne, IA",1,3,0,2,2,0,0,3,1,4,2007
+60456,"Robins, IA","Waukee, IA",2,1,1,0,3,1,1,2,1,4,2007
+60157,"Robins, IA","Camanche, IA",1,2,1,0,2,2,2,0,2,4,2007
+60445,"Robins, IA","Victor, IA",0,4,0,1,2,1,2,0,2,4,2007
+60155,"Robins, IA","Buffalo, IA",1,3,0,0,4,0,1,2,1,4,2007
+60447,"Robins, IA","Wadena, IA",2,0,2,0,3,1,1,0,3,4,2007
+60342,"Robins, IA","Nevada, IA",0,4,0,0,2,2,1,1,2,4,2007
+60420,"Robins, IA","Springbrook, IA",2,2,0,2,1,1,2,1,1,4,2007
+60221,"Robins, IA","Fairbank, IA",3,1,0,0,2,2,3,1,0,4,2007
+60349,"Robins, IA","Newton, IA",1,2,0,0,3,0,1,1,1,3,2007
+60185,"Robins, IA","Cresco, IA",0,3,0,0,3,0,1,1,1,3,2007
+60432,"Robins, IA","Tama, IA",2,1,0,0,2,1,3,0,0,3,2007
+60294,"Robins, IA","Le Mars, IA",2,0,1,1,0,2,2,1,0,3,2007
+60387,"Robins, IA","Raymond, IA",1,1,1,0,3,0,1,2,0,3,2007
+60253,"Robins, IA","Hartwick, IA",1,1,1,0,3,0,2,0,1,3,2007
+60115,"Robins, IA","Albion, IA",3,0,0,1,1,1,2,1,0,3,2007
+60186,"Robins, IA","Creston, IA",2,1,0,0,1,2,2,1,0,3,2007
+60418,"Robins, IA","Spencer, IA",2,1,0,0,0,3,1,1,1,3,2007
+60260,"Robins, IA","Hills, IA",1,2,0,0,2,1,2,0,1,3,2007
+60120,"Robins, IA","Altoona, IA",0,1,2,0,2,1,0,2,1,3,2007
+60184,"Robins, IA","Crawfordsville, IA",2,0,1,3,0,0,0,2,1,3,2007
+60422,"Robins, IA","St. Paul, IA",0,3,0,0,2,1,2,1,0,3,2007
+60460,"Robins, IA","Webster City, IA",1,1,1,0,2,1,3,0,0,3,2007
+60268,"Robins, IA","Iowa Falls, IA",0,2,1,0,3,0,2,0,1,3,2007
+60305,"Robins, IA","Lowden, IA",1,2,0,1,1,1,0,2,1,3,2007
+60303,"Robins, IA","Long Grove, IA",2,1,0,0,3,0,2,0,1,3,2007
+60249,"Robins, IA","Guttenberg, IA",0,1,2,0,3,0,2,1,0,3,2007
+60137,"Robins, IA","Bedford, IA",1,2,0,1,0,2,1,2,0,3,2007
+60247,"Robins, IA","Grundy Center, IA",1,0,2,0,0,3,1,2,0,3,2007
+60325,"Robins, IA","Millville, IA",2,1,0,1,1,1,0,1,2,3,2007
+60452,"Robins, IA","Wapello, IA",0,2,1,0,2,1,1,0,2,3,2007
+60159,"Robins, IA","Carlisle, IA",1,2,0,0,1,2,2,0,1,3,2007
+60153,"Robins, IA","Bronson, IA",2,1,0,0,1,2,2,1,0,3,2007
+60360,"Robins, IA","Orange City, IA",2,1,0,0,1,2,2,0,1,3,2007
+60208,"Robins, IA","Dysart, IA",0,3,0,2,1,0,0,3,0,3,2007
+60392,"Robins, IA","Rhodes, IA",0,3,0,0,0,3,1,1,1,3,2007
+60470,"Robins, IA","West Union, IA",1,2,0,0,1,2,2,0,1,3,2007
+60146,"Robins, IA","Bloomfield, IA",2,1,0,0,0,3,2,1,0,3,2007
+60223,"Robins, IA","Fairfield, IA",1,1,1,0,3,0,2,0,1,3,2007
+60141,"Robins, IA","Bennett, IA",3,0,0,2,0,1,1,0,2,3,2007
+60366,"Robins, IA","Oxford Junction, IA",1,1,1,0,2,1,2,0,1,3,2007
+60393,"Robins, IA","Ridgeway, IA",2,1,0,1,1,1,2,1,0,3,2007
+60327,"Robins, IA","Mitchellville, IA",2,1,0,0,1,2,3,0,0,3,2007
+60465,"Robins, IA","West Branch, IA",2,1,0,0,2,1,0,2,1,3,2007
+60234,"Robins, IA","Garner, IA",0,3,0,0,2,1,1,2,0,3,2007
+60245,"Robins, IA","Grimes, IA",2,1,0,1,0,2,1,2,0,3,2007
+60336,"Robins, IA","Mount Pleasant, IA",1,2,0,0,2,1,2,1,0,3,2007
+60351,"Robins, IA","North English, IA",0,3,0,2,1,0,0,1,2,3,2007
+60320,"Robins, IA","Mason City, IA",1,1,1,1,0,2,1,2,0,3,2007
+60241,"Robins, IA","Granger, IA",2,1,0,1,0,2,2,0,1,3,2007
+60238,"Robins, IA","Glenwood, IA",2,1,0,1,0,2,0,3,0,3,2007
+60343,"Robins, IA","New Albin, IA",2,1,0,0,2,1,1,2,0,3,2007
+60306,"Robins, IA","Luana, IA",1,1,0,1,1,0,0,2,0,2,2007
+60313,"Robins, IA","Marble Rock, IA",2,0,0,0,1,1,0,2,0,2,2007
+60340,"Robins, IA","Mystic, IA",1,1,0,0,1,1,1,1,0,2,2007
+60296,"Robins, IA","Lidderdale, IA",1,0,1,2,0,0,0,2,0,2,2007
+60399,"Robins, IA","Roland, IA",1,1,0,0,1,1,1,0,1,2,2007
+60403,"Robins, IA","Sabula, IA",2,0,0,1,1,0,1,1,0,2,2007
+60383,"Robins, IA","Preston, IA",0,2,0,0,0,2,1,0,1,2,2007
+60374,"Robins, IA","Pella, IA",1,1,0,0,1,1,1,0,1,2,2007
+60302,"Robins, IA","Lone Tree, IA",1,1,0,0,1,1,2,0,0,2,2007
+60368,"Robins, IA","Pacific Junction, IA",1,1,0,0,0,2,2,0,0,2,2007
+60331,"Robins, IA","Montour, IA",1,1,0,0,1,1,1,0,1,2,2007
+60390,"Robins, IA","Redfield, IA",0,2,0,0,1,1,0,2,0,2,2007
+60309,"Robins, IA","Madrid, IA",0,0,2,0,2,0,1,1,0,2,2007
+60304,"Robins, IA","Lost Nation, IA",0,2,0,0,1,1,1,1,0,2,2007
+60350,"Robins, IA","Nodaway, IA",2,0,0,0,1,1,2,0,0,2,2007
+60373,"Robins, IA","Parnell, IA",0,2,0,0,1,1,0,1,1,2,2007
+60316,"Robins, IA","Marquette, IA",1,1,0,1,1,0,1,0,1,2,2007
+60376,"Robins, IA","Perry, IA",1,0,1,1,1,0,1,0,1,2,2007
+60210,"Robins, IA","Edgewood, IA",0,2,0,1,0,1,2,0,0,2,2007
+60242,"Robins, IA","Greeley, IA",0,2,0,0,2,0,0,1,1,2,2007
+60236,"Robins, IA","Gilbert, IA",0,1,1,0,1,1,1,0,1,2,2007
+60468,"Robins, IA","West Liberty, IA",1,1,0,1,0,1,1,0,1,2,2007
+60152,"Robins, IA","Brighton, IA",0,2,0,0,1,1,0,1,1,2,2007
+60232,"Robins, IA","Frederika, IA",1,1,0,0,2,0,1,1,0,2,2007
+60440,"Robins, IA","University Park, IA",0,2,0,1,0,1,1,1,0,2,2007
+60230,"Robins, IA","Fort Madison, IA",1,1,0,0,0,2,1,0,1,2,2007
+60154,"Robins, IA","Brooklyn, IA",1,0,1,1,0,1,1,1,0,2,2007
+60229,"Robins, IA","Fort Dodge, IA",1,0,1,0,0,2,1,1,0,2,2007
+60160,"Robins, IA","Carter Lake, IA",1,0,1,0,1,1,1,1,0,2,2007
+60212,"Robins, IA","Eldora, IA",0,2,0,1,0,1,0,1,1,2,2007
+60161,"Robins, IA","Cascade, IA",1,1,0,1,1,0,0,1,1,2,2007
+60209,"Robins, IA","Eagle Grove, IA",1,1,0,0,0,2,1,1,0,2,2007
+60466,"Robins, IA","West Burlington, IA",1,1,0,0,1,1,2,0,0,2,2007
+60201,"Robins, IA","Dixon, IA",1,0,1,0,0,2,1,0,1,2,2007
+60196,"Robins, IA","Denison, IA",1,0,1,0,1,1,2,0,0,2,2007
+60195,"Robins, IA","Deloit, IA",0,1,1,0,2,0,1,1,0,2,2007
+60163,"Robins, IA","Castalia, IA",0,1,1,0,2,0,1,1,0,2,2007
+60464,"Robins, IA","Welton, IA",1,1,0,0,2,0,0,1,1,2,2007
+60181,"Robins, IA","Corning, IA",2,0,0,0,2,0,2,0,0,2,2007
+60171,"Robins, IA","Clarence, IA",2,0,0,0,2,0,2,0,0,2,2007
+60178,"Robins, IA","Columbus Junction, IA",1,1,0,0,0,2,1,0,1,2,2007
+60463,"Robins, IA","Wellsburg, IA",0,1,1,0,1,1,1,1,0,2,2007
+60177,"Robins, IA","Colfax, IA",0,2,0,0,0,2,0,1,1,2,2007
+60437,"Robins, IA","Traer, IA",1,1,0,0,2,0,1,0,1,2,2007
+60436,"Robins, IA","Toledo, IA",0,2,0,1,1,0,1,0,1,2,2007
+60269,"Robins, IA","Janesville, IA",0,2,0,1,0,1,1,1,0,2,2007
+60425,"Robins, IA","Storm Lake, IA",1,1,0,0,1,1,2,0,0,2,2007
+60114,"Robins, IA","Ainsworth, IA",1,1,0,1,1,0,0,2,0,2,2007
+60287,"Robins, IA","Lamoni, IA",1,1,0,0,1,1,1,0,1,2,2007
+60116,"Robins, IA","Alden, IA",0,2,0,0,0,2,2,0,0,2,2007
+60482,"Robins, IA","Wyoming, IA",1,1,0,0,1,1,1,1,0,2,2007
+60416,"Robins, IA","Sloan, IA",1,1,0,0,1,1,0,1,1,2,2007
+60282,"Robins, IA","Ladora, IA",2,0,0,1,1,0,1,1,0,2,2007
+60417,"Robins, IA","Solon, IA",0,2,0,0,2,0,1,0,1,2,2007
+60419,"Robins, IA","Spirit Lake, IA",2,0,0,0,0,2,2,0,0,2,2007
+60273,"Robins, IA","Kalona, IA",0,2,0,0,1,1,1,1,0,2,2007
+60377,"Robins, IA","Plainfield, IA",1,1,0,0,1,1,1,1,0,2,2007
+60462,"Robins, IA","Wellman, IA",2,0,0,0,1,1,1,1,0,2,2007
+60473,"Robins, IA","Wheatland, IA",0,1,1,1,1,0,0,1,1,2,2007
+60250,"Robins, IA","Hampton, IA",0,1,1,2,0,0,1,1,0,2,2007
+60257,"Robins, IA","Hazleton, IA",0,2,0,0,2,0,0,2,0,2,2007
+60428,"Robins, IA","Strawberry Point, IA",1,1,0,1,1,0,2,0,0,2,2007
+60477,"Robins, IA","Winterset, IA",1,0,0,0,1,0,1,0,0,1,2007
+60481,"Robins, IA","Woodbine, IA",1,0,0,0,0,1,1,0,0,1,2007
+60386,"Robins, IA","Randolph, IA",1,0,0,0,1,0,1,0,0,1,2007
+60381,"Robins, IA","Popejoy, IA",0,1,0,0,1,0,1,0,0,1,2007
+60483,"Robins, IA","Yetter, IA",1,0,0,0,0,1,0,1,0,1,2007
+60469,"Robins, IA","West Point, IA",1,0,0,0,1,0,0,1,0,1,2007
+60385,"Robins, IA","Randall, IA",0,1,0,0,1,0,0,1,0,1,2007
+60379,"Robins, IA","Polk City, IA",1,0,0,0,0,1,1,0,0,1,2007
+60384,"Robins, IA","Princeton, IA",0,0,1,0,1,0,0,0,1,1,2007
+60480,"Robins, IA","Woden, IA",0,1,0,0,1,0,0,1,0,1,2007
+60471,"Robins, IA","Westfield, IA",0,0,1,0,1,0,1,0,0,1,2007
+60472,"Robins, IA","Westside, IA",0,1,0,0,0,1,0,1,0,1,2007
+60479,"Robins, IA","Wiota, IA",0,1,0,1,0,0,0,0,1,1,2007
+60380,"Robins, IA","Pomeroy, IA",0,1,0,0,1,0,0,1,0,1,2007
+60410,"Robins, IA","Shenandoah, IA",0,1,0,0,1,0,1,0,0,1,2007
+60388,"Robins, IA","Readlyn, IA",0,1,0,0,0,1,0,1,0,1,2007
+60461,"Robins, IA","Webster, IA",1,0,0,0,1,0,1,0,0,1,2007
+60408,"Robins, IA","Shannon City, IA",0,1,0,0,1,0,0,0,1,1,2007
+60413,"Robins, IA","Silver City, IA",1,0,0,0,1,0,1,0,0,1,2007
+60407,"Robins, IA","Schleswig, IA",1,0,0,0,0,1,1,0,0,1,2007
+60415,"Robins, IA","Slater, IA",1,0,0,0,0,1,1,0,0,1,2007
+60406,"Robins, IA","Salem, IA",0,1,0,0,1,0,1,0,0,1,2007
+60404,"Robins, IA","Sac City, IA",0,0,1,0,1,0,1,0,0,1,2007
+60423,"Robins, IA","Stanley, IA",1,0,0,0,0,1,1,0,0,1,2007
+60424,"Robins, IA","Stanton, IA",0,1,0,0,1,0,0,1,0,1,2007
+60401,"Robins, IA","Ruthven, IA",0,1,0,0,0,1,1,0,0,1,2007
+60427,"Robins, IA","Stratford, IA",1,0,0,0,0,1,1,0,0,1,2007
+60400,"Robins, IA","Runnells, IA",0,1,0,0,0,1,0,0,1,1,2007
+60429,"Robins, IA","Sumner, IA",1,0,0,0,0,1,0,1,0,1,2007
+60430,"Robins, IA","Swan, IA",0,1,0,0,1,0,1,0,0,1,2007
+60435,"Robins, IA","Titonka, IA",1,0,0,0,0,1,1,0,0,1,2007
+60398,"Robins, IA","Rockford, IA",0,0,1,0,0,1,0,1,0,1,2007
+60397,"Robins, IA","Rock Rapids, IA",0,0,1,0,1,0,0,0,1,1,2007
+60438,"Robins, IA","Tripoli, IA",0,1,0,0,0,1,0,1,0,1,2007
+60394,"Robins, IA","Riverdale, IA",1,0,0,0,0,1,1,0,0,1,2007
+60444,"Robins, IA","Van Meter, IA",1,0,0,0,0,1,1,0,0,1,2007
+60448,"Robins, IA","Walcott, IA",1,0,0,0,1,0,0,1,0,1,2007
+60412,"Robins, IA","Sigourney, IA",1,0,0,0,1,0,1,0,0,1,2007
+60451,"Robins, IA","Wall Lake, IA",0,1,0,0,1,0,0,1,0,1,2007
+60455,"Robins, IA","Waucoma, IA",0,0,1,0,1,0,0,1,0,1,2007
+60459,"Robins, IA","Wayland, IA",1,0,0,0,0,1,1,0,0,1,2007
+60389,"Robins, IA","Red Oak, IA",1,0,0,0,1,0,1,0,0,1,2007
+60112,"Robins, IA","Adel, IA",1,0,0,0,1,0,0,1,0,1,2007
+60298,"Robins, IA","Lincoln, IA",0,1,0,0,0,1,0,1,0,1,2007
+60370,"Robins, IA","Panama, IA",0,1,0,0,0,1,0,1,0,1,2007
+60188,"Robins, IA","Cushing, IA",1,0,0,0,0,1,0,1,0,1,2007
+60193,"Robins, IA","Dedham, IA",0,1,0,0,0,1,0,1,0,1,2007
+60194,"Robins, IA","Delaware, IA",1,0,0,0,0,1,1,0,0,1,2007
+60199,"Robins, IA","Dexter, IA",0,1,0,0,0,1,0,1,0,1,2007
+60200,"Robins, IA","Dike, IA",0,1,0,0,0,1,0,0,1,1,2007
+60202,"Robins, IA","Donnellson, IA",0,1,0,0,1,0,0,1,0,1,2007
+60203,"Robins, IA","Dougherty, IA",1,0,0,0,1,0,1,0,0,1,2007
+60205,"Robins, IA","Dunkerton, IA",0,1,0,0,1,0,0,1,0,1,2007
+60206,"Robins, IA","Durant, IA",1,0,0,1,0,0,0,0,1,1,2007
+60215,"Robins, IA","Elliott, IA",0,1,0,0,1,0,0,1,0,1,2007
+60217,"Robins, IA","Epworth, IA",1,0,0,0,1,0,0,1,0,1,2007
+60218,"Robins, IA","Estherville, IA",0,0,1,0,0,1,1,0,0,1,2007
+60220,"Robins, IA","Exira, IA",0,0,1,0,1,0,0,0,1,1,2007
+60225,"Robins, IA","Ferguson, IA",0,1,0,0,1,0,0,1,0,1,2007
+60226,"Robins, IA","Floris, IA",1,0,0,0,0,1,1,0,0,1,2007
+60227,"Robins, IA","Fonda, IA",1,0,0,0,0,1,1,0,0,1,2007
+60228,"Robins, IA","Fort Atkinson, IA",0,1,0,0,1,0,0,1,0,1,2007
+60231,"Robins, IA","Fredericksburg, IA",0,0,1,1,0,0,1,0,0,1,2007
+60233,"Robins, IA","Fruitland, IA",0,1,0,1,0,0,0,1,0,1,2007
+60235,"Robins, IA","Garwin, IA",0,1,0,0,1,0,0,1,0,1,2007
+60237,"Robins, IA","Gilman, IA",0,1,0,0,1,0,1,0,0,1,2007
+60240,"Robins, IA","Grandview, IA",1,0,0,0,0,1,0,1,0,1,2007
+60243,"Robins, IA","Greene, IA",0,0,1,0,1,0,1,0,0,1,2007
+60244,"Robins, IA","Greenfield, IA",1,0,0,0,0,1,1,0,0,1,2007
+60190,"Robins, IA","De Soto, IA",0,0,1,0,0,1,1,0,0,1,2007
+60187,"Robins, IA","Curlew, IA",1,0,0,0,0,1,1,0,0,1,2007
+60251,"Robins, IA","Harlan, IA",1,0,0,0,0,1,1,0,0,1,2007
+60182,"Robins, IA","Corydon, IA",1,0,0,0,0,1,0,1,0,1,2007
+60117,"Robins, IA","Allison, IA",0,1,0,0,1,0,0,1,0,1,2007
+60118,"Robins, IA","Alta Vista, IA",0,1,0,1,0,0,0,1,0,1,2007
+60119,"Robins, IA","Alton, IA",1,0,0,0,0,1,0,1,0,1,2007
+60123,"Robins, IA","Andover, IA",1,0,0,0,0,1,1,0,0,1,2007
+60124,"Robins, IA","Andrew, IA",0,1,0,0,0,1,0,1,0,1,2007
+60126,"Robins, IA","Arlington, IA",1,0,0,0,0,1,1,0,0,1,2007
+60128,"Robins, IA","Ashton, IA",0,1,0,0,0,1,0,0,1,1,2007
+60130,"Robins, IA","Audubon, IA",0,1,0,0,0,1,0,1,0,1,2007
+60131,"Robins, IA","Aurelia, IA",1,0,0,0,0,1,1,0,0,1,2007
+60132,"Robins, IA","Aurora, IA",0,1,0,1,0,0,0,0,1,1,2007
+60133,"Robins, IA","Bagley, IA",0,1,0,0,1,0,0,0,1,1,2007
+60140,"Robins, IA","Belmond, IA",0,1,0,0,1,0,1,0,0,1,2007
+60145,"Robins, IA","Blakesburg, IA",1,0,0,0,0,1,1,0,0,1,2007
+60147,"Robins, IA","Blue Grass, IA",0,0,1,0,0,1,0,0,1,1,2007
+60148,"Robins, IA","Bonaparte, IA",0,1,0,0,0,1,1,0,0,1,2007
+60149,"Robins, IA","Bondurant, IA",1,0,0,0,0,1,0,1,0,1,2007
+60158,"Robins, IA","Cantril, IA",1,0,0,0,0,1,0,1,0,1,2007
+60162,"Robins, IA","Casey, IA",0,1,0,0,0,1,0,0,1,1,2007
+60169,"Robins, IA","Chariton, IA",0,1,0,0,0,1,0,1,0,1,2007
+60170,"Robins, IA","Cincinnati, IA",0,1,0,0,0,1,0,1,0,1,2007
+60172,"Robins, IA","Clear Lake, IA",0,0,1,0,1,0,1,0,0,1,2007
+60173,"Robins, IA","Clearfield, IA",0,1,0,0,0,1,1,0,0,1,2007
+60179,"Robins, IA","Colwell, IA",0,1,0,0,1,0,0,1,0,1,2007
+60248,"Robins, IA","Guernsey, IA",0,1,0,0,1,0,1,0,0,1,2007
+60252,"Robins, IA","Harpers Ferry, IA",0,1,0,0,1,0,0,0,1,1,2007
+60364,"Robins, IA","Otho, IA",1,0,0,1,0,0,0,1,0,1,2007
+60300,"Robins, IA","Liscomb, IA",1,0,0,0,0,1,0,1,0,1,2007
+60307,"Robins, IA","Lynnville, IA",1,0,0,0,0,1,1,0,0,1,2007
+60308,"Robins, IA","Macksburg, IA",0,1,0,0,0,1,0,0,1,1,2007
+60310,"Robins, IA","Malcom, IA",0,1,0,1,0,0,0,1,0,1,2007
+60319,"Robins, IA","Marysville, IA",0,1,0,0,0,1,0,0,1,1,2007
+60321,"Robins, IA","Maxwell, IA",0,1,0,0,1,0,0,1,0,1,2007
+60323,"Robins, IA","Merrill, IA",1,0,0,0,0,1,1,0,0,1,2007
+60324,"Robins, IA","Middletown, IA",0,1,0,0,0,1,0,1,0,1,2007
+60326,"Robins, IA","Missouri Valley, IA",1,0,0,0,0,1,1,0,0,1,2007
+60328,"Robins, IA","Monona, IA",1,0,0,0,1,0,1,0,0,1,2007
+60329,"Robins, IA","Monroe, IA",1,0,0,0,0,1,1,0,0,1,2007
+60333,"Robins, IA","Morrison, IA",0,1,0,0,1,0,1,0,0,1,2007
+60334,"Robins, IA","Moulton, IA",0,1,0,1,0,0,0,1,0,1,2007
+60338,"Robins, IA","Moville, IA",0,1,0,0,0,1,1,0,0,1,2007
+60341,"Robins, IA","Nashua, IA",0,1,0,0,1,0,0,1,0,1,2007
+60345,"Robins, IA","New Hartford, IA",0,1,0,0,0,1,0,1,0,1,2007
+60346,"Robins, IA","New Liberty, IA",1,0,0,0,1,0,0,1,0,1,2007
+60348,"Robins, IA","New Sharon, IA",1,0,0,0,0,1,1,0,0,1,2007
+60353,"Robins, IA","Northwood, IA",0,1,0,0,0,1,0,1,0,1,2007
+60356,"Robins, IA","Oakville, IA",1,0,0,0,0,1,1,0,0,1,2007
+60357,"Robins, IA","Odebolt, IA",1,0,0,1,0,0,1,0,0,1,2007
+60359,"Robins, IA","Ogden, IA",1,0,0,0,0,1,1,0,0,1,2007
+60361,"Robins, IA","Orient, IA",1,0,0,0,1,0,1,0,0,1,2007
+60362,"Robins, IA","Osceola, IA",1,0,0,0,0,1,1,0,0,1,2007
+60301,"Robins, IA","Livermore, IA",0,0,1,0,1,0,1,0,0,1,2007
+60113,"Robins, IA","Afton, IA",0,0,1,0,0,1,1,0,0,1,2007
+60254,"Robins, IA","Harvey, IA",0,1,0,0,1,0,0,1,0,1,2007
+60297,"Robins, IA","Lime Springs, IA",1,0,0,1,0,0,0,1,0,1,2007
+60255,"Robins, IA","Hawarden, IA",1,0,0,0,0,1,1,0,0,1,2007
+60256,"Robins, IA","Hawkeye, IA",0,1,0,1,0,0,0,0,1,1,2007
+60258,"Robins, IA","Henderson, IA",0,0,1,0,1,0,0,1,0,1,2007
+60261,"Robins, IA","Hinton, IA",1,0,0,1,0,0,0,0,1,1,2007
+60263,"Robins, IA","Houghton, IA",1,0,0,0,0,1,1,0,0,1,2007
+60264,"Robins, IA","Humboldt, IA",0,1,0,0,0,1,0,1,0,1,2007
+60270,"Robins, IA","Jefferson, IA",1,0,0,0,1,0,1,0,0,1,2007
+60275,"Robins, IA","Keota, IA",0,1,0,0,1,0,0,1,0,1,2007
+60276,"Robins, IA","Keystone, IA",0,1,0,0,0,1,0,1,0,1,2007
+60277,"Robins, IA","Kimballton, IA",0,1,0,0,1,0,1,0,0,1,2007
+60278,"Robins, IA","Kinross, IA",0,1,0,1,0,0,0,0,1,1,2007
+60279,"Robins, IA","Knierim, IA",1,0,0,0,0,1,1,0,0,1,2007
+60281,"Robins, IA","La Porte City, IA",0,1,0,0,1,0,0,1,0,1,2007
+60283,"Robins, IA","Lake City, IA",0,1,0,0,0,1,0,1,0,1,2007
+60284,"Robins, IA","Lake Mills, IA",1,0,0,0,0,1,1,0,0,1,2007
+60285,"Robins, IA","Lakota, IA",0,1,0,0,0,1,0,1,0,1,2007
+60286,"Robins, IA","Lambs Grove, IA",1,0,0,1,0,0,0,0,1,1,2007
+60288,"Robins, IA","Lansing, IA",0,1,0,1,0,0,0,1,0,1,2007
+60289,"Robins, IA","Larchwood, IA",1,0,0,0,0,1,1,0,0,1,2007
+60290,"Robins, IA","Laurens, IA",0,0,1,0,1,0,1,0,0,1,2007
+60291,"Robins, IA","Lawler, IA",0,1,0,1,0,0,0,0,1,1,2007
+60292,"Robins, IA","Le Claire, IA",1,0,0,0,0,1,0,1,0,1,2007
+60295,"Robins, IA","Leon, IA",1,0,0,0,0,1,1,0,0,1,2007
+60484,"Robins, IA","Zwingle, IA",1,0,0,0,1,0,0,1,0,1,2007

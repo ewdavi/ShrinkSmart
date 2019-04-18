@@ -1,0 +1,361 @@
+,home city,work city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+69470,"Urbandale, IA","Des Moines, IA",1118,3612,1392,427,5088,607,829,1610,3683,6122,2011
+69446,"Urbandale, IA","Clive, IA",842,1884,528,24,2676,554,693,962,1599,3254,2011
+69707,"Urbandale, IA","Urbandale, IA",717,1805,679,178,2286,737,931,912,1358,3201,2011
+69543,"Urbandale, IA","Johnston, IA",257,854,297,52,769,587,324,333,751,1408,2011
+69732,"Urbandale, IA","Windsor Heights, IA",209,530,240,65,723,191,322,292,365,979,2011
+69726,"Urbandale, IA","West Des Moines, IA",189,572,176,178,557,202,217,276,444,937,2011
+69395,"Urbandale, IA","Ankeny, IA",264,503,158,159,481,285,229,289,407,925,2011
+69718,"Urbandale, IA","Waukee, IA",192,408,110,45,550,115,163,238,309,710,2011
+69517,"Urbandale, IA","Grimes, IA",74,169,65,99,103,106,100,72,136,308,2011
+69640,"Urbandale, IA","Pleasant Hill, IA",67,152,67,71,118,97,78,95,113,286,2011
+69392,"Urbandale, IA","Ames, IA",103,126,48,32,188,57,89,76,112,277,2011
+69391,"Urbandale, IA","Altoona, IA",86,119,43,18,141,89,83,102,63,248,2011
+69434,"Urbandale, IA","Cedar Rapids, IA",95,108,26,16,119,94,60,76,93,229,2011
+69618,"Urbandale, IA","Norwalk, IA",62,112,44,12,154,52,44,92,82,218,2011
+69717,"Urbandale, IA","Waterloo, IA",89,96,32,35,98,84,71,64,82,217,2011
+69537,"Urbandale, IA","Iowa City, IA",85,58,18,3,110,48,62,66,33,161,2011
+69464,"Urbandale, IA","Davenport, IA",70,73,14,6,87,64,66,38,53,157,2011
+69528,"Urbandale, IA","Hiawatha, IA",50,64,26,6,86,48,48,53,39,140,2011
+69433,"Urbandale, IA","Cedar Falls, IA",55,60,18,8,78,47,54,45,34,133,2011
+69454,"Urbandale, IA","Council Bluffs, IA",33,68,15,9,53,54,37,36,43,116,2011
+69411,"Urbandale, IA","Bettendorf, IA",58,39,16,0,59,54,50,34,29,113,2011
+69675,"Urbandale, IA","Sioux City, IA",42,56,15,4,71,38,37,49,27,113,2011
+69476,"Urbandale, IA","Dubuque, IA",45,30,12,5,36,46,44,19,24,87,2011
+69584,"Urbandale, IA","Mason City, IA",32,32,17,3,45,33,34,27,20,81,2011
+69642,"Urbandale, IA","Polk City, IA",9,39,26,1,72,1,8,21,45,74,2011
+69582,"Urbandale, IA","Marshalltown, IA",30,36,6,23,26,23,22,17,33,72,2011
+69451,"Urbandale, IA","Coralville, IA",36,25,6,0,27,40,38,17,12,67,2011
+69513,"Urbandale, IA","Granger, IA",16,35,12,17,32,14,30,12,21,63,2011
+69535,"Urbandale, IA","Indianola, IA",16,30,17,5,45,13,28,20,15,63,2011
+69417,"Urbandale, IA","Boone, IA",17,20,13,1,42,7,8,19,23,50,2011
+69614,"Urbandale, IA","Newton, IA",16,24,6,13,25,8,8,17,21,46,2011
+69627,"Urbandale, IA","Ottumwa, IA",11,30,4,5,17,23,13,9,23,45,2011
+69616,"Urbandale, IA","North Liberty, IA",15,23,7,5,16,24,11,13,21,45,2011
+69485,"Urbandale, IA","Elk Run Heights, IA",6,29,7,40,0,2,1,13,28,42,2011
+69594,"Urbandale, IA","Mitchellville, IA",8,29,4,1,40,0,4,6,31,41,2011
+69704,"Urbandale, IA","University Heights, IA",18,13,5,0,31,5,15,5,16,36,2011
+69606,"Urbandale, IA","Muscatine, IA",16,14,6,5,15,16,16,6,14,36,2011
+69500,"Urbandale, IA","Fort Dodge, IA",14,14,7,2,23,10,12,11,12,35,2011
+69423,"Urbandale, IA","Burlington, IA",15,16,4,7,13,15,15,10,10,35,2011
+69484,"Urbandale, IA","Eldridge, IA",12,16,7,4,14,17,9,8,18,35,2011
+69602,"Urbandale, IA","Mount Pleasant, IA",7,21,6,3,6,25,9,16,9,34,2011
+69462,"Urbandale, IA","Dallas Center, IA",4,23,7,8,4,22,3,6,25,34,2011
+69427,"Urbandale, IA","Carlisle, IA",15,15,2,4,24,4,10,17,5,32,2011
+69658,"Urbandale, IA","Robins, IA",17,13,2,1,15,16,13,6,13,32,2011
+69383,"Urbandale, IA","Adel, IA",5,19,7,8,22,1,2,16,13,31,2011
+69398,"Urbandale, IA","Asbury, IA",20,4,6,0,5,25,17,9,4,30,2011
+69667,"Urbandale, IA","Sergeant Bluff, IA",11,12,4,0,16,11,6,14,7,27,2011
+69494,"Urbandale, IA","Fairfax, IA",9,12,5,4,6,16,12,9,5,26,2011
+69608,"Urbandale, IA","Nevada, IA",4,18,4,11,14,1,3,9,14,26,2011
+69444,"Urbandale, IA","Clinton, IA",12,6,7,4,7,14,15,1,9,25,2011
+69720,"Urbandale, IA","Waverly, IA",6,13,4,2,13,8,7,11,5,23,2011
+69680,"Urbandale, IA","Spencer, IA",5,14,4,6,7,10,5,6,12,23,2011
+69700,"Urbandale, IA","Tiffin, IA",5,17,0,0,7,15,4,6,12,22,2011
+69428,"Urbandale, IA","Carroll, IA",10,9,2,1,11,9,7,5,9,21,2011
+69465,"Urbandale, IA","De Soto, IA",6,13,1,4,14,2,4,8,8,20,2011
+69518,"Urbandale, IA","Grinnell, IA",3,10,7,3,10,7,2,5,13,20,2011
+69491,"Urbandale, IA","Evansdale, IA",9,8,2,1,7,11,7,9,3,19,2011
+69592,"Urbandale, IA","Minburn, IA",6,9,3,3,11,4,3,4,11,18,2011
+69724,"Urbandale, IA","West Burlington, IA",6,8,4,2,2,14,8,5,5,18,2011
+69738,"Urbandale, IA","Woodward, IA",3,9,5,0,13,4,2,4,11,17,2011
+69389,"Urbandale, IA","Algona, IA",6,10,1,3,11,3,7,3,7,17,2011
+69716,"Urbandale, IA","Washington, IA",8,9,0,1,6,10,5,7,5,17,2011
+69487,"Urbandale, IA","Ely, IA",5,9,3,0,17,0,5,5,7,17,2011
+69532,"Urbandale, IA","Huxley, IA",5,10,1,4,7,5,4,5,7,16,2011
+69495,"Urbandale, IA","Fairfield, IA",4,9,3,2,7,7,5,4,7,16,2011
+69637,"Urbandale, IA","Perry, IA",8,8,0,3,7,6,2,7,7,16,2011
+69501,"Urbandale, IA","Fort Madison, IA",2,10,3,5,6,4,7,2,6,15,2011
+69636,"Urbandale, IA","Pella, IA",3,7,4,2,9,3,4,2,8,14,2011
+69671,"Urbandale, IA","Shueyville, IA",4,6,4,1,8,5,6,0,8,14,2011
+69670,"Urbandale, IA","Shenandoah, IA",4,8,2,4,5,5,5,2,7,14,2011
+69698,"Urbandale, IA","Tennant, IA",5,8,0,1,9,3,3,5,5,13,2011
+69553,"Urbandale, IA","Lakeside, IA",4,6,3,6,4,3,2,7,4,13,2011
+69467,"Urbandale, IA","Decorah, IA",6,4,3,5,6,2,4,8,1,13,2011
+69576,"Urbandale, IA","Manchester, IA",5,4,4,0,7,6,4,2,7,13,2011
+69471,"Urbandale, IA","Dexter, IA",5,4,4,6,5,2,4,7,2,13,2011
+69531,"Urbandale, IA","Humboldt, IA",4,6,2,1,8,3,3,2,7,12,2011
+69437,"Urbandale, IA","Chariton, IA",2,7,3,2,3,7,5,3,4,12,2011
+69651,"Urbandale, IA","Reasnor, IA",2,6,4,2,5,5,3,7,2,12,2011
+69625,"Urbandale, IA","Oskaloosa, IA",5,2,5,1,5,6,7,4,1,12,2011
+69534,"Urbandale, IA","Independence, IA",5,5,2,0,8,4,7,2,3,12,2011
+69440,"Urbandale, IA","Clarinda, IA",4,6,2,2,5,5,5,4,3,12,2011
+69559,"Urbandale, IA","Le Mars, IA",1,8,3,1,4,7,3,3,6,12,2011
+69682,"Urbandale, IA","Spring Hill, IA",3,7,1,1,7,3,2,7,2,11,2011
+69562,"Urbandale, IA","Linden, IA",0,9,2,4,0,7,1,2,8,11,2011
+69634,"Urbandale, IA","Patterson, IA",1,5,5,8,1,2,0,10,1,11,2011
+69733,"Urbandale, IA","Winterset, IA",3,4,4,1,7,3,6,2,3,11,2011
+69468,"Urbandale, IA","Denison, IA",5,2,4,2,2,7,4,4,3,11,2011
+69578,"Urbandale, IA","Maquoketa, IA",5,5,1,1,1,9,7,2,2,11,2011
+69443,"Urbandale, IA","Clear Lake, IA",4,6,1,3,4,4,3,4,4,11,2011
+69709,"Urbandale, IA","Van Meter, IA",3,6,1,3,6,1,1,4,5,10,2011
+69588,"Urbandale, IA","Melcher-Dallas, IA",3,5,2,5,2,3,2,3,5,10,2011
+69400,"Urbandale, IA","Atlantic, IA",2,7,1,0,5,5,2,4,4,10,2011
+69546,"Urbandale, IA","Keokuk, IA",5,4,1,0,2,8,4,4,2,10,2011
+69551,"Urbandale, IA","Knoxville, IA",0,8,2,6,3,1,1,1,8,10,2011
+69456,"Urbandale, IA","Creston, IA",5,4,1,0,5,5,4,3,3,10,2011
+69730,"Urbandale, IA","Williamsburg, IA",1,6,2,1,2,6,4,1,4,9,2011
+69581,"Urbandale, IA","Marion, IA",1,8,0,0,6,3,0,1,8,9,2011
+69620,"Urbandale, IA","Oelwein, IA",3,3,3,1,5,3,3,4,2,9,2011
+69668,"Urbandale, IA","Shelby, IA",4,5,0,1,0,8,2,4,3,9,2011
+69450,"Urbandale, IA","Conesville, IA",2,5,2,9,0,0,2,7,0,9,2011
+69690,"Urbandale, IA","Storm Lake, IA",4,4,1,1,4,4,2,4,3,9,2011
+69677,"Urbandale, IA","Slater, IA",2,5,1,3,3,2,1,2,5,8,2011
+69416,"Urbandale, IA","Bondurant, IA",3,4,1,0,7,1,2,4,2,8,2011
+69710,"Urbandale, IA","Vinton, IA",0,8,0,3,3,2,0,2,6,8,2011
+69580,"Urbandale, IA","Marengo, IA",3,5,0,2,3,3,2,2,4,8,2011
+69526,"Urbandale, IA","Harvey, IA",2,1,5,2,3,3,2,4,2,8,2011
+69691,"Urbandale, IA","Story City, IA",1,5,1,2,5,0,3,1,3,7,2011
+69647,"Urbandale, IA","Randalia, IA",0,4,3,0,7,0,5,0,2,7,2011
+69604,"Urbandale, IA","Mount Vernon, IA",4,3,0,0,6,1,2,4,1,7,2011
+69419,"Urbandale, IA","Brooklyn, IA",0,5,2,5,2,0,2,1,4,7,2011
+69533,"Urbandale, IA","Ida Grove, IA",2,4,1,2,4,1,2,3,2,7,2011
+69524,"Urbandale, IA","Hampton, IA",2,3,2,0,3,4,3,3,1,7,2011
+69540,"Urbandale, IA","Janesville, IA",1,6,0,0,5,2,1,0,6,7,2011
+69705,"Urbandale, IA","University Park, IA",3,3,1,0,2,5,1,2,4,7,2011
+69483,"Urbandale, IA","Eldora, IA",1,5,1,0,4,3,0,2,5,7,2011
+69610,"Urbandale, IA","New Hampton, IA",1,3,3,1,3,3,1,1,5,7,2011
+69571,"Urbandale, IA","Lynnville, IA",1,4,2,2,4,1,2,0,5,7,2011
+69496,"Urbandale, IA","Farley, IA",3,3,0,6,0,0,0,2,4,6,2011
+69490,"Urbandale, IA","Estherville, IA",2,4,0,2,2,2,1,4,1,6,2011
+69563,"Urbandale, IA","Lisbon, IA",4,2,0,0,3,3,4,1,1,6,2011
+69556,"Urbandale, IA","Larrabee, IA",4,0,2,1,3,2,3,0,3,6,2011
+69466,"Urbandale, IA","De Witt, IA",3,1,2,0,5,1,5,0,1,6,2011
+69568,"Urbandale, IA","Low Moor, IA",3,3,0,0,2,4,3,1,2,6,2011
+69447,"Urbandale, IA","Colfax, IA",2,1,3,0,4,2,0,3,3,6,2011
+69509,"Urbandale, IA","Glenwood, IA",3,2,1,0,6,0,2,2,2,6,2011
+69525,"Urbandale, IA","Harlan, IA",0,4,1,0,5,0,0,2,3,5,2011
+69573,"Urbandale, IA","Madrid, IA",2,3,0,0,4,1,0,1,4,5,2011
+69538,"Urbandale, IA","Iowa Falls, IA",2,1,2,0,4,1,2,1,2,5,2011
+69624,"Urbandale, IA","Osceola, IA",1,2,2,0,4,1,1,2,2,5,2011
+69572,"Urbandale, IA","Macedonia, IA",3,1,1,1,0,4,2,1,2,5,2011
+69674,"Urbandale, IA","Sioux Center, IA",3,0,2,1,1,3,3,2,0,5,2011
+69657,"Urbandale, IA","Riverside, IA",1,1,3,0,3,2,2,2,1,5,2011
+69552,"Urbandale, IA","Lake Mills, IA",0,3,2,2,0,3,0,2,3,5,2011
+69622,"Urbandale, IA","Onawa, IA",1,1,3,1,4,0,0,2,3,5,2011
+69458,"Urbandale, IA","Crystal Lake, IA",0,5,0,0,0,5,0,0,5,5,2011
+69499,"Urbandale, IA","Forest City, IA",0,4,1,0,5,0,0,4,1,5,2011
+69633,"Urbandale, IA","Panorama Park, IA",1,2,1,0,2,2,0,2,2,4,2011
+69406,"Urbandale, IA","Bedford, IA",1,2,1,0,4,0,1,1,2,4,2011
+69583,"Urbandale, IA","Martelle, IA",0,3,1,0,1,3,0,3,1,4,2011
+69727,"Urbandale, IA","West Union, IA",1,1,2,1,1,2,0,2,2,4,2011
+69701,"Urbandale, IA","Tipton, IA",1,2,1,0,4,0,1,0,3,4,2011
+69461,"Urbandale, IA","Dakota City, IA",1,2,1,1,1,2,1,2,1,4,2011
+69438,"Urbandale, IA","Charles City, IA",2,1,1,1,1,2,2,1,1,4,2011
+69448,"Urbandale, IA","Colo, IA",0,2,2,0,3,1,1,0,3,4,2011
+69566,"Urbandale, IA","Logan, IA",0,3,1,0,1,3,0,2,2,4,2011
+69605,"Urbandale, IA","Murray, IA",1,3,0,0,1,3,1,1,2,4,2011
+69721,"Urbandale, IA","Webster City, IA",1,2,1,0,1,3,2,0,2,4,2011
+69415,"Urbandale, IA","Blue Grass, IA",1,3,0,3,0,1,0,1,3,4,2011
+69414,"Urbandale, IA","Bloomfield, IA",0,2,2,1,1,2,0,3,1,4,2011
+69410,"Urbandale, IA","Bertram, IA",1,2,1,0,2,2,2,1,1,4,2011
+69656,"Urbandale, IA","Riverdale, IA",0,4,0,0,1,3,1,0,3,4,2011
+69652,"Urbandale, IA","Red Oak, IA",2,2,0,0,0,4,1,2,1,4,2011
+69666,"Urbandale, IA","Sageville, IA",2,2,0,3,0,1,0,1,3,4,2011
+69681,"Urbandale, IA","Spirit Lake, IA",0,3,1,0,0,4,0,3,1,4,2011
+69425,"Urbandale, IA","Camanche, IA",4,0,0,0,0,4,2,1,1,4,2011
+69474,"Urbandale, IA","Donnellson, IA",1,3,0,2,2,0,0,1,3,4,2011
+69412,"Urbandale, IA","Blairstown, IA",1,2,1,4,0,0,1,0,3,4,2011
+69713,"Urbandale, IA","Wall Lake, IA",1,3,0,0,2,2,1,0,3,4,2011
+69669,"Urbandale, IA","Sheldon, IA",0,0,3,0,1,2,1,0,2,3,2011
+69593,"Urbandale, IA","Missouri Valley, IA",1,2,0,0,2,1,3,0,0,3,2011
+69426,"Urbandale, IA","Cambridge, IA",0,3,0,1,1,1,0,0,3,3,2011
+69502,"Urbandale, IA","Franklin, IA",1,1,1,1,1,1,0,2,1,3,2011
+69597,"Urbandale, IA","Monticello, IA",1,2,0,0,1,2,1,1,1,3,2011
+69453,"Urbandale, IA","Corydon, IA",0,2,1,2,1,0,1,1,1,3,2011
+69441,"Urbandale, IA","Clarion, IA",1,2,0,0,3,0,1,0,2,3,2011
+69431,"Urbandale, IA","Casey, IA",2,1,0,1,2,0,2,1,0,3,2011
+69435,"Urbandale, IA","Centerville, IA",0,3,0,3,0,0,0,0,3,3,2011
+69455,"Urbandale, IA","Cresco, IA",2,1,0,0,0,3,2,0,1,3,2011
+69387,"Urbandale, IA","Albia, IA",0,3,0,0,3,0,0,2,1,3,2011
+69480,"Urbandale, IA","East Peru, IA",2,1,0,0,3,0,1,1,1,3,2011
+69595,"Urbandale, IA","Monroe, IA",1,0,2,1,2,0,0,3,0,3,2011
+69731,"Urbandale, IA","Wilton, IA",1,1,1,1,0,2,2,1,0,3,2011
+69697,"Urbandale, IA","Swan, IA",3,0,0,3,0,0,3,0,0,3,2011
+69404,"Urbandale, IA","Bagley, IA",3,0,0,3,0,0,1,0,2,3,2011
+69662,"Urbandale, IA","Rockwell City, IA",0,2,1,1,1,1,0,1,2,3,2011
+69503,"Urbandale, IA","Fremont, IA",1,1,1,3,0,0,0,0,3,3,2011
+69544,"Urbandale, IA","Kalona, IA",1,2,0,2,0,1,1,1,1,3,2011
+69589,"Urbandale, IA","Meriden, IA",2,1,0,0,2,1,2,1,0,3,2011
+69402,"Urbandale, IA","Aurelia, IA",1,2,0,3,0,0,0,0,3,3,2011
+69719,"Urbandale, IA","Waukon, IA",2,1,0,0,2,1,2,1,0,3,2011
+69641,"Urbandale, IA","Pleasantville, IA",3,0,0,0,3,0,3,0,0,3,2011
+69409,"Urbandale, IA","Bennett, IA",2,1,0,2,0,1,0,1,2,3,2011
+69399,"Urbandale, IA","Atalissa, IA",1,0,2,0,0,3,0,1,2,3,2011
+69643,"Urbandale, IA","Prairie City, IA",0,3,0,0,3,0,2,0,1,3,2011
+69632,"Urbandale, IA","Panora, IA",1,2,0,1,2,0,0,1,2,3,2011
+69630,"Urbandale, IA","Palo, IA",2,0,1,0,1,2,0,2,1,3,2011
+69728,"Urbandale, IA","Whittemore, IA",0,2,1,3,0,0,0,0,3,3,2011
+69463,"Urbandale, IA","Danville, IA",0,3,0,0,3,0,2,1,0,3,2011
+69512,"Urbandale, IA","Grandview, IA",0,3,0,0,1,2,0,3,0,3,2011
+69527,"Urbandale, IA","Havelock, IA",2,1,0,0,1,2,2,1,0,3,2011
+69587,"Urbandale, IA","Mediapolis, IA",3,0,0,0,3,0,0,3,0,3,2011
+69623,"Urbandale, IA","Osage, IA",2,0,1,2,0,1,1,1,1,3,2011
+69481,"Urbandale, IA","Eddyville, IA",0,0,3,2,0,1,1,1,1,3,2011
+69600,"Urbandale, IA","Morley, IA",0,1,1,0,1,1,1,1,0,2,2011
+69599,"Urbandale, IA","Moravia, IA",1,1,0,0,0,2,0,1,1,2,2011
+69381,"Urbandale, IA","Ackworth, IA",0,1,1,0,0,2,1,1,0,2,2011
+69607,"Urbandale, IA","Nashua, IA",0,1,1,1,0,1,1,0,1,2,2011
+69609,"Urbandale, IA","New Albin, IA",1,1,0,0,1,1,1,1,0,2,2011
+69737,"Urbandale, IA","Woodbine, IA",1,1,0,0,1,1,0,1,1,2,2011
+69712,"Urbandale, IA","Walford, IA",1,1,0,0,0,2,1,0,1,2,2011
+69708,"Urbandale, IA","Van Horne, IA",0,2,0,1,1,0,0,1,1,2,2011
+69706,"Urbandale, IA","Urbana, IA",0,1,1,0,0,2,0,1,1,2,2011
+69702,"Urbandale, IA","Toledo, IA",2,0,0,0,1,1,1,1,0,2,2011
+69693,"Urbandale, IA","Strawberry Point, IA",0,2,0,2,0,0,1,0,1,2,2011
+69683,"Urbandale, IA","St. Ansgar, IA",0,1,1,1,1,0,0,0,2,2,2011
+69678,"Urbandale, IA","Sloan, IA",1,1,0,1,1,0,0,0,2,2,2011
+69665,"Urbandale, IA","Sac City, IA",0,1,1,1,1,0,0,0,2,2,2011
+69654,"Urbandale, IA","Richland, IA",0,0,2,1,1,0,0,0,2,2,2011
+69650,"Urbandale, IA","Raymond, IA",2,0,0,0,1,1,1,1,0,2,2011
+69648,"Urbandale, IA","Randolph, IA",1,0,1,0,1,1,0,2,0,2,2011
+69631,"Urbandale, IA","Panama, IA",1,1,0,0,1,1,1,0,1,2,2011
+69626,"Urbandale, IA","Ottosen, IA",0,1,1,2,0,0,0,0,2,2,2011
+69621,"Urbandale, IA","Ogden, IA",0,1,1,0,1,1,0,0,2,2,2011
+69613,"Urbandale, IA","Newell, IA",1,1,0,0,2,0,0,0,2,2,2011
+69612,"Urbandale, IA","New Sharon, IA",0,2,0,1,0,1,1,0,1,2,2011
+69598,"Urbandale, IA","Montrose, IA",0,0,2,0,1,1,0,1,1,2,2011
+69561,"Urbandale, IA","Lewis, IA",0,1,1,1,1,0,0,1,1,2,2011
+69429,"Urbandale, IA","Carson, IA",0,2,0,0,2,0,0,0,2,2,2011
+69516,"Urbandale, IA","Greenfield, IA",2,0,0,0,1,1,1,1,0,2,2011
+69407,"Urbandale, IA","Belle Plaine, IA",1,0,1,0,1,1,0,2,0,2,2011
+69418,"Urbandale, IA","Britt, IA",0,2,0,0,1,1,0,1,1,2,2011
+69424,"Urbandale, IA","Bussey, IA",0,1,1,2,0,0,0,0,2,2,2011
+69432,"Urbandale, IA","Castalia, IA",0,2,0,2,0,0,0,0,2,2,2011
+69523,"Urbandale, IA","Hamburg, IA",1,1,0,0,2,0,2,0,0,2,2011
+69439,"Urbandale, IA","Cherokee, IA",0,2,0,2,0,0,0,0,2,2,2011
+69460,"Urbandale, IA","Cushing, IA",1,0,1,0,1,1,0,2,0,2,2011
+69555,"Urbandale, IA","Lamoni, IA",2,0,0,0,2,0,2,0,0,2,2011
+69469,"Urbandale, IA","Denver, IA",0,2,0,0,0,2,1,1,0,2,2011
+69504,"Urbandale, IA","Garner, IA",2,0,0,0,2,0,0,1,1,2,2011
+69497,"Urbandale, IA","Ferguson, IA",0,2,0,0,0,2,0,0,2,2,2011
+69591,"Urbandale, IA","Milford, IA",0,2,0,0,1,1,0,0,2,2,2011
+69489,"Urbandale, IA","Epworth, IA",0,1,1,0,1,1,1,1,0,2,2011
+69488,"Urbandale, IA","Emmetsburg, IA",0,1,1,0,1,1,1,1,0,2,2011
+69554,"Urbandale, IA","Lambs Grove, IA",0,2,0,0,2,0,1,0,1,2,2011
+69482,"Urbandale, IA","Eldon, IA",0,2,0,0,2,0,1,0,1,2,2011
+69565,"Urbandale, IA","Lockridge, IA",2,0,0,1,1,0,0,1,1,2,2011
+69579,"Urbandale, IA","Marcus, IA",0,1,1,0,0,2,0,0,2,2,2011
+69577,"Urbandale, IA","Manning, IA",0,2,0,0,0,2,0,1,1,2,2011
+69394,"Urbandale, IA","Andover, IA",0,2,0,1,0,1,0,1,1,2,2011
+69574,"Urbandale, IA","Malcom, IA",1,1,0,1,1,0,0,2,0,2,2011
+69388,"Urbandale, IA","Alden, IA",0,1,1,0,0,2,1,0,1,2,2011
+69396,"Urbandale, IA","Anthon, IA",0,0,1,0,0,1,0,0,1,1,2011
+69688,"Urbandale, IA","Stanley, IA",0,1,0,0,0,1,1,0,0,1,2011
+69689,"Urbandale, IA","Stanton, IA",1,0,0,0,1,0,0,0,1,1,2011
+69459,"Urbandale, IA","Curlew, IA",1,0,0,0,1,0,1,0,0,1,2011
+69692,"Urbandale, IA","Stratford, IA",0,0,1,0,0,1,1,0,0,1,2011
+69686,"Urbandale, IA","Stacyville, IA",1,0,0,0,1,0,1,0,0,1,2011
+69694,"Urbandale, IA","Stuart, IA",1,0,0,1,0,0,0,1,0,1,2011
+69695,"Urbandale, IA","Superior, IA",1,0,0,0,1,0,0,0,1,1,2011
+69696,"Urbandale, IA","Sutherland, IA",0,1,0,1,0,0,1,0,0,1,2011
+69457,"Urbandale, IA","Cromwell, IA",0,1,0,0,0,1,0,0,1,1,2011
+69687,"Urbandale, IA","Stanhope, IA",1,0,0,0,1,0,1,0,0,1,2011
+69685,"Urbandale, IA","St. Olaf, IA",0,1,0,1,0,0,0,0,1,1,2011
+69734,"Urbandale, IA","Winthrop, IA",1,0,0,0,1,0,0,0,1,1,2011
+69684,"Urbandale, IA","St. Marys, IA",0,0,1,1,0,0,0,1,0,1,2011
+69472,"Urbandale, IA","Dike, IA",1,0,0,0,0,1,0,1,0,1,2011
+69735,"Urbandale, IA","Wiota, IA",1,0,0,0,0,1,1,0,0,1,2011
+69473,"Urbandale, IA","Dixon, IA",0,1,0,0,1,0,0,0,1,1,2011
+69736,"Urbandale, IA","Woden, IA",0,1,0,0,1,0,0,1,0,1,2011
+69475,"Urbandale, IA","Doon, IA",1,0,0,1,0,0,0,1,0,1,2011
+69385,"Urbandale, IA","Ainsworth, IA",1,0,0,1,0,0,0,1,0,1,2011
+69384,"Urbandale, IA","Agency, IA",1,0,0,0,0,1,0,1,0,1,2011
+69739,"Urbandale, IA","Yetter, IA",1,0,0,1,0,0,1,0,0,1,2011
+69477,"Urbandale, IA","Dunlap, IA",1,0,0,0,0,1,0,1,0,1,2011
+69679,"Urbandale, IA","Soldier, IA",0,0,1,1,0,0,0,0,1,1,2011
+69478,"Urbandale, IA","Eagle Grove, IA",0,1,0,0,1,0,0,0,1,1,2011
+69452,"Urbandale, IA","Corwith, IA",0,0,1,0,1,0,0,1,0,1,2011
+69449,"Urbandale, IA","Colwell, IA",1,0,0,0,1,0,1,0,0,1,2011
+69699,"Urbandale, IA","Thornton, IA",0,1,0,0,1,0,0,0,1,1,2011
+69714,"Urbandale, IA","Wallingford, IA",0,1,0,0,0,1,0,0,1,1,2011
+69725,"Urbandale, IA","West Chester, IA",1,0,0,0,0,1,1,0,0,1,2011
+69401,"Urbandale, IA","Audubon, IA",1,0,0,0,1,0,0,1,0,1,2011
+69723,"Urbandale, IA","West Branch, IA",0,1,0,0,0,1,0,1,0,1,2011
+69722,"Urbandale, IA","Wellsburg, IA",0,0,1,0,0,1,0,1,0,1,2011
+69729,"Urbandale, IA","Willey, IA",1,0,0,0,0,1,0,0,1,1,2011
+69403,"Urbandale, IA","Avoca, IA",0,0,1,0,0,1,0,1,0,1,2011
+69405,"Urbandale, IA","Baxter, IA",0,1,0,0,1,0,0,0,1,1,2011
+69408,"Urbandale, IA","Belmond, IA",0,0,1,0,0,1,0,1,0,1,2011
+69413,"Urbandale, IA","Blanchard, IA",0,1,0,0,0,1,0,0,1,1,2011
+69393,"Urbandale, IA","Anamosa, IA",1,0,0,0,1,0,0,1,0,1,2011
+69715,"Urbandale, IA","Wapello, IA",0,0,1,0,1,0,0,1,0,1,2011
+69420,"Urbandale, IA","Buck Grove, IA",1,0,0,0,0,1,1,0,0,1,2011
+69397,"Urbandale, IA","Arnolds Park, IA",0,1,0,0,1,0,0,0,1,1,2011
+69421,"Urbandale, IA","Buffalo Center, IA",0,1,0,0,0,1,0,1,0,1,2011
+69711,"Urbandale, IA","Wadena, IA",0,1,0,1,0,0,0,1,0,1,2011
+69422,"Urbandale, IA","Buffalo, IA",1,0,0,1,0,0,0,0,1,1,2011
+69390,"Urbandale, IA","Alton, IA",0,1,0,0,0,1,0,0,1,1,2011
+69479,"Urbandale, IA","Early, IA",0,1,0,0,0,1,0,0,1,1,2011
+69430,"Urbandale, IA","Carter Lake, IA",0,1,0,1,0,0,0,1,0,1,2011
+69386,"Urbandale, IA","Akron, IA",0,1,0,0,0,1,0,0,1,1,2011
+69436,"Urbandale, IA","Central City, IA",1,0,0,0,1,0,0,1,0,1,2011
+69703,"Urbandale, IA","Union, IA",0,0,1,1,0,0,0,1,0,1,2011
+69442,"Urbandale, IA","Clarksville, IA",0,1,0,0,1,0,0,0,1,1,2011
+69445,"Urbandale, IA","Clio, IA",0,0,1,0,0,1,1,0,0,1,2011
+69596,"Urbandale, IA","Montezuma, IA",0,1,0,0,1,0,0,0,1,1,2011
+69492,"Urbandale, IA","Everly, IA",0,1,0,1,0,0,0,0,1,1,2011
+69676,"Urbandale, IA","Sioux Rapids, IA",0,0,1,0,0,1,0,1,0,1,2011
+69486,"Urbandale, IA","Elkader, IA",0,1,0,0,1,0,1,0,0,1,2011
+69536,"Urbandale, IA","Inwood, IA",0,1,0,0,1,0,0,1,0,1,2011
+69539,"Urbandale, IA","Ireton, IA",0,0,1,0,0,1,0,1,0,1,2011
+69541,"Urbandale, IA","Jefferson, IA",1,0,0,0,1,0,1,0,0,1,2011
+69542,"Urbandale, IA","Jesup, IA",0,1,0,0,1,0,0,1,0,1,2011
+69545,"Urbandale, IA","Kellogg, IA",0,1,0,0,1,0,0,0,1,1,2011
+69629,"Urbandale, IA","Oxford, IA",0,1,0,0,1,0,0,0,1,1,2011
+69628,"Urbandale, IA","Owasa, IA",1,0,0,0,0,1,0,1,0,1,2011
+69547,"Urbandale, IA","Kingsley, IA",1,0,0,0,1,0,1,0,0,1,2011
+69548,"Urbandale, IA","Kirkman, IA",1,0,0,0,0,1,0,1,0,1,2011
+69549,"Urbandale, IA","Kirkville, IA",0,1,0,1,0,0,0,0,1,1,2011
+69550,"Urbandale, IA","Kiron, IA",1,0,0,0,0,1,0,0,1,1,2011
+69557,"Urbandale, IA","Le Claire, IA",0,1,0,0,1,0,0,1,0,1,2011
+69558,"Urbandale, IA","Le Grand, IA",0,1,0,1,0,0,0,0,1,1,2011
+69619,"Urbandale, IA","Oakland, IA",0,1,0,0,0,1,1,0,0,1,2011
+69560,"Urbandale, IA","Leon, IA",0,1,0,0,1,0,0,0,1,1,2011
+69617,"Urbandale, IA","Northwood, IA",0,1,0,1,0,0,1,0,0,1,2011
+69382,"Urbandale, IA","Adair, IA",1,0,0,1,0,0,0,1,0,1,2011
+69615,"Urbandale, IA","Nora Springs, IA",0,1,0,0,1,0,0,0,1,1,2011
+69564,"Urbandale, IA","Livermore, IA",0,0,1,1,0,0,0,0,1,1,2011
+69567,"Urbandale, IA","Lone Tree, IA",0,1,0,0,0,1,0,1,0,1,2011
+69611,"Urbandale, IA","New London, IA",1,0,0,0,1,0,1,0,0,1,2011
+69569,"Urbandale, IA","Lowden, IA",1,0,0,0,1,0,1,0,0,1,2011
+69570,"Urbandale, IA","Luther, IA",0,1,0,0,1,0,0,0,1,1,2011
+69575,"Urbandale, IA","Malvern, IA",0,1,0,0,1,0,0,0,1,1,2011
+69585,"Urbandale, IA","Maxwell, IA",1,0,0,0,1,0,0,1,0,1,2011
+69603,"Urbandale, IA","Mount Union, IA",1,0,0,0,1,0,1,0,0,1,2011
+69586,"Urbandale, IA","McClelland, IA",0,1,0,0,1,0,0,0,1,1,2011
+69601,"Urbandale, IA","Morrison, IA",1,0,0,1,0,0,0,0,1,1,2011
+69590,"Urbandale, IA","Merrill, IA",0,1,0,0,0,1,0,1,0,1,2011
+69635,"Urbandale, IA","Paullina, IA",0,0,1,0,0,1,0,0,1,1,2011
+69530,"Urbandale, IA","Houghton, IA",0,1,0,0,0,1,1,0,0,1,2011
+69529,"Urbandale, IA","Hinton, IA",0,1,0,0,0,1,0,0,1,1,2011
+69655,"Urbandale, IA","Rippey, IA",1,0,0,1,0,0,0,0,1,1,2011
+69673,"Urbandale, IA","Silver City, IA",0,1,0,0,1,0,0,0,1,1,2011
+69672,"Urbandale, IA","Sidney, IA",1,0,0,0,0,1,1,0,0,1,2011
+69493,"Urbandale, IA","Exira, IA",0,1,0,0,0,1,0,1,0,1,2011
+69498,"Urbandale, IA","Floyd, IA",0,1,0,0,1,0,0,0,1,1,2011
+69664,"Urbandale, IA","Ruthven, IA",0,1,0,0,1,0,0,0,1,1,2011
+69663,"Urbandale, IA","Runnells, IA",0,1,0,0,1,0,0,0,1,1,2011
+69505,"Urbandale, IA","Garwin, IA",0,1,0,0,1,0,1,0,0,1,2011
+69661,"Urbandale, IA","Rockford, IA",0,0,1,0,1,0,0,0,1,1,2011
+69660,"Urbandale, IA","Rock Valley, IA",0,1,0,0,0,1,0,1,0,1,2011
+69659,"Urbandale, IA","Rock Rapids, IA",0,1,0,0,1,0,0,1,0,1,2011
+69506,"Urbandale, IA","Gibson, IA",1,0,0,0,0,1,0,1,0,1,2011
+69507,"Urbandale, IA","Gilbert, IA",0,1,0,1,0,0,0,0,1,1,2011
+69508,"Urbandale, IA","Gilman, IA",0,1,0,0,1,0,0,1,0,1,2011
+69510,"Urbandale, IA","Graettinger, IA",0,1,0,0,1,0,0,1,0,1,2011
+69638,"Urbandale, IA","Peterson, IA",1,0,0,0,0,1,0,0,1,1,2011
+69653,"Urbandale, IA","Remsen, IA",0,0,1,0,0,1,0,0,1,1,2011
+69511,"Urbandale, IA","Grand Junction, IA",0,1,0,0,0,1,0,0,1,1,2011
+69514,"Urbandale, IA","Grant, IA",0,1,0,0,1,0,0,1,0,1,2011
+69515,"Urbandale, IA","Gray, IA",0,1,0,0,1,0,0,1,0,1,2011
+69649,"Urbandale, IA","Rathbun, IA",1,0,0,0,1,0,0,0,1,1,2011
+69519,"Urbandale, IA","Grundy Center, IA",0,1,0,0,0,1,0,1,0,1,2011
+69646,"Urbandale, IA","Promise City, IA",0,1,0,0,0,1,0,1,0,1,2011
+69645,"Urbandale, IA","Primghar, IA",1,0,0,0,0,1,1,0,0,1,2011
+69644,"Urbandale, IA","Prairieburg, IA",0,0,1,0,1,0,0,0,1,1,2011
+69520,"Urbandale, IA","Guernsey, IA",0,1,0,0,0,1,0,0,1,1,2011
+69521,"Urbandale, IA","Guthrie Center, IA",0,1,0,1,0,0,0,1,0,1,2011
+69522,"Urbandale, IA","Guttenberg, IA",0,1,0,0,1,0,0,1,0,1,2011
+69639,"Urbandale, IA","Plano, IA",0,0,1,0,1,0,0,0,1,1,2011
+69740,"Urbandale, IA","Zwingle, IA",0,1,0,1,0,0,0,1,0,1,2011

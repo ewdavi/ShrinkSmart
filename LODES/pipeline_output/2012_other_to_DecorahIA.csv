@@ -1,0 +1,251 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+18475,"Decorah, IA","Decorah, IA",722,1823,1041,806,2309,471,956,1450,1180,3586,2012
+18454,"Decorah, IA","Castalia, IA",64,264,140,129,282,57,110,217,141,468,2012
+18472,"Decorah, IA","Cresco, IA",99,226,89,105,243,66,119,195,100,414,2012
+18657,"Decorah, IA","Waukon, IA",90,201,70,134,161,66,82,179,100,361,2012
+18603,"Decorah, IA","Protivin, IA",34,96,50,56,97,27,44,91,45,180,2012
+18507,"Decorah, IA","Fort Atkinson, IA",33,101,43,57,90,30,44,81,52,177,2012
+18609,"Decorah, IA","Ridgeway, IA",26,63,37,34,75,17,34,60,32,126,2012
+18557,"Decorah, IA","Luana, IA",20,53,20,30,44,19,20,42,31,93,2012
+18581,"Decorah, IA","New Albin, IA",15,55,11,24,48,9,24,26,31,81,2012
+18663,"Decorah, IA","West Union, IA",11,33,7,18,28,5,12,28,11,51,2012
+18456,"Decorah, IA","Cedar Rapids, IA",13,22,12,22,18,7,6,15,26,47,2012
+18551,"Decorah, IA","Lime Springs, IA",8,25,13,14,23,9,9,19,18,46,2012
+18604,"Decorah, IA","Randalia, IA",10,20,12,9,25,8,12,16,14,42,2012
+18651,"Decorah, IA","Wadena, IA",9,26,6,11,25,5,7,18,16,41,2012
+18429,"Decorah, IA","Ames, IA",11,18,9,4,18,16,13,17,8,38,2012
+18526,"Decorah, IA","Harpers Ferry, IA",11,21,4,12,20,4,10,14,12,36,2012
+18582,"Decorah, IA","New Hampton, IA",10,15,11,5,25,6,11,16,9,36,2012
+18483,"Decorah, IA","Dubuque, IA",11,10,14,7,14,14,10,16,9,35,2012
+18529,"Decorah, IA","Hawkeye, IA",8,16,11,13,20,2,4,18,13,35,2012
+18655,"Decorah, IA","Waterloo, IA",14,14,3,2,11,18,12,11,8,31,2012
+18572,"Decorah, IA","Monona, IA",7,19,2,8,17,3,5,15,8,28,2012
+18443,"Decorah, IA","Bettendorf, IA",5,19,4,7,12,9,6,11,11,28,2012
+18589,"Decorah, IA","Oelwein, IA",8,11,7,2,17,7,10,12,4,26,2012
+18630,"Decorah, IA","St. Lucas, IA",5,12,8,7,13,5,4,15,6,25,2012
+18488,"Decorah, IA","Elgin, IA",7,11,5,4,17,2,6,12,5,23,2012
+18479,"Decorah, IA","Des Moines, IA",9,11,2,2,10,10,9,7,6,22,2012
+18601,"Decorah, IA","Postville, IA",3,15,3,7,11,3,2,12,7,21,2012
+18455,"Decorah, IA","Cedar Falls, IA",9,9,3,1,7,13,11,7,3,21,2012
+18613,"Decorah, IA","Robins, IA",6,10,4,11,4,5,5,7,8,20,2012
+18547,"Decorah, IA","Lansing, IA",6,9,4,9,5,5,4,8,7,19,2012
+18531,"Decorah, IA","Hiawatha, IA",3,12,4,9,8,2,4,3,12,19,2012
+18536,"Decorah, IA","Iowa City, IA",7,8,4,1,14,4,5,9,5,19,2012
+18510,"Decorah, IA","Fredericksburg, IA",10,6,3,4,12,3,6,8,5,19,2012
+18565,"Decorah, IA","Marquette, IA",5,6,7,3,12,3,2,6,10,18,2012
+18523,"Decorah, IA","Guttenberg, IA",5,7,6,1,17,0,6,9,3,18,2012
+18599,"Decorah, IA","Pleasant Hill, IA",6,7,3,2,8,6,2,9,5,16,2012
+18656,"Decorah, IA","Waucoma, IA",7,6,3,2,13,1,3,12,1,16,2012
+18566,"Decorah, IA","Marshalltown, IA",4,8,4,1,5,10,4,6,6,16,2012
+18470,"Decorah, IA","Council Bluffs, IA",2,5,8,1,7,7,5,3,7,15,2012
+18567,"Decorah, IA","Mason City, IA",4,9,2,1,8,6,6,6,3,15,2012
+18658,"Decorah, IA","Waverly, IA",2,9,4,0,13,2,3,2,10,15,2012
+18498,"Decorah, IA","Fairbank, IA",5,5,4,3,5,6,4,4,6,14,2012
+18492,"Decorah, IA","Elma, IA",6,4,4,4,10,0,4,7,3,14,2012
+18625,"Decorah, IA","Sioux City, IA",4,5,4,0,6,7,6,7,0,13,2012
+18637,"Decorah, IA","Sumner, IA",4,8,1,1,6,6,3,7,3,13,2012
+18508,"Decorah, IA","Fort Madison, IA",3,7,2,4,2,6,4,5,3,12,2012
+18533,"Decorah, IA","Indianola, IA",2,6,4,1,6,5,3,5,4,12,2012
+18606,"Decorah, IA","Readlyn, IA",1,6,5,1,6,5,3,7,2,12,2012
+18649,"Decorah, IA","Urbandale, IA",3,4,5,2,6,4,5,4,3,12,2012
+18502,"Decorah, IA","Farmersburg, IA",0,6,6,1,9,2,2,3,7,12,2012
+18478,"Decorah, IA","Denver, IA",3,8,0,2,5,4,4,4,3,11,2012
+18503,"Decorah, IA","Fayette, IA",4,5,1,2,7,1,3,5,2,10,2012
+18549,"Decorah, IA","Lawler, IA",2,7,1,2,8,0,3,5,2,10,2012
+18490,"Decorah, IA","Elkader, IA",1,1,8,4,6,0,4,2,4,10,2012
+18428,"Decorah, IA","Altoona, IA",1,6,2,2,5,2,2,2,5,9,2012
+18427,"Decorah, IA","Alta Vista, IA",4,5,0,0,8,1,4,4,1,9,2012
+18634,"Decorah, IA","Stanley, IA",5,2,2,0,4,5,4,5,0,9,2012
+18636,"Decorah, IA","Strawberry Point, IA",6,3,0,0,7,2,5,3,1,9,2012
+18464,"Decorah, IA","Clinton, IA",1,7,1,0,6,3,0,7,2,9,2012
+18491,"Decorah, IA","Elkport, IA",2,1,5,1,5,2,0,3,5,8,2012
+18500,"Decorah, IA","Fairfield, IA",3,4,1,3,3,2,2,2,4,8,2012
+18568,"Decorah, IA","McIntire, IA",4,2,2,1,6,1,0,6,2,8,2012
+18611,"Decorah, IA","Riverdale, IA",1,3,4,2,1,5,2,2,4,8,2012
+18596,"Decorah, IA","Parkersburg, IA",2,5,1,2,2,4,2,4,2,8,2012
+18632,"Decorah, IA","St. Olaf, IA",1,1,6,2,3,3,4,1,3,8,2012
+18434,"Decorah, IA","Asbury, IA",4,3,0,1,2,4,3,2,2,7,2012
+18532,"Decorah, IA","Independence, IA",3,4,0,1,4,2,3,3,1,7,2012
+18425,"Decorah, IA","Algona, IA",2,4,1,0,4,3,1,4,2,7,2012
+18466,"Decorah, IA","Colwell, IA",2,4,1,2,5,0,1,3,3,7,2012
+18600,"Decorah, IA","Pomeroy, IA",0,4,3,1,3,3,0,5,2,7,2012
+18506,"Decorah, IA","Forest City, IA",4,3,0,0,3,4,2,3,2,7,2012
+18460,"Decorah, IA","Charles City, IA",2,5,0,1,5,1,4,1,2,7,2012
+18512,"Decorah, IA","Garnavillo, IA",0,5,2,1,4,2,0,2,5,7,2012
+18422,"Decorah, IA","Ackworth, IA",2,2,3,3,3,1,1,4,2,7,2012
+18537,"Decorah, IA","Iowa Falls, IA",3,3,0,0,2,4,2,3,1,6,2012
+18592,"Decorah, IA","Osage, IA",2,3,1,1,3,2,2,2,2,6,2012
+18631,"Decorah, IA","St. Marys, IA",1,3,2,1,3,2,2,1,3,6,2012
+18562,"Decorah, IA","Maquoketa, IA",1,4,1,2,1,3,1,3,2,6,2012
+18574,"Decorah, IA","Monticello, IA",1,2,2,1,1,3,1,2,2,5,2012
+18521,"Decorah, IA","Grinnell, IA",2,3,0,1,0,4,0,5,0,5,2012
+18435,"Decorah, IA","Aurelia, IA",1,2,2,0,1,4,0,2,3,5,2012
+18669,"Decorah, IA","Winthrop, IA",1,2,2,4,1,0,0,1,4,5,2012
+18535,"Decorah, IA","Ionia, IA",2,2,1,2,2,1,2,2,1,5,2012
+18469,"Decorah, IA","Corwith, IA",2,0,3,0,4,1,1,3,1,5,2012
+18542,"Decorah, IA","Johnston, IA",2,1,2,0,1,4,1,3,1,5,2012
+18660,"Decorah, IA","Wellsburg, IA",1,3,1,0,3,2,2,1,2,5,2012
+18451,"Decorah, IA","Carter Lake, IA",0,5,0,0,1,4,2,1,2,5,2012
+18461,"Decorah, IA","Chester, IA",5,0,0,0,5,0,1,3,1,5,2012
+18496,"Decorah, IA","Evansdale, IA",0,3,2,0,2,3,1,2,2,5,2012
+18648,"Decorah, IA","Urbana, IA",2,2,1,1,2,2,2,0,3,5,2012
+18463,"Decorah, IA","Clear Lake, IA",1,3,1,0,4,1,0,3,2,5,2012
+18588,"Decorah, IA","Northwood, IA",0,4,1,0,3,2,3,2,0,5,2012
+18654,"Decorah, IA","Washington, IA",0,5,0,2,0,3,1,1,3,5,2012
+18543,"Decorah, IA","Keokuk, IA",1,3,0,3,1,0,1,0,3,4,2012
+18545,"Decorah, IA","Lake Mills, IA",2,2,0,0,2,2,2,2,0,4,2012
+18518,"Decorah, IA","Grandview, IA",1,2,1,0,4,0,3,0,1,4,2012
+18530,"Decorah, IA","Hazleton, IA",3,1,0,1,2,1,2,1,1,4,2012
+18618,"Decorah, IA","Ryan, IA",1,3,0,0,0,4,3,1,0,4,2012
+18453,"Decorah, IA","Casey, IA",1,2,1,1,3,0,1,1,2,4,2012
+18653,"Decorah, IA","Walker, IA",1,2,1,1,2,1,1,3,0,4,2012
+18424,"Decorah, IA","Alden, IA",2,2,0,0,2,2,2,1,1,4,2012
+18426,"Decorah, IA","Allison, IA",2,1,1,0,1,3,1,3,0,4,2012
+18615,"Decorah, IA","Rock Valley, IA",1,3,0,0,3,1,2,1,1,4,2012
+18612,"Decorah, IA","Riverside, IA",2,2,0,0,2,2,3,0,1,4,2012
+18441,"Decorah, IA","Bennett, IA",2,0,2,1,0,3,1,3,0,4,2012
+18442,"Decorah, IA","Bertram, IA",1,1,2,0,2,2,2,2,0,4,2012
+18602,"Decorah, IA","Preston, IA",1,3,0,1,0,3,1,2,1,4,2012
+18450,"Decorah, IA","Camanche, IA",2,2,0,1,1,2,1,2,1,4,2012
+18452,"Decorah, IA","Cascade, IA",0,4,0,1,1,2,0,1,3,4,2012
+18570,"Decorah, IA","Millville, IA",0,2,2,1,3,0,0,2,2,4,2012
+18635,"Decorah, IA","Storm Lake, IA",2,2,0,1,2,1,1,3,0,4,2012
+18579,"Decorah, IA","Mount Auburn, IA",1,3,0,0,1,3,0,4,0,4,2012
+18643,"Decorah, IA","Toledo, IA",1,2,1,0,2,2,1,3,0,4,2012
+18482,"Decorah, IA","Dougherty, IA",0,4,0,1,2,1,2,1,1,4,2012
+18590,"Decorah, IA","Orange City, IA",2,2,0,0,3,1,2,0,2,4,2012
+18577,"Decorah, IA","Morrison, IA",0,2,2,0,2,2,1,1,2,4,2012
+18494,"Decorah, IA","Epworth, IA",3,1,0,1,2,1,2,2,0,4,2012
+18624,"Decorah, IA","Shueyville, IA",0,2,1,1,0,2,1,0,2,3,2012
+18575,"Decorah, IA","Montrose, IA",0,2,1,2,0,1,1,1,1,3,2012
+18620,"Decorah, IA","Sanborn, IA",1,1,1,0,2,1,1,0,2,3,2012
+18627,"Decorah, IA","Spring Hill, IA",0,3,0,1,2,0,0,2,1,3,2012
+18608,"Decorah, IA","Rhodes, IA",2,1,0,1,0,2,2,0,1,3,2012
+18605,"Decorah, IA","Raymond, IA",2,0,1,1,2,0,1,2,0,3,2012
+18586,"Decorah, IA","Nora Springs, IA",0,3,0,0,2,1,1,2,0,3,2012
+18594,"Decorah, IA","Owasa, IA",1,1,1,0,3,0,2,1,0,3,2012
+18558,"Decorah, IA","Manchester, IA",2,0,1,1,0,2,2,0,1,3,2012
+18559,"Decorah, IA","Manly, IA",1,2,0,0,1,2,1,1,1,3,2012
+18587,"Decorah, IA","North Liberty, IA",2,1,0,3,0,0,1,0,2,3,2012
+18623,"Decorah, IA","Shell Rock, IA",1,2,0,0,1,2,1,1,1,3,2012
+18628,"Decorah, IA","Springbrook, IA",2,1,0,0,1,2,2,1,0,3,2012
+18670,"Decorah, IA","Yetter, IA",0,2,1,0,0,3,1,1,1,3,2012
+18640,"Decorah, IA","Tiffin, IA",0,2,1,1,1,1,2,0,1,3,2012
+18439,"Decorah, IA","Belle Plaine, IA",1,2,0,1,1,1,1,1,1,3,2012
+18652,"Decorah, IA","Walford, IA",2,1,0,0,1,2,1,2,0,3,2012
+18477,"Decorah, IA","Denison, IA",1,2,0,0,1,2,1,1,1,3,2012
+18468,"Decorah, IA","Corning, IA",0,3,0,1,2,0,0,2,1,3,2012
+18644,"Decorah, IA","Traer, IA",1,1,1,0,1,2,2,0,1,3,2012
+18448,"Decorah, IA","Bristow, IA",0,2,1,0,1,2,1,1,1,3,2012
+18516,"Decorah, IA","Gilbertville, IA",1,2,0,0,0,3,3,0,0,3,2012
+18493,"Decorah, IA","Ely, IA",2,1,0,1,1,1,1,2,0,3,2012
+18619,"Decorah, IA","Sageville, IA",0,3,0,0,1,2,1,0,2,3,2012
+18522,"Decorah, IA","Grundy Center, IA",2,0,1,0,0,3,3,0,0,3,2012
+18524,"Decorah, IA","Hampton, IA",1,1,1,1,2,0,2,0,1,3,2012
+18446,"Decorah, IA","Brandon, IA",1,0,2,2,0,1,0,1,2,3,2012
+18525,"Decorah, IA","Harlan, IA",0,2,1,1,2,0,1,0,2,3,2012
+18639,"Decorah, IA","Thompson, IA",2,1,0,0,2,1,1,1,1,3,2012
+18548,"Decorah, IA","Larrabee, IA",0,1,2,0,1,2,3,0,0,3,2012
+18540,"Decorah, IA","Jesup, IA",1,1,1,1,0,2,0,2,1,3,2012
+18650,"Decorah, IA","Vinton, IA",0,2,1,0,3,0,0,1,2,3,2012
+18638,"Decorah, IA","Swea City, IA",1,0,2,1,1,1,1,2,0,3,2012
+18595,"Decorah, IA","Palo, IA",2,0,0,1,1,0,1,0,1,2,2012
+18484,"Decorah, IA","Dyersville, IA",0,1,1,0,1,1,1,0,1,2,2012
+18481,"Decorah, IA","Donnellson, IA",1,1,0,0,1,1,1,1,0,2,2012
+18617,"Decorah, IA","Ruthven, IA",0,0,2,0,0,2,1,1,0,2,2012
+18476,"Decorah, IA","Delaware, IA",0,1,1,0,0,2,0,2,0,2,2012
+18474,"Decorah, IA","De Witt, IA",2,0,0,1,0,1,1,1,0,2,2012
+18664,"Decorah, IA","Wheatland, IA",1,0,1,0,1,1,2,0,0,2,2012
+18668,"Decorah, IA","Windsor Heights, IA",1,0,1,0,2,0,2,0,0,2,2012
+18616,"Decorah, IA","Rockwell, IA",0,2,0,0,2,0,1,0,1,2,2012
+18607,"Decorah, IA","Reinbeck, IA",1,1,0,1,0,1,0,1,1,2,2012
+18458,"Decorah, IA","Centerville, IA",1,1,0,0,1,1,0,1,1,2,2012
+18457,"Decorah, IA","Center Point, IA",0,2,0,0,2,0,0,1,1,2,2012
+18430,"Decorah, IA","Anamosa, IA",1,1,0,1,1,0,0,1,1,2,2012
+18447,"Decorah, IA","Brighton, IA",2,0,0,0,2,0,1,1,0,2,2012
+18471,"Decorah, IA","Crawfordsville, IA",0,2,0,1,0,1,0,0,2,2,2012
+18552,"Decorah, IA","Lincoln, IA",0,1,1,0,1,1,1,1,0,2,2012
+18497,"Decorah, IA","Exline, IA",0,1,1,1,0,1,1,0,1,2,2012
+18513,"Decorah, IA","Garner, IA",1,1,0,0,2,0,1,1,0,2,2012
+18633,"Decorah, IA","Stacyville, IA",1,0,1,0,1,1,1,1,0,2,2012
+18556,"Decorah, IA","Lone Tree, IA",1,1,0,0,2,0,2,0,0,2,2012
+18539,"Decorah, IA","Jefferson, IA",0,2,0,0,0,2,0,0,2,2,2012
+18538,"Decorah, IA","Janesville, IA",0,1,1,0,0,2,1,1,0,2,2012
+18534,"Decorah, IA","Inwood, IA",2,0,0,0,1,1,2,0,0,2,2012
+18629,"Decorah, IA","Springville, IA",0,1,1,1,1,0,1,0,1,2,2012
+18641,"Decorah, IA","Tipton, IA",0,2,0,0,1,1,0,1,1,2,2012
+18517,"Decorah, IA","Grand Mound, IA",1,1,0,0,0,2,1,1,0,2,2012
+18550,"Decorah, IA","Leon, IA",0,1,1,0,0,2,1,1,0,2,2012
+18573,"Decorah, IA","Montezuma, IA",0,2,0,0,2,0,1,0,1,2,2012
+18571,"Decorah, IA","Mitchellville, IA",0,2,0,1,1,0,0,1,1,2,2012
+18580,"Decorah, IA","Nashua, IA",1,1,0,0,0,2,1,1,0,2,2012
+18584,"Decorah, IA","New London, IA",0,2,0,0,2,0,0,1,1,2,2012
+18576,"Decorah, IA","Morley, IA",1,0,1,0,0,2,1,1,0,2,2012
+18583,"Decorah, IA","New Hartford, IA",0,2,0,0,1,1,0,1,1,2,2012
+18499,"Decorah, IA","Fairfax, IA",0,1,1,1,0,1,0,1,1,2,2012
+18647,"Decorah, IA","University Heights, IA",1,1,0,0,1,1,1,1,0,2,2012
+18505,"Decorah, IA","Floyd, IA",1,1,0,0,2,0,0,1,1,2,2012
+18665,"Decorah, IA","Whittemore, IA",1,0,0,0,0,1,0,1,0,1,2012
+18667,"Decorah, IA","Williamsburg, IA",0,1,0,0,0,1,1,0,0,1,2012
+18666,"Decorah, IA","Williams, IA",0,0,1,0,1,0,0,1,0,1,2012
+18622,"Decorah, IA","Sheldon, IA",0,1,0,0,0,1,0,0,1,1,2012
+18621,"Decorah, IA","Schleswig, IA",1,0,0,0,1,0,0,1,0,1,2012
+18659,"Decorah, IA","Webster, IA",0,0,1,1,0,0,0,0,1,1,2012
+18646,"Decorah, IA","Union, IA",0,1,0,0,0,1,1,0,0,1,2012
+18662,"Decorah, IA","West Burlington, IA",1,0,0,0,1,0,0,1,0,1,2012
+18661,"Decorah, IA","West Bend, IA",0,1,0,0,0,1,1,0,0,1,2012
+18645,"Decorah, IA","Tripoli, IA",0,0,1,0,0,1,0,1,0,1,2012
+18642,"Decorah, IA","Titonka, IA",1,0,0,0,0,1,1,0,0,1,2012
+18626,"Decorah, IA","Spirit Lake, IA",1,0,0,0,0,1,1,0,0,1,2012
+18421,"Decorah, IA","Ackley, IA",0,1,0,0,1,0,0,1,0,1,2012
+18614,"Decorah, IA","Rock Rapids, IA",0,1,0,0,0,1,0,0,1,1,2012
+18459,"Decorah, IA","Central City, IA",1,0,0,0,0,1,0,1,0,1,2012
+18495,"Decorah, IA","Estherville, IA",0,0,1,0,0,1,1,0,0,1,2012
+18489,"Decorah, IA","Elk Run Heights, IA",1,0,0,0,1,0,1,0,0,1,2012
+18487,"Decorah, IA","Eldon, IA",0,1,0,0,1,0,0,0,1,1,2012
+18486,"Decorah, IA","Elberon, IA",0,1,0,0,0,1,0,1,0,1,2012
+18485,"Decorah, IA","East Peru, IA",0,0,1,1,0,0,0,1,0,1,2012
+18480,"Decorah, IA","Dike, IA",0,0,1,0,1,0,1,0,0,1,2012
+18473,"Decorah, IA","Davenport, IA",0,1,0,1,0,0,0,0,1,1,2012
+18467,"Decorah, IA","Coralville, IA",1,0,0,0,0,1,0,1,0,1,2012
+18465,"Decorah, IA","Coggon, IA",0,0,1,1,0,0,0,0,1,1,2012
+18462,"Decorah, IA","Clarksville, IA",0,1,0,0,0,1,0,1,0,1,2012
+18449,"Decorah, IA","Britt, IA",0,1,0,0,0,1,0,1,0,1,2012
+18504,"Decorah, IA","Floris, IA",1,0,0,0,1,0,0,1,0,1,2012
+18445,"Decorah, IA","Boyden, IA",0,1,0,0,0,1,0,1,0,1,2012
+18444,"Decorah, IA","Boxholm, IA",0,0,1,0,1,0,0,0,1,1,2012
+18440,"Decorah, IA","Bellevue, IA",0,1,0,0,1,0,1,0,0,1,2012
+18438,"Decorah, IA","Beaman, IA",0,1,0,0,1,0,0,1,0,1,2012
+18437,"Decorah, IA","Baldwin, IA",0,1,0,0,0,1,0,0,1,1,2012
+18436,"Decorah, IA","Aurora, IA",0,0,1,1,0,0,0,0,1,1,2012
+18433,"Decorah, IA","Arnolds Park, IA",1,0,0,0,1,0,1,0,0,1,2012
+18432,"Decorah, IA","Arlington, IA",0,0,1,0,1,0,0,1,0,1,2012
+18431,"Decorah, IA","Ankeny, IA",1,0,0,0,1,0,0,1,0,1,2012
+18423,"Decorah, IA","Ainsworth, IA",1,0,0,0,1,0,0,0,1,1,2012
+18501,"Decorah, IA","Farley, IA",1,0,0,0,1,0,0,1,0,1,2012
+18509,"Decorah, IA","Fostoria, IA",1,0,0,0,1,0,1,0,0,1,2012
+18610,"Decorah, IA","Rinard, IA",0,0,1,1,0,0,0,1,0,1,2012
+18560,"Decorah, IA","Manning, IA",1,0,0,0,1,0,0,0,1,1,2012
+18598,"Decorah, IA","Plainfield, IA",1,0,0,0,0,1,1,0,0,1,2012
+18597,"Decorah, IA","Paullina, IA",0,0,1,1,0,0,1,0,0,1,2012
+18593,"Decorah, IA","Osceola, IA",0,1,0,0,0,1,0,0,1,1,2012
+18591,"Decorah, IA","Orient, IA",1,0,0,0,1,0,1,0,0,1,2012
+18585,"Decorah, IA","Newell, IA",1,0,0,0,0,1,1,0,0,1,2012
+18578,"Decorah, IA","Moulton, IA",0,1,0,0,1,0,0,1,0,1,2012
+18569,"Decorah, IA","Mechanicsville, IA",0,1,0,0,0,1,1,0,0,1,2012
+18564,"Decorah, IA","Marion, IA",0,0,1,0,0,1,1,0,0,1,2012
+18563,"Decorah, IA","Marble Rock, IA",1,0,0,1,0,0,0,1,0,1,2012
+18561,"Decorah, IA","Manson, IA",1,0,0,0,0,1,1,0,0,1,2012
+18555,"Decorah, IA","Lockridge, IA",1,0,0,0,1,0,1,0,0,1,2012
+18511,"Decorah, IA","Frederika, IA",0,0,1,0,1,0,0,0,1,1,2012
+18554,"Decorah, IA","Liscomb, IA",0,0,1,0,1,0,0,1,0,1,2012
+18553,"Decorah, IA","Lineville, IA",0,1,0,0,1,0,1,0,0,1,2012
+18544,"Decorah, IA","Keota, IA",0,1,0,0,0,1,0,0,1,1,2012
+18541,"Decorah, IA","Jewell Junction, IA",0,1,0,0,1,0,0,1,0,1,2012
+18528,"Decorah, IA","Hawarden, IA",0,1,0,0,0,1,0,1,0,1,2012
+18527,"Decorah, IA","Hartley, IA",0,1,0,1,0,0,0,1,0,1,2012
+18520,"Decorah, IA","Greenfield, IA",0,1,0,0,1,0,0,1,0,1,2012
+18519,"Decorah, IA","Greene, IA",0,1,0,0,0,1,0,1,0,1,2012
+18515,"Decorah, IA","George, IA",0,1,0,0,1,0,1,0,0,1,2012
+18514,"Decorah, IA","Garwin, IA",1,0,0,0,0,1,0,1,0,1,2012
+18546,"Decorah, IA","Lamoni, IA",1,0,0,0,0,1,1,0,0,1,2012

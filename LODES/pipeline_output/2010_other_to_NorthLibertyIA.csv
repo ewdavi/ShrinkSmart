@@ -1,0 +1,355 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+53786,"North Liberty, IA","North Liberty, IA",243,603,143,153,425,411,209,310,470,989,2010
+53706,"North Liberty, IA","Iowa City, IA",148,336,98,80,313,189,116,202,264,582,2010
+53605,"North Liberty, IA","Cedar Rapids, IA",96,338,76,83,188,239,67,188,255,510,2010
+53623,"North Liberty, IA","Coralville, IA",74,176,46,32,178,86,72,121,103,296,2010
+53799,"North Liberty, IA","Oxford, IA",57,145,49,41,107,103,54,60,137,251,2010
+53865,"North Liberty, IA","Tiffin, IA",57,129,28,32,97,85,52,61,101,214,2010
+53870,"North Liberty, IA","University Heights, IA",59,85,29,16,102,55,45,58,70,173,2010
+53696,"North Liberty, IA","Hiawatha, IA",48,100,24,24,76,72,29,62,81,172,2010
+53832,"North Liberty, IA","Robins, IA",14,98,22,20,40,74,12,38,84,134,2010
+53831,"North Liberty, IA","Riverside, IA",19,55,28,13,42,47,11,37,54,102,2010
+53660,"North Liberty, IA","Fairfax, IA",22,63,13,32,43,23,6,40,52,98,2010
+53655,"North Liberty, IA","Ely, IA",12,54,23,18,32,39,12,20,57,89,2010
+53844,"North Liberty, IA","Shueyville, IA",15,52,14,18,23,40,14,15,52,81,2010
+53730,"North Liberty, IA","Lisbon, IA",14,42,21,13,36,28,11,25,41,77,2010
+53632,"North Liberty, IA","Davenport, IA",8,51,12,3,15,53,9,22,40,71,2010
+53746,"North Liberty, IA","Marengo, IA",14,49,7,14,34,22,11,25,34,70,2010
+53711,"North Liberty, IA","Kalona, IA",6,40,21,2,20,45,6,17,44,67,2010
+53879,"North Liberty, IA","Walford, IA",12,26,14,10,24,18,12,19,21,52,2010
+53637,"North Liberty, IA","Des Moines, IA",18,27,4,2,17,30,11,13,25,49,2010
+53580,"North Liberty, IA","Bertram, IA",8,31,3,9,13,20,6,12,24,42,2010
+53866,"North Liberty, IA","Tipton, IA",8,26,6,4,19,17,8,9,23,40,2010
+53882,"North Liberty, IA","Waterloo, IA",6,18,13,0,13,24,9,11,17,37,2010
+53881,"North Liberty, IA","Washington, IA",15,17,4,5,19,12,8,16,12,36,2010
+53850,"North Liberty, IA","Solon, IA",5,24,7,4,22,10,4,15,17,36,2010
+53892,"North Liberty, IA","West Branch, IA",4,27,4,7,15,13,3,18,14,35,2010
+53774,"North Liberty, IA","Muscatine, IA",6,24,4,6,19,9,5,12,17,34,2010
+53796,"North Liberty, IA","Ottumwa, IA",10,18,5,0,10,23,9,14,10,33,2010
+53641,"North Liberty, IA","Dubuque, IA",9,18,5,0,19,13,10,14,8,32,2010
+53733,"North Liberty, IA","Lone Tree, IA",9,15,7,6,13,12,6,13,12,31,2010
+53854,"North Liberty, IA","Springville, IA",2,19,7,5,2,21,2,4,22,28,2010
+53565,"North Liberty, IA","Ames, IA",7,15,5,2,15,10,4,7,16,27,2010
+53604,"North Liberty, IA","Cedar Falls, IA",4,16,7,2,6,19,6,7,14,27,2010
+53877,"North Liberty, IA","Vinton, IA",6,13,8,8,8,11,3,7,17,27,2010
+53697,"North Liberty, IA","Hills, IA",11,12,3,7,9,10,4,9,13,26,2010
+53616,"North Liberty, IA","Clinton, IA",2,9,15,0,4,22,4,3,19,26,2010
+53896,"North Liberty, IA","West Liberty, IA",5,18,3,3,17,6,3,18,5,26,2010
+53900,"North Liberty, IA","Williamsburg, IA",5,15,6,9,7,10,5,4,17,26,2010
+53747,"North Liberty, IA","Marion, IA",7,11,7,2,14,9,6,12,7,25,2010
+53582,"North Liberty, IA","Blairstown, IA",2,16,6,1,14,9,3,7,14,24,2010
+53593,"North Liberty, IA","Burlington, IA",7,11,5,1,6,16,14,7,2,23,2010
+53862,"North Liberty, IA","Swisher, IA",2,18,3,1,9,13,5,4,14,23,2010
+53872,"North Liberty, IA","Urbana, IA",1,20,1,3,10,9,0,7,15,22,2010
+53772,"North Liberty, IA","Mount Vernon, IA",3,10,8,5,5,11,2,13,6,21,2010
+53875,"North Liberty, IA","Victor, IA",4,14,3,10,5,6,0,12,9,21,2010
+53783,"North Liberty, IA","Nichols, IA",1,11,8,5,5,10,2,11,7,20,2010
+53744,"North Liberty, IA","Maquoketa, IA",1,6,12,0,1,18,1,3,15,19,2010
+53669,"North Liberty, IA","Fort Madison, IA",5,14,0,0,5,14,4,6,9,19,2010
+53801,"North Liberty, IA","Palo, IA",6,13,0,5,6,8,4,4,11,19,2010
+53753,"North Liberty, IA","Mechanicsville, IA",4,10,3,2,13,2,2,10,5,17,2010
+53901,"North Liberty, IA","Wilton, IA",1,9,7,2,7,8,1,5,11,17,2010
+53581,"North Liberty, IA","Bettendorf, IA",3,7,6,2,2,12,6,3,7,16,2010
+53618,"North Liberty, IA","Clive, IA",5,8,2,2,6,7,2,5,8,15,2010
+53721,"North Liberty, IA","Ladora, IA",0,13,2,0,8,7,1,4,10,15,2010
+53770,"North Liberty, IA","Mount Pleasant, IA",5,10,0,2,8,5,1,8,6,15,2010
+53707,"North Liberty, IA","Iowa Falls, IA",5,7,3,0,4,11,8,2,5,15,2010
+53587,"North Liberty, IA","Brighton, IA",6,8,0,2,4,8,3,3,8,14,2010
+53761,"North Liberty, IA","Monticello, IA",3,4,7,1,5,8,3,6,5,14,2010
+53804,"North Liberty, IA","Parnell, IA",3,7,3,3,6,4,0,6,7,13,2010
+53558,"North Liberty, IA","Ainsworth, IA",4,9,0,8,3,2,0,8,5,13,2010
+53570,"North Liberty, IA","Asbury, IA",1,10,2,0,4,9,6,0,7,13,2010
+53579,"North Liberty, IA","Bennett, IA",1,9,3,2,4,7,1,5,7,13,2010
+53890,"North Liberty, IA","Wellman, IA",2,10,1,1,4,8,1,4,8,13,2010
+53785,"North Liberty, IA","North English, IA",5,5,2,5,4,3,0,8,4,12,2010
+53571,"North Liberty, IA","Atalissa, IA",1,10,1,0,10,2,1,1,10,12,2010
+53572,"North Liberty, IA","Atkins, IA",6,3,3,2,7,3,5,3,4,12,2010
+53749,"North Liberty, IA","Martelle, IA",0,9,3,0,2,10,0,2,10,12,2010
+53686,"North Liberty, IA","Greenfield, IA",1,9,1,0,3,8,1,2,8,11,2010
+53895,"North Liberty, IA","West Des Moines, IA",3,6,2,2,6,3,1,6,4,11,2010
+53874,"North Liberty, IA","Van Horne, IA",4,3,4,2,8,1,3,2,6,11,2010
+53828,"North Liberty, IA","Richland, IA",3,7,1,2,3,6,0,9,2,11,2010
+53566,"North Liberty, IA","Anamosa, IA",1,7,3,1,3,7,2,0,9,11,2010
+53902,"North Liberty, IA","Windsor Heights, IA",5,6,0,0,8,3,2,2,7,11,2010
+53714,"North Liberty, IA","Keota, IA",2,5,4,4,3,4,2,4,5,11,2010
+53633,"North Liberty, IA","De Witt, IA",1,2,7,0,0,10,0,2,8,10,2010
+53782,"North Liberty, IA","Newton, IA",4,4,2,0,2,8,6,2,2,10,2010
+53794,"North Liberty, IA","Oskaloosa, IA",1,5,4,0,1,9,2,3,5,10,2010
+53709,"North Liberty, IA","Johnston, IA",3,5,1,0,5,4,1,1,7,9,2010
+53748,"North Liberty, IA","Marshalltown, IA",3,5,1,0,5,4,3,4,2,9,2010
+53688,"North Liberty, IA","Grinnell, IA",3,5,1,1,1,7,3,2,4,9,2010
+53847,"North Liberty, IA","Sioux City, IA",3,5,1,0,3,6,3,3,3,9,2010
+53569,"North Liberty, IA","Ankeny, IA",3,4,2,0,5,4,4,2,3,9,2010
+53577,"North Liberty, IA","Belle Plaine, IA",1,6,2,4,2,3,0,8,1,9,2010
+53620,"North Liberty, IA","Columbus Junction, IA",2,6,1,2,5,2,2,6,1,9,2010
+53813,"North Liberty, IA","Pleasant Plain, IA",1,7,0,2,3,3,0,2,6,8,2010
+53693,"North Liberty, IA","Hartwick, IA",1,5,2,2,3,3,1,3,4,8,2010
+53812,"North Liberty, IA","Pleasant Hill, IA",6,2,0,0,4,4,4,3,1,8,2010
+53609,"North Liberty, IA","Central City, IA",1,6,1,1,1,6,0,0,8,8,2010
+53764,"North Liberty, IA","Morley, IA",0,6,2,1,5,2,3,2,3,8,2010
+53586,"North Liberty, IA","Boone, IA",2,6,0,4,1,3,3,3,2,8,2010
+53873,"North Liberty, IA","Urbandale, IA",1,6,1,0,4,4,1,3,4,8,2010
+53648,"North Liberty, IA","Elberon, IA",0,7,1,4,3,1,1,3,4,8,2010
+53607,"North Liberty, IA","Center Point, IA",2,6,0,0,2,6,2,3,3,8,2010
+53624,"North Liberty, IA","Council Bluffs, IA",6,1,1,0,5,3,6,1,1,8,2010
+53649,"North Liberty, IA","Eldora, IA",3,3,1,0,7,0,5,0,2,7,2010
+53634,"North Liberty, IA","Decorah, IA",1,3,3,0,4,3,3,2,2,7,2010
+53751,"North Liberty, IA","Mason City, IA",2,4,1,0,5,2,3,1,3,7,2010
+53625,"North Liberty, IA","Crawfordsville, IA",0,6,1,2,4,1,0,4,3,7,2010
+53712,"North Liberty, IA","Keokuk, IA",2,5,0,0,2,5,5,1,1,7,2010
+53788,"North Liberty, IA","Norwalk, IA",4,2,1,1,3,3,3,0,4,7,2010
+53894,"North Liberty, IA","West Chester, IA",0,6,1,0,2,5,1,0,6,7,2010
+53661,"North Liberty, IA","Fairfield, IA",0,2,5,0,3,4,0,2,5,7,2010
+53868,"North Liberty, IA","Traer, IA",1,3,2,2,0,4,1,2,3,6,2010
+53863,"North Liberty, IA","Tama, IA",1,5,0,0,4,2,0,3,3,6,2010
+53668,"North Liberty, IA","Fort Dodge, IA",1,3,2,0,2,4,1,2,3,6,2010
+53898,"North Liberty, IA","Wheatland, IA",2,3,1,2,2,2,1,5,0,6,2010
+53680,"North Liberty, IA","Grandview, IA",1,3,2,0,6,0,2,1,3,6,2010
+53867,"North Liberty, IA","Toledo, IA",1,3,2,0,1,5,1,2,3,6,2010
+53689,"North Liberty, IA","Guernsey, IA",2,3,1,2,0,4,0,3,3,6,2010
+53659,"North Liberty, IA","Fairbank, IA",0,1,5,0,1,5,1,2,3,6,2010
+53594,"North Liberty, IA","Bussey, IA",3,3,0,0,2,4,3,0,3,6,2010
+53780,"North Liberty, IA","New Sharon, IA",3,2,1,0,1,5,1,4,1,6,2010
+53650,"North Liberty, IA","Eldridge, IA",1,4,1,0,1,5,2,0,4,6,2010
+53731,"North Liberty, IA","Liscomb, IA",3,2,0,3,2,0,2,2,1,5,2010
+53802,"North Liberty, IA","Panorama Park, IA",3,1,1,1,1,3,3,1,1,5,2010
+53897,"North Liberty, IA","What Cheer, IA",1,3,1,3,1,1,1,2,2,5,2010
+53855,"North Liberty, IA","St. Paul, IA",2,3,0,0,2,3,1,1,3,5,2010
+53578,"North Liberty, IA","Bellevue, IA",2,2,1,0,2,3,1,3,1,5,2010
+53893,"North Liberty, IA","West Burlington, IA",0,5,0,0,1,4,1,0,4,5,2010
+53670,"North Liberty, IA","Franklin, IA",0,4,1,0,1,4,0,1,4,5,2010
+53789,"North Liberty, IA","Norway, IA",0,4,1,1,4,0,0,5,0,5,2010
+53871,"North Liberty, IA","University Park, IA",0,2,3,0,0,5,0,1,4,5,2010
+53716,"North Liberty, IA","Kinross, IA",0,3,2,1,3,1,0,3,2,5,2010
+53779,"North Liberty, IA","New London, IA",1,3,1,1,3,1,1,2,2,5,2010
+53644,"North Liberty, IA","Dyersville, IA",1,4,0,0,0,5,1,0,4,5,2010
+53885,"North Liberty, IA","Waukon, IA",2,2,1,0,1,4,2,1,2,5,2010
+53575,"North Liberty, IA","Baldwin, IA",2,2,1,1,1,3,2,0,3,5,2010
+53656,"North Liberty, IA","Evansdale, IA",1,1,3,0,1,4,1,3,1,5,2010
+53704,"North Liberty, IA","Indianola, IA",0,5,0,1,1,3,0,1,4,5,2010
+53608,"North Liberty, IA","Centerville, IA",2,3,0,1,1,3,1,2,2,5,2010
+53611,"North Liberty, IA","Charles City, IA",3,2,0,0,4,1,2,1,2,5,2010
+53889,"North Liberty, IA","Webster, IA",0,3,1,1,2,1,0,1,3,4,2010
+53776,"North Liberty, IA","Nevada, IA",2,2,0,0,3,1,2,0,2,4,2010
+53718,"North Liberty, IA","Knoxville, IA",2,2,0,0,1,3,1,2,1,4,2010
+53884,"North Liberty, IA","Waukee, IA",2,1,1,0,2,2,2,1,1,4,2010
+53735,"North Liberty, IA","Lost Nation, IA",0,3,1,0,0,4,1,1,2,4,2010
+53738,"North Liberty, IA","Luana, IA",2,1,1,1,2,1,3,0,1,4,2010
+53584,"North Liberty, IA","Blue Grass, IA",2,1,1,0,4,0,3,0,1,4,2010
+53853,"North Liberty, IA","Springbrook, IA",2,1,1,0,1,3,2,0,2,4,2010
+53887,"North Liberty, IA","Wayland, IA",0,3,1,1,2,1,1,2,1,4,2010
+53886,"North Liberty, IA","Waverly, IA",1,1,2,0,0,4,0,0,4,4,2010
+53740,"North Liberty, IA","Manchester, IA",2,1,1,0,1,3,3,1,0,4,2010
+53907,"North Liberty, IA","Wyoming, IA",0,4,0,1,0,3,0,2,2,4,2010
+53613,"North Liberty, IA","Clarence, IA",0,3,1,1,3,0,0,4,0,4,2010
+53859,"North Liberty, IA","Strawberry Point, IA",1,1,2,0,1,3,1,1,2,4,2010
+53592,"North Liberty, IA","Buffalo, IA",0,3,1,0,1,3,0,1,3,4,2010
+53845,"North Liberty, IA","Sigourney, IA",0,2,1,0,0,3,0,1,2,3,2010
+53817,"North Liberty, IA","Preston, IA",1,2,0,0,1,2,2,0,1,3,2010
+53816,"North Liberty, IA","Prairieburg, IA",2,1,0,0,1,2,0,1,2,3,2010
+53818,"North Liberty, IA","Princeton, IA",1,2,0,1,1,1,0,2,1,3,2010
+53720,"North Liberty, IA","Lacona, IA",2,1,0,2,1,0,0,3,0,3,2010
+53824,"North Liberty, IA","Raymond, IA",0,1,2,0,1,2,0,1,2,3,2010
+53841,"North Liberty, IA","Seymour, IA",0,1,2,0,0,3,0,1,2,3,2010
+53798,"North Liberty, IA","Oxford Junction, IA",0,3,0,1,1,1,0,1,2,3,2010
+53837,"North Liberty, IA","Sageville, IA",1,0,2,0,1,2,1,1,1,3,2010
+53797,"North Liberty, IA","Owasa, IA",0,2,1,0,0,3,0,0,3,3,2010
+53793,"North Liberty, IA","Orient, IA",1,1,1,0,1,2,0,1,2,3,2010
+53754,"North Liberty, IA","Mediapolis, IA",1,2,0,0,2,1,1,1,1,3,2010
+53790,"North Liberty, IA","Oelwein, IA",1,0,2,1,1,1,1,1,1,3,2010
+53760,"North Liberty, IA","Montezuma, IA",0,0,3,0,0,3,0,0,3,3,2010
+53763,"North Liberty, IA","Montrose, IA",1,2,0,0,1,2,2,1,0,3,2010
+53771,"North Liberty, IA","Mount Union, IA",1,2,0,1,1,1,1,0,2,3,2010
+53826,"North Liberty, IA","Reinbeck, IA",0,2,1,1,1,1,0,0,3,3,2010
+53820,"North Liberty, IA","Protivin, IA",1,0,2,0,1,2,0,2,1,3,2010
+53732,"North Liberty, IA","Lockridge, IA",1,2,0,0,2,1,2,1,0,3,2010
+53671,"North Liberty, IA","Fremont, IA",0,3,0,1,0,2,0,0,3,3,2010
+53583,"North Liberty, IA","Bloomfield, IA",1,2,0,1,0,2,0,0,3,3,2010
+53856,"North Liberty, IA","Stanhope, IA",1,2,0,0,1,2,1,0,2,3,2010
+53646,"North Liberty, IA","Eddyville, IA",0,2,1,0,3,0,0,1,2,3,2010
+53857,"North Liberty, IA","Stockton, IA",0,3,0,0,3,0,0,0,3,3,2010
+53903,"North Liberty, IA","Winfield, IA",0,3,0,1,0,2,0,1,2,3,2010
+53700,"North Liberty, IA","Hubbard, IA",0,2,1,0,3,0,2,1,0,3,2010
+53627,"North Liberty, IA","Cresco, IA",1,1,1,0,0,3,0,1,2,3,2010
+53687,"North Liberty, IA","Grimes, IA",0,2,1,0,1,2,2,0,1,3,2010
+53622,"North Liberty, IA","Conesville, IA",0,2,1,2,0,1,0,0,3,3,2010
+53701,"North Liberty, IA","Hudson, IA",1,2,0,0,1,2,2,1,0,3,2010
+53703,"North Liberty, IA","Independence, IA",2,1,0,0,2,1,0,3,0,3,2010
+53665,"North Liberty, IA","Ferguson, IA",0,1,2,1,1,1,0,2,1,3,2010
+53888,"North Liberty, IA","Webster City, IA",2,0,1,0,2,1,2,1,0,3,2010
+53610,"North Liberty, IA","Chariton, IA",0,2,1,0,1,2,0,2,1,3,2010
+53851,"North Liberty, IA","South English, IA",0,2,1,1,1,1,1,0,2,3,2010
+53606,"North Liberty, IA","Center Junction, IA",0,2,1,2,0,1,0,1,2,3,2010
+53602,"North Liberty, IA","Casey, IA",2,0,1,0,2,1,3,0,0,3,2010
+53666,"North Liberty, IA","Floris, IA",1,1,0,0,1,1,1,0,1,2,2010
+53647,"North Liberty, IA","Edgewood, IA",1,1,0,0,0,2,0,1,1,2,2010
+53585,"North Liberty, IA","Bondurant, IA",0,2,0,0,1,1,0,0,2,2,2010
+53767,"North Liberty, IA","Moulton, IA",1,0,1,0,0,2,1,0,1,2,2010
+53768,"North Liberty, IA","Mount Auburn, IA",1,0,1,2,0,0,0,1,1,2,2010
+53769,"North Liberty, IA","Mount Ayr, IA",1,0,1,0,2,0,2,0,0,2,2010
+53645,"North Liberty, IA","East Peru, IA",2,0,0,1,0,1,0,1,1,2,2010
+53684,"North Liberty, IA","Greeley, IA",1,1,0,0,0,2,1,1,0,2,2010
+53643,"North Liberty, IA","Durant, IA",0,1,1,0,1,1,1,1,0,2,2010
+53773,"North Liberty, IA","Murray, IA",1,0,1,0,2,0,1,1,0,2,2010
+53589,"North Liberty, IA","Britt, IA",0,2,0,0,0,2,2,0,0,2,2010
+53597,"North Liberty, IA","Cantril, IA",0,2,0,0,0,2,0,2,0,2,2010
+53830,"North Liberty, IA","Riverdale, IA",1,1,0,0,1,1,1,0,1,2,2010
+53825,"North Liberty, IA","Reasnor, IA",1,1,0,0,2,0,0,1,1,2,2010
+53635,"North Liberty, IA","Delaware, IA",1,1,0,1,0,1,0,1,1,2,2010
+53880,"North Liberty, IA","Wapello, IA",1,1,0,0,2,0,0,1,1,2,2010
+53795,"North Liberty, IA","Otho, IA",0,1,1,0,2,0,0,2,0,2,2010
+53781,"North Liberty, IA","New Vienna, IA",0,2,0,0,0,2,0,2,0,2,2010
+53823,"North Liberty, IA","Rathbun, IA",0,1,1,0,1,1,0,2,0,2,2010
+53615,"North Liberty, IA","Clear Lake, IA",2,0,0,0,1,1,2,0,0,2,2010
+53598,"North Liberty, IA","Carlisle, IA",0,2,0,0,0,2,0,0,2,2,2010
+53638,"North Liberty, IA","Dexter, IA",0,2,0,0,1,1,0,1,1,2,2010
+53755,"North Liberty, IA","Melcher-Dallas, IA",1,1,0,1,0,1,0,1,1,2,2010
+53739,"North Liberty, IA","Lynnville, IA",1,0,1,0,0,2,1,1,0,2,2010
+53691,"North Liberty, IA","Hampton, IA",2,0,0,0,0,2,1,1,0,2,2010
+53849,"North Liberty, IA","Soldier, IA",1,0,1,0,2,0,0,2,0,2,2010
+53708,"North Liberty, IA","Janesville, IA",0,2,0,0,2,0,0,1,1,2,2010
+53843,"North Liberty, IA","Shell Rock, IA",0,1,1,0,0,2,0,1,1,2,2010
+53725,"North Liberty, IA","Larrabee, IA",2,0,0,0,1,1,1,0,1,2,2010
+53906,"North Liberty, IA","Woolstock, IA",0,2,0,0,2,0,0,2,0,2,2010
+53727,"North Liberty, IA","Le Claire, IA",0,1,1,0,0,2,0,0,2,2,2010
+53729,"North Liberty, IA","Lenox, IA",1,1,0,0,2,0,0,2,0,2,2010
+53702,"North Liberty, IA","Imogene, IA",1,1,0,0,1,1,1,0,1,2,2010
+53734,"North Liberty, IA","Long Grove, IA",1,0,1,0,0,2,1,1,0,2,2010
+53699,"North Liberty, IA","Houghton, IA",0,2,0,0,0,2,0,0,2,2,2010
+53737,"North Liberty, IA","Lowden, IA",0,1,1,0,1,1,0,2,0,2,2010
+53904,"North Liberty, IA","Winterset, IA",0,2,0,0,2,0,0,0,2,2,2010
+53757,"North Liberty, IA","Middletown, IA",0,2,0,0,0,2,0,1,1,2,2010
+53599,"North Liberty, IA","Carroll, IA",0,1,1,0,0,2,0,0,2,2,2010
+53808,"North Liberty, IA","Perry, IA",0,2,0,0,0,2,1,1,0,2,2010
+53690,"North Liberty, IA","Guttenberg, IA",0,1,1,0,0,2,0,1,1,2,2010
+53807,"North Liberty, IA","Peosta, IA",2,0,0,0,2,0,1,0,1,2,2010
+53806,"North Liberty, IA","Pella, IA",1,1,0,0,1,1,0,1,1,2,2010
+53805,"North Liberty, IA","Patterson, IA",1,1,0,0,2,0,1,0,1,2,2010
+53858,"North Liberty, IA","Story City, IA",0,2,0,0,1,1,0,0,2,2,2010
+53562,"North Liberty, IA","Alta Vista, IA",0,0,2,0,0,2,0,0,2,2,2010
+53679,"North Liberty, IA","Grand Mound, IA",1,1,0,0,1,1,1,0,1,2,2010
+53564,"North Liberty, IA","Altoona, IA",0,2,0,0,1,1,0,1,1,2,2010
+53861,"North Liberty, IA","Swan, IA",1,1,0,0,1,1,0,1,1,2,2010
+53674,"North Liberty, IA","Gibson, IA",0,1,1,0,1,1,0,1,1,2,2010
+53905,"North Liberty, IA","Woden, IA",1,0,0,0,0,1,0,1,0,1,2010
+53815,"North Liberty, IA","Pocahontas, IA",0,1,0,0,1,0,1,0,0,1,2010
+53891,"North Liberty, IA","Wellsburg, IA",0,1,0,0,0,1,0,0,1,1,2010
+53819,"North Liberty, IA","Promise City, IA",0,1,0,0,1,0,0,1,0,1,2010
+53899,"North Liberty, IA","Willey, IA",0,1,0,0,0,1,0,0,1,1,2010
+53846,"North Liberty, IA","Silver City, IA",0,1,0,0,0,1,0,1,0,1,2010
+53821,"North Liberty, IA","Quimby, IA",1,0,0,0,0,1,1,0,0,1,2010
+53834,"North Liberty, IA","Ryan, IA",0,1,0,1,0,0,0,1,0,1,2010
+53842,"North Liberty, IA","Shannon City, IA",0,1,0,1,0,0,0,1,0,1,2010
+53840,"North Liberty, IA","Sergeant Bluff, IA",1,0,0,0,1,0,0,1,0,1,2010
+53839,"North Liberty, IA","Schleswig, IA",1,0,0,0,1,0,1,0,0,1,2010
+53852,"North Liberty, IA","Spring Hill, IA",0,1,0,0,0,1,0,0,1,1,2010
+53838,"North Liberty, IA","Scarville, IA",1,0,0,0,1,0,1,0,0,1,2010
+53836,"North Liberty, IA","Sac City, IA",0,1,0,0,0,1,0,1,0,1,2010
+53835,"North Liberty, IA","Sabula, IA",1,0,0,1,0,0,1,0,0,1,2010
+53814,"North Liberty, IA","Pleasantville, IA",0,1,0,0,0,1,0,0,1,1,2010
+53833,"North Liberty, IA","Rome, IA",0,1,0,0,1,0,0,0,1,1,2010
+53822,"North Liberty, IA","Randalia, IA",0,0,1,0,0,1,0,0,1,1,2010
+53860,"North Liberty, IA","Sully, IA",0,1,0,0,0,1,0,0,1,1,2010
+53864,"North Liberty, IA","Thornton, IA",1,0,0,0,1,0,0,0,1,1,2010
+53829,"North Liberty, IA","Ridgeway, IA",0,0,1,0,0,1,0,0,1,1,2010
+53869,"North Liberty, IA","Union, IA",1,0,0,0,0,1,1,0,0,1,2010
+53848,"North Liberty, IA","Slater, IA",0,1,0,0,1,0,0,0,1,1,2010
+53876,"North Liberty, IA","Vining, IA",0,1,0,0,0,1,0,0,1,1,2010
+53878,"North Liberty, IA","Walcott, IA",1,0,0,0,1,0,1,0,0,1,2010
+53883,"North Liberty, IA","Waucoma, IA",0,0,1,0,0,1,0,0,1,1,2010
+53827,"North Liberty, IA","Rhodes, IA",1,0,0,0,0,1,1,0,0,1,2010
+53555,"North Liberty, IA","Ackley, IA",0,1,0,1,0,0,0,1,0,1,2010
+53811,"North Liberty, IA","Plano, IA",1,0,0,0,0,1,1,0,0,1,2010
+53652,"North Liberty, IA","Elkader, IA",0,1,0,1,0,0,1,0,0,1,2010
+53628,"North Liberty, IA","Cromwell, IA",1,0,0,0,0,1,1,0,0,1,2010
+53629,"North Liberty, IA","Dallas Center, IA",0,1,0,0,0,1,1,0,0,1,2010
+53630,"North Liberty, IA","Danbury, IA",1,0,0,0,1,0,1,0,0,1,2010
+53631,"North Liberty, IA","Danville, IA",0,1,0,0,1,0,0,1,0,1,2010
+53636,"North Liberty, IA","Denver, IA",0,0,1,0,0,1,0,1,0,1,2010
+53639,"North Liberty, IA","Dixon, IA",0,1,0,0,0,1,1,0,0,1,2010
+53640,"North Liberty, IA","Donnellson, IA",0,0,1,0,1,0,0,1,0,1,2010
+53642,"North Liberty, IA","Duncombe, IA",0,1,0,0,1,0,0,1,0,1,2010
+53651,"North Liberty, IA","Elk Run Heights, IA",0,1,0,0,1,0,0,0,1,1,2010
+53653,"North Liberty, IA","Elkport, IA",0,0,1,0,0,1,0,1,0,1,2010
+53621,"North Liberty, IA","Colwell, IA",1,0,0,0,0,1,1,0,0,1,2010
+53654,"North Liberty, IA","Elma, IA",0,1,0,0,0,1,0,0,1,1,2010
+53657,"North Liberty, IA","Exira, IA",1,0,0,0,0,1,0,1,0,1,2010
+53658,"North Liberty, IA","Exline, IA",1,0,0,0,1,0,0,1,0,1,2010
+53662,"North Liberty, IA","Farmington, IA",0,1,0,0,1,0,0,1,0,1,2010
+53663,"North Liberty, IA","Farnhamville, IA",0,1,0,0,0,1,0,1,0,1,2010
+53664,"North Liberty, IA","Fayette, IA",1,0,0,0,1,0,0,1,0,1,2010
+53667,"North Liberty, IA","Forest City, IA",0,0,1,0,1,0,0,1,0,1,2010
+53672,"North Liberty, IA","Fruitland, IA",0,1,0,0,0,1,0,0,1,1,2010
+53673,"North Liberty, IA","Garner, IA",0,1,0,0,0,1,0,1,0,1,2010
+53626,"North Liberty, IA","Crescent, IA",1,0,0,0,1,0,0,1,0,1,2010
+53619,"North Liberty, IA","Colfax, IA",0,0,1,0,0,1,0,1,0,1,2010
+53810,"North Liberty, IA","Plainfield, IA",1,0,0,0,1,0,1,0,0,1,2010
+53576,"North Liberty, IA","Bedford, IA",1,0,0,0,1,0,0,1,0,1,2010
+53557,"North Liberty, IA","Agency, IA",1,0,0,0,1,0,0,0,1,1,2010
+53559,"North Liberty, IA","Albia, IA",1,0,0,0,1,0,1,0,0,1,2010
+53560,"North Liberty, IA","Albion, IA",0,1,0,0,1,0,0,0,1,1,2010
+53561,"North Liberty, IA","Algona, IA",0,1,0,0,0,1,1,0,0,1,2010
+53563,"North Liberty, IA","Alton, IA",0,1,0,0,0,1,0,0,1,1,2010
+53567,"North Liberty, IA","Andover, IA",1,0,0,0,0,1,1,0,0,1,2010
+53568,"North Liberty, IA","Andrew, IA",1,0,0,0,1,0,1,0,0,1,2010
+53573,"North Liberty, IA","Atlantic, IA",0,0,1,0,1,0,0,1,0,1,2010
+53574,"North Liberty, IA","Aurora, IA",1,0,0,0,0,1,1,0,0,1,2010
+53588,"North Liberty, IA","Bristow, IA",0,0,1,0,1,0,1,0,0,1,2010
+53617,"North Liberty, IA","Clio, IA",0,1,0,0,0,1,0,0,1,1,2010
+53590,"North Liberty, IA","Brooklyn, IA",1,0,0,0,1,0,0,1,0,1,2010
+53591,"North Liberty, IA","Buffalo Center, IA",1,0,0,0,1,0,1,0,0,1,2010
+53595,"North Liberty, IA","Camanche, IA",0,0,1,0,0,1,0,1,0,1,2010
+53596,"North Liberty, IA","Cambridge, IA",1,0,0,0,1,0,0,1,0,1,2010
+53600,"North Liberty, IA","Carson, IA",1,0,0,0,0,1,1,0,0,1,2010
+53601,"North Liberty, IA","Carter Lake, IA",0,1,0,1,0,0,0,0,1,1,2010
+53603,"North Liberty, IA","Castalia, IA",1,0,0,0,0,1,1,0,0,1,2010
+53612,"North Liberty, IA","Cincinnati, IA",1,0,0,1,0,0,0,0,1,1,2010
+53614,"North Liberty, IA","Clarion, IA",1,0,0,0,1,0,0,1,0,1,2010
+53675,"North Liberty, IA","Gilbert, IA",0,1,0,0,1,0,0,0,1,1,2010
+53676,"North Liberty, IA","Gilman, IA",0,0,1,0,0,1,0,1,0,1,2010
+53677,"North Liberty, IA","Graf, IA",1,0,0,0,0,1,1,0,0,1,2010
+53766,"North Liberty, IA","Morrison, IA",0,1,0,0,0,1,1,0,0,1,2010
+53743,"North Liberty, IA","Manning, IA",0,1,0,0,0,1,1,0,0,1,2010
+53745,"North Liberty, IA","Marble Rock, IA",0,1,0,0,1,0,1,0,0,1,2010
+53750,"North Liberty, IA","Marysville, IA",0,1,0,0,1,0,0,0,1,1,2010
+53752,"North Liberty, IA","Maxwell, IA",0,1,0,0,1,0,0,0,1,1,2010
+53756,"North Liberty, IA","Merrill, IA",0,0,1,0,0,1,0,0,1,1,2010
+53758,"North Liberty, IA","Missouri Valley, IA",1,0,0,0,1,0,1,0,0,1,2010
+53759,"North Liberty, IA","Mitchellville, IA",0,1,0,0,0,1,1,0,0,1,2010
+53762,"North Liberty, IA","Montour, IA",0,1,0,0,1,0,0,1,0,1,2010
+53765,"North Liberty, IA","Morning Sun, IA",1,0,0,0,1,0,0,1,0,1,2010
+53775,"North Liberty, IA","Mystic, IA",1,0,0,0,0,1,1,0,0,1,2010
+53678,"North Liberty, IA","Grand Junction, IA",0,0,1,0,1,0,0,1,0,1,2010
+53777,"North Liberty, IA","New Albin, IA",0,0,1,0,0,1,0,0,1,1,2010
+53778,"North Liberty, IA","New Liberty, IA",0,1,0,0,0,1,0,1,0,1,2010
+53784,"North Liberty, IA","Nodaway, IA",0,1,0,0,0,1,0,1,0,1,2010
+53787,"North Liberty, IA","Northwood, IA",1,0,0,0,1,0,1,0,0,1,2010
+53791,"North Liberty, IA","Ogden, IA",1,0,0,0,1,0,1,0,0,1,2010
+53792,"North Liberty, IA","Onawa, IA",0,0,1,0,0,1,0,0,1,1,2010
+53800,"North Liberty, IA","Packwood, IA",0,1,0,0,0,1,0,1,0,1,2010
+53803,"North Liberty, IA","Parkersburg, IA",0,0,1,0,0,1,0,0,1,1,2010
+53809,"North Liberty, IA","Pierson, IA",0,1,0,0,0,1,0,0,1,1,2010
+53742,"North Liberty, IA","Manly, IA",1,0,0,0,1,0,0,1,0,1,2010
+53741,"North Liberty, IA","Manilla, IA",0,1,0,0,1,0,0,1,0,1,2010
+53736,"North Liberty, IA","Low Moor, IA",1,0,0,0,0,1,1,0,0,1,2010
+53556,"North Liberty, IA","Ackworth, IA",0,1,0,0,1,0,0,0,1,1,2010
+53681,"North Liberty, IA","Granger, IA",0,1,0,0,0,1,0,0,1,1,2010
+53682,"North Liberty, IA","Grant, IA",1,0,0,0,0,1,1,0,0,1,2010
+53683,"North Liberty, IA","Gravity, IA",0,0,1,0,1,0,0,1,0,1,2010
+53685,"North Liberty, IA","Greene, IA",1,0,0,0,1,0,1,0,0,1,2010
+53692,"North Liberty, IA","Harpers Ferry, IA",0,1,0,1,0,0,0,1,0,1,2010
+53694,"North Liberty, IA","Haverhill, IA",0,0,1,0,0,1,0,0,1,1,2010
+53695,"North Liberty, IA","Hedrick, IA",0,1,0,0,0,1,0,0,1,1,2010
+53698,"North Liberty, IA","Hopkinton, IA",0,0,1,0,0,1,0,0,1,1,2010
+53705,"North Liberty, IA","Ionia, IA",0,0,1,1,0,0,0,1,0,1,2010
+53710,"North Liberty, IA","Joice, IA",0,0,1,0,1,0,0,0,1,1,2010
+53713,"North Liberty, IA","Keosauqua, IA",1,0,0,0,0,1,0,0,1,1,2010
+53715,"North Liberty, IA","Keystone, IA",0,1,0,1,0,0,0,0,1,1,2010
+53717,"North Liberty, IA","Kirkville, IA",0,1,0,0,1,0,0,1,0,1,2010
+53719,"North Liberty, IA","La Porte City, IA",0,0,1,0,0,1,0,0,1,1,2010
+53722,"North Liberty, IA","Lake Mills, IA",0,1,0,0,0,1,0,0,1,1,2010
+53723,"North Liberty, IA","Lambs Grove, IA",0,1,0,0,0,1,0,0,1,1,2010
+53724,"North Liberty, IA","Lamoni, IA",0,1,0,0,0,1,0,0,1,1,2010
+53726,"North Liberty, IA","Lawton, IA",1,0,0,0,1,0,1,0,0,1,2010
+53728,"North Liberty, IA","Le Mars, IA",0,1,0,0,0,1,0,0,1,1,2010
+53908,"North Liberty, IA","Yetter, IA",1,0,0,0,1,0,1,0,0,1,2010

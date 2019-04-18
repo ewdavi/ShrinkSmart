@@ -1,0 +1,403 @@
+,home city,work city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+19396,"Des Moines, IA","Des Moines, IA",5322,13187,4781,2824,17846,2620,4950,9926,8414,23290,2011
+19369,"Des Moines, IA","Clive, IA",1731,2508,650,45,3946,898,1374,2078,1437,4889,2011
+19666,"Des Moines, IA","Urbandale, IA",983,1749,516,263,2187,798,952,1463,833,3248,2011
+19315,"Des Moines, IA","Ankeny, IA",768,1492,437,697,1248,752,686,1140,871,2697,2011
+19687,"Des Moines, IA","West Des Moines, IA",655,1462,497,618,1316,680,644,1233,737,2614,2011
+19694,"Des Moines, IA","Windsor Heights, IA",639,1229,392,150,1624,486,825,977,458,2260,2011
+19588,"Des Moines, IA","Pleasant Hill, IA",419,680,255,228,722,404,513,559,282,1354,2011
+19562,"Des Moines, IA","Norwalk, IA",375,678,202,154,882,219,368,694,193,1255,2011
+19478,"Des Moines, IA","Johnston, IA",335,598,182,88,679,348,308,461,346,1115,2011
+19311,"Des Moines, IA","Altoona, IA",267,546,175,52,684,252,306,547,135,988,2011
+19678,"Des Moines, IA","Waukee, IA",318,517,102,103,664,170,217,389,331,937,2011
+19312,"Des Moines, IA","Ames, IA",199,245,90,67,353,114,179,193,162,534,2011
+19523,"Des Moines, IA","Marshalltown, IA",128,202,50,234,102,44,67,246,67,380,2011
+19448,"Des Moines, IA","Grimes, IA",89,221,56,142,92,132,75,160,131,366,2011
+19355,"Des Moines, IA","Cedar Rapids, IA",106,189,59,27,194,133,106,100,148,354,2011
+19677,"Des Moines, IA","Waterloo, IA",95,147,33,43,127,105,81,81,113,275,2011
+19472,"Des Moines, IA","Iowa City, IA",121,90,27,12,178,48,111,85,42,238,2011
+19348,"Des Moines, IA","Carlisle, IA",87,120,27,49,160,25,81,125,28,234,2011
+19388,"Des Moines, IA","Davenport, IA",108,104,21,12,122,99,110,60,63,233,2011
+19471,"Des Moines, IA","Indianola, IA",60,143,26,31,150,48,87,87,55,229,2011
+19462,"Des Moines, IA","Hiawatha, IA",76,110,23,18,131,60,73,71,65,209,2011
+19636,"Des Moines, IA","Sioux City, IA",78,88,29,13,104,78,78,74,43,195,2011
+19332,"Des Moines, IA","Bettendorf, IA",88,69,15,0,84,88,79,55,38,172,2011
+19354,"Des Moines, IA","Cedar Falls, IA",74,63,27,26,77,61,62,46,56,164,2011
+19537,"Des Moines, IA","Mitchellville, IA",62,75,21,23,133,2,42,70,46,158,2011
+19381,"Des Moines, IA","Council Bluffs, IA",54,69,21,27,54,63,50,53,41,144,2011
+19337,"Des Moines, IA","Boone, IA",46,73,22,4,106,31,43,67,31,141,2011
+19433,"Des Moines, IA","Fort Dodge, IA",50,70,19,11,76,52,43,70,26,139,2011
+19571,"Des Moines, IA","Ottumwa, IA",53,56,15,22,45,57,38,56,30,124,2011
+19525,"Des Moines, IA","Mason City, IA",43,59,16,13,54,51,34,44,40,118,2011
+19402,"Des Moines, IA","Dubuque, IA",59,48,7,6,48,60,61,26,27,114,2011
+19556,"Des Moines, IA","Newton, IA",37,56,20,27,58,28,39,38,36,113,2011
+19592,"Des Moines, IA","Polk City, IA",26,51,16,6,86,1,23,46,24,93,2011
+19414,"Des Moines, IA","Elk Run Heights, IA",22,55,11,83,1,4,6,47,35,88,2011
+19568,"Des Moines, IA","Osceola, IA",11,55,13,49,20,10,9,45,25,79,2011
+19378,"Des Moines, IA","Coralville, IA",52,23,4,1,37,41,48,24,7,79,2011
+19584,"Des Moines, IA","Perry, IA",16,42,10,28,31,9,11,39,18,68,2011
+19444,"Des Moines, IA","Granger, IA",19,35,12,21,23,22,20,32,14,66,2011
+19413,"Des Moines, IA","Eldridge, IA",16,41,6,15,34,14,9,19,35,63,2011
+19349,"Des Moines, IA","Carroll, IA",21,21,18,4,29,27,22,29,9,60,2011
+19317,"Des Moines, IA","Asbury, IA",41,10,7,2,20,36,42,11,5,58,2011
+19551,"Des Moines, IA","Nevada, IA",10,41,7,23,31,4,7,21,30,58,2011
+19425,"Des Moines, IA","Fairfax, IA",18,35,3,13,14,29,26,15,15,56,2011
+19561,"Des Moines, IA","North Liberty, IA",17,33,6,1,26,29,10,25,21,56,2011
+19550,"Des Moines, IA","Muscatine, IA",21,28,6,7,28,20,17,21,17,55,2011
+19663,"Des Moines, IA","University Heights, IA",35,15,4,0,42,12,35,10,9,54,2011
+19626,"Des Moines, IA","Sergeant Bluff, IA",17,25,11,6,27,20,15,25,13,53,2011
+19614,"Des Moines, IA","Robins, IA",21,20,8,1,20,28,17,17,15,49,2011
+19383,"Des Moines, IA","Creston, IA",11,24,14,3,18,28,19,23,7,49,2011
+19582,"Des Moines, IA","Pella, IA",16,17,12,6,25,14,11,20,14,45,2011
+19391,"Des Moines, IA","De Soto, IA",12,25,8,17,20,8,16,15,14,45,2011
+19367,"Des Moines, IA","Clinton, IA",26,13,5,7,13,24,26,9,9,44,2011
+19343,"Des Moines, IA","Burlington, IA",20,16,7,11,13,19,19,11,13,43,2011
+19642,"Des Moines, IA","Spring Hill, IA",11,25,5,24,8,9,7,26,8,41,2011
+19490,"Des Moines, IA","Lakeside, IA",7,25,5,29,6,2,5,32,0,37,2011
+19319,"Des Moines, IA","Atlantic, IA",7,24,5,8,19,9,6,19,11,36,2011
+19546,"Des Moines, IA","Mount Pleasant, IA",10,14,11,2,12,21,16,13,6,35,2011
+19375,"Des Moines, IA","Conesville, IA",13,17,3,32,1,0,2,30,1,33,2011
+19686,"Des Moines, IA","West Burlington, IA",15,10,6,2,4,25,12,13,6,31,2011
+19569,"Des Moines, IA","Oskaloosa, IA",10,18,3,1,19,11,14,9,8,31,2011
+19484,"Des Moines, IA","Knoxville, IA",8,16,7,6,16,9,11,11,9,31,2011
+19394,"Des Moines, IA","Denison, IA",6,23,1,18,7,5,4,15,11,30,2011
+19468,"Des Moines, IA","Huxley, IA",6,22,2,8,20,2,11,9,10,30,2011
+19301,"Des Moines, IA","Adel, IA",6,18,5,9,15,5,1,15,13,29,2011
+19640,"Des Moines, IA","Spencer, IA",9,16,4,4,12,13,11,11,7,29,2011
+19336,"Des Moines, IA","Bondurant, IA",8,17,4,4,15,10,7,12,10,29,2011
+19358,"Des Moines, IA","Chariton, IA",9,15,5,0,9,20,10,10,9,29,2011
+19651,"Des Moines, IA","Storm Lake, IA",11,13,4,0,17,11,9,10,9,28,2011
+19449,"Des Moines, IA","Grinnell, IA",11,11,6,4,15,9,13,6,9,28,2011
+19660,"Des Moines, IA","Tiffin, IA",13,13,2,4,6,18,11,5,12,28,2011
+19668,"Des Moines, IA","Van Meter, IA",11,12,4,16,9,2,8,12,7,27,2011
+19680,"Des Moines, IA","Waverly, IA",13,9,4,2,16,8,15,7,4,26,2011
+19580,"Des Moines, IA","Patterson, IA",8,13,5,21,4,1,3,21,2,26,2011
+19692,"Des Moines, IA","Williamsburg, IA",9,12,5,4,3,19,11,6,9,26,2011
+19434,"Des Moines, IA","Fort Madison, IA",7,14,4,2,16,7,8,8,9,25,2011
+19421,"Des Moines, IA","Evansdale, IA",9,12,4,1,8,16,7,11,7,25,2011
+19387,"Des Moines, IA","Dallas Center, IA",5,16,2,8,7,8,3,9,11,23,2011
+19530,"Des Moines, IA","Melcher-Dallas, IA",8,15,0,13,5,5,6,11,6,23,2011
+19393,"Des Moines, IA","Decorah, IA",9,9,5,5,11,7,8,9,6,23,2011
+19696,"Des Moines, IA","Winterset, IA",1,20,2,3,17,3,4,10,9,23,2011
+19676,"Des Moines, IA","Washington, IA",13,5,5,1,15,7,10,5,8,23,2011
+19514,"Des Moines, IA","Madrid, IA",5,15,2,4,15,3,4,12,6,22,2011
+19620,"Des Moines, IA","Runnells, IA",8,11,2,11,9,1,4,15,2,21,2011
+19426,"Des Moines, IA","Fairfield, IA",11,5,4,0,12,8,8,8,4,20,2011
+19631,"Des Moines, IA","Shueyville, IA",5,12,3,0,8,12,7,8,5,20,2011
+19480,"Des Moines, IA","Keokuk, IA",7,9,3,2,3,14,6,8,5,19,2011
+19459,"Des Moines, IA","Harvey, IA",3,14,2,8,4,7,5,12,2,19,2011
+19308,"Des Moines, IA","Algona, IA",5,8,5,6,6,6,10,5,3,18,2011
+19397,"Des Moines, IA","Dexter, IA",5,10,3,10,7,1,2,14,2,18,2011
+19630,"Des Moines, IA","Shenandoah, IA",3,14,0,7,4,6,5,7,5,17,2011
+19681,"Des Moines, IA","Webster City, IA",6,7,4,3,9,5,5,7,5,17,2011
+19344,"Des Moines, IA","Bussey, IA",2,7,8,7,10,0,10,0,7,17,2011
+19606,"Des Moines, IA","Red Oak, IA",2,11,3,1,9,6,8,2,6,16,2011
+19362,"Des Moines, IA","Clarinda, IA",8,4,4,1,6,9,7,6,3,16,2011
+19470,"Des Moines, IA","Independence, IA",6,5,4,1,7,7,6,5,4,15,2011
+19519,"Des Moines, IA","Maquoketa, IA",9,3,3,0,1,14,12,1,2,15,2011
+19509,"Des Moines, IA","Low Moor, IA",7,5,2,0,2,12,7,6,1,14,2011
+19659,"Des Moines, IA","Tennant, IA",6,8,0,1,12,1,4,5,5,14,2011
+19473,"Des Moines, IA","Iowa Falls, IA",4,8,2,2,6,6,9,4,1,14,2011
+19417,"Des Moines, IA","Ely, IA",6,6,2,1,13,0,7,2,5,14,2011
+19299,"Des Moines, IA","Ackworth, IA",4,9,1,1,6,7,4,5,5,14,2011
+19357,"Des Moines, IA","Centerville, IA",2,9,3,9,0,5,0,4,10,14,2011
+19534,"Des Moines, IA","Minburn, IA",4,6,3,2,6,5,2,6,5,13,2011
+19649,"Des Moines, IA","Stanhope, IA",5,6,2,5,4,4,2,4,7,13,2011
+19612,"Des Moines, IA","Riverdale, IA",1,11,1,2,4,7,2,3,8,13,2011
+19578,"Des Moines, IA","Panorama Park, IA",3,10,0,2,9,2,2,7,4,13,2011
+19320,"Des Moines, IA","Audubon, IA",3,9,1,6,4,3,3,4,6,13,2011
+19351,"Des Moines, IA","Carter Lake, IA",2,10,1,1,5,7,3,8,2,13,2011
+19305,"Des Moines, IA","Albia, IA",3,7,3,3,6,4,5,8,0,13,2011
+19641,"Des Moines, IA","Spirit Lake, IA",2,9,2,1,4,8,2,4,7,13,2011
+19475,"Des Moines, IA","Jefferson, IA",4,7,2,0,9,4,4,7,2,13,2011
+19664,"Des Moines, IA","University Park, IA",3,7,2,1,5,6,3,5,4,12,2011
+19467,"Des Moines, IA","Humboldt, IA",7,4,1,1,8,3,6,4,2,12,2011
+19497,"Des Moines, IA","Le Mars, IA",4,5,3,3,3,6,2,5,5,12,2011
+19455,"Des Moines, IA","Hampton, IA",3,7,2,3,6,3,3,7,2,12,2011
+19503,"Des Moines, IA","Linden, IA",1,8,3,5,5,2,5,5,2,12,2011
+19549,"Des Moines, IA","Murray, IA",9,2,1,0,8,4,6,5,1,12,2011
+19365,"Des Moines, IA","Clear Lake, IA",3,4,4,6,2,3,5,2,4,11,2011
+19628,"Des Moines, IA","Shelby, IA",4,4,3,1,0,10,3,2,6,11,2011
+19638,"Des Moines, IA","Slater, IA",3,6,2,7,3,1,1,5,5,11,2011
+19432,"Des Moines, IA","Forest City, IA",6,3,1,0,9,1,7,3,0,10,2011
+19324,"Des Moines, IA","Baxter, IA",4,5,1,3,3,4,1,5,4,10,2011
+19457,"Des Moines, IA","Harlan, IA",2,7,1,1,8,1,2,4,4,10,2011
+19522,"Des Moines, IA","Marion, IA",2,8,0,3,4,3,1,1,8,10,2011
+19521,"Des Moines, IA","Marengo, IA",3,5,2,3,5,2,3,4,3,10,2011
+19662,"Des Moines, IA","Toledo, IA",3,5,2,3,5,2,1,6,3,10,2011
+19635,"Des Moines, IA","Sioux Center, IA",3,6,0,3,3,3,2,3,4,9,2011
+19652,"Des Moines, IA","Story City, IA",3,5,1,3,4,2,3,2,4,9,2011
+19605,"Des Moines, IA","Reasnor, IA",2,5,2,0,7,2,0,3,6,9,2011
+19352,"Des Moines, IA","Casey, IA",3,4,1,0,8,0,3,3,2,8,2011
+19517,"Des Moines, IA","Manchester, IA",3,3,2,0,5,3,3,3,2,8,2011
+19427,"Des Moines, IA","Farley, IA",4,4,0,7,0,1,1,3,4,8,2011
+19363,"Des Moines, IA","Clarion, IA",1,7,0,0,7,1,2,3,3,8,2011
+19563,"Des Moines, IA","Oelwein, IA",4,3,1,0,3,5,8,0,0,8,2011
+19307,"Des Moines, IA","Alden, IA",0,5,3,4,2,2,1,1,6,8,2011
+19577,"Des Moines, IA","Panora, IA",0,7,1,0,7,1,1,3,4,8,2011
+19412,"Des Moines, IA","Eldora, IA",0,6,2,1,2,5,4,1,3,8,2011
+19653,"Des Moines, IA","Strawberry Point, IA",0,5,2,7,0,0,0,3,4,7,2011
+19300,"Des Moines, IA","Adair, IA",5,2,0,5,2,0,3,3,1,7,2011
+19452,"Des Moines, IA","Guthrie Center, IA",3,4,0,1,3,3,2,1,4,7,2011
+19661,"Des Moines, IA","Tipton, IA",2,4,1,0,6,1,3,3,1,7,2011
+19602,"Des Moines, IA","Rathbun, IA",1,4,2,0,3,4,0,5,2,7,2011
+19600,"Des Moines, IA","Randalia, IA",0,3,4,0,7,0,5,1,1,7,2011
+19595,"Des Moines, IA","Prairie City, IA",3,3,1,0,4,3,0,5,2,7,2011
+19511,"Des Moines, IA","Lynnville, IA",1,4,2,3,3,1,2,0,5,7,2011
+19656,"Des Moines, IA","Swan, IA",4,3,0,5,2,0,2,1,4,7,2011
+19590,"Des Moines, IA","Pleasantville, IA",0,4,3,0,7,0,2,0,5,7,2011
+19622,"Des Moines, IA","Sageville, IA",3,3,1,4,1,2,1,0,6,7,2011
+19679,"Des Moines, IA","Waukon, IA",4,2,1,1,5,1,3,4,0,7,2011
+19447,"Des Moines, IA","Greenfield, IA",1,4,2,0,4,3,4,2,1,7,2011
+19629,"Des Moines, IA","Sheldon, IA",2,3,2,0,3,4,3,1,3,7,2011
+19341,"Des Moines, IA","Brooklyn, IA",0,5,2,7,0,0,0,1,6,7,2011
+19346,"Des Moines, IA","Cambridge, IA",2,3,2,3,1,3,0,6,1,7,2011
+19665,"Des Moines, IA","Urbana, IA",3,4,0,0,3,4,3,1,3,7,2011
+19416,"Des Moines, IA","Ellsworth, IA",1,4,2,0,5,2,1,4,2,7,2011
+19359,"Des Moines, IA","Charles City, IA",3,4,0,1,1,5,3,2,2,7,2011
+19423,"Des Moines, IA","Exira, IA",4,3,0,6,1,0,0,6,1,7,2011
+19572,"Des Moines, IA","Oxford, IA",1,3,2,2,2,2,2,2,2,6,2011
+19552,"Des Moines, IA","New Hampton, IA",3,2,1,2,1,3,3,1,2,6,2011
+19382,"Des Moines, IA","Cresco, IA",4,1,1,1,0,5,4,2,0,6,2011
+19698,"Des Moines, IA","Woodward, IA",2,3,1,0,4,2,3,2,1,6,2011
+19409,"Des Moines, IA","Eddyville, IA",0,4,2,2,2,2,2,3,1,6,2011
+19670,"Des Moines, IA","Vinton, IA",2,3,1,0,4,2,2,1,3,6,2011
+19495,"Des Moines, IA","Larrabee, IA",2,3,1,1,2,3,2,1,3,6,2011
+19334,"Des Moines, IA","Bloomfield, IA",0,6,0,1,3,2,4,2,0,6,2011
+19685,"Des Moines, IA","West Branch, IA",1,5,0,1,0,5,2,4,0,6,2011
+19693,"Des Moines, IA","Wilton, IA",2,3,1,0,3,3,1,3,2,6,2011
+19330,"Des Moines, IA","Bennett, IA",0,5,1,5,0,1,0,2,4,6,2011
+19329,"Des Moines, IA","Belmond, IA",0,4,2,5,1,0,1,0,5,6,2011
+19440,"Des Moines, IA","Glenwood, IA",1,5,0,0,5,1,1,5,0,6,2011
+19479,"Des Moines, IA","Kalona, IA",3,2,0,0,2,3,3,2,0,5,2011
+19538,"Des Moines, IA","Montezuma, IA",1,4,0,0,5,0,3,2,0,5,2011
+19493,"Des Moines, IA","Lamoni, IA",1,2,2,0,4,1,3,0,2,5,2011
+19492,"Des Moines, IA","Lambs Grove, IA",2,2,1,0,4,1,3,1,1,5,2011
+19395,"Des Moines, IA","Denver, IA",4,1,0,1,2,2,3,1,1,5,2011
+19339,"Des Moines, IA","Boyden, IA",1,2,2,3,2,0,4,1,0,5,2011
+19340,"Des Moines, IA","Britt, IA",1,3,1,2,2,1,1,2,2,5,2011
+19486,"Des Moines, IA","Lacona, IA",2,2,1,3,1,1,1,3,1,5,2011
+19483,"Des Moines, IA","Kirkville, IA",3,1,1,4,0,1,1,3,1,5,2011
+19504,"Des Moines, IA","Lisbon, IA",2,2,1,0,4,1,3,2,0,5,2011
+19539,"Des Moines, IA","Monticello, IA",5,0,0,0,1,4,4,1,0,5,2011
+19474,"Des Moines, IA","Janesville, IA",0,4,1,0,1,4,3,2,0,5,2011
+19309,"Des Moines, IA","Allison, IA",1,4,0,0,3,2,0,2,3,5,2011
+19371,"Des Moines, IA","Colfax, IA",2,1,2,0,3,2,3,1,1,5,2011
+19316,"Des Moines, IA","Arnolds Park, IA",4,0,1,0,2,3,4,0,1,5,2011
+19645,"Des Moines, IA","St. Marys, IA",1,2,2,4,1,0,0,3,2,5,2011
+19353,"Des Moines, IA","Castalia, IA",1,4,0,4,1,0,1,2,2,5,2011
+19418,"Des Moines, IA","Emmetsburg, IA",1,2,2,1,3,1,2,2,1,5,2011
+19544,"Des Moines, IA","Moulton, IA",2,2,0,1,3,0,1,2,1,4,2011
+19507,"Des Moines, IA","Logan, IA",0,1,3,0,3,1,0,2,2,4,2011
+19567,"Des Moines, IA","Osage, IA",0,2,2,2,1,1,0,2,2,4,2011
+19570,"Des Moines, IA","Ottosen, IA",1,3,0,3,0,1,2,0,2,4,2011
+19591,"Des Moines, IA","Pocahontas, IA",2,1,1,0,1,3,3,1,0,4,2011
+19616,"Des Moines, IA","Rock Valley, IA",3,1,0,2,2,0,0,3,1,4,2011
+19499,"Des Moines, IA","Leon, IA",1,3,0,0,2,2,1,2,1,4,2011
+19597,"Des Moines, IA","Primghar, IA",0,3,1,0,4,0,1,0,3,4,2011
+19613,"Des Moines, IA","Riverside, IA",3,1,0,0,1,3,3,1,0,4,2011
+19331,"Des Moines, IA","Bertram, IA",0,1,3,1,2,1,0,1,3,4,2011
+19380,"Des Moines, IA","Corydon, IA",0,3,1,2,2,0,3,1,0,4,2011
+19338,"Des Moines, IA","Boxholm, IA",0,3,1,3,1,0,1,1,2,4,2011
+19373,"Des Moines, IA","Columbus Junction, IA",0,4,0,0,3,1,3,1,0,4,2011
+19333,"Des Moines, IA","Blairstown, IA",0,4,0,4,0,0,0,0,4,4,2011
+19441,"Des Moines, IA","Goldfield, IA",2,1,1,1,2,1,3,1,0,4,2011
+19672,"Des Moines, IA","Walford, IA",1,0,3,0,4,0,1,3,0,4,2011
+19673,"Des Moines, IA","Wall Lake, IA",1,1,2,1,0,3,0,0,4,4,2011
+19469,"Des Moines, IA","Ida Grove, IA",1,3,0,1,2,1,2,1,1,4,2011
+19326,"Des Moines, IA","Bedford, IA",2,0,2,0,3,1,2,2,0,4,2011
+19506,"Des Moines, IA","Livermore, IA",1,1,1,2,0,1,0,3,0,3,2011
+19442,"Des Moines, IA","Grand Junction, IA",1,2,0,1,0,2,0,2,1,3,2011
+19422,"Des Moines, IA","Everly, IA",1,1,1,0,1,2,1,2,0,3,2011
+19345,"Des Moines, IA","Camanche, IA",0,3,0,0,0,3,1,2,0,3,2011
+19302,"Des Moines, IA","Afton, IA",0,1,2,0,3,0,0,1,2,3,2011
+19650,"Des Moines, IA","Stanton, IA",1,2,0,0,1,2,1,1,1,3,2011
+19374,"Des Moines, IA","Colwell, IA",1,2,0,3,0,0,2,0,1,3,2011
+19624,"Des Moines, IA","Schaller, IA",1,2,0,0,0,3,1,0,2,3,2011
+19611,"Des Moines, IA","Rippey, IA",0,3,0,3,0,0,1,2,0,3,2011
+19431,"Des Moines, IA","Floyd, IA",1,1,1,1,1,1,1,0,2,3,2011
+19545,"Des Moines, IA","Mount Ayr, IA",1,2,0,0,3,0,0,1,2,3,2011
+19377,"Des Moines, IA","Coon Rapids, IA",2,1,0,0,2,1,0,3,0,3,2011
+19437,"Des Moines, IA","Garwin, IA",0,3,0,0,3,0,0,3,0,3,2011
+19618,"Des Moines, IA","Rockwell City, IA",2,1,0,0,3,0,3,0,0,3,2011
+19386,"Des Moines, IA","Dakota City, IA",2,0,1,0,2,1,2,1,0,3,2011
+19438,"Des Moines, IA","Gilbert, IA",1,1,1,0,2,1,2,0,1,3,2011
+19443,"Des Moines, IA","Grandview, IA",0,3,0,0,1,2,0,1,2,3,2011
+19674,"Des Moines, IA","Walnut, IA",2,1,0,0,2,1,1,2,0,3,2011
+19385,"Des Moines, IA","Crystal Lake, IA",1,2,0,0,0,3,0,0,3,3,2011
+19313,"Des Moines, IA","Anamosa, IA",0,1,2,0,3,0,1,2,0,3,2011
+19392,"Des Moines, IA","De Witt, IA",1,2,0,0,3,0,2,0,1,3,2011
+19643,"Des Moines, IA","Springville, IA",0,1,2,0,1,2,0,0,3,3,2011
+19594,"Des Moines, IA","Postville, IA",1,1,1,2,1,0,0,2,1,3,2011
+19564,"Des Moines, IA","Ogden, IA",1,2,0,1,1,1,1,1,1,3,2011
+19306,"Des Moines, IA","Albion, IA",1,1,1,0,1,2,1,2,0,3,2011
+19658,"Des Moines, IA","Tama, IA",0,1,2,2,0,1,0,3,0,3,2011
+19502,"Des Moines, IA","Lincoln, IA",1,1,1,0,1,2,1,1,1,3,2011
+19574,"Des Moines, IA","Packwood, IA",0,1,2,0,3,0,0,0,3,3,2011
+19575,"Des Moines, IA","Palo, IA",1,2,0,0,1,2,1,1,1,3,2011
+19379,"Des Moines, IA","Corning, IA",2,0,0,0,1,1,1,1,0,2,2011
+19684,"Des Moines, IA","West Bend, IA",0,2,0,1,0,1,1,0,1,2,2011
+19566,"Des Moines, IA","Orange City, IA",2,0,0,0,2,0,0,0,2,2,2011
+19565,"Des Moines, IA","Onawa, IA",0,1,1,0,1,1,0,0,2,2,2011
+19573,"Des Moines, IA","Pacific Junction, IA",1,0,1,0,2,0,2,0,0,2,2011
+19496,"Des Moines, IA","Le Claire, IA",1,1,0,0,2,0,0,2,0,2,2011
+19690,"Des Moines, IA","Whittemore, IA",0,1,1,2,0,0,0,0,2,2,2011
+19583,"Des Moines, IA","Peosta, IA",0,1,1,1,0,1,1,0,1,2,2011
+19608,"Des Moines, IA","Reinbeck, IA",0,2,0,1,0,1,0,1,1,2,2011
+19697,"Des Moines, IA","Wiota, IA",0,2,0,2,0,0,1,0,1,2,2011
+19619,"Des Moines, IA","Roland, IA",0,1,1,0,0,2,0,0,2,2,2011
+19314,"Des Moines, IA","Anita, IA",0,2,0,1,1,0,2,0,0,2,2011
+19318,"Des Moines, IA","Atalissa, IA",1,1,0,0,0,2,1,0,1,2,2011
+19621,"Des Moines, IA","Sac City, IA",0,2,0,1,1,0,1,1,0,2,2011
+19598,"Des Moines, IA","Princeton, IA",0,2,0,0,2,0,0,1,1,2,2011
+19321,"Des Moines, IA","Aurelia, IA",1,1,0,2,0,0,0,0,2,2,2011
+19695,"Des Moines, IA","Winfield, IA",2,0,0,0,1,1,0,1,1,2,2011
+19327,"Des Moines, IA","Belle Plaine, IA",1,1,0,0,2,0,0,2,0,2,2011
+19328,"Des Moines, IA","Bellevue, IA",1,1,0,1,1,0,1,0,1,2,2011
+19559,"Des Moines, IA","Nora Springs, IA",1,1,0,0,2,0,0,1,1,2,2011
+19589,"Des Moines, IA","Pleasant Plain, IA",1,1,0,1,0,1,0,1,1,2,2011
+19585,"Des Moines, IA","Peterson, IA",1,1,0,1,0,1,0,2,0,2,2011
+19335,"Des Moines, IA","Blue Grass, IA",1,1,0,2,0,0,0,0,2,2,2011
+19560,"Des Moines, IA","North English, IA",0,2,0,0,0,2,2,0,0,2,2011
+19390,"Des Moines, IA","Dayton, IA",2,0,0,0,0,2,0,1,1,2,2011
+19558,"Des Moines, IA","Nodaway, IA",2,0,0,0,1,1,0,2,0,2,2011
+19450,"Des Moines, IA","Grundy Center, IA",0,2,0,1,0,1,0,1,1,2,2011
+19429,"Des Moines, IA","Fayette, IA",0,1,1,0,2,0,1,1,0,2,2011
+19389,"Des Moines, IA","Dawson, IA",1,1,0,0,0,2,1,1,0,2,2011
+19430,"Des Moines, IA","Ferguson, IA",0,2,0,1,1,0,1,1,0,2,2011
+19435,"Des Moines, IA","Franklin, IA",0,2,0,0,1,1,0,1,1,2,2011
+19524,"Des Moines, IA","Martelle, IA",2,0,0,0,0,2,1,1,0,2,2011
+19446,"Des Moines, IA","Gravity, IA",0,1,1,0,0,2,1,0,1,2,2011
+19518,"Des Moines, IA","Manning, IA",0,1,1,1,1,0,1,0,1,2,2011
+19513,"Des Moines, IA","Macksburg, IA",1,1,0,0,2,0,2,0,0,2,2011
+19536,"Des Moines, IA","Missouri Valley, IA",0,1,1,0,2,0,0,2,0,2,2011
+19654,"Des Moines, IA","Stuart, IA",1,1,0,0,1,1,0,2,0,2,2011
+19466,"Des Moines, IA","Hull, IA",0,1,1,1,1,0,1,1,0,2,2011
+19476,"Des Moines, IA","Jesup, IA",1,1,0,2,0,0,0,0,2,2,2011
+19481,"Des Moines, IA","Keosauqua, IA",0,1,1,0,2,0,0,0,2,2,2011
+19482,"Des Moines, IA","Kirkman, IA",0,1,1,2,0,0,1,0,1,2,2011
+19487,"Des Moines, IA","Lake City, IA",1,1,0,0,1,1,1,1,0,2,2011
+19498,"Des Moines, IA","Lenox, IA",1,0,1,1,0,1,0,0,2,2,2011
+19535,"Des Moines, IA","Minden, IA",0,2,0,0,1,1,0,1,1,2,2011
+19531,"Des Moines, IA","Meriden, IA",2,0,0,0,1,1,0,1,1,2,2011
+19456,"Des Moines, IA","Hancock, IA",0,2,0,0,1,1,1,0,1,2,2011
+19669,"Des Moines, IA","Victor, IA",0,0,2,2,0,0,0,0,2,2,2011
+19543,"Des Moines, IA","Morrison, IA",0,1,1,2,0,0,0,0,2,2,2011
+19547,"Des Moines, IA","Mount Union, IA",0,2,0,0,0,2,0,2,0,2,2011
+19548,"Des Moines, IA","Mount Vernon, IA",0,2,0,0,2,0,0,1,1,2,2011
+19541,"Des Moines, IA","Moravia, IA",2,0,0,0,2,0,0,2,0,2,2011
+19675,"Des Moines, IA","Wapello, IA",0,2,0,0,0,2,1,1,0,2,2011
+19540,"Des Moines, IA","Montrose, IA",1,1,0,0,0,2,1,1,0,2,2011
+19419,"Des Moines, IA","Epworth, IA",1,0,1,0,0,2,1,1,0,2,2011
+19410,"Des Moines, IA","Elberon, IA",1,1,0,1,1,0,0,1,1,2,2011
+19647,"Des Moines, IA","St. Paul, IA",1,0,0,0,0,1,1,0,0,1,2011
+19617,"Des Moines, IA","Rockford, IA",1,0,0,0,1,0,0,1,0,1,2011
+19682,"Des Moines, IA","Webster, IA",0,1,0,0,0,1,0,1,0,1,2011
+19699,"Des Moines, IA","Woolstock, IA",0,0,1,0,0,1,0,1,0,1,2011
+19615,"Des Moines, IA","Rock Rapids, IA",0,1,0,0,1,0,0,0,1,1,2011
+19632,"Des Moines, IA","Sibley, IA",1,0,0,0,1,0,0,1,0,1,2011
+19646,"Des Moines, IA","St. Olaf, IA",1,0,0,1,0,0,0,1,0,1,2011
+19648,"Des Moines, IA","Stacyville, IA",0,1,0,1,0,0,1,0,0,1,2011
+19671,"Des Moines, IA","Walcott, IA",0,1,0,0,0,1,0,1,0,1,2011
+19644,"Des Moines, IA","St. Ansgar, IA",1,0,0,1,0,0,0,1,0,1,2011
+19691,"Des Moines, IA","Williams, IA",0,1,0,0,1,0,0,1,0,1,2011
+19655,"Des Moines, IA","Sumner, IA",1,0,0,0,0,1,1,0,0,1,2011
+19627,"Des Moines, IA","Sheffield, IA",1,0,0,1,0,0,0,0,1,1,2011
+19683,"Des Moines, IA","Wellman, IA",0,1,0,0,1,0,0,0,1,1,2011
+19633,"Des Moines, IA","Sigourney, IA",0,0,1,1,0,0,0,1,0,1,2011
+19623,"Des Moines, IA","Sandyville, IA",1,0,0,0,0,1,1,0,0,1,2011
+19639,"Des Moines, IA","Sloan, IA",1,0,0,1,0,0,0,0,1,1,2011
+19637,"Des Moines, IA","Sioux Rapids, IA",1,0,0,0,0,1,1,0,0,1,2011
+19688,"Des Moines, IA","West Liberty, IA",0,1,0,0,0,1,1,0,0,1,2011
+19625,"Des Moines, IA","Schleswig, IA",1,0,0,0,0,1,0,0,1,1,2011
+19689,"Des Moines, IA","West Union, IA",0,1,0,0,1,0,1,0,0,1,2011
+19634,"Des Moines, IA","Silver City, IA",1,0,0,0,0,1,0,0,1,1,2011
+19667,"Des Moines, IA","Van Horne, IA",1,0,0,0,1,0,0,1,0,1,2011
+19657,"Des Moines, IA","Swea City, IA",0,1,0,0,1,0,1,0,0,1,2011
+19500,"Des Moines, IA","Lewis, IA",0,0,1,0,1,0,0,1,0,1,2011
+19610,"Des Moines, IA","Rinard, IA",0,1,0,0,0,1,0,1,0,1,2011
+19415,"Des Moines, IA","Elliott, IA",0,1,0,0,0,1,1,0,0,1,2011
+19401,"Des Moines, IA","Donnellson, IA",0,1,0,0,0,1,0,1,0,1,2011
+19403,"Des Moines, IA","Duncombe, IA",1,0,0,1,0,0,0,0,1,1,2011
+19404,"Des Moines, IA","Dunkerton, IA",1,0,0,0,0,1,0,1,0,1,2011
+19405,"Des Moines, IA","Durant, IA",0,0,1,0,0,1,1,0,0,1,2011
+19406,"Des Moines, IA","Dysart, IA",0,1,0,1,0,0,0,1,0,1,2011
+19407,"Des Moines, IA","Eagle Grove, IA",1,0,0,0,0,1,0,1,0,1,2011
+19408,"Des Moines, IA","East Peru, IA",0,1,0,0,0,1,1,0,0,1,2011
+19411,"Des Moines, IA","Eldon, IA",1,0,0,0,0,1,1,0,0,1,2011
+19420,"Des Moines, IA","Estherville, IA",0,0,1,0,1,0,0,0,1,1,2011
+19399,"Des Moines, IA","Dixon, IA",0,1,0,0,1,0,0,0,1,1,2011
+19424,"Des Moines, IA","Fairbank, IA",1,0,0,1,0,0,0,0,1,1,2011
+19428,"Des Moines, IA","Farmington, IA",0,1,0,0,0,1,0,1,0,1,2011
+19436,"Des Moines, IA","Garner, IA",0,1,0,0,1,0,0,0,1,1,2011
+19439,"Des Moines, IA","Gilman, IA",1,0,0,1,0,0,0,0,1,1,2011
+19445,"Des Moines, IA","Grant, IA",0,1,0,0,0,1,0,0,1,1,2011
+19451,"Des Moines, IA","Guernsey, IA",1,0,0,0,0,1,0,1,0,1,2011
+19453,"Des Moines, IA","Guttenberg, IA",1,0,0,0,1,0,0,1,0,1,2011
+19454,"Des Moines, IA","Hamburg, IA",0,1,0,0,0,1,0,0,1,1,2011
+19400,"Des Moines, IA","Dolliver, IA",0,1,0,0,1,0,0,1,0,1,2011
+19398,"Des Moines, IA","Diagonal, IA",1,0,0,0,1,0,0,1,0,1,2011
+19609,"Des Moines, IA","Rhodes, IA",0,0,1,0,1,0,0,0,1,1,2011
+19350,"Des Moines, IA","Carson, IA",0,1,0,0,1,0,1,0,0,1,2011
+19303,"Des Moines, IA","Akron, IA",0,1,0,0,0,1,0,0,1,1,2011
+19304,"Des Moines, IA","Albert City, IA",0,1,0,1,0,0,0,0,1,1,2011
+19310,"Des Moines, IA","Alton, IA",0,0,1,1,0,0,0,1,0,1,2011
+19322,"Des Moines, IA","Bagley, IA",1,0,0,0,0,1,0,1,0,1,2011
+19323,"Des Moines, IA","Battle Creek, IA",0,0,1,0,1,0,1,0,0,1,2011
+19325,"Des Moines, IA","Bayard, IA",0,1,0,0,0,1,0,0,1,1,2011
+19342,"Des Moines, IA","Buffalo Center, IA",1,0,0,0,1,0,1,0,0,1,2011
+19347,"Des Moines, IA","Cantril, IA",0,1,0,1,0,0,0,1,0,1,2011
+19356,"Des Moines, IA","Center Point, IA",0,1,0,0,1,0,0,1,0,1,2011
+19384,"Des Moines, IA","Cromwell, IA",0,1,0,0,0,1,0,0,1,1,2011
+19360,"Des Moines, IA","Cherokee, IA",0,1,0,0,1,0,0,0,1,1,2011
+19361,"Des Moines, IA","Churdan, IA",0,1,0,0,0,1,0,1,0,1,2011
+19364,"Des Moines, IA","Clarksville, IA",0,1,0,0,0,1,0,0,1,1,2011
+19366,"Des Moines, IA","Clearfield, IA",1,0,0,0,1,0,1,0,0,1,2011
+19368,"Des Moines, IA","Clio, IA",0,0,1,0,0,1,0,1,0,1,2011
+19370,"Des Moines, IA","Clutier, IA",0,1,0,0,0,1,0,1,0,1,2011
+19372,"Des Moines, IA","Colo, IA",0,0,1,0,0,1,1,0,0,1,2011
+19376,"Des Moines, IA","Conrad, IA",0,1,0,0,1,0,0,0,1,1,2011
+19458,"Des Moines, IA","Harris, IA",0,1,0,0,0,1,0,0,1,1,2011
+19460,"Des Moines, IA","Hastings, IA",1,0,0,0,0,1,0,0,1,1,2011
+19461,"Des Moines, IA","Hedrick, IA",0,1,0,0,1,0,0,1,0,1,2011
+19581,"Des Moines, IA","Paullina, IA",1,0,0,0,1,0,1,0,0,1,2011
+19533,"Des Moines, IA","Millerton, IA",0,1,0,1,0,0,1,0,0,1,2011
+19542,"Des Moines, IA","Morley, IA",1,0,0,0,1,0,1,0,0,1,2011
+19553,"Des Moines, IA","New Liberty, IA",0,0,1,0,0,1,1,0,0,1,2011
+19554,"Des Moines, IA","New Sharon, IA",0,1,0,0,0,1,1,0,0,1,2011
+19555,"Des Moines, IA","New Vienna, IA",0,1,0,0,1,0,0,1,0,1,2011
+19557,"Des Moines, IA","Nichols, IA",0,0,1,0,1,0,1,0,0,1,2011
+19576,"Des Moines, IA","Panama, IA",1,0,0,0,1,0,1,0,0,1,2011
+19579,"Des Moines, IA","Parkersburg, IA",1,0,0,0,0,1,1,0,0,1,2011
+19586,"Des Moines, IA","Pierson, IA",1,0,0,0,1,0,0,1,0,1,2011
+19463,"Des Moines, IA","Hills, IA",1,0,0,0,1,0,1,0,0,1,2011
+19587,"Des Moines, IA","Plainfield, IA",0,1,0,0,0,1,0,0,1,1,2011
+19593,"Des Moines, IA","Pomeroy, IA",1,0,0,0,1,0,1,0,0,1,2011
+19596,"Des Moines, IA","Preston, IA",1,0,0,0,1,0,1,0,0,1,2011
+19599,"Des Moines, IA","Promise City, IA",1,0,0,0,1,0,1,0,0,1,2011
+19601,"Des Moines, IA","Randolph, IA",0,1,0,0,1,0,0,0,1,1,2011
+19603,"Des Moines, IA","Raymond, IA",1,0,0,0,0,1,0,0,1,1,2011
+19604,"Des Moines, IA","Readlyn, IA",1,0,0,0,1,0,0,1,0,1,2011
+19607,"Des Moines, IA","Redding, IA",0,1,0,0,0,1,0,0,1,1,2011
+19532,"Des Moines, IA","Milford, IA",0,1,0,1,0,0,0,0,1,1,2011
+19529,"Des Moines, IA","Melbourne, IA",0,1,0,0,0,1,0,0,1,1,2011
+19528,"Des Moines, IA","Mediapolis, IA",0,1,0,1,0,0,0,1,0,1,2011
+19527,"Des Moines, IA","Mechanicsville, IA",0,0,1,0,1,0,0,0,1,1,2011
+19464,"Des Moines, IA","Hinton, IA",0,1,0,0,0,1,0,0,1,1,2011
+19465,"Des Moines, IA","Hubbard, IA",1,0,0,0,0,1,0,1,0,1,2011
+19477,"Des Moines, IA","Jewell Junction, IA",1,0,0,1,0,0,1,0,0,1,2011
+19485,"Des Moines, IA","La Porte City, IA",1,0,0,0,1,0,1,0,0,1,2011
+19488,"Des Moines, IA","Lake Mills, IA",0,0,1,0,0,1,0,1,0,1,2011
+19489,"Des Moines, IA","Lake View, IA",0,0,1,1,0,0,0,1,0,1,2011
+19491,"Des Moines, IA","Lakota, IA",1,0,0,1,0,0,0,0,1,1,2011
+19494,"Des Moines, IA","Larchwood, IA",0,1,0,0,1,0,0,0,1,1,2011
+19501,"Des Moines, IA","Lidderdale, IA",0,1,0,0,0,1,1,0,0,1,2011
+19505,"Des Moines, IA","Liscomb, IA",0,1,0,0,0,1,1,0,0,1,2011
+19508,"Des Moines, IA","Lone Rock, IA",0,1,0,1,0,0,0,1,0,1,2011
+19510,"Des Moines, IA","Luther, IA",0,1,0,1,0,0,0,1,0,1,2011
+19512,"Des Moines, IA","Macedonia, IA",0,0,1,0,0,1,0,0,1,1,2011
+19515,"Des Moines, IA","Magnolia, IA",1,0,0,0,0,1,0,1,0,1,2011
+19516,"Des Moines, IA","Malvern, IA",0,1,0,0,1,0,0,0,1,1,2011
+19520,"Des Moines, IA","Marcus, IA",1,0,0,0,0,1,0,0,1,1,2011
+19526,"Des Moines, IA","Massena, IA",1,0,0,0,1,0,0,1,0,1,2011
+19700,"Des Moines, IA","Yetter, IA",0,0,1,0,0,1,0,0,1,1,2011

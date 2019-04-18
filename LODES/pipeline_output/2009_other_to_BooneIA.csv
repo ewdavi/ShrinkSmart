@@ -1,0 +1,455 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+7622,"Boone, IA","Boone, IA",591,1302,563,474,1593,389,738,1105,613,2456,2009
+7588,"Boone, IA","Ames, IA",175,213,64,102,270,80,141,150,161,452,2009
+7876,"Boone, IA","Ogden, IA",70,185,65,62,199,59,90,143,87,320,2009
+7897,"Boone, IA","Perry, IA",53,153,65,4,250,17,39,111,121,271,2009
+7971,"Boone, IA","Stanhope, IA",44,117,36,31,125,41,57,86,54,197,2009
+7822,"Boone, IA","Madrid, IA",31,87,37,11,124,20,46,51,58,155,2009
+7686,"Boone, IA","Des Moines, IA",52,74,18,5,104,35,36,65,43,144,2009
+7722,"Boone, IA","Fraser, IA",29,66,23,23,72,23,32,58,28,118,2009
+7737,"Boone, IA","Granger, IA",22,45,15,0,76,6,10,41,31,82,2009
+7992,"Boone, IA","Urbandale, IA",24,36,7,4,50,13,26,13,28,67,2009
+8026,"Boone, IA","Woodward, IA",9,38,16,0,60,3,5,27,31,63,2009
+7591,"Boone, IA","Ankeny, IA",28,25,8,4,44,13,17,23,21,61,2009
+7761,"Boone, IA","Indianola, IA",16,23,18,11,28,18,18,25,14,57,2009
+7655,"Boone, IA","Clive, IA",22,29,4,4,39,12,14,25,16,55,2009
+7767,"Boone, IA","Jefferson, IA",14,28,13,12,34,9,14,17,24,55,2009
+8022,"Boone, IA","Windsor Heights, IA",22,28,4,8,37,9,19,17,18,54,2009
+7673,"Boone, IA","Dallas Center, IA",11,26,15,2,49,1,6,20,26,52,2009
+7719,"Boone, IA","Fort Dodge, IA",22,19,9,8,12,30,19,25,6,50,2009
+7859,"Boone, IA","Nevada, IA",11,32,4,6,25,16,12,14,21,47,2009
+7901,"Boone, IA","Pleasant Hill, IA",16,25,4,3,32,10,12,19,14,45,2009
+7960,"Boone, IA","Sioux City, IA",30,12,3,4,18,23,31,11,3,45,2009
+7819,"Boone, IA","Luther, IA",10,24,9,3,34,6,13,12,18,43,2009
+8008,"Boone, IA","Webster City, IA",17,14,5,2,23,11,20,10,6,36,2009
+8012,"Boone, IA","West Des Moines, IA",17,13,6,2,24,10,13,14,9,36,2009
+7666,"Boone, IA","Council Bluffs, IA",20,7,7,2,15,17,19,12,3,34,2009
+7780,"Boone, IA","Knoxville, IA",13,16,3,1,19,12,13,16,3,32,2009
+7833,"Boone, IA","Marshalltown, IA",11,12,8,3,14,14,10,17,4,31,2009
+8004,"Boone, IA","Waukee, IA",8,21,1,2,21,7,10,11,9,30,2009
+7865,"Boone, IA","Newton, IA",10,17,2,2,13,14,10,17,2,29,2009
+7882,"Boone, IA","Otho, IA",5,15,8,6,16,6,7,9,12,28,2009
+7977,"Boone, IA","Stratford, IA",7,17,3,3,15,9,5,16,6,27,2009
+7634,"Boone, IA","Carroll, IA",15,6,6,2,15,10,16,10,1,27,2009
+7679,"Boone, IA","De Soto, IA",5,13,7,0,19,6,5,14,6,25,2009
+7976,"Boone, IA","Story City, IA",9,11,5,5,14,6,9,4,12,25,2009
+7770,"Boone, IA","Johnston, IA",14,6,4,2,18,4,7,7,10,24,2009
+7872,"Boone, IA","Norwalk, IA",7,13,3,0,17,6,10,2,11,23,2009
+7736,"Boone, IA","Grand Junction, IA",6,17,0,2,16,5,7,7,9,23,2009
+7841,"Boone, IA","Minburn, IA",4,12,5,0,17,4,7,9,5,21,2009
+7623,"Boone, IA","Boxholm, IA",7,9,5,6,11,4,5,9,7,21,2009
+7605,"Boone, IA","Bagley, IA",7,10,3,2,11,7,3,11,6,20,2009
+7641,"Boone, IA","Cedar Rapids, IA",10,6,4,1,7,12,7,6,7,20,2009
+7640,"Boone, IA","Cedar Falls, IA",6,10,3,0,5,14,5,10,4,19,2009
+7836,"Boone, IA","Mason City, IA",10,7,2,0,3,16,14,3,2,19,2009
+7743,"Boone, IA","Grimes, IA",4,8,7,1,18,0,4,9,6,19,2009
+7918,"Boone, IA","Randall, IA",5,13,1,7,7,5,2,12,5,19,2009
+7579,"Boone, IA","Adel, IA",3,11,4,0,13,5,4,6,8,18,2009
+7881,"Boone, IA","Oskaloosa, IA",10,6,2,0,11,7,10,6,2,18,2009
+7931,"Boone, IA","Rippey, IA",6,10,1,1,16,0,8,4,5,17,2009
+7684,"Boone, IA","Denison, IA",10,4,3,1,10,6,13,3,1,17,2009
+8003,"Boone, IA","Waterloo, IA",3,11,3,0,11,6,4,11,2,17,2009
+7798,"Boone, IA","Lehigh, IA",4,12,1,5,8,4,4,4,9,17,2009
+7961,"Boone, IA","Slater, IA",8,7,2,4,11,2,3,8,6,17,2009
+7805,"Boone, IA","Linden, IA",5,8,3,0,15,1,6,4,6,16,2009
+7678,"Boone, IA","Dayton, IA",2,11,2,2,10,3,6,3,6,15,2009
+7759,"Boone, IA","Huxley, IA",4,11,0,1,13,1,8,2,5,15,2009
+7662,"Boone, IA","Coon Rapids, IA",5,8,1,3,9,2,9,1,4,14,2009
+7677,"Boone, IA","Dawson, IA",3,9,2,2,7,5,5,6,3,14,2009
+7984,"Boone, IA","Tama, IA",6,3,5,0,7,7,9,4,1,14,2009
+7884,"Boone, IA","Ottumwa, IA",5,6,3,1,6,7,6,5,3,14,2009
+8023,"Boone, IA","Winterset, IA",4,9,1,0,6,8,3,10,1,14,2009
+7891,"Boone, IA","Panora, IA",1,12,1,0,14,0,0,5,9,14,2009
+7731,"Boone, IA","Gilbert, IA",6,6,1,1,8,4,3,4,6,13,2009
+7609,"Boone, IA","Bayard, IA",5,7,1,1,12,0,2,8,3,13,2009
+7587,"Boone, IA","Altoona, IA",5,8,0,2,6,5,6,3,4,13,2009
+7668,"Boone, IA","Creston, IA",7,2,3,0,5,7,7,3,2,12,2009
+7742,"Boone, IA","Greenfield, IA",5,6,1,0,5,7,6,5,1,12,2009
+7764,"Boone, IA","Iowa City, IA",8,3,1,0,5,7,9,0,3,12,2009
+7765,"Boone, IA","Iowa Falls, IA",7,4,1,0,6,6,6,6,0,12,2009
+7944,"Boone, IA","Sac City, IA",4,6,1,7,1,3,5,2,4,11,2009
+7938,"Boone, IA","Roland, IA",4,7,0,1,8,2,3,4,4,11,2009
+7906,"Boone, IA","Polk City, IA",8,0,3,2,8,1,5,4,2,11,2009
+7896,"Boone, IA","Pella, IA",4,6,1,0,5,6,4,2,5,11,2009
+7894,"Boone, IA","Patterson, IA",3,7,0,4,2,4,3,1,6,10,2009
+7880,"Boone, IA","Osceola, IA",2,8,0,0,7,3,2,3,5,10,2009
+7847,"Boone, IA","Monticello, IA",3,4,3,0,7,3,6,3,1,10,2009
+7964,"Boone, IA","Spencer, IA",5,4,1,0,2,8,4,4,2,10,2009
+7769,"Boone, IA","Jewell Junction, IA",2,7,1,0,5,5,2,5,3,10,2009
+7691,"Boone, IA","Dubuque, IA",2,4,4,0,5,5,4,4,2,10,2009
+7632,"Boone, IA","Cambridge, IA",1,8,0,3,5,1,1,4,4,9,2009
+7732,"Boone, IA","Gilman, IA",2,6,1,2,3,4,4,2,3,9,2009
+7695,"Boone, IA","Eagle Grove, IA",2,4,3,0,7,2,1,7,1,9,2009
+7982,"Boone, IA","Swan, IA",1,7,1,0,7,2,4,3,2,9,2009
+7633,"Boone, IA","Carlisle, IA",6,2,1,0,6,3,4,2,3,9,2009
+7820,"Boone, IA","Lynnville, IA",5,4,0,0,5,4,8,1,0,9,2009
+7700,"Boone, IA","Eldora, IA",4,4,1,1,3,5,2,4,3,9,2009
+7795,"Boone, IA","Le Mars, IA",1,4,3,0,3,5,6,1,1,8,2009
+7630,"Boone, IA","Burlington, IA",3,5,0,0,4,4,4,3,1,8,2009
+7758,"Boone, IA","Humboldt, IA",5,2,0,0,4,3,4,1,2,7,2009
+7687,"Boone, IA","Dexter, IA",3,3,1,1,4,2,1,4,2,7,2009
+7735,"Boone, IA","Goldfield, IA",1,4,2,2,2,3,3,3,1,7,2009
+7885,"Boone, IA","Owasa, IA",3,1,3,1,3,3,2,4,1,7,2009
+7680,"Boone, IA","Decorah, IA",4,3,0,0,3,4,4,3,0,7,2009
+7996,"Boone, IA","Vinton, IA",6,1,0,0,4,3,5,1,1,7,2009
+7744,"Boone, IA","Grinnell, IA",5,1,1,1,1,5,4,3,0,7,2009
+7915,"Boone, IA","Quimby, IA",2,2,3,2,0,5,1,6,0,7,2009
+7672,"Boone, IA","Dakota City, IA",4,3,0,0,3,4,7,0,0,7,2009
+7787,"Boone, IA","Lambs Grove, IA",4,1,2,4,2,1,2,5,0,7,2009
+7802,"Boone, IA","Lidderdale, IA",1,2,4,0,2,5,1,5,1,7,2009
+7928,"Boone, IA","Rhodes, IA",4,3,0,1,5,1,3,1,3,7,2009
+7828,"Boone, IA","Manson, IA",2,5,0,1,5,1,3,2,2,7,2009
+7923,"Boone, IA","Reasnor, IA",2,3,2,0,4,3,2,2,3,7,2009
+7788,"Boone, IA","Lamoni, IA",3,2,2,3,3,1,1,5,1,7,2009
+7647,"Boone, IA","Churdan, IA",2,5,0,0,5,2,2,2,3,7,2009
+8019,"Boone, IA","Williams, IA",2,5,0,1,3,3,2,4,1,7,2009
+7602,"Boone, IA","Audubon, IA",1,1,5,0,2,5,1,1,5,7,2009
+7651,"Boone, IA","Clear Lake, IA",4,2,1,0,4,3,4,2,1,7,2009
+7644,"Boone, IA","Chariton, IA",2,4,1,0,1,6,1,3,3,7,2009
+8002,"Boone, IA","Washington, IA",1,4,2,0,2,5,3,3,1,7,2009
+7987,"Boone, IA","Toledo, IA",5,0,1,1,1,4,4,1,1,6,2009
+7839,"Boone, IA","Meriden, IA",5,1,0,0,0,6,4,2,0,6,2009
+8000,"Boone, IA","Wall Lake, IA",2,4,0,1,2,3,1,4,1,6,2009
+7676,"Boone, IA","Davenport, IA",3,2,1,0,4,2,3,2,1,6,2009
+7702,"Boone, IA","Ellsworth, IA",1,4,1,2,4,0,1,3,2,6,2009
+7643,"Boone, IA","Centerville, IA",2,2,2,0,3,3,2,2,2,6,2009
+7713,"Boone, IA","Farnhamville, IA",3,3,0,2,2,2,1,5,0,6,2009
+7864,"Boone, IA","New Sharon, IA",3,2,1,0,2,4,4,2,0,6,2009
+7663,"Boone, IA","Coralville, IA",2,2,2,0,3,3,3,0,3,6,2009
+7733,"Boone, IA","Glenwood, IA",2,2,2,0,6,0,3,2,1,6,2009
+7659,"Boone, IA","Colo, IA",3,2,1,0,3,3,5,1,0,6,2009
+7857,"Boone, IA","Muscatine, IA",3,3,0,1,2,3,3,3,0,6,2009
+7849,"Boone, IA","Moravia, IA",1,3,2,0,2,4,2,3,1,6,2009
+7674,"Boone, IA","Danbury, IA",2,2,2,0,6,0,3,2,1,6,2009
+7993,"Boone, IA","Van Meter, IA",0,5,0,0,3,2,3,2,0,5,2009
+7779,"Boone, IA","Knierim, IA",2,3,0,2,3,0,1,3,1,5,2009
+8015,"Boone, IA","Westside, IA",4,0,1,0,0,5,4,1,0,5,2009
+7969,"Boone, IA","St. Marys, IA",3,1,1,2,3,0,2,3,0,5,2009
+7756,"Boone, IA","Hiawatha, IA",1,2,2,1,3,1,0,1,4,5,2009
+7808,"Boone, IA","Liscomb, IA",1,4,0,1,3,1,1,4,0,5,2009
+7585,"Boone, IA","Alden, IA",4,0,1,0,5,0,3,0,2,5,2009
+7877,"Boone, IA","Orange City, IA",2,2,1,0,2,3,1,4,0,5,2009
+7842,"Boone, IA","Mitchellville, IA",3,2,0,1,2,2,4,0,1,5,2009
+7870,"Boone, IA","North Liberty, IA",3,1,1,0,2,3,1,4,0,5,2009
+7827,"Boone, IA","Manning, IA",1,2,2,0,5,0,1,4,0,5,2009
+7772,"Boone, IA","Kamrar, IA",1,4,0,1,2,2,3,0,2,5,2009
+7697,"Boone, IA","East Peru, IA",1,3,1,0,4,1,2,3,0,5,2009
+8028,"Boone, IA","Yetter, IA",3,2,0,3,0,2,2,2,1,5,2009
+7840,"Boone, IA","Merrill, IA",3,0,1,0,2,2,2,1,1,4,2009
+7878,"Boone, IA","Orient, IA",1,2,1,3,0,1,1,1,2,4,2009
+7973,"Boone, IA","State Center, IA",3,1,0,2,2,0,2,2,0,4,2009
+7924,"Boone, IA","Red Oak, IA",2,2,0,0,2,2,2,2,0,4,2009
+7867,"Boone, IA","Nodaway, IA",2,2,0,0,1,3,3,0,1,4,2009
+7831,"Boone, IA","Marcus, IA",1,2,1,0,1,3,3,1,0,4,2009
+7950,"Boone, IA","Sergeant Bluff, IA",3,1,0,0,0,4,3,1,0,4,2009
+7871,"Boone, IA","Northwood, IA",2,1,1,1,0,3,3,0,1,4,2009
+7817,"Boone, IA","Lorimor, IA",0,4,0,0,0,4,0,2,2,4,2009
+7773,"Boone, IA","Kellogg, IA",2,1,1,0,1,3,1,3,0,4,2009
+7774,"Boone, IA","Keokuk, IA",4,0,0,1,1,2,4,0,0,4,2009
+7800,"Boone, IA","Leon, IA",1,2,1,0,2,2,4,0,0,4,2009
+7854,"Boone, IA","Mount Pleasant, IA",0,3,1,1,2,1,0,2,2,4,2009
+8029,"Boone, IA","Zearing, IA",1,2,1,2,2,0,2,1,1,4,2009
+8018,"Boone, IA","Willey, IA",3,0,1,0,2,2,2,2,0,4,2009
+7584,"Boone, IA","Albion, IA",2,2,0,0,1,3,3,0,1,4,2009
+7645,"Boone, IA","Charles City, IA",2,1,1,0,2,2,1,2,1,4,2009
+7636,"Boone, IA","Carter Lake, IA",2,1,1,0,1,3,3,1,0,4,2009
+7631,"Boone, IA","Callender, IA",2,2,0,0,3,1,1,3,0,4,2009
+7653,"Boone, IA","Clinton, IA",2,2,0,0,1,3,1,3,0,4,2009
+7999,"Boone, IA","Walford, IA",1,2,1,0,4,0,2,1,1,4,2009
+7613,"Boone, IA","Belmond, IA",1,1,2,0,1,3,2,1,1,4,2009
+7692,"Boone, IA","Duncombe, IA",0,4,0,1,0,3,1,3,0,4,2009
+7603,"Boone, IA","Aurelia, IA",3,1,0,0,2,2,3,0,1,4,2009
+7990,"Boone, IA","University Park, IA",2,2,0,0,1,3,2,1,1,4,2009
+7646,"Boone, IA","Cherokee, IA",3,0,1,0,1,3,4,0,0,4,2009
+7583,"Boone, IA","Albia, IA",1,2,1,0,3,1,2,1,1,4,2009
+7601,"Boone, IA","Atlantic, IA",1,1,1,0,2,1,1,1,1,3,2009
+7991,"Boone, IA","Urbana, IA",2,1,0,0,2,1,2,1,0,3,2009
+7900,"Boone, IA","Plano, IA",0,1,2,0,1,2,0,3,0,3,2009
+8006,"Boone, IA","Waverly, IA",2,0,1,0,1,2,3,0,0,3,2009
+7688,"Boone, IA","Dickens, IA",2,1,0,0,0,3,1,2,0,3,2009
+7685,"Boone, IA","Denver, IA",2,1,0,0,0,3,2,1,0,3,2009
+7608,"Boone, IA","Baxter, IA",1,2,0,1,1,1,1,2,0,3,2009
+7917,"Boone, IA","Randalia, IA",3,0,0,0,1,2,2,1,0,3,2009
+7611,"Boone, IA","Belle Plaine, IA",1,0,2,0,2,1,2,1,0,3,2009
+7580,"Boone, IA","Afton, IA",1,2,0,0,1,2,1,1,1,3,2009
+7782,"Boone, IA","Lacona, IA",1,2,0,0,0,3,0,0,3,3,2009
+7616,"Boone, IA","Bettendorf, IA",1,2,0,1,1,1,0,2,1,3,2009
+7959,"Boone, IA","Sioux Center, IA",1,1,1,0,0,3,2,1,0,3,2009
+7738,"Boone, IA","Grant, IA",1,2,0,0,2,1,1,0,2,3,2009
+7667,"Boone, IA","Cresco, IA",2,0,1,0,2,1,3,0,0,3,2009
+7846,"Boone, IA","Montezuma, IA",0,1,2,0,0,3,0,1,2,3,2009
+7933,"Boone, IA","Robins, IA",0,3,0,1,1,1,1,1,1,3,2009
+7934,"Boone, IA","Rock Rapids, IA",1,2,0,0,0,3,1,1,1,3,2009
+7843,"Boone, IA","Mondamin, IA",0,2,1,0,3,0,0,3,0,3,2009
+7626,"Boone, IA","Brayton, IA",0,2,1,0,3,0,1,0,2,3,2009
+7949,"Boone, IA","Schleswig, IA",2,1,0,1,2,0,1,2,0,3,2009
+7838,"Boone, IA","Melcher-Dallas, IA",0,2,1,0,2,1,2,0,1,3,2009
+7637,"Boone, IA","Casey, IA",0,2,1,0,2,1,0,3,0,3,2009
+7946,"Boone, IA","Sandyville, IA",2,0,1,1,1,1,2,0,1,3,2009
+7908,"Boone, IA","Popejoy, IA",0,1,2,0,2,1,2,0,1,3,2009
+7816,"Boone, IA","Long Grove, IA",0,1,2,2,0,1,1,0,2,3,2009
+7670,"Boone, IA","Crystal Lake, IA",2,1,0,0,0,3,2,1,0,3,2009
+7682,"Boone, IA","Deloit, IA",1,1,1,0,1,2,3,0,0,3,2009
+7979,"Boone, IA","Stuart, IA",1,0,2,0,2,1,0,2,1,3,2009
+7920,"Boone, IA","Rathbun, IA",2,1,0,0,1,2,2,1,0,3,2009
+7747,"Boone, IA","Hampton, IA",1,1,1,0,2,1,2,0,1,3,2009
+7919,"Boone, IA","Randolph, IA",1,1,1,0,0,3,0,2,1,3,2009
+7745,"Boone, IA","Guthrie Center, IA",0,3,0,0,1,2,0,2,1,3,2009
+7710,"Boone, IA","Fairbank, IA",1,1,1,0,1,2,0,3,0,3,2009
+7752,"Boone, IA","Hartley, IA",1,1,1,0,1,2,2,1,0,3,2009
+7753,"Boone, IA","Harvey, IA",1,1,1,0,0,3,2,1,0,3,2009
+7754,"Boone, IA","Havelock, IA",0,2,1,0,3,0,1,2,0,3,2009
+7888,"Boone, IA","Pacific Junction, IA",1,2,0,0,3,0,1,1,1,3,2009
+7707,"Boone, IA","Evansdale, IA",1,2,0,0,0,3,0,2,1,3,2009
+7709,"Boone, IA","Exira, IA",0,3,0,0,3,0,0,2,1,3,2009
+7762,"Boone, IA","Inwood, IA",2,1,0,0,1,2,2,1,0,3,2009
+7989,"Boone, IA","University Heights, IA",2,0,1,0,2,1,2,1,0,3,2009
+7599,"Boone, IA","Ashton, IA",2,1,0,0,0,3,2,1,0,3,2009
+7967,"Boone, IA","Springville, IA",2,1,0,0,0,3,2,1,0,3,2009
+7904,"Boone, IA","Plymouth, IA",1,1,0,1,1,0,0,2,0,2,2009
+7890,"Boone, IA","Palo, IA",1,0,1,1,1,0,1,0,1,2,2009
+7627,"Boone, IA","Brighton, IA",0,1,1,2,0,0,0,1,1,2,2009
+7628,"Boone, IA","Britt, IA",1,1,0,0,0,2,0,2,0,2,2009
+7586,"Boone, IA","Algona, IA",0,2,0,0,1,1,0,2,0,2,2009
+7629,"Boone, IA","Brooklyn, IA",1,1,0,0,2,0,1,1,0,2,2009
+7892,"Boone, IA","Parkersburg, IA",0,2,0,0,0,2,1,0,1,2,2009
+7940,"Boone, IA","Runnells, IA",1,1,0,1,0,1,0,1,1,2,2009
+7821,"Boone, IA","Macksburg, IA",1,1,0,0,1,1,1,1,0,2,2009
+7837,"Boone, IA","Maxwell, IA",1,1,0,0,1,1,1,1,0,2,2009
+7893,"Boone, IA","Parnell, IA",1,0,1,0,0,2,1,1,0,2,2009
+7823,"Boone, IA","Magnolia, IA",1,0,1,1,1,0,1,1,0,2,2009
+7578,"Boone, IA","Adair, IA",0,1,1,0,1,1,1,1,0,2,2009
+8027,"Boone, IA","Worthington, IA",1,0,1,0,2,0,1,1,0,2,2009
+7907,"Boone, IA","Pomeroy, IA",1,1,0,1,1,0,1,1,0,2,2009
+7581,"Boone, IA","Agency, IA",2,0,0,1,0,1,1,1,0,2,2009
+7887,"Boone, IA","Oyens, IA",1,1,0,0,1,1,0,1,1,2,2009
+7593,"Boone, IA","Arcadia, IA",0,0,2,0,1,1,0,2,0,2,2009
+7921,"Boone, IA","Raymond, IA",2,0,0,0,0,2,1,1,0,2,2009
+7607,"Boone, IA","Balltown, IA",0,2,0,0,1,1,2,0,0,2,2009
+8020,"Boone, IA","Williamsburg, IA",0,1,1,0,1,1,1,0,1,2,2009
+7879,"Boone, IA","Osage, IA",1,1,0,0,1,1,2,0,0,2,2009
+7869,"Boone, IA","North English, IA",0,1,1,0,1,1,0,2,0,2,2009
+7598,"Boone, IA","Asbury, IA",1,1,0,0,0,2,1,1,0,2,2009
+8014,"Boone, IA","West Union, IA",2,0,0,0,0,2,1,1,0,2,2009
+7862,"Boone, IA","New Hartford, IA",1,1,0,0,0,2,2,0,0,2,2009
+7624,"Boone, IA","Boyden, IA",0,2,0,0,1,1,1,1,0,2,2009
+7619,"Boone, IA","Blue Grass, IA",0,1,1,0,2,0,0,1,1,2,2009
+7913,"Boone, IA","Promise City, IA",2,0,0,0,0,2,1,1,0,2,2009
+7620,"Boone, IA","Bonaparte, IA",0,1,1,1,0,1,1,1,0,2,2009
+7621,"Boone, IA","Bondurant, IA",0,1,1,0,1,1,1,0,1,2,2009
+7852,"Boone, IA","Mount Auburn, IA",1,1,0,0,2,0,2,0,0,2,2009
+7875,"Boone, IA","Oelwein, IA",2,0,0,0,0,2,2,0,0,2,2009
+7850,"Boone, IA","Morley, IA",1,1,0,0,1,1,0,1,1,2,2009
+7851,"Boone, IA","Moulton, IA",1,1,0,0,0,2,1,0,1,2,2009
+7818,"Boone, IA","Luana, IA",1,1,0,0,1,1,0,1,1,2,2009
+7781,"Boone, IA","La Porte City, IA",0,1,1,0,0,2,2,0,0,2,2009
+7708,"Boone, IA","Everly, IA",1,1,0,0,0,2,0,1,1,2,2009
+7974,"Boone, IA","Steamboat Rock, IA",1,1,0,0,2,0,1,0,1,2,2009
+7698,"Boone, IA","Elberon, IA",1,1,0,0,1,1,1,0,1,2,2009
+7712,"Boone, IA","Fairfield, IA",2,0,0,0,0,2,1,1,0,2,2009
+7953,"Boone, IA","Shell Rock, IA",1,0,1,0,1,1,0,2,0,2,2009
+7954,"Boone, IA","Shenandoah, IA",1,1,0,0,0,2,1,0,1,2,2009
+7746,"Boone, IA","Guttenberg, IA",1,0,1,0,0,2,1,0,1,2,2009
+7972,"Boone, IA","Stanton, IA",2,0,0,0,2,0,2,0,0,2,2009
+7750,"Boone, IA","Harlan, IA",0,2,0,0,1,1,1,1,0,2,2009
+7958,"Boone, IA","Silver City, IA",1,1,0,0,1,1,1,1,0,2,2009
+7784,"Boone, IA","Lake Mills, IA",2,0,0,0,1,1,2,0,0,2,2009
+7757,"Boone, IA","Hinton, IA",1,1,0,0,1,1,1,0,1,2,2009
+7714,"Boone, IA","Fenton, IA",1,0,1,0,2,0,1,0,1,2,2009
+7649,"Boone, IA","Clarinda, IA",2,0,0,0,0,2,2,0,0,2,2009
+7997,"Boone, IA","Wadena, IA",1,0,1,0,1,1,1,0,1,2,2009
+7706,"Boone, IA","Estherville, IA",2,0,0,0,1,1,1,1,0,2,2009
+7681,"Boone, IA","Defiance, IA",0,1,1,1,1,0,0,1,1,2,2009
+7986,"Boone, IA","Tiffin, IA",1,1,0,0,1,1,1,0,1,2,2009
+7968,"Boone, IA","St. Ansgar, IA",1,1,0,1,1,0,1,0,1,2,2009
+7963,"Boone, IA","Soldier, IA",1,0,1,0,0,2,1,0,1,2,2009
+7994,"Boone, IA","Victor, IA",1,1,0,0,1,1,1,1,0,2,2009
+7966,"Boone, IA","Spring Hill, IA",1,0,1,1,1,0,0,1,1,2,2009
+7965,"Boone, IA","Spirit Lake, IA",0,1,1,0,1,1,0,2,0,2,2009
+7664,"Boone, IA","Corydon, IA",0,2,0,0,2,0,2,0,0,2,2009
+7740,"Boone, IA","Gray, IA",0,2,0,0,2,0,0,1,1,2,2009
+7799,"Boone, IA","Lenox, IA",1,1,0,1,1,0,1,1,0,2,2009
+7734,"Boone, IA","Glidden, IA",0,2,0,0,1,1,0,1,1,2,2009
+7943,"Boone, IA","Sabula, IA",2,0,0,0,1,1,1,0,1,2,2009
+7650,"Boone, IA","Clarion, IA",0,1,1,0,0,2,1,1,0,2,2009
+7813,"Boone, IA","Logan, IA",1,0,1,0,1,1,1,0,1,2,2009
+7980,"Boone, IA","Sully, IA",2,0,0,0,2,0,2,0,0,2,2009
+7724,"Boone, IA","Frederika, IA",2,0,0,0,1,1,2,0,0,2,2009
+7945,"Boone, IA","Sageville, IA",1,1,0,0,1,1,0,2,0,2,2009
+7975,"Boone, IA","Storm Lake, IA",1,1,0,0,0,2,1,0,1,2,2009
+7720,"Boone, IA","Fort Madison, IA",1,1,0,0,1,1,0,2,0,2,2009
+7809,"Boone, IA","Little Rock, IA",0,2,0,0,0,2,0,2,0,2,2009
+7658,"Boone, IA","Colfax, IA",2,0,0,0,1,1,0,2,0,2,2009
+7768,"Boone, IA","Jesup, IA",2,0,0,0,2,0,2,0,0,2,2009
+7807,"Boone, IA","Lisbon, IA",0,1,1,0,0,2,0,1,1,2,2009
+7717,"Boone, IA","Forest City, IA",1,1,0,0,2,0,0,2,0,2,2009
+7801,"Boone, IA","Lewis, IA",1,1,0,0,2,0,0,2,0,2,2009
+7654,"Boone, IA","Clio, IA",1,0,1,0,1,1,1,1,0,2,2009
+7804,"Boone, IA","Lincoln, IA",1,0,1,0,1,1,1,1,0,2,2009
+7716,"Boone, IA","Fonda, IA",0,2,0,1,1,0,0,2,0,2,2009
+7910,"Boone, IA","Prairie City, IA",0,1,0,0,1,0,0,0,1,1,2009
+7985,"Boone, IA","Tennant, IA",0,1,0,0,1,0,1,0,0,1,2009
+7988,"Boone, IA","Unionville, IA",0,1,0,0,1,0,0,1,0,1,2009
+7970,"Boone, IA","St. Paul, IA",0,1,0,1,0,0,0,1,0,1,2009
+7983,"Boone, IA","Swisher, IA",1,0,0,0,0,1,1,0,0,1,2009
+7912,"Boone, IA","Princeton, IA",0,0,1,1,0,0,0,0,1,1,2009
+7981,"Boone, IA","Superior, IA",1,0,0,0,1,0,1,0,0,1,2009
+8025,"Boone, IA","Woodbine, IA",1,0,0,0,0,1,1,0,0,1,2009
+8021,"Boone, IA","Wilton, IA",0,1,0,0,1,0,1,0,0,1,2009
+7916,"Boone, IA","Rake, IA",1,0,0,0,0,1,0,0,1,1,2009
+8024,"Boone, IA","Woden, IA",1,0,0,0,0,1,1,0,0,1,2009
+7914,"Boone, IA","Protivin, IA",1,0,0,0,0,1,1,0,0,1,2009
+7978,"Boone, IA","Strawberry Point, IA",1,0,0,1,0,0,1,0,0,1,2009
+7922,"Boone, IA","Readlyn, IA",1,0,0,0,1,0,0,1,0,1,2009
+8011,"Boone, IA","West Chester, IA",1,0,0,1,0,0,0,1,0,1,2009
+7942,"Boone, IA","Rutland, IA",1,0,0,0,1,0,0,1,0,1,2009
+7941,"Boone, IA","Russell, IA",0,1,0,0,1,0,0,0,1,1,2009
+8007,"Boone, IA","Wayland, IA",0,1,0,0,1,0,0,1,0,1,2009
+8009,"Boone, IA","Webster, IA",0,0,1,0,1,0,0,1,0,1,2009
+7939,"Boone, IA","Royal, IA",0,1,0,0,0,1,0,1,0,1,2009
+7947,"Boone, IA","Scarville, IA",1,0,0,0,0,1,1,0,0,1,2009
+7937,"Boone, IA","Rockwell, IA",0,1,0,0,0,1,0,1,0,1,2009
+8010,"Boone, IA","West Burlington, IA",1,0,0,0,1,0,1,0,0,1,2009
+7936,"Boone, IA","Rockwell City, IA",0,0,1,0,0,1,0,1,0,1,2009
+7935,"Boone, IA","Rockford, IA",1,0,0,0,1,0,0,1,0,1,2009
+8005,"Boone, IA","Waukon, IA",0,1,0,0,1,0,1,0,0,1,2009
+7948,"Boone, IA","Schaller, IA",0,1,0,0,1,0,0,1,0,1,2009
+8001,"Boone, IA","Walnut, IA",0,1,0,0,0,1,1,0,0,1,2009
+7951,"Boone, IA","Sheffield, IA",1,0,0,0,0,1,1,0,0,1,2009
+7932,"Boone, IA","Riverdale, IA",0,1,0,0,1,0,0,0,1,1,2009
+7995,"Boone, IA","Vining, IA",1,0,0,0,0,1,1,0,0,1,2009
+7952,"Boone, IA","Sheldon, IA",1,0,0,0,0,1,1,0,0,1,2009
+7955,"Boone, IA","Shueyville, IA",1,0,0,0,0,1,1,0,0,1,2009
+7956,"Boone, IA","Sidney, IA",1,0,0,0,0,1,1,0,0,1,2009
+7957,"Boone, IA","Sigourney, IA",1,0,0,0,1,0,0,1,0,1,2009
+7930,"Boone, IA","Rinard, IA",0,1,0,0,0,1,0,1,0,1,2009
+7929,"Boone, IA","Richland, IA",1,0,0,0,0,1,1,0,0,1,2009
+8013,"Boone, IA","West Liberty, IA",1,0,0,0,0,1,0,1,0,1,2009
+7927,"Boone, IA","Renwick, IA",0,0,1,0,1,0,1,0,0,1,2009
+7926,"Boone, IA","Remsen, IA",1,0,0,0,0,1,0,1,0,1,2009
+7998,"Boone, IA","Wahpeton, IA",0,1,0,0,1,0,0,1,0,1,2009
+7925,"Boone, IA","Redfield, IA",0,1,0,0,1,0,0,1,0,1,2009
+8016,"Boone, IA","Wheatland, IA",0,1,0,0,1,0,0,0,1,1,2009
+8017,"Boone, IA","Whittemore, IA",1,0,0,0,1,0,1,0,0,1,2009
+7962,"Boone, IA","Sloan, IA",1,0,0,1,0,0,1,0,0,1,2009
+7911,"Boone, IA","Prairieburg, IA",0,0,1,0,0,1,1,0,0,1,2009
+7576,"Boone, IA","Ackley, IA",0,0,1,0,0,1,0,0,1,1,2009
+7909,"Boone, IA","Postville, IA",1,0,0,0,1,0,1,0,0,1,2009
+7705,"Boone, IA","Essex, IA",0,1,0,0,1,0,0,1,0,1,2009
+7671,"Boone, IA","Cushing, IA",0,0,1,0,0,1,0,1,0,1,2009
+7675,"Boone, IA","Danville, IA",1,0,0,0,0,1,1,0,0,1,2009
+7683,"Boone, IA","Delta, IA",1,0,0,0,1,0,0,1,0,1,2009
+7689,"Boone, IA","Dolliver, IA",1,0,0,0,0,1,1,0,0,1,2009
+7690,"Boone, IA","Dougherty, IA",1,0,0,0,1,0,1,0,0,1,2009
+7693,"Boone, IA","Dyersville, IA",1,0,0,1,0,0,1,0,0,1,2009
+7694,"Boone, IA","Dysart, IA",1,0,0,0,1,0,0,1,0,1,2009
+7696,"Boone, IA","Early, IA",1,0,0,0,0,1,0,1,0,1,2009
+7699,"Boone, IA","Eldon, IA",0,1,0,0,1,0,0,0,1,1,2009
+7701,"Boone, IA","Elk Run Heights, IA",1,0,0,0,0,1,1,0,0,1,2009
+7703,"Boone, IA","Emmetsburg, IA",0,1,0,0,0,1,0,1,0,1,2009
+7704,"Boone, IA","Epworth, IA",0,1,0,0,0,1,1,0,0,1,2009
+7711,"Boone, IA","Fairfax, IA",1,0,0,0,0,1,0,1,0,1,2009
+7665,"Boone, IA","Coulter, IA",1,0,0,0,0,1,0,1,0,1,2009
+7715,"Boone, IA","Ferguson, IA",0,1,0,0,1,0,0,1,0,1,2009
+7718,"Boone, IA","Fort Atkinson, IA",0,1,0,0,1,0,0,1,0,1,2009
+7721,"Boone, IA","Fostoria, IA",1,0,0,0,1,0,1,0,0,1,2009
+7723,"Boone, IA","Fredericksburg, IA",1,0,0,0,0,1,1,0,0,1,2009
+7725,"Boone, IA","Fremont, IA",0,0,1,0,1,0,0,0,1,1,2009
+7726,"Boone, IA","Garnavillo, IA",1,0,0,0,0,1,1,0,0,1,2009
+7727,"Boone, IA","Garner, IA",1,0,0,0,0,1,1,0,0,1,2009
+7728,"Boone, IA","Geneva, IA",1,0,0,0,0,1,1,0,0,1,2009
+7729,"Boone, IA","George, IA",1,0,0,0,1,0,1,0,0,1,2009
+7730,"Boone, IA","Gibson, IA",0,1,0,0,1,0,0,0,1,1,2009
+7739,"Boone, IA","Gravity, IA",1,0,0,0,1,0,0,0,1,1,2009
+7741,"Boone, IA","Greene, IA",0,1,0,0,1,0,1,0,0,1,2009
+7669,"Boone, IA","Cromwell, IA",0,1,0,1,0,0,0,1,0,1,2009
+7661,"Boone, IA","Conrad, IA",0,1,0,0,0,1,0,1,0,1,2009
+7749,"Boone, IA","Harcourt, IA",0,1,0,0,1,0,0,0,1,1,2009
+7612,"Boone, IA","Bellevue, IA",1,0,0,0,0,1,1,0,0,1,2009
+7582,"Boone, IA","Akron, IA",0,1,0,1,0,0,0,0,1,1,2009
+7589,"Boone, IA","Anamosa, IA",1,0,0,0,1,0,1,0,0,1,2009
+7590,"Boone, IA","Andrew, IA",1,0,0,0,1,0,0,1,0,1,2009
+7592,"Boone, IA","Anthon, IA",1,0,0,0,0,1,1,0,0,1,2009
+7594,"Boone, IA","Arlington, IA",1,0,0,0,1,0,1,0,0,1,2009
+7595,"Boone, IA","Armstrong, IA",1,0,0,0,0,1,1,0,0,1,2009
+7596,"Boone, IA","Arnolds Park, IA",0,1,0,0,1,0,0,1,0,1,2009
+7597,"Boone, IA","Arthur, IA",0,1,0,0,1,0,1,0,0,1,2009
+7600,"Boone, IA","Atkins, IA",0,1,0,0,0,1,0,0,1,1,2009
+7604,"Boone, IA","Avoca, IA",0,1,0,0,1,0,0,0,1,1,2009
+7606,"Boone, IA","Baldwin, IA",0,1,0,0,0,1,0,0,1,1,2009
+7610,"Boone, IA","Bedford, IA",0,0,1,0,0,1,1,0,0,1,2009
+7614,"Boone, IA","Bennett, IA",0,1,0,0,0,1,0,0,1,1,2009
+7660,"Boone, IA","Colwell, IA",0,1,0,0,0,1,0,1,0,1,2009
+7615,"Boone, IA","Bertram, IA",1,0,0,0,0,1,0,1,0,1,2009
+7617,"Boone, IA","Birmingham, IA",0,0,1,1,0,0,0,0,1,1,2009
+7618,"Boone, IA","Blakesburg, IA",0,1,0,0,0,1,0,0,1,1,2009
+7625,"Boone, IA","Brandon, IA",0,0,1,0,0,1,0,0,1,1,2009
+7635,"Boone, IA","Carson, IA",1,0,0,0,1,0,1,0,0,1,2009
+7638,"Boone, IA","Castalia, IA",1,0,0,0,0,1,1,0,0,1,2009
+7639,"Boone, IA","Castana, IA",1,0,0,0,0,1,1,0,0,1,2009
+7642,"Boone, IA","Center Junction, IA",0,0,1,0,0,1,1,0,0,1,2009
+7648,"Boone, IA","Cincinnati, IA",1,0,0,0,1,0,1,0,0,1,2009
+7652,"Boone, IA","Clearfield, IA",0,1,0,0,0,1,1,0,0,1,2009
+7656,"Boone, IA","Coburg, IA",0,1,0,0,0,1,1,0,0,1,2009
+7657,"Boone, IA","Coggon, IA",1,0,0,1,0,0,1,0,0,1,2009
+7748,"Boone, IA","Hanlontown, IA",1,0,0,0,0,1,1,0,0,1,2009
+7751,"Boone, IA","Harris, IA",0,1,0,0,0,1,1,0,0,1,2009
+7905,"Boone, IA","Pocahontas, IA",0,1,0,0,1,0,1,0,0,1,2009
+7861,"Boone, IA","New Hampton, IA",0,0,1,0,0,1,0,0,1,1,2009
+7830,"Boone, IA","Maquoketa, IA",1,0,0,0,1,0,0,0,1,1,2009
+7832,"Boone, IA","Marquette, IA",1,0,0,0,0,1,0,1,0,1,2009
+7834,"Boone, IA","Martelle, IA",1,0,0,0,1,0,0,1,0,1,2009
+7835,"Boone, IA","Marysville, IA",0,1,0,0,0,1,0,1,0,1,2009
+7844,"Boone, IA","Monona, IA",1,0,0,0,1,0,1,0,0,1,2009
+7845,"Boone, IA","Monroe, IA",0,0,1,0,1,0,1,0,0,1,2009
+7848,"Boone, IA","Montour, IA",0,0,1,0,1,0,0,0,1,1,2009
+7853,"Boone, IA","Mount Ayr, IA",1,0,0,0,0,1,1,0,0,1,2009
+7855,"Boone, IA","Mount Vernon, IA",0,0,1,0,0,1,1,0,0,1,2009
+7856,"Boone, IA","Moville, IA",0,0,1,1,0,0,0,1,0,1,2009
+7858,"Boone, IA","Nashua, IA",1,0,0,0,0,1,1,0,0,1,2009
+7860,"Boone, IA","New Albin, IA",0,1,0,0,0,1,0,1,0,1,2009
+7863,"Boone, IA","New Market, IA",0,1,0,0,1,0,0,1,0,1,2009
+7826,"Boone, IA","Manly, IA",1,0,0,0,1,0,1,0,0,1,2009
+7866,"Boone, IA","Nichols, IA",0,1,0,0,0,1,0,0,1,1,2009
+7868,"Boone, IA","Nora Springs, IA",0,1,0,0,1,0,0,1,0,1,2009
+7873,"Boone, IA","Norway, IA",1,0,0,0,0,1,1,0,0,1,2009
+7874,"Boone, IA","Oakland, IA",1,0,0,0,0,1,1,0,0,1,2009
+7883,"Boone, IA","Ottosen, IA",1,0,0,0,0,1,1,0,0,1,2009
+7886,"Boone, IA","Oxford, IA",0,1,0,0,0,1,1,0,0,1,2009
+7889,"Boone, IA","Palmer, IA",0,0,1,0,1,0,0,0,1,1,2009
+7895,"Boone, IA","Paullina, IA",1,0,0,0,1,0,0,1,0,1,2009
+7898,"Boone, IA","Peterson, IA",0,1,0,0,0,1,0,1,0,1,2009
+7899,"Boone, IA","Pierson, IA",0,0,1,0,0,1,0,1,0,1,2009
+7902,"Boone, IA","Pleasanton, IA",1,0,0,0,1,0,1,0,0,1,2009
+7903,"Boone, IA","Pleasantville, IA",0,1,0,0,0,1,0,1,0,1,2009
+7829,"Boone, IA","Mapleton, IA",0,0,1,0,1,0,1,0,0,1,2009
+7825,"Boone, IA","Manilla, IA",1,0,0,0,0,1,0,1,0,1,2009
+7755,"Boone, IA","Haverhill, IA",0,1,0,0,1,0,0,1,0,1,2009
+7790,"Boone, IA","Larrabee, IA",0,1,0,0,1,0,0,1,0,1,2009
+7760,"Boone, IA","Independence, IA",1,0,0,0,0,1,1,0,0,1,2009
+7763,"Boone, IA","Ionia, IA",1,0,0,0,0,1,1,0,0,1,2009
+7766,"Boone, IA","Ireton, IA",0,1,0,0,0,1,1,0,0,1,2009
+7771,"Boone, IA","Kalona, IA",0,0,1,0,1,0,0,1,0,1,2009
+7775,"Boone, IA","Kimballton, IA",1,0,0,0,0,1,1,0,0,1,2009
+7776,"Boone, IA","Kinross, IA",1,0,0,1,0,0,0,1,0,1,2009
+7777,"Boone, IA","Kiron, IA",1,0,0,0,0,1,1,0,0,1,2009
+7778,"Boone, IA","Klemme, IA",0,1,0,1,0,0,0,1,0,1,2009
+7783,"Boone, IA","Lake City, IA",1,0,0,0,0,1,1,0,0,1,2009
+7785,"Boone, IA","Lake View, IA",0,1,0,1,0,0,0,1,0,1,2009
+7786,"Boone, IA","Lakota, IA",0,0,1,0,1,0,1,0,0,1,2009
+7789,"Boone, IA","Larchwood, IA",0,1,0,0,0,1,0,1,0,1,2009
+7791,"Boone, IA","Laurens, IA",1,0,0,1,0,0,0,0,1,1,2009
+7824,"Boone, IA","Manchester, IA",1,0,0,0,1,0,1,0,0,1,2009
+7792,"Boone, IA","Lawler, IA",1,0,0,0,1,0,1,0,0,1,2009
+7793,"Boone, IA","Lawton, IA",0,1,0,1,0,0,0,1,0,1,2009
+7794,"Boone, IA","Le Grand, IA",0,1,0,0,1,0,0,1,0,1,2009
+7796,"Boone, IA","Le Roy, IA",0,1,0,0,0,1,1,0,0,1,2009
+7797,"Boone, IA","Ledyard, IA",1,0,0,0,0,1,1,0,0,1,2009
+7577,"Boone, IA","Ackworth, IA",0,0,1,0,1,0,0,1,0,1,2009
+7806,"Boone, IA","Lineville, IA",1,0,0,0,0,1,1,0,0,1,2009
+7810,"Boone, IA","Little Sioux, IA",0,0,1,1,0,0,0,0,1,1,2009
+7811,"Boone, IA","Livermore, IA",1,0,0,0,0,1,0,1,0,1,2009
+7812,"Boone, IA","Lockridge, IA",0,1,0,0,0,1,1,0,0,1,2009
+7814,"Boone, IA","Lone Rock, IA",0,0,1,0,0,1,1,0,0,1,2009
+7815,"Boone, IA","Lone Tree, IA",0,1,0,0,1,0,0,0,1,1,2009
+7803,"Boone, IA","Lime Springs, IA",1,0,0,0,0,1,1,0,0,1,2009

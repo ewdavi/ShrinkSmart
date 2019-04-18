@@ -1,0 +1,415 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+31016,"Johnston, IA","Urbandale, IA",390,739,219,89,795,464,442,376,530,1348,2006
+30745,"Johnston, IA","Des Moines, IA",409,625,159,165,724,304,433,484,276,1193,2006
+30823,"Johnston, IA","Johnston, IA",291,690,160,113,600,428,355,294,492,1141,2006
+30654,"Johnston, IA","Ankeny, IA",229,523,131,64,498,321,202,260,421,883,2006
+31045,"Johnston, IA","Windsor Heights, IA",241,476,138,73,489,293,259,283,313,855,2006
+30715,"Johnston, IA","Clive, IA",197,385,93,35,390,250,156,167,352,675,2006
+30936,"Johnston, IA","Pleasant Hill, IA",113,205,65,76,205,102,81,177,125,383,2006
+31036,"Johnston, IA","West Des Moines, IA",116,181,68,18,213,134,81,111,173,365,2006
+30940,"Johnston, IA","Polk City, IA",75,215,55,32,173,140,89,86,170,345,2006
+31028,"Johnston, IA","Waukee, IA",54,177,33,25,138,101,59,65,140,264,2006
+30650,"Johnston, IA","Altoona, IA",70,131,29,25,135,70,54,95,81,230,2006
+30791,"Johnston, IA","Grimes, IA",37,129,33,11,105,83,40,62,97,199,2006
+30651,"Johnston, IA","Ames, IA",80,85,19,4,120,60,53,51,80,184,2006
+30911,"Johnston, IA","Norwalk, IA",49,91,19,21,89,49,41,68,50,159,2006
+30786,"Johnston, IA","Granger, IA",17,81,14,5,56,51,15,31,66,112,2006
+30863,"Johnston, IA","Madrid, IA",12,54,21,10,39,38,15,31,41,87,2006
+30735,"Johnston, IA","De Soto, IA",11,48,13,10,36,26,10,27,35,72,2006
+30816,"Johnston, IA","Indianola, IA",23,30,13,7,37,22,21,19,26,66,2006
+30693,"Johnston, IA","Carlisle, IA",19,30,10,8,35,16,18,18,23,59,2006
+30680,"Johnston, IA","Boone, IA",10,25,18,9,30,14,9,17,27,53,2006
+30887,"Johnston, IA","Minburn, IA",5,34,5,3,15,26,6,10,28,44,2006
+31027,"Johnston, IA","Waterloo, IA",17,16,10,1,16,26,26,8,9,43,2006
+30908,"Johnston, IA","Newton, IA",10,23,10,2,26,15,12,17,14,43,2006
+30814,"Johnston, IA","Huxley, IA",9,27,6,6,23,13,4,16,22,42,2006
+30934,"Johnston, IA","Perry, IA",11,23,8,7,16,19,10,17,15,42,2006
+30851,"Johnston, IA","Linden, IA",14,25,2,0,33,8,17,11,13,41,2006
+30832,"Johnston, IA","Knoxville, IA",14,21,5,7,23,10,8,15,17,40,2006
+30679,"Johnston, IA","Bondurant, IA",10,23,6,6,21,12,9,14,16,39,2006
+30700,"Johnston, IA","Cedar Falls, IA",16,14,4,4,8,22,12,9,13,34,2006
+30701,"Johnston, IA","Cedar Rapids, IA",12,14,7,2,17,14,9,13,11,33,2006
+31046,"Johnston, IA","Winterset, IA",5,27,1,7,18,8,4,11,18,33,2006
+30902,"Johnston, IA","Nevada, IA",8,20,5,4,14,15,6,10,17,33,2006
+30989,"Johnston, IA","Spring Hill, IA",13,15,4,1,19,12,11,12,9,32,2006
+30731,"Johnston, IA","Dallas Center, IA",5,20,6,4,10,17,6,7,18,31,2006
+30641,"Johnston, IA","Adel, IA",8,17,6,2,20,9,3,12,16,31,2006
+30876,"Johnston, IA","Marshalltown, IA",9,16,6,1,19,11,15,9,7,31,2006
+30931,"Johnston, IA","Patterson, IA",5,18,8,4,18,9,5,7,19,31,2006
+30891,"Johnston, IA","Mitchellville, IA",5,21,5,7,11,13,4,7,20,31,2006
+30725,"Johnston, IA","Council Bluffs, IA",13,13,5,5,8,18,14,11,6,31,2006
+30772,"Johnston, IA","Fort Dodge, IA",13,9,5,4,14,9,13,3,11,27,2006
+30924,"Johnston, IA","Ottumwa, IA",12,14,1,1,9,17,6,15,6,27,2006
+30971,"Johnston, IA","Runnells, IA",4,17,4,5,9,11,4,4,17,25,2006
+30993,"Johnston, IA","St. Marys, IA",3,18,4,0,14,11,5,8,12,25,2006
+30732,"Johnston, IA","Davenport, IA",15,9,1,0,8,17,15,4,6,25,2006
+31048,"Johnston, IA","Woodward, IA",1,18,4,1,9,13,4,5,14,23,2006
+30668,"Johnston, IA","Bayard, IA",4,14,4,0,18,4,4,8,10,22,2006
+31017,"Johnston, IA","Van Meter, IA",4,16,2,3,13,6,6,6,10,22,2006
+30691,"Johnston, IA","Cambridge, IA",7,10,4,2,12,7,3,9,9,21,2006
+30746,"Johnston, IA","Dexter, IA",5,13,2,5,8,7,3,9,8,20,2006
+30818,"Johnston, IA","Iowa City, IA",11,6,3,1,10,9,9,5,6,20,2006
+30930,"Johnston, IA","Panora, IA",7,11,1,1,16,2,7,2,10,19,2006
+30877,"Johnston, IA","Mason City, IA",4,11,2,3,3,11,7,7,3,17,2006
+30718,"Johnston, IA","Colfax, IA",10,6,1,2,12,3,7,9,1,17,2006
+31011,"Johnston, IA","Toledo, IA",1,13,3,1,4,12,3,8,6,17,2006
+30810,"Johnston, IA","Hiawatha, IA",7,7,2,2,8,6,7,3,6,16,2006
+30667,"Johnston, IA","Baxter, IA",1,12,3,5,10,1,3,4,9,16,2006
+30661,"Johnston, IA","Audubon, IA",3,9,4,0,11,5,5,3,8,16,2006
+30694,"Johnston, IA","Carroll, IA",7,5,4,1,10,5,4,6,6,16,2006
+31004,"Johnston, IA","Swan, IA",3,9,2,2,10,2,2,5,7,14,2006
+30985,"Johnston, IA","Slater, IA",0,12,1,1,6,6,0,4,9,13,2006
+30933,"Johnston, IA","Pella, IA",3,7,2,1,10,1,4,2,6,12,2006
+30920,"Johnston, IA","Osceola, IA",5,3,3,1,3,7,2,4,5,11,2006
+30892,"Johnston, IA","Monroe, IA",4,5,2,0,8,3,2,4,5,11,2006
+30944,"Johnston, IA","Prairie City, IA",5,6,0,1,5,5,1,5,5,11,2006
+30915,"Johnston, IA","Ogden, IA",0,9,2,2,9,0,1,4,6,11,2006
+30794,"Johnston, IA","Guthrie Center, IA",5,5,1,1,6,4,3,1,7,11,2006
+30639,"Johnston, IA","Ackworth, IA",2,6,3,1,3,7,3,2,6,11,2006
+31005,"Johnston, IA","Tama, IA",0,9,2,2,0,9,0,6,5,11,2006
+31015,"Johnston, IA","Urbana, IA",3,1,7,6,3,2,4,3,4,11,2006
+30779,"Johnston, IA","Gilbert, IA",5,5,0,0,9,1,4,0,6,10,2006
+30959,"Johnston, IA","Reinbeck, IA",1,7,2,2,1,7,3,4,3,10,2006
+30753,"Johnston, IA","East Peru, IA",1,7,2,6,3,1,1,1,8,10,2006
+30958,"Johnston, IA","Redfield, IA",4,5,1,0,6,4,2,6,2,10,2006
+31000,"Johnston, IA","Story City, IA",3,7,0,1,6,3,3,1,6,10,2006
+30748,"Johnston, IA","Dubuque, IA",2,4,3,1,2,6,1,4,4,9,2006
+31014,"Johnston, IA","University Park, IA",4,4,1,0,5,4,3,4,2,9,2006
+30764,"Johnston, IA","Exira, IA",4,3,2,0,8,1,4,4,1,9,2006
+30704,"Johnston, IA","Chariton, IA",4,3,2,1,2,6,4,4,1,9,2006
+30676,"Johnston, IA","Blakesburg, IA",2,7,0,0,2,7,2,1,6,9,2006
+30674,"Johnston, IA","Bettendorf, IA",6,2,1,0,1,8,3,2,4,9,2006
+31031,"Johnston, IA","Webster City, IA",3,4,2,1,6,2,0,7,2,9,2006
+30918,"Johnston, IA","Orient, IA",3,6,0,1,4,4,5,1,3,9,2006
+30834,"Johnston, IA","Lacona, IA",1,5,2,2,1,5,2,2,4,8,2006
+30698,"Johnston, IA","Casey, IA",2,4,2,2,6,0,1,2,5,8,2006
+30919,"Johnston, IA","Osage, IA",3,5,0,0,2,6,1,2,5,8,2006
+30727,"Johnston, IA","Creston, IA",2,5,1,2,5,1,1,4,3,8,2006
+30825,"Johnston, IA","Kellogg, IA",1,7,0,3,4,1,1,0,7,8,2006
+30819,"Johnston, IA","Iowa Falls, IA",1,2,5,3,0,5,1,1,6,8,2006
+30721,"Johnston, IA","Coon Rapids, IA",2,5,1,3,4,1,3,1,4,8,2006
+30712,"Johnston, IA","Clear Lake, IA",1,4,3,0,2,6,2,1,5,8,2006
+30719,"Johnston, IA","Colo, IA",0,6,2,0,3,5,2,2,4,8,2006
+30860,"Johnston, IA","Luther, IA",0,7,1,0,6,2,1,5,2,8,2006
+30938,"Johnston, IA","Pleasantville, IA",1,7,0,2,3,3,1,2,5,8,2006
+30821,"Johnston, IA","Jefferson, IA",3,3,1,0,4,3,1,2,4,7,2006
+30663,"Johnston, IA","Bagley, IA",1,5,1,0,5,2,3,2,2,7,2006
+30862,"Johnston, IA","Macksburg, IA",2,4,1,2,4,1,1,3,3,7,2006
+30929,"Johnston, IA","Palo, IA",4,2,1,1,5,1,4,1,2,7,2006
+31013,"Johnston, IA","University Heights, IA",6,1,0,0,4,3,5,1,1,7,2006
+30781,"Johnston, IA","Glenwood, IA",5,2,0,0,6,1,4,3,0,7,2006
+30813,"Johnston, IA","Humboldt, IA",2,4,1,1,2,4,3,3,1,7,2006
+30840,"Johnston, IA","Lambs Grove, IA",3,4,0,2,2,3,0,2,5,7,2006
+31001,"Johnston, IA","Stuart, IA",3,4,0,0,5,2,1,4,2,7,2006
+30775,"Johnston, IA","Fremont, IA",0,6,1,0,1,6,1,0,6,7,2006
+30844,"Johnston, IA","Le Grand, IA",0,5,2,4,3,0,3,2,2,7,2006
+30711,"Johnston, IA","Clarion, IA",2,4,1,3,1,3,3,1,3,7,2006
+30707,"Johnston, IA","Cherokee, IA",2,2,2,0,2,4,1,3,2,6,2006
+30645,"Johnston, IA","Albion, IA",4,2,0,0,3,3,5,0,1,6,2006
+30970,"Johnston, IA","Roland, IA",2,4,0,3,1,2,1,1,4,6,2006
+30965,"Johnston, IA","Robins, IA",4,2,0,0,1,5,4,1,1,6,2006
+30713,"Johnston, IA","Clinton, IA",1,4,1,0,4,2,2,3,1,6,2006
+30755,"Johnston, IA","Elberon, IA",3,3,0,1,0,5,1,0,5,6,2006
+31047,"Johnston, IA","Wiota, IA",3,3,0,3,2,1,1,3,2,6,2006
+30841,"Johnston, IA","Lamoni, IA",0,3,3,1,4,1,3,1,2,6,2006
+30960,"Johnston, IA","Rhodes, IA",1,5,0,1,3,2,0,2,4,6,2006
+30883,"Johnston, IA","Melcher-Dallas, IA",0,5,1,1,5,0,1,1,4,6,2006
+30921,"Johnston, IA","Oskaloosa, IA",0,6,0,0,0,6,0,2,4,6,2006
+31012,"Johnston, IA","Traer, IA",1,3,2,1,0,5,2,3,1,6,2006
+31019,"Johnston, IA","Vining, IA",0,6,0,0,1,5,0,1,5,6,2006
+30900,"Johnston, IA","Murray, IA",0,5,1,5,0,1,2,1,3,6,2006
+30792,"Johnston, IA","Grinnell, IA",1,3,2,0,5,1,0,5,1,6,2006
+30763,"Johnston, IA","Evansdale, IA",2,2,1,0,4,1,2,2,1,5,2006
+30976,"Johnston, IA","Sandyville, IA",1,3,1,0,2,3,3,0,2,5,2006
+30773,"Johnston, IA","Fraser, IA",0,5,0,2,3,0,0,2,3,5,2006
+30850,"Johnston, IA","Lidderdale, IA",1,4,0,0,5,0,4,1,0,5,2006
+30978,"Johnston, IA","Shannon City, IA",2,2,1,2,2,1,2,1,2,5,2006
+30999,"Johnston, IA","Storm Lake, IA",4,1,0,0,4,1,3,2,0,5,2006
+30854,"Johnston, IA","Liscomb, IA",2,2,1,1,1,3,1,4,0,5,2006
+30861,"Johnston, IA","Lynnville, IA",1,4,0,2,2,1,0,2,3,5,2006
+30644,"Johnston, IA","Albia, IA",3,2,0,0,1,4,1,3,1,5,2006
+30653,"Johnston, IA","Anita, IA",1,2,2,1,4,0,1,1,3,5,2006
+30909,"Johnston, IA","North Liberty, IA",2,3,0,0,3,2,2,2,1,5,2006
+30737,"Johnston, IA","Decorah, IA",1,4,0,1,0,4,2,1,2,5,2006
+30961,"Johnston, IA","Richland, IA",2,2,1,0,0,5,0,2,3,5,2006
+31030,"Johnston, IA","Waverly, IA",1,3,1,0,2,3,1,2,2,5,2006
+30751,"Johnston, IA","Dysart, IA",0,3,2,0,1,4,2,2,1,5,2006
+30758,"Johnston, IA","Elk Run Heights, IA",2,2,1,1,3,1,1,1,3,5,2006
+30754,"Johnston, IA","Eddyville, IA",0,3,2,0,2,3,1,2,2,5,2006
+30696,"Johnston, IA","Carter Lake, IA",2,2,0,0,1,3,3,0,1,4,2006
+30642,"Johnston, IA","Agency, IA",1,2,1,0,1,3,2,1,1,4,2006
+30647,"Johnston, IA","Algona, IA",1,3,0,0,0,4,1,1,2,4,2006
+30760,"Johnston, IA","Ellsworth, IA",1,2,1,0,1,3,2,1,1,4,2006
+30923,"Johnston, IA","Ottosen, IA",2,2,0,0,1,3,1,2,1,4,2006
+31042,"Johnston, IA","Williams, IA",0,3,1,0,2,2,1,1,2,4,2006
+30922,"Johnston, IA","Otho, IA",0,1,3,2,0,2,2,0,2,4,2006
+30824,"Johnston, IA","Kalona, IA",2,1,1,0,2,2,3,1,0,4,2006
+30675,"Johnston, IA","Blairstown, IA",1,3,0,0,1,3,1,1,2,4,2006
+30981,"Johnston, IA","Shenandoah, IA",1,2,1,0,2,2,2,2,0,4,2006
+30914,"Johnston, IA","Oelwein, IA",1,2,1,0,2,2,1,1,2,4,2006
+30682,"Johnston, IA","Braddyville, IA",1,3,0,1,2,1,2,2,0,4,2006
+30759,"Johnston, IA","Elkader, IA",0,4,0,0,0,4,0,0,4,4,2006
+30724,"Johnston, IA","Corydon, IA",1,3,0,0,2,2,1,0,3,4,2006
+30975,"Johnston, IA","Sageville, IA",3,0,1,0,4,0,4,0,0,4,2006
+30782,"Johnston, IA","Glidden, IA",1,2,1,1,2,1,2,0,2,4,2006
+30955,"Johnston, IA","Reasnor, IA",0,3,0,0,1,2,1,1,1,3,2006
+30871,"Johnston, IA","Maquoketa, IA",1,1,1,0,1,2,1,1,1,3,2006
+30966,"Johnston, IA","Rock Valley, IA",0,3,0,2,0,1,2,1,0,3,2006
+30873,"Johnston, IA","Marcus, IA",0,3,0,0,0,3,0,1,2,3,2006
+30817,"Johnston, IA","Inwood, IA",2,1,0,1,1,1,2,1,0,3,2006
+30972,"Johnston, IA","Russell, IA",0,3,0,1,1,1,0,1,2,3,2006
+30926,"Johnston, IA","Oxford, IA",2,1,0,0,1,2,2,0,1,3,2006
+30879,"Johnston, IA","Maxwell, IA",0,2,1,0,1,2,1,2,0,3,2006
+30820,"Johnston, IA","Janesville, IA",0,1,2,0,2,1,0,2,1,3,2006
+30853,"Johnston, IA","Lisbon, IA",3,0,0,0,2,1,1,2,0,3,2006
+30898,"Johnston, IA","Mount Ayr, IA",3,0,0,0,2,1,2,1,0,3,2006
+30941,"Johnston, IA","Pomeroy, IA",1,1,1,2,1,0,0,2,1,3,2006
+30886,"Johnston, IA","Milton, IA",0,2,1,0,0,3,0,2,1,3,2006
+30894,"Johnston, IA","Montour, IA",1,2,0,0,1,2,2,0,1,3,2006
+30895,"Johnston, IA","Moravia, IA",2,1,0,0,2,1,2,0,1,3,2006
+30910,"Johnston, IA","Northwood, IA",1,1,1,0,0,3,0,0,3,3,2006
+30897,"Johnston, IA","Mount Auburn, IA",1,2,0,0,2,1,2,1,0,3,2006
+30946,"Johnston, IA","Princeton, IA",1,2,0,0,0,3,1,1,1,3,2006
+30954,"Johnston, IA","Readlyn, IA",0,1,2,0,1,2,0,0,3,3,2006
+30845,"Johnston, IA","Le Mars, IA",2,1,0,0,1,2,2,1,0,3,2006
+31018,"Johnston, IA","Victor, IA",0,3,0,0,0,3,0,3,0,3,2006
+30797,"Johnston, IA","Hampton, IA",0,2,1,0,1,2,0,2,1,3,2006
+30997,"Johnston, IA","State Center, IA",0,3,0,0,2,1,0,1,2,3,2006
+30723,"Johnston, IA","Corwith, IA",1,2,0,0,1,2,3,0,0,3,2006
+30996,"Johnston, IA","Stanton, IA",2,0,1,1,1,1,2,1,0,3,2006
+30726,"Johnston, IA","Cresco, IA",2,1,0,0,2,1,0,2,1,3,2006
+31006,"Johnston, IA","Tennant, IA",1,1,1,1,2,0,1,0,2,3,2006
+31020,"Johnston, IA","Vinton, IA",0,3,0,1,1,1,0,0,3,3,2006
+30734,"Johnston, IA","Dayton, IA",1,2,0,1,0,2,1,1,1,3,2006
+30995,"Johnston, IA","Stanhope, IA",0,3,0,0,2,1,0,0,3,3,2006
+30671,"Johnston, IA","Belmond, IA",0,3,0,1,1,1,1,1,1,3,2006
+30669,"Johnston, IA","Belle Plaine, IA",1,0,2,0,1,2,1,1,1,3,2006
+31009,"Johnston, IA","Tipton, IA",2,1,0,0,2,1,2,1,0,3,2006
+30662,"Johnston, IA","Aurelia, IA",1,2,0,0,1,2,1,1,1,3,2006
+30714,"Johnston, IA","Clio, IA",1,1,1,0,1,2,2,1,0,3,2006
+31032,"Johnston, IA","Webster, IA",0,3,0,0,0,3,0,3,0,3,2006
+30750,"Johnston, IA","Dyersville, IA",0,3,0,0,1,2,1,0,2,3,2006
+30646,"Johnston, IA","Alden, IA",1,1,1,0,2,1,1,0,2,3,2006
+30640,"Johnston, IA","Adair, IA",1,1,1,0,3,0,2,0,1,3,2006
+31035,"Johnston, IA","West Burlington, IA",2,1,0,0,1,2,1,0,2,3,2006
+30722,"Johnston, IA","Coralville, IA",2,0,0,0,2,0,2,0,0,2,2006
+30884,"Johnston, IA","Meriden, IA",0,1,1,0,1,1,0,1,1,2,2006
+31023,"Johnston, IA","Walford, IA",0,0,2,0,2,0,1,0,1,2,2006
+30811,"Johnston, IA","Hopkinton, IA",1,0,1,0,1,1,1,0,1,2,2006
+30956,"Johnston, IA","Red Oak, IA",1,1,0,0,1,1,1,0,1,2,2006
+30875,"Johnston, IA","Marion, IA",1,1,0,0,1,1,0,2,0,2,2006
+30889,"Johnston, IA","Missouri Valley, IA",0,1,1,0,2,0,1,1,0,2,2006
+30870,"Johnston, IA","Manson, IA",2,0,0,0,1,1,1,1,0,2,2006
+30736,"Johnston, IA","De Witt, IA",0,1,1,0,0,2,2,0,0,2,2006
+30738,"Johnston, IA","Dedham, IA",0,2,0,0,2,0,0,0,2,2,2006
+30867,"Johnston, IA","Manchester, IA",1,0,1,0,0,2,1,0,1,2,2006
+30888,"Johnston, IA","Minden, IA",1,0,1,0,1,1,0,1,1,2,2006
+30689,"Johnston, IA","Bussey, IA",0,1,1,0,0,2,1,1,0,2,2006
+31029,"Johnston, IA","Waukon, IA",0,1,1,0,0,2,1,0,1,2,2006
+30699,"Johnston, IA","Castalia, IA",0,1,1,0,0,2,0,0,2,2,2006
+30655,"Johnston, IA","Arcadia, IA",0,2,0,0,2,0,0,1,1,2,2006
+30657,"Johnston, IA","Arlington, IA",1,1,0,1,0,1,1,0,1,2,2006
+30928,"Johnston, IA","Palmer, IA",1,1,0,0,1,1,1,0,1,2,2006
+30660,"Johnston, IA","Asbury, IA",1,0,1,0,0,2,1,0,1,2,2006
+31041,"Johnston, IA","Willey, IA",1,0,1,1,1,0,1,0,1,2,2006
+31039,"Johnston, IA","Wheatland, IA",1,0,1,0,0,2,1,0,1,2,2006
+30917,"Johnston, IA","Orange City, IA",2,0,0,1,0,1,1,1,0,2,2006
+30673,"Johnston, IA","Bertram, IA",1,1,0,1,0,1,0,1,1,2,2006
+30678,"Johnston, IA","Bloomfield, IA",1,1,0,0,0,2,0,1,1,2,2006
+30942,"Johnston, IA","Popejoy, IA",0,2,0,0,2,0,1,0,1,2,2006
+30683,"Johnston, IA","Brayton, IA",1,1,0,1,1,0,1,1,0,2,2006
+30687,"Johnston, IA","Buffalo Center, IA",1,1,0,0,1,1,1,0,1,2,2006
+30905,"Johnston, IA","New Liberty, IA",1,1,0,0,1,1,1,0,1,2,2006
+30904,"Johnston, IA","New Hampton, IA",1,1,0,0,1,1,1,1,0,2,2006
+30963,"Johnston, IA","Riverside, IA",0,2,0,0,1,1,0,0,2,2,2006
+30690,"Johnston, IA","Callender, IA",1,0,1,0,0,2,1,1,0,2,2006
+30948,"Johnston, IA","Quimby, IA",0,2,0,0,0,2,0,1,1,2,2006
+30742,"Johnston, IA","Delta, IA",0,1,1,0,0,2,0,0,2,2,2006
+30728,"Johnston, IA","Crystal Lake, IA",1,1,0,0,1,1,0,1,1,2,2006
+30974,"Johnston, IA","Sac City, IA",2,0,0,0,2,0,2,0,0,2,2006
+30827,"Johnston, IA","Keota, IA",0,1,1,0,0,2,0,1,1,2,2006
+31002,"Johnston, IA","Sully, IA",0,2,0,0,1,1,1,0,1,2,2006
+30783,"Johnston, IA","Goldfield, IA",0,1,1,1,0,1,0,0,2,2,2006
+30839,"Johnston, IA","Lakota, IA",1,0,1,0,2,0,1,0,1,2,2006
+30743,"Johnston, IA","Denison, IA",0,1,1,1,1,0,1,1,0,2,2006
+30837,"Johnston, IA","Lake Mills, IA",1,1,0,0,1,1,0,1,1,2,2006
+30836,"Johnston, IA","Lake City, IA",0,2,0,0,0,2,0,1,1,2,2006
+30785,"Johnston, IA","Grand Junction, IA",1,1,0,0,0,2,0,1,1,2,2006
+30789,"Johnston, IA","Greenfield, IA",0,0,2,0,1,1,1,1,0,2,2006
+30795,"Johnston, IA","Guttenberg, IA",0,2,0,1,1,0,0,1,1,2,2006
+30776,"Johnston, IA","Garden Grove, IA",0,0,2,2,0,0,0,0,2,2,2006
+30994,"Johnston, IA","Stacyville, IA",2,0,0,0,0,2,1,0,1,2,2006
+30982,"Johnston, IA","Shueyville, IA",0,1,1,0,1,1,1,1,0,2,2006
+30991,"Johnston, IA","Springville, IA",0,2,0,0,0,2,0,1,1,2,2006
+30802,"Johnston, IA","Hartwick, IA",0,2,0,0,0,2,0,0,2,2,2006
+30988,"Johnston, IA","Spirit Lake, IA",1,1,0,2,0,0,0,1,1,2,2006
+30987,"Johnston, IA","Spencer, IA",1,1,0,2,0,0,0,1,1,2,2006
+30983,"Johnston, IA","Sigourney, IA",0,1,1,0,0,2,0,0,2,2,2006
+30809,"Johnston, IA","Hedrick, IA",0,1,1,0,0,2,0,0,2,2,2006
+30777,"Johnston, IA","Garner, IA",0,1,1,0,1,1,1,1,0,2,2006
+30937,"Johnston, IA","Pleasanton, IA",0,2,0,1,1,0,0,1,1,2,2006
+30848,"Johnston, IA","Leon, IA",0,2,0,0,0,2,0,0,2,2,2006
+30749,"Johnston, IA","Duncombe, IA",0,2,0,0,0,2,0,1,1,2,2006
+30846,"Johnston, IA","Le Roy, IA",1,0,1,1,0,1,0,1,1,2,2006
+31008,"Johnston, IA","Tiffin, IA",1,1,0,0,0,2,0,1,1,2,2006
+30762,"Johnston, IA","Estherville, IA",1,1,0,1,1,0,1,0,1,2,2006
+31010,"Johnston, IA","Titonka, IA",0,2,0,0,0,2,2,0,0,2,2006
+30761,"Johnston, IA","Emmetsburg, IA",1,1,0,0,1,1,1,0,1,2,2006
+30769,"Johnston, IA","Floyd, IA",0,2,0,1,0,1,1,0,1,2,2006
+30767,"Johnston, IA","Ferguson, IA",1,1,0,0,1,1,1,0,1,2,2006
+31003,"Johnston, IA","Sumner, IA",0,1,0,0,0,1,0,0,1,1,2006
+30957,"Johnston, IA","Redding, IA",1,0,0,0,0,1,0,0,1,1,2006
+30984,"Johnston, IA","Sioux Rapids, IA",1,0,0,0,1,0,1,0,0,1,2006
+31040,"Johnston, IA","Whittemore, IA",0,0,1,0,0,1,0,0,1,1,2006
+30992,"Johnston, IA","St. Lucas, IA",1,0,0,0,1,0,1,0,0,1,2006
+30968,"Johnston, IA","Rockwell City, IA",0,1,0,0,1,0,1,0,0,1,2006
+30967,"Johnston, IA","Rockford, IA",0,1,0,0,0,1,0,0,1,1,2006
+31043,"Johnston, IA","Williamsburg, IA",1,0,0,0,1,0,0,1,0,1,2006
+30980,"Johnston, IA","Sheldon, IA",0,1,0,1,0,0,1,0,0,1,2006
+30990,"Johnston, IA","Springbrook, IA",0,1,0,0,1,0,1,0,0,1,2006
+31044,"Johnston, IA","Wilton, IA",1,0,0,0,1,0,1,0,0,1,2006
+30939,"Johnston, IA","Plymouth, IA",0,0,1,0,0,1,0,1,0,1,2006
+30964,"Johnston, IA","Riverton, IA",0,1,0,1,0,0,0,1,0,1,2006
+31049,"Johnston, IA","Woolstock, IA",0,1,0,0,1,0,0,0,1,1,2006
+30986,"Johnston, IA","Solon, IA",0,1,0,0,1,0,1,0,0,1,2006
+31050,"Johnston, IA","Zearing, IA",1,0,0,0,0,1,1,0,0,1,2006
+31038,"Johnston, IA","West Union, IA",0,1,0,0,0,1,1,0,0,1,2006
+31037,"Johnston, IA","West Liberty, IA",0,1,0,0,1,0,0,1,0,1,2006
+30979,"Johnston, IA","Shelby, IA",0,1,0,0,0,1,0,0,1,1,2006
+30943,"Johnston, IA","Portsmouth, IA",1,0,0,0,0,1,0,0,1,1,2006
+30952,"Johnston, IA","Randolph, IA",0,1,0,0,0,1,0,1,0,1,2006
+30951,"Johnston, IA","Randall, IA",1,0,0,0,0,1,0,1,0,1,2006
+31024,"Johnston, IA","Wall Lake, IA",1,0,0,0,1,0,1,0,0,1,2006
+31025,"Johnston, IA","Wallingford, IA",1,0,0,0,0,1,1,0,0,1,2006
+30950,"Johnston, IA","Randalia, IA",1,0,0,0,1,0,1,0,0,1,2006
+31026,"Johnston, IA","Wapello, IA",1,0,0,0,1,0,1,0,0,1,2006
+30973,"Johnston, IA","Rutland, IA",1,0,0,0,1,0,1,0,0,1,2006
+30949,"Johnston, IA","Rake, IA",0,1,0,0,0,1,0,0,1,1,2006
+31022,"Johnston, IA","Wahpeton, IA",0,1,0,1,0,0,0,0,1,1,2006
+30953,"Johnston, IA","Raymond, IA",0,1,0,0,0,1,0,0,1,1,2006
+31021,"Johnston, IA","Wadena, IA",1,0,0,0,1,0,1,0,0,1,2006
+30947,"Johnston, IA","Promise City, IA",1,0,0,0,1,0,0,1,0,1,2006
+31033,"Johnston, IA","Wellsburg, IA",0,1,0,0,0,1,0,0,1,1,2006
+31007,"Johnston, IA","Thompson, IA",0,0,1,0,0,1,1,0,0,1,2006
+30945,"Johnston, IA","Preston, IA",0,1,0,0,0,1,0,1,0,1,2006
+30998,"Johnston, IA","Steamboat Rock, IA",0,1,0,0,0,1,0,1,0,1,2006
+31034,"Johnston, IA","West Bend, IA",1,0,0,0,1,0,1,0,0,1,2006
+30969,"Johnston, IA","Rockwell, IA",0,1,0,0,1,0,0,1,0,1,2006
+30977,"Johnston, IA","Schaller, IA",0,1,0,1,0,0,0,0,1,1,2006
+30962,"Johnston, IA","Rippey, IA",1,0,0,0,1,0,1,0,0,1,2006
+30638,"Johnston, IA","Ackley, IA",0,1,0,0,0,1,0,1,0,1,2006
+30935,"Johnston, IA","Plainfield, IA",0,0,1,0,0,1,0,1,0,1,2006
+30710,"Johnston, IA","Clarinda, IA",1,0,0,0,0,1,1,0,0,1,2006
+30717,"Johnston, IA","Coggon, IA",0,1,0,1,0,0,0,1,0,1,2006
+30720,"Johnston, IA","Colwell, IA",0,1,0,0,0,1,1,0,0,1,2006
+30729,"Johnston, IA","Cushing, IA",0,1,0,0,0,1,0,1,0,1,2006
+30730,"Johnston, IA","Dakota City, IA",0,1,0,0,1,0,0,1,0,1,2006
+30733,"Johnston, IA","Dawson, IA",0,1,0,0,1,0,1,0,0,1,2006
+30739,"Johnston, IA","Defiance, IA",1,0,0,0,0,1,0,1,0,1,2006
+30740,"Johnston, IA","Delaware, IA",0,1,0,0,1,0,0,1,0,1,2006
+30741,"Johnston, IA","Deloit, IA",0,1,0,1,0,0,1,0,0,1,2006
+30744,"Johnston, IA","Denver, IA",1,0,0,0,0,1,1,0,0,1,2006
+30747,"Johnston, IA","Dixon, IA",0,1,0,0,0,1,0,0,1,1,2006
+30752,"Johnston, IA","Eagle Grove, IA",0,0,1,1,0,0,0,0,1,1,2006
+30756,"Johnston, IA","Eldora, IA",1,0,0,0,0,1,0,1,0,1,2006
+30757,"Johnston, IA","Eldridge, IA",0,1,0,0,0,1,0,1,0,1,2006
+30765,"Johnston, IA","Fairfax, IA",0,1,0,0,1,0,0,0,1,1,2006
+30766,"Johnston, IA","Farnhamville, IA",0,0,1,1,0,0,0,0,1,1,2006
+30768,"Johnston, IA","Floris, IA",0,0,1,0,0,1,0,0,1,1,2006
+30770,"Johnston, IA","Forest City, IA",0,0,1,1,0,0,0,1,0,1,2006
+30771,"Johnston, IA","Fort Atkinson, IA",1,0,0,0,1,0,1,0,0,1,2006
+30774,"Johnston, IA","Frederika, IA",0,1,0,0,0,1,1,0,0,1,2006
+30778,"Johnston, IA","Gibson, IA",0,1,0,0,0,1,0,1,0,1,2006
+30780,"Johnston, IA","Gilman, IA",1,0,0,0,0,1,1,0,0,1,2006
+30784,"Johnston, IA","Graettinger, IA",0,1,0,0,0,1,0,1,0,1,2006
+30787,"Johnston, IA","Gray, IA",1,0,0,0,1,0,1,0,0,1,2006
+30788,"Johnston, IA","Greeley, IA",1,0,0,0,0,1,0,0,1,1,2006
+30790,"Johnston, IA","Greenville, IA",1,0,0,1,0,0,0,1,0,1,2006
+30716,"Johnston, IA","Clutier, IA",0,1,0,0,0,1,0,1,0,1,2006
+30709,"Johnston, IA","Clarence, IA",0,1,0,0,0,1,1,0,0,1,2006
+30796,"Johnston, IA","Hamburg, IA",0,0,1,0,1,0,1,0,0,1,2006
+30708,"Johnston, IA","Churdan, IA",0,0,1,0,1,0,1,0,0,1,2006
+30643,"Johnston, IA","Akron, IA",1,0,0,0,1,0,1,0,0,1,2006
+30648,"Johnston, IA","Alta Vista, IA",0,1,0,0,0,1,0,1,0,1,2006
+30649,"Johnston, IA","Alton, IA",0,0,1,0,0,1,1,0,0,1,2006
+30652,"Johnston, IA","Andover, IA",0,0,1,0,0,1,1,0,0,1,2006
+30656,"Johnston, IA","Aredale, IA",0,0,1,0,0,1,0,0,1,1,2006
+30658,"Johnston, IA","Arnolds Park, IA",1,0,0,0,0,1,0,1,0,1,2006
+30659,"Johnston, IA","Arthur, IA",0,1,0,0,0,1,0,0,1,1,2006
+30664,"Johnston, IA","Baldwin, IA",0,1,0,0,0,1,1,0,0,1,2006
+30665,"Johnston, IA","Balltown, IA",1,0,0,0,1,0,1,0,0,1,2006
+30666,"Johnston, IA","Batavia, IA",0,1,0,0,0,1,1,0,0,1,2006
+30670,"Johnston, IA","Bellevue, IA",1,0,0,0,0,1,1,0,0,1,2006
+30672,"Johnston, IA","Bennett, IA",1,0,0,0,1,0,1,0,0,1,2006
+30677,"Johnston, IA","Blanchard, IA",1,0,0,0,1,0,1,0,0,1,2006
+30681,"Johnston, IA","Boxholm, IA",0,0,1,0,0,1,0,1,0,1,2006
+30684,"Johnston, IA","Brighton, IA",0,1,0,0,0,1,0,1,0,1,2006
+30685,"Johnston, IA","Britt, IA",0,1,0,0,0,1,0,0,1,1,2006
+30686,"Johnston, IA","Brooklyn, IA",0,1,0,0,0,1,1,0,0,1,2006
+30688,"Johnston, IA","Burlington, IA",0,1,0,0,1,0,1,0,0,1,2006
+30692,"Johnston, IA","Cantril, IA",0,1,0,0,0,1,0,0,1,1,2006
+30695,"Johnston, IA","Carson, IA",0,1,0,1,0,0,0,0,1,1,2006
+30697,"Johnston, IA","Cascade, IA",1,0,0,0,1,0,1,0,0,1,2006
+30702,"Johnston, IA","Center Point, IA",1,0,0,0,0,1,1,0,0,1,2006
+30703,"Johnston, IA","Central City, IA",1,0,0,0,0,1,1,0,0,1,2006
+30705,"Johnston, IA","Charles City, IA",0,1,0,0,0,1,0,0,1,1,2006
+30706,"Johnston, IA","Charter Oak, IA",0,1,0,1,0,0,0,0,1,1,2006
+30793,"Johnston, IA","Grundy Center, IA",0,1,0,0,0,1,1,0,0,1,2006
+30798,"Johnston, IA","Hancock, IA",0,1,0,1,0,0,0,0,1,1,2006
+30932,"Johnston, IA","Paullina, IA",1,0,0,0,0,1,1,0,0,1,2006
+30858,"Johnston, IA","Long Grove, IA",0,1,0,0,0,1,0,0,1,1,2006
+30864,"Johnston, IA","Magnolia, IA",0,0,1,1,0,0,0,1,0,1,2006
+30865,"Johnston, IA","Malcom, IA",1,0,0,0,0,1,0,1,0,1,2006
+30866,"Johnston, IA","Malvern, IA",1,0,0,0,1,0,1,0,0,1,2006
+30868,"Johnston, IA","Manilla, IA",0,1,0,0,1,0,1,0,0,1,2006
+30869,"Johnston, IA","Manning, IA",0,1,0,0,1,0,0,0,1,1,2006
+30872,"Johnston, IA","Marble Rock, IA",0,1,0,0,1,0,0,0,1,1,2006
+30874,"Johnston, IA","Marengo, IA",0,1,0,0,0,1,0,0,1,1,2006
+30878,"Johnston, IA","Massena, IA",1,0,0,0,1,0,0,1,0,1,2006
+30880,"Johnston, IA","McCausland, IA",0,1,0,0,1,0,0,1,0,1,2006
+30881,"Johnston, IA","McIntire, IA",0,1,0,0,0,1,0,1,0,1,2006
+30882,"Johnston, IA","Melbourne, IA",0,1,0,1,0,0,0,1,0,1,2006
+30885,"Johnston, IA","Merrill, IA",1,0,0,0,0,1,1,0,0,1,2006
+30890,"Johnston, IA","Mitchell, IA",1,0,0,0,0,1,1,0,0,1,2006
+30893,"Johnston, IA","Montezuma, IA",0,1,0,1,0,0,0,0,1,1,2006
+30896,"Johnston, IA","Moulton, IA",0,1,0,0,0,1,0,0,1,1,2006
+30899,"Johnston, IA","Mount Vernon, IA",1,0,0,0,1,0,1,0,0,1,2006
+30901,"Johnston, IA","Nashua, IA",0,0,1,0,0,1,0,1,0,1,2006
+30903,"Johnston, IA","New Albin, IA",0,1,0,0,0,1,0,1,0,1,2006
+30906,"Johnston, IA","New Vienna, IA",0,1,0,0,1,0,1,0,0,1,2006
+30907,"Johnston, IA","Newell, IA",0,1,0,0,0,1,1,0,0,1,2006
+30912,"Johnston, IA","Oakland, IA",0,1,0,0,0,1,0,1,0,1,2006
+30913,"Johnston, IA","Ocheyedan, IA",1,0,0,0,1,0,1,0,0,1,2006
+30916,"Johnston, IA","Onawa, IA",0,1,0,0,0,1,0,0,1,1,2006
+30925,"Johnston, IA","Owasa, IA",0,1,0,0,1,0,0,1,0,1,2006
+30927,"Johnston, IA","Oyens, IA",0,1,0,0,1,0,1,0,0,1,2006
+30859,"Johnston, IA","Low Moor, IA",1,0,0,0,0,1,1,0,0,1,2006
+30857,"Johnston, IA","Lone Tree, IA",1,0,0,0,1,0,1,0,0,1,2006
+30799,"Johnston, IA","Harcourt, IA",0,1,0,0,0,1,0,1,0,1,2006
+30856,"Johnston, IA","Logan, IA",1,0,0,0,1,0,1,0,0,1,2006
+30800,"Johnston, IA","Harlan, IA",0,1,0,1,0,0,0,0,1,1,2006
+30801,"Johnston, IA","Harris, IA",0,1,0,1,0,0,0,0,1,1,2006
+30803,"Johnston, IA","Harvey, IA",0,1,0,0,0,1,0,0,1,1,2006
+30804,"Johnston, IA","Hastings, IA",1,0,0,0,0,1,1,0,0,1,2006
+30805,"Johnston, IA","Havelock, IA",0,1,0,0,1,0,1,0,0,1,2006
+30806,"Johnston, IA","Haverhill, IA",0,1,0,0,1,0,1,0,0,1,2006
+30807,"Johnston, IA","Hawkeye, IA",0,1,0,1,0,0,1,0,0,1,2006
+30808,"Johnston, IA","Hazleton, IA",0,1,0,1,0,0,1,0,0,1,2006
+30812,"Johnston, IA","Hubbard, IA",1,0,0,0,1,0,1,0,0,1,2006
+30815,"Johnston, IA","Independence, IA",1,0,0,0,1,0,1,0,0,1,2006
+30822,"Johnston, IA","Jesup, IA",1,0,0,0,0,1,1,0,0,1,2006
+30826,"Johnston, IA","Kensett, IA",0,0,1,0,0,1,1,0,0,1,2006
+30828,"Johnston, IA","Kingsley, IA",1,0,0,0,1,0,1,0,0,1,2006
+30829,"Johnston, IA","Kirkville, IA",1,0,0,0,1,0,1,0,0,1,2006
+30830,"Johnston, IA","Klemme, IA",0,1,0,0,0,1,0,0,1,1,2006
+30831,"Johnston, IA","Knierim, IA",1,0,0,0,1,0,1,0,0,1,2006
+30833,"Johnston, IA","La Porte City, IA",0,0,1,0,0,1,0,0,1,1,2006
+30835,"Johnston, IA","Ladora, IA",0,1,0,0,0,1,0,0,1,1,2006
+30838,"Johnston, IA","Lake View, IA",1,0,0,0,0,1,1,0,0,1,2006
+30842,"Johnston, IA","Larrabee, IA",1,0,0,0,1,0,1,0,0,1,2006
+30843,"Johnston, IA","Le Claire, IA",0,1,0,0,0,1,0,1,0,1,2006
+30847,"Johnston, IA","Ledyard, IA",1,0,0,0,0,1,0,1,0,1,2006
+30849,"Johnston, IA","Lewis, IA",0,0,1,0,1,0,0,0,1,1,2006
+30852,"Johnston, IA","Lineville, IA",0,0,1,1,0,0,0,0,1,1,2006
+30855,"Johnston, IA","Little Sioux, IA",1,0,0,1,0,0,0,0,1,1,2006
+31051,"Johnston, IA","Zwingle, IA",1,0,0,0,1,0,1,0,0,1,2006

@@ -1,0 +1,85 @@
+,home city,work city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+38839,"Murray, IA","Osceola, IA",34,87,24,59,65,21,41,82,22,145,2005
+38801,"Murray, IA","Des Moines, IA",10,53,5,18,37,13,15,29,24,68,2005
+38831,"Murray, IA","Murray, IA",19,27,13,0,50,9,32,22,5,59,2005
+38803,"Murray, IA","East Peru, IA",9,25,9,19,16,8,20,20,3,43,2005
+38797,"Murray, IA","Creston, IA",8,18,5,14,17,0,10,19,2,31,2005
+38794,"Murray, IA","Clive, IA",12,11,2,1,19,5,6,11,8,25,2005
+38855,"Murray, IA","Urbandale, IA",6,5,4,2,10,3,3,8,4,15,2005
+38782,"Murray, IA","Ames, IA",4,5,2,1,8,2,5,4,2,11,2005
+38859,"Murray, IA","Windsor Heights, IA",5,1,4,2,5,3,5,3,2,10,2005
+38778,"Murray, IA","Afton, IA",4,5,1,2,7,1,5,5,0,10,2005
+38783,"Murray, IA","Ankeny, IA",3,5,1,0,5,4,5,2,2,9,2005
+38857,"Murray, IA","West Burlington, IA",3,4,0,1,5,1,4,3,0,7,2005
+38811,"Murray, IA","Greenfield, IA",5,1,0,4,2,0,4,2,0,6,2005
+38824,"Murray, IA","Leon, IA",1,5,0,0,5,1,2,2,2,6,2005
+38787,"Murray, IA","Burlington, IA",4,2,0,0,6,0,5,0,1,6,2005
+38818,"Murray, IA","Johnston, IA",1,4,1,1,4,1,0,3,3,6,2005
+38837,"Murray, IA","Norwalk, IA",3,3,0,3,2,1,0,5,1,6,2005
+38830,"Murray, IA","Mount Ayr, IA",1,3,1,4,1,0,0,5,0,5,2005
+38860,"Murray, IA","Winterset, IA",1,2,1,2,1,1,2,1,1,4,2005
+38791,"Murray, IA","Clarinda, IA",0,3,1,1,1,2,2,1,1,4,2005
+38790,"Murray, IA","Chariton, IA",0,4,0,0,3,1,0,2,2,4,2005
+38788,"Murray, IA","Carlisle, IA",0,1,3,0,3,1,0,3,1,4,2005
+38858,"Murray, IA","West Des Moines, IA",3,1,0,2,1,1,1,2,1,4,2005
+38812,"Murray, IA","Grimes, IA",0,2,1,2,1,0,0,3,0,3,2005
+38822,"Murray, IA","Le Roy, IA",1,0,2,1,0,2,1,2,0,3,2005
+38841,"Murray, IA","Patterson, IA",0,3,0,1,2,0,1,2,0,3,2005
+38843,"Murray, IA","Pleasant Hill, IA",0,2,1,0,2,1,0,2,1,3,2005
+38821,"Murray, IA","Lamoni, IA",0,3,0,0,3,0,2,1,0,3,2005
+38827,"Murray, IA","Macedonia, IA",1,1,1,2,0,1,1,0,2,3,2005
+38823,"Murray, IA","Lenox, IA",0,3,0,3,0,0,0,2,1,3,2005
+38798,"Murray, IA","Cumberland, IA",1,2,0,0,2,1,1,1,1,3,2005
+38815,"Murray, IA","Indianola, IA",0,2,1,0,3,0,0,1,2,3,2005
+38853,"Murray, IA","Toledo, IA",1,2,0,0,3,0,0,2,1,3,2005
+38828,"Murray, IA","Marshalltown, IA",2,1,0,1,1,1,1,2,0,3,2005
+38829,"Murray, IA","Montezuma, IA",1,0,2,1,2,0,1,1,1,3,2005
+38840,"Murray, IA","Ottumwa, IA",2,0,0,0,1,1,0,2,0,2,2005
+38817,"Murray, IA","Jefferson, IA",1,1,0,0,0,2,2,0,0,2,2005
+38816,"Murray, IA","Iowa City, IA",1,0,1,0,2,0,1,1,0,2,2005
+38806,"Murray, IA","Ferguson, IA",1,1,0,0,1,1,1,0,1,2,2005
+38800,"Murray, IA","De Soto, IA",0,2,0,0,2,0,0,2,0,2,2005
+38781,"Murray, IA","Altoona, IA",1,1,0,0,1,1,1,0,1,2,2005
+38784,"Murray, IA","Atlantic, IA",1,1,0,0,1,1,1,1,0,2,2005
+38785,"Murray, IA","Bedford, IA",0,2,0,0,2,0,0,1,1,2,2005
+38856,"Murray, IA","Waukee, IA",1,1,0,2,0,0,0,0,2,2,2005
+38850,"Murray, IA","Slater, IA",0,2,0,0,2,0,0,2,0,2,2005
+38851,"Murray, IA","Spring Hill, IA",1,0,0,1,0,0,0,1,0,1,2005
+38838,"Murray, IA","Oelwein, IA",0,1,0,0,1,0,0,1,0,1,2005
+38854,"Murray, IA","University Park, IA",1,0,0,0,0,1,1,0,0,1,2005
+38852,"Murray, IA","Tama, IA",0,0,1,1,0,0,0,0,1,1,2005
+38842,"Murray, IA","Perry, IA",0,1,0,0,1,0,0,1,0,1,2005
+38844,"Murray, IA","Red Oak, IA",0,1,0,0,1,0,1,0,0,1,2005
+38849,"Murray, IA","Shenandoah, IA",1,0,0,0,1,0,0,1,0,1,2005
+38848,"Murray, IA","Shannon City, IA",1,0,0,1,0,0,1,0,0,1,2005
+38835,"Murray, IA","Nora Springs, IA",0,1,0,0,1,0,1,0,0,1,2005
+38847,"Murray, IA","Salem, IA",1,0,0,0,0,1,0,0,1,1,2005
+38846,"Murray, IA","Runnells, IA",0,1,0,1,0,0,0,1,0,1,2005
+38845,"Murray, IA","Redding, IA",1,0,0,1,0,0,1,0,0,1,2005
+38836,"Murray, IA","North Liberty, IA",0,1,0,0,1,0,0,0,1,1,2005
+38777,"Murray, IA","Adel, IA",0,1,0,0,1,0,0,1,0,1,2005
+38834,"Murray, IA","Nodaway, IA",0,0,1,0,1,0,0,1,0,1,2005
+38804,"Murray, IA","Eldridge, IA",1,0,0,1,0,0,0,0,1,1,2005
+38779,"Murray, IA","Albia, IA",0,1,0,0,0,1,0,1,0,1,2005
+38780,"Murray, IA","Alden, IA",0,0,1,1,0,0,0,0,1,1,2005
+38786,"Murray, IA","Bettendorf, IA",0,1,0,0,1,0,1,0,0,1,2005
+38789,"Murray, IA","Cedar Rapids, IA",1,0,0,0,0,1,1,0,0,1,2005
+38792,"Murray, IA","Clearfield, IA",0,1,0,1,0,0,0,1,0,1,2005
+38793,"Murray, IA","Clio, IA",0,1,0,0,0,1,0,1,0,1,2005
+38795,"Murray, IA","Coralville, IA",1,0,0,0,1,0,0,1,0,1,2005
+38796,"Murray, IA","Corydon, IA",1,0,0,0,1,0,0,1,0,1,2005
+38799,"Murray, IA","Dakota City, IA",0,1,0,0,0,1,0,0,1,1,2005
+38802,"Murray, IA","Diagonal, IA",0,1,0,1,0,0,0,1,0,1,2005
+38805,"Murray, IA","Essex, IA",0,0,1,0,1,0,0,1,0,1,2005
+38833,"Murray, IA","Nevada, IA",1,0,0,0,1,0,1,0,0,1,2005
+38807,"Murray, IA","Fort Dodge, IA",1,0,0,0,0,1,1,0,0,1,2005
+38808,"Murray, IA","Gilman, IA",0,0,1,0,1,0,0,1,0,1,2005
+38809,"Murray, IA","Glenwood, IA",1,0,0,0,1,0,1,0,0,1,2005
+38810,"Murray, IA","Grant, IA",0,0,1,0,1,0,1,0,0,1,2005
+38813,"Murray, IA","Guernsey, IA",0,0,1,1,0,0,1,0,0,1,2005
+38814,"Murray, IA","Hiawatha, IA",1,0,0,0,1,0,0,0,1,1,2005
+38820,"Murray, IA","Knoxville, IA",0,0,1,0,1,0,1,0,0,1,2005
+38825,"Murray, IA","Long Grove, IA",1,0,0,1,0,0,0,1,0,1,2005
+38826,"Murray, IA","Lorimor, IA",0,1,0,1,0,0,0,1,0,1,2005
+38832,"Murray, IA","Muscatine, IA",0,1,0,0,1,0,1,0,0,1,2005
+38819,"Murray, IA","Keokuk, IA",0,1,0,0,1,0,0,1,0,1,2005

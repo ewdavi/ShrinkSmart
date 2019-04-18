@@ -1,0 +1,181 @@
+,home city,work city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+59718,"West Des Moines, IA","Des Moines, IA",1045,2887,1019,338,4083,530,895,1600,2456,4951,2005
+59703,"West Des Moines, IA","Clive, IA",652,1187,341,30,1811,339,722,694,764,2180,2005
+59836,"West Des Moines, IA","West Des Moines, IA",355,717,277,236,789,324,401,498,450,1349,2005
+59829,"West Des Moines, IA","Urbandale, IA",269,524,139,80,605,247,259,335,338,932,2005
+59840,"West Des Moines, IA","Windsor Heights, IA",251,362,143,35,541,180,326,288,142,756,2005
+59671,"West Des Moines, IA","Ankeny, IA",134,204,60,76,185,137,129,143,126,398,2005
+59834,"West Des Moines, IA","Waukee, IA",103,203,46,50,223,79,85,110,157,352,2005
+59752,"West Des Moines, IA","Johnston, IA",82,182,55,23,164,132,69,97,153,319,2005
+59781,"West Des Moines, IA","Norwalk, IA",64,107,28,12,159,28,69,75,55,199,2005
+59792,"West Des Moines, IA","Pleasant Hill, IA",59,112,23,30,104,60,67,72,55,194,2005
+59670,"West Des Moines, IA","Ames, IA",82,78,14,26,102,46,61,66,47,174,2005
+59669,"West Des Moines, IA","Altoona, IA",27,51,12,13,60,17,22,41,27,90,2005
+59694,"West Des Moines, IA","Cedar Rapids, IA",32,46,5,20,39,24,21,30,32,83,2005
+59739,"West Des Moines, IA","Grimes, IA",21,41,14,21,25,30,17,29,30,76,2005
+59714,"West Des Moines, IA","Davenport, IA",31,27,5,5,30,28,28,25,10,63,2005
+59748,"West Des Moines, IA","Indianola, IA",12,31,7,5,36,9,15,21,14,50,2005
+59708,"West Des Moines, IA","Council Bluffs, IA",17,21,6,4,15,25,16,16,12,44,2005
+59749,"West Des Moines, IA","Iowa City, IA",16,21,4,2,27,12,17,18,6,41,2005
+59745,"West Des Moines, IA","Hiawatha, IA",19,18,3,2,23,15,14,14,12,40,2005
+59816,"West Des Moines, IA","Sioux City, IA",14,17,6,3,15,19,19,8,10,37,2005
+59786,"West Des Moines, IA","Ottumwa, IA",9,22,3,10,12,12,13,8,13,34,2005
+59772,"West Des Moines, IA","Mitchellville, IA",17,14,3,5,29,0,9,15,10,34,2005
+59770,"West Des Moines, IA","Marshalltown, IA",9,16,8,2,13,18,17,7,9,33,2005
+59688,"West Des Moines, IA","Carlisle, IA",10,12,11,13,14,6,6,15,12,33,2005
+59729,"West Des Moines, IA","Fort Dodge, IA",14,14,3,2,11,18,12,13,6,31,2005
+59779,"West Des Moines, IA","Newton, IA",6,18,5,13,8,8,4,9,16,29,2005
+59706,"West Des Moines, IA","Coralville, IA",16,11,2,0,16,13,18,6,5,29,2005
+59794,"West Des Moines, IA","Polk City, IA",5,14,5,2,19,3,3,10,11,24,2005
+59790,"West Des Moines, IA","Pella, IA",6,12,1,4,9,6,2,7,10,19,2005
+59668,"West Des Moines, IA","Allison, IA",1,13,3,0,17,0,0,10,7,17,2005
+59740,"West Des Moines, IA","Grinnell, IA",4,10,3,6,9,2,4,9,4,17,2005
+59680,"West Des Moines, IA","Bettendorf, IA",5,7,4,0,10,6,4,7,5,16,2005
+59775,"West Des Moines, IA","Mount Pleasant, IA",7,7,2,0,9,7,5,5,6,16,2005
+59827,"West Des Moines, IA","University Heights, IA",3,7,3,0,9,4,5,0,8,13,2005
+59697,"West Des Moines, IA","Chariton, IA",6,6,1,0,1,12,6,6,1,13,2005
+59683,"West Des Moines, IA","Boone, IA",11,1,0,0,6,6,6,5,1,12,2005
+59726,"West Des Moines, IA","Fairfax, IA",4,6,1,0,2,9,3,5,3,11,2005
+59804,"West Des Moines, IA","Robins, IA",4,5,2,1,8,2,6,3,2,11,2005
+59811,"West Des Moines, IA","Sergeant Bluff, IA",6,4,1,1,2,8,5,5,1,11,2005
+59722,"West Des Moines, IA","Dubuque, IA",3,5,2,1,5,4,6,0,4,10,2005
+59665,"West Des Moines, IA","Adel, IA",1,6,3,4,6,0,2,7,1,10,2005
+59799,"West Des Moines, IA","Red Oak, IA",2,8,0,0,8,2,0,9,1,10,2005
+59710,"West Des Moines, IA","Creston, IA",2,6,2,1,5,4,3,4,3,10,2005
+59737,"West Des Moines, IA","Granger, IA",1,7,0,2,1,5,0,4,4,8,2005
+59815,"West Des Moines, IA","Sioux Center, IA",5,2,1,2,2,4,3,3,2,8,2005
+59771,"West Des Moines, IA","Melcher-Dallas, IA",2,5,1,5,1,2,2,2,4,8,2005
+59758,"West Des Moines, IA","Knoxville, IA",3,1,4,1,3,4,3,2,3,8,2005
+59777,"West Des Moines, IA","Nevada, IA",2,6,0,1,6,1,3,5,0,8,2005
+59724,"West Des Moines, IA","Eldridge, IA",1,6,0,0,3,4,1,3,3,7,2005
+59807,"West Des Moines, IA","Runnells, IA",2,3,2,2,5,0,4,2,1,7,2005
+59825,"West Des Moines, IA","Tiffin, IA",2,4,1,0,2,5,2,2,3,7,2005
+59828,"West Des Moines, IA","University Park, IA",2,4,1,0,1,6,2,3,2,7,2005
+59716,"West Des Moines, IA","De Soto, IA",1,4,1,3,3,0,3,1,2,6,2005
+59747,"West Des Moines, IA","Huxley, IA",2,4,0,0,6,0,1,3,2,6,2005
+59761,"West Des Moines, IA","Le Mars, IA",2,4,0,0,0,6,3,0,3,6,2005
+59727,"West Des Moines, IA","Fairfield, IA",4,2,0,1,2,3,1,5,0,6,2005
+59784,"West Des Moines, IA","Osceola, IA",4,2,0,0,4,2,2,1,3,6,2005
+59830,"West Des Moines, IA","Van Meter, IA",3,2,1,1,4,1,1,4,1,6,2005
+59743,"West Des Moines, IA","Harlan, IA",2,3,0,0,3,2,3,0,2,5,2005
+59803,"West Des Moines, IA","Riverdale, IA",2,2,1,0,2,3,2,1,2,5,2005
+59750,"West Des Moines, IA","Iowa Falls, IA",1,4,0,3,1,1,2,0,3,5,2005
+59719,"West Des Moines, IA","Dexter, IA",1,2,2,4,1,0,0,0,5,5,2005
+59818,"West Des Moines, IA","Spring Hill, IA",1,4,0,3,1,1,0,3,2,5,2005
+59725,"West Des Moines, IA","Ely, IA",1,4,0,0,5,0,2,1,2,5,2005
+59785,"West Des Moines, IA","Oskaloosa, IA",2,1,2,1,2,2,3,1,1,5,2005
+59812,"West Des Moines, IA","Shenandoah, IA",2,1,1,1,2,1,0,2,2,4,2005
+59813,"West Des Moines, IA","Shueyville, IA",1,1,2,1,1,2,1,3,0,4,2005
+59795,"West Des Moines, IA","Prairie City, IA",0,3,1,0,1,3,3,0,1,4,2005
+59822,"West Des Moines, IA","Story City, IA",4,0,0,3,1,0,1,1,2,4,2005
+59713,"West Des Moines, IA","Dallas Center, IA",0,1,3,0,3,1,3,0,1,4,2005
+59823,"West Des Moines, IA","Swan, IA",2,1,1,2,2,0,0,4,0,4,2005
+59699,"West Des Moines, IA","Clarinda, IA",2,2,0,0,3,1,2,2,0,4,2005
+59681,"West Des Moines, IA","Blairstown, IA",1,3,0,4,0,0,0,0,4,4,2005
+59788,"West Des Moines, IA","Palo, IA",0,4,0,0,2,2,2,0,2,4,2005
+59789,"West Des Moines, IA","Patterson, IA",2,1,1,1,1,2,1,1,2,4,2005
+59791,"West Des Moines, IA","Perry, IA",4,0,0,0,0,4,4,0,0,4,2005
+59667,"West Des Moines, IA","Algona, IA",2,1,1,2,1,1,2,1,1,4,2005
+59841,"West Des Moines, IA","Winterset, IA",1,3,0,1,1,2,1,1,2,4,2005
+59760,"West Des Moines, IA","Lamoni, IA",1,2,0,0,2,1,2,1,0,3,2005
+59765,"West Des Moines, IA","Lynnville, IA",0,2,1,0,1,2,1,1,1,3,2005
+59767,"West Des Moines, IA","Madrid, IA",0,3,0,0,2,1,0,1,2,3,2005
+59800,"West Des Moines, IA","Redfield, IA",1,2,0,3,0,0,1,0,2,3,2005
+59776,"West Des Moines, IA","Muscatine, IA",2,0,1,0,1,2,2,1,0,3,2005
+59769,"West Des Moines, IA","Marengo, IA",1,2,0,2,1,0,0,3,0,3,2005
+59728,"West Des Moines, IA","Forest City, IA",2,1,0,0,1,2,2,1,0,3,2005
+59746,"West Des Moines, IA","Humboldt, IA",1,1,1,1,0,2,1,2,0,3,2005
+59723,"West Des Moines, IA","Eldora, IA",1,2,0,0,1,2,0,2,1,3,2005
+59839,"West Des Moines, IA","Williamsburg, IA",2,0,1,0,0,3,3,0,0,3,2005
+59682,"West Des Moines, IA","Bondurant, IA",0,2,1,1,1,1,1,2,0,3,2005
+59686,"West Des Moines, IA","Bussey, IA",0,2,1,3,0,0,0,3,0,3,2005
+59687,"West Des Moines, IA","Cambridge, IA",0,3,0,1,1,1,0,2,1,3,2005
+59704,"West Des Moines, IA","Colfax, IA",1,1,1,0,3,0,1,1,1,3,2005
+59698,"West Des Moines, IA","Charles City, IA",3,0,0,0,1,2,2,1,0,3,2005
+59808,"West Des Moines, IA","Sac City, IA",2,0,0,0,1,1,1,1,0,2,2005
+59754,"West Des Moines, IA","Kellogg, IA",0,2,0,2,0,0,0,1,1,2,2005
+59672,"West Des Moines, IA","Asbury, IA",1,0,1,0,0,2,1,1,0,2,2005
+59673,"West Des Moines, IA","Atlantic, IA",1,1,0,1,1,0,0,0,2,2,2005
+59736,"West Des Moines, IA","Grand Junction, IA",0,2,0,0,0,2,0,1,1,2,2005
+59787,"West Des Moines, IA","Oxford, IA",0,2,0,1,0,1,0,1,1,2,2005
+59734,"West Des Moines, IA","Glenwood, IA",0,2,0,0,1,1,1,1,0,2,2005
+59685,"West Des Moines, IA","Brooklyn, IA",1,1,0,1,1,0,0,0,2,2,2005
+59689,"West Des Moines, IA","Carroll, IA",2,0,0,2,0,0,0,0,2,2,2005
+59691,"West Des Moines, IA","Carter Lake, IA",1,1,0,0,0,2,1,1,0,2,2005
+59732,"West Des Moines, IA","Gilbert, IA",0,1,1,1,1,0,0,2,0,2,2005
+59693,"West Des Moines, IA","Castalia, IA",1,0,1,2,0,0,0,1,1,2,2005
+59773,"West Des Moines, IA","Montezuma, IA",1,1,0,0,0,2,0,2,0,2,2005
+59842,"West Des Moines, IA","Woodward, IA",0,1,1,0,2,0,2,0,0,2,2005
+59826,"West Des Moines, IA","Toledo, IA",0,0,2,1,1,0,0,1,1,2,2005
+59707,"West Des Moines, IA","Corydon, IA",2,0,0,0,0,2,2,0,0,2,2005
+59809,"West Des Moines, IA","Sageville, IA",1,1,0,2,0,0,0,0,2,2,2005
+59824,"West Des Moines, IA","Tennant, IA",2,0,0,0,1,1,1,1,0,2,2005
+59717,"West Des Moines, IA","Decorah, IA",1,0,1,0,0,2,0,1,1,2,2005
+59820,"West Des Moines, IA","St. Marys, IA",0,2,0,1,0,1,0,1,1,2,2005
+59821,"West Des Moines, IA","St. Paul, IA",0,1,0,0,0,1,0,0,1,1,2005
+59819,"West Des Moines, IA","St. Ansgar, IA",1,0,0,0,0,1,1,0,0,1,2005
+59806,"West Des Moines, IA","Rock Valley, IA",1,0,0,0,1,0,0,1,0,1,2005
+59838,"West Des Moines, IA","West Union, IA",0,0,1,0,0,1,0,1,0,1,2005
+59837,"West Des Moines, IA","West Liberty, IA",0,1,0,0,1,0,0,1,0,1,2005
+59835,"West Des Moines, IA","Webster City, IA",0,0,1,0,0,1,0,0,1,1,2005
+59805,"West Des Moines, IA","Rock Rapids, IA",0,1,0,0,1,0,1,0,0,1,2005
+59797,"West Des Moines, IA","Rathbun, IA",1,0,0,0,1,0,0,0,1,1,2005
+59796,"West Des Moines, IA","Randolph, IA",0,1,0,0,1,0,0,1,0,1,2005
+59814,"West Des Moines, IA","Sigourney, IA",0,1,0,0,1,0,0,0,1,1,2005
+59817,"West Des Moines, IA","Slater, IA",1,0,0,1,0,0,0,0,1,1,2005
+59798,"West Des Moines, IA","Reasnor, IA",0,1,0,0,1,0,0,0,1,1,2005
+59810,"West Des Moines, IA","Schaller, IA",0,1,0,0,0,1,0,1,0,1,2005
+59833,"West Des Moines, IA","Waucoma, IA",0,0,1,0,0,1,0,1,0,1,2005
+59802,"West Des Moines, IA","Rippey, IA",0,0,1,1,0,0,1,0,0,1,2005
+59801,"West Des Moines, IA","Renwick, IA",1,0,0,0,0,1,1,0,0,1,2005
+59831,"West Des Moines, IA","Walford, IA",0,1,0,0,1,0,0,1,0,1,2005
+59832,"West Des Moines, IA","Wall Lake, IA",0,1,0,1,0,0,0,0,1,1,2005
+59663,"West Des Moines, IA","Ackworth, IA",0,1,0,0,1,0,0,1,0,1,2005
+59793,"West Des Moines, IA","Pleasantville, IA",0,1,0,0,1,0,0,0,1,1,2005
+59783,"West Des Moines, IA","Onawa, IA",0,0,1,0,1,0,0,1,0,1,2005
+59720,"West Des Moines, IA","Dolliver, IA",0,1,0,0,1,0,0,1,0,1,2005
+59715,"West Des Moines, IA","Dawson, IA",0,1,0,0,0,1,0,0,1,1,2005
+59712,"West Des Moines, IA","Dakota City, IA",0,1,0,0,0,1,1,0,0,1,2005
+59711,"West Des Moines, IA","Crystal Lake, IA",1,0,0,0,0,1,0,1,0,1,2005
+59709,"West Des Moines, IA","Cresco, IA",1,0,0,0,1,0,1,0,0,1,2005
+59705,"West Des Moines, IA","Coon Rapids, IA",1,0,0,0,1,0,0,1,0,1,2005
+59702,"West Des Moines, IA","Clio, IA",0,1,0,0,1,0,0,0,1,1,2005
+59701,"West Des Moines, IA","Clearfield, IA",0,1,0,0,0,1,0,1,0,1,2005
+59700,"West Des Moines, IA","Clarion, IA",0,0,1,0,1,0,0,1,0,1,2005
+59696,"West Des Moines, IA","Centerville, IA",1,0,0,0,1,0,0,0,1,1,2005
+59695,"West Des Moines, IA","Center Point, IA",1,0,0,0,0,1,0,0,1,1,2005
+59692,"West Des Moines, IA","Casey, IA",0,0,1,0,1,0,0,0,1,1,2005
+59690,"West Des Moines, IA","Carson, IA",0,1,0,0,0,1,0,0,1,1,2005
+59684,"West Des Moines, IA","Britt, IA",0,1,0,0,0,1,0,1,0,1,2005
+59679,"West Des Moines, IA","Bertram, IA",0,1,0,0,1,0,0,1,0,1,2005
+59678,"West Des Moines, IA","Belmond, IA",1,0,0,0,0,1,1,0,0,1,2005
+59677,"West Des Moines, IA","Bellevue, IA",0,1,0,0,0,1,0,1,0,1,2005
+59676,"West Des Moines, IA","Bedford, IA",0,1,0,0,1,0,0,0,1,1,2005
+59675,"West Des Moines, IA","Bayard, IA",0,1,0,1,0,0,0,0,1,1,2005
+59674,"West Des Moines, IA","Baxter, IA",0,1,0,0,1,0,1,0,0,1,2005
+59666,"West Des Moines, IA","Albia, IA",0,1,0,0,1,0,0,1,0,1,2005
+59721,"West Des Moines, IA","Donnellson, IA",0,1,0,1,0,0,0,0,1,1,2005
+59730,"West Des Moines, IA","Fort Madison, IA",0,1,0,1,0,0,0,0,1,1,2005
+59731,"West Des Moines, IA","Fremont, IA",1,0,0,1,0,0,0,0,1,1,2005
+59759,"West Des Moines, IA","Lambs Grove, IA",1,0,0,0,1,0,1,0,0,1,2005
+59782,"West Des Moines, IA","Oelwein, IA",0,0,1,0,0,1,0,0,1,1,2005
+59780,"West Des Moines, IA","North Liberty, IA",1,0,0,0,1,0,1,0,0,1,2005
+59778,"West Des Moines, IA","New Sharon, IA",1,0,0,0,1,0,0,1,0,1,2005
+59774,"West Des Moines, IA","Morrison, IA",0,1,0,1,0,0,0,0,1,1,2005
+59768,"West Des Moines, IA","Maquoketa, IA",0,1,0,0,0,1,0,1,0,1,2005
+59766,"West Des Moines, IA","Macedonia, IA",0,1,0,0,1,0,0,0,1,1,2005
+59764,"West Des Moines, IA","Lisbon, IA",1,0,0,0,1,0,0,1,0,1,2005
+59763,"West Des Moines, IA","Lewis, IA",0,1,0,0,1,0,0,1,0,1,2005
+59762,"West Des Moines, IA","Lenox, IA",0,1,0,0,1,0,1,0,0,1,2005
+59757,"West Des Moines, IA","Kirkville, IA",1,0,0,0,1,0,1,0,0,1,2005
+59733,"West Des Moines, IA","Gilman, IA",0,0,1,0,0,1,0,1,0,1,2005
+59756,"West Des Moines, IA","Kirkman, IA",0,1,0,0,1,0,0,0,1,1,2005
+59755,"West Des Moines, IA","Keokuk, IA",1,0,0,0,0,1,1,0,0,1,2005
+59664,"West Des Moines, IA","Adair, IA",1,0,0,0,0,1,0,0,1,1,2005
+59751,"West Des Moines, IA","Jefferson, IA",0,1,0,0,1,0,1,0,0,1,2005
+59744,"West Des Moines, IA","Havelock, IA",0,1,0,0,0,1,1,0,0,1,2005
+59742,"West Des Moines, IA","Hampton, IA",0,1,0,0,1,0,0,1,0,1,2005
+59741,"West Des Moines, IA","Grundy Center, IA",1,0,0,0,1,0,0,0,1,1,2005
+59738,"West Des Moines, IA","Greenfield, IA",1,0,0,0,0,1,0,0,1,1,2005
+59735,"West Des Moines, IA","Goldfield, IA",0,0,1,0,0,1,1,0,0,1,2005
+59753,"West Des Moines, IA","Joice, IA",0,1,0,1,0,0,0,0,1,1,2005

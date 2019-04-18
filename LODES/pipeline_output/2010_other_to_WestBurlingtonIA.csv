@@ -1,0 +1,359 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+77121,"West Burlington, IA","Burlington, IA",667,1384,542,369,1616,608,805,1072,716,2593,2010
+77419,"West Burlington, IA","West Burlington, IA",156,435,184,92,521,162,220,298,257,775,2010
+77201,"West Burlington, IA","Fort Madison, IA",55,144,48,22,165,60,61,111,75,247,2010
+77288,"West Burlington, IA","Middletown, IA",48,142,38,32,143,53,59,81,88,228,2010
+77306,"West Burlington, IA","New London, IA",42,115,45,31,125,46,48,80,74,202,2010
+77299,"West Burlington, IA","Mount Pleasant, IA",36,74,28,16,83,39,44,63,31,138,2010
+77161,"West Burlington, IA","Danville, IA",24,71,37,25,64,43,29,49,54,132,2010
+77286,"West Burlington, IA","Mediapolis, IA",23,71,27,21,73,27,28,52,41,121,2010
+77302,"West Burlington, IA","Muscatine, IA",38,45,17,3,30,67,51,38,11,100,2010
+77382,"West Burlington, IA","St. Paul, IA",20,55,21,17,61,18,16,36,44,96,2010
+77250,"West Burlington, IA","Keokuk, IA",16,61,12,2,58,29,36,26,27,89,2010
+77300,"West Burlington, IA","Mount Union, IA",28,44,14,14,51,21,21,34,31,86,2010
+77134,"West Burlington, IA","Cedar Rapids, IA",37,31,9,1,14,62,40,27,10,77,2010
+77409,"West Burlington, IA","Wapello, IA",13,39,20,9,47,16,18,24,30,72,2010
+77172,"West Burlington, IA","Donnellson, IA",23,26,17,5,46,15,11,41,14,66,2010
+77162,"West Burlington, IA","Davenport, IA",23,32,10,9,15,41,24,26,15,65,2010
+77422,"West Burlington, IA","West Point, IA",6,37,13,2,44,10,9,25,22,56,2010
+77169,"West Burlington, IA","Des Moines, IA",19,25,7,3,6,42,28,12,11,51,2010
+77240,"West Burlington, IA","Iowa City, IA",18,21,3,2,13,27,16,19,7,42,2010
+77108,"West Burlington, IA","Bettendorf, IA",12,19,4,4,5,26,8,15,12,35,2010
+77229,"West Burlington, IA","Hiawatha, IA",14,15,0,2,7,20,12,11,6,29,2010
+77173,"West Burlington, IA","Dubuque, IA",12,8,6,1,3,22,17,4,5,26,2010
+77089,"West Burlington, IA","Ames, IA",9,11,5,1,7,17,11,8,6,25,2010
+77202,"West Burlington, IA","Franklin, IA",7,13,4,2,19,3,7,5,12,24,2010
+77324,"West Burlington, IA","Ottumwa, IA",9,10,3,2,4,16,9,10,3,22,2010
+77234,"West Burlington, IA","Houghton, IA",8,12,1,3,10,8,6,7,8,21,2010
+77292,"West Burlington, IA","Montrose, IA",2,8,11,0,17,4,5,7,9,21,2010
+77295,"West Burlington, IA","Morning Sun, IA",3,13,4,3,13,4,1,10,9,20,2010
+77397,"West Burlington, IA","University Heights, IA",7,12,1,0,5,15,4,12,4,20,2010
+77364,"West Burlington, IA","Salem, IA",6,10,3,2,11,6,1,12,6,19,2010
+77133,"West Burlington, IA","Cedar Falls, IA",8,9,1,0,5,13,7,5,6,18,2010
+77315,"West Burlington, IA","Oakville, IA",4,10,4,4,7,7,5,6,7,18,2010
+77270,"West Burlington, IA","Lockridge, IA",4,10,3,2,8,7,2,9,6,17,2010
+77415,"West Burlington, IA","Wayland, IA",3,13,0,2,10,4,4,9,3,16,2010
+77093,"West Burlington, IA","Ankeny, IA",6,7,2,0,5,10,8,5,2,15,2010
+77353,"West Burlington, IA","Robins, IA",5,8,2,1,5,9,7,5,3,15,2010
+77142,"West Burlington, IA","Clinton, IA",7,7,0,0,4,10,9,4,1,14,2010
+77214,"West Burlington, IA","Grandview, IA",6,3,5,0,5,9,5,7,2,14,2010
+77338,"West Burlington, IA","Pleasant Hill, IA",7,4,3,1,4,9,6,3,5,14,2010
+77193,"West Burlington, IA","Fairfield, IA",5,4,4,1,5,7,9,3,1,13,2010
+77358,"West Burlington, IA","Rome, IA",2,7,4,4,8,1,5,1,7,13,2010
+77158,"West Burlington, IA","Creston, IA",3,6,3,0,4,8,4,4,4,12,2010
+77282,"West Burlington, IA","Marshalltown, IA",4,6,2,2,4,6,5,2,5,12,2010
+77155,"West Burlington, IA","Council Bluffs, IA",6,4,2,0,3,9,6,2,4,12,2010
+77430,"West Burlington, IA","Winfield, IA",3,6,3,2,4,6,3,9,0,12,2010
+77192,"West Burlington, IA","Fairfax, IA",3,5,2,0,1,9,4,5,1,10,2010
+77373,"West Burlington, IA","Sioux City, IA",2,8,0,0,3,7,2,5,3,10,2010
+77323,"West Burlington, IA","Oskaloosa, IA",5,3,2,1,6,3,5,4,1,10,2010
+77148,"West Burlington, IA","Columbus Junction, IA",4,4,2,0,7,3,4,5,1,10,2010
+77411,"West Burlington, IA","Waterloo, IA",4,4,2,0,1,9,5,3,2,10,2010
+77420,"West Burlington, IA","West Des Moines, IA",2,6,2,0,1,9,4,4,2,10,2010
+77400,"West Burlington, IA","Urbandale, IA",5,4,0,1,2,6,7,1,1,9,2010
+77278,"West Burlington, IA","Maquoketa, IA",1,4,2,1,1,5,3,3,1,7,2010
+77256,"West Burlington, IA","Knoxville, IA",2,4,1,0,1,6,4,2,1,7,2010
+77182,"West Burlington, IA","Eldridge, IA",1,2,4,1,3,3,1,4,2,7,2010
+77113,"West Burlington, IA","Bloomfield, IA",5,1,1,1,1,5,6,1,0,7,2010
+77398,"West Burlington, IA","University Park, IA",4,2,1,1,3,3,2,3,2,7,2010
+77088,"West Burlington, IA","Altoona, IA",6,1,0,1,2,4,3,3,1,7,2010
+77385,"West Burlington, IA","Storm Lake, IA",5,1,1,0,1,6,3,4,0,7,2010
+77429,"West Burlington, IA","Windsor Heights, IA",2,5,0,0,2,5,5,1,1,7,2010
+77309,"West Burlington, IA","Newton, IA",2,2,2,1,1,4,2,2,2,6,2010
+77260,"West Burlington, IA","Lamoni, IA",0,5,1,1,3,2,2,2,2,6,2010
+77310,"West Burlington, IA","Nichols, IA",4,2,0,2,2,2,0,5,1,6,2010
+77114,"West Burlington, IA","Blue Grass, IA",3,3,0,0,2,4,5,0,1,6,2010
+77144,"West Burlington, IA","Clive, IA",2,3,1,0,2,4,2,2,2,6,2010
+77152,"West Burlington, IA","Coralville, IA",2,2,2,0,3,3,3,2,1,6,2010
+77410,"West Burlington, IA","Washington, IA",1,5,0,0,2,4,0,6,0,6,2010
+77241,"West Burlington, IA","Iowa Falls, IA",2,3,1,0,3,3,5,0,1,6,2010
+77189,"West Burlington, IA","Evansdale, IA",3,2,1,0,2,4,4,2,0,6,2010
+77351,"West Burlington, IA","Riverdale, IA",3,1,2,0,0,6,4,1,1,6,2010
+77379,"West Burlington, IA","Springville, IA",2,4,0,0,1,5,0,5,1,6,2010
+77293,"West Burlington, IA","Moravia, IA",2,2,1,2,1,2,2,3,0,5,2010
+77329,"West Burlington, IA","Palo, IA",1,3,1,0,0,5,1,2,2,5,2010
+77330,"West Burlington, IA","Panorama Park, IA",1,3,1,0,1,4,4,1,0,5,2010
+77326,"West Burlington, IA","Oxford, IA",2,2,1,1,1,3,2,1,2,5,2010
+77187,"West Burlington, IA","Ely, IA",2,2,1,0,1,4,2,2,1,5,2010
+77266,"West Burlington, IA","Leon, IA",1,3,1,0,1,4,3,0,2,5,2010
+77200,"West Burlington, IA","Fort Dodge, IA",1,4,0,0,1,4,2,3,0,5,2010
+77412,"West Burlington, IA","Waukee, IA",2,3,0,0,0,5,2,2,1,5,2010
+77268,"West Burlington, IA","Lisbon, IA",0,3,2,0,1,4,3,2,0,5,2010
+77280,"West Burlington, IA","Marion, IA",1,1,3,1,0,4,3,0,2,5,2010
+77135,"West Burlington, IA","Center Point, IA",3,1,0,0,1,3,2,0,2,4,2010
+77279,"West Burlington, IA","Marengo, IA",1,3,0,0,0,4,2,1,1,4,2010
+77137,"West Burlington, IA","Chariton, IA",2,1,1,0,1,3,1,3,0,4,2010
+77238,"West Burlington, IA","Indianola, IA",1,2,1,0,0,4,0,3,1,4,2010
+77217,"West Burlington, IA","Gravity, IA",1,2,1,0,2,2,1,2,1,4,2010
+77313,"West Burlington, IA","North Liberty, IA",0,4,0,1,1,2,0,2,2,4,2010
+77102,"West Burlington, IA","Balltown, IA",2,2,0,0,1,3,1,2,1,4,2010
+77344,"West Burlington, IA","Protivin, IA",2,2,0,0,1,3,2,2,0,4,2010
+77080,"West Burlington, IA","Agency, IA",1,1,2,0,1,3,3,0,1,4,2010
+77376,"West Burlington, IA","Spencer, IA",2,2,0,0,0,4,1,3,0,4,2010
+77377,"West Burlington, IA","Spirit Lake, IA",2,2,0,0,3,1,2,2,0,4,2010
+77311,"West Burlington, IA","Nodaway, IA",3,0,1,0,3,1,4,0,0,4,2010
+77084,"West Burlington, IA","Albia, IA",2,2,0,0,2,2,2,2,0,4,2010
+77296,"West Burlington, IA","Moulton, IA",0,3,1,0,2,2,1,2,1,4,2010
+77314,"West Burlington, IA","Norwalk, IA",2,1,1,1,1,2,1,2,1,4,2010
+77247,"West Burlington, IA","Johnston, IA",3,1,0,0,0,4,2,1,1,4,2010
+77249,"West Burlington, IA","Kensett, IA",2,1,1,0,1,3,2,2,0,4,2010
+77166,"West Burlington, IA","Decorah, IA",2,2,0,0,1,3,1,2,1,4,2010
+77272,"West Burlington, IA","Long Grove, IA",1,1,2,0,3,1,2,1,1,4,2010
+77126,"West Burlington, IA","Carlisle, IA",1,2,1,0,2,2,0,2,2,4,2010
+77346,"West Burlington, IA","Red Oak, IA",1,2,1,0,0,4,1,2,1,4,2010
+77115,"West Burlington, IA","Bonaparte, IA",3,1,0,0,0,4,3,0,1,4,2010
+77096,"West Burlington, IA","Asbury, IA",4,0,0,0,1,3,2,2,0,4,2010
+77335,"West Burlington, IA","Perry, IA",1,3,0,0,1,3,0,3,1,4,2010
+77221,"West Burlington, IA","Grimes, IA",0,4,0,0,2,2,1,2,1,4,2010
+77383,"West Burlington, IA","Stanhope, IA",4,0,0,0,0,4,3,1,0,4,2010
+77262,"West Burlington, IA","Le Claire, IA",2,2,0,0,0,4,2,1,1,4,2010
+77333,"West Burlington, IA","Paullina, IA",2,0,1,0,0,3,2,1,0,3,2010
+77384,"West Burlington, IA","Stockton, IA",0,2,1,0,2,1,3,0,0,3,2010
+77321,"West Burlington, IA","Orient, IA",1,2,0,0,1,2,1,1,1,3,2010
+77340,"West Burlington, IA","Polk City, IA",2,1,0,0,0,3,3,0,0,3,2010
+77367,"West Burlington, IA","Seymour, IA",1,2,0,1,0,2,0,3,0,3,2010
+77246,"West Burlington, IA","Jewell Junction, IA",1,2,0,0,0,3,1,1,1,3,2010
+77325,"West Burlington, IA","Owasa, IA",1,0,2,1,1,1,2,0,1,3,2010
+77318,"West Burlington, IA","Ogden, IA",1,1,1,0,1,2,2,1,0,3,2010
+77258,"West Burlington, IA","Lacona, IA",0,1,2,0,1,2,1,1,1,3,2010
+77360,"West Burlington, IA","Russell, IA",2,1,0,0,2,1,2,0,1,3,2010
+77264,"West Burlington, IA","Le Mars, IA",2,1,0,0,0,3,1,2,0,3,2010
+77303,"West Burlington, IA","Nevada, IA",0,3,0,0,1,2,0,2,1,3,2010
+77291,"West Burlington, IA","Monticello, IA",0,3,0,0,1,2,1,2,0,3,2010
+77298,"West Burlington, IA","Mount Ayr, IA",1,1,1,1,0,2,1,1,1,3,2010
+77386,"West Burlington, IA","Story City, IA",1,2,0,0,0,3,1,1,1,3,2010
+77199,"West Burlington, IA","Forest City, IA",0,2,1,0,1,2,0,2,1,3,2010
+77165,"West Burlington, IA","De Witt, IA",1,1,1,0,2,1,2,0,1,3,2010
+77421,"West Burlington, IA","West Liberty, IA",0,2,1,1,1,1,0,2,1,3,2010
+77118,"West Burlington, IA","Brighton, IA",0,2,1,0,1,2,1,2,0,3,2010
+77111,"West Burlington, IA","Blakesburg, IA",1,1,1,0,2,1,2,1,0,3,2010
+77396,"West Burlington, IA","Unionville, IA",0,2,1,0,1,2,2,1,0,3,2010
+77106,"West Burlington, IA","Bennett, IA",1,2,0,1,0,2,1,1,1,3,2010
+77428,"West Burlington, IA","Wilton, IA",1,2,0,0,2,1,1,2,0,3,2010
+77170,"West Burlington, IA","Diagonal, IA",0,2,1,0,2,1,0,2,1,3,2010
+77418,"West Burlington, IA","West Branch, IA",0,1,2,0,1,2,1,1,1,3,2010
+77098,"West Burlington, IA","Atkins, IA",0,3,0,0,0,3,0,1,2,3,2010
+77167,"West Burlington, IA","Denison, IA",1,0,2,0,2,1,1,2,0,3,2010
+77099,"West Burlington, IA","Atlantic, IA",0,3,0,0,0,3,1,1,1,3,2010
+77431,"West Burlington, IA","Winterset, IA",1,2,0,0,0,3,1,1,1,3,2010
+77403,"West Burlington, IA","Vinton, IA",1,1,1,0,1,2,2,1,0,3,2010
+77160,"West Burlington, IA","Crystal Lake, IA",3,0,0,0,0,3,1,2,0,3,2010
+77147,"West Burlington, IA","Colfax, IA",0,2,0,0,1,1,0,1,1,2,2010
+77350,"West Burlington, IA","Ridgeway, IA",1,1,0,0,1,1,1,0,1,2,2010
+77149,"West Burlington, IA","Colwell, IA",0,2,0,0,1,1,1,1,0,2,2010
+77357,"West Burlington, IA","Roland, IA",0,1,1,0,1,1,0,2,0,2,2010
+77289,"West Burlington, IA","Milton, IA",1,1,0,1,0,1,1,0,1,2,2010
+77287,"West Burlington, IA","Merrill, IA",2,0,0,0,0,2,2,0,0,2,2010
+77129,"West Burlington, IA","Carter Lake, IA",1,0,1,0,0,2,1,1,0,2,2010
+77285,"West Burlington, IA","McIntire, IA",2,0,0,0,0,2,2,0,0,2,2010
+77283,"West Burlington, IA","Mason City, IA",1,1,0,0,1,1,2,0,0,2,2010
+77143,"West Burlington, IA","Clio, IA",2,0,0,0,1,1,1,1,0,2,2010
+77413,"West Burlington, IA","Waukon, IA",1,0,1,0,1,1,0,1,1,2,2010
+77356,"West Burlington, IA","Rockford, IA",1,0,1,0,0,2,1,1,0,2,2010
+77352,"West Burlington, IA","Riverside, IA",0,1,1,0,0,2,1,1,0,2,2010
+77355,"West Burlington, IA","Rock Valley, IA",2,0,0,0,1,1,0,2,0,2,2010
+77276,"West Burlington, IA","Manchester, IA",1,1,0,0,0,2,2,0,0,2,2010
+77136,"West Burlington, IA","Centerville, IA",0,2,0,0,1,1,1,1,0,2,2010
+77145,"West Burlington, IA","Clutier, IA",0,2,0,0,1,1,1,1,0,2,2010
+77140,"West Burlington, IA","Clarinda, IA",2,0,0,0,0,2,0,1,1,2,2010
+77417,"West Burlington, IA","Wellman, IA",1,1,0,0,0,2,1,1,0,2,2010
+77348,"West Burlington, IA","Reinbeck, IA",0,2,0,1,0,1,0,1,1,2,2010
+77122,"West Burlington, IA","Bussey, IA",2,0,0,0,1,1,0,1,1,2,2010
+77320,"West Burlington, IA","Orange City, IA",1,1,0,0,1,1,0,1,1,2,2010
+77334,"West Burlington, IA","Peosta, IA",1,0,1,0,1,1,1,0,1,2,2010
+77082,"West Burlington, IA","Akron, IA",1,1,0,0,0,2,2,0,0,2,2010
+77331,"West Burlington, IA","Parkersburg, IA",1,1,0,0,0,2,1,1,0,2,2010
+77086,"West Burlington, IA","Alden, IA",0,2,0,0,2,0,1,0,1,2,2010
+77327,"West Burlington, IA","Packwood, IA",1,1,0,0,2,0,0,1,1,2,2010
+77087,"West Burlington, IA","Algona, IA",1,1,0,0,0,2,0,2,0,2,2010
+77090,"West Burlington, IA","Anamosa, IA",0,2,0,0,1,1,0,2,0,2,2010
+77091,"West Burlington, IA","Andover, IA",1,1,0,0,0,2,1,0,1,2,2010
+77092,"West Burlington, IA","Anita, IA",0,0,2,1,0,1,1,0,1,2,2010
+77322,"West Burlington, IA","Osceola, IA",2,0,0,0,0,2,2,0,0,2,2010
+77095,"West Burlington, IA","Arnolds Park, IA",0,2,0,0,1,1,0,1,1,2,2010
+77349,"West Burlington, IA","Richland, IA",1,1,0,0,0,2,1,1,0,2,2010
+77343,"West Burlington, IA","Princeton, IA",1,1,0,0,1,1,1,1,0,2,2010
+77100,"West Burlington, IA","Aurelia, IA",0,1,1,0,0,2,0,1,1,2,2010
+77103,"West Burlington, IA","Bedford, IA",2,0,0,0,1,1,1,1,0,2,2010
+77105,"West Burlington, IA","Bellevue, IA",1,0,1,0,1,1,1,0,1,2,2010
+77345,"West Burlington, IA","Readlyn, IA",1,1,0,0,0,2,1,1,0,2,2010
+77307,"West Burlington, IA","New Sharon, IA",1,1,0,0,0,2,0,1,1,2,2010
+77107,"West Burlington, IA","Bertram, IA",2,0,0,0,0,2,1,0,1,2,2010
+77304,"West Burlington, IA","New Hampton, IA",1,1,0,0,0,2,0,1,1,2,2010
+77426,"West Burlington, IA","Willey, IA",2,0,0,0,1,1,1,1,0,2,2010
+77154,"West Burlington, IA","Corydon, IA",0,2,0,0,1,1,1,0,1,2,2010
+77267,"West Burlington, IA","Lincoln, IA",1,0,1,0,0,2,2,0,0,2,2010
+77269,"West Burlington, IA","Liscomb, IA",1,1,0,0,0,2,1,1,0,2,2010
+77257,"West Burlington, IA","La Porte City, IA",2,0,0,0,0,2,2,0,0,2,2010
+77174,"West Burlington, IA","Dyersville, IA",1,0,1,0,0,2,2,0,0,2,2010
+77392,"West Burlington, IA","Tipton, IA",0,2,0,0,0,2,0,1,1,2,2010
+77211,"West Burlington, IA","Glenwood, IA",2,0,0,0,0,2,0,2,0,2,2010
+77399,"West Burlington, IA","Urbana, IA",1,1,0,0,0,2,1,0,1,2,2010
+77196,"West Burlington, IA","Floris, IA",1,0,1,0,0,2,2,0,0,2,2010
+77370,"West Burlington, IA","Shell Rock, IA",1,0,1,0,0,2,2,0,0,2,2010
+77195,"West Burlington, IA","Farnhamville, IA",2,0,0,0,1,1,1,1,0,2,2010
+77178,"West Burlington, IA","Eddyville, IA",0,2,0,0,0,2,2,0,0,2,2010
+77194,"West Burlington, IA","Farmington, IA",1,0,1,1,0,1,0,2,0,2,2010
+77181,"West Burlington, IA","Eldon, IA",0,2,0,0,1,1,1,0,1,2,2010
+77231,"West Burlington, IA","Hillsboro, IA",0,0,2,1,1,0,1,0,1,2,2010
+77393,"West Burlington, IA","Toledo, IA",0,1,1,1,0,1,0,1,1,2,2010
+77405,"West Burlington, IA","Walford, IA",1,1,0,0,2,0,0,1,1,2,2010
+77216,"West Burlington, IA","Grant, IA",0,1,1,0,0,2,1,1,0,2,2010
+77183,"West Burlington, IA","Elk Run Heights, IA",1,1,0,0,0,2,1,0,1,2,2010
+77228,"West Burlington, IA","Hedrick, IA",0,1,1,0,1,1,0,1,1,2,2010
+77190,"West Burlington, IA","Exira, IA",0,1,1,0,1,1,0,2,0,2,2010
+77218,"West Burlington, IA","Greeley, IA",1,1,0,0,1,1,1,1,0,2,2010
+77378,"West Burlington, IA","Spring Hill, IA",1,1,0,0,0,2,1,0,1,2,2010
+77223,"West Burlington, IA","Hamburg, IA",1,0,1,0,0,2,1,1,0,2,2010
+77188,"West Burlington, IA","Estherville, IA",1,1,0,0,0,2,1,1,0,2,2010
+77209,"West Burlington, IA","Gilbert, IA",1,0,1,0,0,2,1,1,0,2,2010
+77242,"West Burlington, IA","Ireton, IA",1,1,0,0,0,2,1,0,1,2,2010
+77157,"West Burlington, IA","Cresco, IA",1,1,0,0,0,2,0,2,0,2,2010
+77259,"West Burlington, IA","Lake Mills, IA",1,1,0,0,2,0,2,0,0,2,2010
+77361,"West Burlington, IA","Sabula, IA",1,1,0,0,0,2,1,1,0,2,2010
+77163,"West Burlington, IA","Dayton, IA",1,0,1,0,1,1,1,1,0,2,2010
+77208,"West Burlington, IA","Gibson, IA",1,1,0,0,0,2,0,1,1,2,2010
+77255,"West Burlington, IA","Klemme, IA",1,0,1,0,0,2,2,0,0,2,2010
+77362,"West Burlington, IA","Sac City, IA",1,0,1,0,1,1,0,1,1,2,2010
+77251,"West Burlington, IA","Keosauqua, IA",2,0,0,0,0,2,2,0,0,2,2010
+77248,"West Burlington, IA","Kalona, IA",0,1,1,0,0,2,1,1,0,2,2010
+77168,"West Burlington, IA","Denver, IA",0,2,0,0,0,2,0,2,0,2,2010
+77337,"West Burlington, IA","Plano, IA",1,1,0,0,2,0,1,0,1,2,2010
+77404,"West Burlington, IA","Walcott, IA",1,1,0,0,2,0,1,1,0,2,2010
+77381,"West Burlington, IA","St. Olaf, IA",1,0,0,0,0,1,1,0,0,1,2010
+77339,"West Burlington, IA","Pleasantville, IA",0,1,0,0,0,1,0,1,0,1,2010
+77390,"West Burlington, IA","Swan, IA",0,1,0,0,0,1,0,0,1,1,2010
+77434,"West Burlington, IA","Wyoming, IA",1,0,0,0,1,0,1,0,0,1,2010
+77389,"West Burlington, IA","Sutherland, IA",1,0,0,0,0,1,1,0,0,1,2010
+77341,"West Burlington, IA","Prairieburg, IA",0,1,0,0,1,0,1,0,0,1,2010
+77342,"West Burlington, IA","Primghar, IA",0,1,0,0,0,1,0,1,0,1,2010
+77388,"West Burlington, IA","Superior, IA",1,0,0,0,1,0,1,0,0,1,2010
+77433,"West Burlington, IA","Worthington, IA",1,0,0,0,0,1,1,0,0,1,2010
+77432,"West Burlington, IA","Woolstock, IA",0,1,0,0,0,1,0,0,1,1,2010
+77387,"West Burlington, IA","Sully, IA",1,0,0,0,1,0,1,0,0,1,2010
+77380,"West Burlington, IA","St. Lucas, IA",0,1,0,0,0,1,1,0,0,1,2010
+77359,"West Burlington, IA","Royal, IA",1,0,0,0,0,1,0,0,1,1,2010
+77394,"West Burlington, IA","Traer, IA",0,1,0,0,0,1,0,0,1,1,2010
+77401,"West Burlington, IA","Van Horne, IA",0,1,0,0,0,1,0,1,0,1,2010
+77406,"West Burlington, IA","Walker, IA",1,0,0,0,0,1,1,0,0,1,2010
+77407,"West Burlington, IA","Wall Lake, IA",0,1,0,0,1,0,1,0,0,1,2010
+77408,"West Burlington, IA","Wallingford, IA",1,0,0,0,0,1,1,0,0,1,2010
+77391,"West Burlington, IA","Swisher, IA",0,0,1,0,0,1,0,1,0,1,2010
+77354,"West Burlington, IA","Rock Rapids, IA",1,0,0,0,1,0,1,0,0,1,2010
+77363,"West Burlington, IA","Sageville, IA",0,0,1,0,0,1,1,0,0,1,2010
+77365,"West Burlington, IA","Schaller, IA",0,1,0,0,1,0,1,0,0,1,2010
+77366,"West Burlington, IA","Schleswig, IA",1,0,0,0,1,0,1,0,0,1,2010
+77402,"West Burlington, IA","Victor, IA",1,0,0,0,1,0,0,0,1,1,2010
+77414,"West Burlington, IA","Waverly, IA",0,1,0,0,1,0,1,0,0,1,2010
+77416,"West Burlington, IA","Webster, IA",0,0,1,0,0,1,0,0,1,1,2010
+77395,"West Burlington, IA","Underwood, IA",1,0,0,0,0,1,1,0,0,1,2010
+77368,"West Burlington, IA","Shannon City, IA",0,1,0,0,0,1,0,0,1,1,2010
+77369,"West Burlington, IA","Sharpsburg, IA",0,1,0,0,0,1,0,0,1,1,2010
+77371,"West Burlington, IA","Sigourney, IA",0,0,1,0,0,1,0,0,1,1,2010
+77372,"West Burlington, IA","Sioux Center, IA",0,0,1,0,0,1,0,1,0,1,2010
+77423,"West Burlington, IA","West Union, IA",0,0,1,0,0,1,0,1,0,1,2010
+77424,"West Burlington, IA","Wheatland, IA",0,1,0,0,0,1,0,0,1,1,2010
+77347,"West Burlington, IA","Redding, IA",1,0,0,0,1,0,0,1,0,1,2010
+77374,"West Burlington, IA","Sloan, IA",1,0,0,0,0,1,0,0,1,1,2010
+77427,"West Burlington, IA","Williamsburg, IA",1,0,0,0,1,0,0,1,0,1,2010
+77375,"West Burlington, IA","South English, IA",0,1,0,0,0,1,1,0,0,1,2010
+77425,"West Burlington, IA","Whittemore, IA",0,1,0,1,0,0,0,0,1,1,2010
+77078,"West Burlington, IA","Ackworth, IA",0,0,1,0,0,1,0,1,0,1,2010
+77336,"West Burlington, IA","Pierson, IA",1,0,0,0,0,1,0,1,0,1,2010
+77139,"West Burlington, IA","Cincinnati, IA",0,1,0,0,0,1,0,1,0,1,2010
+77146,"West Burlington, IA","Coggon, IA",0,1,0,0,0,1,0,1,0,1,2010
+77150,"West Burlington, IA","Conesville, IA",1,0,0,0,0,1,1,0,0,1,2010
+77151,"West Burlington, IA","Coon Rapids, IA",1,0,0,0,0,1,1,0,0,1,2010
+77153,"West Burlington, IA","Corning, IA",1,0,0,0,0,1,0,0,1,1,2010
+77156,"West Burlington, IA","Crawfordsville, IA",0,1,0,0,1,0,0,1,0,1,2010
+77159,"West Burlington, IA","Cromwell, IA",0,0,1,0,0,1,1,0,0,1,2010
+77164,"West Burlington, IA","De Soto, IA",0,0,1,0,0,1,1,0,0,1,2010
+77171,"West Burlington, IA","Dixon, IA",1,0,0,0,1,0,1,0,0,1,2010
+77175,"West Burlington, IA","Dysart, IA",1,0,0,0,0,1,1,0,0,1,2010
+77176,"West Burlington, IA","Eagle Grove, IA",0,1,0,0,0,1,1,0,0,1,2010
+77177,"West Burlington, IA","East Peru, IA",0,1,0,0,1,0,1,0,0,1,2010
+77179,"West Burlington, IA","Edgewood, IA",1,0,0,0,0,1,1,0,0,1,2010
+77180,"West Burlington, IA","Elberon, IA",0,1,0,0,1,0,0,1,0,1,2010
+77184,"West Burlington, IA","Elkader, IA",1,0,0,0,1,0,1,0,0,1,2010
+77185,"West Burlington, IA","Elkport, IA",1,0,0,0,0,1,0,1,0,1,2010
+77186,"West Burlington, IA","Elliott, IA",1,0,0,0,0,1,0,1,0,1,2010
+77191,"West Burlington, IA","Exline, IA",0,1,0,0,0,1,0,1,0,1,2010
+77197,"West Burlington, IA","Floyd, IA",0,1,0,0,0,1,0,1,0,1,2010
+77198,"West Burlington, IA","Fonda, IA",0,1,0,0,0,1,0,0,1,1,2010
+77203,"West Burlington, IA","Frederika, IA",1,0,0,0,1,0,1,0,0,1,2010
+77204,"West Burlington, IA","Fremont, IA",0,1,0,0,0,1,0,0,1,1,2010
+77141,"West Burlington, IA","Clearfield, IA",1,0,0,0,1,0,1,0,0,1,2010
+77138,"West Burlington, IA","Charter Oak, IA",0,0,1,0,1,0,0,0,1,1,2010
+77332,"West Burlington, IA","Patterson, IA",0,1,0,0,0,1,1,0,0,1,2010
+77132,"West Burlington, IA","Castalia, IA",0,1,0,0,0,1,1,0,0,1,2010
+77081,"West Burlington, IA","Ainsworth, IA",1,0,0,0,1,0,0,1,0,1,2010
+77083,"West Burlington, IA","Albert City, IA",0,1,0,0,0,1,0,1,0,1,2010
+77085,"West Burlington, IA","Albion, IA",0,0,1,0,0,1,0,1,0,1,2010
+77094,"West Burlington, IA","Arlington, IA",0,0,1,0,0,1,0,1,0,1,2010
+77097,"West Burlington, IA","Ashton, IA",0,0,1,0,1,0,0,1,0,1,2010
+77101,"West Burlington, IA","Baldwin, IA",1,0,0,0,1,0,1,0,0,1,2010
+77104,"West Burlington, IA","Belle Plaine, IA",0,1,0,0,0,1,0,1,0,1,2010
+77109,"West Burlington, IA","Birmingham, IA",0,1,0,0,1,0,1,0,0,1,2010
+77110,"West Burlington, IA","Blairstown, IA",1,0,0,0,1,0,1,0,0,1,2010
+77112,"West Burlington, IA","Blanchard, IA",0,1,0,0,0,1,0,0,1,1,2010
+77116,"West Burlington, IA","Bondurant, IA",0,1,0,0,0,1,0,1,0,1,2010
+77117,"West Burlington, IA","Boone, IA",0,1,0,0,0,1,0,0,1,1,2010
+77119,"West Burlington, IA","Bristow, IA",1,0,0,0,0,1,0,1,0,1,2010
+77120,"West Burlington, IA","Brooklyn, IA",1,0,0,0,1,0,1,0,0,1,2010
+77123,"West Burlington, IA","Camanche, IA",0,1,0,0,0,1,0,1,0,1,2010
+77124,"West Burlington, IA","Cambridge, IA",0,1,0,0,0,1,0,0,1,1,2010
+77125,"West Burlington, IA","Cantril, IA",0,1,0,0,1,0,1,0,0,1,2010
+77127,"West Burlington, IA","Carroll, IA",0,1,0,0,0,1,0,1,0,1,2010
+77128,"West Burlington, IA","Carson, IA",1,0,0,0,0,1,0,1,0,1,2010
+77130,"West Burlington, IA","Cascade, IA",0,0,1,1,0,0,0,0,1,1,2010
+77131,"West Burlington, IA","Casey, IA",0,0,1,0,0,1,1,0,0,1,2010
+77205,"West Burlington, IA","Fruitland, IA",0,1,0,0,0,1,1,0,0,1,2010
+77206,"West Burlington, IA","Garner, IA",0,1,0,0,0,1,0,1,0,1,2010
+77207,"West Burlington, IA","Garwin, IA",0,1,0,0,0,1,0,0,1,1,2010
+77210,"West Burlington, IA","Gilbertville, IA",0,1,0,0,0,1,1,0,0,1,2010
+77261,"West Burlington, IA","Lawton, IA",1,0,0,0,1,0,1,0,0,1,2010
+77263,"West Burlington, IA","Le Grand, IA",0,1,0,0,1,0,0,1,0,1,2010
+77265,"West Burlington, IA","Le Roy, IA",1,0,0,0,1,0,1,0,0,1,2010
+77271,"West Burlington, IA","Lone Tree, IA",0,1,0,0,0,1,0,1,0,1,2010
+77273,"West Burlington, IA","Low Moor, IA",1,0,0,0,0,1,1,0,0,1,2010
+77274,"West Burlington, IA","Lowden, IA",1,0,0,0,0,1,1,0,0,1,2010
+77275,"West Burlington, IA","Luana, IA",1,0,0,0,0,1,1,0,0,1,2010
+77277,"West Burlington, IA","Manson, IA",1,0,0,0,0,1,1,0,0,1,2010
+77281,"West Burlington, IA","Marquette, IA",1,0,0,0,0,1,1,0,0,1,2010
+77284,"West Burlington, IA","Massena, IA",0,1,0,0,0,1,0,1,0,1,2010
+77290,"West Burlington, IA","Monroe, IA",1,0,0,0,0,1,1,0,0,1,2010
+77294,"West Burlington, IA","Morley, IA",0,0,1,0,0,1,1,0,0,1,2010
+77297,"West Burlington, IA","Mount Auburn, IA",0,1,0,0,0,1,1,0,0,1,2010
+77301,"West Burlington, IA","Mount Vernon, IA",1,0,0,0,0,1,1,0,0,1,2010
+77305,"West Burlington, IA","New Liberty, IA",0,0,1,0,0,1,0,1,0,1,2010
+77308,"West Burlington, IA","Newell, IA",0,0,1,0,0,1,0,1,0,1,2010
+77312,"West Burlington, IA","Nora Springs, IA",0,1,0,0,0,1,0,0,1,1,2010
+77316,"West Burlington, IA","Odebolt, IA",0,0,1,0,1,0,1,0,0,1,2010
+77317,"West Burlington, IA","Oelwein, IA",0,1,0,1,0,0,0,1,0,1,2010
+77319,"West Burlington, IA","Onawa, IA",0,1,0,0,0,1,0,0,1,1,2010
+77328,"West Burlington, IA","Palmer, IA",0,1,0,0,0,1,0,1,0,1,2010
+77079,"West Burlington, IA","Adair, IA",0,0,1,0,0,1,1,0,0,1,2010
+77254,"West Burlington, IA","Kirkville, IA",0,1,0,0,0,1,1,0,0,1,2010
+77253,"West Burlington, IA","Kingsley, IA",1,0,0,0,0,1,1,0,0,1,2010
+77227,"West Burlington, IA","Hazleton, IA",0,1,0,0,1,0,0,0,1,1,2010
+77212,"West Burlington, IA","Goldfield, IA",0,1,0,0,0,1,0,0,1,1,2010
+77213,"West Burlington, IA","Grand River, IA",1,0,0,0,0,1,0,1,0,1,2010
+77215,"West Burlington, IA","Granger, IA",0,1,0,0,0,1,1,0,0,1,2010
+77219,"West Burlington, IA","Greene, IA",1,0,0,0,0,1,0,1,0,1,2010
+77220,"West Burlington, IA","Greenfield, IA",0,1,0,0,0,1,1,0,0,1,2010
+77222,"West Burlington, IA","Grundy Center, IA",1,0,0,0,0,1,0,1,0,1,2010
+77224,"West Burlington, IA","Hancock, IA",0,1,0,0,0,1,1,0,0,1,2010
+77225,"West Burlington, IA","Harvey, IA",0,1,0,0,0,1,0,1,0,1,2010
+77226,"West Burlington, IA","Hawarden, IA",0,1,0,0,1,0,0,1,0,1,2010
+77230,"West Burlington, IA","Hills, IA",0,1,0,0,0,1,0,1,0,1,2010
+77252,"West Burlington, IA","Keystone, IA",1,0,0,0,1,0,1,0,0,1,2010
+77232,"West Burlington, IA","Hinton, IA",0,0,1,0,0,1,0,1,0,1,2010
+77233,"West Burlington, IA","Hopkinton, IA",1,0,0,0,0,1,1,0,0,1,2010
+77235,"West Burlington, IA","Hull, IA",1,0,0,0,0,1,1,0,0,1,2010
+77236,"West Burlington, IA","Ida Grove, IA",1,0,0,0,0,1,1,0,0,1,2010
+77237,"West Burlington, IA","Independence, IA",0,0,1,0,0,1,0,0,1,1,2010
+77239,"West Burlington, IA","Inwood, IA",0,1,0,0,1,0,0,0,1,1,2010
+77243,"West Burlington, IA","Irwin, IA",1,0,0,0,0,1,1,0,0,1,2010
+77244,"West Burlington, IA","Janesville, IA",0,1,0,0,0,1,0,0,1,1,2010
+77245,"West Burlington, IA","Jesup, IA",0,1,0,0,0,1,0,0,1,1,2010
+77435,"West Burlington, IA","Zwingle, IA",1,0,0,0,0,1,0,1,0,1,2010

@@ -1,0 +1,334 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+29554,"Grimes, IA","Des Moines, IA",114,286,85,160,145,180,111,204,170,485,2013
+29764,"Grimes, IA","Urbandale, IA",95,200,91,102,158,126,129,112,145,386,2013
+29527,"Grimes, IA","Clive, IA",52,122,60,54,86,94,45,54,135,234,2013
+29783,"Grimes, IA","Windsor Heights, IA",38,132,63,80,62,91,52,77,104,233,2013
+29474,"Grimes, IA","Ankeny, IA",54,127,43,78,58,88,33,53,138,224,2013
+29775,"Grimes, IA","Waukee, IA",41,121,41,58,73,72,51,58,94,203,2013
+29701,"Grimes, IA","Pleasant Hill, IA",37,103,30,68,44,58,30,68,72,170,2013
+29590,"Grimes, IA","Grimes, IA",40,90,22,36,62,54,44,37,71,152,2013
+29615,"Grimes, IA","Johnston, IA",37,83,28,49,53,46,40,41,67,148,2013
+29779,"Grimes, IA","West Des Moines, IA",31,63,29,30,42,51,21,40,62,123,2013
+29469,"Grimes, IA","Altoona, IA",15,54,11,44,17,19,23,15,42,80,2013
+29680,"Grimes, IA","Norwalk, IA",17,45,15,33,12,32,11,30,36,77,2013
+29705,"Grimes, IA","Polk City, IA",21,42,11,25,24,25,21,7,46,74,2013
+29586,"Grimes, IA","Granger, IA",17,36,6,17,22,20,18,18,23,59,2013
+29506,"Grimes, IA","Carlisle, IA",9,29,11,24,7,18,4,17,28,49,2013
+29470,"Grimes, IA","Ames, IA",12,19,10,14,12,15,10,10,21,41,2013
+29547,"Grimes, IA","De Soto, IA",8,29,3,15,9,16,5,13,22,40,2013
+29609,"Grimes, IA","Indianola, IA",7,29,3,16,4,19,5,12,22,39,2013
+29499,"Grimes, IA","Boone, IA",9,14,9,7,9,16,8,7,17,32,2013
+29699,"Grimes, IA","Perry, IA",7,20,4,16,4,11,18,8,5,31,2013
+29543,"Grimes, IA","Dallas Center, IA",6,17,7,11,8,11,8,7,15,30,2013
+29641,"Grimes, IA","Madrid, IA",5,21,3,13,10,6,5,10,14,29,2013
+29655,"Grimes, IA","Minburn, IA",5,17,7,13,8,8,9,7,13,29,2013
+29784,"Grimes, IA","Winterset, IA",8,15,3,10,3,13,7,7,12,26,2013
+29744,"Grimes, IA","Spring Hill, IA",0,18,6,13,3,8,2,4,18,24,2013
+29511,"Grimes, IA","Cedar Rapids, IA",3,14,6,6,8,9,7,7,9,23,2013
+29538,"Grimes, IA","Council Bluffs, IA",5,13,3,11,1,9,3,4,14,21,2013
+29561,"Grimes, IA","East Peru, IA",2,15,3,13,2,5,5,4,11,20,2013
+29555,"Grimes, IA","Dexter, IA",1,15,3,11,2,6,4,5,10,19,2013
+29678,"Grimes, IA","Newton, IA",5,9,5,6,5,8,1,9,9,19,2013
+29606,"Grimes, IA","Huxley, IA",4,6,8,7,2,9,2,2,14,18,2013
+29658,"Grimes, IA","Mitchellville, IA",2,8,7,11,1,5,3,7,7,17,2013
+29697,"Grimes, IA","Patterson, IA",4,9,4,6,1,10,4,3,10,17,2013
+29786,"Grimes, IA","Woodward, IA",3,10,4,5,4,8,2,4,11,17,2013
+29746,"Grimes, IA","St. Marys, IA",3,8,4,6,5,4,5,4,6,15,2013
+29647,"Grimes, IA","Marshalltown, IA",5,7,3,4,3,8,4,5,6,15,2013
+29541,"Grimes, IA","Creston, IA",1,9,4,1,0,13,6,4,4,14,2013
+29741,"Grimes, IA","Sioux City, IA",9,4,1,0,5,9,10,3,1,14,2013
+29603,"Grimes, IA","Hiawatha, IA",8,5,1,1,4,9,7,3,4,14,2013
+29498,"Grimes, IA","Bondurant, IA",4,9,0,8,0,5,4,5,4,13,2013
+29620,"Grimes, IA","Knoxville, IA",4,8,1,4,2,7,5,3,5,13,2013
+29648,"Grimes, IA","Mason City, IA",4,8,1,1,3,9,6,4,3,13,2013
+29460,"Grimes, IA","Adel, IA",4,6,2,2,2,8,3,5,4,12,2013
+29545,"Grimes, IA","Davenport, IA",4,6,2,0,6,6,6,1,5,12,2013
+29531,"Grimes, IA","Colfax, IA",3,7,1,4,2,5,2,1,8,11,2013
+29723,"Grimes, IA","Runnells, IA",4,5,2,6,2,3,5,1,5,11,2013
+29505,"Grimes, IA","Cambridge, IA",3,4,3,5,1,4,3,1,6,10,2013
+29510,"Grimes, IA","Cedar Falls, IA",6,3,1,1,2,7,5,3,2,10,2013
+29630,"Grimes, IA","Linden, IA",2,4,3,6,1,2,1,3,5,9,2013
+29612,"Grimes, IA","Jefferson, IA",3,3,3,3,3,3,4,2,3,9,2013
+29640,"Grimes, IA","Macksburg, IA",1,6,2,6,0,3,1,2,6,9,2013
+29574,"Grimes, IA","Fort Dodge, IA",3,4,1,2,1,5,1,3,4,8,2013
+29774,"Grimes, IA","Waterloo, IA",3,3,2,1,2,5,4,2,2,8,2013
+29756,"Grimes, IA","Swan, IA",3,5,0,4,0,4,3,2,3,8,2013
+29659,"Grimes, IA","Monroe, IA",1,6,1,4,0,4,2,0,6,8,2013
+29688,"Grimes, IA","Osceola, IA",3,1,3,3,1,3,1,2,4,7,2013
+29698,"Grimes, IA","Pella, IA",1,6,0,1,1,5,2,2,3,7,2013
+29690,"Grimes, IA","Ottumwa, IA",2,3,2,0,1,6,4,1,2,7,2013
+29621,"Grimes, IA","Lacona, IA",0,6,1,5,1,1,0,4,3,7,2013
+29488,"Grimes, IA","Bayard, IA",0,4,3,4,0,3,2,1,4,7,2013
+29708,"Grimes, IA","Prairie City, IA",0,5,2,3,0,4,1,2,4,7,2013
+29610,"Grimes, IA","Iowa City, IA",3,3,1,3,1,3,0,1,6,7,2013
+29611,"Grimes, IA","Iowa Falls, IA",2,4,1,1,1,5,2,3,2,7,2013
+29673,"Grimes, IA","Nevada, IA",3,4,0,2,2,3,1,4,2,7,2013
+29558,"Grimes, IA","Dubuque, IA",4,2,0,0,2,4,6,0,0,6,2013
+29509,"Grimes, IA","Casey, IA",1,2,3,2,3,1,1,1,4,6,2013
+29589,"Grimes, IA","Greenfield, IA",1,3,2,0,2,4,3,1,2,6,2013
+29591,"Grimes, IA","Grinnell, IA",2,3,1,5,1,0,2,3,1,6,2013
+29507,"Grimes, IA","Carroll, IA",0,6,0,1,0,5,3,1,2,6,2013
+29508,"Grimes, IA","Carter Lake, IA",2,3,1,4,2,0,1,1,4,6,2013
+29461,"Grimes, IA","Afton, IA",4,1,1,5,0,1,0,1,5,6,2013
+29458,"Grimes, IA","Ackworth, IA",0,6,0,3,2,1,1,0,5,6,2013
+29593,"Grimes, IA","Guthrie Center, IA",2,1,3,0,3,3,1,1,4,6,2013
+29766,"Grimes, IA","Van Meter, IA",1,5,0,3,2,1,3,3,0,6,2013
+29568,"Grimes, IA","Exira, IA",1,2,3,4,0,2,2,0,4,6,2013
+29652,"Grimes, IA","Melcher-Dallas, IA",0,4,2,5,0,1,2,1,3,6,2013
+29684,"Grimes, IA","Ogden, IA",4,1,0,2,1,2,2,0,3,5,2013
+29598,"Grimes, IA","Harvey, IA",2,3,0,1,0,4,4,1,0,5,2013
+29689,"Grimes, IA","Oskaloosa, IA",1,3,1,0,2,3,2,1,2,5,2013
+29623,"Grimes, IA","Lambs Grove, IA",0,4,1,2,1,2,0,2,3,5,2013
+29748,"Grimes, IA","Stanhope, IA",0,4,1,3,1,1,1,0,4,5,2013
+29731,"Grimes, IA","Sergeant Bluff, IA",3,1,1,1,1,3,2,1,2,5,2013
+29479,"Grimes, IA","Atlantic, IA",2,3,0,3,0,2,0,3,2,5,2013
+29494,"Grimes, IA","Bettendorf, IA",2,2,1,0,0,5,1,2,2,5,2013
+29495,"Grimes, IA","Blakesburg, IA",1,3,1,0,0,5,2,1,2,5,2013
+29751,"Grimes, IA","Storm Lake, IA",3,1,1,1,0,4,3,1,1,5,2013
+29669,"Grimes, IA","Mount Ayr, IA",1,0,3,1,1,2,1,2,1,4,2013
+29517,"Grimes, IA","Charles City, IA",3,0,1,0,1,3,1,1,2,4,2013
+29569,"Grimes, IA","Fairfax, IA",1,3,0,1,1,2,0,2,2,4,2013
+29570,"Grimes, IA","Fairfield, IA",2,2,0,2,0,2,0,2,2,4,2013
+29743,"Grimes, IA","Spencer, IA",3,1,0,1,1,2,2,1,1,4,2013
+29670,"Grimes, IA","Murray, IA",0,3,1,2,0,2,3,1,0,4,2013
+29537,"Grimes, IA","Corwith, IA",1,2,1,1,1,2,1,1,2,4,2013
+29662,"Grimes, IA","Montour, IA",1,3,0,2,0,2,1,2,1,4,2013
+29724,"Grimes, IA","Russell, IA",0,2,2,2,0,2,1,3,0,4,2013
+29759,"Grimes, IA","Toledo, IA",1,3,0,1,0,3,2,0,2,4,2013
+29483,"Grimes, IA","Bagley, IA",1,3,0,3,0,1,0,0,4,4,2013
+29462,"Grimes, IA","Agency, IA",1,2,1,0,0,4,2,0,2,4,2013
+29631,"Grimes, IA","Lineville, IA",0,1,3,0,1,3,0,2,2,4,2013
+29686,"Grimes, IA","Orient, IA",1,3,0,1,1,2,3,0,1,4,2013
+29629,"Grimes, IA","Le Roy, IA",1,0,3,1,0,3,0,1,3,4,2013
+29552,"Grimes, IA","Denison, IA",1,1,2,3,0,1,1,1,2,4,2013
+29719,"Grimes, IA","Robins, IA",0,4,0,2,0,2,0,0,4,4,2013
+29695,"Grimes, IA","Panora, IA",1,0,3,2,1,1,1,1,2,4,2013
+29714,"Grimes, IA","Redfield, IA",1,2,1,1,2,1,1,2,1,4,2013
+29632,"Grimes, IA","Liscomb, IA",1,1,1,0,0,3,2,0,1,3,2013
+29645,"Grimes, IA","Maquoketa, IA",0,3,0,0,0,3,0,3,0,3,2013
+29521,"Grimes, IA","Churdan, IA",0,3,0,3,0,0,0,0,3,3,2013
+29754,"Grimes, IA","Stuart, IA",0,1,2,0,0,3,1,1,1,3,2013
+29758,"Grimes, IA","Tiffin, IA",0,1,2,1,0,2,0,0,3,3,2013
+29651,"Grimes, IA","Melbourne, IA",2,1,0,2,1,0,1,1,1,3,2013
+29761,"Grimes, IA","University Heights, IA",0,1,2,2,0,1,1,0,2,3,2013
+29459,"Grimes, IA","Adair, IA",0,2,1,2,1,0,0,1,2,3,2013
+29628,"Grimes, IA","Le Mars, IA",3,0,0,0,0,3,2,1,0,3,2013
+29702,"Grimes, IA","Pleasanton, IA",0,1,2,1,1,1,0,2,1,3,2013
+29642,"Grimes, IA","Manchester, IA",1,2,0,0,2,1,2,0,1,3,2013
+29788,"Grimes, IA","Yetter, IA",0,3,0,0,1,2,1,1,1,3,2013
+29780,"Grimes, IA","Westfield, IA",3,0,0,1,0,2,2,0,1,3,2013
+29525,"Grimes, IA","Clinton, IA",0,3,0,0,0,3,1,1,1,3,2013
+29614,"Grimes, IA","Jewell Junction, IA",1,2,0,1,1,1,1,1,1,3,2013
+29467,"Grimes, IA","Algona, IA",2,0,1,0,0,3,1,0,2,3,2013
+29616,"Grimes, IA","Kalona, IA",1,2,0,1,1,1,0,3,0,3,2013
+29465,"Grimes, IA","Albion, IA",1,2,0,1,0,2,1,1,1,3,2013
+29635,"Grimes, IA","Lone Tree, IA",1,2,0,0,0,3,2,1,0,3,2013
+29787,"Grimes, IA","Woolstock, IA",0,3,0,1,0,2,0,1,2,3,2013
+29726,"Grimes, IA","Sageville, IA",1,2,0,1,0,2,1,1,1,3,2013
+29592,"Grimes, IA","Guernsey, IA",2,1,0,1,1,1,3,0,0,3,2013
+29671,"Grimes, IA","Muscatine, IA",2,0,1,0,0,3,2,0,1,3,2013
+29667,"Grimes, IA","Moulton, IA",2,0,1,1,0,2,1,1,1,3,2013
+29722,"Grimes, IA","Roland, IA",0,2,1,1,1,1,1,1,1,3,2013
+29683,"Grimes, IA","Oelwein, IA",3,0,0,0,1,2,1,0,2,3,2013
+29514,"Grimes, IA","Centerville, IA",0,3,0,0,0,3,0,2,1,3,2013
+29553,"Grimes, IA","Denver, IA",2,0,1,0,0,3,1,1,1,3,2013
+29742,"Grimes, IA","Slater, IA",1,1,1,0,0,3,0,1,2,3,2013
+29572,"Grimes, IA","Ferguson, IA",0,3,0,0,0,3,1,2,0,3,2013
+29693,"Grimes, IA","Pacific Junction, IA",1,2,0,3,0,0,0,0,3,3,2013
+29582,"Grimes, IA","Gilman, IA",1,2,0,0,0,3,1,0,2,3,2013
+29581,"Grimes, IA","Gilbert, IA",0,2,1,0,1,2,1,1,1,3,2013
+29706,"Grimes, IA","Pomeroy, IA",1,1,1,0,1,2,2,0,1,3,2013
+29755,"Grimes, IA","Sully, IA",0,1,1,1,0,1,0,1,1,2,2013
+29715,"Grimes, IA","Reinbeck, IA",1,0,1,0,0,2,1,1,0,2,2013
+29740,"Grimes, IA","Sioux Center, IA",1,0,1,0,0,2,1,1,0,2,2013
+29677,"Grimes, IA","New Sharon, IA",0,1,1,0,1,1,1,0,1,2,2013
+29752,"Grimes, IA","Story City, IA",0,2,0,0,0,2,0,0,2,2,2013
+29638,"Grimes, IA","Luther, IA",1,0,1,1,0,1,0,1,1,2,2013
+29679,"Grimes, IA","Northwood, IA",0,1,1,0,1,1,1,1,0,2,2013
+29773,"Grimes, IA","Washington, IA",2,0,0,1,0,1,1,1,0,2,2013
+29739,"Grimes, IA","Silver City, IA",1,1,0,1,0,1,1,0,1,2,2013
+29682,"Grimes, IA","Oakland, IA",1,1,0,1,0,1,1,1,0,2,2013
+29716,"Grimes, IA","Rhodes, IA",0,2,0,0,1,1,1,0,1,2,2013
+29721,"Grimes, IA","Rodney, IA",2,0,0,0,0,2,1,1,0,2,2013
+29703,"Grimes, IA","Pleasantville, IA",0,2,0,0,0,2,1,0,1,2,2013
+29718,"Grimes, IA","Riverside, IA",1,1,0,0,0,2,0,0,2,2,2013
+29777,"Grimes, IA","Webster City, IA",0,1,1,0,1,1,0,0,2,2,2013
+29710,"Grimes, IA","Readlyn, IA",1,1,0,0,1,1,1,0,1,2,2013
+29654,"Grimes, IA","Millerton, IA",0,2,0,1,0,1,0,1,1,2,2013
+29772,"Grimes, IA","Wall Lake, IA",2,0,0,1,1,0,1,0,1,2,2013
+29753,"Grimes, IA","Strawberry Point, IA",0,1,1,0,1,1,1,0,1,2,2013
+29644,"Grimes, IA","Manning, IA",0,0,2,0,1,1,1,1,0,2,2013
+29770,"Grimes, IA","Walford, IA",0,2,0,2,0,0,0,0,2,2,2013
+29660,"Grimes, IA","Montezuma, IA",2,0,0,0,0,2,2,0,0,2,2013
+29646,"Grimes, IA","Marion, IA",0,1,1,0,1,1,0,0,2,2,2013
+29762,"Grimes, IA","University Park, IA",0,2,0,0,0,2,2,0,0,2,2013
+29668,"Grimes, IA","Mount Auburn, IA",2,0,0,0,0,2,2,0,0,2,2013
+29649,"Grimes, IA","Maxwell, IA",1,1,0,0,1,1,1,0,1,2,2013
+29664,"Grimes, IA","Moravia, IA",0,0,2,0,0,2,0,0,2,2,2013
+29711,"Grimes, IA","Reasnor, IA",1,1,0,0,1,1,0,2,0,2,2013
+29665,"Grimes, IA","Morley, IA",0,2,0,0,0,2,2,0,0,2,2013
+29653,"Grimes, IA","Merrill, IA",2,0,0,1,1,0,1,0,1,2,2013
+29661,"Grimes, IA","Monticello, IA",2,0,0,0,0,2,2,0,0,2,2013
+29457,"Grimes, IA","Ackley, IA",0,0,2,0,0,2,0,0,2,2,2013
+29627,"Grimes, IA","Le Grand, IA",0,2,0,2,0,0,0,0,2,2,2013
+29519,"Grimes, IA","Cherokee, IA",1,1,0,1,1,0,1,0,1,2,2013
+29576,"Grimes, IA","Fostoria, IA",0,1,1,0,1,1,0,1,1,2,2013
+29575,"Grimes, IA","Fort Madison, IA",1,0,1,1,0,1,1,1,0,2,2013
+29560,"Grimes, IA","Dysart, IA",2,0,0,0,0,2,2,0,0,2,2013
+29551,"Grimes, IA","Deloit, IA",0,2,0,0,1,1,1,0,1,2,2013
+29544,"Grimes, IA","Danbury, IA",2,0,0,0,0,2,0,0,2,2,2013
+29540,"Grimes, IA","Crescent, IA",0,2,0,1,0,1,0,0,2,2,2013
+29536,"Grimes, IA","Coralville, IA",0,1,1,0,0,2,0,0,2,2,2013
+29535,"Grimes, IA","Coon Rapids, IA",1,1,0,1,1,0,1,0,1,2,2013
+29532,"Grimes, IA","Colo, IA",2,0,0,0,2,0,1,1,0,2,2013
+29526,"Grimes, IA","Clio, IA",0,1,1,0,0,2,1,0,1,2,2013
+29522,"Grimes, IA","Clarinda, IA",1,1,0,2,0,0,1,0,1,2,2013
+29516,"Grimes, IA","Chariton, IA",0,2,0,1,1,0,0,2,0,2,2013
+29583,"Grimes, IA","Glidden, IA",1,1,0,0,1,1,0,1,1,2,2013
+29513,"Grimes, IA","Center Point, IA",1,0,1,0,1,1,1,1,0,2,2013
+29503,"Grimes, IA","Burlington, IA",0,0,2,1,0,1,1,1,0,2,2013
+29501,"Grimes, IA","Britt, IA",1,0,1,0,1,1,2,0,0,2,2013
+29496,"Grimes, IA","Blue Grass, IA",2,0,0,0,0,2,2,0,0,2,2013
+29493,"Grimes, IA","Bertram, IA",0,0,2,1,1,0,2,0,0,2,2013
+29490,"Grimes, IA","Belle Plaine, IA",1,1,0,0,0,2,0,1,1,2,2013
+29486,"Grimes, IA","Battle Creek, IA",0,2,0,0,0,2,2,0,0,2,2013
+29485,"Grimes, IA","Batavia, IA",0,1,1,0,1,1,2,0,0,2,2013
+29477,"Grimes, IA","Asbury, IA",1,1,0,0,0,2,1,0,1,2,2013
+29468,"Grimes, IA","Alton, IA",1,0,1,0,1,1,1,0,1,2,2013
+29464,"Grimes, IA","Albia, IA",0,2,0,1,1,0,1,1,0,2,2013
+29579,"Grimes, IA","Garner, IA",1,0,1,0,0,2,1,0,1,2,2013
+29789,"Grimes, IA","Zearing, IA",0,0,2,2,0,0,0,0,2,2,2013
+29608,"Grimes, IA","Independence, IA",0,1,1,2,0,0,0,0,2,2,2013
+29594,"Grimes, IA","Hamburg, IA",0,2,0,1,0,1,0,0,2,2,2013
+29605,"Grimes, IA","Humboldt, IA",1,1,0,0,0,2,1,1,0,2,2013
+29596,"Grimes, IA","Harlan, IA",1,1,0,0,0,2,1,1,0,2,2013
+29618,"Grimes, IA","Kellogg, IA",0,1,1,0,1,1,0,1,1,2,2013
+29595,"Grimes, IA","Hampton, IA",1,0,1,1,1,0,1,0,1,2,2013
+29622,"Grimes, IA","Lake Mills, IA",2,0,0,0,0,2,2,0,0,2,2013
+29750,"Grimes, IA","State Center, IA",0,0,1,1,0,0,0,0,1,1,2013
+29749,"Grimes, IA","Stanton, IA",1,0,0,0,0,1,0,0,1,1,2013
+29497,"Grimes, IA","Bonaparte, IA",1,0,0,0,1,0,1,0,0,1,2013
+29512,"Grimes, IA","Center Junction, IA",1,0,0,0,1,0,1,0,0,1,2013
+29747,"Grimes, IA","Stacyville, IA",0,1,0,0,0,1,0,1,0,1,2013
+29637,"Grimes, IA","Luana, IA",1,0,0,0,1,0,0,1,0,1,2013
+29636,"Grimes, IA","Long Grove, IA",0,0,1,0,0,1,0,0,1,1,2013
+29745,"Grimes, IA","Springbrook, IA",0,1,0,0,0,1,1,0,0,1,2013
+29502,"Grimes, IA","Buffalo, IA",0,1,0,1,0,0,0,0,1,1,2013
+29639,"Grimes, IA","Lynnville, IA",0,1,0,1,0,0,0,0,1,1,2013
+29492,"Grimes, IA","Bennett, IA",0,1,0,1,0,0,0,0,1,1,2013
+29504,"Grimes, IA","Camanche, IA",0,1,0,0,0,1,0,0,1,1,2013
+29500,"Grimes, IA","Boyden, IA",1,0,0,0,0,1,1,0,0,1,2013
+29515,"Grimes, IA","Central City, IA",0,0,1,0,0,1,0,0,1,1,2013
+29617,"Grimes, IA","Kellerton, IA",0,0,1,0,0,1,0,1,0,1,2013
+29619,"Grimes, IA","Keokuk, IA",1,0,0,0,0,1,1,0,0,1,2013
+29738,"Grimes, IA","Sigourney, IA",1,0,0,0,0,1,0,1,0,1,2013
+29737,"Grimes, IA","Sidney, IA",0,1,0,0,0,1,1,0,0,1,2013
+29736,"Grimes, IA","Sibley, IA",1,0,0,0,0,1,0,1,0,1,2013
+29735,"Grimes, IA","Shueyville, IA",0,0,1,1,0,0,0,0,1,1,2013
+29734,"Grimes, IA","Shenandoah, IA",0,0,1,1,0,0,1,0,0,1,2013
+29733,"Grimes, IA","Shell Rock, IA",0,0,1,0,0,1,1,0,0,1,2013
+29732,"Grimes, IA","Sharpsburg, IA",0,0,1,0,0,1,0,0,1,1,2013
+29613,"Grimes, IA","Jesup, IA",1,0,0,0,0,1,1,0,0,1,2013
+29730,"Grimes, IA","Schleswig, IA",0,1,0,0,0,1,0,1,0,1,2013
+29729,"Grimes, IA","Schaller, IA",1,0,0,1,0,0,0,0,1,1,2013
+29728,"Grimes, IA","Sandyville, IA",0,1,0,1,0,0,0,0,1,1,2013
+29727,"Grimes, IA","Sanborn, IA",1,0,0,0,0,1,1,0,0,1,2013
+29491,"Grimes, IA","Belmond, IA",0,1,0,0,0,1,0,0,1,1,2013
+29656,"Grimes, IA","Minden, IA",0,1,0,1,0,0,0,0,1,1,2013
+29757,"Grimes, IA","Swea City, IA",0,1,0,0,0,1,0,0,1,1,2013
+29489,"Grimes, IA","Bedford, IA",0,1,0,0,0,1,0,1,0,1,2013
+29463,"Grimes, IA","Akron, IA",1,0,0,1,0,0,0,1,0,1,2013
+29625,"Grimes, IA","Laurens, IA",1,0,0,0,1,0,1,0,0,1,2013
+29466,"Grimes, IA","Alden, IA",0,1,0,0,0,1,0,0,1,1,2013
+29785,"Grimes, IA","Wiota, IA",0,1,0,1,0,0,0,0,1,1,2013
+29624,"Grimes, IA","Lamoni, IA",0,1,0,0,0,1,1,0,0,1,2013
+29471,"Grimes, IA","Anamosa, IA",0,0,1,0,0,1,1,0,0,1,2013
+29782,"Grimes, IA","Wilton, IA",1,0,0,0,0,1,1,0,0,1,2013
+29781,"Grimes, IA","Willey, IA",1,0,0,0,0,1,1,0,0,1,2013
+29472,"Grimes, IA","Andover, IA",0,1,0,0,0,1,0,0,1,1,2013
+29473,"Grimes, IA","Anita, IA",1,0,0,0,1,0,0,1,0,1,2013
+29778,"Grimes, IA","West Burlington, IA",0,0,1,1,0,0,0,1,0,1,2013
+29475,"Grimes, IA","Armstrong, IA",1,0,0,0,0,1,1,0,0,1,2013
+29776,"Grimes, IA","Waverly, IA",0,0,1,0,1,0,1,0,0,1,2013
+29476,"Grimes, IA","Arthur, IA",0,1,0,1,0,0,0,1,0,1,2013
+29478,"Grimes, IA","Ashton, IA",1,0,0,0,0,1,1,0,0,1,2013
+29480,"Grimes, IA","Audubon, IA",1,0,0,1,0,0,0,1,0,1,2013
+29771,"Grimes, IA","Walker, IA",1,0,0,0,0,1,1,0,0,1,2013
+29481,"Grimes, IA","Aurelia, IA",0,1,0,0,1,0,0,1,0,1,2013
+29769,"Grimes, IA","Walcott, IA",0,1,0,0,0,1,0,0,1,1,2013
+29768,"Grimes, IA","Vinton, IA",1,0,0,0,0,1,1,0,0,1,2013
+29767,"Grimes, IA","Victor, IA",0,0,1,0,0,1,0,0,1,1,2013
+29482,"Grimes, IA","Avoca, IA",0,0,1,0,0,1,0,1,0,1,2013
+29765,"Grimes, IA","Van Horne, IA",0,1,0,0,0,1,0,0,1,1,2013
+29484,"Grimes, IA","Balltown, IA",0,1,0,1,0,0,0,0,1,1,2013
+29763,"Grimes, IA","Urbana, IA",0,1,0,1,0,0,0,1,0,1,2013
+29633,"Grimes, IA","Little Sioux, IA",0,1,0,1,0,0,0,0,1,1,2013
+29634,"Grimes, IA","Livermore, IA",0,1,0,0,0,1,1,0,0,1,2013
+29760,"Grimes, IA","Truesdale, IA",0,0,1,0,0,1,0,1,0,1,2013
+29518,"Grimes, IA","Charter Oak, IA",0,0,1,0,0,1,0,0,1,1,2013
+29487,"Grimes, IA","Baxter, IA",0,1,0,0,1,0,0,1,0,1,2013
+29520,"Grimes, IA","Chester, IA",1,0,0,0,0,1,0,1,0,1,2013
+29725,"Grimes, IA","Sac City, IA",1,0,0,0,1,0,1,0,0,1,2013
+29657,"Grimes, IA","Missouri Valley, IA",0,0,1,1,0,0,0,0,1,1,2013
+29556,"Grimes, IA","Diagonal, IA",0,0,1,1,0,0,1,0,0,1,2013
+29557,"Grimes, IA","Dickens, IA",1,0,0,0,0,1,1,0,0,1,2013
+29687,"Grimes, IA","Osage, IA",1,0,0,0,0,1,1,0,0,1,2013
+29559,"Grimes, IA","Dyersville, IA",0,1,0,0,0,1,0,0,1,1,2013
+29685,"Grimes, IA","Orange City, IA",0,1,0,0,0,1,0,1,0,1,2013
+29599,"Grimes, IA","Haverhill, IA",1,0,0,1,0,0,1,0,0,1,2013
+29562,"Grimes, IA","Eldon, IA",0,0,1,0,0,1,1,0,0,1,2013
+29563,"Grimes, IA","Elkader, IA",0,1,0,0,1,0,0,0,1,1,2013
+29681,"Grimes, IA","Norway, IA",0,1,0,0,0,1,0,0,1,1,2013
+29564,"Grimes, IA","Ely, IA",1,0,0,1,0,0,0,0,1,1,2013
+29565,"Grimes, IA","Epworth, IA",0,1,0,0,0,1,0,0,1,1,2013
+29566,"Grimes, IA","Estherville, IA",0,0,1,0,0,1,0,1,0,1,2013
+29567,"Grimes, IA","Evansdale, IA",0,1,0,0,0,1,1,0,0,1,2013
+29676,"Grimes, IA","New London, IA",1,0,0,0,1,0,0,1,0,1,2013
+29675,"Grimes, IA","New Hampton, IA",0,0,1,0,0,1,0,0,1,1,2013
+29674,"Grimes, IA","New Albin, IA",0,1,0,1,0,0,0,0,1,1,2013
+29571,"Grimes, IA","Farragut, IA",1,0,0,1,0,0,0,0,1,1,2013
+29672,"Grimes, IA","Mystic, IA",0,1,0,0,1,0,1,0,0,1,2013
+29573,"Grimes, IA","Forest City, IA",0,0,1,1,0,0,1,0,0,1,2013
+29597,"Grimes, IA","Harris, IA",0,1,0,0,1,0,0,1,0,1,2013
+29577,"Grimes, IA","Fraser, IA",0,1,0,0,0,1,1,0,0,1,2013
+29578,"Grimes, IA","Garden Grove, IA",0,0,1,0,0,1,0,1,0,1,2013
+29666,"Grimes, IA","Morrison, IA",0,1,0,0,0,1,1,0,0,1,2013
+29580,"Grimes, IA","Garwin, IA",0,0,1,0,0,1,0,0,1,1,2013
+29663,"Grimes, IA","Moorhead, IA",1,0,0,1,0,0,0,0,1,1,2013
+29584,"Grimes, IA","Grand Mound, IA",0,1,0,0,1,0,0,0,1,1,2013
+29585,"Grimes, IA","Grand River, IA",0,0,1,1,0,0,0,1,0,1,2013
+29587,"Grimes, IA","Grant, IA",0,0,1,0,1,0,1,0,0,1,2013
+29588,"Grimes, IA","Gravity, IA",0,1,0,0,0,1,0,1,0,1,2013
+29650,"Grimes, IA","Mechanicsville, IA",1,0,0,0,0,1,0,0,1,1,2013
+29691,"Grimes, IA","Owasa, IA",0,1,0,0,0,1,1,0,0,1,2013
+29692,"Grimes, IA","Oyens, IA",0,1,0,0,0,1,0,1,0,1,2013
+29534,"Grimes, IA","Conrad, IA",1,0,0,0,1,0,0,1,0,1,2013
+29643,"Grimes, IA","Manilla, IA",1,0,0,0,0,1,1,0,0,1,2013
+29523,"Grimes, IA","Clarion, IA",0,0,1,0,0,1,1,0,0,1,2013
+29720,"Grimes, IA","Rockwell, IA",0,0,1,0,0,1,1,0,0,1,2013
+29524,"Grimes, IA","Clear Lake, IA",0,1,0,1,0,0,0,0,1,1,2013
+29607,"Grimes, IA","Ida Grove, IA",1,0,0,0,1,0,0,1,0,1,2013
+29717,"Grimes, IA","Riverdale, IA",1,0,0,0,0,1,1,0,0,1,2013
+29528,"Grimes, IA","Clutier, IA",1,0,0,0,0,1,1,0,0,1,2013
+29529,"Grimes, IA","Coburg, IA",1,0,0,0,0,1,0,1,0,1,2013
+29530,"Grimes, IA","Coggon, IA",0,1,0,0,0,1,0,1,0,1,2013
+29713,"Grimes, IA","Redding, IA",0,1,0,0,0,1,0,0,1,1,2013
+29712,"Grimes, IA","Red Oak, IA",0,0,1,1,0,0,0,0,1,1,2013
+29533,"Grimes, IA","Columbus Junction, IA",0,1,0,0,0,1,0,0,1,1,2013
+29626,"Grimes, IA","Le Claire, IA",1,0,0,0,1,0,0,1,0,1,2013
+29707,"Grimes, IA","Popejoy, IA",1,0,0,0,0,1,1,0,0,1,2013
+29550,"Grimes, IA","Dedham, IA",0,0,1,1,0,0,1,0,0,1,2013
+29604,"Grimes, IA","Hinton, IA",1,0,0,1,0,0,0,0,1,1,2013
+29602,"Grimes, IA","Hedrick, IA",0,1,0,0,0,1,0,1,0,1,2013
+29704,"Grimes, IA","Pocahontas, IA",1,0,0,0,0,1,1,0,0,1,2013
+29539,"Grimes, IA","Craig, IA",1,0,0,1,0,0,0,1,0,1,2013
+29601,"Grimes, IA","Hazleton, IA",0,1,0,0,0,1,0,1,0,1,2013
+29542,"Grimes, IA","Cromwell, IA",0,1,0,1,0,0,0,0,1,1,2013
+29700,"Grimes, IA","Plano, IA",0,0,1,1,0,0,0,1,0,1,2013
+29600,"Grimes, IA","Hawarden, IA",1,0,0,0,0,1,0,0,1,1,2013
+29546,"Grimes, IA","Dawson, IA",1,0,0,1,0,0,0,0,1,1,2013
+29548,"Grimes, IA","De Witt, IA",0,1,0,1,0,0,0,0,1,1,2013
+29696,"Grimes, IA","Parnell, IA",1,0,0,0,0,1,0,1,0,1,2013
+29549,"Grimes, IA","Decorah, IA",1,0,0,0,0,1,1,0,0,1,2013
+29694,"Grimes, IA","Palo, IA",0,1,0,0,1,0,1,0,0,1,2013
+29709,"Grimes, IA","Raymond, IA",1,0,0,0,0,1,1,0,0,1,2013

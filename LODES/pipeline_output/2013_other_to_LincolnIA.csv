@@ -1,0 +1,83 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+40591,"Lincoln, IA","Morrison, IA",5,16,4,1,17,7,5,10,10,25,2013
+40586,"Lincoln, IA","Lincoln, IA",7,12,6,2,18,5,10,10,5,25,2013
+40562,"Lincoln, IA","Dike, IA",6,9,9,2,13,9,8,11,5,24,2013
+40594,"Lincoln, IA","New Hartford, IA",6,6,5,0,14,3,7,5,5,17,2013
+40553,"Lincoln, IA","Cedar Falls, IA",3,6,4,1,9,3,2,7,4,13,2013
+40573,"Lincoln, IA","Grundy Center, IA",3,7,2,1,8,3,3,6,3,12,2013
+40618,"Lincoln, IA","Waterloo, IA",1,5,5,1,7,3,4,4,3,11,2013
+40601,"Lincoln, IA","Parkersburg, IA",2,6,1,0,7,2,0,5,4,9,2013
+40621,"Lincoln, IA","Wellsburg, IA",1,4,2,1,5,1,0,5,2,7,2013
+40581,"Lincoln, IA","Janesville, IA",2,3,1,0,4,2,0,5,1,6,2013
+40575,"Lincoln, IA","Hudson, IA",0,5,1,0,4,2,0,5,1,6,2013
+40612,"Lincoln, IA","Traer, IA",1,5,0,0,5,1,4,1,1,6,2013
+40603,"Lincoln, IA","Reinbeck, IA",2,2,1,0,3,2,2,1,2,5,2013
+40564,"Lincoln, IA","Dysart, IA",2,1,1,0,0,4,3,0,1,4,2013
+40620,"Lincoln, IA","Waverly, IA",1,1,2,0,2,2,0,3,1,4,2013
+40542,"Lincoln, IA","Ackley, IA",1,2,0,0,2,1,1,2,0,3,2013
+40569,"Lincoln, IA","Garwin, IA",1,1,1,0,1,2,1,2,0,3,2013
+40577,"Lincoln, IA","Independence, IA",0,2,0,0,2,0,0,1,1,2,2013
+40580,"Lincoln, IA","Iowa Falls, IA",0,2,0,0,0,2,0,2,0,2,2013
+40566,"Lincoln, IA","Evansdale, IA",0,2,0,0,2,0,0,0,2,2,2013
+40596,"Lincoln, IA","Northwood, IA",0,2,0,1,0,1,1,0,1,2,2013
+40589,"Lincoln, IA","Marshalltown, IA",0,2,0,0,0,2,1,0,1,2,2013
+40590,"Lincoln, IA","Montour, IA",0,1,1,0,2,0,0,1,1,2,2013
+40543,"Lincoln, IA","Altoona, IA",1,0,1,0,1,1,1,0,1,2,2013
+40607,"Lincoln, IA","Shell Rock, IA",1,1,0,0,1,1,1,1,0,2,2013
+40592,"Lincoln, IA","Mount Auburn, IA",0,1,1,0,2,0,0,1,1,2,2013
+40565,"Lincoln, IA","Elberon, IA",1,0,1,0,0,2,2,0,0,2,2013
+40545,"Lincoln, IA","Ankeny, IA",1,0,1,0,1,1,1,0,1,2,2013
+40608,"Lincoln, IA","Sioux City, IA",0,1,1,0,0,2,0,2,0,2,2013
+40561,"Lincoln, IA","Denver, IA",1,1,0,0,1,1,2,0,0,2,2013
+40554,"Lincoln, IA","Cedar Rapids, IA",0,0,2,1,0,1,1,0,1,2,2013
+40614,"Lincoln, IA","Urbandale, IA",1,1,0,0,2,0,0,1,1,2,2013
+40598,"Lincoln, IA","Norway, IA",0,0,1,0,0,1,0,1,0,1,2013
+40622,"Lincoln, IA","West Des Moines, IA",1,0,0,0,0,1,0,1,0,1,2013
+40619,"Lincoln, IA","Waukon, IA",0,1,0,0,0,1,0,1,0,1,2013
+40617,"Lincoln, IA","Wall Lake, IA",0,1,0,0,0,1,0,1,0,1,2013
+40595,"Lincoln, IA","Nora Springs, IA",0,1,0,0,1,0,0,0,1,1,2013
+40616,"Lincoln, IA","Walford, IA",0,1,0,0,1,0,0,0,1,1,2013
+40615,"Lincoln, IA","Van Horne, IA",0,1,0,0,0,1,0,0,1,1,2013
+40597,"Lincoln, IA","Norwalk, IA",0,0,1,0,1,0,0,1,0,1,2013
+40593,"Lincoln, IA","Nashua, IA",1,0,0,0,0,1,1,0,0,1,2013
+40606,"Lincoln, IA","Rockford, IA",0,0,1,0,1,0,0,0,1,1,2013
+40599,"Lincoln, IA","Osage, IA",1,0,0,0,0,1,1,0,0,1,2013
+40600,"Lincoln, IA","Ottumwa, IA",1,0,0,0,0,1,1,0,0,1,2013
+40611,"Lincoln, IA","Strawberry Point, IA",0,1,0,0,0,1,1,0,0,1,2013
+40610,"Lincoln, IA","St. Olaf, IA",1,0,0,0,0,1,1,0,0,1,2013
+40609,"Lincoln, IA","St. Ansgar, IA",1,0,0,0,1,0,1,0,0,1,2013
+40602,"Lincoln, IA","Readlyn, IA",1,0,0,0,1,0,1,0,0,1,2013
+40604,"Lincoln, IA","Ridgeway, IA",0,1,0,0,0,1,0,0,1,1,2013
+40605,"Lincoln, IA","Robins, IA",1,0,0,0,0,1,0,1,0,1,2013
+40613,"Lincoln, IA","Urbana, IA",0,0,1,0,0,1,0,1,0,1,2013
+40583,"Lincoln, IA","Johnston, IA",1,0,0,0,0,1,1,0,0,1,2013
+40588,"Lincoln, IA","Maquoketa, IA",0,0,1,1,0,0,1,0,0,1,2013
+40587,"Lincoln, IA","Manchester, IA",0,1,0,0,0,1,0,1,0,1,2013
+40544,"Lincoln, IA","Ames, IA",0,1,0,0,1,0,0,0,1,1,2013
+40546,"Lincoln, IA","Atlantic, IA",0,1,0,0,0,1,1,0,0,1,2013
+40547,"Lincoln, IA","Balltown, IA",1,0,0,0,0,1,1,0,0,1,2013
+40548,"Lincoln, IA","Belle Plaine, IA",0,0,1,0,0,1,0,0,1,1,2013
+40549,"Lincoln, IA","Bennett, IA",0,1,0,1,0,0,0,1,0,1,2013
+40550,"Lincoln, IA","Boone, IA",0,1,0,0,1,0,0,0,1,1,2013
+40551,"Lincoln, IA","Brooklyn, IA",0,0,1,0,0,1,1,0,0,1,2013
+40552,"Lincoln, IA","Castalia, IA",0,1,0,0,0,1,0,0,1,1,2013
+40555,"Lincoln, IA","Charles City, IA",1,0,0,0,0,1,1,0,0,1,2013
+40556,"Lincoln, IA","Clarksville, IA",0,0,1,0,0,1,0,1,0,1,2013
+40557,"Lincoln, IA","Clutier, IA",0,1,0,0,1,0,0,1,0,1,2013
+40558,"Lincoln, IA","Corning, IA",0,1,0,0,0,1,0,0,1,1,2013
+40559,"Lincoln, IA","Council Bluffs, IA",0,0,1,0,0,1,1,0,0,1,2013
+40560,"Lincoln, IA","Davenport, IA",1,0,0,0,0,1,1,0,0,1,2013
+40563,"Lincoln, IA","Dubuque, IA",0,1,0,0,0,1,0,1,0,1,2013
+40567,"Lincoln, IA","Fairbank, IA",1,0,0,0,0,1,0,1,0,1,2013
+40568,"Lincoln, IA","Fort Madison, IA",0,1,0,0,0,1,0,1,0,1,2013
+40570,"Lincoln, IA","Greene, IA",0,0,1,0,1,0,0,0,1,1,2013
+40571,"Lincoln, IA","Greenfield, IA",0,1,0,0,1,0,0,0,1,1,2013
+40572,"Lincoln, IA","Grimes, IA",1,0,0,0,0,1,1,0,0,1,2013
+40574,"Lincoln, IA","Guttenberg, IA",0,1,0,0,1,0,0,0,1,1,2013
+40576,"Lincoln, IA","Huxley, IA",0,0,1,0,1,0,0,1,0,1,2013
+40578,"Lincoln, IA","Inwood, IA",0,0,1,1,0,0,0,1,0,1,2013
+40579,"Lincoln, IA","Ionia, IA",1,0,0,0,1,0,1,0,0,1,2013
+40582,"Lincoln, IA","Jesup, IA",0,0,1,0,0,1,1,0,0,1,2013
+40584,"Lincoln, IA","La Porte City, IA",0,1,0,0,1,0,0,0,1,1,2013
+40585,"Lincoln, IA","Le Grand, IA",0,1,0,0,0,1,0,0,1,1,2013
+40623,"Lincoln, IA","Whitten, IA",1,0,0,0,0,1,1,0,0,1,2013

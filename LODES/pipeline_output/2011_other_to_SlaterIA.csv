@@ -1,0 +1,139 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+63335,"Slater, IA","Huxley, IA",21,54,16,9,47,35,36,25,30,91,2011
+63280,"Slater, IA","Ames, IA",21,30,8,5,33,21,6,21,32,59,2011
+63282,"Slater, IA","Ankeny, IA",11,21,6,6,10,22,4,5,29,38,2011
+63288,"Slater, IA","Cambridge, IA",10,16,6,2,21,9,7,9,16,32,2011
+63389,"Slater, IA","Slater, IA",6,16,6,3,17,8,7,11,10,28,2011
+63354,"Slater, IA","Madrid, IA",3,13,1,0,11,6,3,4,10,17,2011
+63287,"Slater, IA","Boone, IA",6,5,1,1,8,3,3,6,3,12,2011
+63312,"Slater, IA","Des Moines, IA",3,6,2,7,3,1,1,5,5,11,2011
+63365,"Slater, IA","Nevada, IA",5,5,1,3,5,3,3,4,4,11,2011
+63388,"Slater, IA","Sioux City, IA",2,7,0,0,5,4,2,5,2,9,2011
+63321,"Slater, IA","Fort Dodge, IA",2,3,3,2,2,4,2,2,4,8,2011
+63297,"Slater, IA","Clive, IA",2,5,1,3,1,4,0,1,7,8,2011
+63401,"Slater, IA","Urbandale, IA",2,5,1,3,3,2,1,2,5,8,2011
+63398,"Slater, IA","Story City, IA",2,5,0,3,2,2,2,1,4,7,2011
+63299,"Slater, IA","Colo, IA",3,4,0,2,4,1,2,1,4,7,2011
+63290,"Slater, IA","Carroll, IA",3,3,1,0,3,4,1,2,4,7,2011
+63371,"Slater, IA","Ogden, IA",3,4,0,1,5,1,1,3,3,7,2011
+63279,"Slater, IA","Altoona, IA",2,5,0,3,2,2,0,3,4,7,2011
+63405,"Slater, IA","Waukee, IA",0,5,0,2,2,1,0,0,5,5,2011
+63300,"Slater, IA","Coon Rapids, IA",2,3,0,0,1,4,1,0,4,5,2011
+63341,"Slater, IA","Johnston, IA",2,2,0,2,1,1,1,2,1,4,2011
+63381,"Slater, IA","Polk City, IA",0,3,1,1,1,2,1,1,2,4,2011
+63383,"Slater, IA","Roland, IA",1,3,0,3,1,0,1,1,2,4,2011
+63352,"Slater, IA","Luther, IA",1,3,0,0,1,3,1,1,2,4,2011
+63278,"Slater, IA","Alden, IA",1,3,0,0,2,2,2,0,2,4,2011
+63357,"Slater, IA","Marshalltown, IA",1,3,0,3,1,0,0,3,1,4,2011
+63306,"Slater, IA","Davenport, IA",1,2,0,0,1,2,0,0,3,3,2011
+63338,"Slater, IA","Jefferson, IA",1,2,0,0,1,2,0,3,0,3,2011
+63329,"Slater, IA","Grimes, IA",1,2,0,1,1,1,0,1,2,3,2011
+63379,"Slater, IA","Pleasant Hill, IA",1,2,0,1,0,2,1,1,1,3,2011
+63368,"Slater, IA","Newton, IA",2,0,1,0,1,2,1,0,2,3,2011
+63311,"Slater, IA","Denison, IA",2,1,0,0,3,0,2,1,0,3,2011
+63358,"Slater, IA","Mason City, IA",0,2,1,0,2,1,1,1,1,3,2011
+63402,"Slater, IA","Victor, IA",3,0,0,0,2,1,0,3,0,3,2011
+63307,"Slater, IA","De Soto, IA",0,1,1,0,2,0,0,1,1,2,2011
+63325,"Slater, IA","Grand Junction, IA",0,2,0,0,1,1,0,2,0,2,2011
+63410,"Slater, IA","Windsor Heights, IA",0,2,0,1,0,1,0,1,1,2,2011
+63348,"Slater, IA","Leon, IA",1,1,0,1,1,0,0,2,0,2,2011
+63404,"Slater, IA","Waterloo, IA",0,2,0,0,1,1,1,0,1,2,2011
+63372,"Slater, IA","Orange City, IA",1,0,1,0,2,0,0,1,1,2,2011
+63289,"Slater, IA","Carlisle, IA",0,2,0,0,1,1,0,0,2,2,2011
+63340,"Slater, IA","Jewell Junction, IA",0,1,1,0,2,0,0,1,1,2,2011
+63337,"Slater, IA","Iowa Falls, IA",1,1,0,0,1,1,0,0,2,2,2011
+63375,"Slater, IA","Osceola, IA",0,1,1,0,2,0,2,0,0,2,2011
+63331,"Slater, IA","Guernsey, IA",1,0,1,0,1,1,0,1,1,2,2011
+63330,"Slater, IA","Grinnell, IA",0,2,0,0,2,0,1,0,1,2,2011
+63293,"Slater, IA","Cedar Falls, IA",2,0,0,0,2,0,0,0,2,2,2011
+63295,"Slater, IA","Cincinnati, IA",0,2,0,1,0,1,0,1,1,2,2011
+63376,"Slater, IA","Ottumwa, IA",1,1,0,0,0,2,0,1,1,2,2011
+63274,"Slater, IA","Ackworth, IA",0,2,0,2,0,0,0,0,2,2,2011
+63305,"Slater, IA","Dallas Center, IA",0,1,1,0,0,2,0,1,1,2,2011
+63390,"Slater, IA","Sloan, IA",1,0,1,0,1,1,2,0,0,2,2011
+63361,"Slater, IA","Melcher-Dallas, IA",0,1,0,0,0,1,0,0,1,1,2011
+63362,"Slater, IA","Minburn, IA",0,1,0,0,0,1,0,1,0,1,2011
+63409,"Slater, IA","Williamsburg, IA",0,1,0,0,1,0,0,0,1,1,2011
+63363,"Slater, IA","Mitchellville, IA",0,1,0,0,1,0,0,1,0,1,2011
+63408,"Slater, IA","Williams, IA",0,0,1,0,1,0,0,0,1,1,2011
+63364,"Slater, IA","Monroe, IA",0,0,1,0,0,1,0,0,1,1,2011
+63395,"Slater, IA","St. Marys, IA",0,1,0,1,0,0,0,0,1,1,2011
+63366,"Slater, IA","New Hampton, IA",0,1,0,0,1,0,0,0,1,1,2011
+63392,"Slater, IA","Spirit Lake, IA",0,1,0,0,1,0,0,0,1,1,2011
+63367,"Slater, IA","New London, IA",0,1,0,0,0,1,0,0,1,1,2011
+63406,"Slater, IA","Webster, IA",0,1,0,0,1,0,1,0,0,1,2011
+63369,"Slater, IA","North Liberty, IA",0,1,0,0,0,1,0,1,0,1,2011
+63370,"Slater, IA","Norwalk, IA",0,1,0,1,0,0,0,0,1,1,2011
+63393,"Slater, IA","Spring Hill, IA",0,1,0,0,0,1,0,0,1,1,2011
+63407,"Slater, IA","West Union, IA",0,1,0,0,0,1,0,0,1,1,2011
+63382,"Slater, IA","Rhodes, IA",0,1,0,0,0,1,0,1,0,1,2011
+63400,"Slater, IA","Urbana, IA",0,1,0,0,0,1,0,0,1,1,2011
+63386,"Slater, IA","Seymour, IA",0,1,0,0,0,1,0,0,1,1,2011
+63399,"Slater, IA","Tiffin, IA",1,0,0,0,1,0,0,0,1,1,2011
+63380,"Slater, IA","Pocahontas, IA",1,0,0,0,1,0,1,0,0,1,2011
+63397,"Slater, IA","Storm Lake, IA",0,1,0,0,1,0,0,1,0,1,2011
+63378,"Slater, IA","Perry, IA",0,1,0,0,1,0,1,0,0,1,2011
+63384,"Slater, IA","Sac City, IA",1,0,0,0,0,1,0,1,0,1,2011
+63385,"Slater, IA","Sandyville, IA",0,1,0,1,0,0,0,0,1,1,2011
+63377,"Slater, IA","Parnell, IA",0,1,0,0,1,0,0,0,1,1,2011
+63373,"Slater, IA","Orient, IA",0,1,0,0,0,1,0,0,1,1,2011
+63394,"Slater, IA","Springville, IA",0,1,0,0,1,0,0,1,0,1,2011
+63387,"Slater, IA","Silver City, IA",1,0,0,0,1,0,1,0,0,1,2011
+63360,"Slater, IA","Melbourne, IA",0,1,0,0,0,1,0,0,1,1,2011
+63374,"Slater, IA","Osage, IA",0,1,0,0,0,1,0,0,1,1,2011
+63396,"Slater, IA","Stanhope, IA",0,1,0,0,0,1,0,0,1,1,2011
+63403,"Slater, IA","Wallingford, IA",1,0,0,0,0,1,0,0,1,1,2011
+63391,"Slater, IA","Spencer, IA",0,0,1,0,1,0,1,0,0,1,2011
+63343,"Slater, IA","Keota, IA",0,1,0,0,0,1,0,0,1,1,2011
+63359,"Slater, IA","McIntire, IA",0,1,0,0,0,1,0,1,0,1,2011
+63356,"Slater, IA","Manson, IA",0,1,0,0,0,1,1,0,0,1,2011
+63316,"Slater, IA","Eldon, IA",0,1,0,0,0,1,0,0,1,1,2011
+63315,"Slater, IA","Elberon, IA",0,1,0,0,0,1,0,1,0,1,2011
+63314,"Slater, IA","Dysart, IA",0,1,0,0,1,0,0,1,0,1,2011
+63313,"Slater, IA","Dougherty, IA",1,0,0,0,0,1,0,0,1,1,2011
+63310,"Slater, IA","Dedham, IA",0,1,0,0,0,1,0,1,0,1,2011
+63309,"Slater, IA","Decorah, IA",0,0,1,0,0,1,0,0,1,1,2011
+63308,"Slater, IA","De Witt, IA",1,0,0,0,0,1,0,0,1,1,2011
+63304,"Slater, IA","Cushing, IA",1,0,0,0,1,0,0,0,1,1,2011
+63303,"Slater, IA","Cromwell, IA",0,1,0,0,1,0,1,0,0,1,2011
+63302,"Slater, IA","Council Bluffs, IA",1,0,0,0,1,0,0,1,0,1,2011
+63301,"Slater, IA","Corwith, IA",0,0,1,0,0,1,0,1,0,1,2011
+63298,"Slater, IA","Clutier, IA",0,0,1,1,0,0,0,0,1,1,2011
+63296,"Slater, IA","Clear Lake, IA",0,0,1,0,0,1,0,0,1,1,2011
+63294,"Slater, IA","Churdan, IA",1,0,0,1,0,0,0,0,1,1,2011
+63292,"Slater, IA","Casey, IA",1,0,0,0,1,0,1,0,0,1,2011
+63291,"Slater, IA","Carter Lake, IA",1,0,0,0,0,1,1,0,0,1,2011
+63286,"Slater, IA","Bennett, IA",0,0,1,0,1,0,1,0,0,1,2011
+63285,"Slater, IA","Bagley, IA",0,1,0,0,0,1,0,1,0,1,2011
+63284,"Slater, IA","Audubon, IA",0,1,0,0,0,1,0,0,1,1,2011
+63283,"Slater, IA","Arnolds Park, IA",0,1,0,0,1,0,0,0,1,1,2011
+63281,"Slater, IA","Andover, IA",0,0,1,0,0,1,0,1,0,1,2011
+63277,"Slater, IA","Akron, IA",0,1,0,0,1,0,0,1,0,1,2011
+63276,"Slater, IA","Afton, IA",0,1,0,0,1,0,0,0,1,1,2011
+63317,"Slater, IA","Emmetsburg, IA",0,1,0,0,1,0,0,0,1,1,2011
+63318,"Slater, IA","Evansdale, IA",0,1,0,0,1,0,0,0,1,1,2011
+63319,"Slater, IA","Exira, IA",0,1,0,0,0,1,0,0,1,1,2011
+63342,"Slater, IA","Kellogg, IA",0,1,0,0,0,1,0,1,0,1,2011
+63355,"Slater, IA","Manning, IA",0,1,0,0,0,1,0,0,1,1,2011
+63353,"Slater, IA","Macksburg, IA",0,1,0,0,1,0,0,1,0,1,2011
+63351,"Slater, IA","Livermore, IA",0,0,1,0,1,0,0,1,0,1,2011
+63350,"Slater, IA","Liscomb, IA",1,0,0,0,1,0,0,0,1,1,2011
+63349,"Slater, IA","Lineville, IA",1,0,0,1,0,0,0,0,1,1,2011
+63347,"Slater, IA","Le Grand, IA",0,1,0,0,0,1,0,0,1,1,2011
+63346,"Slater, IA","Lamoni, IA",1,0,0,0,0,1,1,0,0,1,2011
+63345,"Slater, IA","Lake Mills, IA",1,0,0,0,0,1,1,0,0,1,2011
+63344,"Slater, IA","Knoxville, IA",1,0,0,0,0,1,0,0,1,1,2011
+63275,"Slater, IA","Adair, IA",1,0,0,0,1,0,1,0,0,1,2011
+63339,"Slater, IA","Jesup, IA",0,1,0,0,0,1,1,0,0,1,2011
+63320,"Slater, IA","Ferguson, IA",0,1,0,0,0,1,1,0,0,1,2011
+63336,"Slater, IA","Iowa City, IA",1,0,0,0,1,0,0,0,1,1,2011
+63334,"Slater, IA","Hillsboro, IA",0,1,0,1,0,0,0,1,0,1,2011
+63333,"Slater, IA","Harvey, IA",1,0,0,0,0,1,1,0,0,1,2011
+63332,"Slater, IA","Hampton, IA",0,1,0,0,1,0,0,0,1,1,2011
+63328,"Slater, IA","Greenfield, IA",0,0,1,0,0,1,1,0,0,1,2011
+63327,"Slater, IA","Granger, IA",0,1,0,0,0,1,0,0,1,1,2011
+63326,"Slater, IA","Grand Mound, IA",1,0,0,0,0,1,0,0,1,1,2011
+63324,"Slater, IA","Gilbert, IA",0,1,0,0,0,1,0,0,1,1,2011
+63323,"Slater, IA","Gibson, IA",0,1,0,0,0,1,1,0,0,1,2011
+63322,"Slater, IA","Garwin, IA",1,0,0,0,1,0,0,0,1,1,2011
+63411,"Slater, IA","Winterset, IA",1,0,0,0,1,0,1,0,0,1,2011

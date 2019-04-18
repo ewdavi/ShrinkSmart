@@ -1,0 +1,63 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+5311,"Avoca, IA","Shelby, IA",5,12,9,1,6,19,9,13,4,26,2010
+5266,"Avoca, IA","Avoca, IA",4,4,4,0,2,10,9,2,1,12,2010
+5316,"Avoca, IA","Walnut, IA",2,6,3,0,1,10,8,3,0,11,2010
+5289,"Avoca, IA","Harlan, IA",1,5,3,0,2,7,8,1,0,9,2010
+5306,"Avoca, IA","Panama, IA",4,2,0,0,0,6,2,4,0,6,2010
+5275,"Avoca, IA","Council Bluffs, IA",1,1,3,0,1,4,4,1,0,5,2010
+5297,"Avoca, IA","Lewis, IA",0,2,2,0,2,2,4,0,0,4,2010
+5264,"Avoca, IA","Atlantic, IA",0,4,0,0,1,3,2,0,2,4,2010
+5288,"Avoca, IA","Hancock, IA",1,1,2,0,0,4,4,0,0,4,2010
+5305,"Avoca, IA","Oakland, IA",3,0,1,0,1,3,4,0,0,4,2010
+5291,"Avoca, IA","Irwin, IA",0,1,2,0,2,1,2,1,0,3,2010
+5298,"Avoca, IA","Logan, IA",1,0,1,0,0,2,1,1,0,2,2010
+5304,"Avoca, IA","Newton, IA",0,1,1,0,0,2,0,2,0,2,2010
+5284,"Avoca, IA","Exira, IA",0,2,0,0,0,2,0,2,0,2,2010
+5292,"Avoca, IA","Kimballton, IA",0,1,1,0,1,1,1,1,0,2,2010
+5278,"Avoca, IA","Des Moines, IA",0,2,0,0,0,2,1,1,0,2,2010
+5315,"Avoca, IA","Tennant, IA",1,1,0,0,0,2,0,2,0,2,2010
+5317,"Avoca, IA","Waukee, IA",0,2,0,0,0,2,0,1,1,2,2010
+5302,"Avoca, IA","Missouri Valley, IA",0,1,0,0,0,1,0,1,0,1,2010
+5321,"Avoca, IA","Woodbine, IA",1,0,0,0,0,1,1,0,0,1,2010
+5299,"Avoca, IA","Magnolia, IA",0,1,0,0,0,1,0,0,1,1,2010
+5300,"Avoca, IA","Marcus, IA",0,0,1,0,0,1,0,1,0,1,2010
+5320,"Avoca, IA","Wiota, IA",0,1,0,0,0,1,0,1,0,1,2010
+5301,"Avoca, IA","Merrill, IA",0,0,1,0,0,1,0,0,1,1,2010
+5319,"Avoca, IA","Westside, IA",0,1,0,0,0,1,0,0,1,1,2010
+5318,"Avoca, IA","Webster City, IA",0,1,0,0,0,1,0,0,1,1,2010
+5312,"Avoca, IA","Sioux City, IA",1,0,0,0,1,0,1,0,0,1,2010
+5310,"Avoca, IA","Red Oak, IA",0,1,0,0,0,1,1,0,0,1,2010
+5314,"Avoca, IA","Stacyville, IA",0,1,0,0,0,1,0,0,1,1,2010
+5313,"Avoca, IA","Spencer, IA",0,0,1,0,0,1,1,0,0,1,2010
+5307,"Avoca, IA","Pierson, IA",1,0,0,0,0,1,1,0,0,1,2010
+5308,"Avoca, IA","Portsmouth, IA",1,0,0,0,0,1,1,0,0,1,2010
+5309,"Avoca, IA","Randolph, IA",0,1,0,0,0,1,1,0,0,1,2010
+5296,"Avoca, IA","Le Mars, IA",1,0,0,0,0,1,1,0,0,1,2010
+5303,"Avoca, IA","Mondamin, IA",0,1,0,0,0,1,0,1,0,1,2010
+5261,"Avoca, IA","Adair, IA",0,0,1,0,0,1,1,0,0,1,2010
+5295,"Avoca, IA","Lawton, IA",0,1,0,0,1,0,1,0,0,1,2010
+5294,"Avoca, IA","Lacona, IA",1,0,0,0,0,1,0,0,1,1,2010
+5263,"Avoca, IA","Anita, IA",0,0,1,0,1,0,1,0,0,1,2010
+5265,"Avoca, IA","Audubon, IA",0,1,0,0,0,1,0,1,0,1,2010
+5267,"Avoca, IA","Brayton, IA",1,0,0,0,0,1,0,1,0,1,2010
+5268,"Avoca, IA","Britt, IA",1,0,0,0,0,1,0,1,0,1,2010
+5269,"Avoca, IA","Burlington, IA",0,1,0,0,0,1,0,1,0,1,2010
+5270,"Avoca, IA","Carlisle, IA",1,0,0,0,0,1,0,1,0,1,2010
+5271,"Avoca, IA","Cedar Falls, IA",0,0,1,0,0,1,0,0,1,1,2010
+5272,"Avoca, IA","Cedar Rapids, IA",0,1,0,0,0,1,0,0,1,1,2010
+5273,"Avoca, IA","Centerville, IA",1,0,0,0,0,1,1,0,0,1,2010
+5274,"Avoca, IA","Coralville, IA",0,1,0,0,1,0,1,0,0,1,2010
+5276,"Avoca, IA","Dedham, IA",1,0,0,0,0,1,1,0,0,1,2010
+5277,"Avoca, IA","Defiance, IA",1,0,0,0,0,1,1,0,0,1,2010
+5279,"Avoca, IA","Diagonal, IA",0,1,0,0,0,1,0,1,0,1,2010
+5280,"Avoca, IA","Donnellson, IA",0,1,0,0,1,0,0,1,0,1,2010
+5281,"Avoca, IA","Dubuque, IA",0,1,0,0,0,1,0,0,1,1,2010
+5282,"Avoca, IA","Eddyville, IA",1,0,0,0,0,1,1,0,0,1,2010
+5283,"Avoca, IA","Elk Horn, IA",0,1,0,0,1,0,1,0,0,1,2010
+5285,"Avoca, IA","Floris, IA",0,0,1,0,0,1,0,1,0,1,2010
+5286,"Avoca, IA","Grant, IA",0,1,0,0,0,1,0,0,1,1,2010
+5287,"Avoca, IA","Guthrie Center, IA",0,1,0,0,0,1,0,0,1,1,2010
+5290,"Avoca, IA","Iowa City, IA",0,1,0,0,1,0,0,1,0,1,2010
+5262,"Avoca, IA","Alden, IA",1,0,0,0,0,1,1,0,0,1,2010
+5293,"Avoca, IA","Kirkman, IA",0,0,1,0,0,1,1,0,0,1,2010
+5322,"Avoca, IA","Wyoming, IA",0,1,0,0,0,1,0,0,1,1,2010

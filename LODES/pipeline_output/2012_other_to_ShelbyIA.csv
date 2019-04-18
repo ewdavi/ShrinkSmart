@@ -1,0 +1,196 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+62665,"Shelby, IA","Council Bluffs, IA",74,47,19,3,20,117,54,54,32,140,2012
+62784,"Shelby, IA","Shelby, IA",34,66,30,15,32,83,44,59,27,130,2012
+62804,"Shelby, IA","Walnut, IA",17,47,24,3,28,57,31,33,24,88,2012
+62705,"Shelby, IA","Harlan, IA",27,43,8,0,10,68,16,41,21,78,2012
+62797,"Shelby, IA","Tennant, IA",17,28,10,2,15,38,10,24,21,55,2012
+62639,"Shelby, IA","Avoca, IA",7,21,19,5,28,14,19,16,12,47,2012
+62758,"Shelby, IA","Oakland, IA",11,16,20,3,13,31,13,20,14,47,2012
+62798,"Shelby, IA","Underwood, IA",22,16,6,6,5,33,20,16,8,44,2012
+62704,"Shelby, IA","Hancock, IA",7,19,16,1,12,29,11,18,13,42,2012
+62637,"Shelby, IA","Atlantic, IA",15,19,5,1,10,28,11,19,9,39,2012
+62767,"Shelby, IA","Panama, IA",12,19,7,3,5,30,7,17,14,38,2012
+62727,"Shelby, IA","Logan, IA",13,17,5,2,9,24,7,21,7,35,2012
+62652,"Shelby, IA","Carter Lake, IA",18,8,4,1,1,28,5,23,2,30,2012
+62742,"Shelby, IA","Missouri Valley, IA",15,8,4,0,7,20,11,13,3,27,2012
+62631,"Shelby, IA","Ames, IA",13,9,4,1,0,25,6,9,11,26,2012
+62788,"Shelby, IA","Sioux City, IA",9,5,5,1,3,15,7,8,4,19,2012
+62677,"Shelby, IA","Des Moines, IA",8,4,2,1,0,13,4,7,3,14,2012
+62651,"Shelby, IA","Carson, IA",6,4,3,1,0,12,3,7,3,13,2012
+62768,"Shelby, IA","Pleasant Hill, IA",7,3,1,0,2,9,3,5,3,11,2012
+62673,"Shelby, IA","Defiance, IA",1,9,1,0,3,8,3,5,3,11,2012
+62717,"Shelby, IA","Kirkman, IA",2,8,0,0,1,9,1,8,1,10,2012
+62743,"Shelby, IA","Mondamin, IA",5,4,1,0,1,9,1,7,2,10,2012
+62818,"Shelby, IA","Wiota, IA",3,5,2,0,0,10,3,3,4,10,2012
+62801,"Shelby, IA","Urbandale, IA",1,4,4,0,0,9,3,2,4,9,2012
+62700,"Shelby, IA","Grant, IA",5,4,0,0,3,6,5,2,2,9,2012
+62667,"Shelby, IA","Cumberland, IA",2,5,1,0,2,6,1,5,2,8,2012
+62819,"Shelby, IA","Woodbine, IA",1,6,0,0,0,7,1,5,1,7,2012
+62712,"Shelby, IA","Irwin, IA",2,4,1,0,2,5,3,4,0,7,2012
+62723,"Shelby, IA","Lewis, IA",1,5,1,0,0,7,3,1,3,7,2012
+62650,"Shelby, IA","Carroll, IA",1,5,1,1,0,6,0,4,3,7,2012
+62737,"Shelby, IA","McClelland, IA",5,2,0,0,1,6,3,3,1,7,2012
+62630,"Shelby, IA","Altoona, IA",5,0,2,0,0,7,4,1,2,7,2012
+62765,"Shelby, IA","Pacific Junction, IA",2,3,1,0,0,6,0,4,2,6,2012
+62805,"Shelby, IA","Waterloo, IA",3,2,1,0,0,6,1,2,3,6,2012
+62692,"Shelby, IA","Fairfield, IA",0,4,2,0,0,6,2,1,3,6,2012
+62715,"Shelby, IA","Kimballton, IA",1,2,3,0,2,4,2,1,3,6,2012
+62787,"Shelby, IA","Silver City, IA",1,4,1,0,0,6,1,3,2,6,2012
+62732,"Shelby, IA","Manning, IA",1,3,2,0,3,3,2,3,1,6,2012
+62736,"Shelby, IA","Massena, IA",0,5,0,0,2,3,2,1,2,5,2012
+62689,"Shelby, IA","Exira, IA",1,4,0,1,2,2,2,1,2,5,2012
+62697,"Shelby, IA","Glenwood, IA",1,4,0,0,4,1,2,1,2,5,2012
+62682,"Shelby, IA","Elk Horn, IA",0,4,1,1,0,4,0,1,4,5,2012
+62741,"Shelby, IA","Minden, IA",3,1,1,0,1,4,1,4,0,5,2012
+62726,"Shelby, IA","Little Sioux, IA",3,2,0,0,0,5,3,1,1,5,2012
+62785,"Shelby, IA","Shenandoah, IA",2,2,0,0,0,4,0,2,2,4,2012
+62763,"Shelby, IA","Ottumwa, IA",2,1,1,0,1,3,1,2,1,4,2012
+62757,"Shelby, IA","Northwood, IA",3,0,1,0,1,3,3,0,1,4,2012
+62695,"Shelby, IA","Fort Dodge, IA",2,2,0,0,1,3,1,1,2,4,2012
+62729,"Shelby, IA","Magnolia, IA",1,1,2,0,2,2,3,1,0,4,2012
+62730,"Shelby, IA","Malvern, IA",1,2,1,0,1,3,1,2,1,4,2012
+62764,"Shelby, IA","Oxford Junction, IA",2,1,1,0,1,3,2,1,1,4,2012
+62625,"Shelby, IA","Ackworth, IA",0,1,3,0,0,4,1,0,3,4,2012
+62634,"Shelby, IA","Ankeny, IA",2,1,1,1,0,3,0,2,2,4,2012
+62675,"Shelby, IA","Denison, IA",1,3,0,1,1,2,2,2,0,4,2012
+62789,"Shelby, IA","Sloan, IA",2,1,0,0,0,3,2,1,0,3,2012
+62666,"Shelby, IA","Crescent, IA",1,0,2,0,1,2,2,1,0,3,2012
+62731,"Shelby, IA","Manilla, IA",1,1,1,0,0,3,1,1,1,3,2012
+62728,"Shelby, IA","Macedonia, IA",2,1,0,0,0,3,1,1,1,3,2012
+62710,"Shelby, IA","Indianola, IA",0,2,1,0,0,3,0,1,2,3,2012
+62698,"Shelby, IA","Graettinger, IA",2,1,0,1,0,2,2,0,1,3,2012
+62654,"Shelby, IA","Cedar Falls, IA",2,0,1,0,1,2,2,1,0,3,2012
+62656,"Shelby, IA","Center Point, IA",1,2,0,0,0,3,1,0,2,3,2012
+62809,"Shelby, IA","Westfield, IA",2,0,1,0,0,3,2,0,1,3,2012
+62775,"Shelby, IA","Rhodes, IA",2,1,0,0,0,3,0,2,1,3,2012
+62626,"Shelby, IA","Adair, IA",0,3,0,0,1,2,1,1,1,3,2012
+62817,"Shelby, IA","Windsor Heights, IA",2,1,0,0,0,3,2,1,0,3,2012
+62766,"Shelby, IA","Palo, IA",1,1,1,0,1,2,0,2,1,3,2012
+62724,"Shelby, IA","Lidderdale, IA",2,0,0,0,0,2,0,2,0,2,2012
+62660,"Shelby, IA","Clarinda, IA",0,2,0,0,0,2,0,1,1,2,2012
+62708,"Shelby, IA","Humboldt, IA",2,0,0,0,0,2,1,0,1,2,2012
+62786,"Shelby, IA","Shueyville, IA",0,1,1,0,0,2,1,0,1,2,2012
+62777,"Shelby, IA","Rodney, IA",1,0,1,0,0,2,0,1,1,2,2012
+62794,"Shelby, IA","St. Marys, IA",2,0,0,0,0,2,0,0,2,2,2012
+62649,"Shelby, IA","Burlington, IA",0,2,0,0,0,2,0,0,2,2,2012
+62638,"Shelby, IA","Audubon, IA",1,0,1,0,0,2,0,1,1,2,2012
+62793,"Shelby, IA","Spring Hill, IA",0,2,0,0,1,1,1,1,0,2,2012
+62740,"Shelby, IA","Merrill, IA",2,0,0,0,0,2,2,0,0,2,2012
+62791,"Shelby, IA","Spencer, IA",1,1,0,0,0,2,1,1,0,2,2012
+62662,"Shelby, IA","Clio, IA",0,1,1,0,0,2,0,1,1,2,2012
+62661,"Shelby, IA","Clinton, IA",2,0,0,0,0,2,1,1,0,2,2012
+62648,"Shelby, IA","Buck Grove, IA",0,1,1,0,1,1,0,1,1,2,2012
+62713,"Shelby, IA","Johnston, IA",2,0,0,0,0,2,0,2,0,2,2012
+62774,"Shelby, IA","Remsen, IA",0,2,0,0,1,1,1,0,1,2,2012
+62678,"Shelby, IA","Diagonal, IA",0,2,0,0,1,1,0,1,1,2,2012
+62749,"Shelby, IA","Mount Vernon, IA",2,0,0,0,0,2,1,1,0,2,2012
+62643,"Shelby, IA","Bertram, IA",1,1,0,0,0,2,1,0,1,2,2012
+62680,"Shelby, IA","Eddyville, IA",0,1,1,0,0,2,0,1,1,2,2012
+62684,"Shelby, IA","Ely, IA",2,0,0,0,0,2,1,0,1,2,2012
+62815,"Shelby, IA","Williamsburg, IA",1,1,0,0,1,1,0,1,1,2,2012
+62735,"Shelby, IA","Mason City, IA",1,1,0,0,0,2,0,1,1,2,2012
+62734,"Shelby, IA","Marcus, IA",1,0,1,0,0,2,1,0,1,2,2012
+62688,"Shelby, IA","Evansdale, IA",2,0,0,0,0,2,0,1,1,2,2012
+62811,"Shelby, IA","Wheatland, IA",0,1,1,0,0,2,0,0,2,2,2012
+62771,"Shelby, IA","Quimby, IA",2,0,0,0,0,2,2,0,0,2,2012
+62807,"Shelby, IA","Webster, IA",0,1,1,0,0,2,1,0,1,2,2012
+62772,"Shelby, IA","Randolph, IA",1,0,1,0,0,2,0,2,0,2,2012
+62773,"Shelby, IA","Red Oak, IA",1,1,0,1,0,1,0,2,0,2,2012
+62752,"Shelby, IA","Nashua, IA",0,2,0,0,0,2,0,0,2,2,2012
+62803,"Shelby, IA","Wall Lake, IA",1,1,0,0,0,2,1,1,0,2,2012
+62751,"Shelby, IA","Muscatine, IA",0,0,2,0,0,2,1,0,1,2,2012
+62701,"Shelby, IA","Gray, IA",1,0,1,1,0,1,0,2,0,2,2012
+62659,"Shelby, IA","Charter Oak, IA",0,1,1,0,0,2,1,1,0,2,2012
+62780,"Shelby, IA","Sac City, IA",1,0,0,0,0,1,0,0,1,1,2012
+62676,"Shelby, IA","Denver, IA",0,1,0,0,0,1,0,0,1,1,2012
+62779,"Shelby, IA","Ruthven, IA",1,0,0,0,0,1,0,1,0,1,2012
+62778,"Shelby, IA","Russell, IA",1,0,0,0,0,1,0,1,0,1,2012
+62776,"Shelby, IA","Riverton, IA",0,0,1,0,1,0,0,0,1,1,2012
+62770,"Shelby, IA","Portsmouth, IA",1,0,0,0,1,0,1,0,0,1,2012
+62769,"Shelby, IA","Pomeroy, IA",1,0,0,0,0,1,1,0,0,1,2012
+62641,"Shelby, IA","Bedford, IA",0,1,0,0,0,1,0,0,1,1,2012
+62642,"Shelby, IA","Belmond, IA",1,0,0,0,0,1,1,0,0,1,2012
+62781,"Shelby, IA","Schleswig, IA",0,1,0,0,0,1,0,1,0,1,2012
+62635,"Shelby, IA","Anthon, IA",0,1,0,0,1,0,1,0,0,1,2012
+62782,"Shelby, IA","Sergeant Bluff, IA",1,0,0,0,0,1,0,1,0,1,2012
+62802,"Shelby, IA","Walker, IA",0,1,0,0,0,1,1,0,0,1,2012
+62627,"Shelby, IA","Afton, IA",1,0,0,0,0,1,1,0,0,1,2012
+62816,"Shelby, IA","Wilton, IA",0,1,0,0,0,1,0,1,0,1,2012
+62814,"Shelby, IA","Williams, IA",1,0,0,0,0,1,0,1,0,1,2012
+62813,"Shelby, IA","Willey, IA",1,0,0,0,0,1,1,0,0,1,2012
+62812,"Shelby, IA","Whittemore, IA",0,0,1,0,0,1,0,1,0,1,2012
+62810,"Shelby, IA","Westside, IA",0,1,0,1,0,0,0,0,1,1,2012
+62808,"Shelby, IA","West Bend, IA",0,0,1,0,0,1,0,0,1,1,2012
+62806,"Shelby, IA","Webster City, IA",0,0,1,0,0,1,0,0,1,1,2012
+62628,"Shelby, IA","Albia, IA",1,0,0,0,0,1,0,1,0,1,2012
+62629,"Shelby, IA","Alton, IA",1,0,0,0,0,1,1,0,0,1,2012
+62632,"Shelby, IA","Anamosa, IA",1,0,0,0,0,1,1,0,0,1,2012
+62783,"Shelby, IA","Shannon City, IA",0,1,0,0,0,1,0,0,1,1,2012
+62800,"Shelby, IA","University Park, IA",0,1,0,0,0,1,0,0,1,1,2012
+62799,"Shelby, IA","Unionville, IA",0,1,0,0,1,0,1,0,0,1,2012
+62633,"Shelby, IA","Anita, IA",1,0,0,0,0,1,0,1,0,1,2012
+62796,"Shelby, IA","Storm Lake, IA",1,0,0,0,0,1,1,0,0,1,2012
+62795,"Shelby, IA","Stanton, IA",1,0,0,0,0,1,0,0,1,1,2012
+62792,"Shelby, IA","Spirit Lake, IA",0,1,0,0,0,1,1,0,0,1,2012
+62790,"Shelby, IA","Soldier, IA",0,1,0,0,1,0,0,1,0,1,2012
+62645,"Shelby, IA","Boyden, IA",0,0,1,0,0,1,1,0,0,1,2012
+62636,"Shelby, IA","Arthur, IA",1,0,0,0,1,0,0,1,0,1,2012
+62640,"Shelby, IA","Battle Creek, IA",1,0,0,0,0,1,0,1,0,1,2012
+62644,"Shelby, IA","Boxholm, IA",0,0,1,0,0,1,0,1,0,1,2012
+62748,"Shelby, IA","Mount Pleasant, IA",1,0,0,1,0,0,0,1,0,1,2012
+62762,"Shelby, IA","Oskaloosa, IA",0,1,0,0,0,1,0,0,1,1,2012
+62761,"Shelby, IA","Osceola, IA",0,1,0,0,0,1,0,1,0,1,2012
+62664,"Shelby, IA","Corydon, IA",0,1,0,0,1,0,0,1,0,1,2012
+62711,"Shelby, IA","Iowa City, IA",0,1,0,0,0,1,0,1,0,1,2012
+62709,"Shelby, IA","Ida Grove, IA",1,0,0,0,0,1,1,0,0,1,2012
+62707,"Shelby, IA","Hinton, IA",1,0,0,0,0,1,1,0,0,1,2012
+62706,"Shelby, IA","Hartley, IA",0,1,0,0,0,1,0,1,0,1,2012
+62668,"Shelby, IA","Cushing, IA",0,0,1,0,0,1,0,0,1,1,2012
+62703,"Shelby, IA","Guthrie Center, IA",1,0,0,0,0,1,0,0,1,1,2012
+62702,"Shelby, IA","Greenfield, IA",1,0,0,0,0,1,0,1,0,1,2012
+62669,"Shelby, IA","Dakota City, IA",1,0,0,0,0,1,1,0,0,1,2012
+62699,"Shelby, IA","Grand Junction, IA",0,1,0,0,0,1,0,1,0,1,2012
+62670,"Shelby, IA","Dawson, IA",0,1,0,0,0,1,1,0,0,1,2012
+62696,"Shelby, IA","Garner, IA",1,0,0,0,0,1,0,0,1,1,2012
+62671,"Shelby, IA","De Witt, IA",0,1,0,0,0,1,0,0,1,1,2012
+62694,"Shelby, IA","Forest City, IA",0,0,1,0,0,1,0,0,1,1,2012
+62693,"Shelby, IA","Floyd, IA",1,0,0,0,1,0,1,0,0,1,2012
+62672,"Shelby, IA","Decorah, IA",1,0,0,0,0,1,1,0,0,1,2012
+62691,"Shelby, IA","Fairfax, IA",1,0,0,0,0,1,1,0,0,1,2012
+62690,"Shelby, IA","Exline, IA",0,0,1,0,0,1,0,1,0,1,2012
+62674,"Shelby, IA","Deloit, IA",0,1,0,0,0,1,1,0,0,1,2012
+62687,"Shelby, IA","Estherville, IA",1,0,0,0,0,1,1,0,0,1,2012
+62686,"Shelby, IA","Essex, IA",0,0,1,0,0,1,1,0,0,1,2012
+62685,"Shelby, IA","Emmetsburg, IA",1,0,0,0,0,1,1,0,0,1,2012
+62683,"Shelby, IA","Elliott, IA",1,0,0,1,0,0,1,0,0,1,2012
+62681,"Shelby, IA","Eldon, IA",0,0,1,0,0,1,0,0,1,1,2012
+62679,"Shelby, IA","Dunlap, IA",0,1,0,0,0,1,0,0,1,1,2012
+62714,"Shelby, IA","Keosauqua, IA",0,1,0,0,0,1,0,1,0,1,2012
+62663,"Shelby, IA","Clive, IA",1,0,0,0,0,1,0,1,0,1,2012
+62716,"Shelby, IA","Kingsley, IA",0,1,0,0,0,1,0,0,1,1,2012
+62745,"Shelby, IA","Montrose, IA",1,0,0,0,1,0,1,0,0,1,2012
+62760,"Shelby, IA","Orange City, IA",0,1,0,0,1,0,1,0,0,1,2012
+62759,"Shelby, IA","Oelwein, IA",0,0,1,0,0,1,0,0,1,1,2012
+62646,"Shelby, IA","Brayton, IA",1,0,0,0,0,1,0,0,1,1,2012
+62647,"Shelby, IA","Brighton, IA",0,1,0,0,0,1,0,1,0,1,2012
+62756,"Shelby, IA","Nodaway, IA",0,0,1,0,0,1,0,0,1,1,2012
+62755,"Shelby, IA","Newell, IA",0,1,0,0,0,1,0,1,0,1,2012
+62754,"Shelby, IA","New Sharon, IA",0,1,0,0,0,1,0,1,0,1,2012
+62753,"Shelby, IA","New Market, IA",1,0,0,0,0,1,1,0,0,1,2012
+62750,"Shelby, IA","Moville, IA",1,0,0,0,0,1,0,1,0,1,2012
+62747,"Shelby, IA","Morrison, IA",0,0,1,0,0,1,0,0,1,1,2012
+62746,"Shelby, IA","Moorhead, IA",0,0,1,0,0,1,0,1,0,1,2012
+62744,"Shelby, IA","Monticello, IA",0,1,0,0,1,0,0,1,0,1,2012
+62718,"Shelby, IA","Lake Mills, IA",1,0,0,0,0,1,1,0,0,1,2012
+62653,"Shelby, IA","Castana, IA",0,0,1,0,0,1,0,0,1,1,2012
+62739,"Shelby, IA","Meriden, IA",0,0,1,0,0,1,1,0,0,1,2012
+62738,"Shelby, IA","McIntire, IA",0,0,1,0,0,1,0,0,1,1,2012
+62655,"Shelby, IA","Cedar Rapids, IA",1,0,0,0,0,1,1,0,0,1,2012
+62733,"Shelby, IA","Manson, IA",1,0,0,0,0,1,0,1,0,1,2012
+62657,"Shelby, IA","Centerville, IA",0,1,0,0,0,1,1,0,0,1,2012
+62658,"Shelby, IA","Central City, IA",0,1,0,0,1,0,1,0,0,1,2012
+62725,"Shelby, IA","Liscomb, IA",1,0,0,0,0,1,1,0,0,1,2012
+62721,"Shelby, IA","Le Grand, IA",0,0,1,0,0,1,0,0,1,1,2012
+62720,"Shelby, IA","Laurens, IA",0,1,0,0,0,1,0,0,1,1,2012
+62719,"Shelby, IA","Lamoni, IA",0,1,0,0,0,1,0,1,0,1,2012
+62722,"Shelby, IA","Le Roy, IA",1,0,0,0,0,1,0,1,0,1,2012

@@ -1,0 +1,468 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+58344,"Pleasant Hill, IA","Des Moines, IA",485,799,234,281,820,417,519,707,292,1518,2009
+58583,"Pleasant Hill, IA","Pleasant Hill, IA",368,623,185,199,734,243,431,433,312,1176,2009
+58253,"Pleasant Hill, IA","Altoona, IA",147,373,139,84,466,109,217,212,230,659,2009
+58257,"Pleasant Hill, IA","Ankeny, IA",103,205,77,55,218,112,140,118,127,385,2009
+58671,"Pleasant Hill, IA","Urbandale, IA",75,165,61,55,154,92,90,93,118,301,2009
+58703,"Pleasant Hill, IA","Windsor Heights, IA",93,130,63,44,160,82,94,109,83,286,2009
+58693,"Pleasant Hill, IA","West Des Moines, IA",80,134,33,27,142,78,83,95,69,247,2009
+58317,"Pleasant Hill, IA","Clive, IA",72,137,31,31,139,70,75,56,109,240,2009
+58554,"Pleasant Hill, IA","Norwalk, IA",82,113,29,48,111,65,84,67,73,224,2009
+58520,"Pleasant Hill, IA","Mitchellville, IA",40,113,50,34,143,26,66,74,63,203,2009
+58296,"Pleasant Hill, IA","Carlisle, IA",30,93,31,33,71,50,52,57,45,154,2009
+58435,"Pleasant Hill, IA","Johnston, IA",32,70,34,21,78,37,43,42,51,136,2009
+58430,"Pleasant Hill, IA","Indianola, IA",24,77,30,22,54,55,35,47,49,131,2009
+58254,"Pleasant Hill, IA","Ames, IA",58,40,12,11,43,56,48,37,25,110,2009
+58617,"Pleasant Hill, IA","Runnells, IA",21,50,26,10,76,11,32,36,29,97,2009
+58684,"Pleasant Hill, IA","Waukee, IA",21,45,11,17,31,29,17,16,44,77,2009
+58548,"Pleasant Hill, IA","Newton, IA",24,34,6,12,21,31,31,24,9,64,2009
+58452,"Pleasant Hill, IA","Knoxville, IA",9,41,12,10,21,31,16,27,19,62,2009
+58504,"Pleasant Hill, IA","Marshalltown, IA",26,19,8,3,18,32,24,20,9,53,2009
+58286,"Pleasant Hill, IA","Boone, IA",23,21,6,6,18,26,25,17,8,50,2009
+58568,"Pleasant Hill, IA","Ottumwa, IA",18,26,5,1,18,30,22,20,7,49,2009
+58319,"Pleasant Hill, IA","Colfax, IA",9,24,10,7,25,11,9,18,16,43,2009
+58432,"Pleasant Hill, IA","Iowa City, IA",22,19,1,2,19,21,22,6,14,42,2009
+58307,"Pleasant Hill, IA","Chariton, IA",8,25,8,3,11,27,12,16,13,41,2009
+58639,"Pleasant Hill, IA","Sioux City, IA",14,20,5,2,17,20,19,14,6,39,2009
+58586,"Pleasant Hill, IA","Polk City, IA",11,21,7,4,25,10,11,9,19,39,2009
+58580,"Pleasant Hill, IA","Perry, IA",12,22,4,9,14,15,18,9,11,38,2009
+58683,"Pleasant Hill, IA","Waterloo, IA",14,18,5,1,16,20,14,14,9,37,2009
+58302,"Pleasant Hill, IA","Cedar Rapids, IA",19,11,5,4,13,18,13,13,9,35,2009
+58285,"Pleasant Hill, IA","Bondurant, IA",6,19,5,8,14,8,10,15,5,30,2009
+58601,"Pleasant Hill, IA","Reasnor, IA",6,19,5,3,19,8,5,18,7,30,2009
+58645,"Pleasant Hill, IA","Spring Hill, IA",4,15,10,5,17,7,8,5,16,29,2009
+58590,"Pleasant Hill, IA","Prairie City, IA",5,17,6,8,13,7,6,10,12,28,2009
+58399,"Pleasant Hill, IA","Grimes, IA",6,17,5,3,14,11,7,10,11,28,2009
+58338,"Pleasant Hill, IA","De Soto, IA",7,13,7,5,13,9,9,12,6,27,2009
+58328,"Pleasant Hill, IA","Council Bluffs, IA",6,13,7,2,10,14,15,6,5,26,2009
+58378,"Pleasant Hill, IA","Fort Dodge, IA",14,8,3,1,9,15,16,5,4,25,2009
+58659,"Pleasant Hill, IA","Swan, IA",3,14,7,5,13,6,5,9,10,24,2009
+58493,"Pleasant Hill, IA","Madrid, IA",3,14,7,7,8,9,8,8,8,24,2009
+58579,"Pleasant Hill, IA","Pella, IA",7,10,6,4,6,13,12,6,5,23,2009
+58301,"Pleasant Hill, IA","Cedar Falls, IA",13,7,3,0,10,13,9,13,1,23,2009
+58542,"Pleasant Hill, IA","Nevada, IA",9,8,6,7,6,10,10,8,5,23,2009
+58507,"Pleasant Hill, IA","Mason City, IA",9,10,3,0,7,15,10,6,6,22,2009
+58337,"Pleasant Hill, IA","Davenport, IA",7,11,3,1,7,13,13,2,6,21,2009
+58523,"Pleasant Hill, IA","Monroe, IA",4,14,3,4,12,5,5,9,7,21,2009
+58330,"Pleasant Hill, IA","Creston, IA",6,10,4,0,2,18,8,10,2,20,2009
+58417,"Pleasant Hill, IA","Hiawatha, IA",11,6,2,0,4,15,7,6,6,19,2009
+58393,"Pleasant Hill, IA","Granger, IA",8,10,1,2,12,5,11,3,5,19,2009
+58565,"Pleasant Hill, IA","Oskaloosa, IA",6,10,3,2,7,10,11,7,1,19,2009
+58295,"Pleasant Hill, IA","Cambridge, IA",1,13,4,7,8,3,5,3,10,18,2009
+58272,"Pleasant Hill, IA","Baxter, IA",2,14,2,8,7,3,4,6,8,18,2009
+58320,"Pleasant Hill, IA","Colo, IA",8,5,5,7,3,8,5,9,4,18,2009
+58564,"Pleasant Hill, IA","Osceola, IA",6,4,8,0,10,8,8,7,3,18,2009
+58585,"Pleasant Hill, IA","Pleasantville, IA",3,13,1,5,8,4,1,10,6,17,2009
+58291,"Pleasant Hill, IA","Burlington, IA",4,11,2,2,2,13,6,9,2,17,2009
+58348,"Pleasant Hill, IA","Dubuque, IA",6,8,3,0,7,10,11,4,2,17,2009
+58412,"Pleasant Hill, IA","Harvey, IA",3,11,3,1,11,5,8,7,2,17,2009
+58426,"Pleasant Hill, IA","Huxley, IA",4,9,4,2,9,6,6,5,6,17,2009
+58400,"Pleasant Hill, IA","Grinnell, IA",4,10,2,1,3,12,4,9,3,16,2009
+58324,"Pleasant Hill, IA","Coralville, IA",6,9,1,1,8,7,5,8,3,16,2009
+58669,"Pleasant Hill, IA","University Park, IA",8,7,0,1,4,10,7,4,4,15,2009
+58513,"Pleasant Hill, IA","Melcher-Dallas, IA",7,6,2,4,7,4,6,4,5,15,2009
+58305,"Pleasant Hill, IA","Centerville, IA",7,6,0,2,4,7,2,10,1,13,2009
+58518,"Pleasant Hill, IA","Minburn, IA",4,9,0,6,3,4,4,4,5,13,2009
+58354,"Pleasant Hill, IA","East Peru, IA",2,8,2,4,4,4,3,4,5,12,2009
+58704,"Pleasant Hill, IA","Winterset, IA",3,6,3,3,5,4,4,4,4,12,2009
+58248,"Pleasant Hill, IA","Albia, IA",5,6,1,0,4,8,5,7,0,12,2009
+58388,"Pleasant Hill, IA","Gilman, IA",2,9,1,6,3,3,1,7,4,12,2009
+58369,"Pleasant Hill, IA","Fairfield, IA",3,6,2,1,4,6,3,8,0,11,2009
+58461,"Pleasant Hill, IA","Lambs Grove, IA",2,6,3,0,6,5,3,5,3,11,2009
+58355,"Pleasant Hill, IA","Eddyville, IA",6,4,0,0,4,6,5,4,1,10,2009
+58612,"Pleasant Hill, IA","Robins, IA",2,7,1,3,1,6,2,1,7,10,2009
+58345,"Pleasant Hill, IA","Dexter, IA",3,4,3,4,3,3,4,3,3,10,2009
+58472,"Pleasant Hill, IA","Leon, IA",3,4,3,0,3,7,3,3,4,10,2009
+58668,"Pleasant Hill, IA","University Heights, IA",4,6,0,1,5,4,6,3,1,10,2009
+58562,"Pleasant Hill, IA","Orient, IA",2,6,2,2,0,8,2,6,2,10,2009
+58654,"Pleasant Hill, IA","Story City, IA",3,5,1,2,2,5,4,3,2,9,2009
+58578,"Pleasant Hill, IA","Patterson, IA",3,2,4,1,3,5,2,3,4,9,2009
+58514,"Pleasant Hill, IA","Merrill, IA",1,6,2,1,4,4,4,3,2,9,2009
+58648,"Pleasant Hill, IA","St. Marys, IA",1,7,1,1,2,6,2,4,3,9,2009
+58560,"Pleasant Hill, IA","Ogden, IA",4,4,1,1,3,5,2,5,2,9,2009
+58506,"Pleasant Hill, IA","Marysville, IA",2,4,2,1,2,5,3,3,2,8,2009
+58600,"Pleasant Hill, IA","Rathbun, IA",3,4,1,1,2,5,2,6,0,8,2009
+58244,"Pleasant Hill, IA","Adel, IA",2,4,2,0,3,5,2,5,1,8,2009
+58641,"Pleasant Hill, IA","Slater, IA",2,4,2,2,2,4,2,4,2,8,2009
+58673,"Pleasant Hill, IA","Van Meter, IA",6,2,0,2,3,3,2,3,3,8,2009
+58509,"Pleasant Hill, IA","Maxwell, IA",1,6,1,3,2,3,1,2,5,8,2009
+58622,"Pleasant Hill, IA","Sandyville, IA",4,3,1,2,4,2,4,3,1,8,2009
+58490,"Pleasant Hill, IA","Lynnville, IA",2,1,5,0,4,4,3,3,2,8,2009
+58489,"Pleasant Hill, IA","Luther, IA",1,6,1,1,2,5,0,5,3,8,2009
+58297,"Pleasant Hill, IA","Carroll, IA",3,3,2,0,2,6,3,4,1,8,2009
+58441,"Pleasant Hill, IA","Keokuk, IA",0,7,1,0,4,4,0,7,1,8,2009
+58608,"Pleasant Hill, IA","Rhodes, IA",4,2,2,1,5,2,3,3,2,8,2009
+58316,"Pleasant Hill, IA","Clio, IA",2,5,1,0,2,6,4,2,2,8,2009
+58433,"Pleasant Hill, IA","Iowa Falls, IA",3,3,1,1,2,4,6,1,0,7,2009
+58357,"Pleasant Hill, IA","Eldon, IA",4,1,2,0,1,6,4,3,0,7,2009
+58570,"Pleasant Hill, IA","Oxford, IA",2,3,2,0,4,3,2,2,3,7,2009
+58298,"Pleasant Hill, IA","Carter Lake, IA",1,4,2,1,2,4,1,6,0,7,2009
+58315,"Pleasant Hill, IA","Clinton, IA",1,4,2,0,1,6,1,4,2,7,2009
+58550,"Pleasant Hill, IA","Nodaway, IA",5,2,0,0,1,6,3,3,1,7,2009
+58670,"Pleasant Hill, IA","Urbana, IA",1,3,3,0,1,6,4,1,2,7,2009
+58386,"Pleasant Hill, IA","Gilbert, IA",1,5,1,2,0,5,3,3,1,7,2009
+58676,"Pleasant Hill, IA","Vinton, IA",3,4,0,1,4,2,4,1,2,7,2009
+58686,"Pleasant Hill, IA","Waverly, IA",1,4,2,2,1,4,3,3,1,7,2009
+58249,"Pleasant Hill, IA","Albion, IA",2,4,1,1,3,3,2,2,3,7,2009
+58246,"Pleasant Hill, IA","Agency, IA",5,2,0,0,2,5,4,2,1,7,2009
+58365,"Pleasant Hill, IA","Estherville, IA",0,4,2,0,2,4,1,4,1,6,2009
+58367,"Pleasant Hill, IA","Exira, IA",1,4,1,1,1,4,3,2,1,6,2009
+58377,"Pleasant Hill, IA","Forest City, IA",2,4,0,0,2,4,2,2,2,6,2009
+58615,"Pleasant Hill, IA","Roland, IA",4,2,0,2,0,4,2,4,0,6,2009
+58360,"Pleasant Hill, IA","Elk Run Heights, IA",3,1,2,0,3,3,5,1,0,6,2009
+58611,"Pleasant Hill, IA","Riverside, IA",4,1,1,0,3,3,2,2,2,6,2009
+58397,"Pleasant Hill, IA","Greenfield, IA",3,3,0,0,2,4,4,1,1,6,2009
+58618,"Pleasant Hill, IA","Russell, IA",1,4,1,0,4,2,0,5,1,6,2009
+58651,"Pleasant Hill, IA","Stanhope, IA",5,1,0,0,1,5,3,3,0,6,2009
+58467,"Pleasant Hill, IA","Le Roy, IA",2,1,3,0,2,4,3,3,0,6,2009
+58552,"Pleasant Hill, IA","North Liberty, IA",0,4,2,1,3,2,1,0,5,6,2009
+58440,"Pleasant Hill, IA","Kellogg, IA",4,2,0,1,3,2,3,1,2,6,2009
+58691,"Pleasant Hill, IA","West Burlington, IA",0,4,2,1,1,4,1,2,3,6,2009
+58454,"Pleasant Hill, IA","Lacona, IA",1,3,2,1,2,3,0,6,0,6,2009
+58678,"Pleasant Hill, IA","Walford, IA",2,2,2,1,2,3,1,3,2,6,2009
+58276,"Pleasant Hill, IA","Belle Plaine, IA",4,2,0,0,3,3,4,2,0,6,2009
+58478,"Pleasant Hill, IA","Liscomb, IA",2,2,2,1,5,0,4,1,1,6,2009
+58547,"Pleasant Hill, IA","New Sharon, IA",3,1,1,1,2,2,3,1,1,5,2009
+58664,"Pleasant Hill, IA","Toledo, IA",2,1,2,1,3,1,3,2,0,5,2009
+58299,"Pleasant Hill, IA","Casey, IA",1,3,1,2,3,0,1,2,2,5,2009
+58667,"Pleasant Hill, IA","Unionville, IA",1,2,2,0,0,5,2,2,1,5,2009
+58242,"Pleasant Hill, IA","Ackworth, IA",1,3,1,0,2,3,2,2,1,5,2009
+58540,"Pleasant Hill, IA","Muscatine, IA",2,3,0,0,1,4,3,2,0,5,2009
+58390,"Pleasant Hill, IA","Goldfield, IA",2,3,0,2,2,1,1,3,1,5,2009
+58279,"Pleasant Hill, IA","Bettendorf, IA",2,3,0,0,2,3,2,2,1,5,2009
+58379,"Pleasant Hill, IA","Fort Madison, IA",2,2,1,1,1,3,2,2,1,5,2009
+58526,"Pleasant Hill, IA","Montour, IA",2,3,0,1,2,2,3,2,0,5,2009
+58525,"Pleasant Hill, IA","Monticello, IA",2,3,0,2,1,2,0,2,3,5,2009
+58265,"Pleasant Hill, IA","Atlantic, IA",2,1,2,0,1,4,1,3,1,5,2009
+58705,"Pleasant Hill, IA","Woodward, IA",2,3,0,1,3,1,3,1,1,5,2009
+58352,"Pleasant Hill, IA","Eagle Grove, IA",1,3,1,1,1,3,3,0,2,5,2009
+58356,"Pleasant Hill, IA","Elberon, IA",2,3,0,0,4,1,2,2,1,5,2009
+58466,"Pleasant Hill, IA","Le Mars, IA",0,4,1,1,2,2,1,1,3,5,2009
+58327,"Pleasant Hill, IA","Corydon, IA",1,4,0,0,0,5,2,1,2,5,2009
+58563,"Pleasant Hill, IA","Osage, IA",2,1,2,0,1,4,3,1,1,5,2009
+58636,"Pleasant Hill, IA","Sigourney, IA",2,3,0,1,0,4,1,3,1,5,2009
+58643,"Pleasant Hill, IA","Spencer, IA",2,1,2,1,0,4,4,1,0,5,2009
+58465,"Pleasant Hill, IA","Le Grand, IA",1,2,2,0,0,5,1,3,1,5,2009
+58429,"Pleasant Hill, IA","Independence, IA",3,0,2,1,1,3,3,2,0,5,2009
+58425,"Pleasant Hill, IA","Humboldt, IA",2,2,1,1,2,2,1,4,0,5,2009
+58462,"Pleasant Hill, IA","Lamoni, IA",0,5,0,3,0,2,2,0,3,5,2009
+58312,"Pleasant Hill, IA","Clarinda, IA",1,3,1,0,2,3,2,1,2,5,2009
+58375,"Pleasant Hill, IA","Ferguson, IA",2,3,0,0,1,4,2,1,2,5,2009
+58598,"Pleasant Hill, IA","Randall, IA",3,0,1,0,1,3,3,1,0,4,2009
+58449,"Pleasant Hill, IA","Kirkville, IA",1,3,0,1,0,3,0,3,1,4,2009
+58594,"Pleasant Hill, IA","Promise City, IA",1,3,0,0,3,1,1,3,0,4,2009
+58569,"Pleasant Hill, IA","Owasa, IA",3,0,1,0,3,1,3,1,0,4,2009
+58502,"Pleasant Hill, IA","Marion, IA",0,3,1,2,1,1,1,0,3,4,2009
+58500,"Pleasant Hill, IA","Marcus, IA",2,2,0,0,0,4,2,1,1,4,2009
+58464,"Pleasant Hill, IA","Le Claire, IA",2,1,1,0,3,1,3,1,0,4,2009
+58487,"Pleasant Hill, IA","Low Moor, IA",1,2,1,0,1,3,2,0,2,4,2009
+58553,"Pleasant Hill, IA","Northwood, IA",1,3,0,0,2,2,1,2,1,4,2009
+58413,"Pleasant Hill, IA","Havelock, IA",1,1,2,0,2,2,2,2,0,4,2009
+58455,"Pleasant Hill, IA","Ladora, IA",2,1,1,0,1,3,2,0,2,4,2009
+58576,"Pleasant Hill, IA","Panorama Park, IA",1,2,1,0,0,4,2,1,1,4,2009
+58528,"Pleasant Hill, IA","Moravia, IA",3,1,0,0,0,4,1,3,0,4,2009
+58596,"Pleasant Hill, IA","Quimby, IA",1,3,0,0,1,3,1,1,2,4,2009
+58707,"Pleasant Hill, IA","Zearing, IA",0,4,0,1,0,3,1,2,1,4,2009
+58505,"Pleasant Hill, IA","Martelle, IA",4,0,0,0,1,3,2,2,0,4,2009
+58613,"Pleasant Hill, IA","Rock Valley, IA",0,3,1,1,0,3,0,1,3,4,2009
+58363,"Pleasant Hill, IA","Ely, IA",2,2,0,0,1,3,0,3,1,4,2009
+58626,"Pleasant Hill, IA","Sergeant Bluff, IA",1,3,0,0,1,3,1,1,2,4,2009
+58663,"Pleasant Hill, IA","Tipton, IA",2,1,1,0,1,3,1,2,1,4,2009
+58366,"Pleasant Hill, IA","Evansdale, IA",2,0,2,0,3,1,4,0,0,4,2009
+58339,"Pleasant Hill, IA","Decorah, IA",1,3,0,0,2,2,1,1,2,4,2009
+58280,"Pleasant Hill, IA","Blairstown, IA",1,3,0,2,2,0,3,0,1,4,2009
+58308,"Pleasant Hill, IA","Charles City, IA",1,2,1,0,0,4,1,1,2,4,2009
+58682,"Pleasant Hill, IA","Washington, IA",2,2,0,0,2,2,4,0,0,4,2009
+58628,"Pleasant Hill, IA","Shannon City, IA",4,0,0,1,2,1,3,1,0,4,2009
+58382,"Pleasant Hill, IA","Fremont, IA",3,0,1,2,1,1,3,1,0,4,2009
+58689,"Pleasant Hill, IA","Webster, IA",1,2,1,0,3,1,3,0,1,4,2009
+58674,"Pleasant Hill, IA","Victor, IA",1,3,0,0,1,3,1,3,0,4,2009
+58311,"Pleasant Hill, IA","Cincinnati, IA",0,3,1,1,2,1,1,1,2,4,2009
+58384,"Pleasant Hill, IA","Garwin, IA",1,2,1,2,2,0,1,1,2,4,2009
+58394,"Pleasant Hill, IA","Grant, IA",2,1,1,0,0,4,3,1,0,4,2009
+58256,"Pleasant Hill, IA","Anita, IA",4,0,0,1,1,2,3,1,0,4,2009
+58649,"Pleasant Hill, IA","St. Paul, IA",0,4,0,0,2,2,0,1,3,4,2009
+58402,"Pleasant Hill, IA","Guthrie Center, IA",3,1,0,1,1,2,2,1,1,4,2009
+58342,"Pleasant Hill, IA","Denison, IA",0,2,2,3,0,1,0,2,2,4,2009
+58282,"Pleasant Hill, IA","Bloomfield, IA",1,2,0,1,2,0,1,2,0,3,2009
+58313,"Pleasant Hill, IA","Clarion, IA",0,2,1,1,2,0,0,2,1,3,2009
+58551,"Pleasant Hill, IA","Nora Springs, IA",2,1,0,0,1,2,2,0,1,3,2009
+58650,"Pleasant Hill, IA","Stacyville, IA",3,0,0,0,1,2,3,0,0,3,2009
+58325,"Pleasant Hill, IA","Corning, IA",1,2,0,0,3,0,0,3,0,3,2009
+58662,"Pleasant Hill, IA","Tama, IA",3,0,0,0,2,1,1,2,0,3,2009
+58456,"Pleasant Hill, IA","Lake City, IA",1,1,1,0,2,1,0,2,1,3,2009
+58658,"Pleasant Hill, IA","Superior, IA",3,0,0,0,3,0,1,1,1,3,2009
+58534,"Pleasant Hill, IA","Mount Ayr, IA",2,0,1,0,1,2,1,2,0,3,2009
+58539,"Pleasant Hill, IA","Murray, IA",0,1,2,0,0,3,0,2,1,3,2009
+58477,"Pleasant Hill, IA","Lisbon, IA",0,2,1,0,2,1,0,2,1,3,2009
+58281,"Pleasant Hill, IA","Blakesburg, IA",1,1,1,0,3,0,1,1,1,3,2009
+58529,"Pleasant Hill, IA","Morley, IA",1,2,0,0,2,1,2,1,0,3,2009
+58277,"Pleasant Hill, IA","Bennett, IA",0,2,1,0,0,3,2,0,1,3,2009
+58688,"Pleasant Hill, IA","Webster City, IA",0,1,2,0,1,2,1,1,1,3,2009
+58266,"Pleasant Hill, IA","Audubon, IA",1,1,1,0,0,3,1,1,1,3,2009
+58261,"Pleasant Hill, IA","Arthur, IA",0,1,2,0,3,0,1,2,0,3,2009
+58698,"Pleasant Hill, IA","Whittemore, IA",2,1,0,0,0,3,1,0,2,3,2009
+58517,"Pleasant Hill, IA","Milton, IA",1,0,2,0,2,1,2,1,0,3,2009
+58497,"Pleasant Hill, IA","Manson, IA",2,1,0,1,0,2,2,1,0,3,2009
+58258,"Pleasant Hill, IA","Anthon, IA",0,3,0,0,2,1,0,1,2,3,2009
+58701,"Pleasant Hill, IA","Williamsburg, IA",2,1,0,0,2,1,0,1,2,3,2009
+58252,"Pleasant Hill, IA","Alton, IA",2,1,0,0,3,0,0,3,0,3,2009
+58706,"Pleasant Hill, IA","Yetter, IA",1,1,1,0,0,3,2,1,0,3,2009
+58334,"Pleasant Hill, IA","Dallas Center, IA",1,2,0,0,1,2,1,1,1,3,2009
+58405,"Pleasant Hill, IA","Hampton, IA",2,1,0,0,2,1,2,0,1,3,2009
+58451,"Pleasant Hill, IA","Knierim, IA",1,2,0,0,2,1,1,2,0,3,2009
+58414,"Pleasant Hill, IA","Haverhill, IA",0,3,0,0,0,3,0,2,1,3,2009
+58376,"Pleasant Hill, IA","Floyd, IA",0,0,3,0,1,2,1,1,1,3,2009
+58364,"Pleasant Hill, IA","Emmetsburg, IA",3,0,0,0,1,2,3,0,0,3,2009
+58573,"Pleasant Hill, IA","Palo, IA",0,3,0,0,0,3,1,2,0,3,2009
+58624,"Pleasant Hill, IA","Schaller, IA",0,3,0,1,0,2,0,3,0,3,2009
+58381,"Pleasant Hill, IA","Fraser, IA",1,1,1,0,0,3,1,2,0,3,2009
+58419,"Pleasant Hill, IA","Hillsboro, IA",0,1,2,2,0,1,0,1,2,3,2009
+58358,"Pleasant Hill, IA","Eldora, IA",2,0,1,0,3,0,0,3,0,3,2009
+58418,"Pleasant Hill, IA","Hills, IA",0,2,1,0,2,1,2,0,1,3,2009
+58604,"Pleasant Hill, IA","Redfield, IA",2,0,1,0,0,3,1,1,1,3,2009
+58567,"Pleasant Hill, IA","Ottosen, IA",1,1,1,0,0,3,2,1,0,3,2009
+58368,"Pleasant Hill, IA","Fairfax, IA",1,2,0,0,1,2,0,3,0,3,2009
+58588,"Pleasant Hill, IA","Popejoy, IA",0,3,0,0,1,2,0,1,2,3,2009
+58401,"Pleasant Hill, IA","Guernsey, IA",0,3,0,0,2,1,0,3,0,3,2009
+58637,"Pleasant Hill, IA","Silver City, IA",1,1,1,0,3,0,1,1,1,3,2009
+58633,"Pleasant Hill, IA","Shenandoah, IA",1,1,1,0,0,3,1,1,1,3,2009
+58447,"Pleasant Hill, IA","Kinross, IA",2,0,1,0,0,3,1,2,0,3,2009
+58685,"Pleasant Hill, IA","Waukon, IA",2,0,0,0,1,1,1,0,1,2,2009
+58623,"Pleasant Hill, IA","Scarville, IA",1,1,0,0,0,2,1,1,0,2,2009
+58620,"Pleasant Hill, IA","Rutland, IA",1,1,0,0,0,2,1,1,0,2,2009
+58595,"Pleasant Hill, IA","Protivin, IA",0,1,1,0,0,2,0,1,1,2,2009
+58702,"Pleasant Hill, IA","Wilton, IA",1,1,0,0,1,1,0,0,2,2,2009
+58699,"Pleasant Hill, IA","Whitten, IA",2,0,0,0,1,1,2,0,0,2,2009
+58592,"Pleasant Hill, IA","Preston, IA",0,1,1,0,0,2,1,0,1,2,2009
+58602,"Pleasant Hill, IA","Red Oak, IA",1,1,0,0,0,2,0,2,0,2,2009
+58524,"Pleasant Hill, IA","Montezuma, IA",0,2,0,0,2,0,0,2,0,2,2009
+58697,"Pleasant Hill, IA","Westfield, IA",1,1,0,0,1,1,0,2,0,2,2009
+58532,"Pleasant Hill, IA","Moulton, IA",0,2,0,1,0,1,1,0,1,2,2009
+58609,"Pleasant Hill, IA","Richland, IA",2,0,0,0,0,2,1,1,0,2,2009
+58582,"Pleasant Hill, IA","Plano, IA",0,2,0,0,0,2,0,2,0,2,2009
+58538,"Pleasant Hill, IA","Moville, IA",0,2,0,0,0,2,0,2,0,2,2009
+58533,"Pleasant Hill, IA","Mount Auburn, IA",2,0,0,1,0,1,1,0,1,2,2009
+58575,"Pleasant Hill, IA","Panora, IA",0,1,1,0,0,2,1,1,0,2,2009
+58599,"Pleasant Hill, IA","Randolph, IA",0,1,1,0,1,1,2,0,0,2,2009
+58561,"Pleasant Hill, IA","Orange City, IA",1,1,0,0,0,2,2,0,0,2,2009
+58634,"Pleasant Hill, IA","Shueyville, IA",2,0,0,0,1,1,0,2,0,2,2009
+58632,"Pleasant Hill, IA","Shell Rock, IA",2,0,0,0,0,2,0,2,0,2,2009
+58652,"Pleasant Hill, IA","Steamboat Rock, IA",2,0,0,0,0,2,2,0,0,2,2009
+58656,"Pleasant Hill, IA","Sully, IA",0,1,1,0,2,0,1,0,1,2,2009
+58631,"Pleasant Hill, IA","Sheldon, IA",1,1,0,0,0,2,0,1,1,2,2009
+58566,"Pleasant Hill, IA","Otho, IA",0,1,1,1,1,0,0,0,2,2,2009
+58657,"Pleasant Hill, IA","Sumner, IA",0,2,0,0,2,0,1,1,0,2,2009
+58629,"Pleasant Hill, IA","Sharpsburg, IA",1,0,1,0,0,2,1,1,0,2,2009
+58627,"Pleasant Hill, IA","Seymour, IA",0,1,1,0,0,2,1,0,1,2,2009
+58543,"Pleasant Hill, IA","New Hampton, IA",1,1,0,0,1,1,0,0,2,2,2009
+58665,"Pleasant Hill, IA","Traer, IA",0,2,0,0,1,1,0,2,0,2,2009
+58625,"Pleasant Hill, IA","Schleswig, IA",0,1,1,0,0,2,0,1,1,2,2009
+58541,"Pleasant Hill, IA","Mystic, IA",1,1,0,1,0,1,1,1,0,2,2009
+58675,"Pleasant Hill, IA","Vining, IA",2,0,0,1,1,0,0,2,0,2,2009
+58571,"Pleasant Hill, IA","Packwood, IA",2,0,0,0,0,2,2,0,0,2,2009
+58556,"Pleasant Hill, IA","Oakland, IA",0,1,1,0,1,1,1,1,0,2,2009
+58537,"Pleasant Hill, IA","Mount Vernon, IA",1,1,0,0,0,2,0,1,1,2,2009
+58644,"Pleasant Hill, IA","Spirit Lake, IA",2,0,0,0,0,2,1,1,0,2,2009
+58474,"Pleasant Hill, IA","Lewis, IA",0,2,0,0,1,1,1,1,0,2,2009
+58445,"Pleasant Hill, IA","Kimballton, IA",0,2,0,0,0,2,1,1,0,2,2009
+58294,"Pleasant Hill, IA","Camanche, IA",0,1,1,0,0,2,2,0,0,2,2009
+58321,"Pleasant Hill, IA","Colwell, IA",0,2,0,0,0,2,0,0,2,2,2009
+58283,"Pleasant Hill, IA","Blue Grass, IA",0,2,0,0,0,2,1,0,1,2,2009
+58284,"Pleasant Hill, IA","Bonaparte, IA",1,1,0,0,1,1,0,2,0,2,2009
+58469,"Pleasant Hill, IA","Lehigh, IA",2,0,0,0,1,1,1,1,0,2,2009
+58333,"Pleasant Hill, IA","Dakota City, IA",0,1,1,0,0,2,1,1,0,2,2009
+58288,"Pleasant Hill, IA","Britt, IA",1,0,1,0,0,2,1,0,1,2,2009
+58410,"Pleasant Hill, IA","Harris, IA",1,1,0,0,0,2,0,2,0,2,2009
+58290,"Pleasant Hill, IA","Buffalo, IA",0,2,0,0,0,2,0,0,2,2,2009
+58292,"Pleasant Hill, IA","Bussey, IA",0,2,0,0,2,0,1,0,1,2,2009
+58457,"Pleasant Hill, IA","Lake Mills, IA",1,1,0,0,1,1,1,1,0,2,2009
+58293,"Pleasant Hill, IA","Callender, IA",1,1,0,0,2,0,1,0,1,2,2009
+58453,"Pleasant Hill, IA","La Porte City, IA",1,1,0,0,0,2,1,1,0,2,2009
+58300,"Pleasant Hill, IA","Castalia, IA",0,1,1,0,1,1,1,1,0,2,2009
+58341,"Pleasant Hill, IA","Defiance, IA",0,1,1,0,0,2,2,0,0,2,2009
+58411,"Pleasant Hill, IA","Hartwick, IA",1,1,0,0,0,2,1,0,1,2,2009
+58304,"Pleasant Hill, IA","Center Point, IA",1,1,0,0,0,2,1,1,0,2,2009
+58443,"Pleasant Hill, IA","Keota, IA",0,1,1,1,1,0,0,1,1,2,2009
+58442,"Pleasant Hill, IA","Keosauqua, IA",0,1,1,1,0,1,1,1,0,2,2009
+58329,"Pleasant Hill, IA","Craig, IA",1,1,0,0,1,1,0,1,1,2,2009
+58438,"Pleasant Hill, IA","Kamrar, IA",0,1,1,0,2,0,0,1,1,2,2009
+58420,"Pleasant Hill, IA","Hinton, IA",2,0,0,0,2,0,2,0,0,2,2009
+58436,"Pleasant Hill, IA","Joice, IA",1,1,0,0,1,1,2,0,0,2,2009
+58326,"Pleasant Hill, IA","Corwith, IA",1,1,0,1,0,1,0,2,0,2,2009
+58422,"Pleasant Hill, IA","Hospers, IA",1,1,0,0,1,1,2,0,0,2,2009
+58423,"Pleasant Hill, IA","Hubbard, IA",1,1,0,0,1,1,2,0,0,2,2009
+58322,"Pleasant Hill, IA","Conrad, IA",1,1,0,0,0,2,2,0,0,2,2009
+58475,"Pleasant Hill, IA","Linden, IA",1,1,0,0,2,0,2,0,0,2,2009
+58471,"Pleasant Hill, IA","Lenox, IA",2,0,0,0,1,1,2,0,0,2,2009
+58403,"Pleasant Hill, IA","Guttenberg, IA",1,0,1,0,1,1,1,1,0,2,2009
+58484,"Pleasant Hill, IA","Long Grove, IA",1,0,1,0,1,1,2,0,0,2,2009
+58501,"Pleasant Hill, IA","Marengo, IA",1,1,0,0,1,1,0,2,0,2,2009
+58245,"Pleasant Hill, IA","Afton, IA",0,1,1,1,0,1,1,1,0,2,2009
+58370,"Pleasant Hill, IA","Farley, IA",1,1,0,0,0,2,2,0,0,2,2009
+58362,"Pleasant Hill, IA","Ellsworth, IA",2,0,0,0,2,0,1,1,0,2,2009
+58255,"Pleasant Hill, IA","Anamosa, IA",2,0,0,1,0,1,1,1,0,2,2009
+58262,"Pleasant Hill, IA","Asbury, IA",2,0,0,0,1,1,2,0,0,2,2009
+58351,"Pleasant Hill, IA","Dysart, IA",1,1,0,0,0,2,1,0,1,2,2009
+58263,"Pleasant Hill, IA","Ashton, IA",1,0,1,0,0,2,1,0,1,2,2009
+58264,"Pleasant Hill, IA","Atkins, IA",0,2,0,1,0,1,0,0,2,2,2009
+58347,"Pleasant Hill, IA","Donnellson, IA",0,1,1,0,1,1,1,1,0,2,2009
+58485,"Pleasant Hill, IA","Lorimor, IA",0,2,0,0,1,1,0,1,1,2,2009
+58427,"Pleasant Hill, IA","Ida Grove, IA",0,0,2,0,0,2,1,1,0,2,2009
+58392,"Pleasant Hill, IA","Grandview, IA",2,0,0,0,0,2,0,2,0,2,2009
+58343,"Pleasant Hill, IA","Denver, IA",0,1,1,0,1,1,1,1,0,2,2009
+58395,"Pleasant Hill, IA","Gravity, IA",0,2,0,1,1,0,0,1,1,2,2009
+58396,"Pleasant Hill, IA","Gray, IA",1,1,0,0,2,0,1,1,0,2,2009
+58271,"Pleasant Hill, IA","Bancroft, IA",1,0,1,0,0,2,1,1,0,2,2009
+58359,"Pleasant Hill, IA","Eldridge, IA",1,0,0,0,1,0,0,1,0,1,2009
+58638,"Pleasant Hill, IA","Sioux Center, IA",0,0,1,0,0,1,1,0,0,1,2009
+58621,"Pleasant Hill, IA","Sac City, IA",1,0,0,0,1,0,0,1,0,1,2009
+58635,"Pleasant Hill, IA","Sidney, IA",0,1,0,0,0,1,0,1,0,1,2009
+58323,"Pleasant Hill, IA","Coon Rapids, IA",0,0,1,0,0,1,0,0,1,1,2009
+58371,"Pleasant Hill, IA","Farmersburg, IA",1,0,0,0,1,0,0,1,0,1,2009
+58336,"Pleasant Hill, IA","Danville, IA",1,0,0,0,0,1,1,0,0,1,2009
+58640,"Pleasant Hill, IA","Sioux Rapids, IA",1,0,0,0,0,1,1,0,0,1,2009
+58361,"Pleasant Hill, IA","Elkader, IA",0,1,0,0,1,0,0,1,0,1,2009
+58647,"Pleasant Hill, IA","St. Ansgar, IA",0,1,0,0,0,1,1,0,0,1,2009
+58353,"Pleasant Hill, IA","Early, IA",1,0,0,0,1,0,1,0,0,1,2009
+58346,"Pleasant Hill, IA","Dixon, IA",0,1,0,0,0,1,0,0,1,1,2009
+58646,"Pleasant Hill, IA","Springville, IA",0,1,0,0,0,1,0,0,1,1,2009
+58331,"Pleasant Hill, IA","Cromwell, IA",0,0,1,0,0,1,0,1,0,1,2009
+58335,"Pleasant Hill, IA","Danbury, IA",0,0,1,1,0,0,0,1,0,1,2009
+58350,"Pleasant Hill, IA","Dyersville, IA",1,0,0,0,1,0,0,1,0,1,2009
+58630,"Pleasant Hill, IA","Shelby, IA",1,0,0,0,0,1,1,0,0,1,2009
+58340,"Pleasant Hill, IA","Dedham, IA",0,1,0,0,0,1,0,1,0,1,2009
+58349,"Pleasant Hill, IA","Dunlap, IA",0,1,0,1,0,0,0,0,1,1,2009
+58642,"Pleasant Hill, IA","South English, IA",0,1,0,0,0,1,0,0,1,1,2009
+58332,"Pleasant Hill, IA","Cushing, IA",0,0,1,0,1,0,1,0,0,1,2009
+58503,"Pleasant Hill, IA","Marquette, IA",1,0,0,0,1,0,0,1,0,1,2009
+58653,"Pleasant Hill, IA","Storm Lake, IA",0,1,0,0,0,1,1,0,0,1,2009
+58274,"Pleasant Hill, IA","Beaman, IA",0,0,1,0,1,0,0,1,0,1,2009
+58270,"Pleasant Hill, IA","Balltown, IA",1,0,0,0,0,1,1,0,0,1,2009
+58269,"Pleasant Hill, IA","Baldwin, IA",1,0,0,0,0,1,1,0,0,1,2009
+58687,"Pleasant Hill, IA","Webb, IA",0,1,0,0,1,0,1,0,0,1,2009
+58268,"Pleasant Hill, IA","Bagley, IA",0,1,0,0,0,1,0,1,0,1,2009
+58267,"Pleasant Hill, IA","Avoca, IA",0,0,1,0,0,1,0,1,0,1,2009
+58690,"Pleasant Hill, IA","West Branch, IA",1,0,0,0,0,1,1,0,0,1,2009
+58692,"Pleasant Hill, IA","West Chester, IA",0,1,0,0,0,1,0,0,1,1,2009
+58694,"Pleasant Hill, IA","West Liberty, IA",0,1,0,1,0,0,0,1,0,1,2009
+58695,"Pleasant Hill, IA","West Point, IA",0,1,0,0,1,0,0,1,0,1,2009
+58696,"Pleasant Hill, IA","West Union, IA",1,0,0,0,0,1,1,0,0,1,2009
+58260,"Pleasant Hill, IA","Armstrong, IA",1,0,0,0,0,1,1,0,0,1,2009
+58259,"Pleasant Hill, IA","Arcadia, IA",0,1,0,0,1,0,0,0,1,1,2009
+58700,"Pleasant Hill, IA","Willey, IA",0,1,0,0,1,0,0,1,0,1,2009
+58251,"Pleasant Hill, IA","Algona, IA",0,1,0,0,0,1,0,0,1,1,2009
+58250,"Pleasant Hill, IA","Alden, IA",1,0,0,0,0,1,1,0,0,1,2009
+58247,"Pleasant Hill, IA","Akron, IA",0,1,0,1,0,0,0,0,1,1,2009
+58243,"Pleasant Hill, IA","Adair, IA",1,0,0,0,1,0,1,0,0,1,2009
+58273,"Pleasant Hill, IA","Bayard, IA",1,0,0,0,1,0,0,1,0,1,2009
+58681,"Pleasant Hill, IA","Wapello, IA",0,1,0,1,0,0,0,1,0,1,2009
+58318,"Pleasant Hill, IA","Clutier, IA",0,1,0,0,0,1,0,0,1,1,2009
+58680,"Pleasant Hill, IA","Walnut, IA",0,1,0,0,0,1,0,1,0,1,2009
+58655,"Pleasant Hill, IA","Strawberry Point, IA",0,0,1,0,0,1,0,1,0,1,2009
+58314,"Pleasant Hill, IA","Clear Lake, IA",0,0,1,0,0,1,0,1,0,1,2009
+58310,"Pleasant Hill, IA","Cherokee, IA",1,0,0,0,1,0,1,0,0,1,2009
+58309,"Pleasant Hill, IA","Charter Oak, IA",0,1,0,0,0,1,0,1,0,1,2009
+58306,"Pleasant Hill, IA","Central City, IA",1,0,0,0,0,1,0,1,0,1,2009
+58660,"Pleasant Hill, IA","Swea City, IA",1,0,0,0,1,0,1,0,0,1,2009
+58619,"Pleasant Hill, IA","Ruthven, IA",0,1,0,0,0,1,1,0,0,1,2009
+58661,"Pleasant Hill, IA","Swisher, IA",1,0,0,0,1,0,1,0,0,1,2009
+58303,"Pleasant Hill, IA","Center Junction, IA",0,1,0,0,0,1,0,0,1,1,2009
+58666,"Pleasant Hill, IA","Union, IA",0,1,0,0,1,0,1,0,0,1,2009
+58289,"Pleasant Hill, IA","Buffalo Center, IA",0,0,1,0,0,1,0,1,0,1,2009
+58672,"Pleasant Hill, IA","Van Horne, IA",0,0,1,0,0,1,1,0,0,1,2009
+58287,"Pleasant Hill, IA","Boxholm, IA",1,0,0,0,0,1,1,0,0,1,2009
+58278,"Pleasant Hill, IA","Bertram, IA",0,0,1,0,1,0,1,0,0,1,2009
+58677,"Pleasant Hill, IA","Walcott, IA",0,0,1,0,0,1,1,0,0,1,2009
+58275,"Pleasant Hill, IA","Bedford, IA",1,0,0,0,0,1,1,0,0,1,2009
+58679,"Pleasant Hill, IA","Wall Lake, IA",0,1,0,0,0,1,0,1,0,1,2009
+58372,"Pleasant Hill, IA","Farmington, IA",1,0,0,0,1,0,1,0,0,1,2009
+58607,"Pleasant Hill, IA","Renwick, IA",0,1,0,0,1,0,0,1,0,1,2009
+58373,"Pleasant Hill, IA","Farnhamville, IA",1,0,0,0,1,0,1,0,0,1,2009
+58374,"Pleasant Hill, IA","Fayette, IA",0,1,0,0,1,0,1,0,0,1,2009
+58481,"Pleasant Hill, IA","Lockridge, IA",0,1,0,0,1,0,0,1,0,1,2009
+58535,"Pleasant Hill, IA","Mount Pleasant, IA",0,1,0,0,0,1,0,0,1,1,2009
+58536,"Pleasant Hill, IA","Mount Union, IA",0,0,1,0,0,1,1,0,0,1,2009
+58480,"Pleasant Hill, IA","Livermore, IA",0,1,0,0,0,1,0,0,1,1,2009
+58479,"Pleasant Hill, IA","Little Rock, IA",0,1,0,0,1,0,1,0,0,1,2009
+58476,"Pleasant Hill, IA","Lineville, IA",1,0,0,0,0,1,1,0,0,1,2009
+58473,"Pleasant Hill, IA","Lester, IA",0,0,1,0,0,1,0,1,0,1,2009
+58470,"Pleasant Hill, IA","Leland, IA",0,0,1,0,0,1,1,0,0,1,2009
+58544,"Pleasant Hill, IA","New Liberty, IA",0,1,0,0,0,1,0,0,1,1,2009
+58545,"Pleasant Hill, IA","New London, IA",0,0,1,0,0,1,0,1,0,1,2009
+58546,"Pleasant Hill, IA","New Market, IA",1,0,0,0,0,1,1,0,0,1,2009
+58468,"Pleasant Hill, IA","Ledyard, IA",0,1,0,0,0,1,0,1,0,1,2009
+58549,"Pleasant Hill, IA","Nichols, IA",1,0,0,0,0,1,0,1,0,1,2009
+58463,"Pleasant Hill, IA","Laurens, IA",0,0,1,0,1,0,0,1,0,1,2009
+58460,"Pleasant Hill, IA","Lakota, IA",1,0,0,0,0,1,1,0,0,1,2009
+58459,"Pleasant Hill, IA","Lakeside, IA",1,0,0,0,1,0,0,1,0,1,2009
+58458,"Pleasant Hill, IA","Lake Park, IA",0,1,0,0,0,1,0,1,0,1,2009
+58555,"Pleasant Hill, IA","Norway, IA",1,0,0,0,0,1,1,0,0,1,2009
+58557,"Pleasant Hill, IA","Oakville, IA",1,0,0,0,0,1,1,0,0,1,2009
+58482,"Pleasant Hill, IA","Logan, IA",0,1,0,1,0,0,0,1,0,1,2009
+58483,"Pleasant Hill, IA","Lone Tree, IA",0,1,0,0,0,1,1,0,0,1,2009
+58531,"Pleasant Hill, IA","Morrison, IA",0,1,0,0,0,1,1,0,0,1,2009
+58495,"Pleasant Hill, IA","Manchester, IA",0,0,1,0,0,1,0,1,0,1,2009
+58510,"Pleasant Hill, IA","McClelland, IA",0,0,1,0,0,1,0,0,1,1,2009
+58511,"Pleasant Hill, IA","McIntire, IA",0,1,0,0,0,1,1,0,0,1,2009
+58512,"Pleasant Hill, IA","Mediapolis, IA",1,0,0,1,0,0,0,0,1,1,2009
+58499,"Pleasant Hill, IA","Marble Rock, IA",0,1,0,0,0,1,0,0,1,1,2009
+58498,"Pleasant Hill, IA","Maquoketa, IA",1,0,0,0,0,1,0,0,1,1,2009
+58515,"Pleasant Hill, IA","Middletown, IA",0,1,0,0,0,1,0,1,0,1,2009
+58516,"Pleasant Hill, IA","Millerton, IA",0,1,0,1,0,0,0,0,1,1,2009
+58496,"Pleasant Hill, IA","Manilla, IA",0,1,0,0,0,1,1,0,0,1,2009
+58519,"Pleasant Hill, IA","Missouri Valley, IA",1,0,0,0,0,1,0,1,0,1,2009
+58530,"Pleasant Hill, IA","Morning Sun, IA",1,0,0,0,1,0,1,0,0,1,2009
+58494,"Pleasant Hill, IA","Malcom, IA",1,0,0,0,1,0,0,1,0,1,2009
+58521,"Pleasant Hill, IA","Mondamin, IA",1,0,0,0,0,1,0,1,0,1,2009
+58522,"Pleasant Hill, IA","Monona, IA",1,0,0,1,0,0,0,1,0,1,2009
+58492,"Pleasant Hill, IA","Macksburg, IA",0,1,0,0,0,1,0,0,1,1,2009
+58491,"Pleasant Hill, IA","Macedonia, IA",1,0,0,0,1,0,0,1,0,1,2009
+58488,"Pleasant Hill, IA","Luana, IA",0,1,0,0,0,1,0,0,1,1,2009
+58486,"Pleasant Hill, IA","Lost Nation, IA",0,1,0,1,0,0,0,1,0,1,2009
+58527,"Pleasant Hill, IA","Moorhead, IA",1,0,0,0,0,1,0,1,0,1,2009
+58558,"Pleasant Hill, IA","Odebolt, IA",0,1,0,0,0,1,0,0,1,1,2009
+58559,"Pleasant Hill, IA","Oelwein, IA",0,0,1,1,0,0,0,1,0,1,2009
+58450,"Pleasant Hill, IA","Klemme, IA",0,1,0,0,0,1,0,0,1,1,2009
+58508,"Pleasant Hill, IA","Maurice, IA",0,1,0,0,1,0,0,0,1,1,2009
+58407,"Pleasant Hill, IA","Hardy, IA",0,1,0,0,0,1,0,1,0,1,2009
+58406,"Pleasant Hill, IA","Hancock, IA",1,0,0,0,0,1,1,0,0,1,2009
+58597,"Pleasant Hill, IA","Randalia, IA",0,1,0,0,0,1,0,1,0,1,2009
+58404,"Pleasant Hill, IA","Hamburg, IA",0,1,0,0,1,0,0,0,1,1,2009
+58398,"Pleasant Hill, IA","Greenville, IA",0,1,0,0,0,1,0,0,1,1,2009
+58603,"Pleasant Hill, IA","Redding, IA",1,0,0,0,1,0,1,0,0,1,2009
+58605,"Pleasant Hill, IA","Reinbeck, IA",0,1,0,1,0,0,0,1,0,1,2009
+58606,"Pleasant Hill, IA","Remsen, IA",1,0,0,0,1,0,1,0,0,1,2009
+58391,"Pleasant Hill, IA","Grand Junction, IA",1,0,0,0,0,1,0,1,0,1,2009
+58593,"Pleasant Hill, IA","Princeton, IA",0,0,1,0,1,0,1,0,0,1,2009
+58389,"Pleasant Hill, IA","Glidden, IA",1,0,0,0,1,0,0,1,0,1,2009
+58610,"Pleasant Hill, IA","Riverdale, IA",0,0,1,0,1,0,0,1,0,1,2009
+58387,"Pleasant Hill, IA","Gilbertville, IA",0,1,0,0,1,0,0,1,0,1,2009
+58385,"Pleasant Hill, IA","Gibson, IA",0,1,0,0,1,0,0,1,0,1,2009
+58383,"Pleasant Hill, IA","Garner, IA",0,1,0,0,0,1,1,0,0,1,2009
+58614,"Pleasant Hill, IA","Rockwell City, IA",0,0,1,1,0,0,0,0,1,1,2009
+58380,"Pleasant Hill, IA","Franklin, IA",0,0,1,0,0,1,0,1,0,1,2009
+58616,"Pleasant Hill, IA","Royal, IA",0,1,0,0,0,1,0,0,1,1,2009
+58408,"Pleasant Hill, IA","Harlan, IA",0,1,0,0,0,1,0,1,0,1,2009
+58409,"Pleasant Hill, IA","Harpers Ferry, IA",0,1,0,0,0,1,0,0,1,1,2009
+58448,"Pleasant Hill, IA","Kirkman, IA",1,0,0,0,1,0,0,1,0,1,2009
+58428,"Pleasant Hill, IA","Imogene, IA",0,1,0,0,0,1,1,0,0,1,2009
+58446,"Pleasant Hill, IA","Kingsley, IA",0,1,0,0,0,1,1,0,0,1,2009
+58444,"Pleasant Hill, IA","Keystone, IA",1,0,0,0,1,0,0,1,0,1,2009
+58439,"Pleasant Hill, IA","Kellerton, IA",1,0,0,0,1,0,0,0,1,1,2009
+58437,"Pleasant Hill, IA","Kalona, IA",0,1,0,0,1,0,0,1,0,1,2009
+58434,"Pleasant Hill, IA","Irwin, IA",1,0,0,0,0,1,1,0,0,1,2009
+58572,"Pleasant Hill, IA","Palmer, IA",0,1,0,0,1,0,0,0,1,1,2009
+58431,"Pleasant Hill, IA","Inwood, IA",0,1,0,0,0,1,0,0,1,1,2009
+58574,"Pleasant Hill, IA","Panama, IA",0,1,0,0,0,1,0,1,0,1,2009
+58577,"Pleasant Hill, IA","Parnell, IA",0,0,1,0,0,1,0,1,0,1,2009
+58591,"Pleasant Hill, IA","Prairieburg, IA",0,1,0,0,1,0,0,1,0,1,2009
+58424,"Pleasant Hill, IA","Hull, IA",1,0,0,0,0,1,1,0,0,1,2009
+58581,"Pleasant Hill, IA","Pierson, IA",1,0,0,0,1,0,0,1,0,1,2009
+58421,"Pleasant Hill, IA","Hopkinton, IA",1,0,0,0,1,0,1,0,0,1,2009
+58584,"Pleasant Hill, IA","Pleasanton, IA",1,0,0,0,1,0,1,0,0,1,2009
+58416,"Pleasant Hill, IA","Henderson, IA",0,1,0,0,1,0,0,1,0,1,2009
+58415,"Pleasant Hill, IA","Hazleton, IA",0,0,1,0,0,1,0,1,0,1,2009
+58587,"Pleasant Hill, IA","Pomeroy, IA",0,1,0,0,0,1,0,1,0,1,2009
+58589,"Pleasant Hill, IA","Portsmouth, IA",0,1,0,0,0,1,0,0,1,1,2009
+58241,"Pleasant Hill, IA","Ackley, IA",0,1,0,0,0,1,1,0,0,1,2009

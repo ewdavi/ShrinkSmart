@@ -1,0 +1,530 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+13050,"Council Bluffs, IA","Council Bluffs, IA",4366,7928,2306,2044,9012,3544,5455,6786,2359,14600,2003
+13019,"Council Bluffs, IA","Carter Lake, IA",431,684,268,187,883,313,473,702,208,1383,2003
+13136,"Council Bluffs, IA","Glenwood, IA",128,262,54,41,298,105,151,193,100,444,2003
+13393,"Council Bluffs, IA","Sioux City, IA",89,123,30,16,67,159,119,92,31,242,2003
+13263,"Council Bluffs, IA","Missouri Valley, IA",72,136,22,38,158,34,51,127,52,230,2003
+13073,"Council Bluffs, IA","Des Moines, IA",88,104,23,32,69,114,87,88,40,215,2003
+13391,"Council Bluffs, IA","Silver City, IA",43,111,28,36,97,49,54,84,44,182,2003
+13052,"Council Bluffs, IA","Crescent, IA",51,86,39,23,110,43,58,87,31,176,2003
+13224,"Council Bluffs, IA","Logan, IA",38,80,13,14,87,30,38,63,30,131,2003
+13320,"Council Bluffs, IA","Pacific Junction, IA",35,75,16,20,76,30,43,58,25,126,2003
+13384,"Council Bluffs, IA","Shelby, IA",43,66,15,16,86,22,33,68,23,124,2003
+13262,"Council Bluffs, IA","Minden, IA",33,65,17,11,76,28,24,62,29,115,2003
+13250,"Council Bluffs, IA","McClelland, IA",23,71,17,18,64,29,36,48,27,111,2003
+13164,"Council Bluffs, IA","Henderson, IA",27,54,25,16,64,26,44,30,32,106,2003
+13430,"Council Bluffs, IA","Underwood, IA",24,65,10,14,60,25,22,53,24,99,2003
+12980,"Council Bluffs, IA","Atlantic, IA",32,54,8,4,77,13,38,48,8,94,2003
+13071,"Council Bluffs, IA","Denison, IA",32,54,6,52,15,25,23,62,7,92,2003
+13153,"Council Bluffs, IA","Hancock, IA",32,42,15,15,59,15,24,43,22,89,2003
+13017,"Council Bluffs, IA","Carroll, IA",38,27,22,13,28,46,59,21,7,87,2003
+13266,"Council Bluffs, IA","Mondamin, IA",24,47,11,23,47,12,22,37,23,82,2003
+13303,"Council Bluffs, IA","Oakland, IA",30,41,10,20,49,12,22,39,20,81,2003
+12965,"Council Bluffs, IA","Ames, IA",35,40,5,9,21,50,32,33,15,80,2003
+13447,"Council Bluffs, IA","Waterloo, IA",38,38,3,43,10,26,18,53,8,79,2003
+13018,"Council Bluffs, IA","Carson, IA",19,46,11,10,49,17,17,50,9,76,2003
+13155,"Council Bluffs, IA","Harlan, IA",20,49,7,9,60,7,25,34,17,76,2003
+13424,"Council Bluffs, IA","Tennant, IA",12,44,16,7,49,16,16,47,9,72,2003
+13218,"Council Bluffs, IA","Lewis, IA",21,37,13,3,39,29,24,37,10,71,2003
+13353,"Council Bluffs, IA","Red Oak, IA",20,31,11,4,37,21,34,17,11,62,2003
+13471,"Council Bluffs, IA","Windsor Heights, IA",23,24,14,8,17,36,27,24,10,61,2003
+13387,"Council Bluffs, IA","Shenandoah, IA",19,16,22,4,27,26,22,26,9,57,2003
+13435,"Council Bluffs, IA","Urbandale, IA",26,23,7,4,18,34,24,25,7,56,2003
+13477,"Council Bluffs, IA","Woodbine, IA",14,30,10,17,28,9,14,29,11,54,2003
+12969,"Council Bluffs, IA","Ankeny, IA",27,21,5,7,15,31,25,18,10,53,2003
+13034,"Council Bluffs, IA","Clarinda, IA",28,15,9,0,38,14,28,21,3,52,2003
+13334,"Council Bluffs, IA","Pleasant Hill, IA",18,27,5,7,18,25,27,16,7,50,2003
+13151,"Council Bluffs, IA","Hamburg, IA",19,20,10,4,26,19,12,37,0,49,2003
+13234,"Council Bluffs, IA","Malvern, IA",17,27,2,5,30,11,12,26,8,46,2003
+13061,"Council Bluffs, IA","Davenport, IA",15,26,5,18,13,15,16,24,6,46,2003
+13040,"Council Bluffs, IA","Clive, IA",19,19,5,2,17,24,22,16,5,43,2003
+13022,"Council Bluffs, IA","Cedar Falls, IA",12,24,4,29,3,8,5,29,6,40,2003
+13323,"Council Bluffs, IA","Panama, IA",14,21,5,2,26,12,15,18,7,40,2003
+13349,"Council Bluffs, IA","Randolph, IA",6,26,7,10,17,12,10,23,6,39,2003
+13247,"Council Bluffs, IA","Mason City, IA",16,21,2,23,7,9,4,32,3,39,2003
+13023,"Council Bluffs, IA","Cedar Rapids, IA",13,22,3,5,12,21,8,20,10,38,2003
+13340,"Council Bluffs, IA","Portsmouth, IA",8,21,8,9,23,5,9,22,6,37,2003
+13459,"Council Bluffs, IA","West Des Moines, IA",18,15,3,5,11,20,14,17,5,36,2003
+13120,"Council Bluffs, IA","Fort Dodge, IA",11,16,3,4,3,23,12,10,8,30,2003
+13189,"Council Bluffs, IA","Johnston, IA",7,19,3,5,8,16,9,15,5,29,2003
+13001,"Council Bluffs, IA","Boone, IA",9,14,4,2,6,19,9,11,7,27,2003
+13444,"Council Bluffs, IA","Walnut, IA",6,15,4,3,16,6,8,10,7,25,2003
+12984,"Council Bluffs, IA","Avoca, IA",4,17,4,5,15,5,5,10,10,25,2003
+13410,"Council Bluffs, IA","Stanton, IA",3,17,5,1,20,4,4,14,7,25,2003
+13142,"Council Bluffs, IA","Grant, IA",5,12,7,3,18,3,6,10,8,24,2003
+13301,"Council Bluffs, IA","Norwalk, IA",7,13,4,4,9,11,10,10,4,24,2003
+13176,"Council Bluffs, IA","Imogene, IA",8,13,1,6,12,4,1,19,2,22,2003
+13329,"Council Bluffs, IA","Pella, IA",10,8,4,4,5,13,10,11,1,22,2003
+13160,"Council Bluffs, IA","Hastings, IA",7,10,5,3,12,7,7,11,4,22,2003
+13178,"Council Bluffs, IA","Indianola, IA",14,6,1,3,9,9,7,14,0,21,2003
+13082,"Council Bluffs, IA","Dunlap, IA",9,12,0,4,16,1,6,15,0,21,2003
+13181,"Council Bluffs, IA","Iowa City, IA",8,9,3,3,9,8,10,8,2,20,2003
+13233,"Council Bluffs, IA","Magnolia, IA",11,7,2,4,14,2,5,13,2,20,2003
+12995,"Council Bluffs, IA","Bettendorf, IA",8,11,1,7,5,8,8,9,3,20,2003
+13308,"Council Bluffs, IA","Onawa, IA",4,13,3,4,10,6,5,7,8,20,2003
+13381,"Council Bluffs, IA","Sergeant Bluff, IA",7,8,4,0,2,17,13,2,4,19,2003
+13223,"Council Bluffs, IA","Little Sioux, IA",10,8,1,1,12,6,10,7,2,19,2003
+13294,"Council Bluffs, IA","Newton, IA",8,8,3,1,6,12,5,7,7,19,2003
+12964,"Council Bluffs, IA","Altoona, IA",9,9,0,4,3,11,9,4,5,18,2003
+13079,"Council Bluffs, IA","Dubuque, IA",6,10,2,3,2,13,6,8,4,18,2003
+13016,"Council Bluffs, IA","Carlisle, IA",7,8,3,3,4,11,7,7,4,18,2003
+13330,"Council Bluffs, IA","Perry, IA",3,14,0,0,5,12,6,6,5,17,2003
+13316,"Council Bluffs, IA","Ottumwa, IA",5,9,2,4,4,8,4,10,2,16,2003
+13214,"Council Bluffs, IA","Le Mars, IA",3,12,1,0,6,10,8,5,3,16,2003
+13013,"Council Bluffs, IA","Burlington, IA",5,10,1,5,3,8,2,10,4,16,2003
+13199,"Council Bluffs, IA","Knoxville, IA",8,7,1,1,4,11,4,6,6,16,2003
+13464,"Council Bluffs, IA","Westside, IA",8,6,2,2,3,11,7,9,0,16,2003
+13174,"Council Bluffs, IA","Huxley, IA",5,9,1,1,5,9,3,5,7,15,2003
+13256,"Council Bluffs, IA","Merrill, IA",4,7,3,2,4,8,5,5,4,14,2003
+13095,"Council Bluffs, IA","Elliott, IA",6,7,1,4,5,5,5,5,4,14,2003
+13282,"Council Bluffs, IA","Muscatine, IA",6,7,1,7,1,6,2,10,2,14,2003
+13111,"Council Bluffs, IA","Farragut, IA",0,13,1,4,2,8,7,3,4,14,2003
+13036,"Council Bluffs, IA","Clear Lake, IA",5,8,1,10,3,1,4,10,0,14,2003
+13104,"Council Bluffs, IA","Exira, IA",4,4,6,0,10,4,7,3,4,14,2003
+13309,"Council Bluffs, IA","Orange City, IA",2,10,1,9,2,2,2,8,3,13,2003
+13449,"Council Bluffs, IA","Waukee, IA",4,7,2,0,3,10,7,4,2,13,2003
+13165,"Council Bluffs, IA","Hiawatha, IA",9,4,0,2,3,8,6,7,0,13,2003
+13442,"Council Bluffs, IA","Wall Lake, IA",5,7,1,0,7,6,4,8,1,13,2003
+13038,"Council Bluffs, IA","Clinton, IA",6,4,3,0,2,11,5,4,4,13,2003
+13397,"Council Bluffs, IA","Soldier, IA",5,5,2,3,8,1,7,3,2,12,2003
+13254,"Council Bluffs, IA","Melcher-Dallas, IA",4,6,2,1,5,6,6,2,4,12,2003
+13029,"Council Bluffs, IA","Charter Oak, IA",2,7,3,2,4,6,4,6,2,12,2003
+13219,"Council Bluffs, IA","Lidderdale, IA",6,5,1,0,7,5,6,4,2,12,2003
+13056,"Council Bluffs, IA","Cumberland, IA",5,6,0,2,8,1,5,4,2,11,2003
+13057,"Council Bluffs, IA","Cushing, IA",5,6,0,2,1,8,4,6,1,11,2003
+13059,"Council Bluffs, IA","Danbury, IA",4,4,3,0,3,8,6,1,4,11,2003
+13066,"Council Bluffs, IA","Decorah, IA",5,6,0,8,1,2,5,6,0,11,2003
+13364,"Council Bluffs, IA","Riverton, IA",3,7,1,3,3,5,7,2,2,11,2003
+13041,"Council Bluffs, IA","Coburg, IA",4,6,1,0,10,1,4,5,2,11,2003
+13198,"Council Bluffs, IA","Kirkman, IA",6,2,3,4,5,2,7,1,3,11,2003
+13453,"Council Bluffs, IA","Webster City, IA",4,2,5,0,4,7,7,4,0,11,2003
+12981,"Council Bluffs, IA","Audubon, IA",5,5,1,3,2,6,3,5,3,11,2003
+13232,"Council Bluffs, IA","Madrid, IA",3,8,0,0,3,8,7,3,1,11,2003
+13390,"Council Bluffs, IA","Sidney, IA",2,7,2,2,4,5,3,4,4,11,2003
+13450,"Council Bluffs, IA","Waukon, IA",5,4,1,5,1,4,3,6,1,10,2003
+13415,"Council Bluffs, IA","Story City, IA",5,4,1,2,6,2,4,4,2,10,2003
+13451,"Council Bluffs, IA","Waverly, IA",2,8,0,9,0,1,0,9,1,10,2003
+12971,"Council Bluffs, IA","Arcadia, IA",4,4,2,0,4,6,7,2,1,10,2003
+13030,"Council Bluffs, IA","Cherokee, IA",2,7,1,2,1,7,2,5,3,10,2003
+13248,"Council Bluffs, IA","Massena, IA",3,7,0,0,5,5,4,3,3,10,2003
+13326,"Council Bluffs, IA","Parkersburg, IA",4,4,1,7,0,2,1,8,0,9,2003
+13272,"Council Bluffs, IA","Moorhead, IA",4,4,1,0,7,2,5,4,0,9,2003
+13137,"Council Bluffs, IA","Glidden, IA",4,2,3,2,5,2,6,2,1,9,2003
+13380,"Council Bluffs, IA","Schleswig, IA",1,8,0,1,5,3,3,4,2,9,2003
+13285,"Council Bluffs, IA","Nevada, IA",2,7,0,2,4,3,2,6,1,9,2003
+13196,"Council Bluffs, IA","Kimballton, IA",4,3,2,2,5,2,0,7,2,9,2003
+13287,"Council Bluffs, IA","New Hampton, IA",2,7,0,6,2,1,1,6,2,9,2003
+13047,"Council Bluffs, IA","Coon Rapids, IA",3,4,2,1,2,6,5,3,1,9,2003
+13468,"Council Bluffs, IA","Willey, IA",5,3,1,0,5,4,5,3,1,9,2003
+13068,"Council Bluffs, IA","Defiance, IA",1,5,2,0,8,0,2,3,3,8,2003
+13280,"Council Bluffs, IA","Moville, IA",4,2,2,0,3,5,3,4,1,8,2003
+13102,"Council Bluffs, IA","Evansdale, IA",3,5,0,5,1,2,2,6,0,8,2003
+13244,"Council Bluffs, IA","Marshalltown, IA",4,2,2,1,1,6,5,3,0,8,2003
+13237,"Council Bluffs, IA","Manning, IA",2,6,0,1,5,2,3,4,1,8,2003
+13108,"Council Bluffs, IA","Fairfield, IA",1,7,0,6,1,1,0,7,1,8,2003
+13230,"Council Bluffs, IA","Macedonia, IA",0,6,2,1,7,0,1,5,2,8,2003
+12982,"Council Bluffs, IA","Aurelia, IA",2,4,2,7,0,1,2,5,1,8,2003
+13385,"Council Bluffs, IA","Sheldon, IA",2,6,0,6,1,1,1,5,2,8,2003
+13392,"Council Bluffs, IA","Sioux Center, IA",1,5,2,3,2,3,2,6,0,8,2003
+13046,"Council Bluffs, IA","Colwell, IA",2,5,1,8,0,0,0,8,0,8,2003
+13351,"Council Bluffs, IA","Readlyn, IA",4,4,0,2,3,3,2,5,1,8,2003
+13167,"Council Bluffs, IA","Hinton, IA",6,1,0,0,2,5,6,0,1,7,2003
+13044,"Council Bluffs, IA","Colo, IA",3,3,1,0,2,5,6,1,0,7,2003
+13010,"Council Bluffs, IA","Buck Grove, IA",1,6,0,3,1,3,1,5,1,7,2003
+13118,"Council Bluffs, IA","Forest City, IA",3,3,1,5,0,2,1,6,0,7,2003
+13121,"Council Bluffs, IA","Fort Madison, IA",2,4,1,1,2,4,3,4,0,7,2003
+13366,"Council Bluffs, IA","Rock Rapids, IA",3,2,2,4,1,2,0,6,1,7,2003
+12960,"Council Bluffs, IA","Algona, IA",3,4,0,5,0,2,3,4,0,7,2003
+13376,"Council Bluffs, IA","Sac City, IA",5,1,1,1,4,2,5,2,0,7,2003
+13265,"Council Bluffs, IA","Mitchellville, IA",2,3,2,0,2,5,1,3,3,7,2003
+13473,"Council Bluffs, IA","Winterset, IA",2,2,3,1,5,1,2,5,0,7,2003
+13399,"Council Bluffs, IA","Spencer, IA",2,4,1,4,2,1,0,7,0,7,2003
+13101,"Council Bluffs, IA","Estherville, IA",3,4,0,5,1,1,2,4,1,7,2003
+13175,"Council Bluffs, IA","Ida Grove, IA",5,2,0,1,1,5,5,0,2,7,2003
+13090,"Council Bluffs, IA","Eldridge, IA",3,3,1,2,2,3,4,3,0,7,2003
+13337,"Council Bluffs, IA","Polk City, IA",0,6,1,0,2,5,3,2,2,7,2003
+13064,"Council Bluffs, IA","De Soto, IA",6,1,0,0,3,4,1,5,1,7,2003
+13414,"Council Bluffs, IA","Storm Lake, IA",2,5,0,7,0,0,0,7,0,7,2003
+13352,"Council Bluffs, IA","Reasnor, IA",4,3,0,1,5,1,3,4,0,7,2003
+13133,"Council Bluffs, IA","Gilbert, IA",3,2,2,0,2,5,4,1,2,7,2003
+13373,"Council Bluffs, IA","Runnells, IA",5,1,0,1,2,3,3,3,0,6,2003
+13432,"Council Bluffs, IA","University Heights, IA",4,2,0,1,2,3,2,4,0,6,2003
+13092,"Council Bluffs, IA","Elk Run Heights, IA",1,4,1,4,0,2,1,3,2,6,2003
+13300,"Council Bluffs, IA","Northwood, IA",1,5,0,3,0,3,2,4,0,6,2003
+13146,"Council Bluffs, IA","Grimes, IA",2,3,1,2,0,4,2,3,1,6,2003
+13227,"Council Bluffs, IA","Luana, IA",1,5,0,5,1,0,1,4,1,6,2003
+13365,"Council Bluffs, IA","Robins, IA",2,4,0,0,1,5,1,4,1,6,2003
+13346,"Council Bluffs, IA","Quimby, IA",3,2,1,4,0,2,5,1,0,6,2003
+13306,"Council Bluffs, IA","Oelwein, IA",1,5,0,3,0,3,1,4,1,6,2003
+13186,"Council Bluffs, IA","Jefferson, IA",3,3,0,2,3,1,2,3,1,6,2003
+13350,"Council Bluffs, IA","Raymond, IA",3,2,1,5,1,0,1,5,0,6,2003
+13307,"Council Bluffs, IA","Ogden, IA",3,3,0,1,1,4,2,3,1,6,2003
+13311,"Council Bluffs, IA","Osage, IA",2,4,0,2,1,3,4,2,0,6,2003
+13478,"Council Bluffs, IA","Woodward, IA",5,1,0,0,3,3,3,3,0,6,2003
+13106,"Council Bluffs, IA","Fairbank, IA",3,3,0,3,1,2,1,4,1,6,2003
+13235,"Council Bluffs, IA","Manchester, IA",3,2,1,2,1,3,3,2,1,6,2003
+13091,"Council Bluffs, IA","Elk Horn, IA",3,2,1,0,4,2,0,5,1,6,2003
+13396,"Council Bluffs, IA","Sloan, IA",4,2,0,0,1,5,3,2,1,6,2003
+12991,"Council Bluffs, IA","Bayard, IA",2,2,1,2,1,2,2,0,3,5,2003
+13460,"Council Bluffs, IA","West Liberty, IA",2,2,1,1,2,2,3,2,0,5,2003
+13143,"Council Bluffs, IA","Gray, IA",4,1,0,0,3,2,4,1,0,5,2003
+13314,"Council Bluffs, IA","Otho, IA",3,2,0,0,3,2,3,1,1,5,2003
+13177,"Council Bluffs, IA","Independence, IA",2,3,0,3,0,2,2,2,1,5,2003
+13245,"Council Bluffs, IA","Martelle, IA",2,2,1,2,1,2,3,2,0,5,2003
+12976,"Council Bluffs, IA","Asbury, IA",2,2,1,2,0,3,2,1,2,5,2003
+13182,"Council Bluffs, IA","Iowa Falls, IA",2,2,1,4,1,0,0,5,0,5,2003
+13028,"Council Bluffs, IA","Charles City, IA",2,2,1,1,0,4,3,1,1,5,2003
+13152,"Council Bluffs, IA","Hampton, IA",4,0,1,3,1,1,1,4,0,5,2003
+13162,"Council Bluffs, IA","Hawarden, IA",2,3,0,3,0,2,0,5,0,5,2003
+13357,"Council Bluffs, IA","Remsen, IA",1,1,3,0,0,5,3,0,2,5,2003
+12975,"Council Bluffs, IA","Arthur, IA",2,2,1,2,1,2,2,2,1,5,2003
+13313,"Council Bluffs, IA","Oskaloosa, IA",0,5,0,2,0,3,2,3,0,5,2003
+12970,"Council Bluffs, IA","Anthon, IA",3,1,1,0,0,5,2,3,0,5,2003
+13139,"Council Bluffs, IA","Graettinger, IA",0,3,2,4,1,0,0,4,1,5,2003
+13098,"Council Bluffs, IA","Emmetsburg, IA",1,4,0,3,0,2,1,3,1,5,2003
+13085,"Council Bluffs, IA","Early, IA",3,1,1,1,1,3,4,0,1,5,2003
+13296,"Council Bluffs, IA","Nodaway, IA",2,1,2,1,3,1,1,3,1,5,2003
+13062,"Council Bluffs, IA","Dawson, IA",1,4,0,3,0,2,1,1,3,5,2003
+13278,"Council Bluffs, IA","Mount Pleasant, IA",0,4,1,2,1,2,0,2,3,5,2003
+13417,"Council Bluffs, IA","Strawberry Point, IA",3,2,0,2,1,2,4,1,0,5,2003
+13074,"Council Bluffs, IA","Dexter, IA",2,2,1,0,2,3,1,3,1,5,2003
+13401,"Council Bluffs, IA","Spring Hill, IA",2,3,0,0,1,4,4,1,0,5,2003
+13086,"Council Bluffs, IA","East Peru, IA",4,1,0,1,0,4,3,1,1,5,2003
+13093,"Council Bluffs, IA","Elkader, IA",0,5,0,4,1,0,1,4,0,5,2003
+13400,"Council Bluffs, IA","Spirit Lake, IA",2,3,0,3,2,0,2,2,1,5,2003
+13072,"Council Bluffs, IA","Denver, IA",2,3,0,2,1,2,2,3,0,5,2003
+13395,"Council Bluffs, IA","Slater, IA",1,2,2,3,2,0,1,3,1,5,2003
+13238,"Council Bluffs, IA","Manson, IA",3,1,0,0,1,3,3,1,0,4,2003
+13094,"Council Bluffs, IA","Elkport, IA",1,3,0,3,1,0,1,2,1,4,2003
+13406,"Council Bluffs, IA","St. Marys, IA",1,3,0,0,1,3,1,2,1,4,2003
+13241,"Council Bluffs, IA","Marcus, IA",1,3,0,0,0,4,2,2,0,4,2003
+13007,"Council Bluffs, IA","Britt, IA",1,3,0,3,0,1,0,3,1,4,2003
+13315,"Council Bluffs, IA","Ottosen, IA",0,2,2,0,2,2,2,1,1,4,2003
+13408,"Council Bluffs, IA","Stanhope, IA",2,2,0,0,2,2,2,1,1,4,2003
+13293,"Council Bluffs, IA","Newell, IA",1,3,0,2,1,1,2,2,0,4,2003
+13425,"Council Bluffs, IA","Tipton, IA",0,3,1,0,1,3,2,2,0,4,2003
+13228,"Council Bluffs, IA","Luther, IA",3,1,0,0,1,3,3,1,0,4,2003
+13466,"Council Bluffs, IA","Whittemore, IA",0,3,1,4,0,0,0,4,0,4,2003
+12985,"Council Bluffs, IA","Bagley, IA",1,2,1,1,2,1,1,2,1,4,2003
+12998,"Council Bluffs, IA","Bloomfield, IA",3,1,0,2,2,0,2,2,0,4,2003
+12997,"Council Bluffs, IA","Blanchard, IA",1,1,2,0,2,2,3,1,0,4,2003
+12989,"Council Bluffs, IA","Battle Creek, IA",2,1,1,0,0,4,2,2,0,4,2003
+13202,"Council Bluffs, IA","Lake Mills, IA",0,4,0,2,0,2,0,2,2,4,2003
+13070,"Council Bluffs, IA","Deloit, IA",1,3,0,1,0,3,1,3,0,4,2003
+13325,"Council Bluffs, IA","Panorama Park, IA",3,1,0,1,1,2,2,1,1,4,2003
+13185,"Council Bluffs, IA","Janesville, IA",0,4,0,2,1,1,1,3,0,4,2003
+13211,"Council Bluffs, IA","Lawton, IA",1,3,0,1,0,3,3,0,1,4,2003
+13027,"Council Bluffs, IA","Chariton, IA",1,3,0,1,3,0,0,3,1,4,2003
+13389,"Council Bluffs, IA","Sibley, IA",2,2,0,3,1,0,1,3,0,4,2003
+13367,"Council Bluffs, IA","Rock Valley, IA",2,2,0,2,1,1,2,2,0,4,2003
+13368,"Council Bluffs, IA","Rockford, IA",1,3,0,1,0,3,1,2,1,4,2003
+13369,"Council Bluffs, IA","Rockwell City, IA",3,0,1,0,2,2,3,1,0,4,2003
+13130,"Council Bluffs, IA","Garner, IA",2,1,1,3,0,1,0,4,0,4,2003
+13100,"Council Bluffs, IA","Essex, IA",2,2,0,0,2,2,3,1,0,4,2003
+13446,"Council Bluffs, IA","Washington, IA",1,3,0,0,0,4,1,1,2,4,2003
+13141,"Council Bluffs, IA","Granger, IA",0,4,0,0,2,2,1,1,2,4,2003
+13269,"Council Bluffs, IA","Monticello, IA",0,4,0,2,0,2,1,2,1,4,2003
+13043,"Council Bluffs, IA","Colfax, IA",1,2,1,0,2,2,1,1,2,4,2003
+13039,"Council Bluffs, IA","Clio, IA",1,2,1,0,1,3,1,3,0,4,2003
+12973,"Council Bluffs, IA","Armstrong, IA",2,2,0,2,1,1,2,2,0,4,2003
+13438,"Council Bluffs, IA","Vinton, IA",1,2,1,0,0,4,2,0,2,4,2003
+13161,"Council Bluffs, IA","Havelock, IA",1,3,0,0,2,2,2,1,1,4,2003
+13107,"Council Bluffs, IA","Fairfax, IA",1,3,0,1,1,2,2,2,0,4,2003
+13436,"Council Bluffs, IA","Van Meter, IA",2,2,0,0,1,3,2,0,2,4,2003
+12990,"Council Bluffs, IA","Baxter, IA",0,3,0,1,1,1,2,1,0,3,2003
+13317,"Council Bluffs, IA","Owasa, IA",0,2,1,1,1,1,1,2,0,3,2003
+13327,"Council Bluffs, IA","Patterson, IA",1,2,0,0,2,1,0,2,1,3,2003
+13257,"Council Bluffs, IA","Middletown, IA",1,2,0,1,0,2,2,1,0,3,2003
+12954,"Council Bluffs, IA","Adair, IA",0,0,3,0,3,0,2,1,0,3,2003
+13286,"Council Bluffs, IA","New Albin, IA",1,2,0,2,0,1,3,0,0,3,2003
+13258,"Council Bluffs, IA","Milford, IA",1,2,0,2,1,0,1,2,0,3,2003
+13305,"Council Bluffs, IA","Odebolt, IA",1,1,1,0,0,3,2,0,1,3,2003
+13462,"Council Bluffs, IA","West Union, IA",0,3,0,1,1,1,0,2,1,3,2003
+13242,"Council Bluffs, IA","Marengo, IA",1,2,0,0,2,1,3,0,0,3,2003
+13231,"Council Bluffs, IA","Macksburg, IA",2,0,1,0,1,2,0,3,0,3,2003
+13229,"Council Bluffs, IA","Lynnville, IA",1,1,1,0,0,3,1,2,0,3,2003
+13268,"Council Bluffs, IA","Monroe, IA",1,2,0,0,0,3,2,0,1,3,2003
+12968,"Council Bluffs, IA","Anita, IA",0,1,2,0,3,0,3,0,0,3,2003
+13284,"Council Bluffs, IA","Nashua, IA",0,3,0,2,0,1,1,2,0,3,2003
+12979,"Council Bluffs, IA","Atkins, IA",0,3,0,0,1,2,1,0,2,3,2003
+13271,"Council Bluffs, IA","Montrose, IA",1,2,0,1,0,2,1,2,0,3,2003
+13290,"Council Bluffs, IA","New London, IA",1,1,1,1,2,0,0,3,0,3,2003
+13291,"Council Bluffs, IA","New Market, IA",0,1,2,0,2,1,2,1,0,3,2003
+12958,"Council Bluffs, IA","Albia, IA",1,2,0,0,1,2,0,2,1,3,2003
+12974,"Council Bluffs, IA","Arnolds Park, IA",0,2,1,2,0,1,0,3,0,3,2003
+12957,"Council Bluffs, IA","Akron, IA",0,3,0,0,0,3,0,2,1,3,2003
+13276,"Council Bluffs, IA","Mount Auburn, IA",2,1,0,2,1,0,0,3,0,3,2003
+12966,"Council Bluffs, IA","Anamosa, IA",0,2,1,0,2,1,0,2,1,3,2003
+13261,"Council Bluffs, IA","Minburn, IA",2,0,1,1,2,0,0,2,1,3,2003
+12953,"Council Bluffs, IA","Ackworth, IA",1,2,0,0,1,2,1,1,1,3,2003
+13159,"Council Bluffs, IA","Harvey, IA",0,3,0,1,0,2,2,1,0,3,2003
+13456,"Council Bluffs, IA","Wellsburg, IA",3,0,0,1,1,1,2,1,0,3,2003
+13135,"Council Bluffs, IA","Gilman, IA",1,2,0,1,0,2,0,2,1,3,2003
+13172,"Council Bluffs, IA","Hull, IA",2,1,0,3,0,0,2,1,0,3,2003
+13355,"Council Bluffs, IA","Redfield, IA",2,1,0,0,1,2,0,2,1,3,2003
+13382,"Council Bluffs, IA","Shannon City, IA",1,1,1,0,2,1,1,2,0,3,2003
+13359,"Council Bluffs, IA","Richland, IA",1,2,0,1,2,0,1,2,0,3,2003
+13012,"Council Bluffs, IA","Buffalo, IA",3,0,0,0,3,0,2,1,0,3,2003
+13014,"Council Bluffs, IA","Camanche, IA",2,1,0,0,1,2,1,1,1,3,2003
+13163,"Council Bluffs, IA","Hazleton, IA",1,2,0,2,0,1,1,2,0,3,2003
+13015,"Council Bluffs, IA","Cambridge, IA",2,1,0,0,2,1,0,3,0,3,2003
+12994,"Council Bluffs, IA","Belmond, IA",1,1,1,0,1,2,2,0,1,3,2003
+13131,"Council Bluffs, IA","Garwin, IA",2,1,0,1,0,2,2,1,0,3,2003
+13020,"Council Bluffs, IA","Castalia, IA",2,1,0,2,0,1,1,2,0,3,2003
+13024,"Council Bluffs, IA","Center Junction, IA",2,1,0,0,1,2,2,0,1,3,2003
+13149,"Council Bluffs, IA","Guthrie Center, IA",1,0,2,0,2,1,3,0,0,3,2003
+13371,"Council Bluffs, IA","Rodney, IA",2,1,0,0,1,2,1,2,0,3,2003
+13372,"Council Bluffs, IA","Roland, IA",1,1,1,0,2,1,1,1,1,3,2003
+13032,"Council Bluffs, IA","Cincinnati, IA",1,0,2,0,1,2,1,1,1,3,2003
+13180,"Council Bluffs, IA","Ionia, IA",1,1,1,2,0,1,1,1,1,3,2003
+13288,"Council Bluffs, IA","New Hartford, IA",1,2,0,2,1,0,1,2,0,3,2003
+13374,"Council Bluffs, IA","Ruthven, IA",0,3,0,2,1,0,1,2,0,3,2003
+13053,"Council Bluffs, IA","Cresco, IA",1,2,0,3,0,0,0,3,0,3,2003
+13081,"Council Bluffs, IA","Dunkerton, IA",2,1,0,1,0,2,1,2,0,3,2003
+13055,"Council Bluffs, IA","Crystal Lake, IA",1,2,0,2,1,0,1,2,0,3,2003
+13077,"Council Bluffs, IA","Dolliver, IA",2,1,0,3,0,0,0,3,0,3,2003
+13003,"Council Bluffs, IA","Braddyville, IA",0,1,2,0,2,1,2,1,0,3,2003
+13201,"Council Bluffs, IA","Lake City, IA",1,2,0,0,1,2,1,1,1,3,2003
+12999,"Council Bluffs, IA","Blue Grass, IA",3,0,0,1,0,2,1,1,1,3,2003
+13407,"Council Bluffs, IA","Stacyville, IA",2,1,0,2,0,1,1,2,0,3,2003
+13394,"Council Bluffs, IA","Sioux Rapids, IA",0,3,0,2,0,1,0,3,0,3,2003
+13343,"Council Bluffs, IA","Primghar, IA",0,1,2,2,1,0,1,2,0,3,2003
+13067,"Council Bluffs, IA","Dedham, IA",1,0,2,0,2,1,0,1,2,3,2003
+13331,"Council Bluffs, IA","Pierson, IA",1,1,1,0,0,3,1,2,0,3,2003
+13344,"Council Bluffs, IA","Princeton, IA",2,1,0,0,3,0,0,2,1,3,2003
+13437,"Council Bluffs, IA","Victor, IA",1,2,0,0,1,2,1,0,2,3,2003
+13207,"Council Bluffs, IA","Lamoni, IA",2,1,0,1,0,2,1,1,1,3,2003
+13058,"Council Bluffs, IA","Dallas Center, IA",2,1,0,0,1,2,2,0,1,3,2003
+13476,"Council Bluffs, IA","Woden, IA",1,1,0,1,0,1,0,1,1,2,2003
+13480,"Council Bluffs, IA","Yetter, IA",1,0,1,0,0,2,1,1,0,2,2003
+13475,"Council Bluffs, IA","Wiota, IA",0,0,2,0,2,0,0,2,0,2,2003
+13386,"Council Bluffs, IA","Shell Rock, IA",0,1,1,1,1,0,1,1,0,2,2003
+13377,"Council Bluffs, IA","Sanborn, IA",0,2,0,2,0,0,0,2,0,2,2003
+13409,"Council Bluffs, IA","Stanley, IA",1,1,0,1,1,0,1,1,0,2,2003
+13292,"Council Bluffs, IA","New Sharon, IA",0,2,0,0,1,1,1,1,0,2,2003
+13439,"Council Bluffs, IA","Wadena, IA",1,1,0,1,1,0,0,2,0,2,2003
+13299,"Council Bluffs, IA","North Liberty, IA",1,1,0,0,2,0,1,1,0,2,2003
+13383,"Council Bluffs, IA","Sheffield, IA",1,1,0,0,1,1,1,1,0,2,2003
+13297,"Council Bluffs, IA","Nora Springs, IA",1,1,0,2,0,0,1,1,0,2,2003
+13378,"Council Bluffs, IA","Sandyville, IA",2,0,0,1,0,1,1,1,0,2,2003
+13461,"Council Bluffs, IA","West Point, IA",0,2,0,1,1,0,1,1,0,2,2003
+13440,"Council Bluffs, IA","Wahpeton, IA",1,1,0,2,0,0,0,2,0,2,2003
+13363,"Council Bluffs, IA","Riverside, IA",1,1,0,0,2,0,0,2,0,2,2003
+13324,"Council Bluffs, IA","Panora, IA",1,1,0,0,1,1,2,0,0,2,2003
+13336,"Council Bluffs, IA","Plymouth, IA",0,2,0,1,0,1,0,1,1,2,2003
+13338,"Council Bluffs, IA","Pomeroy, IA",1,0,1,0,0,2,1,1,0,2,2003
+13463,"Council Bluffs, IA","Westfield, IA",1,1,0,0,1,1,1,1,0,2,2003
+13322,"Council Bluffs, IA","Palo, IA",0,2,0,0,0,2,0,1,1,2,2003
+13465,"Council Bluffs, IA","Wheatland, IA",0,2,0,0,2,0,0,0,2,2,2003
+13319,"Council Bluffs, IA","Oyens, IA",0,1,1,0,0,2,0,1,1,2,2003
+13339,"Council Bluffs, IA","Popejoy, IA",2,0,0,0,1,1,2,0,0,2,2003
+13318,"Council Bluffs, IA","Oxford, IA",1,1,0,2,0,0,0,2,0,2,2003
+13458,"Council Bluffs, IA","West Burlington, IA",0,1,1,0,1,1,0,1,1,2,2003
+13341,"Council Bluffs, IA","Prairie City, IA",1,0,1,0,1,1,1,1,0,2,2003
+13347,"Council Bluffs, IA","Rake, IA",1,1,0,2,0,0,1,1,0,2,2003
+13348,"Council Bluffs, IA","Randalia, IA",1,1,0,1,0,1,0,1,1,2,2003
+13455,"Council Bluffs, IA","Wellman, IA",2,0,0,0,0,2,2,0,0,2,2003
+13469,"Council Bluffs, IA","Williams, IA",1,1,0,0,1,1,1,1,0,2,2003
+13420,"Council Bluffs, IA","Sumner, IA",1,0,1,2,0,0,0,2,0,2,2003
+13452,"Council Bluffs, IA","Webb, IA",1,0,1,1,0,1,1,1,0,2,2003
+13356,"Council Bluffs, IA","Reinbeck, IA",0,1,1,0,0,2,0,2,0,2,2003
+13360,"Council Bluffs, IA","Ridgeway, IA",1,1,0,2,0,0,0,2,0,2,2003
+13312,"Council Bluffs, IA","Osceola, IA",0,1,1,0,2,0,0,2,0,2,2003
+13361,"Council Bluffs, IA","Rippey, IA",2,0,0,0,1,1,1,1,0,2,2003
+13362,"Council Bluffs, IA","Riverdale, IA",2,0,0,0,0,2,2,0,0,2,2003
+13470,"Council Bluffs, IA","Wilton, IA",0,2,0,2,0,0,0,2,0,2,2003
+13454,"Council Bluffs, IA","Webster, IA",1,1,0,2,0,0,0,1,1,2,2003
+13481,"Council Bluffs, IA","Zearing, IA",1,1,0,0,0,2,0,1,1,2,2003
+13119,"Council Bluffs, IA","Fort Atkinson, IA",0,1,1,1,0,1,1,1,0,2,2003
+13116,"Council Bluffs, IA","Floyd, IA",1,1,0,2,0,0,1,1,0,2,2003
+13156,"Council Bluffs, IA","Harpers Ferry, IA",0,2,0,2,0,0,1,1,0,2,2003
+13076,"Council Bluffs, IA","Dixon, IA",2,0,0,1,1,0,1,1,0,2,2003
+13004,"Council Bluffs, IA","Brandon, IA",1,1,0,1,1,0,1,1,0,2,2003
+13213,"Council Bluffs, IA","Le Grand, IA",1,1,0,0,1,1,0,1,1,2,2003
+13212,"Council Bluffs, IA","Le Claire, IA",0,2,0,1,0,1,0,2,0,2,2003
+13210,"Council Bluffs, IA","Laurens, IA",1,0,1,0,1,1,1,1,0,2,2003
+13115,"Council Bluffs, IA","Floris, IA",0,2,0,0,1,1,1,0,1,2,2003
+13006,"Council Bluffs, IA","Bristow, IA",0,2,0,1,0,1,1,1,0,2,2003
+13157,"Council Bluffs, IA","Harris, IA",0,2,0,1,0,1,1,1,0,2,2003
+13009,"Council Bluffs, IA","Brooklyn, IA",1,1,0,0,0,2,1,1,0,2,2003
+13011,"Council Bluffs, IA","Buffalo Center, IA",1,0,1,2,0,0,0,2,0,2,2003
+13021,"Council Bluffs, IA","Castana, IA",2,0,0,0,0,2,1,0,1,2,2003
+13205,"Council Bluffs, IA","Lakeside, IA",2,0,0,1,1,0,1,1,0,2,2003
+13204,"Council Bluffs, IA","Lake View, IA",0,1,1,1,1,0,0,0,2,2,2003
+13221,"Council Bluffs, IA","Lisbon, IA",2,0,0,0,0,2,0,1,1,2,2003
+13075,"Council Bluffs, IA","Dike, IA",1,0,1,1,0,1,1,1,0,2,2003
+13158,"Council Bluffs, IA","Hartley, IA",1,1,0,0,0,2,0,1,1,2,2003
+13166,"Council Bluffs, IA","Hills, IA",1,1,0,0,0,2,2,0,0,2,2003
+13168,"Council Bluffs, IA","Hopkinton, IA",1,1,0,0,1,1,0,1,1,2,2003
+13194,"Council Bluffs, IA","Keokuk, IA",0,1,1,0,2,0,1,1,0,2,2003
+13051,"Council Bluffs, IA","Craig, IA",1,1,0,0,1,1,1,1,0,2,2003
+13193,"Council Bluffs, IA","Kensett, IA",1,1,0,2,0,0,0,2,0,2,2003
+13192,"Council Bluffs, IA","Kellogg, IA",1,1,0,0,0,2,1,1,0,2,2003
+13169,"Council Bluffs, IA","Hospers, IA",0,2,0,2,0,0,0,2,0,2,2003
+13171,"Council Bluffs, IA","Hudson, IA",0,1,1,2,0,0,0,2,0,2,2003
+13037,"Council Bluffs, IA","Clearfield, IA",1,1,0,1,1,0,1,1,0,2,2003
+13187,"Council Bluffs, IA","Jesup, IA",1,1,0,1,1,0,1,1,0,2,2003
+13042,"Council Bluffs, IA","Coggon, IA",0,1,1,1,0,1,1,1,0,2,2003
+13173,"Council Bluffs, IA","Humboldt, IA",1,0,1,0,1,1,2,0,0,2,2003
+13000,"Council Bluffs, IA","Bondurant, IA",0,2,0,1,0,1,1,1,0,2,2003
+13154,"Council Bluffs, IA","Hardy, IA",0,1,1,0,0,2,1,1,0,2,2003
+12977,"Council Bluffs, IA","Ashton, IA",1,1,0,2,0,0,0,2,0,2,2003
+12955,"Council Bluffs, IA","Adel, IA",1,1,0,0,0,2,1,1,0,2,2003
+13088,"Council Bluffs, IA","Eldon, IA",0,0,2,0,2,0,1,1,0,2,2003
+13132,"Council Bluffs, IA","Gibson, IA",1,1,0,0,0,2,0,1,1,2,2003
+13275,"Council Bluffs, IA","Morrison, IA",0,2,0,2,0,0,0,2,0,2,2003
+12959,"Council Bluffs, IA","Alden, IA",1,0,1,1,0,1,0,2,0,2,2003
+12961,"Council Bluffs, IA","Allison, IA",1,1,0,1,1,0,0,1,1,2,2003
+13096,"Council Bluffs, IA","Ellsworth, IA",2,0,0,0,0,2,2,0,0,2,2003
+13097,"Council Bluffs, IA","Ely, IA",1,1,0,0,1,1,0,2,0,2,2003
+12963,"Council Bluffs, IA","Alton, IA",1,1,0,2,0,0,1,0,1,2,2003
+13084,"Council Bluffs, IA","Eagle Grove, IA",1,1,0,0,2,0,2,0,0,2,2003
+12967,"Council Bluffs, IA","Andrew, IA",1,1,0,1,1,0,1,1,0,2,2003
+12972,"Council Bluffs, IA","Aredale, IA",0,2,0,2,0,0,1,1,0,2,2003
+12993,"Council Bluffs, IA","Bellevue, IA",0,2,0,1,0,1,0,2,0,2,2003
+13260,"Council Bluffs, IA","Milton, IA",1,1,0,1,0,1,1,1,0,2,2003
+12978,"Council Bluffs, IA","Atalissa, IA",1,1,0,0,0,2,1,1,0,2,2003
+13099,"Council Bluffs, IA","Epworth, IA",0,2,0,1,0,1,0,2,0,2,2003
+12983,"Council Bluffs, IA","Aurora, IA",1,1,0,2,0,0,1,1,0,2,2003
+13252,"Council Bluffs, IA","Mechanicsville, IA",2,0,0,1,0,1,2,0,0,2,2003
+13251,"Council Bluffs, IA","McIntire, IA",1,1,0,2,0,0,0,2,0,2,2003
+13145,"Council Bluffs, IA","Greenville, IA",1,0,1,0,0,2,2,0,0,2,2003
+13147,"Council Bluffs, IA","Grinnell, IA",1,1,0,0,1,1,2,0,0,2,2003
+13243,"Council Bluffs, IA","Marquette, IA",0,2,0,2,0,0,0,2,0,2,2003
+13240,"Council Bluffs, IA","Maquoketa, IA",1,1,0,0,0,2,1,0,1,2,2003
+13239,"Council Bluffs, IA","Mapleton, IA",1,1,0,0,1,1,1,1,0,2,2003
+13236,"Council Bluffs, IA","Manilla, IA",1,1,0,0,0,2,1,1,0,2,2003
+13150,"Council Bluffs, IA","Guttenberg, IA",1,1,0,1,0,1,0,2,0,2,2003
+13179,"Council Bluffs, IA","Inwood, IA",1,1,0,1,1,0,1,1,0,2,2003
+13428,"Council Bluffs, IA","Traer, IA",0,1,0,0,0,1,0,0,1,1,2003
+13427,"Council Bluffs, IA","Toledo, IA",0,1,0,1,0,0,0,1,0,1,2003
+13426,"Council Bluffs, IA","Titonka, IA",0,1,0,0,0,1,0,1,0,1,2003
+13416,"Council Bluffs, IA","Stratford, IA",1,0,0,0,1,0,1,0,0,1,2003
+13063,"Council Bluffs, IA","Dayton, IA",1,0,0,0,0,1,1,0,0,1,2003
+13078,"Council Bluffs, IA","Dougherty, IA",0,1,0,1,0,0,0,1,0,1,2003
+13087,"Council Bluffs, IA","Elberon, IA",1,0,0,0,0,1,0,1,0,1,2003
+13083,"Council Bluffs, IA","Dyersville, IA",0,1,0,0,0,1,0,1,0,1,2003
+13080,"Council Bluffs, IA","Duncombe, IA",1,0,0,0,0,1,1,0,0,1,2003
+13411,"Council Bluffs, IA","State Center, IA",1,0,0,1,0,0,0,1,0,1,2003
+13412,"Council Bluffs, IA","Steamboat Rock, IA",0,1,0,1,0,0,0,0,1,1,2003
+13413,"Council Bluffs, IA","Stockton, IA",1,0,0,0,0,1,1,0,0,1,2003
+13060,"Council Bluffs, IA","Danville, IA",1,0,0,1,0,0,0,1,0,1,2003
+13065,"Council Bluffs, IA","De Witt, IA",0,1,0,0,0,1,0,1,0,1,2003
+13418,"Council Bluffs, IA","Stuart, IA",1,0,0,0,0,1,1,0,0,1,2003
+13419,"Council Bluffs, IA","Sully, IA",0,0,1,0,1,0,0,1,0,1,2003
+13069,"Council Bluffs, IA","Delaware, IA",1,0,0,0,1,0,0,1,0,1,2003
+13421,"Council Bluffs, IA","Sutherland, IA",0,1,0,1,0,0,0,1,0,1,2003
+13422,"Council Bluffs, IA","Swan, IA",1,0,0,0,1,0,1,0,0,1,2003
+13423,"Council Bluffs, IA","Swisher, IA",0,1,0,0,0,1,0,1,0,1,2003
+13429,"Council Bluffs, IA","Tripoli, IA",0,1,0,0,1,0,1,0,0,1,2003
+13035,"Council Bluffs, IA","Clarion, IA",0,0,1,0,0,1,0,1,0,1,2003
+13431,"Council Bluffs, IA","Unionville, IA",1,0,0,1,0,0,0,1,0,1,2003
+13054,"Council Bluffs, IA","Creston, IA",1,0,0,0,1,0,1,0,0,1,2003
+13479,"Council Bluffs, IA","Woolstock, IA",0,1,0,0,0,1,1,0,0,1,2003
+12956,"Council Bluffs, IA","Agency, IA",1,0,0,0,0,1,1,0,0,1,2003
+12962,"Council Bluffs, IA","Alta Vista, IA",0,1,0,0,0,1,0,0,1,1,2003
+13474,"Council Bluffs, IA","Winthrop, IA",0,1,0,1,0,0,0,1,0,1,2003
+13472,"Council Bluffs, IA","Winfield, IA",0,1,0,0,1,0,0,1,0,1,2003
+13467,"Council Bluffs, IA","Whitten, IA",0,1,0,0,0,1,0,1,0,1,2003
+12986,"Council Bluffs, IA","Balltown, IA",1,0,0,0,1,0,1,0,0,1,2003
+12987,"Council Bluffs, IA","Bancroft, IA",1,0,0,1,0,0,1,0,0,1,2003
+12988,"Council Bluffs, IA","Batavia, IA",0,1,0,0,1,0,0,1,0,1,2003
+12992,"Council Bluffs, IA","Beaman, IA",1,0,0,1,0,0,0,1,0,1,2003
+12996,"Council Bluffs, IA","Blakesburg, IA",0,0,1,0,0,1,0,1,0,1,2003
+13002,"Council Bluffs, IA","Boxholm, IA",1,0,0,0,1,0,1,0,0,1,2003
+13457,"Council Bluffs, IA","West Branch, IA",0,1,0,1,0,0,0,1,0,1,2003
+13005,"Council Bluffs, IA","Brighton, IA",1,0,0,0,1,0,1,0,0,1,2003
+13008,"Council Bluffs, IA","Bronson, IA",1,0,0,0,0,1,1,0,0,1,2003
+13025,"Council Bluffs, IA","Center Point, IA",0,0,1,0,0,1,0,1,0,1,2003
+13448,"Council Bluffs, IA","Waucoma, IA",0,1,0,1,0,0,0,1,0,1,2003
+13026,"Council Bluffs, IA","Centerville, IA",0,1,0,0,1,0,1,0,0,1,2003
+13031,"Council Bluffs, IA","Chester, IA",0,1,0,1,0,0,0,1,0,1,2003
+13445,"Council Bluffs, IA","Wapello, IA",0,1,0,0,0,1,0,0,1,1,2003
+13033,"Council Bluffs, IA","Clarence, IA",1,0,0,0,0,1,0,1,0,1,2003
+13443,"Council Bluffs, IA","Wallingford, IA",0,1,0,1,0,0,0,1,0,1,2003
+13404,"Council Bluffs, IA","St. Ansgar, IA",0,1,0,1,0,0,1,0,0,1,2003
+13441,"Council Bluffs, IA","Walker, IA",0,1,0,0,1,0,1,0,0,1,2003
+13045,"Council Bluffs, IA","Columbus Junction, IA",0,1,0,1,0,0,0,1,0,1,2003
+13048,"Council Bluffs, IA","Coralville, IA",1,0,0,0,0,1,1,0,0,1,2003
+13049,"Council Bluffs, IA","Corning, IA",0,1,0,0,1,0,0,1,0,1,2003
+13434,"Council Bluffs, IA","Urbana, IA",0,1,0,0,1,0,1,0,0,1,2003
+13433,"Council Bluffs, IA","University Park, IA",0,1,0,1,0,0,1,0,0,1,2003
+13405,"Council Bluffs, IA","St. Lucas, IA",0,1,0,1,0,0,0,1,0,1,2003
+13289,"Council Bluffs, IA","New Liberty, IA",1,0,0,0,0,1,0,1,0,1,2003
+13403,"Council Bluffs, IA","Springville, IA",1,0,0,0,0,1,1,0,0,1,2003
+13209,"Council Bluffs, IA","Larrabee, IA",1,0,0,0,1,0,1,0,0,1,2003
+13225,"Council Bluffs, IA","Long Grove, IA",1,0,0,1,0,0,0,1,0,1,2003
+13222,"Council Bluffs, IA","Little Rock, IA",0,1,0,1,0,0,0,1,0,1,2003
+13321,"Council Bluffs, IA","Packwood, IA",0,1,0,1,0,0,0,1,0,1,2003
+13220,"Council Bluffs, IA","Lincoln, IA",1,0,0,1,0,0,0,1,0,1,2003
+13216,"Council Bluffs, IA","Lehigh, IA",0,0,1,0,0,1,1,0,0,1,2003
+13215,"Council Bluffs, IA","Ledyard, IA",1,0,0,0,1,0,1,0,0,1,2003
+13328,"Council Bluffs, IA","Paullina, IA",1,0,0,0,1,0,1,0,0,1,2003
+13208,"Council Bluffs, IA","Larchwood, IA",0,1,0,1,0,0,0,1,0,1,2003
+13342,"Council Bluffs, IA","Preston, IA",1,0,0,0,1,0,0,1,0,1,2003
+13206,"Council Bluffs, IA","Lakota, IA",1,0,0,0,0,1,1,0,0,1,2003
+13332,"Council Bluffs, IA","Plainfield, IA",0,0,1,0,0,1,1,0,0,1,2003
+13333,"Council Bluffs, IA","Plano, IA",1,0,0,1,0,0,0,1,0,1,2003
+13335,"Council Bluffs, IA","Pleasantville, IA",0,1,0,0,0,1,1,0,0,1,2003
+13203,"Council Bluffs, IA","Lake Park, IA",1,0,0,0,1,0,1,0,0,1,2003
+13200,"Council Bluffs, IA","La Porte City, IA",0,1,0,1,0,0,0,1,0,1,2003
+13197,"Council Bluffs, IA","Kingsley, IA",0,0,1,0,0,1,1,0,0,1,2003
+13226,"Council Bluffs, IA","Lowden, IA",1,0,0,0,1,0,1,0,0,1,2003
+13246,"Council Bluffs, IA","Marysville, IA",0,0,1,0,1,0,0,1,0,1,2003
+13249,"Council Bluffs, IA","Maxwell, IA",0,0,1,0,1,0,1,0,0,1,2003
+13310,"Council Bluffs, IA","Orient, IA",1,0,0,0,0,1,0,1,0,1,2003
+13281,"Council Bluffs, IA","Murray, IA",0,1,0,1,0,0,0,1,0,1,2003
+13279,"Council Bluffs, IA","Mount Vernon, IA",1,0,0,0,0,1,0,1,0,1,2003
+13277,"Council Bluffs, IA","Mount Ayr, IA",1,0,0,1,0,0,0,1,0,1,2003
+13295,"Council Bluffs, IA","Nichols, IA",0,1,0,1,0,0,0,1,0,1,2003
+13274,"Council Bluffs, IA","Morning Sun, IA",1,0,0,0,0,1,1,0,0,1,2003
+13273,"Council Bluffs, IA","Moravia, IA",0,1,0,0,0,1,1,0,0,1,2003
+13298,"Council Bluffs, IA","North English, IA",0,1,0,0,0,1,1,0,0,1,2003
+13270,"Council Bluffs, IA","Montour, IA",0,1,0,0,0,1,1,0,0,1,2003
+13267,"Council Bluffs, IA","Monona, IA",0,1,0,1,0,0,0,0,1,1,2003
+13264,"Council Bluffs, IA","Mitchell, IA",0,1,0,1,0,0,0,1,0,1,2003
+13302,"Council Bluffs, IA","Norway, IA",0,0,1,0,0,1,0,1,0,1,2003
+13304,"Council Bluffs, IA","Ocheyedan, IA",0,1,0,1,0,0,0,1,0,1,2003
+13259,"Council Bluffs, IA","Millville, IA",1,0,0,1,0,0,1,0,0,1,2003
+13255,"Council Bluffs, IA","Meriden, IA",0,1,0,1,0,0,0,1,0,1,2003
+13253,"Council Bluffs, IA","Mediapolis, IA",0,1,0,0,0,1,0,0,1,1,2003
+13195,"Council Bluffs, IA","Keosauqua, IA",0,1,0,0,0,1,0,1,0,1,2003
+13345,"Council Bluffs, IA","Promise City, IA",0,1,0,0,0,1,1,0,0,1,2003
+13402,"Council Bluffs, IA","Springbrook, IA",0,0,1,1,0,0,0,1,0,1,2003
+13114,"Council Bluffs, IA","Ferguson, IA",0,1,0,0,0,1,1,0,0,1,2003
+13125,"Council Bluffs, IA","Frederika, IA",0,1,0,0,0,1,0,0,1,1,2003
+13124,"Council Bluffs, IA","Fredericksburg, IA",0,1,0,1,0,0,0,1,0,1,2003
+13123,"Council Bluffs, IA","Fraser, IA",0,1,0,0,1,0,1,0,0,1,2003
+13122,"Council Bluffs, IA","Fostoria, IA",0,1,0,1,0,0,0,1,0,1,2003
+13283,"Council Bluffs, IA","Mystic, IA",0,1,0,1,0,0,0,1,0,1,2003
+13117,"Council Bluffs, IA","Fonda, IA",1,0,0,0,0,1,1,0,0,1,2003
+13388,"Council Bluffs, IA","Shueyville, IA",0,1,0,0,0,1,0,0,1,1,2003
+13113,"Council Bluffs, IA","Fenton, IA",0,1,0,1,0,0,0,1,0,1,2003
+13191,"Council Bluffs, IA","Kamrar, IA",0,1,0,0,0,1,0,1,0,1,2003
+13112,"Council Bluffs, IA","Fayette, IA",0,1,0,1,0,0,1,0,0,1,2003
+13110,"Council Bluffs, IA","Farmington, IA",0,1,0,1,0,0,0,1,0,1,2003
+13109,"Council Bluffs, IA","Farley, IA",1,0,0,0,1,0,0,1,0,1,2003
+13105,"Council Bluffs, IA","Exline, IA",0,0,1,0,0,1,1,0,0,1,2003
+13103,"Council Bluffs, IA","Everly, IA",0,1,0,1,0,0,1,0,0,1,2003
+13398,"Council Bluffs, IA","South English, IA",0,0,1,0,1,0,0,1,0,1,2003
+13089,"Council Bluffs, IA","Eldora, IA",0,1,0,0,0,1,0,1,0,1,2003
+13126,"Council Bluffs, IA","Fremont, IA",0,1,0,1,0,0,0,1,0,1,2003
+13379,"Council Bluffs, IA","Schaller, IA",0,1,0,1,0,0,0,1,0,1,2003
+13127,"Council Bluffs, IA","Fruitland, IA",0,1,0,1,0,0,0,1,0,1,2003
+13128,"Council Bluffs, IA","Garden Grove, IA",0,1,0,1,0,0,0,1,0,1,2003
+13190,"Council Bluffs, IA","Joice, IA",0,1,0,1,0,0,0,1,0,1,2003
+13188,"Council Bluffs, IA","Jewell Junction, IA",1,0,0,0,0,1,1,0,0,1,2003
+13184,"Council Bluffs, IA","Irwin, IA",1,0,0,0,1,0,0,1,0,1,2003
+13183,"Council Bluffs, IA","Ireton, IA",0,1,0,1,0,0,0,1,0,1,2003
+13354,"Council Bluffs, IA","Redding, IA",0,1,0,0,0,1,0,1,0,1,2003
+13170,"Council Bluffs, IA","Hubbard, IA",1,0,0,1,0,0,0,1,0,1,2003
+13358,"Council Bluffs, IA","Rhodes, IA",1,0,0,0,0,1,1,0,0,1,2003
+13148,"Council Bluffs, IA","Guernsey, IA",1,0,0,0,0,1,0,0,1,1,2003
+13144,"Council Bluffs, IA","Greenfield, IA",0,0,1,0,1,0,0,0,1,1,2003
+13370,"Council Bluffs, IA","Rockwell, IA",0,1,0,1,0,0,0,1,0,1,2003
+13140,"Council Bluffs, IA","Grandview, IA",0,0,1,0,1,0,1,0,0,1,2003
+13138,"Council Bluffs, IA","Goldfield, IA",0,1,0,0,0,1,0,0,1,1,2003
+13134,"Council Bluffs, IA","Gilbertville, IA",0,1,0,1,0,0,0,1,0,1,2003
+13375,"Council Bluffs, IA","Rutland, IA",0,1,0,0,0,1,0,1,0,1,2003
+13129,"Council Bluffs, IA","Garnavillo, IA",0,1,0,0,0,1,0,1,0,1,2003
+13217,"Council Bluffs, IA","Lenox, IA",1,0,0,0,0,1,0,0,1,1,2003

@@ -1,0 +1,193 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+29304,"Greenfield, IA","Greenfield, IA",118,358,172,197,379,72,185,224,239,648,2012
+29367,"Greenfield, IA","Orient, IA",29,94,71,64,97,33,50,61,83,194,2012
+29271,"Greenfield, IA","Creston, IA",22,39,13,30,37,7,19,24,31,74,2012
+29251,"Greenfield, IA","Casey, IA",13,18,23,15,27,12,12,23,19,54,2012
+29331,"Greenfield, IA","Lewis, IA",3,16,10,9,12,8,3,13,13,29,2012
+29301,"Greenfield, IA","Grant, IA",3,11,11,13,10,2,5,15,5,25,2012
+29232,"Greenfield, IA","Anita, IA",3,16,6,8,16,1,6,10,9,25,2012
+29345,"Greenfield, IA","Massena, IA",5,11,6,4,16,2,6,11,5,22,2012
+29305,"Greenfield, IA","Guthrie Center, IA",2,12,4,14,1,3,0,7,11,18,2012
+29289,"Greenfield, IA","Exira, IA",1,12,4,9,5,3,0,6,11,17,2012
+29225,"Greenfield, IA","Adair, IA",2,6,7,5,7,3,5,4,6,15,2012
+29226,"Greenfield, IA","Afton, IA",3,9,3,0,13,2,5,7,3,15,2012
+29387,"Greenfield, IA","Shannon City, IA",3,7,4,1,12,1,4,5,5,14,2012
+29234,"Greenfield, IA","Atlantic, IA",1,9,3,4,6,3,1,4,8,13,2012
+29329,"Greenfield, IA","Lenox, IA",2,7,4,1,10,2,4,7,2,13,2012
+29269,"Greenfield, IA","Council Bluffs, IA",2,8,2,3,7,2,3,5,4,12,2012
+29272,"Greenfield, IA","Cromwell, IA",0,8,4,6,4,2,2,5,5,12,2012
+29363,"Greenfield, IA","Nodaway, IA",2,5,4,0,7,4,1,5,5,11,2012
+29325,"Greenfield, IA","Knoxville, IA",4,3,4,1,3,7,3,4,4,11,2012
+29314,"Greenfield, IA","Indianola, IA",3,4,3,1,5,4,2,3,5,10,2012
+29413,"Greenfield, IA","Wiota, IA",0,5,5,2,6,2,2,4,4,10,2012
+29368,"Greenfield, IA","Osceola, IA",4,3,3,4,5,1,2,7,1,10,2012
+29230,"Greenfield, IA","Ames, IA",2,5,2,0,3,6,3,3,3,9,2012
+29354,"Greenfield, IA","Mount Ayr, IA",1,7,1,2,5,2,4,3,2,9,2012
+29235,"Greenfield, IA","Audubon, IA",2,6,1,4,1,4,2,3,4,9,2012
+29362,"Greenfield, IA","Newton, IA",3,4,2,1,7,1,0,6,3,9,2012
+29380,"Greenfield, IA","Red Oak, IA",3,4,2,0,6,3,4,4,1,9,2012
+29237,"Greenfield, IA","Bedford, IA",1,5,2,0,7,1,2,5,1,8,2012
+29396,"Greenfield, IA","Stanton, IA",2,3,3,0,4,4,2,5,1,8,2012
+29390,"Greenfield, IA","Shenandoah, IA",2,3,3,0,1,7,2,5,1,8,2012
+29284,"Greenfield, IA","East Peru, IA",3,3,2,0,5,3,3,4,1,8,2012
+29268,"Greenfield, IA","Corning, IA",1,4,2,1,5,1,4,2,1,7,2012
+29276,"Greenfield, IA","De Soto, IA",3,3,1,0,2,5,3,3,1,7,2012
+29398,"Greenfield, IA","Stuart, IA",1,4,2,2,2,3,3,2,2,7,2012
+29339,"Greenfield, IA","Macedonia, IA",1,3,3,2,4,1,3,2,2,7,2012
+29330,"Greenfield, IA","Leon, IA",2,3,2,0,6,1,1,6,0,7,2012
+29283,"Greenfield, IA","Diagonal, IA",1,5,1,1,6,0,3,1,3,7,2012
+29287,"Greenfield, IA","Elliott, IA",1,4,2,1,5,1,1,3,3,7,2012
+29364,"Greenfield, IA","Norwalk, IA",1,3,2,0,6,0,0,2,4,6,2012
+29356,"Greenfield, IA","Murray, IA",0,4,2,0,6,0,1,5,0,6,2012
+29262,"Greenfield, IA","Clinton, IA",1,4,1,1,3,2,4,1,1,6,2012
+29298,"Greenfield, IA","Glenwood, IA",2,3,1,1,2,3,2,3,1,6,2012
+29256,"Greenfield, IA","Chariton, IA",0,3,3,0,4,2,1,3,2,6,2012
+29294,"Greenfield, IA","Fort Dodge, IA",3,1,1,0,2,3,1,2,2,5,2012
+29308,"Greenfield, IA","Harlan, IA",2,3,0,1,2,2,1,0,4,5,2012
+29381,"Greenfield, IA","Redding, IA",3,2,0,2,3,0,2,2,1,5,2012
+29328,"Greenfield, IA","Le Mars, IA",1,2,2,0,5,0,1,4,0,5,2012
+29369,"Greenfield, IA","Oskaloosa, IA",1,3,1,0,3,2,1,1,3,5,2012
+29347,"Greenfield, IA","Melcher-Dallas, IA",1,4,0,2,1,2,1,2,2,5,2012
+29320,"Greenfield, IA","Kellerton, IA",1,3,1,3,2,0,1,1,3,5,2012
+29261,"Greenfield, IA","Clearfield, IA",0,4,1,2,2,1,1,3,1,5,2012
+29392,"Greenfield, IA","Sioux City, IA",1,1,2,1,2,1,0,1,3,4,2012
+29327,"Greenfield, IA","Lamoni, IA",2,2,0,1,2,1,3,0,1,4,2012
+29400,"Greenfield, IA","Tennant, IA",1,3,0,0,1,3,1,1,2,4,2012
+29264,"Greenfield, IA","Clive, IA",0,4,0,0,2,2,0,3,1,4,2012
+29403,"Greenfield, IA","Urbandale, IA",0,3,1,1,1,2,1,2,1,4,2012
+29233,"Greenfield, IA","Ankeny, IA",1,2,1,0,1,3,1,1,2,4,2012
+29296,"Greenfield, IA","Fraser, IA",3,1,0,1,1,2,2,1,1,4,2012
+29245,"Greenfield, IA","Burlington, IA",0,1,2,1,0,2,1,2,0,3,2012
+29337,"Greenfield, IA","Lorimor, IA",1,1,1,1,2,0,0,2,1,3,2012
+29321,"Greenfield, IA","Kimballton, IA",1,2,0,0,3,0,1,1,1,3,2012
+29248,"Greenfield, IA","Carroll, IA",1,1,1,0,0,3,1,2,0,3,2012
+29370,"Greenfield, IA","Ottumwa, IA",1,1,1,1,0,2,2,1,0,3,2012
+29383,"Greenfield, IA","Sac City, IA",0,2,1,1,2,0,1,2,0,3,2012
+29312,"Greenfield, IA","Humboldt, IA",1,1,1,0,0,3,1,1,1,3,2012
+29350,"Greenfield, IA","Millerton, IA",1,1,1,0,2,1,2,1,0,3,2012
+29255,"Greenfield, IA","Centerville, IA",1,2,0,0,1,2,0,2,1,3,2012
+29302,"Greenfield, IA","Gravity, IA",1,1,1,0,3,0,0,3,0,3,2012
+29259,"Greenfield, IA","Clarinda, IA",2,1,0,0,1,2,3,0,0,3,2012
+29389,"Greenfield, IA","Shelby, IA",0,1,2,0,1,2,0,1,2,3,2012
+29317,"Greenfield, IA","Jefferson, IA",2,1,0,1,1,1,0,2,1,3,2012
+29282,"Greenfield, IA","Des Moines, IA",0,1,2,2,1,0,1,0,2,3,2012
+29266,"Greenfield, IA","Colfax, IA",0,2,1,1,2,0,1,0,2,3,2012
+29263,"Greenfield, IA","Clio, IA",1,2,0,1,1,1,1,1,1,3,2012
+29279,"Greenfield, IA","Defiance, IA",0,2,1,0,3,0,0,0,3,3,2012
+29341,"Greenfield, IA","Manning, IA",0,1,1,1,0,1,0,1,1,2,2012
+29247,"Greenfield, IA","Carlisle, IA",0,2,0,0,2,0,0,1,1,2,2012
+29326,"Greenfield, IA","Lambs Grove, IA",1,1,0,0,1,1,1,1,0,2,2012
+29405,"Greenfield, IA","Waterloo, IA",2,0,0,0,1,1,0,1,1,2,2012
+29280,"Greenfield, IA","Deloit, IA",0,2,0,0,1,1,1,0,1,2,2012
+29244,"Greenfield, IA","Brayton, IA",1,0,1,0,1,1,0,1,1,2,2012
+29406,"Greenfield, IA","Waukee, IA",1,1,0,0,0,2,2,0,0,2,2012
+29336,"Greenfield, IA","Logan, IA",0,1,1,0,2,0,0,0,2,2,2012
+29338,"Greenfield, IA","Lynnville, IA",0,2,0,0,1,1,1,1,0,2,2012
+29242,"Greenfield, IA","Boone, IA",1,1,0,0,1,1,0,2,0,2,2012
+29260,"Greenfield, IA","Clarion, IA",0,1,1,0,1,1,0,1,1,2,2012
+29379,"Greenfield, IA","Reasnor, IA",0,2,0,1,1,0,0,1,1,2,2012
+29371,"Greenfield, IA","Pacific Junction, IA",0,2,0,1,0,1,1,0,1,2,2012
+29344,"Greenfield, IA","Mason City, IA",0,2,0,1,1,0,0,2,0,2,2012
+29241,"Greenfield, IA","Blanchard, IA",1,1,0,0,2,0,1,1,0,2,2012
+29267,"Greenfield, IA","Coon Rapids, IA",2,0,0,0,1,1,1,1,0,2,2012
+29348,"Greenfield, IA","Meriden, IA",0,2,0,0,1,1,1,1,0,2,2012
+29408,"Greenfield, IA","West Des Moines, IA",2,0,0,0,1,1,1,0,1,2,2012
+29277,"Greenfield, IA","Decorah, IA",1,1,0,0,1,1,1,1,0,2,2012
+29366,"Greenfield, IA","Onawa, IA",0,1,1,1,1,0,0,2,0,2,2012
+29273,"Greenfield, IA","Cumberland, IA",1,1,0,0,1,1,2,0,0,2,2012
+29414,"Greenfield, IA","Woodward, IA",1,0,1,0,2,0,0,0,2,2,2012
+29372,"Greenfield, IA","Panama, IA",2,0,0,0,2,0,0,2,0,2,2012
+29395,"Greenfield, IA","St. Marys, IA",0,1,1,0,1,1,0,2,0,2,2012
+29322,"Greenfield, IA","Kingsley, IA",1,1,0,0,2,0,1,0,1,2,2012
+29394,"Greenfield, IA","Spring Hill, IA",1,1,0,1,0,1,1,1,0,2,2012
+29361,"Greenfield, IA","New Market, IA",1,1,0,0,2,0,1,1,0,2,2012
+29291,"Greenfield, IA","Fairfax, IA",0,1,1,0,2,0,1,0,1,2,2012
+29388,"Greenfield, IA","Sharpsburg, IA",1,0,1,0,1,1,1,1,0,2,2012
+29300,"Greenfield, IA","Grand River, IA",0,1,1,1,1,0,0,1,1,2,2012
+29393,"Greenfield, IA","Soldier, IA",1,0,1,0,2,0,0,2,0,2,2012
+29257,"Greenfield, IA","Charter Oak, IA",0,2,0,0,2,0,0,1,1,2,2012
+29288,"Greenfield, IA","Ely, IA",1,1,0,0,0,2,2,0,0,2,2012
+29306,"Greenfield, IA","Hamburg, IA",0,2,0,0,1,1,0,1,1,2,2012
+29307,"Greenfield, IA","Hancock, IA",0,0,2,0,1,1,2,0,0,2,2012
+29385,"Greenfield, IA","Schleswig, IA",0,1,1,0,2,0,1,0,1,2,2012
+29286,"Greenfield, IA","Elk Horn, IA",0,2,0,0,1,1,0,1,1,2,2012
+29274,"Greenfield, IA","Cushing, IA",0,0,2,0,2,0,0,0,2,2,2012
+29316,"Greenfield, IA","Irwin, IA",0,2,0,0,2,0,0,2,0,2,2012
+29250,"Greenfield, IA","Carter Lake, IA",1,0,1,1,0,1,1,1,0,2,2012
+29374,"Greenfield, IA","Pella, IA",0,1,0,0,0,1,0,0,1,1,2012
+29404,"Greenfield, IA","Walnut, IA",0,1,0,0,1,0,0,1,0,1,2012
+29412,"Greenfield, IA","Winterset, IA",0,1,0,0,0,1,0,0,1,1,2012
+29411,"Greenfield, IA","Windsor Heights, IA",0,1,0,0,1,0,0,0,1,1,2012
+29365,"Greenfield, IA","Oakland, IA",1,0,0,0,0,1,1,0,0,1,2012
+29391,"Greenfield, IA","Shueyville, IA",0,1,0,1,0,0,0,0,1,1,2012
+29410,"Greenfield, IA","Williams, IA",0,0,1,0,0,1,1,0,0,1,2012
+29409,"Greenfield, IA","Westside, IA",1,0,0,0,0,1,0,1,0,1,2012
+29397,"Greenfield, IA","Story City, IA",0,1,0,0,1,0,0,1,0,1,2012
+29382,"Greenfield, IA","Rodney, IA",0,1,0,0,0,1,0,1,0,1,2012
+29384,"Greenfield, IA","Schaller, IA",0,1,0,0,1,0,0,1,0,1,2012
+29407,"Greenfield, IA","Waverly, IA",1,0,0,0,1,0,1,0,0,1,2012
+29399,"Greenfield, IA","Swea City, IA",0,1,0,0,1,0,0,1,0,1,2012
+29401,"Greenfield, IA","Titonka, IA",0,1,0,0,1,0,0,0,1,1,2012
+29377,"Greenfield, IA","Pleasanton, IA",1,0,0,0,1,0,0,1,0,1,2012
+29376,"Greenfield, IA","Pleasant Hill, IA",0,1,0,0,0,1,1,0,0,1,2012
+29402,"Greenfield, IA","University Park, IA",0,0,1,0,1,0,0,0,1,1,2012
+29378,"Greenfield, IA","Protivin, IA",1,0,0,0,1,0,1,0,0,1,2012
+29373,"Greenfield, IA","Panora, IA",0,0,1,0,1,0,0,0,1,1,2012
+29375,"Greenfield, IA","Perry, IA",0,1,0,1,0,0,0,0,1,1,2012
+29386,"Greenfield, IA","Seymour, IA",0,1,0,1,0,0,0,1,0,1,2012
+29224,"Greenfield, IA","Ackworth, IA",0,1,0,1,0,0,0,1,0,1,2012
+29360,"Greenfield, IA","New London, IA",1,0,0,0,1,0,0,1,0,1,2012
+29253,"Greenfield, IA","Cedar Rapids, IA",0,1,0,0,1,0,0,1,0,1,2012
+29293,"Greenfield, IA","Floyd, IA",1,0,0,0,0,1,1,0,0,1,2012
+29292,"Greenfield, IA","Fairfield, IA",0,1,0,0,0,1,0,1,0,1,2012
+29290,"Greenfield, IA","Fairbank, IA",0,0,1,0,0,1,0,0,1,1,2012
+29285,"Greenfield, IA","Eddyville, IA",0,0,1,0,1,0,1,0,0,1,2012
+29281,"Greenfield, IA","Denison, IA",0,1,0,0,1,0,1,0,0,1,2012
+29278,"Greenfield, IA","Dedham, IA",0,1,0,0,1,0,0,0,1,1,2012
+29275,"Greenfield, IA","Danbury, IA",0,1,0,0,0,1,0,0,1,1,2012
+29270,"Greenfield, IA","Cresco, IA",0,1,0,0,1,0,0,1,0,1,2012
+29265,"Greenfield, IA","Coggon, IA",0,1,0,0,1,0,0,1,0,1,2012
+29258,"Greenfield, IA","Cherokee, IA",1,0,0,0,0,1,1,0,0,1,2012
+29254,"Greenfield, IA","Center Point, IA",1,0,0,0,0,1,1,0,0,1,2012
+29252,"Greenfield, IA","Castana, IA",0,1,0,0,0,1,0,0,1,1,2012
+29297,"Greenfield, IA","Garner, IA",0,1,0,0,0,1,0,1,0,1,2012
+29249,"Greenfield, IA","Carson, IA",0,1,0,0,1,0,0,0,1,1,2012
+29246,"Greenfield, IA","Cambridge, IA",0,0,1,0,1,0,0,0,1,1,2012
+29243,"Greenfield, IA","Boxholm, IA",0,1,0,0,0,1,0,0,1,1,2012
+29240,"Greenfield, IA","Blakesburg, IA",0,1,0,1,0,0,0,1,0,1,2012
+29239,"Greenfield, IA","Bertram, IA",0,1,0,0,1,0,0,0,1,1,2012
+29238,"Greenfield, IA","Bennett, IA",1,0,0,0,1,0,0,1,0,1,2012
+29236,"Greenfield, IA","Avoca, IA",1,0,0,0,1,0,1,0,0,1,2012
+29231,"Greenfield, IA","Anamosa, IA",1,0,0,0,0,1,1,0,0,1,2012
+29229,"Greenfield, IA","Allison, IA",0,0,1,0,1,0,0,0,1,1,2012
+29228,"Greenfield, IA","Albia, IA",0,0,1,0,1,0,1,0,0,1,2012
+29227,"Greenfield, IA","Akron, IA",0,1,0,0,1,0,0,1,0,1,2012
+29295,"Greenfield, IA","Fort Madison, IA",1,0,0,0,0,1,1,0,0,1,2012
+29299,"Greenfield, IA","Grand Junction, IA",0,1,0,0,1,0,1,0,0,1,2012
+29359,"Greenfield, IA","New Albin, IA",1,0,0,0,1,0,1,0,0,1,2012
+29335,"Greenfield, IA","Livermore, IA",0,1,0,0,1,0,0,1,0,1,2012
+29358,"Greenfield, IA","Nevada, IA",1,0,0,0,0,1,0,1,0,1,2012
+29357,"Greenfield, IA","Muscatine, IA",0,1,0,0,1,0,0,0,1,1,2012
+29355,"Greenfield, IA","Moville, IA",0,0,1,0,1,0,0,1,0,1,2012
+29353,"Greenfield, IA","Moulton, IA",0,1,0,0,1,0,0,1,0,1,2012
+29352,"Greenfield, IA","Missouri Valley, IA",0,1,0,1,0,0,0,1,0,1,2012
+29351,"Greenfield, IA","Minden, IA",0,1,0,1,0,0,0,0,1,1,2012
+29349,"Greenfield, IA","Merrill, IA",0,1,0,0,1,0,0,0,1,1,2012
+29346,"Greenfield, IA","Maxwell, IA",0,1,0,0,1,0,1,0,0,1,2012
+29343,"Greenfield, IA","Marysville, IA",1,0,0,1,0,0,1,0,0,1,2012
+29342,"Greenfield, IA","Mapleton, IA",1,0,0,0,0,1,1,0,0,1,2012
+29340,"Greenfield, IA","Magnolia, IA",1,0,0,0,1,0,0,1,0,1,2012
+29334,"Greenfield, IA","Lineville, IA",0,1,0,1,0,0,0,0,1,1,2012
+29303,"Greenfield, IA","Gray, IA",0,1,0,0,0,1,0,1,0,1,2012
+29333,"Greenfield, IA","Linden, IA",0,0,1,0,1,0,0,1,0,1,2012
+29332,"Greenfield, IA","Lidderdale, IA",1,0,0,0,0,1,1,0,0,1,2012
+29324,"Greenfield, IA","Kiron, IA",0,1,0,0,1,0,0,1,0,1,2012
+29323,"Greenfield, IA","Kirkman, IA",0,1,0,0,1,0,0,0,1,1,2012
+29319,"Greenfield, IA","Johnston, IA",0,1,0,0,0,1,0,0,1,1,2012
+29318,"Greenfield, IA","Jewell Junction, IA",0,0,1,0,1,0,0,1,0,1,2012
+29315,"Greenfield, IA","Iowa City, IA",1,0,0,0,0,1,1,0,0,1,2012
+29313,"Greenfield, IA","Imogene, IA",0,0,1,1,0,0,0,1,0,1,2012
+29311,"Greenfield, IA","Henderson, IA",0,0,1,0,1,0,0,1,0,1,2012
+29310,"Greenfield, IA","Hazleton, IA",0,0,1,0,1,0,0,1,0,1,2012
+29309,"Greenfield, IA","Hastings, IA",0,1,0,0,0,1,1,0,0,1,2012
+29415,"Greenfield, IA","Woolstock, IA",0,1,0,0,0,1,0,0,1,1,2012

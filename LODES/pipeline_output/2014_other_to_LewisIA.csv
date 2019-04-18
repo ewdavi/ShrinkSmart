@@ -1,0 +1,69 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+42701,"Lewis, IA","Lewis, IA",15,24,19,28,20,10,19,22,17,58,2014
+42667,"Lewis, IA","Atlantic, IA",3,28,11,31,6,5,8,19,15,42,2014
+42684,"Lewis, IA","Cumberland, IA",6,13,8,13,10,4,9,6,12,27,2014
+42704,"Lewis, IA","Massena, IA",5,14,8,14,10,3,4,14,9,27,2014
+42674,"Lewis, IA","Carson, IA",6,11,4,7,5,9,9,8,4,21,2014
+42692,"Lewis, IA","Grant, IA",7,7,3,6,7,4,3,10,4,17,2014
+42727,"Lewis, IA","Wiota, IA",2,5,1,8,0,0,2,5,1,8,2014
+42711,"Lewis, IA","Oakland, IA",1,2,4,2,4,1,3,1,3,7,2014
+42693,"Lewis, IA","Greenfield, IA",1,4,2,5,1,1,0,6,1,7,2014
+42717,"Lewis, IA","Red Oak, IA",2,3,1,4,1,1,1,4,1,6,2014
+42682,"Lewis, IA","Council Bluffs, IA",2,2,0,3,1,0,0,3,1,4,2014
+42688,"Lewis, IA","Elliott, IA",1,1,2,3,1,0,2,2,0,4,2014
+42712,"Lewis, IA","Orient, IA",1,1,1,1,0,2,1,1,1,3,2014
+42715,"Lewis, IA","Pleasant Hill, IA",0,2,1,1,1,1,0,0,3,3,2014
+42695,"Lewis, IA","Hancock, IA",1,0,2,0,2,1,0,1,2,3,2014
+42710,"Lewis, IA","Nodaway, IA",1,1,0,1,1,0,0,2,0,2,2014
+42716,"Lewis, IA","Quimby, IA",1,1,0,1,0,1,1,1,0,2,2014
+42691,"Lewis, IA","Glenwood, IA",0,2,0,0,1,1,0,0,2,2,2014
+42687,"Lewis, IA","Elk Horn, IA",0,2,0,2,0,0,0,1,1,2,2014
+42685,"Lewis, IA","Denison, IA",2,0,0,0,1,1,1,1,0,2,2014
+42720,"Lewis, IA","Silver City, IA",0,2,0,2,0,0,0,0,2,2,2014
+42683,"Lewis, IA","Creston, IA",0,0,2,1,0,1,0,1,1,2,2014
+42694,"Lewis, IA","Hamburg, IA",0,1,1,0,0,2,0,0,2,2,2014
+42677,"Lewis, IA","Chariton, IA",0,1,1,2,0,0,1,0,1,2,2014
+42676,"Lewis, IA","Casey, IA",0,1,1,1,0,1,0,0,2,2,2014
+42664,"Lewis, IA","Anita, IA",0,2,0,2,0,0,0,1,1,2,2014
+42681,"Lewis, IA","Colo, IA",0,0,1,0,1,0,0,0,1,1,2014
+42663,"Lewis, IA","Ames, IA",0,1,0,0,0,1,0,1,0,1,2014
+42709,"Lewis, IA","Newton, IA",0,1,0,1,0,0,0,1,0,1,2014
+42669,"Lewis, IA","Blanchard, IA",0,1,0,0,0,1,0,1,0,1,2014
+42668,"Lewis, IA","Bagley, IA",0,0,1,0,1,0,0,0,1,1,2014
+42666,"Lewis, IA","Anthon, IA",0,0,1,0,1,0,0,1,0,1,2014
+42713,"Lewis, IA","Ottumwa, IA",0,1,0,0,0,1,0,0,1,1,2014
+42714,"Lewis, IA","Pacific Junction, IA",0,0,1,1,0,0,0,1,0,1,2014
+42665,"Lewis, IA","Ankeny, IA",1,0,0,0,1,0,1,0,0,1,2014
+42719,"Lewis, IA","Shenandoah, IA",0,0,1,0,0,1,0,0,1,1,2014
+42718,"Lewis, IA","Shannon City, IA",0,1,0,0,0,1,0,1,0,1,2014
+42707,"Lewis, IA","Mondamin, IA",0,0,1,0,1,0,0,0,1,1,2014
+42662,"Lewis, IA","Albia, IA",0,1,0,0,0,1,0,0,1,1,2014
+42721,"Lewis, IA","Stanton, IA",1,0,0,0,1,0,0,1,0,1,2014
+42722,"Lewis, IA","Tennant, IA",0,0,1,0,0,1,1,0,0,1,2014
+42723,"Lewis, IA","Unionville, IA",0,1,0,0,0,1,1,0,0,1,2014
+42724,"Lewis, IA","Walnut, IA",0,1,0,0,1,0,0,0,1,1,2014
+42725,"Lewis, IA","Waterloo, IA",0,1,0,0,0,1,0,0,1,1,2014
+42726,"Lewis, IA","West Des Moines, IA",1,0,0,0,1,0,1,0,0,1,2014
+42708,"Lewis, IA","New Market, IA",1,0,0,1,0,0,0,1,0,1,2014
+42705,"Lewis, IA","Minden, IA",0,1,0,0,0,1,0,0,1,1,2014
+42706,"Lewis, IA","Missouri Valley, IA",0,1,0,1,0,0,0,0,1,1,2014
+42672,"Lewis, IA","Burlington, IA",0,1,0,0,1,0,1,0,0,1,2014
+42679,"Lewis, IA","Clive, IA",0,1,0,0,1,0,0,0,1,1,2014
+42686,"Lewis, IA","Des Moines, IA",0,0,1,0,1,0,0,0,1,1,2014
+42678,"Lewis, IA","Clarinda, IA",0,0,1,1,0,0,1,0,0,1,2014
+42689,"Lewis, IA","Essex, IA",0,1,0,0,0,1,0,0,1,1,2014
+42690,"Lewis, IA","Fort Dodge, IA",0,1,0,0,1,0,0,0,1,1,2014
+42675,"Lewis, IA","Carter Lake, IA",1,0,0,0,0,1,1,0,0,1,2014
+42673,"Lewis, IA","Carroll, IA",0,1,0,1,0,0,0,1,0,1,2014
+42661,"Lewis, IA","Adel, IA",0,1,0,0,0,1,0,0,1,1,2014
+42696,"Lewis, IA","Henderson, IA",0,0,1,0,0,1,1,0,0,1,2014
+42680,"Lewis, IA","Coburg, IA",1,0,0,1,0,0,0,1,0,1,2014
+42697,"Lewis, IA","Ida Grove, IA",0,0,1,1,0,0,0,0,1,1,2014
+42698,"Lewis, IA","Irwin, IA",0,1,0,1,0,0,0,1,0,1,2014
+42699,"Lewis, IA","Kimballton, IA",0,1,0,1,0,0,0,1,0,1,2014
+42700,"Lewis, IA","Lenox, IA",1,0,0,0,1,0,0,1,0,1,2014
+42671,"Lewis, IA","Boone, IA",1,0,0,0,0,1,0,0,1,1,2014
+42702,"Lewis, IA","Logan, IA",1,0,0,0,0,1,0,0,1,1,2014
+42703,"Lewis, IA","Manning, IA",0,0,1,1,0,0,0,0,1,1,2014
+42670,"Lewis, IA","Bloomfield, IA",0,1,0,1,0,0,0,1,0,1,2014
+42660,"Lewis, IA","Ackworth, IA",0,1,0,1,0,0,0,1,0,1,2014

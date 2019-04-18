@@ -1,0 +1,83 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+41851,"Ogden, IA","Ogden, IA",25,105,52,29,119,34,80,62,40,182,2003
+41829,"Ogden, IA","Fraser, IA",15,52,22,16,57,16,39,35,15,89,2003
+41803,"Ogden, IA","Boone, IA",12,56,17,19,51,15,32,38,15,85,2003
+41795,"Ogden, IA","Ames, IA",14,18,4,9,21,6,15,10,11,36,2003
+41838,"Ogden, IA","Jefferson, IA",2,10,0,0,6,6,3,7,2,12,2003
+41846,"Ogden, IA","Mason City, IA",1,9,1,0,0,11,1,1,9,11,2003
+41862,"Ogden, IA","Stanhope, IA",0,6,4,5,2,3,9,0,1,10,2003
+41869,"Ogden, IA","Urbandale, IA",2,6,1,4,2,3,1,3,5,9,2003
+41856,"Ogden, IA","Perry, IA",1,7,0,0,6,2,5,3,0,8,2003
+41828,"Ogden, IA","Fort Dodge, IA",0,6,0,0,4,2,1,5,0,6,2003
+41860,"Ogden, IA","Rippey, IA",2,4,0,1,4,1,3,2,1,6,2003
+41832,"Ogden, IA","Grand Junction, IA",2,3,0,0,4,1,4,1,0,5,2003
+41835,"Ogden, IA","Greenfield, IA",1,1,3,1,2,2,3,1,1,5,2003
+41845,"Ogden, IA","Marshalltown, IA",1,4,0,0,3,2,0,3,2,5,2003
+41852,"Ogden, IA","Otho, IA",0,5,0,1,4,0,1,4,0,5,2003
+41874,"Ogden, IA","Windsor Heights, IA",2,3,0,2,2,1,0,5,0,5,2003
+41863,"Ogden, IA","Story City, IA",0,5,0,0,5,0,0,5,0,5,2003
+41809,"Ogden, IA","Carroll, IA",3,1,0,0,3,1,3,0,1,4,2003
+41823,"Ogden, IA","Des Moines, IA",0,4,0,0,2,2,0,1,3,4,2003
+41804,"Ogden, IA","Boxholm, IA",0,4,0,0,3,1,2,1,1,4,2003
+41858,"Ogden, IA","Quimby, IA",1,1,1,0,3,0,1,2,0,3,2003
+41796,"Ogden, IA","Ankeny, IA",1,2,0,0,1,2,1,1,1,3,2003
+41840,"Ogden, IA","Knoxville, IA",1,2,0,1,1,1,3,0,0,3,2003
+41800,"Ogden, IA","Blairstown, IA",0,2,1,2,0,1,1,1,1,3,2003
+41866,"Ogden, IA","Toledo, IA",1,2,0,2,0,1,1,1,1,3,2003
+41813,"Ogden, IA","Clarion, IA",2,1,0,0,2,1,1,0,2,3,2003
+41848,"Ogden, IA","Minburn, IA",0,2,0,0,1,1,1,0,1,2,2003
+41864,"Ogden, IA","Stratford, IA",0,2,0,1,1,0,1,1,0,2,2003
+41853,"Ogden, IA","Owasa, IA",0,1,1,0,1,1,1,0,1,2,2003
+41843,"Ogden, IA","Lidderdale, IA",0,1,1,0,0,2,1,0,1,2,2003
+41841,"Ogden, IA","Lacona, IA",0,1,1,1,0,1,1,0,1,2,2003
+41855,"Ogden, IA","Patterson, IA",0,2,0,0,0,2,1,1,0,2,2003
+41839,"Ogden, IA","Johnston, IA",0,2,0,2,0,0,0,2,0,2,2003
+41871,"Ogden, IA","Waukee, IA",0,2,0,0,1,1,1,0,1,2,2003
+41872,"Ogden, IA","Wellman, IA",0,1,1,1,1,0,0,1,1,2,2003
+41859,"Ogden, IA","Rhodes, IA",0,1,1,1,0,1,1,0,1,2,2003
+41857,"Ogden, IA","Pleasantville, IA",1,1,0,1,0,1,0,1,1,2,2003
+41834,"Ogden, IA","Gray, IA",0,1,1,0,0,2,2,0,0,2,2003
+41815,"Ogden, IA","Colfax, IA",2,0,0,0,0,2,2,0,0,2,2003
+41826,"Ogden, IA","Ellsworth, IA",1,1,0,2,0,0,2,0,0,2,2003
+41830,"Ogden, IA","Gilbert, IA",0,2,0,1,0,1,0,1,1,2,2003
+41816,"Ogden, IA","Colo, IA",0,2,0,1,1,0,1,0,1,2,2003
+41808,"Ogden, IA","Cantril, IA",0,2,0,1,1,0,0,1,1,2,2003
+41820,"Ogden, IA","Dawson, IA",0,1,1,0,1,1,0,1,1,2,2003
+41821,"Ogden, IA","De Soto, IA",0,0,2,1,0,1,0,0,2,2,2003
+41827,"Ogden, IA","Farmington, IA",0,1,1,0,1,1,0,1,1,2,2003
+41798,"Ogden, IA","Bagley, IA",1,1,0,0,2,0,1,0,1,2,2003
+41870,"Ogden, IA","Waterloo, IA",1,0,0,0,1,0,0,1,0,1,2003
+41806,"Ogden, IA","Brighton, IA",0,0,1,0,1,0,0,0,1,1,2003
+41810,"Ogden, IA","Casey, IA",0,1,0,0,1,0,0,1,0,1,2003
+41873,"Ogden, IA","West Chester, IA",1,0,0,0,1,0,0,0,1,1,2003
+41797,"Ogden, IA","Aurelia, IA",1,0,0,0,0,1,1,0,0,1,2003
+41807,"Ogden, IA","Callender, IA",0,1,0,0,1,0,0,1,0,1,2003
+41861,"Ogden, IA","Sioux City, IA",0,0,1,0,0,1,0,1,0,1,2003
+41805,"Ogden, IA","Brayton, IA",0,1,0,0,0,1,0,0,1,1,2003
+41799,"Ogden, IA","Belmond, IA",1,0,0,0,0,1,1,0,0,1,2003
+41802,"Ogden, IA","Bonaparte, IA",0,0,1,0,0,1,0,1,0,1,2003
+41865,"Ogden, IA","Stuart, IA",0,1,0,1,0,0,0,1,0,1,2003
+41812,"Ogden, IA","Churdan, IA",0,0,1,0,1,0,0,0,1,1,2003
+41801,"Ogden, IA","Bloomfield, IA",0,1,0,0,0,1,0,1,0,1,2003
+41867,"Ogden, IA","Traer, IA",1,0,0,0,0,1,0,0,1,1,2003
+41868,"Ogden, IA","Unionville, IA",0,1,0,0,0,1,0,0,1,1,2003
+41811,"Ogden, IA","Cherokee, IA",0,1,0,0,1,0,1,0,0,1,2003
+41831,"Ogden, IA","Goldfield, IA",0,1,0,0,0,1,1,0,0,1,2003
+41814,"Ogden, IA","Clive, IA",0,1,0,0,0,1,0,0,1,1,2003
+41854,"Ogden, IA","Pacific Junction, IA",0,1,0,0,0,1,0,0,1,1,2003
+41833,"Ogden, IA","Granger, IA",1,0,0,0,0,1,0,1,0,1,2003
+41794,"Ogden, IA","Altoona, IA",0,1,0,0,0,1,0,0,1,1,2003
+41836,"Ogden, IA","Grinnell, IA",0,1,0,0,0,1,0,0,1,1,2003
+41837,"Ogden, IA","Harvey, IA",0,1,0,1,0,0,0,1,0,1,2003
+41825,"Ogden, IA","Dunlap, IA",1,0,0,0,0,1,1,0,0,1,2003
+41824,"Ogden, IA","Dexter, IA",0,1,0,0,0,1,0,0,1,1,2003
+41822,"Ogden, IA","Denison, IA",0,1,0,0,1,0,0,1,0,1,2003
+41842,"Ogden, IA","Lehigh, IA",0,1,0,0,1,0,0,1,0,1,2003
+41844,"Ogden, IA","Madrid, IA",0,0,1,0,1,0,0,1,0,1,2003
+41819,"Ogden, IA","Dallas Center, IA",0,1,0,0,0,1,0,0,1,1,2003
+41847,"Ogden, IA","Milton, IA",0,1,0,0,1,0,1,0,0,1,2003
+41818,"Ogden, IA","Cushing, IA",0,1,0,0,0,1,1,0,0,1,2003
+41849,"Ogden, IA","Monroe, IA",0,0,1,0,1,0,0,1,0,1,2003
+41850,"Ogden, IA","Newton, IA",0,0,1,0,1,0,0,1,0,1,2003
+41817,"Ogden, IA","Coon Rapids, IA",0,1,0,0,0,1,0,0,1,1,2003
+41793,"Ogden, IA","Ackley, IA",0,0,1,1,0,0,1,0,0,1,2003

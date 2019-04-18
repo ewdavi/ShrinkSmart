@@ -1,0 +1,99 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+33955,"Madrid, IA","Madrid, IA",43,109,42,14,166,14,93,61,40,194,2003
+33914,"Madrid, IA","Boone, IA",21,23,7,7,36,8,20,25,6,51,2003
+33954,"Madrid, IA","Luther, IA",13,25,8,3,38,5,22,15,9,46,2003
+33977,"Madrid, IA","Polk City, IA",13,21,6,3,34,3,20,16,4,40,2003
+33908,"Madrid, IA","Ankeny, IA",11,20,6,3,25,9,15,12,10,37,2003
+33932,"Madrid, IA","Des Moines, IA",14,11,4,7,18,4,10,15,4,29,2003
+33907,"Madrid, IA","Ames, IA",9,14,6,5,21,3,13,13,3,29,2003
+33975,"Madrid, IA","Perry, IA",6,10,0,0,11,5,6,9,1,16,2003
+33944,"Madrid, IA","Huxley, IA",4,8,3,2,10,3,7,7,1,15,2003
+33939,"Madrid, IA","Granger, IA",2,11,1,0,10,4,6,6,2,14,2003
+33927,"Madrid, IA","Dallas Center, IA",2,10,2,0,14,0,3,6,5,14,2003
+33983,"Madrid, IA","Slater, IA",2,6,5,0,9,4,3,9,1,13,2003
+33970,"Madrid, IA","Ogden, IA",4,6,1,1,9,1,2,9,0,11,2003
+33922,"Madrid, IA","Clive, IA",6,3,0,0,8,1,3,1,5,9,2003
+33999,"Madrid, IA","Woodward, IA",2,7,0,0,9,0,4,4,1,9,2003
+33918,"Madrid, IA","Cambridge, IA",0,6,2,0,7,1,2,2,4,8,2003
+33906,"Madrid, IA","Altoona, IA",1,5,1,3,3,1,2,5,0,7,2003
+33988,"Madrid, IA","Urbandale, IA",0,4,2,0,3,3,1,5,0,6,2003
+33947,"Madrid, IA","Johnston, IA",1,4,1,0,4,2,1,2,3,6,2003
+33904,"Madrid, IA","Afton, IA",1,4,0,1,1,3,1,3,1,5,2003
+33991,"Madrid, IA","Waukee, IA",2,0,2,0,3,1,4,0,0,4,2003
+33935,"Madrid, IA","Fraser, IA",1,3,0,0,2,2,0,4,0,4,2003
+33951,"Madrid, IA","Linden, IA",1,1,2,0,3,1,1,1,2,4,2003
+33911,"Madrid, IA","Bayard, IA",1,3,0,0,4,0,4,0,0,4,2003
+33966,"Madrid, IA","Nevada, IA",3,0,0,0,3,0,0,3,0,3,2003
+33990,"Madrid, IA","Waterloo, IA",3,0,0,0,3,0,3,0,0,3,2003
+33984,"Madrid, IA","Soldier, IA",1,1,1,1,0,2,2,1,0,3,2003
+33976,"Madrid, IA","Pleasant Hill, IA",0,3,0,0,2,1,1,2,0,3,2003
+33938,"Madrid, IA","Grand Junction, IA",2,1,0,0,1,2,2,1,0,3,2003
+33919,"Madrid, IA","Carlisle, IA",3,0,0,0,3,0,0,3,0,3,2003
+33968,"Madrid, IA","Norwalk, IA",1,2,0,0,1,2,1,2,0,3,2003
+33964,"Madrid, IA","Moorhead, IA",1,0,2,0,0,3,2,0,1,3,2003
+33972,"Madrid, IA","Ottumwa, IA",2,0,0,0,1,1,1,1,0,2,2003
+33946,"Madrid, IA","Jefferson, IA",1,1,0,0,1,1,1,0,1,2,2003
+33917,"Madrid, IA","Buffalo, IA",2,0,0,0,2,0,2,0,0,2,2003
+33985,"Madrid, IA","State Center, IA",2,0,0,0,0,2,0,2,0,2,2003
+33903,"Madrid, IA","Adel, IA",1,0,1,0,2,0,1,0,1,2,2003
+33963,"Madrid, IA","Monroe, IA",1,1,0,0,2,0,2,0,0,2,2003
+33926,"Madrid, IA","Dakota City, IA",0,2,0,0,2,0,0,2,0,2,2003
+33961,"Madrid, IA","Minburn, IA",1,1,0,0,1,1,1,1,0,2,2003
+33956,"Madrid, IA","Marshalltown, IA",1,1,0,0,1,1,2,0,0,2,2003
+33945,"Madrid, IA","Indianola, IA",1,0,1,0,1,1,1,0,1,2,2003
+33941,"Madrid, IA","Grimes, IA",0,1,1,0,2,0,1,0,1,2,2003
+33909,"Madrid, IA","Atlantic, IA",0,2,0,0,2,0,0,0,2,2,2003
+33978,"Madrid, IA","Redfield, IA",0,1,1,0,0,2,1,0,1,2,2003
+33920,"Madrid, IA","Carroll, IA",1,1,0,0,2,0,1,1,0,2,2003
+33937,"Madrid, IA","Gilbert, IA",0,2,0,0,0,2,0,1,1,2,2003
+33967,"Madrid, IA","Newton, IA",0,2,0,0,0,2,2,0,0,2,2003
+33934,"Madrid, IA","Fort Dodge, IA",0,1,1,0,1,1,1,1,0,2,2003
+33993,"Madrid, IA","Webb, IA",2,0,0,0,2,0,2,0,0,2,2003
+33996,"Madrid, IA","West Des Moines, IA",0,0,2,1,1,0,1,0,1,2,2003
+33997,"Madrid, IA","What Cheer, IA",1,1,0,1,0,1,1,1,0,2,2003
+33974,"Madrid, IA","Panora, IA",0,2,0,0,1,1,1,1,0,2,2003
+33924,"Madrid, IA","Colo, IA",0,2,0,0,2,0,0,2,0,2,2003
+33960,"Madrid, IA","Melcher-Dallas, IA",1,1,0,0,0,2,1,0,1,2,2003
+33912,"Madrid, IA","Belle Plaine, IA",0,1,0,0,1,0,0,0,1,1,2003
+33925,"Madrid, IA","Council Bluffs, IA",0,0,1,0,0,1,0,1,0,1,2003
+33979,"Madrid, IA","Rhodes, IA",0,1,0,0,1,0,0,1,0,1,2003
+33980,"Madrid, IA","Rippey, IA",0,1,0,1,0,0,0,1,0,1,2003
+33981,"Madrid, IA","Sigourney, IA",0,1,0,0,0,1,0,1,0,1,2003
+33982,"Madrid, IA","Sioux City, IA",0,1,0,0,0,1,0,1,0,1,2003
+33910,"Madrid, IA","Baxter, IA",0,1,0,0,0,1,0,1,0,1,2003
+33973,"Madrid, IA","Owasa, IA",0,0,1,0,0,1,1,0,0,1,2003
+33987,"Madrid, IA","Story City, IA",0,1,0,0,0,1,1,0,0,1,2003
+33989,"Madrid, IA","Van Meter, IA",0,1,0,1,0,0,0,1,0,1,2003
+33905,"Madrid, IA","Albia, IA",1,0,0,0,0,1,1,0,0,1,2003
+33992,"Madrid, IA","Waukon, IA",1,0,0,0,0,1,1,0,0,1,2003
+33994,"Madrid, IA","Webster City, IA",1,0,0,0,0,1,0,1,0,1,2003
+33995,"Madrid, IA","Webster, IA",0,0,1,0,0,1,1,0,0,1,2003
+33998,"Madrid, IA","Windsor Heights, IA",0,1,0,0,1,0,0,1,0,1,2003
+33986,"Madrid, IA","Steamboat Rock, IA",1,0,0,0,1,0,0,1,0,1,2003
+33962,"Madrid, IA","Mondamin, IA",1,0,0,0,0,1,1,0,0,1,2003
+33971,"Madrid, IA","Osceola, IA",1,0,0,0,1,0,1,0,0,1,2003
+33913,"Madrid, IA","Bondurant, IA",1,0,0,0,0,1,1,0,0,1,2003
+33928,"Madrid, IA","Dawson, IA",1,0,0,0,1,0,0,1,0,1,2003
+33929,"Madrid, IA","Dayton, IA",0,1,0,1,0,0,0,1,0,1,2003
+33930,"Madrid, IA","De Soto, IA",1,0,0,0,1,0,1,0,0,1,2003
+33931,"Madrid, IA","Dedham, IA",1,0,0,0,0,1,0,1,0,1,2003
+33923,"Madrid, IA","Colfax, IA",0,0,1,0,0,1,0,1,0,1,2003
+33933,"Madrid, IA","Elberon, IA",0,1,0,0,1,0,0,0,1,1,2003
+33921,"Madrid, IA","Cedar Falls, IA",0,1,0,0,0,1,0,1,0,1,2003
+33936,"Madrid, IA","Gibson, IA",1,0,0,0,1,0,1,0,0,1,2003
+33940,"Madrid, IA","Gray, IA",0,0,1,0,1,0,0,1,0,1,2003
+33942,"Madrid, IA","Guthrie Center, IA",0,1,0,0,1,0,0,0,1,1,2003
+33943,"Madrid, IA","Havelock, IA",1,0,0,0,0,1,0,1,0,1,2003
+33948,"Madrid, IA","Knoxville, IA",0,1,0,0,0,1,0,1,0,1,2003
+33949,"Madrid, IA","Lacona, IA",1,0,0,0,0,1,0,1,0,1,2003
+33950,"Madrid, IA","Lansing, IA",1,0,0,0,1,0,1,0,0,1,2003
+33952,"Madrid, IA","Liscomb, IA",0,0,1,0,1,0,0,0,1,1,2003
+33953,"Madrid, IA","Lorimor, IA",1,0,0,0,1,0,1,0,0,1,2003
+33916,"Madrid, IA","Brayton, IA",0,1,0,0,0,1,0,0,1,1,2003
+33915,"Madrid, IA","Boxholm, IA",0,1,0,0,1,0,0,1,0,1,2003
+33957,"Madrid, IA","Marysville, IA",0,1,0,0,0,1,1,0,0,1,2003
+33958,"Madrid, IA","Mason City, IA",0,0,1,0,1,0,0,0,1,1,2003
+33959,"Madrid, IA","Maxwell, IA",0,1,0,0,0,1,0,1,0,1,2003
+33965,"Madrid, IA","Mount Ayr, IA",0,0,1,0,1,0,0,1,0,1,2003
+33969,"Madrid, IA","Odebolt, IA",1,0,0,0,1,0,0,1,0,1,2003
+33902,"Madrid, IA","Ackley, IA",0,1,0,0,0,1,1,0,0,1,2003

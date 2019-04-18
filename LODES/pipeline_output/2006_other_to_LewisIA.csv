@@ -1,0 +1,63 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+33894,"Lewis, IA","Hancock, IA",33,36,11,70,8,2,11,59,10,80,2006
+33902,"Lewis, IA","Lewis, IA",10,47,13,41,19,10,18,40,12,70,2006
+33913,"Lewis, IA","Oakland, IA",22,36,11,62,4,3,10,44,15,69,2006
+33873,"Lewis, IA","Atlantic, IA",21,33,10,62,0,2,5,49,10,64,2006
+33885,"Lewis, IA","Council Bluffs, IA",19,22,7,43,2,3,3,29,16,48,2006
+33879,"Lewis, IA","Carson, IA",13,22,8,35,3,5,9,27,7,43,2006
+33906,"Lewis, IA","Massena, IA",4,17,7,8,5,15,7,16,5,28,2006
+33887,"Lewis, IA","Cumberland, IA",5,12,4,14,4,3,0,13,8,21,2006
+33893,"Lewis, IA","Grant, IA",1,13,5,9,4,6,2,11,6,19,2006
+33930,"Lewis, IA","Wiota, IA",7,6,2,3,4,8,6,9,0,15,2006
+33929,"Lewis, IA","Walnut, IA",9,5,0,14,0,0,0,11,3,14,2006
+33923,"Lewis, IA","Shelby, IA",3,9,0,11,0,1,0,9,3,12,2006
+33895,"Lewis, IA","Harlan, IA",3,2,3,8,0,0,1,6,1,8,2006
+33890,"Lewis, IA","Elliott, IA",3,4,1,6,0,2,1,6,1,8,2006
+33920,"Lewis, IA","Red Oak, IA",1,7,0,7,1,0,0,6,2,8,2006
+33927,"Lewis, IA","Tennant, IA",2,2,2,4,0,2,2,1,3,6,2006
+33901,"Lewis, IA","Kirkman, IA",1,3,1,5,0,0,0,5,0,5,2006
+33917,"Lewis, IA","Panama, IA",3,2,0,5,0,0,3,2,0,5,2006
+33904,"Lewis, IA","Macedonia, IA",4,1,0,4,0,1,0,5,0,5,2006
+33871,"Lewis, IA","Anita, IA",1,3,1,2,2,1,3,2,0,5,2006
+33888,"Lewis, IA","Denison, IA",4,1,0,5,0,0,0,4,1,5,2006
+33908,"Lewis, IA","Minden, IA",1,2,2,4,1,0,1,2,2,5,2006
+33874,"Lewis, IA","Avoca, IA",3,2,0,5,0,0,0,5,0,5,2006
+33905,"Lewis, IA","Malvern, IA",2,1,1,2,0,2,3,1,0,4,2006
+33907,"Lewis, IA","McClelland, IA",1,1,2,3,1,0,1,2,1,4,2006
+33915,"Lewis, IA","Orient, IA",0,4,0,4,0,0,2,2,0,4,2006
+33924,"Lewis, IA","Silver City, IA",1,2,1,1,2,1,0,3,1,4,2006
+33884,"Lewis, IA","Corning, IA",0,1,2,0,1,2,0,2,1,3,2006
+33889,"Lewis, IA","Des Moines, IA",1,0,2,1,1,1,1,1,1,3,2006
+33914,"Lewis, IA","Onawa, IA",0,2,1,1,2,0,2,0,1,3,2006
+33911,"Lewis, IA","Nodaway, IA",1,0,2,1,0,2,0,2,1,3,2006
+33921,"Lewis, IA","Riverton, IA",0,0,2,2,0,0,0,2,0,2,2006
+33925,"Lewis, IA","Sioux City, IA",0,2,0,1,0,1,0,1,1,2,2006
+33869,"Lewis, IA","Adair, IA",0,0,2,2,0,0,1,1,0,2,2006
+33899,"Lewis, IA","Imogene, IA",1,1,0,0,0,2,0,2,0,2,2006
+33886,"Lewis, IA","Cromwell, IA",0,1,1,2,0,0,0,2,0,2,2006
+33881,"Lewis, IA","Casey, IA",2,0,0,1,1,0,0,1,1,2,2006
+33903,"Lewis, IA","Logan, IA",0,1,0,1,0,0,0,1,0,1,2006
+33918,"Lewis, IA","Panora, IA",1,0,0,0,0,1,0,0,1,1,2006
+33872,"Lewis, IA","Arcadia, IA",1,0,0,1,0,0,0,1,0,1,2006
+33928,"Lewis, IA","Wall Lake, IA",0,1,0,0,0,1,0,1,0,1,2006
+33875,"Lewis, IA","Boone, IA",1,0,0,0,1,0,0,1,0,1,2006
+33926,"Lewis, IA","St. Marys, IA",1,0,0,0,1,0,0,1,0,1,2006
+33876,"Lewis, IA","Braddyville, IA",0,1,0,1,0,0,1,0,0,1,2006
+33877,"Lewis, IA","Brayton, IA",0,0,1,1,0,0,0,1,0,1,2006
+33878,"Lewis, IA","Bussey, IA",0,0,1,1,0,0,0,1,0,1,2006
+33922,"Lewis, IA","Sharpsburg, IA",0,0,1,0,0,1,0,1,0,1,2006
+33880,"Lewis, IA","Carter Lake, IA",1,0,0,1,0,0,0,1,0,1,2006
+33919,"Lewis, IA","Reasnor, IA",0,0,1,0,0,1,0,0,1,1,2006
+33882,"Lewis, IA","Clear Lake, IA",0,0,1,0,0,1,0,0,1,1,2006
+33870,"Lewis, IA","Akron, IA",1,0,0,1,0,0,0,1,0,1,2006
+33916,"Lewis, IA","Ottumwa, IA",1,0,0,1,0,0,0,1,0,1,2006
+33883,"Lewis, IA","Clearfield, IA",0,1,0,1,0,0,0,1,0,1,2006
+33891,"Lewis, IA","Farragut, IA",0,0,1,1,0,0,0,1,0,1,2006
+33912,"Lewis, IA","Norwalk, IA",0,1,0,1,0,0,0,1,0,1,2006
+33892,"Lewis, IA","Glenwood, IA",1,0,0,1,0,0,0,1,0,1,2006
+33910,"Lewis, IA","Murray, IA",0,1,0,1,0,0,0,0,1,1,2006
+33909,"Lewis, IA","Mondamin, IA",0,1,0,1,0,0,0,1,0,1,2006
+33896,"Lewis, IA","Hastings, IA",1,0,0,1,0,0,0,1,0,1,2006
+33897,"Lewis, IA","Hedrick, IA",0,1,0,0,0,1,0,0,1,1,2006
+33898,"Lewis, IA","Henderson, IA",0,1,0,1,0,0,0,0,1,1,2006
+33900,"Lewis, IA","Indianola, IA",0,1,0,1,0,0,0,1,0,1,2006

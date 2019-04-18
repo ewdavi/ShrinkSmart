@@ -1,0 +1,353 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+52344,"Nevada, IA","Nevada, IA",145,549,254,257,611,80,198,301,449,948,2014
+52136,"Nevada, IA","Ames, IA",179,521,236,193,707,36,121,239,576,936,2014
+52190,"Nevada, IA","Colo, IA",23,95,41,41,107,11,27,67,65,159,2014
+52433,"Nevada, IA","Story City, IA",24,85,33,27,107,8,12,34,96,142,2014
+52392,"Nevada, IA","Rhodes, IA",16,84,39,52,78,9,26,50,63,139,2014
+52158,"Nevada, IA","Boone, IA",33,66,25,40,74,10,20,41,63,124,2014
+52400,"Nevada, IA","Roland, IA",15,46,25,29,56,1,13,24,49,86,2014
+52314,"Nevada, IA","Marshalltown, IA",19,48,16,58,20,5,5,41,37,83,2014
+52272,"Nevada, IA","Huxley, IA",15,42,18,27,43,5,10,20,45,75,2014
+52244,"Nevada, IA","Gilbert, IA",10,37,18,10,53,2,4,12,49,65,2014
+52138,"Nevada, IA","Ankeny, IA",10,36,14,15,39,6,11,9,40,60,2014
+52236,"Nevada, IA","Fort Dodge, IA",12,26,13,7,38,6,9,16,26,51,2014
+52476,"Nevada, IA","Zearing, IA",5,23,17,16,29,0,7,13,25,45,2014
+52309,"Nevada, IA","Madrid, IA",6,23,13,7,31,4,1,4,37,42,2014
+52209,"Nevada, IA","Des Moines, IA",17,18,6,6,34,1,7,11,23,41,2014
+52359,"Nevada, IA","Ogden, IA",2,29,10,5,35,1,1,10,30,41,2014
+52428,"Nevada, IA","Stanhope, IA",8,15,9,3,23,6,3,7,22,32,2014
+52430,"Nevada, IA","State Center, IA",3,16,11,20,7,3,5,14,11,30,2014
+52303,"Nevada, IA","Liscomb, IA",2,16,10,11,17,0,4,8,16,28,2014
+52316,"Nevada, IA","Mason City, IA",12,11,5,3,22,3,15,9,4,28,2014
+52472,"Nevada, IA","Windsor Heights, IA",4,17,7,2,24,2,7,5,16,28,2014
+52360,"Nevada, IA","Orange City, IA",9,14,2,0,22,3,9,14,2,25,2014
+52378,"Nevada, IA","Pleasant Hill, IA",6,14,4,2,20,2,3,7,14,24,2014
+52188,"Nevada, IA","Clive, IA",7,15,2,6,13,5,4,7,13,24,2014
+52450,"Nevada, IA","Urbandale, IA",4,15,3,7,12,3,8,4,10,22,2014
+52466,"Nevada, IA","West Des Moines, IA",7,7,8,8,13,1,3,4,15,22,2014
+52419,"Nevada, IA","Slater, IA",4,11,5,6,13,1,1,5,14,20,2014
+52432,"Nevada, IA","Storm Lake, IA",8,9,2,0,19,0,7,11,1,19,2014
+52167,"Nevada, IA","Cambridge, IA",0,17,0,3,13,1,0,8,9,17,2014
+52459,"Nevada, IA","Waukee, IA",3,9,5,4,10,3,4,4,9,17,2014
+52422,"Nevada, IA","Spencer, IA",4,11,1,0,16,0,8,6,2,16,2014
+52270,"Nevada, IA","Hubbard, IA",0,10,6,4,12,0,0,3,13,16,2014
+52254,"Nevada, IA","Grimes, IA",3,9,3,5,9,1,3,2,10,15,2014
+52274,"Nevada, IA","Indianola, IA",6,6,2,4,10,0,2,5,7,14,2014
+52218,"Nevada, IA","Eldora, IA",2,10,2,6,6,2,2,9,3,14,2014
+52239,"Nevada, IA","Fraser, IA",1,7,6,2,10,2,1,2,11,14,2014
+52365,"Nevada, IA","Ottumwa, IA",7,5,2,4,8,2,4,5,5,14,2014
+52458,"Nevada, IA","Waterloo, IA",7,4,3,2,11,1,4,6,4,14,2014
+52196,"Nevada, IA","Council Bluffs, IA",10,1,2,0,11,2,3,8,2,13,2014
+52135,"Nevada, IA","Altoona, IA",1,8,4,1,10,2,1,4,8,13,2014
+52169,"Nevada, IA","Carlisle, IA",7,3,3,1,10,2,7,1,5,13,2014
+52350,"Nevada, IA","Newton, IA",6,5,1,2,4,6,0,9,3,12,2014
+52277,"Nevada, IA","Iowa Falls, IA",4,4,3,3,5,3,3,2,6,11,2014
+52320,"Nevada, IA","Melbourne, IA",2,6,3,6,5,0,1,2,8,11,2014
+52176,"Nevada, IA","Cedar Rapids, IA",5,4,2,3,7,1,5,3,3,11,2014
+52443,"Nevada, IA","Toledo, IA",1,5,5,3,7,1,1,2,8,11,2014
+52131,"Nevada, IA","Alden, IA",1,8,2,1,10,0,2,1,8,11,2014
+52280,"Nevada, IA","Johnston, IA",5,4,2,7,4,0,0,3,8,11,2014
+52445,"Nevada, IA","Truesdale, IA",4,5,0,0,6,3,2,5,2,9,2014
+52446,"Nevada, IA","Union, IA",0,5,4,5,4,0,0,3,6,9,2014
+52327,"Nevada, IA","Mitchellville, IA",2,2,5,2,7,0,0,2,7,9,2014
+52264,"Nevada, IA","Haverhill, IA",4,3,2,4,5,0,1,2,6,9,2014
+52203,"Nevada, IA","De Soto, IA",0,7,1,0,6,2,0,3,5,8,2014
+52265,"Nevada, IA","Hawarden, IA",2,6,0,0,8,0,0,8,0,8,2014
+52224,"Nevada, IA","Estherville, IA",4,2,2,1,6,1,1,6,1,8,2014
+52364,"Nevada, IA","Oskaloosa, IA",7,0,1,0,5,3,4,2,2,8,2014
+52470,"Nevada, IA","Whitten, IA",0,6,2,2,6,0,0,3,5,8,2014
+52130,"Nevada, IA","Albion, IA",3,4,1,4,4,0,0,1,7,8,2014
+52181,"Nevada, IA","Charles City, IA",3,2,2,1,6,0,2,4,1,7,2014
+52418,"Nevada, IA","Sioux City, IA",2,3,2,0,4,3,3,2,2,7,2014
+52397,"Nevada, IA","Rock Valley, IA",3,4,0,0,7,0,2,4,1,7,2014
+52268,"Nevada, IA","Hiawatha, IA",4,2,1,0,5,2,2,5,0,7,2014
+52175,"Nevada, IA","Cedar Falls, IA",4,3,0,1,5,1,3,1,3,7,2014
+52382,"Nevada, IA","Polk City, IA",2,3,2,1,5,1,1,2,4,7,2014
+52381,"Nevada, IA","Pocahontas, IA",1,3,3,0,6,1,1,2,4,7,2014
+52238,"Nevada, IA","Fostoria, IA",4,3,0,0,7,0,5,2,0,7,2014
+52375,"Nevada, IA","Pella, IA",1,5,1,2,3,2,3,0,4,7,2014
+52366,"Nevada, IA","Owasa, IA",3,3,1,0,7,0,1,2,4,7,2014
+52287,"Nevada, IA","Knoxville, IA",4,2,1,0,6,1,0,4,3,7,2014
+52184,"Nevada, IA","Clarion, IA",3,2,2,0,5,2,2,2,3,7,2014
+52363,"Nevada, IA","Osceola, IA",2,4,1,1,4,2,5,2,0,7,2014
+52423,"Nevada, IA","Spirit Lake, IA",3,4,0,0,7,0,5,1,1,7,2014
+52449,"Nevada, IA","Urbana, IA",2,4,0,5,1,0,1,0,5,6,2014
+52463,"Nevada, IA","Webster City, IA",1,3,2,0,4,2,2,0,4,6,2014
+52448,"Nevada, IA","University Park, IA",1,3,2,1,5,0,1,3,2,6,2014
+52241,"Nevada, IA","Garner, IA",3,2,1,0,6,0,4,2,0,6,2014
+52396,"Nevada, IA","Rock Rapids, IA",4,2,0,0,6,0,3,3,0,6,2014
+52246,"Nevada, IA","Gilman, IA",1,4,1,2,1,3,1,1,4,6,2014
+52411,"Nevada, IA","Sheldon, IA",4,1,1,0,6,0,3,2,1,6,2014
+52405,"Nevada, IA","Sanborn, IA",4,2,0,0,5,1,2,3,1,6,2014
+52383,"Nevada, IA","Pomeroy, IA",0,3,3,0,6,0,0,1,5,6,2014
+52275,"Nevada, IA","Inwood, IA",3,3,0,0,6,0,3,2,1,6,2014
+52373,"Nevada, IA","Patterson, IA",2,3,1,0,5,1,0,2,4,6,2014
+52278,"Nevada, IA","Jefferson, IA",4,1,1,1,5,0,3,1,2,6,2014
+52212,"Nevada, IA","Dubuque, IA",5,1,0,0,6,0,2,4,0,6,2014
+52294,"Nevada, IA","Le Grand, IA",1,4,1,1,5,0,1,2,3,6,2014
+52214,"Nevada, IA","Eagle Grove, IA",2,3,1,1,4,1,1,0,5,6,2014
+52301,"Nevada, IA","Linden, IA",3,2,1,0,4,2,1,4,1,6,2014
+52149,"Nevada, IA","Baxter, IA",2,4,0,3,3,0,0,0,6,6,2014
+52307,"Nevada, IA","Lynnville, IA",0,5,0,0,3,2,1,3,1,5,2014
+52271,"Nevada, IA","Humboldt, IA",2,2,1,2,2,1,1,1,3,5,2014
+52242,"Nevada, IA","Garwin, IA",0,4,1,3,2,0,0,4,1,5,2014
+52140,"Nevada, IA","Arnolds Park, IA",3,2,0,1,4,0,3,1,1,5,2014
+52431,"Nevada, IA","Steamboat Rock, IA",0,3,2,3,1,1,0,3,2,5,2014
+52262,"Nevada, IA","Hartley, IA",3,0,2,0,5,0,2,2,1,5,2014
+52436,"Nevada, IA","Sully, IA",0,3,2,0,3,2,1,2,2,5,2014
+52311,"Nevada, IA","Manson, IA",1,3,1,0,5,0,0,1,4,5,2014
+52417,"Nevada, IA","Sioux Center, IA",2,1,2,0,5,0,4,1,0,5,2014
+52306,"Nevada, IA","Luther, IA",3,2,0,3,2,0,0,2,3,5,2014
+52440,"Nevada, IA","Tama, IA",0,5,0,2,3,0,0,1,4,5,2014
+52189,"Nevada, IA","Colfax, IA",1,2,2,4,0,1,0,0,5,5,2014
+52441,"Nevada, IA","Thompson, IA",3,2,0,0,5,0,3,1,1,5,2014
+52187,"Nevada, IA","Clio, IA",2,3,0,0,5,0,0,2,3,5,2014
+52295,"Nevada, IA","Le Mars, IA",2,2,1,1,4,0,1,2,2,5,2014
+52170,"Nevada, IA","Carroll, IA",2,3,0,0,4,1,1,3,1,5,2014
+52132,"Nevada, IA","Algona, IA",1,4,0,0,5,0,1,3,1,5,2014
+52473,"Nevada, IA","Winterset, IA",1,3,1,2,2,1,2,0,3,5,2014
+52374,"Nevada, IA","Paullina, IA",1,4,0,0,5,0,3,2,0,5,2014
+52414,"Nevada, IA","Sibley, IA",2,1,1,0,4,0,4,0,0,4,2014
+52461,"Nevada, IA","Waverly, IA",2,1,1,1,2,1,1,3,0,4,2014
+52232,"Nevada, IA","Ferguson, IA",2,1,1,2,2,0,3,0,1,4,2014
+52261,"Nevada, IA","Harris, IA",1,2,1,0,3,1,0,4,0,4,2014
+52263,"Nevada, IA","Harvey, IA",0,4,0,3,1,0,0,1,3,4,2014
+52324,"Nevada, IA","Milford, IA",3,1,0,2,2,0,2,1,1,4,2014
+52323,"Nevada, IA","Merrill, IA",2,2,0,1,2,1,0,1,3,4,2014
+52134,"Nevada, IA","Alton, IA",1,3,0,0,2,2,2,2,0,4,2014
+52197,"Nevada, IA","Creston, IA",1,3,0,1,1,2,1,2,1,4,2014
+52317,"Nevada, IA","Maxwell, IA",0,1,3,3,1,0,0,1,3,4,2014
+52334,"Nevada, IA","Morrison, IA",2,1,1,0,3,1,1,2,1,4,2014
+52222,"Nevada, IA","Emmetsburg, IA",1,3,0,0,4,0,3,1,0,4,2014
+52407,"Nevada, IA","Schaller, IA",1,3,0,1,3,0,0,3,1,4,2014
+52402,"Nevada, IA","Ruthven, IA",3,1,0,0,4,0,3,0,1,4,2014
+52439,"Nevada, IA","Swea City, IA",3,1,0,0,4,0,2,2,0,4,2014
+52395,"Nevada, IA","Robins, IA",1,1,2,1,1,2,2,0,2,4,2014
+52154,"Nevada, IA","Bettendorf, IA",1,3,0,1,3,0,1,0,3,4,2014
+52444,"Nevada, IA","Traer, IA",0,3,1,4,0,0,2,2,0,4,2014
+52215,"Nevada, IA","East Peru, IA",3,1,0,0,2,2,3,1,0,4,2014
+52255,"Nevada, IA","Grinnell, IA",1,1,2,0,3,1,1,1,2,4,2014
+52152,"Nevada, IA","Belmond, IA",0,2,2,0,4,0,1,0,3,4,2014
+52342,"Nevada, IA","Muscatine, IA",2,2,0,0,4,0,3,1,0,4,2014
+52205,"Nevada, IA","Decorah, IA",0,1,3,0,2,2,1,3,0,4,2014
+52129,"Nevada, IA","Albia, IA",2,2,0,0,4,0,2,1,1,4,2014
+52356,"Nevada, IA","Norwalk, IA",2,1,1,0,3,1,2,0,2,4,2014
+52352,"Nevada, IA","Nora Springs, IA",2,1,1,1,3,0,3,1,0,4,2014
+52202,"Nevada, IA","Davenport, IA",0,4,0,1,3,0,0,0,4,4,2014
+52465,"Nevada, IA","West Bend, IA",2,1,1,0,4,0,1,3,0,4,2014
+52471,"Nevada, IA","Williams, IA",0,3,1,0,4,0,0,1,3,4,2014
+52173,"Nevada, IA","Casey, IA",4,0,0,0,2,2,3,1,0,4,2014
+52171,"Nevada, IA","Carter Lake, IA",4,0,0,0,3,1,2,2,0,4,2014
+52162,"Nevada, IA","Britt, IA",2,2,0,1,3,0,2,1,1,4,2014
+52229,"Nevada, IA","Farnhamville, IA",1,1,2,0,3,1,1,0,3,4,2014
+52398,"Nevada, IA","Rockwell, IA",1,2,0,0,3,0,1,1,1,3,2014
+52361,"Nevada, IA","Orient, IA",1,1,1,1,2,0,0,1,2,3,2014
+52394,"Nevada, IA","Riverside, IA",0,3,0,0,2,1,2,0,1,3,2014
+52126,"Nevada, IA","Adel, IA",2,1,0,0,2,1,1,1,1,3,2014
+52142,"Nevada, IA","Ashton, IA",3,0,0,0,3,0,2,1,0,3,2014
+52372,"Nevada, IA","Parkersburg, IA",2,1,0,1,1,1,1,1,1,3,2014
+52388,"Nevada, IA","Reasnor, IA",0,2,1,1,1,1,0,1,2,3,2014
+52376,"Nevada, IA","Perry, IA",3,0,0,0,2,1,3,0,0,3,2014
+52310,"Nevada, IA","Manchester, IA",1,2,0,0,3,0,1,1,1,3,2014
+52355,"Nevada, IA","Northwood, IA",1,1,1,2,1,0,1,1,1,3,2014
+52426,"Nevada, IA","St. Marys, IA",1,2,0,0,3,0,1,2,0,3,2014
+52319,"Nevada, IA","McIntire, IA",1,1,1,0,3,0,1,1,1,3,2014
+52349,"Nevada, IA","Newell, IA",1,2,0,0,3,0,1,2,0,3,2014
+52408,"Nevada, IA","Schleswig, IA",1,2,0,0,2,1,1,1,1,3,2014
+52434,"Nevada, IA","Stratford, IA",1,2,0,0,3,0,0,1,2,3,2014
+52330,"Nevada, IA","Monroe, IA",1,2,0,1,2,0,1,2,0,3,2014
+52348,"Nevada, IA","New Sharon, IA",0,2,1,1,0,2,1,2,0,3,2014
+52332,"Nevada, IA","Moravia, IA",2,0,1,2,1,0,2,1,0,3,2014
+52425,"Nevada, IA","Springbrook, IA",1,2,0,0,3,0,1,1,1,3,2014
+52185,"Nevada, IA","Clear Lake, IA",1,0,2,1,2,0,0,3,0,3,2014
+52401,"Nevada, IA","Russell, IA",2,0,1,1,2,0,1,1,1,3,2014
+52253,"Nevada, IA","Greenfield, IA",1,2,0,1,2,0,1,2,0,3,2014
+52464,"Nevada, IA","Webster, IA",0,2,1,1,2,0,0,2,1,3,2014
+52234,"Nevada, IA","Forest City, IA",2,1,0,0,3,0,1,1,1,3,2014
+52454,"Nevada, IA","Walford, IA",1,1,1,1,2,0,1,0,2,3,2014
+52273,"Nevada, IA","Independence, IA",1,2,0,0,3,0,1,0,2,3,2014
+52233,"Nevada, IA","Floyd, IA",1,2,0,0,3,0,0,2,1,3,2014
+52469,"Nevada, IA","Whittemore, IA",0,2,1,0,3,0,1,1,1,3,2014
+52128,"Nevada, IA","Ainsworth, IA",0,2,1,1,2,0,1,1,1,3,2014
+52199,"Nevada, IA","Dakota City, IA",1,1,1,0,3,0,0,1,2,3,2014
+52208,"Nevada, IA","Denver, IA",3,0,0,0,1,2,3,0,0,3,2014
+52243,"Nevada, IA","George, IA",1,1,1,1,2,0,2,1,0,3,2014
+52279,"Nevada, IA","Jewell Junction, IA",3,0,0,0,2,1,2,0,1,3,2014
+52259,"Nevada, IA","Hampton, IA",1,2,0,1,2,0,2,1,0,3,2014
+52257,"Nevada, IA","Guthrie Center, IA",0,2,1,1,2,0,0,2,1,3,2014
+52250,"Nevada, IA","Granger, IA",0,3,0,0,3,0,1,2,0,3,2014
+52247,"Nevada, IA","Glenwood, IA",1,1,1,0,1,2,1,0,2,3,2014
+52200,"Nevada, IA","Dallas Center, IA",0,3,0,0,3,0,0,3,0,3,2014
+52457,"Nevada, IA","Washington, IA",0,3,0,0,2,1,2,1,0,3,2014
+52206,"Nevada, IA","Dedham, IA",2,0,0,0,2,0,2,0,0,2,2014
+52248,"Nevada, IA","Graettinger, IA",1,1,0,1,1,0,0,1,1,2,2014
+52240,"Nevada, IA","Garden Grove, IA",0,2,0,0,2,0,0,0,2,2,2014
+52362,"Nevada, IA","Osage, IA",0,1,1,0,2,0,1,1,0,2,2014
+52353,"Nevada, IA","North English, IA",0,2,0,1,1,0,0,0,2,2,2014
+52211,"Nevada, IA","Dickens, IA",1,0,1,0,2,0,0,1,1,2,2014
+52288,"Nevada, IA","Lacona, IA",1,1,0,0,2,0,1,0,1,2,2014
+52358,"Nevada, IA","Oelwein, IA",1,0,1,1,1,0,0,1,1,2,2014
+52172,"Nevada, IA","Cascade, IA",0,1,1,0,2,0,0,1,1,2,2014
+52207,"Nevada, IA","Denison, IA",1,0,1,0,2,0,0,0,2,2,2014
+52252,"Nevada, IA","Gravity, IA",0,0,2,0,0,2,0,0,2,2,2014
+52357,"Nevada, IA","Norway, IA",1,1,0,0,1,1,1,1,0,2,2014
+52186,"Nevada, IA","Clinton, IA",0,1,1,0,2,0,1,1,0,2,2014
+52420,"Nevada, IA","Soldier, IA",1,1,0,0,2,0,0,2,0,2,2014
+52150,"Nevada, IA","Bedford, IA",1,0,1,0,1,1,0,1,1,2,2014
+52475,"Nevada, IA","Yetter, IA",1,1,0,0,1,1,1,0,1,2,2014
+52399,"Nevada, IA","Rodney, IA",1,1,0,1,1,0,0,0,2,2,2014
+52217,"Nevada, IA","Elberon, IA",1,1,0,0,2,0,1,1,0,2,2014
+52155,"Nevada, IA","Blairstown, IA",0,2,0,0,2,0,1,0,1,2,2014
+52156,"Nevada, IA","Blakesburg, IA",1,1,0,0,1,1,1,1,0,2,2014
+52210,"Nevada, IA","Dexter, IA",0,2,0,0,2,0,0,2,0,2,2014
+52219,"Nevada, IA","Eldridge, IA",1,1,0,0,1,1,0,2,0,2,2014
+52393,"Nevada, IA","Rinard, IA",1,1,0,1,1,0,1,0,1,2,2014
+52391,"Nevada, IA","Reinbeck, IA",0,1,1,2,0,0,1,1,0,2,2014
+52220,"Nevada, IA","Elgin, IA",1,1,0,0,2,0,1,0,1,2,2014
+52386,"Nevada, IA","Promise City, IA",1,1,0,0,2,0,1,0,1,2,2014
+52225,"Nevada, IA","Evansdale, IA",0,2,0,0,2,0,0,2,0,2,2014
+52380,"Nevada, IA","Pleasantville, IA",0,1,1,1,1,0,0,0,2,2,2014
+52379,"Nevada, IA","Pleasanton, IA",1,1,0,1,1,0,0,1,1,2,2014
+52127,"Nevada, IA","Agency, IA",1,0,1,0,2,0,0,2,0,2,2014
+52231,"Nevada, IA","Fayette, IA",1,1,0,1,1,0,1,0,1,2,2014
+52370,"Nevada, IA","Panama, IA",1,0,1,1,0,1,1,0,1,2,2014
+52427,"Nevada, IA","Stacyville, IA",2,0,0,1,1,0,1,1,0,2,2014
+52416,"Nevada, IA","Sigourney, IA",1,1,0,0,2,0,0,1,1,2,2014
+52369,"Nevada, IA","Palo, IA",2,0,0,0,1,1,1,1,0,2,2014
+52125,"Nevada, IA","Ackley, IA",0,1,1,1,0,1,0,1,1,2,2014
+52178,"Nevada, IA","Centerville, IA",1,1,0,0,2,0,0,1,1,2,2014
+52141,"Nevada, IA","Asbury, IA",1,1,0,0,2,0,0,1,1,2,2014
+52183,"Nevada, IA","Clarinda, IA",2,0,0,0,2,0,0,2,0,2,2014
+52191,"Nevada, IA","Columbus Junction, IA",1,1,0,0,1,1,1,1,0,2,2014
+52442,"Nevada, IA","Tiffin, IA",0,2,0,1,1,0,0,1,1,2,2014
+52192,"Nevada, IA","Colwell, IA",1,0,1,0,1,1,1,1,0,2,2014
+52308,"Nevada, IA","Macksburg, IA",0,1,1,0,2,0,0,2,0,2,2014
+52182,"Nevada, IA","Cincinnati, IA",1,1,0,1,1,0,0,2,0,2,2014
+52339,"Nevada, IA","Mount Vernon, IA",1,1,0,0,2,0,1,1,0,2,2014
+52312,"Nevada, IA","Marble Rock, IA",1,1,0,0,2,0,1,1,0,2,2014
+52438,"Nevada, IA","Superior, IA",1,1,0,0,2,0,1,1,0,2,2014
+52180,"Nevada, IA","Chariton, IA",0,2,0,0,2,0,2,0,0,2,2014
+52315,"Nevada, IA","Marysville, IA",2,0,0,0,0,2,2,0,0,2,2014
+52283,"Nevada, IA","Kellogg, IA",0,1,1,0,0,2,1,0,1,2,2014
+52456,"Nevada, IA","Wallingford, IA",0,2,0,0,2,0,0,2,0,2,2014
+52321,"Nevada, IA","Melcher-Dallas, IA",0,2,0,1,1,0,0,0,2,2,2014
+52281,"Nevada, IA","Kalona, IA",2,0,0,0,2,0,0,2,0,2,2014
+52284,"Nevada, IA","Keokuk, IA",1,1,0,0,2,0,1,1,0,2,2014
+52145,"Nevada, IA","Audubon, IA",0,0,2,1,1,0,0,0,2,2,2014
+52338,"Nevada, IA","Mount Pleasant, IA",0,1,1,0,2,0,0,1,1,2,2014
+52139,"Nevada, IA","Armstrong, IA",1,1,0,0,2,0,0,2,0,2,2014
+52290,"Nevada, IA","Lambs Grove, IA",1,1,0,0,0,2,0,1,1,2,2014
+52291,"Nevada, IA","Lamoni, IA",0,2,0,0,2,0,0,0,2,2,2014
+52292,"Nevada, IA","Larrabee, IA",2,0,0,0,1,1,2,0,0,2,2014
+52335,"Nevada, IA","Moulton, IA",0,1,1,0,2,0,0,1,1,2,2014
+52333,"Nevada, IA","Morley, IA",0,0,2,2,0,0,0,0,2,2,2014
+52325,"Nevada, IA","Minburn, IA",0,2,0,0,2,0,1,1,0,2,2014
+52258,"Nevada, IA","Guttenberg, IA",2,0,0,0,2,0,0,2,0,2,2014
+52328,"Nevada, IA","Mondamin, IA",1,1,0,0,0,2,1,0,1,2,2014
+52144,"Nevada, IA","Atlantic, IA",2,0,0,0,2,0,0,2,0,2,2014
+52137,"Nevada, IA","Anamosa, IA",0,2,0,0,2,0,0,0,2,2,2014
+52451,"Nevada, IA","Van Horne, IA",1,0,0,0,0,1,1,0,0,1,2014
+52153,"Nevada, IA","Bertram, IA",0,1,0,0,1,0,0,0,1,1,2014
+52404,"Nevada, IA","Sageville, IA",0,0,1,0,1,0,0,1,0,1,2014
+52406,"Nevada, IA","Sandyville, IA",1,0,0,0,1,0,1,0,0,1,2014
+52143,"Nevada, IA","Atkins, IA",0,0,1,0,1,0,0,1,0,1,2014
+52447,"Nevada, IA","Unionville, IA",0,1,0,0,0,1,0,0,1,1,2014
+52474,"Nevada, IA","Woolstock, IA",0,0,1,0,1,0,0,0,1,1,2014
+52409,"Nevada, IA","Seymour, IA",0,0,1,0,1,0,0,0,1,1,2014
+52403,"Nevada, IA","Sac City, IA",1,0,0,0,1,0,1,0,0,1,2014
+52147,"Nevada, IA","Bagley, IA",1,0,0,1,0,0,0,0,1,1,2014
+52415,"Nevada, IA","Sidney, IA",1,0,0,0,1,0,0,1,0,1,2014
+52410,"Nevada, IA","Sharpsburg, IA",1,0,0,0,0,1,0,1,0,1,2014
+52435,"Nevada, IA","Strawberry Point, IA",0,0,1,0,1,0,0,0,1,1,2014
+52429,"Nevada, IA","Stanton, IA",0,1,0,0,1,0,0,1,0,1,2014
+52146,"Nevada, IA","Aurora, IA",0,0,1,0,1,0,1,0,0,1,2014
+52424,"Nevada, IA","Spring Hill, IA",1,0,0,0,1,0,1,0,0,1,2014
+52148,"Nevada, IA","Baldwin, IA",0,0,1,1,0,0,1,0,0,1,2014
+52421,"Nevada, IA","South English, IA",1,0,0,0,1,0,1,0,0,1,2014
+52460,"Nevada, IA","Waukon, IA",0,0,1,1,0,0,0,0,1,1,2014
+52133,"Nevada, IA","Allison, IA",0,1,0,0,1,0,0,0,1,1,2014
+52467,"Nevada, IA","West Union, IA",0,1,0,0,0,1,1,0,0,1,2014
+52452,"Nevada, IA","Van Meter, IA",0,0,1,1,0,0,0,0,1,1,2014
+52468,"Nevada, IA","Wheatland, IA",0,1,0,0,1,0,0,0,1,1,2014
+52455,"Nevada, IA","Walker, IA",0,1,0,0,1,0,0,0,1,1,2014
+52437,"Nevada, IA","Sumner, IA",1,0,0,0,0,1,1,0,0,1,2014
+52151,"Nevada, IA","Belle Plaine, IA",0,1,0,0,1,0,1,0,0,1,2014
+52453,"Nevada, IA","Vinton, IA",1,0,0,0,1,0,0,0,1,1,2014
+52413,"Nevada, IA","Shueyville, IA",0,1,0,0,1,0,0,0,1,1,2014
+52412,"Nevada, IA","Shenandoah, IA",0,1,0,1,0,0,0,1,0,1,2014
+52462,"Nevada, IA","Webb, IA",0,0,1,0,1,0,1,0,0,1,2014
+52213,"Nevada, IA","Dysart, IA",1,0,0,0,1,0,0,1,0,1,2014
+52157,"Nevada, IA","Bloomfield, IA",0,1,0,1,0,0,0,0,1,1,2014
+52266,"Nevada, IA","Hazleton, IA",0,1,0,1,0,0,0,0,1,1,2014
+52269,"Nevada, IA","Hillsboro, IA",1,0,0,1,0,0,1,0,0,1,2014
+52195,"Nevada, IA","Corning, IA",0,0,1,0,1,0,0,1,0,1,2014
+52194,"Nevada, IA","Coralville, IA",0,1,0,0,1,0,0,0,1,1,2014
+52193,"Nevada, IA","Conrad, IA",0,1,0,0,1,0,1,0,0,1,2014
+52276,"Nevada, IA","Iowa City, IA",1,0,0,1,0,0,0,1,0,1,2014
+52282,"Nevada, IA","Kellerton, IA",0,0,1,0,1,0,1,0,0,1,2014
+52285,"Nevada, IA","Keota, IA",1,0,0,1,0,0,0,1,0,1,2014
+52286,"Nevada, IA","Kirkville, IA",1,0,0,0,1,0,0,1,0,1,2014
+52289,"Nevada, IA","Lake Mills, IA",0,0,1,0,1,0,0,1,0,1,2014
+52293,"Nevada, IA","Laurens, IA",1,0,0,0,1,0,1,0,0,1,2014
+52296,"Nevada, IA","Le Roy, IA",0,1,0,0,1,0,0,0,1,1,2014
+52297,"Nevada, IA","Leon, IA",0,0,1,1,0,0,0,0,1,1,2014
+52298,"Nevada, IA","Lester, IA",1,0,0,0,1,0,0,0,1,1,2014
+52299,"Nevada, IA","Lewis, IA",0,0,1,0,0,1,0,0,1,1,2014
+52300,"Nevada, IA","Lincoln, IA",1,0,0,0,1,0,0,1,0,1,2014
+52267,"Nevada, IA","Henderson, IA",0,0,1,0,1,0,0,1,0,1,2014
+52198,"Nevada, IA","Cushing, IA",1,0,0,0,0,1,0,0,1,1,2014
+52390,"Nevada, IA","Redfield, IA",0,1,0,0,1,0,0,0,1,1,2014
+52260,"Nevada, IA","Harlan, IA",0,1,0,0,1,0,0,0,1,1,2014
+52216,"Nevada, IA","Eddyville, IA",0,1,0,0,1,0,1,0,0,1,2014
+52221,"Nevada, IA","Ely, IA",1,0,0,0,0,1,0,1,0,1,2014
+52223,"Nevada, IA","Epworth, IA",0,0,1,0,1,0,0,0,1,1,2014
+52226,"Nevada, IA","Fairbank, IA",0,1,0,0,1,0,1,0,0,1,2014
+52227,"Nevada, IA","Fairfax, IA",1,0,0,1,0,0,0,1,0,1,2014
+52228,"Nevada, IA","Fairfield, IA",0,1,0,0,1,0,0,1,0,1,2014
+52230,"Nevada, IA","Farragut, IA",1,0,0,0,1,0,0,1,0,1,2014
+52235,"Nevada, IA","Fort Atkinson, IA",0,0,1,0,1,0,0,1,0,1,2014
+52237,"Nevada, IA","Fort Madison, IA",1,0,0,0,1,0,0,1,0,1,2014
+52204,"Nevada, IA","De Witt, IA",0,1,0,0,1,0,0,0,1,1,2014
+52245,"Nevada, IA","Gilbertville, IA",1,0,0,1,0,0,0,0,1,1,2014
+52201,"Nevada, IA","Danbury, IA",0,1,0,0,1,0,0,1,0,1,2014
+52249,"Nevada, IA","Grandview, IA",1,0,0,0,1,0,0,1,0,1,2014
+52251,"Nevada, IA","Grant, IA",0,1,0,0,1,0,0,1,0,1,2014
+52256,"Nevada, IA","Grundy Center, IA",1,0,0,1,0,0,1,0,0,1,2014
+52302,"Nevada, IA","Lineville, IA",1,0,0,0,1,0,0,1,0,1,2014
+52304,"Nevada, IA","Livermore, IA",0,0,1,0,1,0,0,0,1,1,2014
+52305,"Nevada, IA","Long Grove, IA",0,1,0,0,1,0,0,0,1,1,2014
+52313,"Nevada, IA","Marengo, IA",1,0,0,1,0,0,1,0,0,1,2014
+52166,"Nevada, IA","Camanche, IA",0,1,0,0,1,0,0,1,0,1,2014
+52165,"Nevada, IA","Burlington, IA",0,0,1,0,1,0,0,0,1,1,2014
+52367,"Nevada, IA","Pacific Junction, IA",1,0,0,0,1,0,0,1,0,1,2014
+52368,"Nevada, IA","Packwood, IA",0,0,1,0,1,0,0,1,0,1,2014
+52371,"Nevada, IA","Panorama Park, IA",1,0,0,1,0,0,1,0,0,1,2014
+52164,"Nevada, IA","Buffalo, IA",0,1,0,0,1,0,0,1,0,1,2014
+52163,"Nevada, IA","Brooklyn, IA",0,1,0,0,1,0,1,0,0,1,2014
+52377,"Nevada, IA","Plainfield, IA",1,0,0,0,1,0,1,0,0,1,2014
+52161,"Nevada, IA","Brighton, IA",0,1,0,0,1,0,0,1,0,1,2014
+52160,"Nevada, IA","Boyden, IA",0,1,0,0,1,0,1,0,0,1,2014
+52159,"Nevada, IA","Boxholm, IA",0,0,1,0,1,0,0,1,0,1,2014
+52384,"Nevada, IA","Popejoy, IA",1,0,0,0,0,1,1,0,0,1,2014
+52385,"Nevada, IA","Prairie City, IA",0,0,1,1,0,0,0,0,1,1,2014
+52387,"Nevada, IA","Readlyn, IA",0,1,0,0,1,0,0,1,0,1,2014
+52389,"Nevada, IA","Red Oak, IA",1,0,0,0,1,0,0,1,0,1,2014
+52168,"Nevada, IA","Cantril, IA",0,1,0,1,0,0,0,0,1,1,2014
+52354,"Nevada, IA","North Liberty, IA",1,0,0,1,0,0,0,1,0,1,2014
+52351,"Nevada, IA","Nodaway, IA",1,0,0,1,0,0,0,0,1,1,2014
+52331,"Nevada, IA","Montour, IA",0,0,1,1,0,0,0,0,1,1,2014
+52179,"Nevada, IA","Central City, IA",0,0,1,0,1,0,0,1,0,1,2014
+52318,"Nevada, IA","McCausland, IA",0,1,0,0,1,0,0,1,0,1,2014
+52322,"Nevada, IA","Meriden, IA",0,0,1,0,1,0,1,0,0,1,2014
+52326,"Nevada, IA","Missouri Valley, IA",0,1,0,1,0,0,0,0,1,1,2014
+52177,"Nevada, IA","Center Point, IA",0,1,0,0,0,1,0,1,0,1,2014
+52329,"Nevada, IA","Monona, IA",1,0,0,0,1,0,1,0,0,1,2014
+52336,"Nevada, IA","Mount Auburn, IA",1,0,0,0,1,0,1,0,0,1,2014
+52347,"Nevada, IA","New London, IA",1,0,0,0,1,0,0,1,0,1,2014
+52337,"Nevada, IA","Mount Ayr, IA",0,0,1,0,1,0,1,0,0,1,2014
+52340,"Nevada, IA","Moville, IA",1,0,0,0,1,0,0,1,0,1,2014
+52341,"Nevada, IA","Murray, IA",0,0,1,1,0,0,0,1,0,1,2014
+52343,"Nevada, IA","Mystic, IA",1,0,0,0,1,0,0,1,0,1,2014
+52174,"Nevada, IA","Castalia, IA",1,0,0,0,1,0,1,0,0,1,2014
+52346,"Nevada, IA","New Hampton, IA",0,1,0,0,1,0,0,1,0,1,2014
+52345,"Nevada, IA","New Albin, IA",0,1,0,0,1,0,0,0,1,1,2014

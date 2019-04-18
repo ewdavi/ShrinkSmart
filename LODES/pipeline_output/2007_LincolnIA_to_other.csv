@@ -1,0 +1,80 @@
+,home city,work city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+39829,"Lincoln, IA","Waterloo, IA",20,93,29,22,98,22,25,60,57,142,2007
+39763,"Lincoln, IA","Cedar Falls, IA",28,64,8,18,65,17,27,44,29,100,2007
+39810,"Lincoln, IA","Morrison, IA",12,48,13,33,35,5,24,16,33,73,2007
+39806,"Lincoln, IA","Lincoln, IA",13,9,3,0,16,9,12,12,1,25,2007
+39779,"Lincoln, IA","Elk Run Heights, IA",0,14,5,17,1,1,0,4,15,19,2007
+39783,"Lincoln, IA","Evansdale, IA",2,9,5,4,12,0,2,11,3,16,2007
+39774,"Lincoln, IA","Dike, IA",1,10,3,3,8,3,7,4,3,14,2007
+39831,"Lincoln, IA","Wellsburg, IA",1,7,4,6,5,1,4,6,2,12,2007
+39790,"Lincoln, IA","Grundy Center, IA",2,7,3,2,9,1,3,7,2,12,2007
+39814,"Lincoln, IA","New Hartford, IA",3,5,4,4,4,4,8,4,0,12,2007
+39764,"Lincoln, IA","Cedar Rapids, IA",2,5,1,2,3,3,2,5,1,8,2007
+39830,"Lincoln, IA","Waverly, IA",5,0,2,1,5,1,7,0,0,7,2007
+39795,"Lincoln, IA","Hudson, IA",3,3,1,2,3,2,4,3,0,7,2007
+39809,"Lincoln, IA","Mason City, IA",2,3,1,0,3,3,1,3,2,6,2007
+39788,"Lincoln, IA","Garwin, IA",0,3,2,0,5,0,2,0,3,5,2007
+39793,"Lincoln, IA","Hiawatha, IA",4,1,0,0,4,1,1,3,1,5,2007
+39773,"Lincoln, IA","Des Moines, IA",0,3,1,0,3,1,1,1,2,4,2007
+39818,"Lincoln, IA","Reinbeck, IA",0,3,1,0,1,3,0,1,3,4,2007
+39821,"Lincoln, IA","Shell Rock, IA",1,1,2,1,3,0,1,2,1,4,2007
+39817,"Lincoln, IA","Parkersburg, IA",0,2,1,0,2,1,1,2,0,3,2007
+39800,"Lincoln, IA","Janesville, IA",1,2,0,1,0,2,1,2,0,3,2007
+39798,"Lincoln, IA","Iowa City, IA",3,0,0,0,3,0,2,1,0,3,2007
+39778,"Lincoln, IA","Eldora, IA",1,1,1,0,2,1,0,2,1,3,2007
+39826,"Lincoln, IA","Traer, IA",0,1,2,0,2,1,0,0,3,3,2007
+39785,"Lincoln, IA","Ferguson, IA",0,3,0,0,0,3,1,0,2,3,2007
+39786,"Lincoln, IA","Fort Dodge, IA",0,1,1,1,0,1,0,1,1,2,2007
+39808,"Lincoln, IA","Marion, IA",0,1,1,0,2,0,1,1,0,2,2007
+39811,"Lincoln, IA","Mount Auburn, IA",0,1,1,1,1,0,0,2,0,2,2007
+39796,"Lincoln, IA","Independence, IA",1,1,0,0,1,1,0,1,1,2,2007
+39820,"Lincoln, IA","Sageville, IA",0,1,1,2,0,0,0,0,2,2,2007
+39791,"Lincoln, IA","Hampton, IA",0,0,2,0,2,0,2,0,0,2,2007
+39825,"Lincoln, IA","Toledo, IA",0,2,0,0,1,1,0,2,0,2,2007
+39754,"Lincoln, IA","Ackley, IA",0,1,1,0,0,2,1,0,1,2,2007
+39768,"Lincoln, IA","Conrad, IA",0,2,0,0,1,1,0,0,2,2,2007
+39756,"Lincoln, IA","Ames, IA",0,2,0,0,2,0,0,1,1,2,2007
+39771,"Lincoln, IA","Decorah, IA",1,0,1,1,0,1,0,0,2,2,2007
+39772,"Lincoln, IA","Denver, IA",0,2,0,0,2,0,2,0,0,2,2007
+39776,"Lincoln, IA","Dysart, IA",0,2,0,0,0,2,1,1,0,2,2007
+39775,"Lincoln, IA","Dubuque, IA",0,2,0,0,2,0,0,2,0,2,2007
+39761,"Lincoln, IA","Burlington, IA",0,1,0,1,0,0,1,0,0,1,2007
+39767,"Lincoln, IA","Clutier, IA",0,0,1,1,0,0,1,0,0,1,2007
+39815,"Lincoln, IA","North Liberty, IA",0,1,0,0,1,0,0,0,1,1,2007
+39816,"Lincoln, IA","Ottumwa, IA",0,1,0,1,0,0,0,1,0,1,2007
+39766,"Lincoln, IA","Clear Lake, IA",0,1,0,0,1,0,0,1,0,1,2007
+39765,"Lincoln, IA","Charles City, IA",0,1,0,0,1,0,1,0,0,1,2007
+39819,"Lincoln, IA","Robins, IA",0,1,0,0,0,1,0,1,0,1,2007
+39762,"Lincoln, IA","Carroll, IA",0,0,1,0,0,1,0,0,1,1,2007
+39787,"Lincoln, IA","Garner, IA",0,1,0,0,1,0,1,0,0,1,2007
+39813,"Lincoln, IA","New Hampton, IA",0,1,0,0,0,1,0,1,0,1,2007
+39823,"Lincoln, IA","State Center, IA",0,0,1,0,1,0,0,1,0,1,2007
+39824,"Lincoln, IA","Steamboat Rock, IA",1,0,0,0,0,1,0,1,0,1,2007
+39760,"Lincoln, IA","Brandon, IA",1,0,0,0,1,0,1,0,0,1,2007
+39759,"Lincoln, IA","Bettendorf, IA",1,0,0,0,0,1,1,0,0,1,2007
+39827,"Lincoln, IA","University Heights, IA",1,0,0,0,0,1,1,0,0,1,2007
+39828,"Lincoln, IA","Vinton, IA",0,1,0,1,0,0,0,0,1,1,2007
+39758,"Lincoln, IA","Belle Plaine, IA",0,0,1,0,1,0,1,0,0,1,2007
+39757,"Lincoln, IA","Asbury, IA",1,0,0,0,0,1,0,1,0,1,2007
+39822,"Lincoln, IA","Sigourney, IA",0,1,0,0,1,0,0,1,0,1,2007
+39769,"Lincoln, IA","Council Bluffs, IA",0,1,0,1,0,0,0,1,0,1,2007
+39812,"Lincoln, IA","Nashua, IA",0,1,0,0,1,0,0,0,1,1,2007
+39784,"Lincoln, IA","Fairbank, IA",1,0,0,0,0,1,0,1,0,1,2007
+39789,"Lincoln, IA","Gilbert, IA",0,1,0,0,0,1,0,1,0,1,2007
+39782,"Lincoln, IA","Estherville, IA",0,1,0,0,1,0,1,0,0,1,2007
+39781,"Lincoln, IA","Ely, IA",0,1,0,0,1,0,0,1,0,1,2007
+39792,"Lincoln, IA","Harvey, IA",1,0,0,0,1,0,0,1,0,1,2007
+39755,"Lincoln, IA","Altoona, IA",1,0,0,0,0,1,1,0,0,1,2007
+39794,"Lincoln, IA","Hopkinton, IA",0,0,1,0,1,0,1,0,0,1,2007
+39780,"Lincoln, IA","Elkader, IA",0,1,0,1,0,0,0,1,0,1,2007
+39777,"Lincoln, IA","Elberon, IA",0,1,0,0,0,1,1,0,0,1,2007
+39797,"Lincoln, IA","Indianola, IA",1,0,0,0,1,0,1,0,0,1,2007
+39799,"Lincoln, IA","Iowa Falls, IA",0,1,0,0,1,0,0,0,1,1,2007
+39801,"Lincoln, IA","Johnston, IA",1,0,0,0,0,1,0,1,0,1,2007
+39802,"Lincoln, IA","Kiron, IA",1,0,0,0,0,1,1,0,0,1,2007
+39803,"Lincoln, IA","La Porte City, IA",0,1,0,0,0,1,1,0,0,1,2007
+39804,"Lincoln, IA","Lake Mills, IA",0,1,0,1,0,0,0,0,1,1,2007
+39805,"Lincoln, IA","Lansing, IA",0,0,1,0,1,0,1,0,0,1,2007
+39807,"Lincoln, IA","Marengo, IA",0,1,0,0,1,0,0,1,0,1,2007
+39770,"Lincoln, IA","De Witt, IA",1,0,0,0,1,0,1,0,0,1,2007
+39832,"Lincoln, IA","West Burlington, IA",0,1,0,0,0,1,0,1,0,1,2007

@@ -1,0 +1,367 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+55294,"University Heights, IA","Iowa City, IA",668,1750,588,66,2722,218,659,1062,1285,3006,2005
+55458,"University Heights, IA","University Heights, IA",399,789,248,33,1309,94,328,406,702,1436,2005
+55206,"University Heights, IA","Coralville, IA",302,576,139,34,928,55,254,380,383,1017,2005
+55378,"University Heights, IA","North Liberty, IA",219,593,147,26,841,92,159,299,501,959,2005
+55185,"University Heights, IA","Cedar Rapids, IA",109,205,42,22,298,36,98,131,127,356,2005
+55452,"University Heights, IA","Tiffin, IA",70,224,38,6,307,19,49,109,174,332,2005
+55389,"University Heights, IA","Oxford, IA",60,197,41,9,258,31,43,128,127,298,2005
+55419,"University Heights, IA","Riverside, IA",45,145,39,14,198,17,38,109,82,229,2005
+55285,"University Heights, IA","Hiawatha, IA",46,95,19,7,139,14,39,47,74,160,2005
+55300,"University Heights, IA","Kalona, IA",26,94,21,4,121,16,24,78,39,141,2005
+55471,"University Heights, IA","Washington, IA",24,76,31,3,112,16,18,73,40,131,2005
+55243,"University Heights, IA","Ely, IA",13,82,32,3,112,12,22,26,79,127,2005
+55214,"University Heights, IA","Davenport, IA",46,52,8,0,86,20,46,25,35,106,2005
+55480,"University Heights, IA","West Branch, IA",19,68,16,3,97,3,12,54,37,103,2005
+55323,"University Heights, IA","Lisbon, IA",13,55,30,3,85,10,18,33,47,98,2005
+55420,"University Heights, IA","Robins, IA",18,59,13,4,81,5,16,37,37,90,2005
+55286,"University Heights, IA","Hills, IA",15,59,15,3,81,5,23,37,29,89,2005
+55489,"University Heights, IA","Williamsburg, IA",14,58,14,0,83,3,7,58,21,86,2005
+55434,"University Heights, IA","Solon, IA",6,31,21,3,49,6,9,16,33,58,2005
+55365,"University Heights, IA","Muscatine, IA",15,32,8,0,47,8,17,27,11,55,2005
+55484,"University Heights, IA","West Liberty, IA",14,33,7,0,50,4,12,30,12,54,2005
+55326,"University Heights, IA","Lone Tree, IA",8,35,10,3,46,4,12,23,18,53,2005
+55490,"University Heights, IA","Wilton, IA",11,30,9,1,46,3,10,18,22,50,2005
+55428,"University Heights, IA","Shueyville, IA",5,37,7,1,44,4,10,15,24,49,2005
+55227,"University Heights, IA","Dubuque, IA",35,7,6,2,38,8,31,11,6,48,2005
+55472,"University Heights, IA","Waterloo, IA",21,21,4,0,38,8,20,15,11,46,2005
+55162,"University Heights, IA","Bettendorf, IA",20,20,4,0,32,12,23,12,9,44,2005
+55453,"University Heights, IA","Tipton, IA",1,31,9,0,41,0,7,19,15,41,2005
+55147,"University Heights, IA","Atalissa, IA",10,23,6,4,33,2,6,25,8,39,2005
+55339,"University Heights, IA","Marengo, IA",5,24,6,1,33,1,5,21,9,35,2005
+55160,"University Heights, IA","Bennett, IA",9,17,9,3,30,2,6,17,12,35,2005
+55223,"University Heights, IA","Des Moines, IA",20,10,4,0,25,9,17,8,9,34,2005
+55247,"University Heights, IA","Fairfax, IA",10,19,5,3,26,5,12,11,11,34,2005
+55395,"University Heights, IA","Parnell, IA",5,23,5,1,30,2,5,20,8,33,2005
+55468,"University Heights, IA","Walford, IA",7,20,3,0,27,3,6,14,10,30,2005
+55463,"University Heights, IA","Victor, IA",3,24,1,1,27,0,1,19,8,28,2005
+55164,"University Heights, IA","Blairstown, IA",5,17,5,0,27,0,6,16,5,27,2005
+55175,"University Heights, IA","Burlington, IA",16,9,2,0,18,9,15,6,6,27,2005
+55304,"University Heights, IA","Kinross, IA",3,20,4,2,24,1,1,17,9,27,2005
+55184,"University Heights, IA","Cedar Falls, IA",17,8,2,0,26,1,18,7,2,27,2005
+55375,"University Heights, IA","Nichols, IA",5,15,4,1,21,2,7,12,5,24,2005
+55449,"University Heights, IA","Swisher, IA",2,18,3,1,19,3,1,6,16,23,2005
+55479,"University Heights, IA","Wellman, IA",4,15,4,1,22,0,3,15,5,23,2005
+55492,"University Heights, IA","Winfield, IA",7,14,2,4,18,1,4,17,2,23,2005
+55387,"University Heights, IA","Ottumwa, IA",7,12,2,1,16,4,2,13,6,21,2005
+55341,"University Heights, IA","Marshalltown, IA",12,7,1,1,16,3,9,7,4,20,2005
+55437,"University Heights, IA","Springville, IA",3,14,3,0,20,0,5,6,9,20,2005
+55340,"University Heights, IA","Marion, IA",7,11,2,0,18,2,1,13,6,20,2005
+55186,"University Heights, IA","Center Point, IA",5,14,1,4,14,2,4,5,11,20,2005
+55172,"University Heights, IA","Brighton, IA",4,13,3,0,20,0,4,9,7,20,2005
+55140,"University Heights, IA","Ames, IA",14,4,2,1,14,5,15,3,2,20,2005
+55197,"University Heights, IA","Clinton, IA",14,4,1,0,16,3,14,4,1,19,2005
+55362,"University Heights, IA","Mount Pleasant, IA",6,10,3,0,16,3,5,10,4,19,2005
+55392,"University Heights, IA","Palo, IA",8,9,1,3,15,0,5,5,8,18,2005
+55345,"University Heights, IA","Mechanicsville, IA",1,17,0,0,18,0,6,2,10,18,2005
+55136,"University Heights, IA","Ainsworth, IA",3,11,3,2,14,1,2,8,7,17,2005
+55482,"University Heights, IA","West Chester, IA",0,16,1,0,16,1,1,12,4,17,2005
+55203,"University Heights, IA","Columbus Junction, IA",2,14,0,1,14,1,2,9,5,16,2005
+55399,"University Heights, IA","Pleasant Hill, IA",9,4,3,0,14,2,3,10,3,16,2005
+55377,"University Heights, IA","North English, IA",1,14,0,0,15,0,0,11,4,15,2005
+55268,"University Heights, IA","Grandview, IA",1,13,1,0,14,1,3,10,2,15,2005
+55386,"University Heights, IA","Oskaloosa, IA",6,7,1,0,9,5,3,10,1,14,2005
+55460,"University Heights, IA","Urbana, IA",4,10,0,2,8,4,2,5,7,14,2005
+55210,"University Heights, IA","Crawfordsville, IA",1,8,5,0,14,0,2,7,5,14,2005
+55476,"University Heights, IA","Wayland, IA",3,9,1,0,13,0,5,4,4,13,2005
+55209,"University Heights, IA","Council Bluffs, IA",8,4,1,0,10,3,8,2,3,13,2005
+55161,"University Heights, IA","Bertram, IA",4,9,0,0,11,2,4,7,2,13,2005
+55483,"University Heights, IA","West Des Moines, IA",3,7,3,0,9,4,5,0,8,13,2005
+55430,"University Heights, IA","Sioux City, IA",7,4,2,0,10,3,7,5,1,13,2005
+55491,"University Heights, IA","Windsor Heights, IA",8,1,4,0,11,2,9,3,1,13,2005
+55356,"University Heights, IA","Morley, IA",1,7,3,0,8,3,2,3,6,11,2005
+55302,"University Heights, IA","Keokuk, IA",9,2,0,0,9,2,8,2,1,11,2005
+55205,"University Heights, IA","Conesville, IA",2,7,2,1,9,1,0,8,3,11,2005
+55343,"University Heights, IA","Mason City, IA",5,6,0,0,10,1,7,3,1,11,2005
+55143,"University Heights, IA","Ankeny, IA",7,1,2,0,5,5,4,4,2,10,2005
+55461,"University Heights, IA","Urbandale, IA",6,3,1,0,7,3,7,1,2,10,2005
+55327,"University Heights, IA","Long Grove, IA",4,4,2,0,9,1,5,3,2,10,2005
+55342,"University Heights, IA","Martelle, IA",2,7,1,2,5,3,2,3,5,10,2005
+55481,"University Heights, IA","West Burlington, IA",5,3,1,0,7,2,4,4,1,9,2005
+55353,"University Heights, IA","Monticello, IA",2,6,1,0,8,1,5,3,1,9,2005
+55167,"University Heights, IA","Blue Grass, IA",3,6,0,0,8,1,4,4,1,9,2005
+55146,"University Heights, IA","Asbury, IA",7,2,0,1,7,1,7,2,0,9,2005
+55418,"University Heights, IA","Riverdale, IA",4,3,2,0,7,2,5,2,2,9,2005
+55194,"University Heights, IA","Clarence, IA",1,6,1,0,8,0,2,2,4,8,2005
+55259,"University Heights, IA","Fruitland, IA",1,5,2,0,8,0,1,4,3,8,2005
+55363,"University Heights, IA","Mount Union, IA",3,4,1,0,8,0,1,4,3,8,2005
+55199,"University Heights, IA","Clive, IA",2,6,0,0,7,1,2,4,2,8,2005
+55255,"University Heights, IA","Fort Madison, IA",5,3,0,0,7,1,7,1,0,8,2005
+55226,"University Heights, IA","Donnellson, IA",8,0,0,0,7,1,3,2,3,8,2005
+55261,"University Heights, IA","Garwin, IA",4,1,2,0,6,1,1,4,2,7,2005
+55382,"University Heights, IA","Oelwein, IA",4,2,1,0,6,1,4,1,2,7,2005
+55237,"University Heights, IA","Eldridge, IA",4,3,0,0,5,2,3,2,2,7,2005
+55273,"University Heights, IA","Grinnell, IA",5,2,0,0,6,1,6,0,1,7,2005
+55299,"University Heights, IA","Johnston, IA",2,3,2,0,5,2,1,4,2,7,2005
+55248,"University Heights, IA","Fairfield, IA",3,3,1,0,3,4,2,3,2,7,2005
+55400,"University Heights, IA","Pleasant Plain, IA",1,5,1,0,6,1,1,3,3,7,2005
+55148,"University Heights, IA","Atkins, IA",2,5,0,0,7,0,1,3,3,7,2005
+55217,"University Heights, IA","Decorah, IA",6,1,0,1,5,1,5,2,0,7,2005
+55216,"University Heights, IA","De Witt, IA",4,1,1,0,4,2,5,1,0,6,2005
+55141,"University Heights, IA","Anamosa, IA",0,6,0,1,4,1,1,4,1,6,2005
+55371,"University Heights, IA","New London, IA",0,6,0,0,6,0,1,2,3,6,2005
+55473,"University Heights, IA","Waukee, IA",1,3,2,0,6,0,3,1,2,6,2005
+55254,"University Heights, IA","Fort Dodge, IA",1,4,1,0,5,1,4,1,1,6,2005
+55364,"University Heights, IA","Mount Vernon, IA",0,5,1,0,6,0,2,1,3,6,2005
+55246,"University Heights, IA","Fairbank, IA",4,2,0,0,4,2,3,2,1,6,2005
+55244,"University Heights, IA","Evansdale, IA",2,4,0,0,6,0,4,1,1,6,2005
+55239,"University Heights, IA","Elk Run Heights, IA",5,1,0,0,5,1,4,2,0,6,2005
+55424,"University Heights, IA","Sageville, IA",4,1,1,0,6,0,2,4,0,6,2005
+55280,"University Heights, IA","Hartwick, IA",1,2,2,0,5,0,0,4,1,5,2005
+55441,"University Heights, IA","St. Paul, IA",1,3,1,2,3,0,1,1,3,5,2005
+55187,"University Heights, IA","Centerville, IA",0,5,0,0,4,1,2,1,2,5,2005
+55447,"University Heights, IA","Strawberry Point, IA",4,0,1,0,3,2,5,0,0,5,2005
+55493,"University Heights, IA","Winterset, IA",3,2,0,0,4,1,3,1,1,5,2005
+55487,"University Heights, IA","Wheatland, IA",2,2,1,0,5,0,3,2,0,5,2005
+55310,"University Heights, IA","Ladora, IA",1,2,2,0,5,0,1,4,0,5,2005
+55474,"University Heights, IA","Waukon, IA",3,2,0,0,5,0,3,1,1,5,2005
+55329,"University Heights, IA","Lowden, IA",4,1,0,1,3,1,3,1,1,5,2005
+55174,"University Heights, IA","Buffalo, IA",4,0,1,0,5,0,3,0,2,5,2005
+55367,"University Heights, IA","Nevada, IA",1,1,3,0,3,2,2,1,2,5,2005
+55290,"University Heights, IA","Huxley, IA",4,0,0,0,3,1,4,0,0,4,2005
+55417,"University Heights, IA","Richland, IA",0,3,1,0,4,0,0,3,1,4,2005
+55135,"University Heights, IA","Agency, IA",1,2,1,1,3,0,1,2,1,4,2005
+55283,"University Heights, IA","Hazleton, IA",4,0,0,1,1,2,3,1,0,4,2005
+55234,"University Heights, IA","Elberon, IA",1,2,1,1,3,0,1,0,3,4,2005
+55264,"University Heights, IA","Glenwood, IA",2,2,0,0,3,1,1,3,0,4,2005
+55383,"University Heights, IA","Ogden, IA",2,1,1,0,4,0,1,2,1,4,2005
+55307,"University Heights, IA","Knoxville, IA",1,2,1,0,3,1,1,2,1,4,2005
+55190,"University Heights, IA","Charles City, IA",3,1,0,0,4,0,3,1,0,4,2005
+55225,"University Heights, IA","Dixon, IA",1,3,0,0,3,1,2,0,2,4,2005
+55198,"University Heights, IA","Clio, IA",1,3,0,0,4,0,1,3,0,4,2005
+55402,"University Heights, IA","Polk City, IA",3,1,0,0,4,0,1,1,2,4,2005
+55333,"University Heights, IA","Madrid, IA",3,0,0,0,3,0,3,0,0,3,2005
+55335,"University Heights, IA","Manchester, IA",1,2,0,0,3,0,0,1,2,3,2005
+55292,"University Heights, IA","Indianola, IA",1,2,0,0,2,1,1,1,1,3,2005
+55288,"University Heights, IA","Houghton, IA",1,2,0,0,3,0,1,0,2,3,2005
+55287,"University Heights, IA","Hopkinton, IA",1,2,0,0,1,2,2,1,0,3,2005
+55359,"University Heights, IA","Moulton, IA",1,1,1,0,3,0,1,1,1,3,2005
+55312,"University Heights, IA","Lamoni, IA",0,1,2,0,3,0,0,2,1,3,2005
+55361,"University Heights, IA","Mount Ayr, IA",1,2,0,0,3,0,1,2,0,3,2005
+55314,"University Heights, IA","Le Claire, IA",1,2,0,0,3,0,1,0,2,3,2005
+55373,"University Heights, IA","New Sharon, IA",2,1,0,0,2,1,3,0,0,3,2005
+55404,"University Heights, IA","Prairieburg, IA",0,2,1,1,2,0,0,1,2,3,2005
+55459,"University Heights, IA","University Park, IA",1,2,0,0,2,1,2,0,1,3,2005
+55462,"University Heights, IA","Van Horne, IA",1,2,0,1,2,0,1,1,1,3,2005
+55211,"University Heights, IA","Cresco, IA",0,2,1,0,2,1,0,2,1,3,2005
+55421,"University Heights, IA","Russell, IA",1,2,0,0,2,1,0,0,3,3,2005
+55177,"University Heights, IA","Camanche, IA",1,2,0,0,1,2,2,0,1,3,2005
+55221,"University Heights, IA","Denison, IA",3,0,0,0,2,1,2,1,0,3,2005
+55176,"University Heights, IA","Bussey, IA",2,1,0,0,3,0,0,3,0,3,2005
+55230,"University Heights, IA","Dyersville, IA",2,1,0,0,2,1,2,1,0,3,2005
+55470,"University Heights, IA","Wapello, IA",1,1,1,0,2,1,3,0,0,3,2005
+55189,"University Heights, IA","Chariton, IA",0,3,0,0,3,0,0,2,1,3,2005
+55165,"University Heights, IA","Blakesburg, IA",1,1,1,0,2,1,2,1,0,3,2005
+55236,"University Heights, IA","Eldora, IA",0,3,0,0,3,0,0,3,0,3,2005
+55157,"University Heights, IA","Belle Plaine, IA",1,2,0,1,2,0,1,2,0,3,2005
+55156,"University Heights, IA","Bedford, IA",0,3,0,0,3,0,0,1,2,3,2005
+55393,"University Heights, IA","Panorama Park, IA",0,3,0,0,3,0,1,0,2,3,2005
+55385,"University Heights, IA","Osceola, IA",2,1,0,0,2,1,1,1,1,3,2005
+55380,"University Heights, IA","Norwalk, IA",2,1,0,0,1,2,0,2,1,3,2005
+55134,"University Heights, IA","Afton, IA",1,0,2,1,2,0,0,1,2,3,2005
+55455,"University Heights, IA","Toledo, IA",2,0,0,0,1,1,2,0,0,2,2005
+55466,"University Heights, IA","Wadena, IA",1,0,1,0,0,2,2,0,0,2,2005
+55334,"University Heights, IA","Malcom, IA",0,2,0,0,2,0,0,1,1,2,2005
+55485,"University Heights, IA","West Point, IA",0,2,0,1,1,0,1,1,0,2,2005
+55465,"University Heights, IA","Vinton, IA",1,1,0,0,2,0,1,0,1,2,2005
+55467,"University Heights, IA","Walcott, IA",1,1,0,0,2,0,1,0,1,2,2005
+55423,"University Heights, IA","Sabula, IA",2,0,0,0,2,0,2,0,0,2,2005
+55444,"University Heights, IA","Stockton, IA",0,2,0,0,2,0,0,2,0,2,2005
+55436,"University Heights, IA","Spring Hill, IA",0,1,1,0,1,1,0,0,2,2,2005
+55431,"University Heights, IA","Slater, IA",1,0,1,0,1,1,2,0,0,2,2005
+55374,"University Heights, IA","Newton, IA",1,1,0,0,1,1,1,0,1,2,2005
+55349,"University Heights, IA","Middletown, IA",0,1,1,0,2,0,0,2,0,2,2005
+55318,"University Heights, IA","Lenox, IA",2,0,0,0,0,2,2,0,0,2,2005
+55416,"University Heights, IA","Rhodes, IA",1,1,0,0,2,0,1,1,0,2,2005
+55411,"University Heights, IA","Readlyn, IA",2,0,0,0,1,1,2,0,0,2,2005
+55406,"University Heights, IA","Princeton, IA",2,0,0,0,2,0,1,1,0,2,2005
+55405,"University Heights, IA","Preston, IA",2,0,0,0,2,0,2,0,0,2,2005
+55358,"University Heights, IA","Morrison, IA",2,0,0,0,2,0,1,1,0,2,2005
+55398,"University Heights, IA","Perry, IA",1,1,0,0,2,0,1,0,1,2,2005
+55397,"University Heights, IA","Peosta, IA",2,0,0,0,2,0,2,0,0,2,2005
+55396,"University Heights, IA","Pella, IA",0,2,0,0,2,0,0,2,0,2,2005
+55366,"University Heights, IA","Nashua, IA",2,0,0,0,2,0,2,0,0,2,2005
+55132,"University Heights, IA","Ackley, IA",0,2,0,0,2,0,1,1,0,2,2005
+55315,"University Heights, IA","Le Mars, IA",2,0,0,0,2,0,1,0,1,2,2005
+55276,"University Heights, IA","Hampton, IA",2,0,0,0,0,2,2,0,0,2,2005
+55252,"University Heights, IA","Floyd, IA",2,0,0,0,2,0,2,0,0,2,2005
+55204,"University Heights, IA","Colwell, IA",1,1,0,1,1,0,0,1,1,2,2005
+55168,"University Heights, IA","Bonaparte, IA",2,0,0,0,1,1,0,1,1,2,2005
+55202,"University Heights, IA","Colo, IA",1,0,1,0,1,1,2,0,0,2,2005
+55291,"University Heights, IA","Independence, IA",1,1,0,1,1,0,0,1,1,2,2005
+55173,"University Heights, IA","Brooklyn, IA",0,1,1,0,1,1,1,0,1,2,2005
+55178,"University Heights, IA","Carlisle, IA",1,1,0,0,2,0,1,1,0,2,2005
+55289,"University Heights, IA","Hudson, IA",2,0,0,0,2,0,2,0,0,2,2005
+55201,"University Heights, IA","Coggon, IA",0,2,0,0,2,0,0,2,0,2,2005
+55284,"University Heights, IA","Hedrick, IA",1,0,1,0,2,0,1,1,0,2,2005
+55266,"University Heights, IA","Grand Mound, IA",1,1,0,0,2,0,1,0,1,2,2005
+55188,"University Heights, IA","Central City, IA",0,2,0,0,1,1,0,0,2,2,2005
+55278,"University Heights, IA","Harlan, IA",0,2,0,0,1,1,1,0,1,2,2005
+55191,"University Heights, IA","Cherokee, IA",0,2,0,0,2,0,0,1,1,2,2005
+55272,"University Heights, IA","Grimes, IA",1,0,1,0,2,0,2,0,0,2,2005
+55195,"University Heights, IA","Clear Lake, IA",1,0,1,0,1,1,2,0,0,2,2005
+55207,"University Heights, IA","Corning, IA",2,0,0,0,2,0,0,2,0,2,2005
+55295,"University Heights, IA","Iowa Falls, IA",2,0,0,0,2,0,2,0,0,2,2005
+55193,"University Heights, IA","Cincinnati, IA",2,0,0,0,2,0,0,1,1,2,2005
+55153,"University Heights, IA","Baxter, IA",1,1,0,0,2,0,1,0,1,2,2005
+55213,"University Heights, IA","Danbury, IA",2,0,0,0,2,0,1,1,0,2,2005
+55229,"University Heights, IA","Durant, IA",0,1,1,0,2,0,0,1,1,2,2005
+55313,"University Heights, IA","Lawton, IA",1,0,1,0,2,0,1,0,1,2,2005
+55228,"University Heights, IA","Dunlap, IA",1,0,0,0,1,0,0,1,0,1,2005
+55222,"University Heights, IA","Denver, IA",1,0,0,0,0,1,1,0,0,1,2005
+55443,"University Heights, IA","State Center, IA",1,0,0,0,1,0,1,0,0,1,2005
+55200,"University Heights, IA","Clutier, IA",0,1,0,0,1,0,0,0,1,1,2005
+55445,"University Heights, IA","Story City, IA",1,0,0,0,0,1,1,0,0,1,2005
+55224,"University Heights, IA","Dexter, IA",1,0,0,0,1,0,1,0,0,1,2005
+55196,"University Heights, IA","Clearfield, IA",0,1,0,0,1,0,0,0,1,1,2005
+55446,"University Heights, IA","Stratford, IA",1,0,0,0,1,0,0,1,0,1,2005
+55220,"University Heights, IA","Deloit, IA",1,0,0,0,1,0,1,0,0,1,2005
+55448,"University Heights, IA","Sumner, IA",0,1,0,0,1,0,1,0,0,1,2005
+55415,"University Heights, IA","Remsen, IA",1,0,0,0,1,0,1,0,0,1,2005
+55414,"University Heights, IA","Reinbeck, IA",0,1,0,0,1,0,0,1,0,1,2005
+55450,"University Heights, IA","Tama, IA",1,0,0,0,0,1,0,0,1,1,2005
+55442,"University Heights, IA","Stacyville, IA",1,0,0,0,1,0,1,0,0,1,2005
+55429,"University Heights, IA","Sigourney, IA",0,0,1,0,1,0,1,0,0,1,2005
+55212,"University Heights, IA","Dallas Center, IA",0,0,1,0,1,0,0,0,1,1,2005
+55422,"University Heights, IA","Ryan, IA",0,1,0,0,1,0,0,1,0,1,2005
+55218,"University Heights, IA","Dedham, IA",0,1,0,0,1,0,0,1,0,1,2005
+55440,"University Heights, IA","St. Olaf, IA",1,0,0,0,1,0,1,0,0,1,2005
+55215,"University Heights, IA","Dawson, IA",1,0,0,0,1,0,1,0,0,1,2005
+55439,"University Heights, IA","St. Marys, IA",1,0,0,0,1,0,1,0,0,1,2005
+55438,"University Heights, IA","St. Lucas, IA",0,1,0,0,1,0,0,1,0,1,2005
+55425,"University Heights, IA","Sergeant Bluff, IA",0,1,0,0,1,0,0,0,1,1,2005
+55426,"University Heights, IA","Shannon City, IA",0,1,0,0,1,0,1,0,0,1,2005
+55427,"University Heights, IA","Sharpsburg, IA",0,0,1,0,1,0,0,1,0,1,2005
+55451,"University Heights, IA","Tennant, IA",1,0,0,0,1,0,1,0,0,1,2005
+55435,"University Heights, IA","South English, IA",1,0,0,0,1,0,1,0,0,1,2005
+55433,"University Heights, IA","Soldier, IA",1,0,0,0,1,0,1,0,0,1,2005
+55432,"University Heights, IA","Sloan, IA",0,1,0,0,0,1,0,1,0,1,2005
+55208,"University Heights, IA","Corydon, IA",0,0,1,0,1,0,0,1,0,1,2005
+55219,"University Heights, IA","Delaware, IA",0,0,1,0,1,0,1,0,0,1,2005
+55316,"University Heights, IA","Lehigh, IA",0,1,0,0,1,0,1,0,0,1,2005
+55192,"University Heights, IA","Churdan, IA",1,0,0,0,1,0,0,1,0,1,2005
+55454,"University Heights, IA","Titonka, IA",1,0,0,0,1,0,1,0,0,1,2005
+55155,"University Heights, IA","Beaman, IA",0,1,0,0,1,0,1,0,0,1,2005
+55154,"University Heights, IA","Bayard, IA",0,1,0,0,1,0,1,0,0,1,2005
+55152,"University Heights, IA","Balltown, IA",1,0,0,0,1,0,1,0,0,1,2005
+55151,"University Heights, IA","Baldwin, IA",0,1,0,0,0,1,1,0,0,1,2005
+55150,"University Heights, IA","Aurora, IA",0,1,0,0,1,0,0,0,1,1,2005
+55149,"University Heights, IA","Atlantic, IA",0,1,0,0,0,1,0,0,1,1,2005
+55486,"University Heights, IA","What Cheer, IA",1,0,0,0,1,0,1,0,0,1,2005
+55145,"University Heights, IA","Arlington, IA",0,1,0,0,1,0,1,0,0,1,2005
+55488,"University Heights, IA","Whittemore, IA",1,0,0,0,1,0,1,0,0,1,2005
+55144,"University Heights, IA","Anthon, IA",1,0,0,0,1,0,1,0,0,1,2005
+55142,"University Heights, IA","Anita, IA",0,1,0,0,1,0,1,0,0,1,2005
+55139,"University Heights, IA","Altoona, IA",1,0,0,0,1,0,0,1,0,1,2005
+55138,"University Heights, IA","Allison, IA",0,1,0,0,1,0,0,0,1,1,2005
+55137,"University Heights, IA","Algona, IA",1,0,0,0,1,0,1,0,0,1,2005
+55494,"University Heights, IA","Woden, IA",1,0,0,0,1,0,1,0,0,1,2005
+55495,"University Heights, IA","Woodbine, IA",1,0,0,0,0,1,1,0,0,1,2005
+55496,"University Heights, IA","Worthington, IA",1,0,0,0,0,1,1,0,0,1,2005
+55478,"University Heights, IA","Webster, IA",1,0,0,0,1,0,1,0,0,1,2005
+55477,"University Heights, IA","Webster City, IA",1,0,0,0,1,0,1,0,0,1,2005
+55158,"University Heights, IA","Bellevue, IA",0,0,1,0,1,0,1,0,0,1,2005
+55179,"University Heights, IA","Carroll, IA",1,0,0,0,1,0,0,1,0,1,2005
+55456,"University Heights, IA","Traer, IA",0,1,0,0,1,0,1,0,0,1,2005
+55412,"University Heights, IA","Reasnor, IA",0,1,0,0,1,0,0,0,1,1,2005
+55457,"University Heights, IA","Underwood, IA",1,0,0,0,1,0,1,0,0,1,2005
+55183,"University Heights, IA","Castalia, IA",1,0,0,0,0,1,1,0,0,1,2005
+55182,"University Heights, IA","Casey, IA",1,0,0,0,1,0,0,1,0,1,2005
+55181,"University Heights, IA","Cascade, IA",0,1,0,0,1,0,0,0,1,1,2005
+55180,"University Heights, IA","Carter Lake, IA",1,0,0,0,1,0,1,0,0,1,2005
+55464,"University Heights, IA","Vining, IA",1,0,0,0,1,0,0,1,0,1,2005
+55475,"University Heights, IA","Waverly, IA",1,0,0,0,1,0,1,0,0,1,2005
+55171,"University Heights, IA","Braddyville, IA",1,0,0,0,1,0,0,0,1,1,2005
+55170,"University Heights, IA","Boone, IA",1,0,0,0,1,0,1,0,0,1,2005
+55469,"University Heights, IA","Walker, IA",0,1,0,0,1,0,0,1,0,1,2005
+55169,"University Heights, IA","Bondurant, IA",1,0,0,0,1,0,1,0,0,1,2005
+55166,"University Heights, IA","Bloomfield, IA",1,0,0,0,0,1,0,1,0,1,2005
+55163,"University Heights, IA","Birmingham, IA",1,0,0,0,1,0,1,0,0,1,2005
+55159,"University Heights, IA","Belmond, IA",0,1,0,0,1,0,0,1,0,1,2005
+55413,"University Heights, IA","Red Oak, IA",1,0,0,0,1,0,1,0,0,1,2005
+55407,"University Heights, IA","Randalia, IA",1,0,0,0,1,0,1,0,0,1,2005
+55231,"University Heights, IA","Dysart, IA",1,0,0,0,1,0,1,0,0,1,2005
+55350,"University Heights, IA","Millerton, IA",0,1,0,0,1,0,0,1,0,1,2005
+55298,"University Heights, IA","Jesup, IA",1,0,0,0,1,0,1,0,0,1,2005
+55297,"University Heights, IA","Jefferson, IA",1,0,0,0,1,0,1,0,0,1,2005
+55296,"University Heights, IA","Janesville, IA",1,0,0,0,1,0,1,0,0,1,2005
+55344,"University Heights, IA","McIntire, IA",1,0,0,0,1,0,1,0,0,1,2005
+55293,"University Heights, IA","Ionia, IA",0,1,0,0,0,1,1,0,0,1,2005
+55346,"University Heights, IA","Mediapolis, IA",1,0,0,0,0,1,0,1,0,1,2005
+55347,"University Heights, IA","Melbourne, IA",1,0,0,0,1,0,0,1,0,1,2005
+55348,"University Heights, IA","Melcher-Dallas, IA",1,0,0,0,1,0,1,0,0,1,2005
+55351,"University Heights, IA","Missouri Valley, IA",1,0,0,0,1,0,1,0,0,1,2005
+55275,"University Heights, IA","Hamburg, IA",1,0,0,0,1,0,1,0,0,1,2005
+55352,"University Heights, IA","Monona, IA",1,0,0,0,1,0,1,0,0,1,2005
+55354,"University Heights, IA","Montour, IA",0,1,0,0,1,0,0,1,0,1,2005
+55355,"University Heights, IA","Montrose, IA",0,1,0,0,1,0,0,1,0,1,2005
+55357,"University Heights, IA","Morning Sun, IA",0,0,1,0,1,0,1,0,0,1,2005
+55282,"University Heights, IA","Havelock, IA",1,0,0,0,1,0,1,0,0,1,2005
+55281,"University Heights, IA","Harvey, IA",0,1,0,0,1,0,0,1,0,1,2005
+55360,"University Heights, IA","Mount Auburn, IA",0,0,1,0,1,0,0,0,1,1,2005
+55279,"University Heights, IA","Harpers Ferry, IA",0,1,0,0,1,0,0,0,1,1,2005
+55301,"University Heights, IA","Kellogg, IA",1,0,0,0,1,0,1,0,0,1,2005
+55338,"University Heights, IA","Marcus, IA",1,0,0,0,1,0,1,0,0,1,2005
+55337,"University Heights, IA","Maquoketa, IA",0,1,0,0,1,0,0,0,1,1,2005
+55336,"University Heights, IA","Manson, IA",1,0,0,0,1,0,1,0,0,1,2005
+55133,"University Heights, IA","Adel, IA",0,1,0,0,1,0,0,0,1,1,2005
+55319,"University Heights, IA","Leon, IA",0,1,0,0,1,0,0,1,0,1,2005
+55320,"University Heights, IA","Lewis, IA",1,0,0,0,1,0,0,1,0,1,2005
+55321,"University Heights, IA","Lincoln, IA",1,0,0,0,1,0,0,1,0,1,2005
+55322,"University Heights, IA","Lineville, IA",0,1,0,0,1,0,0,1,0,1,2005
+55324,"University Heights, IA","Liscomb, IA",1,0,0,0,1,0,1,0,0,1,2005
+55325,"University Heights, IA","Lone Rock, IA",1,0,0,0,1,0,1,0,0,1,2005
+55311,"University Heights, IA","Lambs Grove, IA",1,0,0,0,1,0,1,0,0,1,2005
+55309,"University Heights, IA","Lacona, IA",1,0,0,0,1,0,0,1,0,1,2005
+55328,"University Heights, IA","Low Moor, IA",1,0,0,0,1,0,1,0,0,1,2005
+55308,"University Heights, IA","La Porte City, IA",1,0,0,0,1,0,0,1,0,1,2005
+55330,"University Heights, IA","Luana, IA",0,1,0,0,1,0,1,0,0,1,2005
+55331,"University Heights, IA","Luther, IA",1,0,0,0,1,0,1,0,0,1,2005
+55332,"University Heights, IA","Macksburg, IA",0,0,1,0,1,0,0,0,1,1,2005
+55306,"University Heights, IA","Knierim, IA",1,0,0,0,1,0,0,1,0,1,2005
+55305,"University Heights, IA","Kirkville, IA",0,1,0,0,1,0,0,1,0,1,2005
+55303,"University Heights, IA","Keosauqua, IA",0,1,0,0,1,0,0,0,1,1,2005
+55277,"University Heights, IA","Harcourt, IA",0,1,0,0,0,1,0,1,0,1,2005
+55274,"University Heights, IA","Guttenberg, IA",1,0,0,0,0,1,1,0,0,1,2005
+55410,"University Heights, IA","Raymond, IA",0,1,0,0,1,0,0,1,0,1,2005
+55240,"University Heights, IA","Elkader, IA",1,0,0,0,0,1,1,0,0,1,2005
+55391,"University Heights, IA","Packwood, IA",0,0,1,0,1,0,0,0,1,1,2005
+55251,"University Heights, IA","Farragut, IA",1,0,0,0,1,0,1,0,0,1,2005
+55394,"University Heights, IA","Parkersburg, IA",1,0,0,0,1,0,1,0,0,1,2005
+55250,"University Heights, IA","Farmington, IA",1,0,0,0,1,0,0,1,0,1,2005
+55249,"University Heights, IA","Farmersburg, IA",0,1,0,0,1,0,1,0,0,1,2005
+55245,"University Heights, IA","Exline, IA",1,0,0,0,0,1,1,0,0,1,2005
+55242,"University Heights, IA","Elma, IA",1,0,0,0,1,0,1,0,0,1,2005
+55241,"University Heights, IA","Elkport, IA",1,0,0,1,0,0,0,1,0,1,2005
+55401,"University Heights, IA","Pleasanton, IA",0,1,0,0,1,0,0,1,0,1,2005
+55368,"University Heights, IA","New Hampton, IA",1,0,0,0,1,0,1,0,0,1,2005
+55238,"University Heights, IA","Elgin, IA",1,0,0,0,1,0,1,0,0,1,2005
+55403,"University Heights, IA","Prairie City, IA",1,0,0,0,0,1,0,1,0,1,2005
+55235,"University Heights, IA","Eldon, IA",1,0,0,0,0,1,0,1,0,1,2005
+55233,"University Heights, IA","Eddyville, IA",0,1,0,0,1,0,0,1,0,1,2005
+55232,"University Heights, IA","East Peru, IA",0,1,0,0,1,0,0,1,0,1,2005
+55317,"University Heights, IA","Leland, IA",1,0,0,0,1,0,1,0,0,1,2005
+55408,"University Heights, IA","Randolph, IA",1,0,0,0,1,0,1,0,0,1,2005
+55409,"University Heights, IA","Rathbun, IA",1,0,0,0,1,0,0,0,1,1,2005
+55390,"University Heights, IA","Pacific Junction, IA",1,0,0,0,1,0,0,1,0,1,2005
+55253,"University Heights, IA","Fort Atkinson, IA",1,0,0,0,1,0,1,0,0,1,2005
+55388,"University Heights, IA","Oxford Junction, IA",0,0,1,0,1,0,0,1,0,1,2005
+55256,"University Heights, IA","Franklin, IA",0,1,0,0,1,0,0,0,1,1,2005
+55369,"University Heights, IA","New Hartford, IA",0,1,0,0,1,0,1,0,0,1,2005
+55370,"University Heights, IA","New Liberty, IA",0,1,0,0,1,0,0,0,1,1,2005
+55271,"University Heights, IA","Greenfield, IA",0,1,0,0,1,0,0,1,0,1,2005
+55372,"University Heights, IA","New Market, IA",0,0,1,0,1,0,1,0,0,1,2005
+55270,"University Heights, IA","Greene, IA",0,0,1,0,1,0,0,0,1,1,2005
+55269,"University Heights, IA","Granger, IA",0,1,0,0,1,0,1,0,0,1,2005
+55267,"University Heights, IA","Grand River, IA",0,0,1,0,1,0,0,1,0,1,2005
+55376,"University Heights, IA","Nodaway, IA",0,1,0,0,0,1,0,1,0,1,2005
+55265,"University Heights, IA","Glidden, IA",0,1,0,0,1,0,1,0,0,1,2005
+55379,"University Heights, IA","Northwood, IA",0,1,0,0,1,0,0,1,0,1,2005
+55263,"University Heights, IA","Gilman, IA",0,1,0,0,0,1,1,0,0,1,2005
+55381,"University Heights, IA","Oakville, IA",0,1,0,0,0,1,1,0,0,1,2005
+55262,"University Heights, IA","Gilbertville, IA",0,1,0,0,1,0,1,0,0,1,2005
+55260,"University Heights, IA","Garner, IA",0,1,0,0,1,0,0,1,0,1,2005
+55384,"University Heights, IA","Onawa, IA",0,1,0,0,0,1,1,0,0,1,2005
+55258,"University Heights, IA","Frederika, IA",0,1,0,0,1,0,1,0,0,1,2005
+55257,"University Heights, IA","Fredericksburg, IA",1,0,0,0,1,0,1,0,0,1,2005
+55497,"University Heights, IA","Yetter, IA",0,0,1,0,0,1,1,0,0,1,2005

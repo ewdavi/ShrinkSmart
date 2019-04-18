@@ -1,0 +1,76 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+40298,"Lewis, IA","Lewis, IA",15,34,20,25,29,15,21,33,15,69,2012
+40257,"Lewis, IA","Atlantic, IA",5,22,7,20,4,10,11,12,11,34,2012
+40264,"Lewis, IA","Carson, IA",6,15,3,14,5,5,10,7,7,24,2012
+40303,"Lewis, IA","Massena, IA",7,10,6,12,6,5,7,10,6,23,2012
+40275,"Lewis, IA","Cumberland, IA",5,11,5,12,6,3,8,9,4,21,2012
+40287,"Lewis, IA","Grant, IA",5,8,5,7,4,7,7,5,6,18,2012
+40271,"Lewis, IA","Council Bluffs, IA",4,4,0,3,5,0,2,3,3,8,2012
+40313,"Lewis, IA","Red Oak, IA",0,7,1,2,3,3,1,5,2,8,2012
+40256,"Lewis, IA","Anita, IA",3,2,2,6,1,0,2,4,1,7,2012
+40308,"Lewis, IA","Orient, IA",1,4,2,2,1,4,2,2,3,7,2012
+40327,"Lewis, IA","Wiota, IA",2,2,1,2,1,2,2,2,1,5,2012
+40306,"Lewis, IA","Oakland, IA",2,0,2,1,1,2,1,1,2,4,2012
+40310,"Lewis, IA","Pacific Junction, IA",2,2,0,1,1,2,2,1,1,4,2012
+40288,"Lewis, IA","Greenfield, IA",0,3,1,3,0,1,0,3,1,4,2012
+40255,"Lewis, IA","Ames, IA",3,1,0,0,2,2,1,2,1,4,2012
+40314,"Lewis, IA","Shenandoah, IA",1,2,0,0,0,3,1,2,0,3,2012
+40262,"Lewis, IA","Brayton, IA",0,0,3,1,0,2,1,0,2,3,2012
+40317,"Lewis, IA","Stanton, IA",0,3,0,2,0,1,0,2,1,3,2012
+40289,"Lewis, IA","Hancock, IA",1,0,2,1,2,0,0,1,2,3,2012
+40309,"Lewis, IA","Ottumwa, IA",0,2,0,2,0,0,0,0,2,2,2012
+40315,"Lewis, IA","Silver City, IA",0,1,1,2,0,0,0,1,1,2,2012
+40304,"Lewis, IA","Missouri Valley, IA",1,0,1,0,2,0,0,1,1,2,2012
+40323,"Lewis, IA","Walnut, IA",1,1,0,2,0,0,0,1,1,2,2012
+40301,"Lewis, IA","Macedonia, IA",0,1,1,0,2,0,1,0,1,2,2012
+40325,"Lewis, IA","Waukee, IA",2,0,0,0,0,2,0,0,2,2,2012
+40299,"Lewis, IA","Logan, IA",2,0,0,1,1,0,0,1,1,2,2012
+40311,"Lewis, IA","Pleasant Hill, IA",0,1,1,0,1,1,0,0,2,2,2012
+40253,"Lewis, IA","Adair, IA",0,1,1,0,1,1,1,0,1,2,2012
+40290,"Lewis, IA","Henderson, IA",1,1,0,1,1,0,0,2,0,2,2012
+40273,"Lewis, IA","Creston, IA",2,0,0,2,0,0,1,1,0,2,2012
+40258,"Lewis, IA","Avoca, IA",1,1,0,1,1,0,0,0,2,2,2012
+40267,"Lewis, IA","Clio, IA",0,1,1,0,1,1,1,0,1,2,2012
+40266,"Lewis, IA","Clarinda, IA",2,0,0,1,0,1,0,1,1,2,2012
+40277,"Lewis, IA","De Soto, IA",0,2,0,0,0,2,1,0,1,2,2012
+40261,"Lewis, IA","Braddyville, IA",1,0,0,1,0,0,0,1,0,1,2012
+40269,"Lewis, IA","Coon Rapids, IA",0,0,1,1,0,0,0,1,0,1,2012
+40268,"Lewis, IA","Clive, IA",1,0,0,0,1,0,0,0,1,1,2012
+40312,"Lewis, IA","Randalia, IA",0,1,0,0,1,0,0,0,1,1,2012
+40265,"Lewis, IA","Carter Lake, IA",1,0,0,1,0,0,1,0,0,1,2012
+40263,"Lewis, IA","Carroll, IA",0,0,1,0,1,0,0,1,0,1,2012
+40316,"Lewis, IA","Sioux City, IA",0,0,1,0,1,0,0,0,1,1,2012
+40270,"Lewis, IA","Corydon, IA",1,0,0,0,0,1,0,1,0,1,2012
+40260,"Lewis, IA","Bedford, IA",1,0,0,1,0,0,0,1,0,1,2012
+40318,"Lewis, IA","Story City, IA",0,1,0,0,0,1,1,0,0,1,2012
+40319,"Lewis, IA","Unionville, IA",0,1,0,1,0,0,0,0,1,1,2012
+40320,"Lewis, IA","University Park, IA",0,1,0,1,0,0,0,0,1,1,2012
+40321,"Lewis, IA","Urbandale, IA",0,1,0,0,0,1,0,0,1,1,2012
+40322,"Lewis, IA","Wall Lake, IA",0,1,0,0,1,0,0,0,1,1,2012
+40259,"Lewis, IA","Bayard, IA",0,1,0,1,0,0,0,0,1,1,2012
+40324,"Lewis, IA","Waterloo, IA",1,0,0,0,0,1,0,0,1,1,2012
+40326,"Lewis, IA","Westside, IA",0,1,0,1,0,0,0,0,1,1,2012
+40307,"Lewis, IA","Onawa, IA",0,0,1,0,0,1,0,1,0,1,2012
+40281,"Lewis, IA","Estherville, IA",0,0,1,1,0,0,0,0,1,1,2012
+40305,"Lewis, IA","Newton, IA",0,0,1,0,0,1,1,0,0,1,2012
+40282,"Lewis, IA","Exira, IA",0,1,0,0,0,1,1,0,0,1,2012
+40283,"Lewis, IA","Fairfax, IA",0,1,0,0,0,1,0,0,1,1,2012
+40284,"Lewis, IA","Fairfield, IA",1,0,0,1,0,0,0,1,0,1,2012
+40285,"Lewis, IA","Garden Grove, IA",0,0,1,0,0,1,0,0,1,1,2012
+40286,"Lewis, IA","Glenwood, IA",0,1,0,0,0,1,0,0,1,1,2012
+40280,"Lewis, IA","Elliott, IA",0,1,0,1,0,0,1,0,0,1,2012
+40279,"Lewis, IA","Elk Horn, IA",0,1,0,1,0,0,0,0,1,1,2012
+40278,"Lewis, IA","Defiance, IA",0,1,0,0,0,1,0,0,1,1,2012
+40254,"Lewis, IA","Afton, IA",0,0,1,1,0,0,0,1,0,1,2012
+40291,"Lewis, IA","Humboldt, IA",0,1,0,0,0,1,0,0,1,1,2012
+40292,"Lewis, IA","Imogene, IA",0,0,1,0,0,1,1,0,0,1,2012
+40293,"Lewis, IA","Indianola, IA",1,0,0,0,1,0,0,0,1,1,2012
+40294,"Lewis, IA","Iowa Falls, IA",0,1,0,0,0,1,0,0,1,1,2012
+40295,"Lewis, IA","Kimballton, IA",0,0,1,0,0,1,1,0,0,1,2012
+40296,"Lewis, IA","Lake View, IA",0,1,0,0,1,0,0,0,1,1,2012
+40297,"Lewis, IA","Le Roy, IA",0,1,0,1,0,0,0,1,0,1,2012
+40276,"Lewis, IA","Danbury, IA",0,1,0,0,1,0,0,0,1,1,2012
+40300,"Lewis, IA","Lorimor, IA",0,1,0,0,0,1,0,0,1,1,2012
+40274,"Lewis, IA","Cromwell, IA",0,1,0,1,0,0,1,0,0,1,2012
+40302,"Lewis, IA","Manning, IA",1,0,0,0,0,1,0,1,0,1,2012
+40272,"Lewis, IA","Crescent, IA",0,1,0,1,0,0,0,0,1,1,2012

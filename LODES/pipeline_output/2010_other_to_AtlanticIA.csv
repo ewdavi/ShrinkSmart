@@ -1,0 +1,353 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+4590,"Atlantic, IA","Atlantic, IA",342,884,512,301,1201,236,570,676,492,1738,2010
+4923,"Atlantic, IA","Wiota, IA",41,128,60,37,145,47,41,123,65,229,2010
+4745,"Atlantic, IA","Lewis, IA",37,92,36,41,106,18,51,64,50,165,2010
+4585,"Atlantic, IA","Anita, IA",27,70,41,22,99,17,39,61,38,138,2010
+4640,"Atlantic, IA","Council Bluffs, IA",36,49,25,20,58,32,38,46,26,110,2010
+4692,"Atlantic, IA","Grant, IA",21,55,16,23,60,9,24,40,28,92,2010
+4769,"Atlantic, IA","Massena, IA",9,52,20,25,49,7,17,35,29,81,2010
+4644,"Atlantic, IA","Cumberland, IA",8,45,15,20,42,6,14,31,23,68,2010
+4675,"Atlantic, IA","Exira, IA",7,45,13,20,32,13,8,33,24,65,2010
+4844,"Atlantic, IA","Red Oak, IA",20,28,13,3,49,9,29,22,10,61,2010
+4575,"Atlantic, IA","Adair, IA",8,30,16,14,31,9,12,27,15,54,2010
+4705,"Atlantic, IA","Harlan, IA",7,28,10,9,28,8,13,23,9,45,2010
+4591,"Atlantic, IA","Audubon, IA",11,27,6,14,24,6,9,20,15,44,2010
+4615,"Atlantic, IA","Casey, IA",5,12,16,10,17,6,8,13,12,33,2010
+4642,"Atlantic, IA","Creston, IA",12,15,6,2,18,13,8,19,6,33,2010
+4655,"Atlantic, IA","Des Moines, IA",5,17,9,5,22,4,3,16,12,31,2010
+4583,"Atlantic, IA","Ames, IA",9,17,5,3,18,10,8,6,17,31,2010
+4867,"Atlantic, IA","Shelby, IA",5,11,11,6,17,4,12,9,6,27,2010
+4606,"Atlantic, IA","Brayton, IA",0,17,10,5,19,3,6,10,11,27,2010
+4594,"Atlantic, IA","Avoca, IA",5,12,8,8,17,0,4,9,12,25,2010
+4810,"Atlantic, IA","Oakland, IA",6,11,6,5,13,5,5,12,6,23,2010
+4626,"Atlantic, IA","Clarinda, IA",9,5,8,4,13,5,8,7,7,22,2010
+4653,"Atlantic, IA","Defiance, IA",4,12,6,9,10,3,5,7,10,22,2010
+4870,"Atlantic, IA","Shenandoah, IA",5,10,7,0,12,10,5,16,1,22,2010
+4613,"Atlantic, IA","Carson, IA",3,14,4,10,7,4,3,9,9,21,2010
+4630,"Atlantic, IA","Clive, IA",8,11,2,6,11,4,3,7,11,21,2010
+4921,"Atlantic, IA","Windsor Heights, IA",6,10,3,2,12,5,4,7,8,19,2010
+4875,"Atlantic, IA","Sioux City, IA",3,10,6,0,10,9,7,10,2,19,2010
+4686,"Atlantic, IA","Glenwood, IA",3,6,9,1,15,2,6,6,6,18,2010
+4893,"Atlantic, IA","Tennant, IA",1,13,4,4,14,0,4,7,7,18,2010
+4637,"Atlantic, IA","Corning, IA",8,8,2,9,6,3,1,6,11,18,2010
+4761,"Atlantic, IA","Manning, IA",0,12,6,6,10,2,4,5,9,18,2010
+4695,"Atlantic, IA","Greenfield, IA",5,10,2,8,8,1,6,8,3,17,2010
+4614,"Atlantic, IA","Carter Lake, IA",8,7,1,4,4,8,7,3,6,16,2010
+4668,"Atlantic, IA","Elk Horn, IA",2,11,2,2,12,1,6,2,7,15,2010
+4899,"Atlantic, IA","Urbandale, IA",3,10,2,2,10,3,4,3,8,15,2010
+4832,"Atlantic, IA","Pleasant Hill, IA",5,9,1,3,10,2,2,5,8,15,2010
+4586,"Atlantic, IA","Ankeny, IA",6,4,4,0,10,4,6,2,6,14,2010
+4914,"Atlantic, IA","West Des Moines, IA",1,9,4,1,11,2,0,7,7,14,2010
+4722,"Atlantic, IA","Jefferson, IA",3,6,3,3,6,3,6,5,1,12,2010
+4654,"Atlantic, IA","Denison, IA",7,3,2,0,7,5,9,3,0,12,2010
+4821,"Atlantic, IA","Ottumwa, IA",2,8,2,1,4,7,3,7,2,12,2010
+4612,"Atlantic, IA","Carroll, IA",8,2,2,1,6,5,6,5,1,12,2010
+4703,"Atlantic, IA","Hancock, IA",2,7,3,1,11,0,3,8,1,12,2010
+4728,"Atlantic, IA","Kimballton, IA",2,8,2,2,10,0,3,4,5,12,2010
+4635,"Atlantic, IA","Coon Rapids, IA",1,4,6,2,7,2,4,5,2,11,2010
+4618,"Atlantic, IA","Cedar Rapids, IA",3,6,2,0,10,1,5,1,5,11,2010
+4803,"Atlantic, IA","Newton, IA",5,3,3,1,3,7,3,7,1,11,2010
+4681,"Atlantic, IA","Fort Dodge, IA",0,7,4,1,7,3,3,6,2,11,2010
+4780,"Atlantic, IA","Missouri Valley, IA",2,4,4,0,10,0,5,4,1,10,2010
+4904,"Atlantic, IA","Walnut, IA",0,9,1,1,8,1,2,3,5,10,2010
+4818,"Atlantic, IA","Osceola, IA",3,6,1,0,3,7,4,3,3,10,2010
+4732,"Atlantic, IA","Knoxville, IA",3,4,3,0,9,1,4,4,2,10,2010
+4716,"Atlantic, IA","Indianola, IA",4,5,1,1,4,5,4,5,1,10,2010
+4804,"Atlantic, IA","Nodaway, IA",4,4,2,3,5,2,5,2,3,10,2010
+4816,"Atlantic, IA","Orient, IA",4,4,2,1,7,2,4,3,3,10,2010
+4827,"Atlantic, IA","Pella, IA",3,5,1,0,8,1,2,5,2,9,2010
+4809,"Atlantic, IA","Norwalk, IA",2,7,0,3,5,1,1,5,3,9,2010
+4782,"Atlantic, IA","Mondamin, IA",2,5,2,2,4,3,3,1,5,9,2010
+4699,"Atlantic, IA","Guthrie Center, IA",3,2,4,0,7,2,4,5,0,9,2010
+4671,"Atlantic, IA","Elliott, IA",3,4,1,1,6,1,2,5,1,8,2010
+4886,"Atlantic, IA","Stanton, IA",1,4,3,1,4,3,2,3,3,8,2010
+4755,"Atlantic, IA","Macedonia, IA",2,5,1,2,4,2,5,3,0,8,2010
+4720,"Atlantic, IA","Irwin, IA",0,6,2,1,7,0,3,4,1,8,2010
+4750,"Atlantic, IA","Logan, IA",5,1,2,1,5,2,5,2,1,8,2010
+4620,"Atlantic, IA","Centerville, IA",0,6,2,2,4,2,3,4,1,8,2010
+4577,"Atlantic, IA","Afton, IA",0,8,0,0,3,5,3,4,1,8,2010
+4621,"Atlantic, IA","Chariton, IA",1,4,2,1,2,4,2,2,3,7,2010
+4579,"Atlantic, IA","Albia, IA",5,1,1,0,4,3,4,2,1,7,2010
+4582,"Atlantic, IA","Altoona, IA",2,3,2,1,5,1,1,2,4,7,2010
+4740,"Atlantic, IA","Le Mars, IA",0,5,2,0,5,2,1,5,1,7,2010
+4779,"Atlantic, IA","Minden, IA",1,6,0,0,7,0,0,2,5,7,2010
+4717,"Atlantic, IA","Iowa City, IA",1,6,0,0,4,3,3,3,1,7,2010
+4628,"Atlantic, IA","Clinton, IA",3,2,2,0,5,2,2,3,2,7,2010
+4679,"Atlantic, IA","Farragut, IA",0,3,3,0,5,1,4,2,0,6,2010
+4592,"Atlantic, IA","Aurelia, IA",0,5,1,1,4,1,1,2,3,6,2010
+4874,"Atlantic, IA","Silver City, IA",4,2,0,0,4,2,2,3,1,6,2010
+4659,"Atlantic, IA","Dubuque, IA",2,3,1,0,4,2,4,0,2,6,2010
+4701,"Atlantic, IA","Hamburg, IA",2,4,0,0,4,2,3,3,0,6,2010
+4631,"Atlantic, IA","Coburg, IA",2,1,2,2,2,1,2,1,2,5,2010
+4851,"Atlantic, IA","Rock Rapids, IA",2,2,1,2,3,0,1,2,2,5,2010
+4756,"Atlantic, IA","Madrid, IA",3,1,1,1,2,2,2,3,0,5,2010
+4758,"Atlantic, IA","Malvern, IA",0,4,1,0,4,1,2,2,1,5,2010
+4879,"Atlantic, IA","Spencer, IA",0,2,3,1,2,2,0,1,4,5,2010
+4623,"Atlantic, IA","Charter Oak, IA",1,4,0,0,2,3,1,2,2,5,2010
+4878,"Atlantic, IA","Soldier, IA",0,2,3,0,4,1,0,4,1,5,2010
+4877,"Atlantic, IA","Sloan, IA",2,2,1,0,2,3,3,1,1,5,2010
+4624,"Atlantic, IA","Cherokee, IA",1,4,0,0,2,3,2,1,2,5,2010
+4849,"Atlantic, IA","Riverton, IA",1,2,2,0,4,1,2,3,0,5,2010
+4795,"Atlantic, IA","Muscatine, IA",1,1,3,1,2,2,2,3,0,5,2010
+4724,"Atlantic, IA","Johnston, IA",0,4,1,1,3,1,2,1,2,5,2010
+4819,"Atlantic, IA","Oskaloosa, IA",2,2,1,0,1,4,4,0,1,5,2010
+4768,"Atlantic, IA","Mason City, IA",2,3,0,1,3,1,1,2,2,5,2010
+4714,"Atlantic, IA","Ida Grove, IA",3,1,0,1,2,1,4,0,0,4,2010
+4638,"Atlantic, IA","Corydon, IA",2,2,0,0,3,1,1,2,1,4,2010
+4727,"Atlantic, IA","Keokuk, IA",2,2,0,0,0,4,4,0,0,4,2010
+4617,"Atlantic, IA","Cedar Falls, IA",1,3,0,0,1,3,0,4,0,4,2010
+4773,"Atlantic, IA","McClelland, IA",0,2,2,0,4,0,0,3,1,4,2010
+4842,"Atlantic, IA","Rathbun, IA",1,2,1,0,2,2,3,1,0,4,2010
+4909,"Atlantic, IA","Waukee, IA",1,1,2,0,4,0,1,1,2,4,2010
+4737,"Atlantic, IA","Lamoni, IA",3,1,0,0,1,3,3,1,0,4,2010
+4708,"Atlantic, IA","Hastings, IA",2,2,0,1,2,1,1,2,1,4,2010
+4759,"Atlantic, IA","Manchester, IA",3,1,0,0,3,1,2,2,0,4,2010
+4600,"Atlantic, IA","Blakesburg, IA",2,2,0,0,2,2,2,2,0,4,2010
+4608,"Atlantic, IA","Burlington, IA",1,2,1,0,3,1,1,3,0,4,2010
+4711,"Atlantic, IA","Hiawatha, IA",0,3,1,0,4,0,0,1,3,4,2010
+4917,"Atlantic, IA","Westside, IA",2,2,0,0,2,2,3,1,0,4,2010
+4741,"Atlantic, IA","Le Roy, IA",0,2,2,0,0,4,1,2,1,4,2010
+4856,"Atlantic, IA","Russell, IA",3,1,0,0,2,2,1,2,1,4,2010
+4665,"Atlantic, IA","East Peru, IA",1,1,2,0,4,0,1,2,1,4,2010
+4903,"Atlantic, IA","Wall Lake, IA",0,3,1,0,3,1,2,1,1,4,2010
+4823,"Atlantic, IA","Panama, IA",0,2,2,1,3,0,1,0,3,4,2010
+4924,"Atlantic, IA","Woodbine, IA",0,3,1,0,4,0,0,2,2,4,2010
+4896,"Atlantic, IA","Underwood, IA",0,1,3,0,4,0,1,1,2,4,2010
+4629,"Atlantic, IA","Clio, IA",1,1,1,0,2,1,1,1,1,3,2010
+4812,"Atlantic, IA","Oelwein, IA",1,2,0,0,0,3,1,2,0,3,2010
+4715,"Atlantic, IA","Imogene, IA",1,2,0,0,3,0,1,0,2,3,2010
+4662,"Atlantic, IA","Dyersville, IA",1,2,0,0,2,1,3,0,0,3,2010
+4922,"Atlantic, IA","Winterset, IA",0,1,2,0,3,0,1,1,1,3,2010
+4777,"Atlantic, IA","Millerton, IA",0,3,0,0,0,3,0,3,0,3,2010
+4721,"Atlantic, IA","Janesville, IA",1,0,2,0,2,1,1,2,0,3,2010
+4775,"Atlantic, IA","Meriden, IA",2,0,1,0,3,0,2,1,0,3,2010
+4815,"Atlantic, IA","Orange City, IA",2,0,1,0,1,2,1,2,0,3,2010
+4656,"Atlantic, IA","Diagonal, IA",0,1,2,0,1,2,1,1,1,3,2010
+4871,"Atlantic, IA","Sibley, IA",0,1,2,1,1,1,1,0,2,3,2010
+4729,"Atlantic, IA","Kirkman, IA",1,1,1,1,1,1,1,1,1,3,2010
+4627,"Atlantic, IA","Clearfield, IA",1,2,0,0,1,2,1,2,0,3,2010
+4602,"Atlantic, IA","Boone, IA",0,3,0,0,3,0,3,0,0,3,2010
+4897,"Atlantic, IA","University Heights, IA",2,1,0,0,2,1,2,1,0,3,2010
+4820,"Atlantic, IA","Otho, IA",0,2,1,0,2,1,0,2,1,3,2010
+4822,"Atlantic, IA","Pacific Junction, IA",2,0,1,0,3,0,1,2,0,3,2010
+4862,"Atlantic, IA","Sergeant Bluff, IA",0,2,1,0,1,2,1,2,0,3,2010
+4744,"Atlantic, IA","Leon, IA",2,0,1,0,1,2,1,2,0,3,2010
+4747,"Atlantic, IA","Linden, IA",0,1,2,0,3,0,2,1,0,3,2010
+4831,"Atlantic, IA","Plano, IA",0,2,1,0,1,2,1,1,1,3,2010
+4857,"Atlantic, IA","Sac City, IA",1,2,0,0,3,0,1,2,0,3,2010
+4730,"Atlantic, IA","Kiron, IA",1,2,0,1,1,1,1,1,1,3,2010
+4696,"Atlantic, IA","Grimes, IA",1,2,0,0,2,1,1,0,2,3,2010
+4907,"Atlantic, IA","Waterloo, IA",1,2,0,0,1,2,1,2,0,3,2010
+4611,"Atlantic, IA","Carlisle, IA",0,3,0,0,3,0,0,3,0,3,2010
+4597,"Atlantic, IA","Bedford, IA",0,3,0,1,2,0,0,3,0,3,2010
+4693,"Atlantic, IA","Gravity, IA",2,1,0,0,2,1,2,0,1,3,2010
+4697,"Atlantic, IA","Grinnell, IA",1,1,1,0,2,1,1,2,0,3,2010
+4888,"Atlantic, IA","Story City, IA",0,2,1,0,2,1,1,1,1,3,2010
+4789,"Atlantic, IA","Moravia, IA",2,1,0,0,1,2,2,1,0,3,2010
+4691,"Atlantic, IA","Granger, IA",1,2,0,1,2,0,1,1,1,3,2010
+4881,"Atlantic, IA","Spring Hill, IA",1,2,0,1,2,0,1,2,0,3,2010
+4841,"Atlantic, IA","Randolph, IA",0,3,0,0,0,3,2,0,1,3,2010
+4835,"Atlantic, IA","Pomeroy, IA",1,1,1,0,1,2,2,0,1,3,2010
+4687,"Atlantic, IA","Glidden, IA",2,0,1,2,0,1,0,2,1,3,2010
+4622,"Atlantic, IA","Charles City, IA",0,2,1,0,2,1,0,1,2,3,2010
+4791,"Atlantic, IA","Mount Ayr, IA",1,2,0,0,3,0,1,2,0,3,2010
+4760,"Atlantic, IA","Manilla, IA",0,0,2,0,2,0,0,2,0,2,2010
+4766,"Atlantic, IA","Marshalltown, IA",0,2,0,0,2,0,2,0,0,2,2010
+4762,"Atlantic, IA","Manson, IA",1,1,0,0,2,0,0,1,1,2,2010
+4794,"Atlantic, IA","Murray, IA",0,1,1,0,0,2,0,2,0,2,2010
+4792,"Atlantic, IA","Mount Pleasant, IA",1,0,1,1,0,1,0,2,0,2,2010
+4757,"Atlantic, IA","Magnolia, IA",0,1,1,0,2,0,1,1,0,2,2010
+4840,"Atlantic, IA","Quimby, IA",0,1,1,0,2,0,0,2,0,2,2010
+4829,"Atlantic, IA","Perry, IA",0,2,0,0,2,0,0,1,1,2,2010
+4764,"Atlantic, IA","Marcus, IA",0,0,2,0,1,1,0,1,1,2,2010
+4765,"Atlantic, IA","Marion, IA",0,2,0,0,2,0,0,2,0,2,2010
+4817,"Atlantic, IA","Osage, IA",0,1,1,0,1,1,1,0,1,2,2010
+4919,"Atlantic, IA","Willey, IA",1,1,0,0,1,1,1,1,0,2,2010
+4776,"Atlantic, IA","Merrill, IA",1,1,0,0,1,1,2,0,0,2,2010
+4584,"Atlantic, IA","Anamosa, IA",1,0,1,0,1,1,0,1,1,2,2010
+4834,"Atlantic, IA","Polk City, IA",1,0,1,0,2,0,0,0,2,2,2010
+4785,"Atlantic, IA","Monticello, IA",0,1,1,0,1,1,1,0,1,2,2010
+4787,"Atlantic, IA","Montrose, IA",0,2,0,0,2,0,0,1,1,2,2010
+4796,"Atlantic, IA","Nashua, IA",1,1,0,0,0,2,1,0,1,2,2010
+4807,"Atlantic, IA","North Liberty, IA",1,1,0,0,1,1,2,0,0,2,2010
+4814,"Atlantic, IA","Onawa, IA",0,2,0,0,0,2,2,0,0,2,2010
+4595,"Atlantic, IA","Bagley, IA",0,1,1,1,1,0,0,2,0,2,2010
+4805,"Atlantic, IA","Nora Springs, IA",0,2,0,0,1,1,0,1,1,2,2010
+4843,"Atlantic, IA","Reasnor, IA",0,1,1,0,2,0,1,0,1,2,2010
+4850,"Atlantic, IA","Robins, IA",0,2,0,0,1,1,1,1,0,2,2010
+4920,"Atlantic, IA","Wilton, IA",0,2,0,0,0,2,0,1,1,2,2010
+4852,"Atlantic, IA","Rock Valley, IA",0,1,1,0,2,0,1,0,1,2,2010
+4833,"Atlantic, IA","Pleasanton, IA",1,0,1,0,0,2,2,0,0,2,2010
+4797,"Atlantic, IA","Nevada, IA",1,1,0,0,0,2,1,1,0,2,2010
+4733,"Atlantic, IA","Lacona, IA",0,1,1,1,1,0,0,1,1,2,2010
+4663,"Atlantic, IA","Eagle Grove, IA",1,1,0,0,1,1,0,1,1,2,2010
+4661,"Atlantic, IA","Dunlap, IA",0,0,2,0,2,0,2,0,0,2,2010
+4700,"Atlantic, IA","Guttenberg, IA",1,0,1,0,1,1,0,2,0,2,2010
+4707,"Atlantic, IA","Harvey, IA",0,2,0,0,1,1,0,2,0,2,2010
+4891,"Atlantic, IA","Swan, IA",0,2,0,0,0,2,0,2,0,2,2010
+4889,"Atlantic, IA","Stratford, IA",0,2,0,0,0,2,0,1,1,2,2010
+4609,"Atlantic, IA","Cambridge, IA",0,2,0,0,2,0,1,0,1,2,2010
+4667,"Atlantic, IA","Elberon, IA",0,2,0,0,0,2,0,2,0,2,2010
+4873,"Atlantic, IA","Sigourney, IA",0,2,0,1,0,1,0,0,2,2,2010
+4872,"Atlantic, IA","Sidney, IA",1,1,0,0,2,0,0,2,0,2,2010
+4752,"Atlantic, IA","Lorimor, IA",1,1,0,1,0,1,1,0,1,2,2010
+4619,"Atlantic, IA","Center Point, IA",0,2,0,0,1,1,0,0,2,2,2010
+4605,"Atlantic, IA","Braddyville, IA",0,2,0,1,1,0,0,1,1,2,2010
+4911,"Atlantic, IA","Webster City, IA",1,1,0,0,2,0,2,0,0,2,2010
+4723,"Atlantic, IA","Jesup, IA",1,0,1,0,2,0,0,1,1,2,2010
+4725,"Atlantic, IA","Kalona, IA",0,1,1,0,2,0,1,1,0,2,2010
+4690,"Atlantic, IA","Grand River, IA",1,1,0,0,2,0,2,0,0,2,2010
+4673,"Atlantic, IA","Estherville, IA",0,1,1,0,1,1,1,1,0,2,2010
+4868,"Atlantic, IA","Sheldon, IA",0,1,1,0,1,1,1,0,1,2,2010
+4657,"Atlantic, IA","Dixon, IA",0,1,1,0,0,2,0,2,0,2,2010
+4652,"Atlantic, IA","Dedham, IA",0,1,1,0,2,0,2,0,0,2,2010
+4651,"Atlantic, IA","Decorah, IA",0,1,1,0,2,0,1,0,1,2,2010
+4650,"Atlantic, IA","De Soto, IA",1,1,0,1,1,0,2,0,0,2,2010
+4898,"Atlantic, IA","University Park, IA",1,0,1,0,1,1,1,0,1,2,2010
+4677,"Atlantic, IA","Fairfax, IA",1,0,1,0,1,1,2,0,0,2,2010
+4646,"Atlantic, IA","Dallas Center, IA",0,0,2,0,2,0,0,1,1,2,2010
+4645,"Atlantic, IA","Cushing, IA",0,1,1,1,1,0,0,1,1,2,2010
+4887,"Atlantic, IA","Storm Lake, IA",2,0,0,0,1,1,2,0,0,2,2010
+4859,"Atlantic, IA","Sandyville, IA",2,0,0,0,2,0,0,1,1,2,2010
+4885,"Atlantic, IA","Stacyville, IA",1,1,0,0,1,1,1,0,1,2,2010
+4682,"Atlantic, IA","Fort Madison, IA",0,2,0,1,0,1,0,0,2,2,2010
+4876,"Atlantic, IA","Slater, IA",1,0,1,0,2,0,2,0,0,2,2010
+4836,"Atlantic, IA","Portsmouth, IA",0,1,0,0,1,0,0,1,0,1,2010
+4855,"Atlantic, IA","Royal, IA",1,0,0,0,0,1,0,1,0,1,2010
+4890,"Atlantic, IA","Superior, IA",1,0,0,0,0,1,0,1,0,1,2010
+4892,"Atlantic, IA","Tama, IA",0,1,0,0,0,1,1,0,0,1,2010
+4894,"Atlantic, IA","Titonka, IA",1,0,0,0,0,1,1,0,0,1,2010
+4838,"Atlantic, IA","Preston, IA",1,0,0,0,1,0,0,1,0,1,2010
+4895,"Atlantic, IA","Traer, IA",0,1,0,0,1,0,0,0,1,1,2010
+4906,"Atlantic, IA","Washington, IA",0,1,0,0,1,0,0,0,1,1,2010
+4905,"Atlantic, IA","Wapello, IA",1,0,0,0,0,1,1,0,0,1,2010
+4900,"Atlantic, IA","Vinton, IA",0,1,0,0,1,0,0,1,0,1,2010
+4830,"Atlantic, IA","Peterson, IA",0,1,0,0,0,1,1,0,0,1,2010
+4901,"Atlantic, IA","Wahpeton, IA",0,1,0,0,1,0,0,1,0,1,2010
+4837,"Atlantic, IA","Prairieburg, IA",0,1,0,0,1,0,0,1,0,1,2010
+4880,"Atlantic, IA","Spirit Lake, IA",0,0,1,0,0,1,1,0,0,1,2010
+4839,"Atlantic, IA","Promise City, IA",0,0,1,0,1,0,0,0,1,1,2010
+4913,"Atlantic, IA","West Branch, IA",0,1,0,0,0,1,0,0,1,1,2010
+4915,"Atlantic, IA","West Union, IA",1,0,0,0,1,0,0,1,0,1,2010
+4858,"Atlantic, IA","Sanborn, IA",0,1,0,1,0,0,0,1,0,1,2010
+4860,"Atlantic, IA","Schaller, IA",1,0,0,0,0,1,1,0,0,1,2010
+4916,"Atlantic, IA","Westfield, IA",0,1,0,0,1,0,0,1,0,1,2010
+4861,"Atlantic, IA","Schleswig, IA",1,0,0,0,1,0,1,0,0,1,2010
+4854,"Atlantic, IA","Rockwell City, IA",0,1,0,0,1,0,0,1,0,1,2010
+4863,"Atlantic, IA","Seymour, IA",0,0,1,0,1,0,0,0,1,1,2010
+4864,"Atlantic, IA","Shannon City, IA",0,0,1,0,0,1,0,1,0,1,2010
+4865,"Atlantic, IA","Sharpsburg, IA",1,0,0,0,0,1,1,0,0,1,2010
+4853,"Atlantic, IA","Rockford, IA",0,0,1,0,1,0,1,0,0,1,2010
+4866,"Atlantic, IA","Sheffield, IA",1,0,0,0,0,1,0,1,0,1,2010
+4912,"Atlantic, IA","Wellman, IA",0,1,0,0,1,0,0,0,1,1,2010
+4884,"Atlantic, IA","St. Paul, IA",0,0,1,0,0,1,0,1,0,1,2010
+4869,"Atlantic, IA","Shell Rock, IA",0,1,0,1,0,0,0,0,1,1,2010
+4910,"Atlantic, IA","Waverly, IA",0,1,0,0,1,0,0,0,1,1,2010
+4848,"Atlantic, IA","Riverside, IA",0,0,1,0,1,0,0,0,1,1,2010
+4847,"Atlantic, IA","Rippey, IA",0,1,0,0,0,1,0,0,1,1,2010
+4846,"Atlantic, IA","Ridgeway, IA",1,0,0,0,1,0,0,1,0,1,2010
+4845,"Atlantic, IA","Redding, IA",0,1,0,0,1,0,1,0,0,1,2010
+4918,"Atlantic, IA","Wheatland, IA",0,0,1,0,1,0,0,1,0,1,2010
+4828,"Atlantic, IA","Peosta, IA",1,0,0,0,1,0,0,0,1,1,2010
+4908,"Atlantic, IA","Waucoma, IA",0,1,0,1,0,0,0,0,1,1,2010
+4882,"Atlantic, IA","Springbrook, IA",0,1,0,0,1,0,1,0,0,1,2010
+4883,"Atlantic, IA","St. Marys, IA",0,1,0,0,1,0,0,1,0,1,2010
+4902,"Atlantic, IA","Walford, IA",0,1,0,0,1,0,0,1,0,1,2010
+4574,"Atlantic, IA","Ackley, IA",0,1,0,0,1,0,1,0,0,1,2010
+4826,"Atlantic, IA","Paullina, IA",0,0,1,0,0,1,0,1,0,1,2010
+4702,"Atlantic, IA","Hampton, IA",0,1,0,0,0,1,0,1,0,1,2010
+4643,"Atlantic, IA","Cromwell, IA",1,0,0,0,1,0,0,0,1,1,2010
+4647,"Atlantic, IA","Danbury, IA",0,1,0,0,0,1,0,0,1,1,2010
+4648,"Atlantic, IA","Davenport, IA",0,1,0,0,1,0,0,0,1,1,2010
+4649,"Atlantic, IA","Dawson, IA",0,1,0,1,0,0,0,1,0,1,2010
+4658,"Atlantic, IA","Donnellson, IA",1,0,0,0,1,0,0,1,0,1,2010
+4660,"Atlantic, IA","Duncombe, IA",0,1,0,0,0,1,0,1,0,1,2010
+4664,"Atlantic, IA","Early, IA",0,1,0,0,1,0,0,1,0,1,2010
+4666,"Atlantic, IA","Eddyville, IA",0,1,0,0,1,0,1,0,0,1,2010
+4669,"Atlantic, IA","Elk Run Heights, IA",0,1,0,0,0,1,1,0,0,1,2010
+4670,"Atlantic, IA","Elkader, IA",0,1,0,0,0,1,0,1,0,1,2010
+4672,"Atlantic, IA","Essex, IA",0,1,0,0,0,1,0,1,0,1,2010
+4674,"Atlantic, IA","Everly, IA",0,1,0,0,0,1,0,0,1,1,2010
+4676,"Atlantic, IA","Fairbank, IA",1,0,0,0,1,0,0,1,0,1,2010
+4678,"Atlantic, IA","Fairfield, IA",0,1,0,0,1,0,0,1,0,1,2010
+4680,"Atlantic, IA","Fayette, IA",1,0,0,0,0,1,1,0,0,1,2010
+4683,"Atlantic, IA","Fraser, IA",1,0,0,0,0,1,1,0,0,1,2010
+4684,"Atlantic, IA","Fruitland, IA",0,1,0,0,1,0,1,0,0,1,2010
+4685,"Atlantic, IA","Garner, IA",1,0,0,0,0,1,0,1,0,1,2010
+4688,"Atlantic, IA","Graettinger, IA",0,1,0,0,1,0,0,0,1,1,2010
+4689,"Atlantic, IA","Grand Junction, IA",0,1,0,0,1,0,0,1,0,1,2010
+4694,"Atlantic, IA","Gray, IA",0,1,0,0,1,0,1,0,0,1,2010
+4641,"Atlantic, IA","Crescent, IA",0,0,1,0,1,0,0,1,0,1,2010
+4639,"Atlantic, IA","Coulter, IA",0,1,0,0,0,1,0,0,1,1,2010
+4636,"Atlantic, IA","Coralville, IA",0,1,0,0,1,0,1,0,0,1,2010
+4598,"Atlantic, IA","Belmond, IA",0,0,1,0,0,1,1,0,0,1,2010
+4576,"Atlantic, IA","Adel, IA",0,0,1,0,0,1,1,0,0,1,2010
+4578,"Atlantic, IA","Agency, IA",1,0,0,0,1,0,1,0,0,1,2010
+4580,"Atlantic, IA","Albion, IA",1,0,0,0,1,0,1,0,0,1,2010
+4581,"Atlantic, IA","Alton, IA",0,1,0,0,1,0,0,0,1,1,2010
+4587,"Atlantic, IA","Arnolds Park, IA",0,1,0,0,1,0,0,1,0,1,2010
+4588,"Atlantic, IA","Asbury, IA",1,0,0,0,0,1,1,0,0,1,2010
+4589,"Atlantic, IA","Ashton, IA",1,0,0,0,0,1,1,0,0,1,2010
+4593,"Atlantic, IA","Aurora, IA",1,0,0,0,0,1,1,0,0,1,2010
+4596,"Atlantic, IA","Beaman, IA",1,0,0,0,0,1,1,0,0,1,2010
+4599,"Atlantic, IA","Bettendorf, IA",0,1,0,0,1,0,0,0,1,1,2010
+4634,"Atlantic, IA","Columbus Junction, IA",0,1,0,0,1,0,0,1,0,1,2010
+4601,"Atlantic, IA","Blanchard, IA",0,1,0,0,1,0,0,0,1,1,2010
+4603,"Atlantic, IA","Boxholm, IA",1,0,0,0,0,1,0,1,0,1,2010
+4604,"Atlantic, IA","Boyden, IA",1,0,0,0,0,1,0,0,1,1,2010
+4607,"Atlantic, IA","Buffalo Center, IA",0,0,1,0,1,0,1,0,0,1,2010
+4610,"Atlantic, IA","Cantril, IA",0,1,0,0,1,0,1,0,0,1,2010
+4616,"Atlantic, IA","Castalia, IA",1,0,0,0,1,0,0,1,0,1,2010
+4625,"Atlantic, IA","Cincinnati, IA",1,0,0,0,0,1,1,0,0,1,2010
+4632,"Atlantic, IA","Colfax, IA",0,1,0,0,1,0,0,0,1,1,2010
+4633,"Atlantic, IA","Colo, IA",1,0,0,0,1,0,0,0,1,1,2010
+4698,"Atlantic, IA","Grundy Center, IA",0,1,0,0,1,0,0,0,1,1,2010
+4704,"Atlantic, IA","Hanlontown, IA",0,1,0,0,1,0,0,1,0,1,2010
+4825,"Atlantic, IA","Parkersburg, IA",0,1,0,1,0,0,0,0,1,1,2010
+4706,"Atlantic, IA","Harris, IA",0,1,0,0,0,1,0,1,0,1,2010
+4771,"Atlantic, IA","Maxwell, IA",1,0,0,0,0,1,0,0,1,1,2010
+4772,"Atlantic, IA","McCausland, IA",0,0,1,0,1,0,0,0,1,1,2010
+4774,"Atlantic, IA","McIntire, IA",0,0,1,0,0,1,1,0,0,1,2010
+4778,"Atlantic, IA","Milton, IA",0,0,1,0,1,0,0,1,0,1,2010
+4781,"Atlantic, IA","Mitchellville, IA",0,1,0,0,0,1,0,1,0,1,2010
+4783,"Atlantic, IA","Monroe, IA",1,0,0,1,0,0,0,0,1,1,2010
+4784,"Atlantic, IA","Montezuma, IA",0,1,0,0,0,1,0,0,1,1,2010
+4786,"Atlantic, IA","Montour, IA",1,0,0,0,1,0,1,0,0,1,2010
+4788,"Atlantic, IA","Moorhead, IA",1,0,0,0,1,0,1,0,0,1,2010
+4790,"Atlantic, IA","Moulton, IA",0,0,1,0,1,0,0,1,0,1,2010
+4793,"Atlantic, IA","Moville, IA",0,1,0,0,0,1,0,1,0,1,2010
+4798,"Atlantic, IA","New Albin, IA",0,0,1,1,0,0,0,0,1,1,2010
+4799,"Atlantic, IA","New Hampton, IA",1,0,0,0,0,1,1,0,0,1,2010
+4800,"Atlantic, IA","New Hartford, IA",0,1,0,0,1,0,0,1,0,1,2010
+4801,"Atlantic, IA","New Market, IA",0,1,0,0,0,1,0,1,0,1,2010
+4802,"Atlantic, IA","Newell, IA",0,1,0,0,0,1,1,0,0,1,2010
+4806,"Atlantic, IA","North English, IA",0,1,0,0,1,0,0,1,0,1,2010
+4808,"Atlantic, IA","Northwood, IA",0,0,1,0,1,0,0,0,1,1,2010
+4811,"Atlantic, IA","Odebolt, IA",1,0,0,0,1,0,1,0,0,1,2010
+4813,"Atlantic, IA","Ogden, IA",1,0,0,0,1,0,0,0,1,1,2010
+4824,"Atlantic, IA","Panora, IA",0,0,1,0,0,1,0,1,0,1,2010
+4770,"Atlantic, IA","Maurice, IA",0,0,1,0,1,0,0,1,0,1,2010
+4767,"Atlantic, IA","Marysville, IA",1,0,0,0,0,1,0,1,0,1,2010
+4763,"Atlantic, IA","Marble Rock, IA",0,1,0,0,0,1,0,1,0,1,2010
+4735,"Atlantic, IA","Lake Mills, IA",0,1,0,0,1,0,0,0,1,1,2010
+4709,"Atlantic, IA","Havelock, IA",0,1,0,1,0,0,0,1,0,1,2010
+4710,"Atlantic, IA","Henderson, IA",0,1,0,0,1,0,0,0,1,1,2010
+4712,"Atlantic, IA","Hinton, IA",1,0,0,0,1,0,1,0,0,1,2010
+4713,"Atlantic, IA","Hull, IA",0,0,1,0,1,0,0,0,1,1,2010
+4718,"Atlantic, IA","Iowa Falls, IA",0,1,0,0,0,1,0,0,1,1,2010
+4719,"Atlantic, IA","Ireton, IA",0,1,0,0,1,0,0,1,0,1,2010
+4726,"Atlantic, IA","Kellogg, IA",0,1,0,0,0,1,0,1,0,1,2010
+4731,"Atlantic, IA","Knierim, IA",0,1,0,1,0,0,0,1,0,1,2010
+4734,"Atlantic, IA","Lake City, IA",1,0,0,0,0,1,1,0,0,1,2010
+4736,"Atlantic, IA","Lakota, IA",0,1,0,0,1,0,0,0,1,1,2010
+4754,"Atlantic, IA","Lynnville, IA",1,0,0,0,1,0,1,0,0,1,2010
+4738,"Atlantic, IA","Lansing, IA",0,0,1,0,1,0,1,0,0,1,2010
+4739,"Atlantic, IA","Larchwood, IA",1,0,0,0,1,0,0,1,0,1,2010
+4742,"Atlantic, IA","Lehigh, IA",0,1,0,0,0,1,1,0,0,1,2010
+4743,"Atlantic, IA","Lenox, IA",0,1,0,0,1,0,0,0,1,1,2010
+4746,"Atlantic, IA","Lidderdale, IA",0,1,0,0,1,0,0,1,0,1,2010
+4748,"Atlantic, IA","Little Rock, IA",1,0,0,0,1,0,1,0,0,1,2010
+4749,"Atlantic, IA","Little Sioux, IA",1,0,0,0,1,0,0,1,0,1,2010
+4751,"Atlantic, IA","Long Grove, IA",0,0,1,0,1,0,0,0,1,1,2010
+4753,"Atlantic, IA","Low Moor, IA",0,1,0,0,0,1,0,0,1,1,2010
+4925,"Atlantic, IA","Yetter, IA",0,1,0,0,1,0,0,1,0,1,2010

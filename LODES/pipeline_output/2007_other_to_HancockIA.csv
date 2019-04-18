@@ -1,0 +1,91 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+31941,"Hancock, IA","Oakland, IA",37,72,18,76,28,23,31,72,24,127,2007
+31914,"Hancock, IA","Hancock, IA",32,56,19,67,25,15,16,77,14,107,2007
+31895,"Hancock, IA","Council Bluffs, IA",29,23,7,56,1,2,1,39,19,59,2007
+31877,"Hancock, IA","Atlantic, IA",15,31,3,47,0,2,3,33,13,49,2007
+31888,"Hancock, IA","Carson, IA",12,17,6,22,8,5,10,18,7,35,2007
+31947,"Hancock, IA","Red Oak, IA",10,11,0,21,0,0,0,17,4,21,2007
+31927,"Hancock, IA","Lewis, IA",4,14,3,11,8,2,7,11,3,21,2007
+31909,"Hancock, IA","Grant, IA",3,7,3,8,4,1,0,11,2,13,2007
+31949,"Hancock, IA","Shelby, IA",6,3,2,9,1,1,0,10,1,11,2007
+31959,"Hancock, IA","Walnut, IA",4,7,0,7,1,3,0,5,6,11,2007
+31956,"Hancock, IA","Tennant, IA",0,4,3,4,1,2,2,2,3,7,2007
+31934,"Hancock, IA","McClelland, IA",1,5,1,4,3,0,1,1,5,7,2007
+31915,"Hancock, IA","Harlan, IA",0,5,1,5,1,0,1,4,1,6,2007
+31951,"Hancock, IA","Silver City, IA",3,2,1,2,2,2,3,2,1,6,2007
+31880,"Hancock, IA","Avoca, IA",0,5,0,3,1,1,0,3,2,5,2007
+31917,"Hancock, IA","Henderson, IA",2,1,1,1,2,1,0,4,0,4,2007
+31929,"Hancock, IA","Logan, IA",0,1,3,3,0,1,1,3,0,4,2007
+31950,"Hancock, IA","Shenandoah, IA",0,4,0,4,0,0,0,4,0,4,2007
+31931,"Hancock, IA","Magnolia, IA",0,4,0,4,0,0,0,4,0,4,2007
+31878,"Hancock, IA","Audubon, IA",1,3,0,2,0,2,0,2,2,4,2007
+31962,"Hancock, IA","Wiota, IA",0,4,0,4,0,0,0,2,2,4,2007
+31957,"Hancock, IA","Underwood, IA",0,4,0,4,0,0,0,4,0,4,2007
+31887,"Hancock, IA","Carroll, IA",1,0,3,1,2,1,1,2,1,4,2007
+31932,"Hancock, IA","Malvern, IA",2,1,0,2,1,0,1,2,0,3,2007
+31875,"Hancock, IA","Anita, IA",1,2,0,3,0,0,0,2,1,3,2007
+31924,"Hancock, IA","Kimballton, IA",1,1,1,1,1,1,1,2,0,3,2007
+31916,"Hancock, IA","Hastings, IA",1,2,0,2,1,0,1,1,1,3,2007
+31889,"Hancock, IA","Carter Lake, IA",2,0,1,2,0,1,1,1,1,3,2007
+31933,"Hancock, IA","Massena, IA",0,3,0,3,0,0,0,2,1,3,2007
+31937,"Hancock, IA","Minden, IA",1,2,0,2,0,1,2,1,0,3,2007
+31876,"Hancock, IA","Ankeny, IA",0,0,2,0,0,2,0,2,0,2,2007
+31905,"Hancock, IA","Exira, IA",1,0,1,0,0,2,0,1,1,2,2007
+31892,"Hancock, IA","Clive, IA",0,2,0,0,0,2,0,1,1,2,2007
+31896,"Hancock, IA","Craig, IA",2,0,0,1,1,0,0,1,1,2,2007
+31930,"Hancock, IA","Macedonia, IA",0,0,2,2,0,0,0,2,0,2,2007
+31935,"Hancock, IA","Meriden, IA",0,2,0,2,0,0,0,0,2,2,2007
+31898,"Hancock, IA","Cumberland, IA",1,1,0,1,1,0,0,2,0,2,2007
+31899,"Hancock, IA","Defiance, IA",1,1,0,1,0,1,1,1,0,2,2007
+31952,"Hancock, IA","Sioux City, IA",0,2,0,2,0,0,0,2,0,2,2007
+31943,"Hancock, IA","Pacific Junction, IA",0,2,0,0,1,1,1,1,0,2,2007
+31944,"Hancock, IA","Panama, IA",1,1,0,1,1,0,0,1,1,2,2007
+31900,"Hancock, IA","Denison, IA",1,1,0,1,0,1,0,1,1,2,2007
+31945,"Hancock, IA","Perry, IA",1,0,1,0,0,2,0,1,1,2,2007
+31938,"Hancock, IA","Missouri Valley, IA",0,1,1,1,0,1,0,2,0,2,2007
+31901,"Hancock, IA","Des Moines, IA",0,0,2,0,0,2,0,1,1,2,2007
+31936,"Hancock, IA","Minburn, IA",1,0,0,0,0,1,1,0,0,1,2007
+31953,"Hancock, IA","Spencer, IA",0,0,1,0,0,1,0,1,0,1,2007
+31942,"Hancock, IA","Ottumwa, IA",0,1,0,0,0,1,0,1,0,1,2007
+31939,"Hancock, IA","New Sharon, IA",1,0,0,1,0,0,0,0,1,1,2007
+31940,"Hancock, IA","Newton, IA",0,0,1,1,0,0,0,0,1,1,2007
+31961,"Hancock, IA","Westside, IA",1,0,0,0,0,1,0,1,0,1,2007
+31960,"Hancock, IA","Webster, IA",0,1,0,0,0,1,0,1,0,1,2007
+31958,"Hancock, IA","University Park, IA",1,0,0,0,0,1,0,1,0,1,2007
+31946,"Hancock, IA","Pleasant Hill, IA",1,0,0,0,0,1,0,1,0,1,2007
+31948,"Hancock, IA","Sac City, IA",0,1,0,0,1,0,0,1,0,1,2007
+31955,"Hancock, IA","Storm Lake, IA",0,1,0,1,0,0,0,1,0,1,2007
+31954,"Hancock, IA","Spirit Lake, IA",0,1,0,1,0,0,0,1,0,1,2007
+31874,"Hancock, IA","Adair, IA",1,0,0,1,0,0,0,0,1,1,2007
+31919,"Hancock, IA","Hillsboro, IA",1,0,0,1,0,0,0,1,0,1,2007
+31928,"Hancock, IA","Little Sioux, IA",0,1,0,1,0,0,0,1,0,1,2007
+31903,"Hancock, IA","Eagle Grove, IA",0,1,0,0,0,1,0,1,0,1,2007
+31879,"Hancock, IA","Aurelia, IA",0,1,0,0,0,1,0,0,1,1,2007
+31881,"Hancock, IA","Belle Plaine, IA",0,1,0,0,0,1,0,0,1,1,2007
+31882,"Hancock, IA","Blakesburg, IA",0,1,0,0,0,1,1,0,0,1,2007
+31883,"Hancock, IA","Brayton, IA",1,0,0,1,0,0,1,0,0,1,2007
+31884,"Hancock, IA","Buck Grove, IA",0,1,0,1,0,0,0,1,0,1,2007
+31885,"Hancock, IA","Bussey, IA",1,0,0,1,0,0,0,1,0,1,2007
+31886,"Hancock, IA","Callender, IA",1,0,0,1,0,0,1,0,0,1,2007
+31890,"Hancock, IA","Chariton, IA",1,0,0,1,0,0,0,1,0,1,2007
+31891,"Hancock, IA","Charles City, IA",0,0,1,1,0,0,0,0,1,1,2007
+31893,"Hancock, IA","Colo, IA",0,1,0,0,0,1,0,0,1,1,2007
+31894,"Hancock, IA","Coon Rapids, IA",0,1,0,0,1,0,0,1,0,1,2007
+31897,"Hancock, IA","Crescent, IA",0,1,0,0,1,0,0,1,0,1,2007
+31902,"Hancock, IA","Dunlap, IA",0,1,0,1,0,0,0,1,0,1,2007
+31904,"Hancock, IA","Elliott, IA",0,0,1,0,1,0,1,0,0,1,2007
+31926,"Hancock, IA","Leon, IA",1,0,0,1,0,0,0,1,0,1,2007
+31906,"Hancock, IA","Ferguson, IA",0,1,0,0,0,1,0,1,0,1,2007
+31907,"Hancock, IA","Fort Dodge, IA",1,0,0,1,0,0,1,0,0,1,2007
+31908,"Hancock, IA","Glenwood, IA",0,1,0,1,0,0,0,0,1,1,2007
+31910,"Hancock, IA","Gravity, IA",0,1,0,0,0,1,0,1,0,1,2007
+31911,"Hancock, IA","Gray, IA",0,0,1,0,0,1,0,1,0,1,2007
+31912,"Hancock, IA","Guernsey, IA",1,0,0,1,0,0,0,0,1,1,2007
+31913,"Hancock, IA","Hamburg, IA",0,0,1,0,0,1,0,1,0,1,2007
+31918,"Hancock, IA","Hiawatha, IA",0,1,0,0,0,1,0,1,0,1,2007
+31920,"Hancock, IA","Hubbard, IA",1,0,0,1,0,0,0,0,1,1,2007
+31921,"Hancock, IA","Irwin, IA",0,1,0,0,0,1,0,0,1,1,2007
+31922,"Hancock, IA","Kellerton, IA",0,0,1,0,0,1,1,0,0,1,2007
+31923,"Hancock, IA","Kellogg, IA",0,0,1,0,0,1,1,0,0,1,2007
+31925,"Hancock, IA","Lamoni, IA",0,0,1,0,0,1,0,1,0,1,2007
+31963,"Hancock, IA","Yetter, IA",1,0,0,1,0,0,0,1,0,1,2007

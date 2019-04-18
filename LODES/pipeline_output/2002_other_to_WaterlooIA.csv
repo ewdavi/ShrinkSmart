@@ -1,0 +1,305 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+49981,"Waterloo, IA","Waterloo, IA",4120,8442,1926,2572,9637,2279,5011,6886,2591,14488,2002
+49736,"Waterloo, IA","Cedar Falls, IA",1588,3083,625,1070,3453,773,1521,2242,1533,5296,2002
+49786,"Waterloo, IA","Evansdale, IA",631,1398,273,461,1460,381,764,1076,462,2302,2002
+49779,"Waterloo, IA","Elk Run Heights, IA",229,547,110,184,549,153,254,482,150,886,2002
+49764,"Waterloo, IA","Denver, IA",195,495,102,243,425,124,173,371,248,792,2002
+49985,"Waterloo, IA","Waverly, IA",192,385,71,120,436,92,175,304,169,648,2002
+49866,"Waterloo, IA","Mason City, IA",282,278,75,50,307,278,314,220,101,635,2002
+49921,"Waterloo, IA","Raymond, IA",104,335,80,110,302,107,141,290,88,519,2002
+49839,"Waterloo, IA","La Porte City, IA",131,308,65,71,329,104,141,274,89,504,2002
+49908,"Waterloo, IA","Parkersburg, IA",121,280,56,95,275,87,108,272,77,457,2002
+49826,"Waterloo, IA","Indianola, IA",167,225,53,64,248,133,170,164,111,445,2002
+49831,"Waterloo, IA","Janesville, IA",121,239,64,115,247,62,111,170,143,424,2002
+49768,"Waterloo, IA","Dubuque, IA",206,124,29,52,119,188,195,82,82,359,2002
+49737,"Waterloo, IA","Cedar Rapids, IA",178,138,34,25,27,298,188,101,61,350,2002
+49754,"Waterloo, IA","Council Bluffs, IA",160,147,39,17,228,101,187,115,44,346,2002
+49922,"Waterloo, IA","Readlyn, IA",84,185,22,106,139,46,50,157,84,291,2002
+49722,"Waterloo, IA","Bettendorf, IA",118,132,16,52,117,97,128,87,51,266,2002
+49881,"Waterloo, IA","Mount Auburn, IA",64,158,36,51,160,47,62,152,44,258,2002
+49825,"Waterloo, IA","Independence, IA",56,134,36,27,159,40,49,108,69,226,2002
+49925,"Waterloo, IA","Reinbeck, IA",52,151,23,47,150,29,49,115,62,226,2002
+49787,"Waterloo, IA","Fairbank, IA",61,141,23,56,130,39,55,120,50,225,2002
+49880,"Waterloo, IA","Morrison, IA",58,122,18,34,136,28,61,100,37,198,2002
+49888,"Waterloo, IA","New Hartford, IA",44,132,18,53,108,33,42,105,47,194,2002
+49828,"Waterloo, IA","Iowa City, IA",135,50,4,9,36,144,118,40,31,189,2002
+49938,"Waterloo, IA","Shell Rock, IA",51,115,21,54,87,46,49,96,42,187,2002
+49832,"Waterloo, IA","Jesup, IA",43,129,14,40,113,33,39,107,40,186,2002
+49863,"Waterloo, IA","Marshalltown, IA",81,67,24,10,91,71,94,60,18,172,2002
+49900,"Waterloo, IA","Oelwein, IA",40,94,24,41,80,37,48,77,33,158,2002
+49883,"Waterloo, IA","Muscatine, IA",67,68,22,5,72,80,88,56,13,157,2002
+49823,"Waterloo, IA","Hudson, IA",31,103,22,34,99,23,42,67,47,156,2002
+49709,"Waterloo, IA","Asbury, IA",89,51,11,37,91,23,87,20,44,151,2002
+49850,"Waterloo, IA","Lincoln, IA",36,104,11,38,86,27,35,73,43,151,2002
+49731,"Waterloo, IA","Carlisle, IA",51,82,15,23,63,62,63,41,44,148,2002
+49807,"Waterloo, IA","Grundy Center, IA",30,94,23,14,119,14,35,79,33,147,2002
+49905,"Waterloo, IA","Palo, IA",57,67,12,12,92,32,51,67,18,136,2002
+49988,"Waterloo, IA","Wellsburg, IA",38,77,12,16,95,16,36,69,22,127,2002
+49965,"Waterloo, IA","Traer, IA",35,73,16,23,80,21,38,65,21,124,2002
+49897,"Waterloo, IA","Norwalk, IA",50,62,11,30,39,54,46,38,39,123,2002
+49788,"Waterloo, IA","Fairfax, IA",26,80,12,5,50,63,32,71,15,118,2002
+49838,"Waterloo, IA","Knoxville, IA",55,47,9,12,13,86,47,45,19,111,2002
+49795,"Waterloo, IA","Frederika, IA",26,73,9,42,53,13,19,50,39,108,2002
+49771,"Waterloo, IA","Dysart, IA",10,85,10,18,72,15,16,60,29,105,2002
+49770,"Waterloo, IA","Dyersville, IA",50,45,7,15,80,7,24,44,34,102,2002
+49958,"Waterloo, IA","Sumner, IA",39,44,16,16,57,26,26,57,16,99,2002
+49769,"Waterloo, IA","Dunkerton, IA",28,62,9,28,61,10,15,56,28,99,2002
+49766,"Waterloo, IA","Dike, IA",27,65,7,14,69,16,24,50,25,99,2002
+49696,"Waterloo, IA","Ackley, IA",31,48,13,18,53,21,32,40,20,92,2002
+49901,"Waterloo, IA","Ottumwa, IA",38,41,11,38,20,32,32,23,35,90,2002
+49799,"Waterloo, IA","Gilbertville, IA",28,48,9,21,53,11,15,46,24,85,2002
+49896,"Waterloo, IA","North Liberty, IA",54,23,7,4,66,14,49,21,14,84,2002
+49721,"Waterloo, IA","Bertram, IA",30,45,9,5,73,6,19,57,8,84,2002
+49907,"Waterloo, IA","Panorama Park, IA",23,50,10,44,31,8,22,17,44,83,2002
+49887,"Waterloo, IA","New Hampton, IA",30,42,8,10,56,14,38,27,15,80,2002
+49950,"Waterloo, IA","St. Marys, IA",20,56,4,8,60,12,20,48,12,80,2002
+49697,"Waterloo, IA","Ackworth, IA",18,52,7,11,49,17,25,33,19,77,2002
+49948,"Waterloo, IA","Springville, IA",30,37,8,7,52,16,35,19,21,75,2002
+49946,"Waterloo, IA","Spring Hill, IA",28,34,12,12,36,26,31,26,17,74,2002
+49818,"Waterloo, IA","Hazleton, IA",23,44,7,17,42,15,13,41,20,74,2002
+49971,"Waterloo, IA","Urbana, IA",29,29,13,13,39,19,32,19,20,71,2002
+49910,"Waterloo, IA","Pella, IA",33,24,7,7,4,53,31,20,13,64,2002
+49733,"Waterloo, IA","Carter Lake, IA",33,24,7,3,25,36,34,23,7,64,2002
+49774,"Waterloo, IA","Elberon, IA",10,47,7,10,48,6,11,34,19,64,2002
+49934,"Waterloo, IA","Sageville, IA",26,35,1,18,16,28,26,13,23,62,2002
+49851,"Waterloo, IA","Lisbon, IA",12,33,16,3,31,27,18,29,14,61,2002
+49739,"Waterloo, IA","Center Point, IA",31,21,8,6,47,7,45,6,9,60,2002
+49966,"Waterloo, IA","Tripoli, IA",13,42,4,20,28,11,15,34,10,59,2002
+49716,"Waterloo, IA","Balltown, IA",15,36,5,2,47,7,10,42,4,56,2002
+49912,"Waterloo, IA","Plainfield, IA",19,31,4,13,32,9,14,28,12,54,2002
+49904,"Waterloo, IA","Oxford, IA",23,22,6,3,41,7,25,18,8,51,2002
+49861,"Waterloo, IA","Marion, IA",24,20,7,2,42,7,10,30,11,51,2002
+49911,"Waterloo, IA","Peosta, IA",17,25,6,28,18,2,16,5,27,48,2002
+49783,"Waterloo, IA","Ely, IA",18,22,8,1,9,38,20,22,6,48,2002
+49864,"Waterloo, IA","Martelle, IA",14,26,6,4,29,13,25,6,15,46,2002
+49745,"Waterloo, IA","Clutier, IA",9,29,8,2,37,7,11,30,5,46,2002
+49829,"Waterloo, IA","Iowa Falls, IA",13,23,10,9,20,17,14,17,15,46,2002
+49870,"Waterloo, IA","Melcher-Dallas, IA",20,23,1,3,7,34,19,14,11,44,2002
+49789,"Waterloo, IA","Farley, IA",8,29,6,26,12,5,12,5,26,43,2002
+49986,"Waterloo, IA","Webb, IA",20,13,5,2,33,3,23,10,5,38,2002
+49762,"Waterloo, IA","Decorah, IA",15,19,3,2,25,10,16,16,5,37,2002
+49940,"Waterloo, IA","Shueyville, IA",10,19,7,2,29,5,12,23,1,36,2002
+49935,"Waterloo, IA","Sandyville, IA",11,23,2,2,25,9,13,15,8,36,2002
+49854,"Waterloo, IA","Luana, IA",13,15,7,11,9,15,10,15,10,35,2002
+49703,"Waterloo, IA","Allison, IA",13,20,2,11,19,5,12,14,9,35,2002
+49984,"Waterloo, IA","Waukon, IA",16,11,6,0,24,9,19,11,3,33,2002
+49806,"Waterloo, IA","Grinnell, IA",10,16,6,6,13,13,12,11,9,32,2002
+49902,"Waterloo, IA","Owasa, IA",6,17,8,2,21,8,8,11,12,31,2002
+49975,"Waterloo, IA","Vinton, IA",13,14,4,0,21,10,9,16,6,31,2002
+49724,"Waterloo, IA","Blakesburg, IA",2,28,1,28,2,1,3,3,25,31,2002
+49877,"Waterloo, IA","Monticello, IA",11,12,8,3,16,12,10,12,9,31,2002
+49742,"Waterloo, IA","Clarinda, IA",24,4,2,1,1,28,24,3,3,30,2002
+49929,"Waterloo, IA","Riverside, IA",12,13,5,0,30,0,8,16,6,30,2002
+49840,"Waterloo, IA","Lacona, IA",13,11,5,5,17,7,10,15,4,29,2002
+49959,"Waterloo, IA","Swan, IA",16,11,2,6,13,10,11,7,11,29,2002
+49720,"Waterloo, IA","Bellevue, IA",1,23,4,1,23,4,10,12,6,28,2002
+49956,"Waterloo, IA","Strawberry Point, IA",10,13,5,7,17,4,13,7,8,28,2002
+49729,"Waterloo, IA","Bristow, IA",7,14,5,7,18,1,11,14,1,26,2002
+49700,"Waterloo, IA","Albert City, IA",11,12,3,1,16,9,13,7,6,26,2002
+49794,"Waterloo, IA","Fredericksburg, IA",6,17,3,3,20,3,7,13,6,26,2002
+49991,"Waterloo, IA","West Union, IA",9,12,4,5,15,5,9,5,11,25,2002
+49798,"Waterloo, IA","Garwin, IA",12,10,3,4,11,10,13,10,2,25,2002
+49964,"Waterloo, IA","Toledo, IA",8,10,7,2,16,7,14,5,6,25,2002
+49784,"Waterloo, IA","Epworth, IA",2,17,5,14,7,3,6,3,15,24,2002
+49947,"Waterloo, IA","Springbrook, IA",4,17,3,0,22,2,6,14,4,24,2002
+49999,"Waterloo, IA","Zwingle, IA",3,16,4,12,8,3,3,12,8,23,2002
+49776,"Waterloo, IA","Eldora, IA",1,15,7,0,14,9,9,13,1,23,2002
+49894,"Waterloo, IA","Nichols, IA",21,0,1,2,0,20,20,0,2,22,2002
+49852,"Waterloo, IA","Liscomb, IA",10,10,2,0,12,10,13,8,1,22,2002
+49924,"Waterloo, IA","Red Oak, IA",19,3,0,0,0,22,21,0,1,22,2002
+49740,"Waterloo, IA","Central City, IA",7,15,0,6,15,1,11,3,8,22,2002
+49913,"Waterloo, IA","Pleasantville, IA",9,7,6,2,2,18,7,9,6,22,2002
+49976,"Waterloo, IA","Wadena, IA",7,9,5,2,10,9,9,6,6,21,2002
+49859,"Waterloo, IA","Maquoketa, IA",2,14,5,9,7,5,4,15,2,21,2002
+49891,"Waterloo, IA","New Vienna, IA",9,8,3,7,11,2,1,11,8,20,2002
+49882,"Waterloo, IA","Mount Vernon, IA",1,17,2,3,17,0,4,13,3,20,2002
+49715,"Waterloo, IA","Baldwin, IA",4,13,2,3,13,3,6,9,4,19,2002
+49719,"Waterloo, IA","Belle Plaine, IA",11,5,3,3,11,5,9,10,0,19,2002
+49815,"Waterloo, IA","Harvey, IA",11,6,2,0,4,15,10,2,7,19,2002
+49952,"Waterloo, IA","Stanley, IA",4,15,0,1,14,4,4,6,9,19,2002
+49884,"Waterloo, IA","Nashua, IA",8,9,2,7,8,4,11,5,3,19,2002
+49747,"Waterloo, IA","Coggon, IA",11,7,1,0,15,4,16,2,1,19,2002
+49920,"Waterloo, IA","Randalia, IA",7,7,4,1,13,4,8,4,6,18,2002
+49706,"Waterloo, IA","Anamosa, IA",7,9,2,1,11,6,9,7,2,18,2002
+49767,"Waterloo, IA","Dougherty, IA",6,12,0,7,6,5,7,9,2,18,2002
+49917,"Waterloo, IA","Preston, IA",2,14,2,1,17,0,5,11,2,18,2002
+49939,"Waterloo, IA","Shenandoah, IA",15,1,0,0,0,16,15,0,1,16,2002
+49937,"Waterloo, IA","Shelby, IA",6,9,1,0,0,16,8,8,0,16,2002
+49967,"Waterloo, IA","Truesdale, IA",10,3,3,3,12,1,11,5,0,16,2002
+49813,"Waterloo, IA","Harpers Ferry, IA",4,10,2,3,8,5,5,3,8,16,2002
+49757,"Waterloo, IA","Cresco, IA",3,12,1,1,13,2,4,12,0,16,2002
+49933,"Waterloo, IA","Sabula, IA",2,9,4,4,9,2,4,7,4,15,2002
+49961,"Waterloo, IA","Tama, IA",2,11,2,3,7,5,3,9,3,15,2002
+49865,"Waterloo, IA","Marysville, IA",6,8,1,3,3,9,10,2,3,15,2002
+49878,"Waterloo, IA","Montour, IA",5,8,2,2,7,6,6,6,3,15,2002
+49800,"Waterloo, IA","Gilman, IA",8,5,2,2,6,7,6,4,5,15,2002
+49751,"Waterloo, IA","Conrad, IA",5,9,1,0,13,2,5,9,1,15,2002
+49980,"Waterloo, IA","Washington, IA",6,5,4,0,9,6,8,5,2,15,2002
+49809,"Waterloo, IA","Guttenberg, IA",10,1,4,0,5,10,12,3,0,15,2002
+49977,"Waterloo, IA","Walford, IA",4,11,0,1,8,6,7,2,6,15,2002
+49727,"Waterloo, IA","Brandon, IA",3,11,0,2,8,4,4,7,3,14,2002
+49743,"Waterloo, IA","Clarksville, IA",6,7,1,4,7,3,3,8,3,14,2002
+49756,"Waterloo, IA","Crescent, IA",7,7,0,0,0,14,8,6,0,14,2002
+49734,"Waterloo, IA","Cascade, IA",5,7,2,7,7,0,3,3,8,14,2002
+49928,"Waterloo, IA","Riverdale, IA",12,0,2,6,1,7,7,1,6,14,2002
+49723,"Waterloo, IA","Blairstown, IA",2,8,4,2,10,2,0,13,1,14,2002
+49805,"Waterloo, IA","Greene, IA",5,6,2,0,9,4,1,11,1,13,2002
+49886,"Waterloo, IA","New Albin, IA",7,5,1,0,8,5,5,5,3,13,2002
+49945,"Waterloo, IA","Solon, IA",4,7,2,0,2,11,5,5,3,13,2002
+49978,"Waterloo, IA","Walker, IA",5,8,0,3,4,6,3,7,3,13,2002
+49996,"Waterloo, IA","Winthrop, IA",2,8,3,1,4,8,2,7,4,13,2002
+49916,"Waterloo, IA","Prairieburg, IA",9,3,1,1,11,1,10,2,1,13,2002
+49970,"Waterloo, IA","University Heights, IA",12,1,0,0,0,13,7,5,1,13,2002
+49926,"Waterloo, IA","Rhodes, IA",3,7,2,0,8,4,6,5,1,12,2002
+49698,"Waterloo, IA","Agency, IA",3,9,0,11,1,0,1,0,11,12,2002
+49995,"Waterloo, IA","Winterset, IA",8,3,1,0,1,11,8,2,2,12,2002
+49997,"Waterloo, IA","Worthington, IA",7,4,1,3,6,3,6,3,3,12,2002
+49871,"Waterloo, IA","Millville, IA",2,8,2,0,9,3,1,8,3,12,2002
+49735,"Waterloo, IA","Castalia, IA",6,5,1,1,5,6,8,3,1,12,2002
+49713,"Waterloo, IA","Aurora, IA",1,8,3,1,9,2,1,7,4,12,2002
+49792,"Waterloo, IA","Ferguson, IA",3,7,1,0,8,3,4,4,3,11,2002
+49855,"Waterloo, IA","Lynnville, IA",5,5,1,1,8,2,5,3,3,11,2002
+49968,"Waterloo, IA","Underwood, IA",7,4,0,0,0,11,5,5,1,11,2002
+49953,"Waterloo, IA","Stanton, IA",9,2,0,0,0,11,10,0,1,11,2002
+49943,"Waterloo, IA","Sioux Rapids, IA",6,3,2,0,7,4,6,2,3,11,2002
+49955,"Waterloo, IA","Steamboat Rock, IA",3,6,2,1,8,2,4,5,2,11,2002
+49732,"Waterloo, IA","Carson, IA",1,8,1,0,0,10,6,3,1,10,2002
+49704,"Waterloo, IA","Alta Vista, IA",1,9,0,1,8,1,3,5,2,10,2002
+49860,"Waterloo, IA","Marengo, IA",4,4,2,0,5,5,1,7,2,10,2002
+49899,"Waterloo, IA","Oakland, IA",2,7,1,1,2,7,7,3,0,10,2002
+49893,"Waterloo, IA","Newton, IA",1,9,0,2,0,8,2,0,8,10,2002
+49820,"Waterloo, IA","Hills, IA",0,10,0,0,10,0,3,3,4,10,2002
+49801,"Waterloo, IA","Graf, IA",2,7,1,6,3,1,3,1,6,10,2002
+49845,"Waterloo, IA","Lawler, IA",2,8,0,3,6,1,3,6,1,10,2002
+49873,"Waterloo, IA","Minden, IA",2,7,0,0,2,7,2,5,2,9,2002
+49718,"Waterloo, IA","Beaman, IA",1,7,1,1,7,1,3,2,4,9,2002
+49707,"Waterloo, IA","Andrew, IA",0,6,3,2,7,0,1,6,2,9,2002
+49752,"Waterloo, IA","Coralville, IA",3,4,2,1,0,8,1,5,3,9,2002
+49858,"Waterloo, IA","Malcom, IA",2,5,2,0,1,8,2,2,5,9,2002
+49847,"Waterloo, IA","Le Grand, IA",6,2,1,1,2,6,3,3,3,9,2002
+49963,"Waterloo, IA","Tiffin, IA",6,3,0,0,6,3,5,4,0,9,2002
+49746,"Waterloo, IA","Coburg, IA",9,0,0,0,0,9,8,0,1,9,2002
+49819,"Waterloo, IA","Henderson, IA",2,5,2,0,1,8,1,6,2,9,2002
+49812,"Waterloo, IA","Harlan, IA",1,8,0,4,4,1,0,8,1,9,2002
+49906,"Waterloo, IA","Panama, IA",0,5,3,0,7,1,3,3,2,8,2002
+49890,"Waterloo, IA","New Sharon, IA",3,3,2,2,2,4,3,1,4,8,2002
+49711,"Waterloo, IA","Atkins, IA",1,4,3,2,4,2,3,1,4,8,2002
+49701,"Waterloo, IA","Albion, IA",4,4,0,0,4,4,5,2,1,8,2002
+49730,"Waterloo, IA","Brooklyn, IA",2,5,1,0,3,5,4,1,3,8,2002
+49772,"Waterloo, IA","East Peru, IA",3,2,3,0,1,7,4,2,2,8,2002
+49796,"Waterloo, IA","Fruitland, IA",4,1,2,0,0,7,5,2,0,7,2002
+49962,"Waterloo, IA","Tennant, IA",0,6,1,1,6,0,2,4,1,7,2002
+49811,"Waterloo, IA","Hancock, IA",1,5,1,1,2,4,1,5,1,7,2002
+49853,"Waterloo, IA","Lone Tree, IA",1,5,1,1,4,2,1,3,3,7,2002
+49972,"Waterloo, IA","Van Horne, IA",3,3,1,2,4,1,0,4,3,7,2002
+49708,"Waterloo, IA","Arlington, IA",1,4,1,1,5,0,2,2,2,6,2002
+49909,"Waterloo, IA","Parnell, IA",3,2,1,2,3,1,5,0,1,6,2002
+49987,"Waterloo, IA","Wellman, IA",3,1,2,1,3,2,3,3,0,6,2002
+49738,"Waterloo, IA","Center Junction, IA",3,1,2,2,4,0,3,0,3,6,2002
+49914,"Waterloo, IA","Postville, IA",1,4,1,4,1,1,1,3,2,6,2002
+49919,"Waterloo, IA","Protivin, IA",2,4,0,0,4,2,1,1,4,6,2002
+49714,"Waterloo, IA","Avoca, IA",1,5,0,1,0,5,1,4,1,6,2002
+49969,"Waterloo, IA","Union, IA",1,5,0,0,5,1,2,3,1,6,2002
+49848,"Waterloo, IA","Lewis, IA",0,6,0,0,2,4,4,2,0,6,2002
+49857,"Waterloo, IA","Macksburg, IA",5,1,0,0,1,5,2,3,1,6,2002
+49822,"Waterloo, IA","Hubbard, IA",3,3,0,0,5,1,5,0,1,6,2002
+49777,"Waterloo, IA","Elgin, IA",1,2,3,1,2,3,1,2,3,6,2002
+49793,"Waterloo, IA","Fort Atkinson, IA",6,0,0,0,6,0,3,3,0,6,2002
+49753,"Waterloo, IA","Corydon, IA",2,3,1,1,3,2,1,3,2,6,2002
+49761,"Waterloo, IA","De Witt, IA",0,6,0,3,0,3,0,0,6,6,2002
+49759,"Waterloo, IA","Davenport, IA",0,5,0,0,0,5,0,0,5,5,2002
+49808,"Waterloo, IA","Guernsey, IA",2,0,3,1,3,1,4,1,0,5,2002
+49780,"Waterloo, IA","Elkport, IA",0,1,4,0,5,0,2,2,1,5,2002
+49979,"Waterloo, IA","Walnut, IA",1,4,0,0,0,5,1,3,1,5,2002
+49879,"Waterloo, IA","Morley, IA",1,4,0,1,1,3,3,1,1,5,2002
+49862,"Waterloo, IA","Marquette, IA",1,4,0,0,0,5,2,3,0,5,2002
+49791,"Waterloo, IA","Fayette, IA",3,1,1,2,2,1,2,2,1,5,2002
+49889,"Waterloo, IA","New Market, IA",3,2,0,0,0,5,5,0,0,5,2002
+49993,"Waterloo, IA","Williamsburg, IA",2,2,1,1,3,1,4,1,0,5,2002
+49867,"Waterloo, IA","McClelland, IA",0,5,0,0,0,5,2,1,2,5,2002
+49927,"Waterloo, IA","Ridgeway, IA",2,2,0,1,1,2,2,1,1,4,2002
+49833,"Waterloo, IA","Kalona, IA",4,0,0,0,2,2,4,0,0,4,2002
+49778,"Waterloo, IA","Elk Horn, IA",0,2,2,1,3,0,2,1,1,4,2002
+49844,"Waterloo, IA","Lansing, IA",3,1,0,2,2,0,2,2,0,4,2002
+49936,"Waterloo, IA","Sergeant Bluff, IA",0,3,1,0,0,4,0,1,3,4,2002
+49725,"Waterloo, IA","Blanchard, IA",2,1,1,0,0,4,3,1,0,4,2002
+49817,"Waterloo, IA","Hawkeye, IA",1,2,1,0,3,1,1,3,0,4,2002
+49816,"Waterloo, IA","Haverhill, IA",1,3,0,0,3,1,1,3,0,4,2002
+49705,"Waterloo, IA","Ames, IA",1,3,0,0,0,4,0,1,3,4,2002
+49885,"Waterloo, IA","Nevada, IA",2,1,1,1,0,3,0,0,4,4,2002
+49895,"Waterloo, IA","North English, IA",0,2,2,1,1,2,1,2,1,4,2002
+49744,"Waterloo, IA","Clio, IA",1,3,0,1,2,1,1,0,3,4,2002
+49892,"Waterloo, IA","Newell, IA",1,0,3,0,2,2,2,2,0,4,2002
+49830,"Waterloo, IA","Irwin, IA",0,3,0,1,2,0,0,1,2,3,2002
+49941,"Waterloo, IA","Silver City, IA",2,1,0,0,0,3,0,2,1,3,2002
+49849,"Waterloo, IA","Lime Springs, IA",2,1,0,0,2,1,1,2,0,3,2002
+49775,"Waterloo, IA","Eldon, IA",0,3,0,0,1,2,0,3,0,3,2002
+49960,"Waterloo, IA","Swisher, IA",0,3,0,0,1,2,0,3,0,3,2002
+49994,"Waterloo, IA","Wilton, IA",3,0,0,0,2,1,0,2,1,3,2002
+49781,"Waterloo, IA","Elliott, IA",3,0,0,0,0,3,3,0,0,3,2002
+49797,"Waterloo, IA","Garnavillo, IA",1,2,0,0,3,0,1,2,0,3,2002
+49834,"Waterloo, IA","Keystone, IA",1,0,2,0,1,2,1,1,1,3,2002
+49898,"Waterloo, IA","Norway, IA",2,1,0,0,2,1,2,0,1,3,2002
+49949,"Waterloo, IA","St. Lucas, IA",3,0,0,0,3,0,1,2,0,3,2002
+49875,"Waterloo, IA","Monroe, IA",1,2,0,0,0,3,1,1,1,3,2002
+49760,"Waterloo, IA","De Soto, IA",1,2,0,0,1,2,0,2,1,3,2002
+49876,"Waterloo, IA","Montezuma, IA",3,0,0,0,2,1,3,0,0,3,2002
+49874,"Waterloo, IA","Monona, IA",2,0,1,0,2,1,1,2,0,3,2002
+49726,"Waterloo, IA","Braddyville, IA",2,1,0,0,0,3,1,2,0,3,2002
+49923,"Waterloo, IA","Reasnor, IA",2,1,0,0,1,2,0,1,2,3,2002
+49835,"Waterloo, IA","Kimballton, IA",1,1,0,0,2,0,0,2,0,2,2002
+49765,"Waterloo, IA","Dexter, IA",1,1,0,0,1,1,0,1,1,2,2002
+49699,"Waterloo, IA","Ainsworth, IA",1,0,1,0,1,1,1,1,0,2,2002
+49710,"Waterloo, IA","Atalissa, IA",2,0,0,0,0,2,0,0,2,2,2002
+49755,"Waterloo, IA","Crawfordsville, IA",1,0,1,0,0,2,1,1,0,2,2002
+49837,"Waterloo, IA","Kirkman, IA",0,2,0,2,0,0,0,2,0,2,2002
+49702,"Waterloo, IA","Alden, IA",0,2,0,1,1,0,0,1,1,2,2002
+49983,"Waterloo, IA","Waukee, IA",1,1,0,0,0,2,0,0,2,2,2002
+49918,"Waterloo, IA","Promise City, IA",0,2,0,0,1,1,0,2,0,2,2002
+49973,"Waterloo, IA","Victor, IA",0,1,1,0,2,0,0,1,1,2,2002
+49741,"Waterloo, IA","Chester, IA",2,0,0,0,2,0,2,0,0,2,2002
+49827,"Waterloo, IA","Ionia, IA",0,2,0,0,2,0,0,2,0,2,2002
+49954,"Waterloo, IA","State Center, IA",2,0,0,0,0,2,2,0,0,2,2002
+49992,"Waterloo, IA","Whitten, IA",0,2,0,0,1,1,1,1,0,2,2002
+49856,"Waterloo, IA","Macedonia, IA",1,1,0,0,0,2,2,0,0,2,2002
+49841,"Waterloo, IA","Ladora, IA",1,1,0,0,1,1,1,1,0,2,2002
+49750,"Waterloo, IA","Colwell, IA",0,2,0,1,1,0,0,1,1,2,2002
+49843,"Waterloo, IA","Lambs Grove, IA",1,1,0,0,0,2,0,0,2,2,2002
+49728,"Waterloo, IA","Brighton, IA",1,1,0,0,1,1,2,0,0,2,2002
+49931,"Waterloo, IA","Roland, IA",0,2,0,0,0,2,2,0,0,2,2002
+49942,"Waterloo, IA","Sioux City, IA",0,2,0,0,0,2,0,0,2,2,2002
+49802,"Waterloo, IA","Granger, IA",0,0,1,0,0,1,0,1,0,1,2002
+49758,"Waterloo, IA","Cushing, IA",0,1,0,0,0,1,0,0,1,1,2002
+49998,"Waterloo, IA","Wyoming, IA",1,0,0,0,1,0,1,0,0,1,2002
+49982,"Waterloo, IA","Waucoma, IA",1,0,0,0,1,0,1,0,0,1,2002
+49810,"Waterloo, IA","Hamburg, IA",1,0,0,0,0,1,0,0,1,1,2002
+49803,"Waterloo, IA","Grant, IA",1,0,0,0,0,1,1,0,0,1,2002
+49814,"Waterloo, IA","Hartwick, IA",0,1,0,0,1,0,0,1,0,1,2002
+49804,"Waterloo, IA","Greeley, IA",1,0,0,0,0,1,1,0,0,1,2002
+49748,"Waterloo, IA","Colfax, IA",0,0,1,0,0,1,1,0,0,1,2002
+49903,"Waterloo, IA","Oxford Junction, IA",1,0,0,0,1,0,1,0,0,1,2002
+49989,"Waterloo, IA","West Chester, IA",0,1,0,0,1,0,1,0,0,1,2002
+49990,"Waterloo, IA","West Liberty, IA",1,0,0,0,1,0,0,1,0,1,2002
+49773,"Waterloo, IA","Eddyville, IA",1,0,0,1,0,0,0,0,1,1,2002
+49915,"Waterloo, IA","Prairie City, IA",0,1,0,0,0,1,1,0,0,1,2002
+49821,"Waterloo, IA","Hopkinton, IA",0,1,0,0,0,1,0,0,1,1,2002
+49932,"Waterloo, IA","Ryan, IA",1,0,0,0,0,1,0,0,1,1,2002
+49846,"Waterloo, IA","Lawton, IA",0,1,0,0,0,1,0,0,1,1,2002
+49944,"Waterloo, IA","Slater, IA",0,1,0,0,0,1,0,0,1,1,2002
+49842,"Waterloo, IA","Lakeside, IA",0,0,1,0,0,1,0,1,0,1,2002
+49717,"Waterloo, IA","Baxter, IA",0,1,0,0,0,1,0,0,1,1,2002
+49951,"Waterloo, IA","St. Olaf, IA",0,1,0,0,1,0,0,1,0,1,2002
+49930,"Waterloo, IA","Riverton, IA",1,0,0,0,0,1,0,0,1,1,2002
+49836,"Waterloo, IA","Kinross, IA",1,0,0,0,1,0,0,1,0,1,2002
+49957,"Waterloo, IA","Sully, IA",0,1,0,1,0,0,0,0,1,1,2002
+49712,"Waterloo, IA","Atlantic, IA",1,0,0,0,0,1,0,0,1,1,2002
+49763,"Waterloo, IA","Defiance, IA",0,1,0,1,0,0,0,1,0,1,2002
+49868,"Waterloo, IA","McIntire, IA",1,0,0,0,1,0,1,0,0,1,2002
+49869,"Waterloo, IA","Melbourne, IA",0,1,0,1,0,0,0,0,1,1,2002
+49782,"Waterloo, IA","Elma, IA",1,0,0,0,1,0,1,0,0,1,2002
+49785,"Waterloo, IA","Essex, IA",1,0,0,0,0,1,1,0,0,1,2002
+49790,"Waterloo, IA","Farmersburg, IA",0,1,0,0,0,1,1,0,0,1,2002
+49824,"Waterloo, IA","Huxley, IA",0,1,0,0,0,1,0,0,1,1,2002
+49974,"Waterloo, IA","Vining, IA",1,0,0,0,0,1,0,1,0,1,2002
+49872,"Waterloo, IA","Milton, IA",1,0,0,1,0,0,0,0,1,1,2002
+49749,"Waterloo, IA","Colo, IA",0,1,0,0,0,1,0,0,1,1,2002

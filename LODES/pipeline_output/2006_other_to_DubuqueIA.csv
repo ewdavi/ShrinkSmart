@@ -1,0 +1,441 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+17730,"Dubuque, IA","Dubuque, IA",4116,8220,2678,2116,10587,2311,4995,6691,3328,15014,2006
+17644,"Dubuque, IA","Asbury, IA",927,2146,751,490,2666,668,1196,1506,1122,3824,2006
+17975,"Dubuque, IA","Sageville, IA",459,895,368,247,1211,264,576,764,382,1722,2006
+17649,"Dubuque, IA","Balltown, IA",171,516,124,143,524,144,214,395,202,811,2006
+17939,"Dubuque, IA","Peosta, IA",157,358,98,103,423,87,156,234,223,613,2006
+17733,"Dubuque, IA","Dyersville, IA",107,285,95,43,392,52,132,209,146,487,2006
+17653,"Dubuque, IA","Bellevue, IA",128,261,57,84,288,74,88,254,104,446,2006
+17755,"Dubuque, IA","Farley, IA",116,264,65,83,300,62,113,183,149,445,2006
+17749,"Dubuque, IA","Epworth, IA",90,227,52,62,251,56,97,157,115,369,2006
+17678,"Dubuque, IA","Cedar Rapids, IA",126,138,35,20,140,139,128,104,67,299,2006
+17716,"Dubuque, IA","Davenport, IA",108,120,42,20,118,132,121,95,54,270,2006
+17865,"Dubuque, IA","Maquoketa, IA",54,121,25,53,127,20,43,113,44,200,2006
+18034,"Dubuque, IA","Waterloo, IA",85,77,20,16,93,73,79,64,39,182,2006
+17811,"Dubuque, IA","Iowa City, IA",99,52,18,4,90,75,80,56,33,169,2006
+17992,"Dubuque, IA","Springbrook, IA",36,91,24,38,93,20,39,74,38,151,2006
+17638,"Dubuque, IA","Andrew, IA",32,87,21,36,82,22,29,74,37,140,2006
+17776,"Dubuque, IA","Graf, IA",34,86,18,27,99,12,28,65,45,138,2006
+17648,"Dubuque, IA","Baldwin, IA",24,93,21,48,71,19,28,71,39,138,2006
+18062,"Dubuque, IA","Zwingle, IA",33,83,16,23,94,15,27,62,43,132,2006
+17694,"Dubuque, IA","Clinton, IA",55,55,21,9,71,51,74,44,13,131,2006
+17677,"Dubuque, IA","Cedar Falls, IA",53,48,12,12,60,41,49,43,21,113,2006
+17797,"Dubuque, IA","Hiawatha, IA",47,44,15,4,54,48,48,30,28,106,2006
+17656,"Dubuque, IA","Bettendorf, IA",39,46,16,10,49,42,42,29,30,101,2006
+17721,"Dubuque, IA","Delaware, IA",25,48,19,11,70,11,28,42,22,92,2006
+17862,"Dubuque, IA","Manchester, IA",22,53,16,7,65,19,41,35,15,91,2006
+17909,"Dubuque, IA","New Vienna, IA",16,50,14,11,59,10,15,39,26,80,2006
+18060,"Dubuque, IA","Worthington, IA",19,38,17,9,55,10,20,32,22,74,2006
+17967,"Dubuque, IA","Robins, IA",31,29,11,3,37,31,25,30,16,71,2006
+17675,"Dubuque, IA","Cascade, IA",13,41,17,14,52,5,18,32,21,71,2006
+17871,"Dubuque, IA","Marshalltown, IA",33,22,6,7,36,18,32,18,11,61,2006
+18021,"Dubuque, IA","University Heights, IA",22,25,4,1,27,23,20,26,5,51,2006
+17788,"Dubuque, IA","Guttenberg, IA",12,31,5,3,35,10,17,23,8,48,2006
+17800,"Dubuque, IA","Hopkinton, IA",14,26,6,3,40,3,15,23,8,46,2006
+17781,"Dubuque, IA","Greeley, IA",17,25,3,5,35,5,18,16,11,45,2006
+17724,"Dubuque, IA","Des Moines, IA",18,19,4,6,22,13,8,13,20,41,2006
+17719,"Dubuque, IA","Decorah, IA",10,23,5,3,27,8,11,20,7,38,2006
+17704,"Dubuque, IA","Coralville, IA",23,13,1,0,20,17,18,16,3,37,2006
+17745,"Dubuque, IA","Elkport, IA",9,19,8,13,21,2,4,23,9,36,2006
+17750,"Dubuque, IA","Evansdale, IA",17,12,3,2,15,15,18,12,2,32,2006
+17972,"Dubuque, IA","Ryan, IA",6,20,4,6,19,5,9,11,10,30,2006
+17920,"Dubuque, IA","Oelwein, IA",15,11,3,2,18,9,16,8,5,29,2006
+17879,"Dubuque, IA","Millville, IA",4,18,7,11,12,6,7,14,8,29,2006
+17718,"Dubuque, IA","De Witt, IA",16,8,4,3,16,9,13,6,9,28,2006
+17986,"Dubuque, IA","Sioux City, IA",12,11,4,0,9,18,15,9,3,27,2006
+18038,"Dubuque, IA","Waverly, IA",8,14,4,3,11,12,10,10,6,26,2006
+17953,"Dubuque, IA","Preston, IA",5,15,4,2,18,4,8,8,8,24,2006
+17915,"Dubuque, IA","North Liberty, IA",16,7,1,0,18,6,10,9,5,24,2006
+18037,"Dubuque, IA","Waukon, IA",11,8,3,4,10,8,9,10,3,22,2006
+17952,"Dubuque, IA","Prairieburg, IA",7,13,1,4,13,4,5,9,7,21,2006
+17680,"Dubuque, IA","Center Point, IA",6,10,5,1,7,13,8,5,8,21,2006
+17807,"Dubuque, IA","Independence, IA",6,8,7,0,11,10,9,6,6,21,2006
+17873,"Dubuque, IA","Mason City, IA",12,6,3,0,9,12,11,7,3,21,2006
+17635,"Dubuque, IA","Ames, IA",8,13,0,2,11,8,6,7,8,21,2006
+17741,"Dubuque, IA","Eldridge, IA",8,9,3,0,8,12,9,5,6,20,2006
+17747,"Dubuque, IA","Ely, IA",13,5,2,1,8,11,12,6,2,20,2006
+17639,"Dubuque, IA","Ankeny, IA",3,12,5,3,10,7,8,6,6,20,2006
+17753,"Dubuque, IA","Fairfax, IA",9,8,3,8,6,6,12,0,8,20,2006
+17670,"Dubuque, IA","Camanche, IA",7,11,1,2,10,7,8,8,3,19,2006
+17887,"Dubuque, IA","Monticello, IA",5,9,5,4,10,5,5,11,3,19,2006
+17869,"Dubuque, IA","Marion, IA",7,10,2,0,14,5,8,5,6,19,2006
+17785,"Dubuque, IA","Grinnell, IA",6,12,0,2,8,8,7,9,2,18,2006
+17928,"Dubuque, IA","Ottumwa, IA",8,8,2,2,9,7,2,6,10,18,2006
+17696,"Dubuque, IA","Clive, IA",6,8,4,3,8,7,3,4,11,18,2006
+17846,"Dubuque, IA","Lisbon, IA",8,9,1,1,10,7,7,6,5,18,2006
+17932,"Dubuque, IA","Palo, IA",8,7,2,2,9,6,6,6,5,17,2006
+17636,"Dubuque, IA","Anamosa, IA",6,10,1,3,8,6,4,11,2,17,2006
+18055,"Dubuque, IA","Windsor Heights, IA",7,7,3,2,10,5,6,7,4,17,2006
+18033,"Dubuque, IA","Washington, IA",10,5,2,2,6,9,10,3,4,17,2006
+17966,"Dubuque, IA","Riverside, IA",5,9,2,2,8,6,8,4,4,16,2006
+17723,"Dubuque, IA","Denver, IA",6,9,1,2,10,4,4,10,2,16,2006
+17904,"Dubuque, IA","New Hampton, IA",6,8,2,0,9,7,4,7,5,16,2006
+17752,"Dubuque, IA","Fairbank, IA",2,11,3,0,12,4,5,8,3,16,2006
+17856,"Dubuque, IA","Luana, IA",4,10,2,5,10,1,4,9,3,16,2006
+17660,"Dubuque, IA","Blue Grass, IA",3,7,5,1,7,7,3,7,5,15,2006
+17993,"Dubuque, IA","Springville, IA",6,6,3,3,8,4,7,4,4,15,2006
+17973,"Dubuque, IA","Sabula, IA",3,12,0,3,11,1,6,4,5,15,2006
+17852,"Dubuque, IA","Long Grove, IA",5,8,2,1,7,7,7,6,2,15,2006
+17837,"Dubuque, IA","Le Claire, IA",8,7,0,1,5,9,8,5,2,15,2006
+17816,"Dubuque, IA","Jesup, IA",6,7,2,1,8,6,10,3,2,15,2006
+17668,"Dubuque, IA","Burlington, IA",6,5,4,2,3,10,8,2,5,15,2006
+18014,"Dubuque, IA","Tipton, IA",5,7,2,1,7,6,7,4,3,14,2006
+17899,"Dubuque, IA","Muscatine, IA",0,8,6,5,5,4,3,4,7,14,2006
+17727,"Dubuque, IA","Dixon, IA",2,8,4,0,9,5,6,2,6,14,2006
+17930,"Dubuque, IA","Oxford, IA",4,7,3,0,8,6,8,4,2,14,2006
+17982,"Dubuque, IA","Shueyville, IA",7,4,2,3,8,2,2,6,5,13,2006
+18023,"Dubuque, IA","Urbana, IA",5,6,1,4,4,4,5,2,5,12,2006
+18043,"Dubuque, IA","West Branch, IA",6,6,0,1,7,4,6,5,1,12,2006
+17667,"Dubuque, IA","Buffalo, IA",1,8,3,2,6,4,4,3,5,12,2006
+17812,"Dubuque, IA","Iowa Falls, IA",4,6,2,4,5,3,5,6,1,12,2006
+18005,"Dubuque, IA","Strawberry Point, IA",1,10,1,6,6,0,1,7,4,12,2006
+18016,"Dubuque, IA","Toledo, IA",5,5,2,2,3,7,6,4,2,12,2006
+17676,"Dubuque, IA","Castalia, IA",2,7,3,1,8,3,4,4,4,12,2006
+17965,"Dubuque, IA","Riverdale, IA",5,6,0,2,2,7,5,2,4,11,2006
+17868,"Dubuque, IA","Marengo, IA",4,7,0,2,5,4,2,4,5,11,2006
+17655,"Dubuque, IA","Bertram, IA",5,6,0,1,5,5,4,5,2,11,2006
+18013,"Dubuque, IA","Tiffin, IA",8,2,1,0,7,4,4,3,4,11,2006
+17954,"Dubuque, IA","Princeton, IA",4,6,1,0,7,4,4,3,4,11,2006
+17743,"Dubuque, IA","Elk Run Heights, IA",7,2,2,0,2,9,5,4,2,11,2006
+17944,"Dubuque, IA","Pleasant Hill, IA",5,6,0,2,6,3,6,2,3,11,2006
+17814,"Dubuque, IA","Janesville, IA",2,8,1,3,5,3,1,4,6,11,2006
+18024,"Dubuque, IA","Urbandale, IA",6,3,1,1,7,2,5,3,2,10,2006
+17708,"Dubuque, IA","Cresco, IA",4,5,1,1,6,3,3,7,0,10,2006
+18045,"Dubuque, IA","West Des Moines, IA",3,5,2,1,8,1,1,4,5,10,2006
+18050,"Dubuque, IA","Wheatland, IA",5,5,0,2,4,4,4,2,4,10,2006
+17754,"Dubuque, IA","Fairfield, IA",1,6,3,0,8,2,0,7,3,10,2006
+17934,"Dubuque, IA","Panorama Park, IA",4,5,1,0,6,4,8,1,1,10,2006
+17903,"Dubuque, IA","New Albin, IA",5,1,4,0,8,2,6,3,1,10,2006
+17764,"Dubuque, IA","Fort Atkinson, IA",2,5,3,0,9,1,5,3,2,10,2006
+17706,"Dubuque, IA","Council Bluffs, IA",9,0,1,0,7,3,9,1,0,10,2006
+17876,"Dubuque, IA","Mechanicsville, IA",4,5,0,0,3,6,3,4,2,9,2006
+17796,"Dubuque, IA","Hazleton, IA",2,6,1,2,7,0,1,2,6,9,2006
+17962,"Dubuque, IA","Reinbeck, IA",2,7,0,2,2,5,1,4,4,9,2006
+17654,"Dubuque, IA","Bennett, IA",5,3,1,1,6,2,3,5,1,9,2006
+17679,"Dubuque, IA","Center Junction, IA",4,4,1,1,5,3,5,4,0,9,2006
+17891,"Dubuque, IA","Morley, IA",4,3,2,0,3,6,5,3,1,9,2006
+17940,"Dubuque, IA","Perry, IA",3,5,1,1,5,3,2,1,6,9,2006
+18028,"Dubuque, IA","Vinton, IA",5,4,0,1,6,2,2,5,2,9,2006
+17935,"Dubuque, IA","Parkersburg, IA",3,5,1,1,7,1,5,3,1,9,2006
+17929,"Dubuque, IA","Owasa, IA",3,6,0,1,6,2,4,3,2,9,2006
+18029,"Dubuque, IA","Wadena, IA",3,4,2,0,6,3,3,2,4,9,2006
+17906,"Dubuque, IA","New Liberty, IA",5,2,2,2,2,5,3,4,2,9,2006
+18027,"Dubuque, IA","Victor, IA",5,2,2,2,4,3,3,0,6,9,2006
+17766,"Dubuque, IA","Fort Madison, IA",1,6,1,1,5,2,3,2,3,8,2006
+18048,"Dubuque, IA","West Union, IA",2,6,0,0,6,2,3,3,2,8,2006
+17894,"Dubuque, IA","Mount Auburn, IA",3,4,1,1,5,2,2,4,2,8,2006
+18031,"Dubuque, IA","Walford, IA",4,2,2,0,6,2,3,4,1,8,2006
+17958,"Dubuque, IA","Raymond, IA",3,5,0,1,2,5,4,3,1,8,2006
+17980,"Dubuque, IA","Shell Rock, IA",2,6,0,0,6,2,3,4,1,8,2006
+18030,"Dubuque, IA","Walcott, IA",5,2,1,0,3,5,4,3,1,8,2006
+17647,"Dubuque, IA","Aurora, IA",4,4,0,1,3,4,0,6,2,8,2006
+17765,"Dubuque, IA","Fort Dodge, IA",5,1,1,0,1,6,7,0,0,7,2006
+17739,"Dubuque, IA","Elberon, IA",1,5,1,1,4,2,2,4,1,7,2006
+17872,"Dubuque, IA","Martelle, IA",2,5,0,1,3,3,3,2,2,7,2006
+17786,"Dubuque, IA","Grundy Center, IA",3,4,0,2,5,0,3,2,2,7,2006
+17854,"Dubuque, IA","Low Moor, IA",1,5,1,2,4,1,4,3,0,7,2006
+18025,"Dubuque, IA","Van Horne, IA",3,3,1,1,5,1,3,3,1,7,2006
+17771,"Dubuque, IA","Garwin, IA",3,4,0,2,1,4,3,4,0,7,2006
+18010,"Dubuque, IA","Tama, IA",4,2,1,0,2,5,2,5,0,7,2006
+17744,"Dubuque, IA","Elkader, IA",1,6,0,2,4,1,0,4,3,7,2006
+17738,"Dubuque, IA","Edgewood, IA",2,4,1,1,6,0,4,0,3,7,2006
+17787,"Dubuque, IA","Guernsey, IA",4,2,0,1,3,2,3,1,2,6,2006
+17817,"Dubuque, IA","Johnston, IA",1,5,0,0,6,0,2,0,4,6,2006
+17731,"Dubuque, IA","Dunkerton, IA",3,3,0,0,6,0,1,5,0,6,2006
+17767,"Dubuque, IA","Fredericksburg, IA",1,3,2,0,4,2,2,3,1,6,2006
+17634,"Dubuque, IA","Altoona, IA",1,5,0,2,3,1,1,1,4,6,2006
+17898,"Dubuque, IA","Mount Vernon, IA",3,2,1,0,4,2,2,2,2,6,2006
+17884,"Dubuque, IA","Monona, IA",2,2,2,3,2,1,1,3,2,6,2006
+17827,"Dubuque, IA","La Porte City, IA",1,2,3,0,4,2,3,2,1,6,2006
+17637,"Dubuque, IA","Andover, IA",6,0,0,0,3,3,4,2,0,6,2006
+17847,"Dubuque, IA","Liscomb, IA",0,2,3,0,3,2,3,2,0,5,2006
+17829,"Dubuque, IA","Ladora, IA",2,2,1,1,1,3,1,2,2,5,2006
+18053,"Dubuque, IA","Williamsburg, IA",2,3,0,1,4,0,2,1,2,5,2006
+17631,"Dubuque, IA","Algona, IA",3,2,0,0,2,3,3,1,1,5,2006
+18046,"Dubuque, IA","West Liberty, IA",0,5,0,0,4,1,4,1,0,5,2006
+17821,"Dubuque, IA","Keokuk, IA",3,2,0,0,2,3,2,1,2,5,2006
+17808,"Dubuque, IA","Indianola, IA",1,4,0,1,2,2,2,0,3,5,2006
+17792,"Dubuque, IA","Harpers Ferry, IA",1,3,1,1,4,0,2,2,1,5,2006
+17853,"Dubuque, IA","Lost Nation, IA",0,4,1,4,1,0,1,0,4,5,2006
+17652,"Dubuque, IA","Belle Plaine, IA",2,2,1,0,3,2,2,3,0,5,2006
+17893,"Dubuque, IA","Moulton, IA",0,3,2,1,2,2,0,1,4,5,2006
+17892,"Dubuque, IA","Morrison, IA",1,3,1,1,2,2,2,2,1,5,2006
+17905,"Dubuque, IA","New Hartford, IA",3,2,0,0,4,1,2,3,0,5,2006
+17917,"Dubuque, IA","Norwalk, IA",1,2,2,1,2,2,0,1,4,5,2006
+17646,"Dubuque, IA","Atkins, IA",1,3,1,0,2,3,2,2,1,5,2006
+17740,"Dubuque, IA","Eldora, IA",0,4,1,1,4,0,2,1,2,5,2006
+17959,"Dubuque, IA","Readlyn, IA",2,1,2,0,2,3,3,2,0,5,2006
+17726,"Dubuque, IA","Dike, IA",4,1,0,0,3,2,3,1,1,5,2006
+18019,"Dubuque, IA","Union, IA",3,2,0,2,2,1,2,2,1,5,2006
+18044,"Dubuque, IA","West Burlington, IA",0,2,3,0,2,3,1,2,2,5,2006
+17774,"Dubuque, IA","Gilman, IA",1,4,0,0,4,1,3,1,1,5,2006
+17775,"Dubuque, IA","Glenwood, IA",4,1,0,0,4,1,5,0,0,5,2006
+18057,"Dubuque, IA","Winthrop, IA",0,4,0,0,3,1,1,2,1,4,2006
+17997,"Dubuque, IA","St. Olaf, IA",1,2,1,0,2,2,1,3,0,4,2006
+17925,"Dubuque, IA","Osceola, IA",0,4,0,1,2,1,0,1,3,4,2006
+17823,"Dubuque, IA","Kinross, IA",3,1,0,0,2,2,4,0,0,4,2006
+17826,"Dubuque, IA","Knoxville, IA",1,3,0,0,2,2,0,2,2,4,2006
+17858,"Dubuque, IA","Lynnville, IA",1,3,0,1,3,0,1,1,2,4,2006
+18036,"Dubuque, IA","Waukee, IA",1,3,0,2,1,1,1,0,3,4,2006
+18000,"Dubuque, IA","Stanley, IA",1,1,2,0,3,1,3,1,0,4,2006
+17989,"Dubuque, IA","Solon, IA",3,1,0,0,3,1,2,1,1,4,2006
+17855,"Dubuque, IA","Lowden, IA",1,3,0,0,2,2,2,0,2,4,2006
+17624,"Dubuque, IA","Afton, IA",0,3,1,1,2,1,0,4,0,4,2006
+17844,"Dubuque, IA","Lincoln, IA",3,1,0,0,4,0,3,0,1,4,2006
+17963,"Dubuque, IA","Rhodes, IA",1,3,0,0,4,0,1,2,1,4,2006
+17888,"Dubuque, IA","Montour, IA",1,3,0,1,1,2,1,1,2,4,2006
+18017,"Dubuque, IA","Traer, IA",1,2,1,1,2,1,2,2,0,4,2006
+18042,"Dubuque, IA","Welton, IA",2,1,1,1,3,0,0,3,1,4,2006
+18041,"Dubuque, IA","Wellsburg, IA",2,2,0,0,4,0,2,1,1,4,2006
+17623,"Dubuque, IA","Ackley, IA",0,4,0,2,2,0,0,2,2,4,2006
+17692,"Dubuque, IA","Clear Lake, IA",3,1,0,0,2,2,3,1,0,4,2006
+17798,"Dubuque, IA","Hills, IA",0,4,0,0,3,1,3,0,1,4,2006
+17783,"Dubuque, IA","Greenfield, IA",0,3,1,0,3,1,0,2,2,4,2006
+17663,"Dubuque, IA","Brandon, IA",0,2,2,0,3,1,1,3,0,4,2006
+17795,"Dubuque, IA","Hawkeye, IA",1,2,1,1,3,0,1,0,3,4,2006
+17717,"Dubuque, IA","De Soto, IA",2,2,0,0,4,0,1,2,1,4,2006
+17777,"Dubuque, IA","Grand Mound, IA",4,0,0,2,0,2,2,1,1,4,2006
+17626,"Dubuque, IA","Ainsworth, IA",3,1,0,0,1,3,3,0,1,4,2006
+17657,"Dubuque, IA","Blairstown, IA",3,0,1,1,3,0,1,3,0,4,2006
+17996,"Dubuque, IA","St. Marys, IA",1,1,1,0,3,0,0,1,2,3,2006
+17773,"Dubuque, IA","Gilbertville, IA",2,0,1,0,3,0,0,2,1,3,2006
+17778,"Dubuque, IA","Grand River, IA",0,2,1,0,3,0,0,3,0,3,2006
+18009,"Dubuque, IA","Swisher, IA",1,2,0,0,3,0,2,1,0,3,2006
+18007,"Dubuque, IA","Sumner, IA",3,0,0,0,2,1,3,0,0,3,2006
+17769,"Dubuque, IA","Garnavillo, IA",1,2,0,0,2,1,2,0,1,3,2006
+17681,"Dubuque, IA","Centerville, IA",0,1,2,0,3,0,1,1,1,3,2006
+17674,"Dubuque, IA","Carter Lake, IA",3,0,0,0,0,3,1,2,0,3,2006
+17784,"Dubuque, IA","Grimes, IA",0,3,0,0,1,2,1,1,1,3,2006
+17995,"Dubuque, IA","St. Lucas, IA",2,1,0,0,2,1,2,0,1,3,2006
+17684,"Dubuque, IA","Charles City, IA",1,2,0,0,1,2,1,2,0,3,2006
+17851,"Dubuque, IA","Lone Tree, IA",3,0,0,0,1,2,3,0,0,3,2006
+17969,"Dubuque, IA","Roland, IA",0,3,0,1,1,1,0,1,2,3,2006
+17699,"Dubuque, IA","Coggon, IA",3,0,0,0,1,2,3,0,0,3,2006
+17702,"Dubuque, IA","Colwell, IA",1,2,0,0,3,0,0,3,0,3,2006
+17703,"Dubuque, IA","Conrad, IA",1,2,0,0,3,0,3,0,0,3,2006
+17957,"Dubuque, IA","Randalia, IA",0,3,0,0,2,1,0,1,2,3,2006
+17955,"Dubuque, IA","Protivin, IA",0,2,1,1,1,1,0,2,1,3,2006
+17951,"Dubuque, IA","Prairie City, IA",1,2,0,0,3,0,1,1,1,3,2006
+17936,"Dubuque, IA","Parnell, IA",1,2,0,0,2,1,1,1,1,3,2006
+17901,"Dubuque, IA","Nashua, IA",1,2,0,0,2,1,2,1,0,3,2006
+17931,"Dubuque, IA","Packwood, IA",1,2,0,0,2,1,0,1,2,3,2006
+17737,"Dubuque, IA","Eddyville, IA",2,0,1,0,2,1,3,0,0,3,2006
+17908,"Dubuque, IA","New Sharon, IA",1,2,0,0,0,3,1,2,0,3,2006
+17910,"Dubuque, IA","Newton, IA",3,0,0,1,1,1,1,1,1,3,2006
+17923,"Dubuque, IA","Orient, IA",0,2,1,0,1,2,1,2,0,3,2006
+17789,"Dubuque, IA","Hampton, IA",2,1,0,0,0,3,1,2,0,3,2006
+17916,"Dubuque, IA","Northwood, IA",2,0,1,0,0,3,2,1,0,3,2006
+17838,"Dubuque, IA","Le Grand, IA",2,1,0,0,1,2,1,2,0,3,2006
+17627,"Dubuque, IA","Akron, IA",1,2,0,0,0,3,1,1,1,3,2006
+17818,"Dubuque, IA","Joice, IA",2,0,1,0,1,2,2,1,0,3,2006
+17805,"Dubuque, IA","Huxley, IA",1,2,0,1,1,1,0,1,2,3,2006
+17803,"Dubuque, IA","Hudson, IA",0,3,0,0,2,1,1,1,1,3,2006
+17645,"Dubuque, IA","Atalissa, IA",0,2,1,0,1,2,1,1,1,3,2006
+18040,"Dubuque, IA","Wellman, IA",2,0,1,0,0,3,2,1,0,3,2006
+17806,"Dubuque, IA","Ida Grove, IA",1,2,0,0,1,2,2,1,0,3,2006
+18054,"Dubuque, IA","Wilton, IA",1,1,1,1,1,1,3,0,0,3,2006
+17819,"Dubuque, IA","Kalona, IA",1,1,1,0,2,1,0,2,1,3,2006
+17662,"Dubuque, IA","Boone, IA",1,2,0,1,1,1,1,1,1,3,2006
+17664,"Dubuque, IA","Brighton, IA",1,2,0,0,1,2,1,1,1,3,2006
+18026,"Dubuque, IA","Van Meter, IA",1,2,0,0,2,1,2,0,1,3,2006
+17633,"Dubuque, IA","Alta Vista, IA",2,1,0,0,2,1,2,1,0,3,2006
+17804,"Dubuque, IA","Humboldt, IA",1,2,0,0,0,3,1,2,0,3,2006
+17650,"Dubuque, IA","Beaman, IA",0,3,0,0,3,0,1,0,2,3,2006
+17950,"Dubuque, IA","Postville, IA",1,1,0,1,1,0,0,1,1,2,2006
+17669,"Dubuque, IA","Bussey, IA",0,2,0,0,2,0,0,0,2,2,2006
+17710,"Dubuque, IA","Crystal Lake, IA",1,0,1,0,1,1,2,0,0,2,2006
+17942,"Dubuque, IA","Plainfield, IA",1,0,1,0,1,1,0,1,1,2,2006
+18056,"Dubuque, IA","Winterset, IA",2,0,0,1,1,0,0,0,2,2,2006
+17960,"Dubuque, IA","Reasnor, IA",0,1,1,0,2,0,1,1,0,2,2006
+17961,"Dubuque, IA","Red Oak, IA",1,1,0,0,1,1,0,1,1,2,2006
+17628,"Dubuque, IA","Albia, IA",1,0,1,0,1,1,1,0,1,2,2006
+17948,"Dubuque, IA","Polk City, IA",1,1,0,1,1,0,1,1,0,2,2006
+17933,"Dubuque, IA","Panora, IA",2,0,0,0,0,2,1,1,0,2,2006
+17938,"Dubuque, IA","Pella, IA",1,1,0,0,2,0,1,0,1,2,2006
+18058,"Dubuque, IA","Wiota, IA",1,1,0,0,1,1,2,0,0,2,2006
+18052,"Dubuque, IA","Whitten, IA",0,2,0,0,1,1,1,1,0,2,2006
+17927,"Dubuque, IA","Otho, IA",1,1,0,0,1,1,2,0,0,2,2006
+17728,"Dubuque, IA","Donnellson, IA",1,1,0,0,1,1,1,0,1,2,2006
+17924,"Dubuque, IA","Osage, IA",1,1,0,0,1,1,2,0,0,2,2006
+18059,"Dubuque, IA","Woden, IA",1,1,0,0,1,1,1,1,0,2,2006
+17625,"Dubuque, IA","Agency, IA",0,0,2,0,2,0,1,1,0,2,2006
+17918,"Dubuque, IA","Norway, IA",1,1,0,0,1,1,1,0,1,2,2006
+17732,"Dubuque, IA","Durant, IA",0,2,0,0,2,0,1,0,1,2,2006
+17700,"Dubuque, IA","Colo, IA",0,2,0,2,0,0,0,0,2,2,2006
+17977,"Dubuque, IA","Sergeant Bluff, IA",1,1,0,0,1,1,2,0,0,2,2006
+17629,"Dubuque, IA","Albion, IA",0,2,0,0,2,0,2,0,0,2,2006
+17970,"Dubuque, IA","Russell, IA",2,0,0,1,0,1,1,0,1,2,2006
+17666,"Dubuque, IA","Buffalo Center, IA",2,0,0,0,2,0,2,0,0,2,2006
+17673,"Dubuque, IA","Carroll, IA",1,1,0,0,0,2,2,0,0,2,2006
+17665,"Dubuque, IA","Brooklyn, IA",0,1,1,1,1,0,0,1,1,2,2006
+17659,"Dubuque, IA","Bloomfield, IA",1,1,0,0,0,2,1,1,0,2,2006
+17682,"Dubuque, IA","Central City, IA",2,0,0,0,2,0,1,1,0,2,2006
+17683,"Dubuque, IA","Chariton, IA",0,1,1,0,2,0,0,2,0,2,2006
+18032,"Dubuque, IA","Walker, IA",1,1,0,0,1,1,1,1,0,2,2006
+18006,"Dubuque, IA","Sully, IA",1,1,0,0,2,0,1,0,1,2,2006
+17734,"Dubuque, IA","Dysart, IA",0,2,0,0,2,0,1,1,0,2,2006
+18003,"Dubuque, IA","Steamboat Rock, IA",0,1,1,0,0,2,0,1,1,2,2006
+18001,"Dubuque, IA","Stanton, IA",2,0,0,0,1,1,1,1,0,2,2006
+17999,"Dubuque, IA","Stacyville, IA",0,2,0,0,1,1,1,0,1,2,2006
+17632,"Dubuque, IA","Allison, IA",0,0,2,0,2,0,0,2,0,2,2006
+17994,"Dubuque, IA","St. Ansgar, IA",0,2,0,0,0,2,2,0,0,2,2006
+18047,"Dubuque, IA","West Point, IA",0,1,1,0,2,0,0,0,2,2,2006
+17688,"Dubuque, IA","Clarence, IA",1,1,0,0,1,1,1,0,1,2,2006
+17990,"Dubuque, IA","Spencer, IA",1,1,0,1,0,1,2,0,0,2,2006
+17689,"Dubuque, IA","Clarinda, IA",1,1,0,0,1,1,1,0,1,2,2006
+17988,"Dubuque, IA","Sloan, IA",2,0,0,0,0,2,1,1,0,2,2006
+17983,"Dubuque, IA","Sigourney, IA",1,1,0,0,1,1,0,2,0,2,2006
+17691,"Dubuque, IA","Clarksville, IA",1,1,0,0,2,0,0,1,1,2,2006
+17630,"Dubuque, IA","Alden, IA",1,1,0,0,1,1,1,0,1,2,2006
+17978,"Dubuque, IA","Sheffield, IA",1,1,0,0,1,1,2,0,0,2,2006
+18022,"Dubuque, IA","University Park, IA",1,0,1,0,2,0,0,2,0,2,2006
+17697,"Dubuque, IA","Clutier, IA",1,1,0,0,0,2,0,2,0,2,2006
+17810,"Dubuque, IA","Ionia, IA",0,1,1,0,1,1,1,1,0,2,2006
+17937,"Dubuque, IA","Patterson, IA",0,1,1,0,0,2,0,1,1,2,2006
+17768,"Dubuque, IA","Frederika, IA",0,1,1,0,2,0,2,0,0,2,2006
+17897,"Dubuque, IA","Mount Union, IA",0,1,1,0,2,0,1,0,1,2,2006
+17757,"Dubuque, IA","Farnhamville, IA",1,1,0,0,2,0,2,0,0,2,2006
+17759,"Dubuque, IA","Fayette, IA",1,1,0,0,2,0,1,0,1,2,2006
+17890,"Dubuque, IA","Moravia, IA",0,2,0,0,2,0,0,1,1,2,2006
+17889,"Dubuque, IA","Montrose, IA",0,1,1,0,1,1,1,1,0,2,2006
+17761,"Dubuque, IA","Floris, IA",0,2,0,0,0,2,0,1,1,2,2006
+17762,"Dubuque, IA","Floyd, IA",1,0,1,0,1,1,0,2,0,2,2006
+17882,"Dubuque, IA","Mitchellville, IA",0,1,1,0,2,0,0,0,2,2,2006
+17880,"Dubuque, IA","Milton, IA",0,2,0,0,2,0,1,0,1,2,2006
+17763,"Dubuque, IA","Forest City, IA",1,1,0,0,2,0,2,0,0,2,2006
+17913,"Dubuque, IA","Nora Springs, IA",0,0,2,0,0,2,2,0,0,2,2006
+17874,"Dubuque, IA","McCausland, IA",1,1,0,0,1,1,1,0,1,2,2006
+17770,"Dubuque, IA","Garner, IA",1,1,0,0,0,2,2,0,0,2,2006
+17772,"Dubuque, IA","Geneva, IA",0,1,1,0,0,2,1,1,0,2,2006
+17866,"Dubuque, IA","Marble Rock, IA",0,1,1,0,2,0,1,1,0,2,2006
+17861,"Dubuque, IA","Malcom, IA",1,1,0,1,0,1,1,0,1,2,2006
+17859,"Dubuque, IA","Macksburg, IA",2,0,0,1,0,1,1,1,0,2,2006
+17849,"Dubuque, IA","Lockridge, IA",0,1,1,0,2,0,1,0,1,2,2006
+17841,"Dubuque, IA","Ledyard, IA",1,1,0,0,1,1,2,0,0,2,2006
+17834,"Dubuque, IA","Lansing, IA",1,0,1,0,2,0,0,1,1,2,2006
+17825,"Dubuque, IA","Knierim, IA",1,1,0,0,1,1,1,0,1,2,2006
+17809,"Dubuque, IA","Inwood, IA",2,0,0,0,1,1,1,1,0,2,2006
+17896,"Dubuque, IA","Mount Pleasant, IA",1,1,0,0,1,1,2,0,0,2,2006
+17843,"Dubuque, IA","Lime Springs, IA",0,2,0,0,2,0,0,2,0,2,2006
+17941,"Dubuque, IA","Pierson, IA",1,0,0,0,1,0,1,0,0,1,2006
+17840,"Dubuque, IA","Le Roy, IA",0,1,0,0,1,0,1,0,0,1,2006
+17661,"Dubuque, IA","Bonaparte, IA",1,0,0,0,0,1,1,0,0,1,2006
+17842,"Dubuque, IA","Leon, IA",0,1,0,0,1,0,0,1,0,1,2006
+17794,"Dubuque, IA","Haverhill, IA",1,0,0,0,1,0,1,0,0,1,2006
+17845,"Dubuque, IA","Linden, IA",0,1,0,0,0,1,0,0,1,1,2006
+17793,"Dubuque, IA","Harvey, IA",1,0,0,0,0,1,0,1,0,1,2006
+17791,"Dubuque, IA","Harlan, IA",1,0,0,0,0,1,1,0,0,1,2006
+17848,"Dubuque, IA","Little Sioux, IA",1,0,0,0,1,0,1,0,0,1,2006
+17922,"Dubuque, IA","Orange City, IA",0,1,0,0,0,1,0,0,1,1,2006
+17850,"Dubuque, IA","Logan, IA",1,0,0,0,1,0,1,0,0,1,2006
+17671,"Dubuque, IA","Cantril, IA",0,1,0,0,0,1,0,1,0,1,2006
+18020,"Dubuque, IA","Unionville, IA",1,0,0,0,1,0,1,0,0,1,2006
+17672,"Dubuque, IA","Carlisle, IA",0,1,0,0,1,0,0,0,1,1,2006
+18018,"Dubuque, IA","Tripoli, IA",1,0,0,0,0,1,0,1,0,1,2006
+17790,"Dubuque, IA","Hanlontown, IA",1,0,0,0,1,0,1,0,0,1,2006
+17782,"Dubuque, IA","Greene, IA",0,1,0,0,0,1,0,0,1,1,2006
+18015,"Dubuque, IA","Titonka, IA",1,0,0,0,0,1,1,0,0,1,2006
+17857,"Dubuque, IA","Luther, IA",0,1,0,0,1,0,0,0,1,1,2006
+17780,"Dubuque, IA","Grant, IA",0,1,0,0,1,0,0,1,0,1,2006
+18012,"Dubuque, IA","Thompson, IA",1,0,0,0,0,1,1,0,0,1,2006
+18011,"Dubuque, IA","Tennant, IA",0,1,0,0,0,1,1,0,0,1,2006
+17911,"Dubuque, IA","Nichols, IA",1,0,0,0,0,1,1,0,0,1,2006
+17860,"Dubuque, IA","Madrid, IA",0,0,1,0,1,0,0,0,1,1,2006
+18008,"Dubuque, IA","Swea City, IA",1,0,0,0,1,0,1,0,0,1,2006
+17735,"Dubuque, IA","Eagle Grove, IA",0,1,0,0,0,1,0,1,0,1,2006
+17779,"Dubuque, IA","Granger, IA",0,0,1,0,1,0,0,0,1,1,2006
+17863,"Dubuque, IA","Manilla, IA",1,0,0,0,0,1,1,0,0,1,2006
+18004,"Dubuque, IA","Storm Lake, IA",0,1,0,0,0,1,1,0,0,1,2006
+17921,"Dubuque, IA","Onawa, IA",1,0,0,0,0,1,1,0,0,1,2006
+17658,"Dubuque, IA","Blanchard, IA",1,0,0,0,1,0,1,0,0,1,2006
+17751,"Dubuque, IA","Everly, IA",0,0,1,0,0,1,0,0,1,1,2006
+17839,"Dubuque, IA","Le Mars, IA",1,0,0,0,0,1,1,0,0,1,2006
+18061,"Dubuque, IA","Yetter, IA",0,1,0,0,0,1,1,0,0,1,2006
+17912,"Dubuque, IA","Nodaway, IA",0,1,0,0,0,1,0,1,0,1,2006
+17815,"Dubuque, IA","Jefferson, IA",1,0,0,0,1,0,0,1,0,1,2006
+17820,"Dubuque, IA","Kellogg, IA",1,0,0,0,0,1,1,0,0,1,2006
+17822,"Dubuque, IA","Keystone, IA",0,1,0,0,0,1,0,0,1,1,2006
+17824,"Dubuque, IA","Kirkville, IA",0,1,0,1,0,0,0,0,1,1,2006
+17919,"Dubuque, IA","Oakville, IA",0,1,0,0,0,1,0,0,1,1,2006
+17802,"Dubuque, IA","Houghton, IA",0,1,0,0,1,0,0,0,1,1,2006
+17801,"Dubuque, IA","Hospers, IA",0,0,1,0,1,0,0,0,1,1,2006
+17828,"Dubuque, IA","Lacona, IA",0,1,0,0,1,0,0,1,0,1,2006
+18051,"Dubuque, IA","Whittemore, IA",0,1,0,0,0,1,1,0,0,1,2006
+17799,"Dubuque, IA","Hinton, IA",0,1,0,0,1,0,0,1,0,1,2006
+18049,"Dubuque, IA","What Cheer, IA",0,1,0,0,1,0,0,0,1,1,2006
+17830,"Dubuque, IA","Lake Mills, IA",0,1,0,0,0,1,1,0,0,1,2006
+17831,"Dubuque, IA","Lake Park, IA",0,1,0,0,0,1,0,0,1,1,2006
+17832,"Dubuque, IA","Lakeside, IA",1,0,0,0,0,1,1,0,0,1,2006
+17833,"Dubuque, IA","Lamoni, IA",0,1,0,0,1,0,0,1,0,1,2006
+17640,"Dubuque, IA","Aredale, IA",0,1,0,0,0,1,0,0,1,1,2006
+17641,"Dubuque, IA","Arlington, IA",1,0,0,0,1,0,1,0,0,1,2006
+17642,"Dubuque, IA","Arnolds Park, IA",1,0,0,0,0,1,1,0,0,1,2006
+17643,"Dubuque, IA","Arthur, IA",1,0,0,0,0,1,1,0,0,1,2006
+17729,"Dubuque, IA","Dougherty, IA",1,0,0,0,1,0,0,1,0,1,2006
+18039,"Dubuque, IA","Webster, IA",0,1,0,0,0,1,0,0,1,1,2006
+17835,"Dubuque, IA","Larrabee, IA",0,1,0,0,1,0,0,0,1,1,2006
+17836,"Dubuque, IA","Lawler, IA",0,1,0,0,1,0,0,1,0,1,2006
+17651,"Dubuque, IA","Bedford, IA",0,1,0,0,1,0,0,0,1,1,2006
+18035,"Dubuque, IA","Waucoma, IA",0,1,0,0,1,0,0,1,0,1,2006
+17864,"Dubuque, IA","Manson, IA",1,0,0,0,1,0,1,0,0,1,2006
+18002,"Dubuque, IA","State Center, IA",1,0,0,1,0,0,0,0,1,1,2006
+17907,"Dubuque, IA","New London, IA",1,0,0,0,1,0,1,0,0,1,2006
+17685,"Dubuque, IA","Cherokee, IA",1,0,0,0,1,0,1,0,0,1,2006
+17885,"Dubuque, IA","Monroe, IA",0,1,0,1,0,0,0,0,1,1,2006
+17968,"Dubuque, IA","Rock Rapids, IA",0,1,0,0,0,1,1,0,0,1,2006
+17698,"Dubuque, IA","Coburg, IA",1,0,0,0,0,1,1,0,0,1,2006
+17886,"Dubuque, IA","Montezuma, IA",1,0,0,0,1,0,1,0,0,1,2006
+17715,"Dubuque, IA","Danville, IA",1,0,0,0,1,0,1,0,0,1,2006
+17964,"Dubuque, IA","Ridgeway, IA",1,0,0,0,1,0,0,0,1,1,2006
+17701,"Dubuque, IA","Columbus Junction, IA",0,0,1,0,0,1,0,0,1,1,2006
+17760,"Dubuque, IA","Ferguson, IA",0,0,1,0,0,1,0,1,0,1,2006
+17714,"Dubuque, IA","Danbury, IA",0,1,0,0,1,0,1,0,0,1,2006
+17900,"Dubuque, IA","Mystic, IA",0,0,1,0,1,0,0,0,1,1,2006
+17813,"Dubuque, IA","Ireton, IA",0,1,0,0,0,1,0,0,1,1,2006
+17705,"Dubuque, IA","Corwith, IA",1,0,0,0,0,1,0,0,1,1,2006
+17758,"Dubuque, IA","Farragut, IA",0,1,0,0,0,1,1,0,0,1,2006
+17956,"Dubuque, IA","Quimby, IA",0,1,0,0,1,0,1,0,0,1,2006
+17748,"Dubuque, IA","Emmetsburg, IA",0,1,0,0,0,1,0,0,1,1,2006
+17707,"Dubuque, IA","Crawfordsville, IA",0,1,0,0,0,1,1,0,0,1,2006
+17709,"Dubuque, IA","Creston, IA",0,0,1,0,1,0,0,1,0,1,2006
+17756,"Dubuque, IA","Farmington, IA",0,1,0,0,0,1,0,1,0,1,2006
+17895,"Dubuque, IA","Mount Ayr, IA",0,1,0,0,0,1,0,0,1,1,2006
+17713,"Dubuque, IA","Dallas Center, IA",0,1,0,0,0,1,0,0,1,1,2006
+17949,"Dubuque, IA","Pomeroy, IA",1,0,0,0,1,0,1,0,0,1,2006
+17712,"Dubuque, IA","Dakota City, IA",0,1,0,0,0,1,0,1,0,1,2006
+17947,"Dubuque, IA","Pocahontas, IA",1,0,0,0,0,1,1,0,0,1,2006
+17946,"Dubuque, IA","Plymouth, IA",0,0,1,0,0,1,0,1,0,1,2006
+17945,"Dubuque, IA","Pleasant Plain, IA",0,1,0,1,0,0,0,1,0,1,2006
+17711,"Dubuque, IA","Curlew, IA",0,1,0,0,0,1,1,0,0,1,2006
+17943,"Dubuque, IA","Plano, IA",0,1,0,0,1,0,0,0,1,1,2006
+17902,"Dubuque, IA","Nevada, IA",0,1,0,0,1,0,0,0,1,1,2006
+17971,"Dubuque, IA","Ruthven, IA",0,1,0,0,0,1,0,0,1,1,2006
+17883,"Dubuque, IA","Mondamin, IA",1,0,0,0,0,1,1,0,0,1,2006
+17987,"Dubuque, IA","Slater, IA",1,0,0,0,0,1,1,0,0,1,2006
+17867,"Dubuque, IA","Marcus, IA",1,0,0,0,1,0,0,1,0,1,2006
+17998,"Dubuque, IA","St. Paul, IA",1,0,0,0,1,0,1,0,0,1,2006
+17686,"Dubuque, IA","Chester, IA",1,0,0,0,0,1,0,1,0,1,2006
+17870,"Dubuque, IA","Marquette, IA",0,0,1,1,0,0,0,1,0,1,2006
+17926,"Dubuque, IA","Oskaloosa, IA",1,0,0,0,1,0,1,0,0,1,2006
+17736,"Dubuque, IA","East Peru, IA",0,1,0,0,0,1,0,0,1,1,2006
+17687,"Dubuque, IA","Cincinnati, IA",0,1,0,0,1,0,0,0,1,1,2006
+17725,"Dubuque, IA","Dexter, IA",1,0,0,0,1,0,0,1,0,1,2006
+17991,"Dubuque, IA","Spring Hill, IA",1,0,0,0,0,1,1,0,0,1,2006
+17875,"Dubuque, IA","McIntire, IA",0,0,1,0,0,1,1,0,0,1,2006
+17722,"Dubuque, IA","Denison, IA",0,1,0,0,1,0,0,1,0,1,2006
+17877,"Dubuque, IA","Melbourne, IA",0,1,0,1,0,0,0,1,0,1,2006
+17690,"Dubuque, IA","Clarion, IA",1,0,0,0,0,1,1,0,0,1,2006
+17695,"Dubuque, IA","Clio, IA",0,1,0,0,1,0,0,0,1,1,2006
+17985,"Dubuque, IA","Sioux Center, IA",0,1,0,0,0,1,0,0,1,1,2006
+17984,"Dubuque, IA","Silver City, IA",1,0,0,0,0,1,0,1,0,1,2006
+17878,"Dubuque, IA","Melcher-Dallas, IA",0,0,1,0,0,1,0,1,0,1,2006
+17720,"Dubuque, IA","Defiance, IA",0,1,0,0,0,1,1,0,0,1,2006
+17981,"Dubuque, IA","Shenandoah, IA",1,0,0,0,0,1,1,0,0,1,2006
+17742,"Dubuque, IA","Elgin, IA",0,1,0,0,0,1,1,0,0,1,2006
+17979,"Dubuque, IA","Shelby, IA",0,1,0,0,1,0,0,0,1,1,2006
+17881,"Dubuque, IA","Mitchell, IA",0,1,0,0,1,0,0,0,1,1,2006
+17746,"Dubuque, IA","Elma, IA",0,0,1,0,1,0,1,0,0,1,2006
+17976,"Dubuque, IA","Scarville, IA",1,0,0,0,0,1,1,0,0,1,2006
+17693,"Dubuque, IA","Clearfield, IA",1,0,0,1,0,0,1,0,0,1,2006
+17974,"Dubuque, IA","Sac City, IA",0,1,0,0,1,0,0,1,0,1,2006
+17914,"Dubuque, IA","North English, IA",0,1,0,0,1,0,0,1,0,1,2006

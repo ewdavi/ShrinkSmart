@@ -1,0 +1,391 @@
+,home city,work city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+12199,"Cedar Rapids, IA","Cedar Rapids, IA",4148,9249,3928,2862,11557,2906,4387,6351,6587,17325,2014
+12301,"Cedar Rapids, IA","Hiawatha, IA",2392,5386,1763,2290,6032,1219,2151,3093,4297,9541,2014
+12311,"Cedar Rapids, IA","Iowa City, IA",365,1100,380,165,1504,176,402,528,915,1845,2014
+12443,"Cedar Rapids, IA","Robins, IA",442,977,293,278,1111,323,523,675,514,1712,2014
+12257,"Cedar Rapids, IA","Ely, IA",324,642,267,10,1192,31,345,407,481,1233,2014
+12263,"Cedar Rapids, IA","Fairfax, IA",341,553,195,318,349,422,299,368,422,1089,2014
+12358,"Cedar Rapids, IA","Marengo, IA",176,572,176,885,21,18,59,662,203,924,2014
+12399,"Cedar Rapids, IA","North Liberty, IA",220,343,118,143,289,249,126,287,268,681,2014
+12359,"Cedar Rapids, IA","Marion, IA",98,383,107,146,185,257,75,180,333,588,2014
+12236,"Cedar Rapids, IA","Des Moines, IA",141,293,106,39,370,131,150,143,247,540,2014
+12458,"Cedar Rapids, IA","Shueyville, IA",139,275,92,71,176,259,165,151,190,506,2014
+12504,"Cedar Rapids, IA","Waterloo, IA",178,256,67,51,251,199,170,170,161,501,2014
+12220,"Cedar Rapids, IA","Coralville, IA",169,205,64,15,255,168,143,200,95,438,2014
+12213,"Cedar Rapids, IA","Clive, IA",129,188,48,15,249,101,108,118,139,365,2014
+12484,"Cedar Rapids, IA","Tiffin, IA",115,198,44,122,168,67,56,105,196,357,2014
+12228,"Cedar Rapids, IA","Davenport, IA",105,166,66,18,192,127,111,123,103,337,2014
+12198,"Cedar Rapids, IA","Cedar Falls, IA",132,156,41,33,197,99,122,120,87,329,2014
+12240,"Cedar Rapids, IA","Dubuque, IA",100,122,51,15,159,99,100,97,76,273,2014
+12174,"Cedar Rapids, IA","Bettendorf, IA",91,97,41,0,114,115,102,77,50,229,2014
+12492,"Cedar Rapids, IA","Urbandale, IA",51,123,23,22,104,71,48,59,90,197,2014
+12342,"Cedar Rapids, IA","Lisbon, IA",53,84,35,22,86,64,57,68,47,172,2014
+12152,"Cedar Rapids, IA","Ames, IA",76,62,28,10,104,52,68,47,51,166,2014
+12156,"Cedar Rapids, IA","Ankeny, IA",53,83,29,6,72,87,56,39,70,165,2014
+12489,"Cedar Rapids, IA","University Heights, IA",56,78,30,6,112,46,64,58,42,164,2014
+12467,"Cedar Rapids, IA","Springville, IA",38,82,31,30,61,60,26,70,55,151,2014
+12173,"Cedar Rapids, IA","Bertram, IA",42,87,20,48,75,26,40,63,46,149,2014
+12413,"Cedar Rapids, IA","Palo, IA",42,80,22,25,86,33,63,42,39,144,2014
+12251,"Cedar Rapids, IA","Eldridge, IA",32,67,30,25,51,53,28,44,57,129,2014
+12499,"Cedar Rapids, IA","Walford, IA",33,69,21,76,27,20,14,88,21,123,2014
+12385,"Cedar Rapids, IA","Muscatine, IA",40,61,21,31,53,38,37,53,32,122,2014
+12159,"Cedar Rapids, IA","Asbury, IA",42,47,16,0,44,61,41,44,20,105,2014
+12361,"Cedar Rapids, IA","Marshalltown, IA",37,46,20,7,53,43,45,39,19,103,2014
+12516,"Cedar Rapids, IA","West Des Moines, IA",25,53,21,19,57,23,26,40,33,99,2014
+12411,"Cedar Rapids, IA","Oxford, IA",35,43,19,27,19,51,17,55,25,97,2014
+12354,"Cedar Rapids, IA","Manchester, IA",19,54,21,49,28,17,13,21,60,94,2014
+12363,"Cedar Rapids, IA","Mason City, IA",36,43,9,1,41,46,31,31,26,88,2014
+12524,"Cedar Rapids, IA","Windsor Heights, IA",27,41,17,4,54,27,29,38,18,85,2014
+12409,"Cedar Rapids, IA","Ottumwa, IA",30,43,10,7,29,47,24,32,27,83,2014
+12212,"Cedar Rapids, IA","Clinton, IA",27,44,11,35,27,20,15,24,43,82,2014
+12383,"Cedar Rapids, IA","Mount Vernon, IA",15,41,25,5,63,13,28,26,27,81,2014
+12308,"Cedar Rapids, IA","Independence, IA",23,39,17,11,44,24,24,24,31,79,2014
+12505,"Cedar Rapids, IA","Waukee, IA",27,34,15,2,60,14,22,36,18,76,2014
+12373,"Cedar Rapids, IA","Monticello, IA",25,33,16,27,30,17,16,32,26,74,2014
+12153,"Cedar Rapids, IA","Anamosa, IA",10,43,11,9,37,18,13,28,23,64,2014
+12442,"Cedar Rapids, IA","Riverside, IA",27,29,8,7,21,36,15,21,28,64,2014
+12272,"Cedar Rapids, IA","Fort Dodge, IA",20,33,11,6,25,33,24,26,14,64,2014
+12381,"Cedar Rapids, IA","Mount Pleasant, IA",24,26,14,8,20,36,23,20,21,64,2014
+12491,"Cedar Rapids, IA","Urbana, IA",16,34,13,21,23,19,23,18,22,63,2014
+12496,"Cedar Rapids, IA","Vinton, IA",14,38,10,3,41,18,17,21,24,62,2014
+12151,"Cedar Rapids, IA","Altoona, IA",19,30,11,2,16,42,18,22,20,60,2014
+12515,"Cedar Rapids, IA","West Burlington, IA",24,20,13,3,18,36,22,22,13,57,2014
+12376,"Cedar Rapids, IA","Morley, IA",15,33,8,21,14,21,13,33,10,56,2014
+12507,"Cedar Rapids, IA","Waverly, IA",20,17,18,15,24,16,22,18,15,55,2014
+12259,"Cedar Rapids, IA","Evansdale, IA",18,26,11,1,23,31,21,22,12,55,2014
+12451,"Cedar Rapids, IA","Sageville, IA",10,35,9,5,46,3,6,20,28,54,2014
+12317,"Cedar Rapids, IA","Johnston, IA",14,32,8,2,33,19,16,13,25,54,2014
+12514,"Cedar Rapids, IA","West Branch, IA",14,30,7,4,22,25,8,22,21,51,2014
+12232,"Cedar Rapids, IA","Decorah, IA",17,28,6,18,21,12,14,12,25,51,2014
+12201,"Cedar Rapids, IA","Center Point, IA",15,23,12,7,33,10,13,19,18,50,2014
+12188,"Cedar Rapids, IA","Burlington, IA",11,26,10,8,25,14,16,14,17,47,2014
+12464,"Cedar Rapids, IA","Solon, IA",12,24,7,2,36,5,12,22,9,43,2014
+12222,"Cedar Rapids, IA","Council Bluffs, IA",16,19,7,4,15,23,17,17,8,42,2014
+12462,"Cedar Rapids, IA","Sioux City, IA",14,22,6,0,27,15,22,11,9,42,2014
+12320,"Cedar Rapids, IA","Keokuk, IA",22,12,6,3,21,16,17,15,8,40,2014
+12503,"Cedar Rapids, IA","Washington, IA",11,17,9,7,14,16,19,12,6,37,2014
+12423,"Cedar Rapids, IA","Pleasant Hill, IA",16,12,8,7,12,17,12,11,13,36,2014
+12189,"Cedar Rapids, IA","Bussey, IA",6,25,5,14,21,1,0,5,31,36,2014
+12394,"Cedar Rapids, IA","Newton, IA",10,19,6,6,14,15,11,13,11,35,2014
+12203,"Cedar Rapids, IA","Central City, IA",15,10,8,1,30,2,15,12,6,33,2014
+12264,"Cedar Rapids, IA","Fairfield, IA",11,10,11,1,18,13,16,9,7,32,2014
+12480,"Cedar Rapids, IA","Swisher, IA",7,18,6,12,12,7,13,9,9,31,2014
+12162,"Cedar Rapids, IA","Atkins, IA",7,21,3,12,11,8,6,8,17,31,2014
+12485,"Cedar Rapids, IA","Tipton, IA",1,21,8,8,12,10,8,13,9,30,2014
+12176,"Cedar Rapids, IA","Blairstown, IA",9,14,7,16,12,2,6,11,13,30,2014
+12351,"Cedar Rapids, IA","Luana, IA",2,20,8,0,26,4,0,5,25,30,2014
+12408,"Cedar Rapids, IA","Oskaloosa, IA",14,11,3,3,9,16,9,13,6,28,2014
+12362,"Cedar Rapids, IA","Martelle, IA",9,15,4,23,2,3,3,13,12,28,2014
+12286,"Cedar Rapids, IA","Grinnell, IA",8,12,7,2,14,11,9,12,6,27,2014
+12273,"Cedar Rapids, IA","Fort Madison, IA",9,10,5,2,12,10,11,5,8,24,2014
+12309,"Cedar Rapids, IA","Indianola, IA",6,15,3,0,13,11,4,12,8,24,2014
+12170,"Cedar Rapids, IA","Bellevue, IA",7,11,5,13,5,5,3,3,17,23,2014
+12285,"Cedar Rapids, IA","Grimes, IA",5,13,5,6,8,9,7,8,8,23,2014
+12242,"Cedar Rapids, IA","Dyersville, IA",7,12,4,1,12,10,11,8,4,23,2014
+12522,"Cedar Rapids, IA","Williamsburg, IA",7,10,6,6,11,6,8,7,8,23,2014
+12487,"Cedar Rapids, IA","Toledo, IA",10,6,6,5,14,3,8,8,6,22,2014
+12493,"Cedar Rapids, IA","Van Horne, IA",4,14,4,6,5,11,2,15,5,22,2014
+12193,"Cedar Rapids, IA","Carroll, IA",7,11,4,1,8,13,9,7,6,22,2014
+12303,"Cedar Rapids, IA","Hopkinton, IA",8,7,6,4,12,5,10,6,5,21,2014
+12180,"Cedar Rapids, IA","Boone, IA",13,6,2,0,9,12,10,9,2,21,2014
+12349,"Cedar Rapids, IA","Low Moor, IA",13,3,5,4,4,13,12,4,5,21,2014
+12312,"Cedar Rapids, IA","Iowa Falls, IA",6,12,1,3,8,8,8,6,5,19,2014
+12404,"Cedar Rapids, IA","Oelwein, IA",5,14,0,1,13,5,7,2,10,19,2014
+12357,"Cedar Rapids, IA","Maquoketa, IA",5,12,2,0,8,11,9,9,1,19,2014
+12401,"Cedar Rapids, IA","Norwalk, IA",3,9,7,0,12,7,9,6,4,19,2014
+12205,"Cedar Rapids, IA","Charles City, IA",7,8,2,0,7,10,10,2,5,17,2014
+12254,"Cedar Rapids, IA","Elk Run Heights, IA",7,8,2,14,2,1,5,9,3,17,2014
+12441,"Cedar Rapids, IA","Riverdale, IA",0,13,3,1,11,4,1,8,7,16,2014
+12427,"Cedar Rapids, IA","Prairieburg, IA",5,7,4,3,13,0,8,4,4,16,2014
+12265,"Cedar Rapids, IA","Farley, IA",2,12,0,12,1,1,1,2,11,14,2014
+12419,"Cedar Rapids, IA","Pella, IA",5,6,3,1,4,9,6,4,4,14,2014
+12204,"Cedar Rapids, IA","Chariton, IA",6,4,4,0,3,11,7,6,1,14,2014
+12465,"Cedar Rapids, IA","Spencer, IA",1,11,2,1,8,5,7,6,1,14,2014
+12292,"Cedar Rapids, IA","Hampton, IA",8,5,1,6,4,4,3,3,8,14,2014
+12523,"Cedar Rapids, IA","Wilton, IA",5,4,4,5,2,6,4,5,4,13,2014
+12169,"Cedar Rapids, IA","Belle Plaine, IA",2,9,2,5,6,2,5,3,5,13,2014
+12416,"Cedar Rapids, IA","Panorama Park, IA",3,6,4,0,0,13,0,12,1,13,2014
+12328,"Cedar Rapids, IA","Knoxville, IA",5,4,3,0,6,6,7,3,2,12,2014
+12364,"Cedar Rapids, IA","Mechanicsville, IA",1,7,4,0,4,8,3,8,1,12,2014
+12290,"Cedar Rapids, IA","Guttenberg, IA",4,7,1,0,9,3,8,3,1,12,2014
+12211,"Cedar Rapids, IA","Clear Lake, IA",5,5,1,0,6,5,6,2,3,11,2014
+12387,"Cedar Rapids, IA","Nevada, IA",5,4,2,3,7,1,5,3,3,11,2014
+12178,"Cedar Rapids, IA","Blue Grass, IA",8,2,1,2,1,8,5,4,2,11,2014
+12407,"Cedar Rapids, IA","Osceola, IA",3,7,1,2,5,4,2,5,4,11,2014
+12231,"Cedar Rapids, IA","De Witt, IA",3,3,5,0,7,4,5,4,2,11,2014
+12224,"Cedar Rapids, IA","Creston, IA",3,7,1,0,9,2,2,8,1,11,2014
+12402,"Cedar Rapids, IA","Norway, IA",4,7,0,3,5,3,1,5,5,11,2014
+12202,"Cedar Rapids, IA","Centerville, IA",3,7,1,0,2,9,1,7,3,11,2014
+12482,"Cedar Rapids, IA","Tennant, IA",2,6,1,1,5,3,3,4,2,9,2014
+12306,"Cedar Rapids, IA","Humboldt, IA",2,6,1,5,1,3,2,1,6,9,2014
+12338,"Cedar Rapids, IA","Le Mars, IA",2,7,0,0,5,4,4,4,1,9,2014
+12453,"Cedar Rapids, IA","Sergeant Bluff, IA",2,5,2,1,5,3,1,7,1,9,2014
+12270,"Cedar Rapids, IA","Forest City, IA",4,2,2,0,6,2,2,3,3,8,2014
+12406,"Cedar Rapids, IA","Osage, IA",2,3,3,6,1,1,1,2,5,8,2014
+12234,"Cedar Rapids, IA","Denison, IA",1,6,1,2,5,1,4,3,1,8,2014
+12389,"Cedar Rapids, IA","New Hampton, IA",1,4,3,0,6,2,2,3,3,8,2014
+12346,"Cedar Rapids, IA","Lone Tree, IA",2,2,4,0,3,5,0,4,4,8,2014
+12518,"Cedar Rapids, IA","West Point, IA",0,4,4,8,0,0,0,1,7,8,2014
+12436,"Cedar Rapids, IA","Red Oak, IA",1,6,1,6,1,1,0,1,7,8,2014
+12190,"Cedar Rapids, IA","Camanche, IA",2,5,1,0,1,7,3,0,5,8,2014
+12318,"Cedar Rapids, IA","Kalona, IA",1,7,0,2,5,1,2,4,2,8,2014
+12410,"Cedar Rapids, IA","Owasa, IA",2,3,2,3,1,3,1,2,4,7,2014
+12449,"Cedar Rapids, IA","Ryan, IA",1,6,0,0,7,0,4,3,0,7,2014
+12250,"Cedar Rapids, IA","Eldora, IA",5,2,0,1,5,1,3,2,2,7,2014
+12146,"Cedar Rapids, IA","Albia, IA",2,4,1,0,4,3,1,3,3,7,2014
+12332,"Cedar Rapids, IA","Lakeside, IA",2,5,0,5,1,1,1,5,1,7,2014
+12494,"Cedar Rapids, IA","Victor, IA",0,6,1,6,1,0,0,4,3,7,2014
+12529,"Cedar Rapids, IA","Worthington, IA",2,4,1,2,0,5,0,3,4,7,2014
+12474,"Cedar Rapids, IA","Storm Lake, IA",4,3,0,0,6,1,2,1,4,7,2014
+12246,"Cedar Rapids, IA","Eddyville, IA",0,4,3,5,1,1,1,2,4,7,2014
+12163,"Cedar Rapids, IA","Atlantic, IA",3,3,1,1,2,4,4,2,1,7,2014
+12490,"Cedar Rapids, IA","University Park, IA",1,4,2,1,4,2,0,5,2,7,2014
+12519,"Cedar Rapids, IA","West Union, IA",0,5,2,2,3,2,2,2,3,7,2014
+12197,"Cedar Rapids, IA","Castalia, IA",0,1,5,1,2,3,0,3,3,6,2014
+12457,"Cedar Rapids, IA","Shenandoah, IA",2,3,1,0,4,2,3,3,0,6,2014
+12460,"Cedar Rapids, IA","Sigourney, IA",3,3,0,0,3,3,0,5,1,6,2014
+12517,"Cedar Rapids, IA","West Liberty, IA",3,3,0,0,2,4,3,1,2,6,2014
+12307,"Cedar Rapids, IA","Huxley, IA",2,4,0,4,2,0,0,3,3,6,2014
+12223,"Cedar Rapids, IA","Cresco, IA",3,2,1,3,2,1,1,5,0,6,2014
+12194,"Cedar Rapids, IA","Carter Lake, IA",2,2,2,1,2,3,2,2,2,6,2014
+12248,"Cedar Rapids, IA","Elberon, IA",1,5,0,2,2,2,1,3,2,6,2014
+12287,"Cedar Rapids, IA","Grundy Center, IA",1,5,0,0,5,1,2,2,2,6,2014
+12258,"Cedar Rapids, IA","Epworth, IA",1,4,1,1,4,1,1,2,3,6,2014
+12502,"Cedar Rapids, IA","Wapello, IA",1,5,0,0,4,2,3,2,1,6,2014
+12243,"Cedar Rapids, IA","Dysart, IA",3,3,0,0,6,0,0,5,1,6,2014
+12283,"Cedar Rapids, IA","Greeley, IA",1,3,2,4,0,2,0,1,5,6,2014
+12271,"Cedar Rapids, IA","Fort Atkinson, IA",1,4,1,2,4,0,4,0,2,6,2014
+12417,"Cedar Rapids, IA","Parkersburg, IA",0,3,3,0,3,3,0,2,4,6,2014
+12390,"Cedar Rapids, IA","New Hartford, IA",0,5,0,4,1,0,0,1,4,5,2014
+12415,"Cedar Rapids, IA","Panora, IA",3,1,1,0,5,0,2,1,2,5,2014
+12316,"Cedar Rapids, IA","Jesup, IA",1,4,0,3,1,1,0,4,1,5,2014
+12255,"Cedar Rapids, IA","Elkader, IA",2,2,1,1,2,2,0,1,4,5,2014
+12456,"Cedar Rapids, IA","Sheldon, IA",2,2,1,0,4,1,3,2,0,5,2014
+12322,"Cedar Rapids, IA","Keystone, IA",2,3,0,5,0,0,0,3,2,5,2014
+12347,"Cedar Rapids, IA","Long Grove, IA",2,3,0,1,3,1,0,2,3,5,2014
+12476,"Cedar Rapids, IA","Strawberry Point, IA",2,2,1,2,2,1,2,1,2,5,2014
+12420,"Cedar Rapids, IA","Peosta, IA",1,3,1,2,2,1,1,2,2,5,2014
+12195,"Cedar Rapids, IA","Cascade, IA",2,3,0,1,4,0,3,2,0,5,2014
+12471,"Cedar Rapids, IA","Stanhope, IA",0,3,1,0,0,4,0,0,4,4,2014
+12439,"Cedar Rapids, IA","Rhodes, IA",0,4,0,0,4,0,0,1,3,4,2014
+12366,"Cedar Rapids, IA","Melcher-Dallas, IA",2,2,0,0,3,1,3,1,0,4,2014
+12185,"Cedar Rapids, IA","Britt, IA",0,4,0,0,3,1,0,3,1,4,2014
+12526,"Cedar Rapids, IA","Winterset, IA",2,2,0,0,1,3,1,1,2,4,2014
+12377,"Cedar Rapids, IA","Morning Sun, IA",2,2,0,0,2,2,0,4,0,4,2014
+12330,"Cedar Rapids, IA","Ladora, IA",0,2,2,2,2,0,1,2,1,4,2014
+12329,"Cedar Rapids, IA","La Porte City, IA",1,1,2,0,3,1,0,3,1,4,2014
+12157,"Cedar Rapids, IA","Armstrong, IA",0,3,1,2,1,1,1,1,2,4,2014
+12350,"Cedar Rapids, IA","Lowden, IA",1,3,0,0,4,0,0,0,4,4,2014
+12192,"Cedar Rapids, IA","Carlisle, IA",2,2,0,0,4,0,2,1,1,4,2014
+12172,"Cedar Rapids, IA","Bennett, IA",0,4,0,2,1,1,1,3,0,4,2014
+12378,"Cedar Rapids, IA","Morrison, IA",1,2,1,2,2,0,1,0,3,4,2014
+12298,"Cedar Rapids, IA","Harvey, IA",3,1,0,1,1,2,0,3,1,4,2014
+12281,"Cedar Rapids, IA","Grandview, IA",2,1,1,0,0,4,2,0,2,4,2014
+12233,"Cedar Rapids, IA","Delaware, IA",0,3,1,2,1,1,0,1,3,4,2014
+12226,"Cedar Rapids, IA","Dakota City, IA",2,1,1,1,1,2,2,1,1,4,2014
+12302,"Cedar Rapids, IA","Hills, IA",2,1,1,2,2,0,1,3,0,4,2014
+12425,"Cedar Rapids, IA","Polk City, IA",2,1,1,1,2,1,3,0,1,4,2014
+12426,"Cedar Rapids, IA","Postville, IA",1,3,0,0,0,4,1,2,1,4,2014
+12509,"Cedar Rapids, IA","Webster City, IA",2,2,0,0,3,1,2,0,2,4,2014
+12239,"Cedar Rapids, IA","Donnellson, IA",1,3,0,0,2,2,3,1,0,4,2014
+12217,"Cedar Rapids, IA","Conesville, IA",1,3,0,4,0,0,1,2,1,4,2014
+12379,"Cedar Rapids, IA","Mount Auburn, IA",0,2,2,2,1,1,0,2,2,4,2014
+12434,"Cedar Rapids, IA","Raymond, IA",1,2,1,0,3,1,2,0,2,4,2014
+12461,"Cedar Rapids, IA","Sioux Center, IA",1,3,0,2,2,0,1,1,2,4,2014
+12206,"Cedar Rapids, IA","Cherokee, IA",1,2,1,2,1,1,2,2,0,4,2014
+12247,"Cedar Rapids, IA","Edgewood, IA",2,2,0,0,4,0,0,2,2,4,2014
+12445,"Cedar Rapids, IA","Rockwell City, IA",1,2,0,0,2,1,2,1,0,3,2014
+12477,"Cedar Rapids, IA","Sumner, IA",2,1,0,0,1,2,1,1,1,3,2014
+12276,"Cedar Rapids, IA","Fruitland, IA",1,1,1,1,0,2,0,2,1,3,2014
+12295,"Cedar Rapids, IA","Harlan, IA",0,1,2,0,2,1,0,1,2,3,2014
+12235,"Cedar Rapids, IA","Denver, IA",0,2,1,0,2,1,1,1,1,3,2014
+12148,"Cedar Rapids, IA","Algona, IA",0,2,1,0,2,1,2,1,0,3,2014
+12368,"Cedar Rapids, IA","Merrill, IA",0,3,0,0,0,3,0,1,2,3,2014
+12238,"Cedar Rapids, IA","Dixon, IA",0,2,1,3,0,0,1,1,1,3,2014
+12472,"Cedar Rapids, IA","Steamboat Rock, IA",1,2,0,0,1,2,0,1,2,3,2014
+12284,"Cedar Rapids, IA","Greenfield, IA",0,3,0,0,2,1,0,1,2,3,2014
+12282,"Cedar Rapids, IA","Granger, IA",1,2,0,0,2,1,1,2,0,3,2014
+12352,"Cedar Rapids, IA","Lynnville, IA",0,2,1,2,1,0,1,1,1,3,2014
+12279,"Cedar Rapids, IA","Graettinger, IA",0,2,1,2,1,0,1,1,1,3,2014
+12444,"Cedar Rapids, IA","Rock Valley, IA",1,1,1,1,2,0,2,0,1,3,2014
+12488,"Cedar Rapids, IA","Traer, IA",0,2,1,0,0,3,2,1,0,3,2014
+12186,"Cedar Rapids, IA","Brooklyn, IA",1,2,0,0,1,2,0,3,0,3,2014
+12466,"Cedar Rapids, IA","Spirit Lake, IA",1,2,0,0,1,2,3,0,0,3,2014
+12398,"Cedar Rapids, IA","North English, IA",2,0,1,0,2,1,0,2,1,3,2014
+12326,"Cedar Rapids, IA","Kirkville, IA",0,3,0,1,0,2,1,1,1,3,2014
+12314,"Cedar Rapids, IA","Janesville, IA",1,2,0,1,2,0,0,3,0,3,2014
+12433,"Cedar Rapids, IA","Rathbun, IA",0,1,2,0,2,1,1,0,2,3,2014
+12431,"Cedar Rapids, IA","Randalia, IA",0,2,1,0,3,0,0,3,0,3,2014
+12187,"Cedar Rapids, IA","Buffalo, IA",1,0,2,2,0,1,0,1,2,3,2014
+12218,"Cedar Rapids, IA","Conrad, IA",1,1,1,0,1,2,2,1,0,3,2014
+12414,"Cedar Rapids, IA","Panama, IA",2,1,0,0,2,1,2,1,0,3,2014
+12183,"Cedar Rapids, IA","Brandon, IA",0,1,2,0,2,1,0,1,2,3,2014
+12391,"Cedar Rapids, IA","New London, IA",0,1,2,0,3,0,1,0,2,3,2014
+12341,"Cedar Rapids, IA","Linden, IA",1,2,0,0,0,3,2,0,1,3,2014
+12182,"Cedar Rapids, IA","Boyden, IA",2,1,0,2,0,1,1,1,1,3,2014
+12345,"Cedar Rapids, IA","Lockridge, IA",1,2,0,3,0,0,1,2,0,3,2014
+12179,"Cedar Rapids, IA","Bondurant, IA",1,2,0,0,2,1,0,1,2,3,2014
+12421,"Cedar Rapids, IA","Perry, IA",1,0,2,1,1,1,1,1,1,3,2014
+12386,"Cedar Rapids, IA","Nashua, IA",1,1,0,0,0,2,1,1,0,2,2014
+12435,"Cedar Rapids, IA","Readlyn, IA",0,1,1,0,0,2,0,1,1,2,2014
+12396,"Cedar Rapids, IA","Nodaway, IA",0,2,0,0,0,2,0,1,1,2,2014
+12384,"Cedar Rapids, IA","Murray, IA",0,2,0,1,0,1,2,0,0,2,2014
+12397,"Cedar Rapids, IA","Nora Springs, IA",0,1,1,0,2,0,1,1,0,2,2014
+12459,"Cedar Rapids, IA","Sibley, IA",0,2,0,0,2,0,0,0,2,2,2014
+12446,"Cedar Rapids, IA","Rockwell, IA",0,1,1,0,0,2,0,1,1,2,2014
+12418,"Cedar Rapids, IA","Parnell, IA",0,1,1,0,2,0,2,0,0,2,2014
+12468,"Cedar Rapids, IA","St. Olaf, IA",0,1,1,1,1,0,0,2,0,2,2014
+12296,"Cedar Rapids, IA","Harpers Ferry, IA",0,2,0,0,1,1,0,0,2,2,2014
+12262,"Cedar Rapids, IA","Fairbank, IA",0,1,1,0,2,0,0,0,2,2,2014
+12288,"Cedar Rapids, IA","Guernsey, IA",0,1,1,1,1,0,0,0,2,2,2014
+12500,"Cedar Rapids, IA","Walker, IA",2,0,0,0,2,0,1,1,0,2,2014
+12501,"Cedar Rapids, IA","Wall Lake, IA",1,1,0,0,0,2,0,1,1,2,2014
+12375,"Cedar Rapids, IA","Moravia, IA",0,2,0,0,0,2,0,0,2,2,2014
+12260,"Cedar Rapids, IA","Everly, IA",0,1,1,1,1,0,0,1,1,2,2014
+12252,"Cedar Rapids, IA","Elgin, IA",0,1,1,0,0,2,0,2,0,2,2014
+12249,"Cedar Rapids, IA","Eldon, IA",2,0,0,0,1,1,1,0,1,2,2014
+12244,"Cedar Rapids, IA","Eagle Grove, IA",2,0,0,0,0,2,1,0,1,2,2014
+12230,"Cedar Rapids, IA","De Soto, IA",0,2,0,1,0,1,0,1,1,2,2014
+12229,"Cedar Rapids, IA","Dawson, IA",2,0,0,0,0,2,1,1,0,2,2014
+12227,"Cedar Rapids, IA","Dallas Center, IA",0,1,1,2,0,0,0,1,1,2,2014
+12221,"Cedar Rapids, IA","Corydon, IA",0,1,1,0,2,0,0,0,2,2,2014
+12219,"Cedar Rapids, IA","Coon Rapids, IA",0,2,0,0,1,1,0,2,0,2,2014
+12216,"Cedar Rapids, IA","Columbus Junction, IA",0,1,1,0,2,0,0,0,2,2,2014
+12215,"Cedar Rapids, IA","Colo, IA",1,1,0,0,0,2,1,1,0,2,2014
+12512,"Cedar Rapids, IA","Wellsburg, IA",0,2,0,0,1,1,0,2,0,2,2014
+12209,"Cedar Rapids, IA","Clarion, IA",1,1,0,0,1,1,0,1,1,2,2014
+12207,"Cedar Rapids, IA","Clarence, IA",0,2,0,0,1,1,0,2,0,2,2014
+12520,"Cedar Rapids, IA","Wheatland, IA",0,2,0,0,1,1,0,1,1,2,2014
+12167,"Cedar Rapids, IA","Beaman, IA",0,1,1,0,2,0,0,1,1,2,2014
+12166,"Cedar Rapids, IA","Baxter, IA",1,1,0,0,1,1,1,0,1,2,2014
+12161,"Cedar Rapids, IA","Atalissa, IA",0,0,2,0,0,2,0,1,1,2,2014
+12158,"Cedar Rapids, IA","Arnolds Park, IA",2,0,0,0,2,0,0,2,0,2,2014
+12527,"Cedar Rapids, IA","Winthrop, IA",0,1,1,2,0,0,0,0,2,2,2014
+12274,"Cedar Rapids, IA","Fredericksburg, IA",0,1,1,0,0,2,0,1,1,2,2014
+12450,"Cedar Rapids, IA","Sac City, IA",0,1,1,0,1,1,0,0,2,2,2014
+12340,"Cedar Rapids, IA","Lincoln, IA",1,1,0,0,1,1,1,0,1,2,2014
+12315,"Cedar Rapids, IA","Jefferson, IA",1,0,1,0,2,0,1,1,0,2,2014
+12475,"Cedar Rapids, IA","Story City, IA",0,1,1,0,1,1,1,0,1,2,2014
+12367,"Cedar Rapids, IA","Meriden, IA",2,0,0,0,0,2,1,1,0,2,2014
+12293,"Cedar Rapids, IA","Hancock, IA",0,2,0,0,2,0,0,2,0,2,2014
+12339,"Cedar Rapids, IA","Lenox, IA",0,2,0,1,0,1,1,0,1,2,2014
+12144,"Cedar Rapids, IA","Adel, IA",1,1,0,0,0,2,1,1,0,2,2014
+12337,"Cedar Rapids, IA","Le Claire, IA",0,2,0,0,2,0,0,0,2,2,2014
+12333,"Cedar Rapids, IA","Lambs Grove, IA",1,1,0,0,2,0,2,0,0,2,2014
+12331,"Cedar Rapids, IA","Lake Mills, IA",1,0,1,2,0,0,1,0,1,2,2014
+12372,"Cedar Rapids, IA","Montezuma, IA",0,2,0,2,0,0,0,1,1,2,2014
+12360,"Cedar Rapids, IA","Marquette, IA",1,0,1,0,1,1,2,0,0,2,2014
+12313,"Cedar Rapids, IA","Ireton, IA",2,0,0,2,0,0,0,1,1,2,2014
+12305,"Cedar Rapids, IA","Hudson, IA",1,1,0,1,1,0,1,0,1,2,2014
+12304,"Cedar Rapids, IA","Houghton, IA",0,2,0,2,0,0,0,0,2,2,2014
+12300,"Cedar Rapids, IA","Hazleton, IA",1,1,0,1,0,1,0,2,0,2,2014
+12299,"Cedar Rapids, IA","Havelock, IA",1,1,0,1,0,1,0,2,0,2,2014
+12478,"Cedar Rapids, IA","Superior, IA",0,0,1,0,0,1,0,0,1,1,2014
+12469,"Cedar Rapids, IA","St. Paul, IA",0,1,0,0,0,1,0,1,0,1,2014
+12473,"Cedar Rapids, IA","Stockton, IA",0,1,0,0,0,1,1,0,0,1,2014
+12452,"Cedar Rapids, IA","Sanborn, IA",0,0,1,1,0,0,0,0,1,1,2014
+12528,"Cedar Rapids, IA","Wiota, IA",1,0,0,0,1,0,1,0,0,1,2014
+12530,"Cedar Rapids, IA","Wyoming, IA",0,0,1,0,1,0,0,1,0,1,2014
+12531,"Cedar Rapids, IA","Yetter, IA",0,0,1,1,0,0,1,0,0,1,2014
+12454,"Cedar Rapids, IA","Sheffield, IA",0,1,0,1,0,0,0,1,0,1,2014
+12521,"Cedar Rapids, IA","Willey, IA",0,1,0,0,1,0,0,0,1,1,2014
+12525,"Cedar Rapids, IA","Winfield, IA",0,0,1,0,1,0,0,1,0,1,2014
+12495,"Cedar Rapids, IA","Vining, IA",0,0,1,0,1,0,0,0,1,1,2014
+12513,"Cedar Rapids, IA","West Bend, IA",1,0,0,0,1,0,1,0,0,1,2014
+12455,"Cedar Rapids, IA","Shelby, IA",0,1,0,0,0,1,0,0,1,1,2014
+12479,"Cedar Rapids, IA","Swan, IA",0,1,0,1,0,0,0,0,1,1,2014
+12481,"Cedar Rapids, IA","Tama, IA",0,0,1,0,1,0,1,0,0,1,2014
+12511,"Cedar Rapids, IA","Wellman, IA",0,1,0,0,1,0,0,1,0,1,2014
+12510,"Cedar Rapids, IA","Webster, IA",0,1,0,0,1,0,0,0,1,1,2014
+12483,"Cedar Rapids, IA","Thornton, IA",0,1,0,0,0,1,0,1,0,1,2014
+12508,"Cedar Rapids, IA","Wayland, IA",0,0,1,0,1,0,0,1,0,1,2014
+12486,"Cedar Rapids, IA","Titonka, IA",0,1,0,0,0,1,0,0,1,1,2014
+12506,"Cedar Rapids, IA","Waukon, IA",1,0,0,0,0,1,1,0,0,1,2014
+12463,"Cedar Rapids, IA","Slater, IA",1,0,0,0,1,0,0,0,1,1,2014
+12498,"Cedar Rapids, IA","Walcott, IA",1,0,0,0,0,1,0,1,0,1,2014
+12497,"Cedar Rapids, IA","Wadena, IA",1,0,0,1,0,0,0,0,1,1,2014
+12470,"Cedar Rapids, IA","Stacyville, IA",0,0,1,1,0,0,1,0,0,1,2014
+12143,"Cedar Rapids, IA","Adair, IA",0,1,0,0,0,1,0,0,1,1,2014
+12448,"Cedar Rapids, IA","Rome, IA",0,0,1,0,0,1,0,1,0,1,2014
+12210,"Cedar Rapids, IA","Clarksville, IA",1,0,0,0,1,0,0,1,0,1,2014
+12225,"Cedar Rapids, IA","Cushing, IA",0,0,1,0,0,1,0,0,1,1,2014
+12237,"Cedar Rapids, IA","Dike, IA",0,0,1,0,1,0,0,1,0,1,2014
+12241,"Cedar Rapids, IA","Dunlap, IA",0,0,1,0,1,0,0,0,1,1,2014
+12245,"Cedar Rapids, IA","Early, IA",0,0,1,0,0,1,0,0,1,1,2014
+12253,"Cedar Rapids, IA","Elk Horn, IA",0,1,0,0,1,0,1,0,0,1,2014
+12256,"Cedar Rapids, IA","Ellsworth, IA",0,1,0,0,0,1,0,0,1,1,2014
+12261,"Cedar Rapids, IA","Exira, IA",0,1,0,0,0,1,0,1,0,1,2014
+12266,"Cedar Rapids, IA","Farnhamville, IA",1,0,0,0,1,0,0,1,0,1,2014
+12267,"Cedar Rapids, IA","Farragut, IA",0,1,0,0,0,1,0,0,1,1,2014
+12268,"Cedar Rapids, IA","Floris, IA",0,1,0,0,0,1,0,1,0,1,2014
+12269,"Cedar Rapids, IA","Fonda, IA",0,1,0,0,1,0,0,0,1,1,2014
+12275,"Cedar Rapids, IA","Frederika, IA",0,1,0,0,0,1,0,0,1,1,2014
+12277,"Cedar Rapids, IA","Gilman, IA",0,1,0,1,0,0,0,1,0,1,2014
+12278,"Cedar Rapids, IA","Goldfield, IA",1,0,0,1,0,0,1,0,0,1,2014
+12280,"Cedar Rapids, IA","Graf, IA",0,1,0,1,0,0,0,0,1,1,2014
+12289,"Cedar Rapids, IA","Guthrie Center, IA",0,1,0,0,0,1,1,0,0,1,2014
+12291,"Cedar Rapids, IA","Hamburg, IA",1,0,0,0,0,1,0,1,0,1,2014
+12214,"Cedar Rapids, IA","Colfax, IA",1,0,0,0,1,0,1,0,0,1,2014
+12208,"Cedar Rapids, IA","Clarinda, IA",0,1,0,0,0,1,0,0,1,1,2014
+12297,"Cedar Rapids, IA","Hartwick, IA",0,0,1,0,0,1,1,0,0,1,2014
+12200,"Cedar Rapids, IA","Center Junction, IA",1,0,0,0,1,0,1,0,0,1,2014
+12145,"Cedar Rapids, IA","Agency, IA",0,0,1,0,1,0,0,0,1,1,2014
+12147,"Cedar Rapids, IA","Albion, IA",1,0,0,0,0,1,1,0,0,1,2014
+12149,"Cedar Rapids, IA","Allison, IA",0,0,1,0,1,0,0,1,0,1,2014
+12150,"Cedar Rapids, IA","Alton, IA",0,0,1,0,0,1,0,0,1,1,2014
+12154,"Cedar Rapids, IA","Andover, IA",0,1,0,0,0,1,0,0,1,1,2014
+12155,"Cedar Rapids, IA","Anita, IA",0,1,0,1,0,0,0,1,0,1,2014
+12160,"Cedar Rapids, IA","Ashton, IA",0,0,1,1,0,0,0,0,1,1,2014
+12164,"Cedar Rapids, IA","Audubon, IA",0,0,1,0,1,0,0,1,0,1,2014
+12165,"Cedar Rapids, IA","Batavia, IA",0,1,0,0,0,1,0,0,1,1,2014
+12168,"Cedar Rapids, IA","Bedford, IA",0,0,1,0,1,0,0,0,1,1,2014
+12171,"Cedar Rapids, IA","Belmond, IA",1,0,0,0,0,1,0,1,0,1,2014
+12175,"Cedar Rapids, IA","Birmingham, IA",0,1,0,0,1,0,0,1,0,1,2014
+12177,"Cedar Rapids, IA","Bloomfield, IA",1,0,0,0,0,1,0,1,0,1,2014
+12181,"Cedar Rapids, IA","Boxholm, IA",0,1,0,0,0,1,0,0,1,1,2014
+12184,"Cedar Rapids, IA","Bristow, IA",1,0,0,0,1,0,1,0,0,1,2014
+12191,"Cedar Rapids, IA","Cambridge, IA",1,0,0,1,0,0,1,0,0,1,2014
+12196,"Cedar Rapids, IA","Casey, IA",0,1,0,0,1,0,0,1,0,1,2014
+12294,"Cedar Rapids, IA","Harcourt, IA",0,0,1,0,0,1,0,0,1,1,2014
+12310,"Cedar Rapids, IA","Ionia, IA",0,1,0,0,0,1,0,0,1,1,2014
+12447,"Cedar Rapids, IA","Rodney, IA",0,1,0,0,1,0,1,0,0,1,2014
+12380,"Cedar Rapids, IA","Mount Ayr, IA",0,1,0,0,0,1,0,1,0,1,2014
+12388,"Cedar Rapids, IA","New Albin, IA",0,0,1,0,1,0,0,0,1,1,2014
+12392,"Cedar Rapids, IA","New Vienna, IA",0,0,1,0,1,0,1,0,0,1,2014
+12393,"Cedar Rapids, IA","Newell, IA",0,0,1,0,0,1,0,0,1,1,2014
+12395,"Cedar Rapids, IA","Nichols, IA",0,0,1,0,0,1,0,0,1,1,2014
+12400,"Cedar Rapids, IA","Northwood, IA",1,0,0,0,1,0,1,0,0,1,2014
+12403,"Cedar Rapids, IA","Oakland, IA",0,0,1,0,1,0,1,0,0,1,2014
+12405,"Cedar Rapids, IA","Orange City, IA",0,1,0,1,0,0,0,0,1,1,2014
+12412,"Cedar Rapids, IA","Oyens, IA",0,0,1,1,0,0,0,0,1,1,2014
+12422,"Cedar Rapids, IA","Peterson, IA",1,0,0,0,1,0,0,1,0,1,2014
+12424,"Cedar Rapids, IA","Pleasantville, IA",0,1,0,0,0,1,1,0,0,1,2014
+12428,"Cedar Rapids, IA","Preston, IA",0,0,1,1,0,0,0,0,1,1,2014
+12429,"Cedar Rapids, IA","Princeton, IA",0,0,1,0,0,1,0,0,1,1,2014
+12430,"Cedar Rapids, IA","Protivin, IA",1,0,0,0,0,1,1,0,0,1,2014
+12432,"Cedar Rapids, IA","Randolph, IA",0,0,1,0,1,0,1,0,0,1,2014
+12437,"Cedar Rapids, IA","Reinbeck, IA",0,1,0,1,0,0,0,0,1,1,2014
+12438,"Cedar Rapids, IA","Renwick, IA",0,1,0,0,1,0,0,1,0,1,2014
+12440,"Cedar Rapids, IA","Rinard, IA",1,0,0,0,0,1,1,0,0,1,2014
+12382,"Cedar Rapids, IA","Mount Union, IA",0,1,0,0,0,1,0,1,0,1,2014
+12374,"Cedar Rapids, IA","Montrose, IA",0,1,0,0,0,1,0,1,0,1,2014
+12319,"Cedar Rapids, IA","Kamrar, IA",0,1,0,0,0,1,0,1,0,1,2014
+12371,"Cedar Rapids, IA","Monona, IA",0,1,0,0,1,0,0,0,1,1,2014
+12321,"Cedar Rapids, IA","Keota, IA",1,0,0,0,1,0,1,0,0,1,2014
+12323,"Cedar Rapids, IA","Kingsley, IA",0,1,0,0,1,0,0,1,0,1,2014
+12324,"Cedar Rapids, IA","Kinross, IA",0,1,0,1,0,0,0,0,1,1,2014
+12325,"Cedar Rapids, IA","Kirkman, IA",0,1,0,1,0,0,0,0,1,1,2014
+12327,"Cedar Rapids, IA","Kiron, IA",0,1,0,0,0,1,0,0,1,1,2014
+12334,"Cedar Rapids, IA","Lamoni, IA",1,0,0,0,1,0,1,0,0,1,2014
+12335,"Cedar Rapids, IA","Lansing, IA",0,1,0,0,0,1,0,1,0,1,2014
+12336,"Cedar Rapids, IA","Larrabee, IA",0,1,0,0,0,1,0,1,0,1,2014
+12343,"Cedar Rapids, IA","Liscomb, IA",0,1,0,0,0,1,0,0,1,1,2014
+12344,"Cedar Rapids, IA","Livermore, IA",1,0,0,0,0,1,0,0,1,1,2014
+12348,"Cedar Rapids, IA","Lost Nation, IA",0,1,0,0,1,0,0,0,1,1,2014
+12353,"Cedar Rapids, IA","Madrid, IA",1,0,0,0,1,0,0,1,0,1,2014
+12355,"Cedar Rapids, IA","Manning, IA",0,1,0,0,1,0,0,1,0,1,2014
+12356,"Cedar Rapids, IA","Manson, IA",0,0,1,0,0,1,0,1,0,1,2014
+12365,"Cedar Rapids, IA","Melbourne, IA",0,1,0,0,1,0,0,0,1,1,2014
+12369,"Cedar Rapids, IA","Middletown, IA",0,1,0,1,0,0,0,0,1,1,2014
+12370,"Cedar Rapids, IA","Milford, IA",1,0,0,0,1,0,1,0,0,1,2014
+12532,"Cedar Rapids, IA","Zwingle, IA",0,1,0,0,0,1,0,0,1,1,2014

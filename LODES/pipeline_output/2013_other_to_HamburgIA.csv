@@ -1,0 +1,63 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+30657,"Hamburg, IA","Hamburg, IA",38,120,73,49,133,49,61,89,81,231,2013
+30683,"Hamburg, IA","Riverton, IA",6,12,12,6,19,5,10,7,13,30,2013
+30680,"Hamburg, IA","Randolph, IA",6,20,1,2,22,3,10,9,8,27,2013
+30654,"Hamburg, IA","Farragut, IA",2,11,2,1,11,3,6,4,5,15,2013
+30644,"Hamburg, IA","Council Bluffs, IA",2,7,6,3,6,6,9,3,3,15,2013
+30684,"Hamburg, IA","Shenandoah, IA",2,7,4,8,4,1,3,2,8,13,2013
+30678,"Hamburg, IA","Pacific Junction, IA",1,6,3,2,3,5,0,1,9,10,2013
+30681,"Hamburg, IA","Red Oak, IA",3,4,0,0,1,6,2,2,3,7,2013
+30685,"Hamburg, IA","Sidney, IA",2,3,1,1,3,2,1,3,2,6,2013
+30665,"Hamburg, IA","Lewis, IA",2,2,1,1,0,4,0,1,4,5,2013
+30640,"Hamburg, IA","Carson, IA",2,2,0,0,1,3,1,1,2,4,2013
+30658,"Hamburg, IA","Hancock, IA",2,2,0,0,0,4,0,3,1,4,2013
+30686,"Hamburg, IA","Silver City, IA",1,0,3,2,1,1,1,1,2,4,2013
+30656,"Hamburg, IA","Grant, IA",2,1,1,0,0,4,1,1,2,4,2013
+30651,"Hamburg, IA","Elliott, IA",0,3,1,1,0,3,0,1,3,4,2013
+30641,"Hamburg, IA","Centerville, IA",1,2,0,0,1,2,1,2,0,3,2013
+30668,"Hamburg, IA","Macedonia, IA",0,3,0,3,0,0,0,0,3,3,2013
+30634,"Hamburg, IA","Atlantic, IA",0,2,1,0,3,0,0,3,0,3,2013
+30633,"Hamburg, IA","Ames, IA",2,1,0,0,1,2,2,1,0,3,2013
+30642,"Hamburg, IA","Clarinda, IA",1,0,2,0,2,1,1,0,2,3,2013
+30677,"Hamburg, IA","Oakland, IA",0,1,1,1,0,1,0,1,1,2,2013
+30655,"Hamburg, IA","Glenwood, IA",0,2,0,1,1,0,2,0,0,2,2013
+30692,"Hamburg, IA","Wiota, IA",2,0,0,0,1,1,0,1,1,2,2013
+30671,"Hamburg, IA","Massena, IA",1,0,1,0,0,2,0,0,2,2,2013
+30646,"Hamburg, IA","Cumberland, IA",0,0,2,0,0,2,0,0,2,2,2013
+30687,"Hamburg, IA","Sioux City, IA",0,1,1,0,1,1,0,0,2,2,2013
+30689,"Hamburg, IA","Underwood, IA",0,2,0,0,0,2,0,0,2,2,2013
+30636,"Hamburg, IA","Bettendorf, IA",1,0,1,0,1,1,2,0,0,2,2013
+30664,"Hamburg, IA","Le Mars, IA",0,1,1,1,0,1,1,1,0,2,2013
+30675,"Hamburg, IA","New London, IA",0,0,1,0,0,1,1,0,0,1,2013
+30674,"Hamburg, IA","Montrose, IA",1,0,0,0,1,0,0,1,0,1,2013
+30673,"Hamburg, IA","Merrill, IA",0,1,0,1,0,0,0,1,0,1,2013
+30682,"Hamburg, IA","Riverdale, IA",0,0,1,0,1,0,0,1,0,1,2013
+30676,"Hamburg, IA","North English, IA",0,1,0,0,1,0,0,1,0,1,2013
+30679,"Hamburg, IA","Pleasant Hill, IA",0,0,1,0,0,1,1,0,0,1,2013
+30688,"Hamburg, IA","Stanton, IA",0,1,0,0,0,1,0,0,1,1,2013
+30690,"Hamburg, IA","Urbandale, IA",1,0,0,0,0,1,0,1,0,1,2013
+30691,"Hamburg, IA","Williamsburg, IA",1,0,0,0,0,1,1,0,0,1,2013
+30672,"Hamburg, IA","Mechanicsville, IA",0,0,1,0,0,1,0,0,1,1,2013
+30631,"Hamburg, IA","Alton, IA",0,1,0,0,0,1,1,0,0,1,2013
+30670,"Hamburg, IA","Malvern, IA",0,1,0,0,0,1,0,0,1,1,2013
+30669,"Hamburg, IA","Magnolia, IA",0,0,1,0,1,0,1,0,0,1,2013
+30635,"Hamburg, IA","Bennett, IA",0,1,0,0,1,0,0,0,1,1,2013
+30637,"Hamburg, IA","Blanchard, IA",1,0,0,1,0,0,0,1,0,1,2013
+30638,"Hamburg, IA","Brighton, IA",0,1,0,0,0,1,1,0,0,1,2013
+30639,"Hamburg, IA","Carroll, IA",1,0,0,0,0,1,1,0,0,1,2013
+30643,"Hamburg, IA","Coburg, IA",0,1,0,0,1,0,0,1,0,1,2013
+30645,"Hamburg, IA","Crescent, IA",0,0,1,0,0,1,0,1,0,1,2013
+30647,"Hamburg, IA","Davenport, IA",1,0,0,0,0,1,1,0,0,1,2013
+30648,"Hamburg, IA","Des Moines, IA",0,1,0,0,1,0,0,0,1,1,2013
+30649,"Hamburg, IA","Donnellson, IA",0,0,1,0,0,1,1,0,0,1,2013
+30650,"Hamburg, IA","Dunlap, IA",0,0,1,0,1,0,1,0,0,1,2013
+30652,"Hamburg, IA","Ely, IA",0,1,0,1,0,0,0,0,1,1,2013
+30653,"Hamburg, IA","Fairfield, IA",1,0,0,0,1,0,0,1,0,1,2013
+30659,"Hamburg, IA","Henderson, IA",0,1,0,0,1,0,0,1,0,1,2013
+30660,"Hamburg, IA","Imogene, IA",0,1,0,0,1,0,0,1,0,1,2013
+30661,"Hamburg, IA","Iowa City, IA",0,0,1,0,1,0,0,1,0,1,2013
+30632,"Hamburg, IA","Altoona, IA",0,0,1,0,0,1,0,1,0,1,2013
+30663,"Hamburg, IA","Lamoni, IA",0,1,0,0,1,0,1,0,0,1,2013
+30666,"Hamburg, IA","Lidderdale, IA",0,0,1,0,1,0,0,0,1,1,2013
+30667,"Hamburg, IA","Lineville, IA",0,0,1,0,0,1,1,0,0,1,2013
+30662,"Hamburg, IA","Jefferson, IA",0,1,0,1,0,0,0,1,0,1,2013

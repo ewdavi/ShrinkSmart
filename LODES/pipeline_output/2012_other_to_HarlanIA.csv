@@ -1,0 +1,228 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+31250,"Harlan, IA","Harlan, IA",123,319,225,86,479,102,259,218,190,667,2012
+31361,"Harlan, IA","Tennant, IA",55,121,70,38,168,40,81,99,66,246,2012
+31267,"Harlan, IA","Kirkman, IA",22,43,39,12,74,18,35,39,30,104,2012
+31320,"Harlan, IA","Panama, IA",17,38,22,15,46,16,28,33,16,77,2012
+31208,"Harlan, IA","Council Bluffs, IA",18,41,10,9,52,8,22,25,22,69,2012
+31226,"Harlan, IA","Elk Horn, IA",4,33,15,6,38,8,15,23,14,52,2012
+31266,"Harlan, IA","Kimballton, IA",6,22,14,6,34,2,12,15,15,42,2012
+31219,"Harlan, IA","Denison, IA",8,24,7,9,26,4,9,16,14,39,2012
+31217,"Harlan, IA","Defiance, IA",4,25,7,8,24,4,5,16,15,36,2012
+31341,"Harlan, IA","Shelby, IA",9,20,7,5,27,4,10,18,8,36,2012
+31261,"Harlan, IA","Irwin, IA",1,17,11,5,22,2,5,13,11,29,2012
+31167,"Harlan, IA","Atlantic, IA",5,19,4,3,24,1,12,10,6,28,2012
+31170,"Harlan, IA","Avoca, IA",1,17,5,6,16,1,7,9,7,23,2012
+31368,"Harlan, IA","Walnut, IA",4,14,4,3,16,3,5,12,5,22,2012
+31276,"Harlan, IA","Logan, IA",4,13,3,5,11,4,3,11,6,20,2012
+31232,"Harlan, IA","Exira, IA",4,7,7,1,10,7,6,9,3,18,2012
+31294,"Harlan, IA","Missouri Valley, IA",4,12,2,4,8,6,6,8,4,18,2012
+31168,"Harlan, IA","Audubon, IA",2,11,4,0,15,2,6,6,5,17,2012
+31258,"Harlan, IA","Indianola, IA",6,9,1,0,11,5,5,5,6,16,2012
+31187,"Harlan, IA","Carter Lake, IA",6,5,5,2,9,5,5,6,5,16,2012
+31249,"Harlan, IA","Hancock, IA",2,10,2,2,10,2,1,9,4,14,2012
+31163,"Harlan, IA","Ames, IA",1,9,4,0,13,1,5,3,6,14,2012
+31325,"Harlan, IA","Pleasant Hill, IA",3,8,2,1,8,4,4,3,6,13,2012
+31365,"Harlan, IA","Urbandale, IA",1,10,2,0,10,3,2,7,4,13,2012
+31220,"Harlan, IA","Des Moines, IA",4,5,3,0,8,4,5,2,5,12,2012
+31296,"Harlan, IA","Mondamin, IA",1,7,3,0,10,1,2,7,2,11,2012
+31380,"Harlan, IA","Woodbine, IA",2,8,1,1,7,3,0,5,6,11,2012
+31281,"Harlan, IA","Manilla, IA",1,8,2,4,7,0,0,5,6,11,2012
+31283,"Harlan, IA","Manning, IA",1,7,3,1,9,1,0,8,3,11,2012
+31195,"Harlan, IA","Charter Oak, IA",0,5,6,0,10,1,6,4,1,11,2012
+31349,"Harlan, IA","Sioux City, IA",3,5,3,1,4,6,3,3,5,11,2012
+31273,"Harlan, IA","Lewis, IA",2,6,2,1,9,0,4,4,2,10,2012
+31347,"Harlan, IA","Silver City, IA",2,5,3,0,10,0,1,5,4,10,2012
+31318,"Harlan, IA","Pacific Junction, IA",2,8,0,3,4,3,3,3,4,10,2012
+31242,"Harlan, IA","Glenwood, IA",1,4,4,1,7,1,1,7,1,9,2012
+31310,"Harlan, IA","Onawa, IA",3,4,1,0,7,1,2,5,1,8,2012
+31342,"Harlan, IA","Shenandoah, IA",2,5,1,0,7,1,2,2,4,8,2012
+31327,"Harlan, IA","Portsmouth, IA",1,5,1,0,7,0,3,1,3,7,2012
+31331,"Harlan, IA","Red Oak, IA",2,3,2,0,5,2,3,3,1,7,2012
+31185,"Harlan, IA","Carroll, IA",2,5,0,0,5,2,3,4,0,7,2012
+31186,"Harlan, IA","Carson, IA",2,1,4,1,6,0,2,4,1,7,2012
+31379,"Harlan, IA","Wiota, IA",1,3,2,1,2,3,0,4,2,6,2012
+31162,"Harlan, IA","Altoona, IA",0,5,1,1,5,0,0,3,3,6,2012
+31218,"Harlan, IA","Deloit, IA",0,2,4,1,5,0,2,2,2,6,2012
+31378,"Harlan, IA","Windsor Heights, IA",2,4,0,0,6,0,1,4,1,6,2012
+31279,"Harlan, IA","Magnolia, IA",1,4,1,1,5,0,2,2,2,6,2012
+31181,"Harlan, IA","Buck Grove, IA",0,5,1,1,4,1,0,4,2,6,2012
+31197,"Harlan, IA","Clarinda, IA",3,0,3,0,3,3,3,2,1,6,2012
+31289,"Harlan, IA","McClelland, IA",0,4,2,2,3,1,1,2,3,6,2012
+31308,"Harlan, IA","Oakland, IA",1,4,1,0,5,1,1,2,3,6,2012
+31213,"Harlan, IA","Danbury, IA",0,3,3,1,5,0,0,6,0,6,2012
+31246,"Harlan, IA","Grant, IA",0,4,1,0,5,0,1,3,1,5,2012
+31280,"Harlan, IA","Malvern, IA",1,2,2,0,4,1,0,4,1,5,2012
+31351,"Harlan, IA","Soldier, IA",1,2,2,1,4,0,0,3,2,5,2012
+31222,"Harlan, IA","Dunlap, IA",2,3,0,1,4,0,2,1,2,5,2012
+31315,"Harlan, IA","Ottumwa, IA",0,1,3,0,4,0,2,2,0,4,2012
+31157,"Harlan, IA","Adair, IA",1,3,0,0,3,1,3,1,0,4,2012
+31209,"Harlan, IA","Crescent, IA",1,2,1,0,4,0,0,2,2,4,2012
+31164,"Harlan, IA","Anita, IA",0,2,2,0,4,0,2,1,1,4,2012
+31182,"Harlan, IA","Burlington, IA",2,1,1,0,2,2,0,2,2,4,2012
+31178,"Harlan, IA","Brayton, IA",1,2,1,1,3,0,0,4,0,4,2012
+31330,"Harlan, IA","Randolph, IA",0,3,0,0,2,1,2,0,1,3,2012
+31363,"Harlan, IA","Underwood, IA",0,2,1,1,2,0,1,1,1,3,2012
+31234,"Harlan, IA","Fairfax, IA",0,2,1,0,2,1,1,0,2,3,2012
+31239,"Harlan, IA","Fort Dodge, IA",2,1,0,0,2,1,3,0,0,3,2012
+31358,"Harlan, IA","Stanton, IA",1,1,1,1,1,1,1,2,0,3,2012
+31243,"Harlan, IA","Glidden, IA",0,1,2,0,3,0,3,0,0,3,2012
+31175,"Harlan, IA","Bertram, IA",1,1,1,0,3,0,1,1,1,3,2012
+31231,"Harlan, IA","Estherville, IA",0,3,0,0,2,1,1,0,2,3,2012
+31278,"Harlan, IA","Macedonia, IA",0,3,0,0,1,2,0,1,2,3,2012
+31252,"Harlan, IA","Hastings, IA",0,1,2,1,1,1,1,2,0,3,2012
+31255,"Harlan, IA","Henderson, IA",0,2,1,1,2,0,0,0,3,3,2012
+31374,"Harlan, IA","Westside, IA",1,0,2,0,3,0,0,3,0,3,2012
+31260,"Harlan, IA","Iowa City, IA",0,2,1,0,2,1,1,1,1,3,2012
+31350,"Harlan, IA","Sloan, IA",0,2,1,0,2,1,1,2,0,3,2012
+31156,"Harlan, IA","Ackworth, IA",0,1,2,0,2,1,1,2,0,3,2012
+31301,"Harlan, IA","Moulton, IA",0,3,0,0,2,1,2,1,0,3,2012
+31191,"Harlan, IA","Cedar Rapids, IA",1,1,1,0,3,0,0,2,1,3,2012
+31311,"Harlan, IA","Orange City, IA",1,2,0,0,1,2,2,0,1,3,2012
+31333,"Harlan, IA","Riverton, IA",1,0,2,1,2,0,1,1,1,3,2012
+31335,"Harlan, IA","Rodney, IA",0,2,1,0,2,1,2,1,0,3,2012
+31338,"Harlan, IA","Schleswig, IA",0,2,1,0,3,0,1,2,0,3,2012
+31309,"Harlan, IA","Oelwein, IA",2,1,0,0,2,1,1,1,1,3,2012
+31199,"Harlan, IA","Clinton, IA",1,1,1,0,0,3,2,1,0,3,2012
+31355,"Harlan, IA","St. Marys, IA",1,1,0,0,2,0,1,0,1,2,2012
+31305,"Harlan, IA","New Market, IA",1,1,0,1,1,0,1,0,1,2,2012
+31302,"Harlan, IA","Mount Pleasant, IA",0,2,0,0,1,1,0,1,1,2,2012
+31377,"Harlan, IA","Wilton, IA",0,1,1,0,1,1,0,2,0,2,2012
+31332,"Harlan, IA","Redding, IA",2,0,0,0,0,2,0,1,1,2,2012
+31376,"Harlan, IA","Williamsburg, IA",2,0,0,0,2,0,1,1,0,2,2012
+31352,"Harlan, IA","Spencer, IA",1,1,0,0,2,0,0,0,2,2,2012
+31295,"Harlan, IA","Mitchellville, IA",0,2,0,0,2,0,0,1,1,2,2012
+31274,"Harlan, IA","Lidderdale, IA",1,1,0,0,1,1,2,0,0,2,2012
+31275,"Harlan, IA","Little Sioux, IA",0,1,1,1,1,0,0,0,2,2,2012
+31354,"Harlan, IA","Spring Hill, IA",0,2,0,0,2,0,0,0,2,2,2012
+31372,"Harlan, IA","West Des Moines, IA",1,1,0,0,2,0,1,1,0,2,2012
+31369,"Harlan, IA","Waterloo, IA",1,1,0,0,2,0,1,0,1,2,2012
+31366,"Harlan, IA","Wall Lake, IA",1,0,1,0,2,0,0,2,0,2,2012
+31339,"Harlan, IA","Sergeant Bluff, IA",0,1,1,0,1,1,1,1,0,2,2012
+31299,"Harlan, IA","Moravia, IA",0,2,0,0,2,0,1,0,1,2,2012
+31314,"Harlan, IA","Oskaloosa, IA",1,1,0,0,1,1,0,1,1,2,2012
+31362,"Harlan, IA","Truesdale, IA",1,1,0,1,0,1,0,1,1,2,2012
+31343,"Harlan, IA","Shueyville, IA",0,0,2,0,2,0,0,1,1,2,2012
+31307,"Harlan, IA","Nodaway, IA",1,1,0,0,1,1,1,0,1,2,2012
+31303,"Harlan, IA","Mount Vernon, IA",0,2,0,0,2,0,0,2,0,2,2012
+31293,"Harlan, IA","Minden, IA",2,0,0,0,1,1,2,0,0,2,2012
+31269,"Harlan, IA","Ladora, IA",1,0,1,0,2,0,1,1,0,2,2012
+31382,"Harlan, IA","Yetter, IA",0,2,0,0,2,0,0,2,0,2,2012
+31171,"Harlan, IA","Batavia, IA",0,2,0,0,2,0,1,0,1,2,2012
+31210,"Harlan, IA","Creston, IA",1,0,1,0,1,1,2,0,0,2,2012
+31211,"Harlan, IA","Cumberland, IA",1,0,1,0,1,1,1,0,1,2,2012
+31202,"Harlan, IA","Coggon, IA",0,2,0,0,0,2,1,0,1,2,2012
+31225,"Harlan, IA","Eddyville, IA",0,0,2,0,2,0,0,1,1,2,2012
+31192,"Harlan, IA","Centerville, IA",0,0,2,0,2,0,0,2,0,2,2012
+31190,"Harlan, IA","Cedar Falls, IA",0,1,1,0,0,2,0,0,2,2,2012
+31183,"Harlan, IA","Bussey, IA",0,1,1,0,2,0,0,2,0,2,2012
+31237,"Harlan, IA","Floris, IA",0,2,0,0,2,0,0,0,2,2,2012
+31179,"Harlan, IA","Brighton, IA",0,1,1,0,2,0,0,2,0,2,2012
+31177,"Harlan, IA","Braddyville, IA",0,2,0,0,2,0,2,0,0,2,2012
+31174,"Harlan, IA","Bennett, IA",0,2,0,0,2,0,0,0,2,2,2012
+31173,"Harlan, IA","Belmond, IA",0,2,0,0,2,0,1,1,0,2,2012
+31244,"Harlan, IA","Graettinger, IA",1,0,1,0,1,1,1,1,0,2,2012
+31236,"Harlan, IA","Ferguson, IA",1,1,0,0,2,0,0,1,1,2,2012
+31257,"Harlan, IA","Ida Grove, IA",2,0,0,0,1,1,1,1,0,2,2012
+31169,"Harlan, IA","Aurelia, IA",1,1,0,0,1,1,2,0,0,2,2012
+31160,"Harlan, IA","Akron, IA",0,1,1,1,1,0,0,1,1,2,2012
+31251,"Harlan, IA","Hartley, IA",2,0,0,0,1,1,1,0,1,2,2012
+31262,"Harlan, IA","Johnston, IA",2,0,0,0,1,1,0,2,0,2,2012
+31161,"Harlan, IA","Algona, IA",1,0,1,0,1,1,1,1,0,2,2012
+31200,"Harlan, IA","Clive, IA",1,0,0,0,1,0,1,0,0,1,2012
+31159,"Harlan, IA","Agency, IA",1,0,0,0,1,0,0,1,0,1,2012
+31345,"Harlan, IA","Sidney, IA",1,0,0,0,1,0,0,1,0,1,2012
+31344,"Harlan, IA","Sibley, IA",0,1,0,0,1,0,0,1,0,1,2012
+31194,"Harlan, IA","Charles City, IA",0,0,1,0,0,1,0,1,0,1,2012
+31196,"Harlan, IA","Churdan, IA",0,1,0,0,1,0,0,0,1,1,2012
+31198,"Harlan, IA","Clarion, IA",0,1,0,0,1,0,1,0,0,1,2012
+31340,"Harlan, IA","Shannon City, IA",0,1,0,0,1,0,0,0,1,1,2012
+31337,"Harlan, IA","Schaller, IA",0,1,0,0,1,0,0,1,0,1,2012
+31201,"Harlan, IA","Coburg, IA",1,0,0,0,0,1,0,1,0,1,2012
+31193,"Harlan, IA","Chariton, IA",0,0,1,0,1,0,0,1,0,1,2012
+31336,"Harlan, IA","Sac City, IA",1,0,0,0,0,1,1,0,0,1,2012
+31158,"Harlan, IA","Afton, IA",1,0,0,0,0,1,1,0,0,1,2012
+31334,"Harlan, IA","Rockwell, IA",0,0,1,0,1,0,0,1,0,1,2012
+31203,"Harlan, IA","Columbus Junction, IA",0,1,0,0,0,1,0,1,0,1,2012
+31204,"Harlan, IA","Coon Rapids, IA",0,1,0,0,1,0,0,0,1,1,2012
+31205,"Harlan, IA","Corning, IA",0,0,1,0,1,0,0,0,1,1,2012
+31206,"Harlan, IA","Corwith, IA",1,0,0,0,0,1,0,0,1,1,2012
+31381,"Harlan, IA","Woolstock, IA",1,0,0,0,0,1,0,0,1,1,2012
+31346,"Harlan, IA","Sigourney, IA",0,0,1,0,1,0,0,1,0,1,2012
+31370,"Harlan, IA","Webster City, IA",0,1,0,0,0,1,1,0,0,1,2012
+31348,"Harlan, IA","Sioux Center, IA",0,1,0,0,1,0,0,1,0,1,2012
+31359,"Harlan, IA","Sumner, IA",0,0,1,0,1,0,0,0,1,1,2012
+31172,"Harlan, IA","Bayard, IA",0,0,1,0,1,0,0,0,1,1,2012
+31367,"Harlan, IA","Wallingford, IA",0,0,1,0,0,1,0,0,1,1,2012
+31373,"Harlan, IA","Westfield, IA",0,1,0,0,1,0,0,1,0,1,2012
+31364,"Harlan, IA","University Park, IA",0,1,0,0,1,0,0,1,0,1,2012
+31176,"Harlan, IA","Blanchard, IA",1,0,0,0,0,1,1,0,0,1,2012
+31166,"Harlan, IA","Arthur, IA",1,0,0,0,0,1,0,1,0,1,2012
+31375,"Harlan, IA","Willey, IA",0,1,0,0,1,0,1,0,0,1,2012
+31360,"Harlan, IA","Swea City, IA",0,1,0,0,1,0,1,0,0,1,2012
+31180,"Harlan, IA","Britt, IA",1,0,0,0,0,1,0,0,1,1,2012
+31371,"Harlan, IA","Webster, IA",0,1,0,0,1,0,0,1,0,1,2012
+31357,"Harlan, IA","Stanhope, IA",0,1,0,1,0,0,0,1,0,1,2012
+31165,"Harlan, IA","Ankeny, IA",1,0,0,0,0,1,1,0,0,1,2012
+31328,"Harlan, IA","Protivin, IA",1,0,0,0,1,0,1,0,0,1,2012
+31356,"Harlan, IA","Stacyville, IA",1,0,0,0,0,1,1,0,0,1,2012
+31184,"Harlan, IA","Camanche, IA",0,1,0,0,0,1,0,1,0,1,2012
+31353,"Harlan, IA","Spirit Lake, IA",0,0,1,0,1,0,0,0,1,1,2012
+31188,"Harlan, IA","Castalia, IA",0,1,0,0,0,1,0,1,0,1,2012
+31189,"Harlan, IA","Castana, IA",0,1,0,0,0,1,0,1,0,1,2012
+31329,"Harlan, IA","Randalia, IA",0,1,0,0,1,0,0,0,1,1,2012
+31263,"Harlan, IA","Keokuk, IA",1,0,0,0,0,1,0,1,0,1,2012
+31207,"Harlan, IA","Corydon, IA",0,0,1,0,1,0,0,1,0,1,2012
+31245,"Harlan, IA","Grand Junction, IA",0,1,0,0,1,0,0,0,1,1,2012
+31292,"Harlan, IA","Milford, IA",0,1,0,0,1,0,0,1,0,1,2012
+31291,"Harlan, IA","Merrill, IA",1,0,0,0,0,1,1,0,0,1,2012
+31290,"Harlan, IA","Meriden, IA",0,0,1,0,0,1,0,1,0,1,2012
+31240,"Harlan, IA","Garner, IA",0,0,1,0,1,0,0,1,0,1,2012
+31288,"Harlan, IA","Massena, IA",1,0,0,0,1,0,1,0,0,1,2012
+31287,"Harlan, IA","Mason City, IA",0,0,1,0,1,0,0,1,0,1,2012
+31286,"Harlan, IA","Marcus, IA",1,0,0,0,0,1,0,1,0,1,2012
+31285,"Harlan, IA","Marble Rock, IA",0,1,0,0,1,0,0,1,0,1,2012
+31284,"Harlan, IA","Mapleton, IA",0,1,0,0,1,0,0,1,0,1,2012
+31241,"Harlan, IA","Gilbertville, IA",1,0,0,0,1,0,0,0,1,1,2012
+31282,"Harlan, IA","Manly, IA",0,1,0,0,1,0,0,1,0,1,2012
+31247,"Harlan, IA","Gravity, IA",0,1,0,0,1,0,0,1,0,1,2012
+31235,"Harlan, IA","Farmington, IA",0,1,0,0,1,0,0,0,1,1,2012
+31248,"Harlan, IA","Hampton, IA",0,1,0,0,0,1,0,0,1,1,2012
+31277,"Harlan, IA","Luana, IA",0,0,1,0,1,0,0,1,0,1,2012
+31253,"Harlan, IA","Hawarden, IA",0,1,0,0,1,0,1,0,0,1,2012
+31254,"Harlan, IA","Hazleton, IA",0,0,1,0,0,1,0,1,0,1,2012
+31256,"Harlan, IA","Humboldt, IA",0,0,1,0,1,0,0,0,1,1,2012
+31272,"Harlan, IA","Lenox, IA",0,1,0,0,0,1,0,0,1,1,2012
+31271,"Harlan, IA","Le Grand, IA",0,1,0,0,1,0,0,1,0,1,2012
+31270,"Harlan, IA","Lamoni, IA",0,1,0,0,1,0,0,1,0,1,2012
+31268,"Harlan, IA","Lacona, IA",0,1,0,0,1,0,1,0,0,1,2012
+31259,"Harlan, IA","Inwood, IA",0,1,0,0,1,0,0,0,1,1,2012
+31265,"Harlan, IA","Keota, IA",0,1,0,0,1,0,0,1,0,1,2012
+31238,"Harlan, IA","Fort Atkinson, IA",0,1,0,0,1,0,0,0,1,1,2012
+31297,"Harlan, IA","Monticello, IA",0,1,0,0,1,0,0,0,1,1,2012
+31326,"Harlan, IA","Pomeroy, IA",0,1,0,0,1,0,0,1,0,1,2012
+31312,"Harlan, IA","Osage, IA",0,1,0,0,1,0,1,0,0,1,2012
+31324,"Harlan, IA","Plano, IA",0,0,1,0,0,1,0,1,0,1,2012
+31264,"Harlan, IA","Keosauqua, IA",0,1,0,0,1,0,1,0,0,1,2012
+31322,"Harlan, IA","Paullina, IA",0,0,1,0,1,0,0,0,1,1,2012
+31321,"Harlan, IA","Panora, IA",0,0,1,0,1,0,0,0,1,1,2012
+31319,"Harlan, IA","Palo, IA",0,1,0,0,1,0,0,1,0,1,2012
+31212,"Harlan, IA","Cushing, IA",0,1,0,0,1,0,0,0,1,1,2012
+31317,"Harlan, IA","Oyens, IA",0,1,0,0,0,1,0,0,1,1,2012
+31316,"Harlan, IA","Oxford Junction, IA",0,0,1,0,1,0,0,1,0,1,2012
+31214,"Harlan, IA","Dawson, IA",0,1,0,0,0,1,1,0,0,1,2012
+31215,"Harlan, IA","De Witt, IA",0,0,1,0,1,0,0,0,1,1,2012
+31313,"Harlan, IA","Osceola, IA",0,0,1,0,0,1,1,0,0,1,2012
+31216,"Harlan, IA","Dedham, IA",0,0,1,0,1,0,0,1,0,1,2012
+31298,"Harlan, IA","Moorhead, IA",0,1,0,0,1,0,0,1,0,1,2012
+31221,"Harlan, IA","Dickens, IA",0,0,1,0,1,0,0,1,0,1,2012
+31223,"Harlan, IA","Eagle Grove, IA",1,0,0,0,0,1,1,0,0,1,2012
+31224,"Harlan, IA","East Peru, IA",0,1,0,0,0,1,0,0,1,1,2012
+31306,"Harlan, IA","Newell, IA",1,0,0,0,0,1,0,1,0,1,2012
+31227,"Harlan, IA","Elk Run Heights, IA",0,1,0,0,0,1,0,0,1,1,2012
+31304,"Harlan, IA","Moville, IA",0,0,1,0,1,0,0,0,1,1,2012
+31228,"Harlan, IA","Elliott, IA",0,1,0,0,1,0,0,0,1,1,2012
+31229,"Harlan, IA","Ely, IA",0,1,0,0,1,0,0,1,0,1,2012
+31230,"Harlan, IA","Essex, IA",0,1,0,0,0,1,0,1,0,1,2012
+31300,"Harlan, IA","Morley, IA",0,1,0,0,1,0,0,1,0,1,2012
+31233,"Harlan, IA","Exline, IA",0,0,1,0,0,1,0,0,1,1,2012
+31323,"Harlan, IA","Plainfield, IA",0,0,1,0,0,1,0,0,1,1,2012

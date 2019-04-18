@@ -1,0 +1,368 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+8545,"Cedar Falls, IA","Cedar Falls, IA",2091,3440,1398,906,4827,1196,2324,2193,2412,6929,2006
+8839,"Cedar Falls, IA","Waterloo, IA",1308,2259,756,848,2671,804,1411,1806,1106,4323,2006
+8600,"Cedar Falls, IA","Evansdale, IA",237,388,133,184,417,157,225,305,228,758,2006
+8576,"Cedar Falls, IA","Denver, IA",141,241,98,101,281,98,156,180,144,480,2006
+8699,"Cedar Falls, IA","Mason City, IA",192,204,75,13,281,177,229,144,98,471,2006
+8843,"Cedar Falls, IA","Waverly, IA",92,250,60,59,267,76,100,153,149,402,2006
+8654,"Cedar Falls, IA","Janesville, IA",108,203,72,51,261,71,116,113,154,383,2006
+8749,"Cedar Falls, IA","Parkersburg, IA",90,191,53,84,183,67,76,157,101,334,2006
+8649,"Cedar Falls, IA","Indianola, IA",123,138,32,5,193,95,138,97,58,293,2006
+8546,"Cedar Falls, IA","Cedar Rapids, IA",132,96,23,7,76,168,143,67,41,251,2006
+8592,"Cedar Falls, IA","Elk Run Heights, IA",68,137,41,62,125,59,66,121,59,246,2006
+8771,"Cedar Falls, IA","Reinbeck, IA",48,134,45,55,128,44,69,73,85,227,2006
+8566,"Cedar Falls, IA","Council Bluffs, IA",116,55,21,1,156,35,112,57,23,192,2006
+8646,"Cedar Falls, IA","Hudson, IA",41,104,42,59,88,40,61,58,68,187,2006
+8581,"Cedar Falls, IA","Dubuque, IA",114,54,15,16,71,96,111,44,28,183,2006
+8716,"Cedar Falls, IA","Morrison, IA",28,107,25,38,88,34,41,58,61,160,2006
+8668,"Cedar Falls, IA","La Porte City, IA",39,73,30,43,64,35,43,61,38,142,2006
+8767,"Cedar Falls, IA","Raymond, IA",38,73,23,35,73,26,41,66,27,134,2006
+8788,"Cedar Falls, IA","Shell Rock, IA",35,80,16,29,78,24,42,60,29,131,2006
+8540,"Cedar Falls, IA","Carlisle, IA",69,46,8,1,79,43,66,39,18,123,2006
+8736,"Cedar Falls, IA","Norwalk, IA",72,37,11,6,75,39,60,31,29,120,2006
+8724,"Cedar Falls, IA","New Hartford, IA",30,73,14,22,71,24,33,45,39,117,2006
+8768,"Cedar Falls, IA","Readlyn, IA",26,63,27,26,73,17,37,48,31,116,2006
+8525,"Cedar Falls, IA","Bettendorf, IA",52,39,21,22,54,36,45,34,33,112,2006
+8601,"Cedar Falls, IA","Fairbank, IA",30,63,18,26,58,27,26,52,33,111,2006
+8648,"Cedar Falls, IA","Independence, IA",39,55,16,35,53,22,23,38,49,110,2006
+8741,"Cedar Falls, IA","Ottumwa, IA",38,56,14,37,38,33,37,36,35,108,2006
+8717,"Cedar Falls, IA","Mount Auburn, IA",29,59,12,25,60,15,29,47,24,100,2006
+8678,"Cedar Falls, IA","Lincoln, IA",17,62,20,18,49,32,16,41,42,99,2006
+8696,"Cedar Falls, IA","Marshalltown, IA",26,45,15,3,65,18,34,31,21,86,2006
+8667,"Cedar Falls, IA","Knoxville, IA",44,36,5,0,35,50,45,22,18,85,2006
+8719,"Cedar Falls, IA","Muscatine, IA",33,34,16,3,39,41,37,33,13,83,2006
+8579,"Cedar Falls, IA","Dike, IA",17,48,17,25,42,15,15,24,43,82,2006
+8628,"Cedar Falls, IA","Grundy Center, IA",25,40,12,19,47,11,31,26,20,77,2006
+8846,"Cedar Falls, IA","Wellsburg, IA",15,46,15,24,40,12,15,27,34,76,2006
+8513,"Cedar Falls, IA","Asbury, IA",33,37,4,11,48,15,32,18,24,74,2006
+8821,"Cedar Falls, IA","Traer, IA",17,36,14,14,41,12,23,19,25,67,2006
+8739,"Cedar Falls, IA","Oelwein, IA",21,29,13,10,42,11,11,32,20,63,2006
+8797,"Cedar Falls, IA","Spring Hill, IA",30,27,5,9,42,11,29,19,14,62,2006
+8496,"Cedar Falls, IA","Ackley, IA",6,44,12,15,30,17,7,29,26,62,2006
+8582,"Cedar Falls, IA","Dunkerton, IA",14,39,6,19,28,12,15,22,22,59,2006
+8602,"Cedar Falls, IA","Fairfax, IA",28,22,4,1,34,19,30,15,9,54,2006
+8802,"Cedar Falls, IA","St. Marys, IA",24,19,9,10,30,12,17,22,13,52,2006
+8651,"Cedar Falls, IA","Iowa City, IA",29,17,6,4,9,39,24,16,12,52,2006
+8752,"Cedar Falls, IA","Pella, IA",25,23,4,1,9,42,17,22,13,52,2006
+8799,"Cedar Falls, IA","Springville, IA",19,29,3,0,40,11,25,20,6,51,2006
+8723,"Cedar Falls, IA","New Hampton, IA",27,22,2,12,30,9,21,21,9,51,2006
+8497,"Cedar Falls, IA","Ackworth, IA",24,20,5,1,33,15,23,16,10,49,2006
+8655,"Cedar Falls, IA","Jesup, IA",6,35,8,10,25,14,7,26,16,49,2006
+8746,"Cedar Falls, IA","Palo, IA",19,18,9,3,37,6,26,14,6,46,2006
+8524,"Cedar Falls, IA","Bertram, IA",14,25,6,0,39,6,28,13,4,45,2006
+8790,"Cedar Falls, IA","Shueyville, IA",23,18,4,1,29,15,22,12,11,45,2006
+8832,"Cedar Falls, IA","Vinton, IA",25,16,3,5,30,9,25,10,9,44,2006
+8588,"Cedar Falls, IA","Elberon, IA",16,20,7,7,23,13,14,20,9,43,2006
+8619,"Cedar Falls, IA","Gilbertville, IA",9,31,3,13,21,9,10,22,11,43,2006
+8585,"Cedar Falls, IA","Dysart, IA",8,26,8,17,14,11,11,14,17,42,2006
+8826,"Cedar Falls, IA","Urbana, IA",16,22,3,9,23,9,8,22,11,41,2006
+8652,"Cedar Falls, IA","Iowa Falls, IA",12,21,6,4,18,17,16,17,6,39,2006
+8575,"Cedar Falls, IA","Decorah, IA",21,17,1,3,21,15,24,7,8,39,2006
+8734,"Cedar Falls, IA","North Liberty, IA",23,12,3,1,30,7,25,11,2,38,2006
+8597,"Cedar Falls, IA","Ely, IA",21,14,3,1,26,11,24,8,6,38,2006
+8542,"Cedar Falls, IA","Carter Lake, IA",26,7,4,0,28,9,30,6,1,37,2006
+8729,"Cedar Falls, IA","Newton, IA",23,13,0,2,6,28,16,11,9,36,2006
+8753,"Cedar Falls, IA","Peosta, IA",19,12,4,9,24,2,20,6,9,35,2006
+8720,"Cedar Falls, IA","Nashua, IA",9,16,9,13,13,8,12,9,13,34,2006
+8640,"Cedar Falls, IA","Hazleton, IA",8,24,2,9,18,7,11,9,14,34,2006
+8703,"Cedar Falls, IA","Melcher-Dallas, IA",23,10,1,0,17,17,23,6,5,34,2006
+8697,"Cedar Falls, IA","Martelle, IA",9,19,5,1,21,11,12,16,5,33,2006
+8812,"Cedar Falls, IA","Sumner, IA",5,23,4,9,17,6,12,8,12,32,2006
+8748,"Cedar Falls, IA","Panorama Park, IA",19,10,3,8,22,2,20,3,9,32,2006
+8613,"Cedar Falls, IA","Frederika, IA",3,24,5,9,21,2,8,12,12,32,2006
+8548,"Cedar Falls, IA","Center Point, IA",24,5,2,1,29,1,10,20,1,31,2006
+8744,"Cedar Falls, IA","Oxford, IA",14,14,1,1,20,8,13,11,5,29,2006
+8656,"Cedar Falls, IA","Johnston, IA",4,20,4,26,1,1,3,1,24,28,2006
+8742,"Cedar Falls, IA","Owasa, IA",12,12,3,4,18,5,13,4,10,27,2006
+8523,"Cedar Falls, IA","Bellevue, IA",9,12,6,9,15,3,5,11,11,27,2006
+8627,"Cedar Falls, IA","Grinnell, IA",6,15,5,3,15,8,10,6,10,26,2006
+8508,"Cedar Falls, IA","Anamosa, IA",8,10,8,1,10,15,10,11,5,26,2006
+8769,"Cedar Falls, IA","Reasnor, IA",15,10,0,4,2,19,14,6,5,25,2006
+8584,"Cedar Falls, IA","Dyersville, IA",10,9,6,5,17,3,10,10,5,25,2006
+8754,"Cedar Falls, IA","Plainfield, IA",2,18,5,9,13,3,6,10,9,25,2006
+8794,"Cedar Falls, IA","Sioux Rapids, IA",16,8,1,0,7,18,17,5,3,25,2006
+8679,"Cedar Falls, IA","Lisbon, IA",5,11,9,4,18,3,10,9,6,25,2006
+8505,"Cedar Falls, IA","Allison, IA",11,11,1,4,13,6,7,13,3,23,2006
+8822,"Cedar Falls, IA","Tripoli, IA",7,15,1,5,12,6,6,9,8,23,2006
+8507,"Cedar Falls, IA","Ames, IA",15,7,1,7,9,7,0,1,22,23,2006
+8783,"Cedar Falls, IA","Sandyville, IA",10,11,2,2,17,4,12,8,3,23,2006
+8809,"Cedar Falls, IA","Story City, IA",7,13,3,11,5,7,5,1,17,23,2006
+8528,"Cedar Falls, IA","Blakesburg, IA",14,7,2,3,19,1,14,5,4,23,2006
+8844,"Cedar Falls, IA","Webb, IA",14,6,3,1,18,4,13,6,4,23,2006
+8820,"Cedar Falls, IA","Toledo, IA",11,6,4,1,13,7,10,7,4,21,2006
+8842,"Cedar Falls, IA","Waukon, IA",10,9,2,2,13,6,10,5,6,21,2006
+8782,"Cedar Falls, IA","Sageville, IA",13,8,0,6,6,9,14,0,7,21,2006
+8557,"Cedar Falls, IA","Clutier, IA",6,13,2,7,9,5,4,7,10,21,2006
+8534,"Cedar Falls, IA","Bristow, IA",6,13,2,5,11,5,6,9,6,21,2006
+8855,"Cedar Falls, IA","Winterset, IA",5,14,1,1,6,13,3,10,7,20,2006
+8823,"Cedar Falls, IA","Truesdale, IA",12,8,0,1,6,13,12,4,4,20,2006
+8636,"Cedar Falls, IA","Harvey, IA",13,5,1,0,8,11,14,2,3,19,2006
+8713,"Cedar Falls, IA","Monticello, IA",7,8,4,3,10,6,11,3,5,19,2006
+8770,"Cedar Falls, IA","Red Oak, IA",3,12,3,1,6,11,3,9,6,18,2006
+8501,"Cedar Falls, IA","Albert City, IA",8,8,2,0,13,5,7,7,4,18,2006
+8621,"Cedar Falls, IA","Glenwood, IA",13,4,1,0,0,18,8,10,0,18,2006
+8856,"Cedar Falls, IA","Winthrop, IA",5,11,2,4,13,1,8,6,4,18,2006
+8669,"Cedar Falls, IA","Lacona, IA",7,8,2,0,13,4,9,5,3,17,2006
+8813,"Cedar Falls, IA","Swan, IA",9,5,2,0,9,7,9,4,3,16,2006
+8683,"Cedar Falls, IA","Luana, IA",6,6,4,1,11,4,6,7,3,16,2006
+8698,"Cedar Falls, IA","Marysville, IA",7,7,2,1,6,9,8,3,5,16,2006
+8635,"Cedar Falls, IA","Harpers Ferry, IA",6,5,4,3,7,5,6,5,4,15,2006
+8617,"Cedar Falls, IA","Garwin, IA",4,10,1,8,4,3,4,4,7,15,2006
+8765,"Cedar Falls, IA","Randalia, IA",9,5,1,0,10,5,9,3,3,15,2006
+8694,"Cedar Falls, IA","Marion, IA",2,10,3,1,13,1,13,1,1,15,2006
+8577,"Cedar Falls, IA","Des Moines, IA",7,8,0,13,0,2,0,4,11,15,2006
+8603,"Cedar Falls, IA","Farley, IA",8,7,0,5,10,0,7,3,5,15,2006
+8849,"Cedar Falls, IA","West Union, IA",7,6,2,3,6,6,2,8,5,15,2006
+8598,"Cedar Falls, IA","Epworth, IA",3,10,2,10,4,1,4,2,9,15,2006
+8568,"Cedar Falls, IA","Cresco, IA",4,8,2,0,7,7,8,5,1,14,2006
+8757,"Cedar Falls, IA","Pleasantville, IA",4,8,2,0,1,13,7,2,5,14,2006
+8569,"Cedar Falls, IA","Creston, IA",11,3,0,7,0,7,7,0,7,14,2006
+8612,"Cedar Falls, IA","Fredericksburg, IA",3,6,5,3,8,3,0,11,3,14,2006
+8607,"Cedar Falls, IA","Fayette, IA",8,4,1,0,7,6,4,5,4,13,2006
+8774,"Cedar Falls, IA","Riverdale, IA",8,4,1,1,0,12,10,2,1,13,2006
+8550,"Cedar Falls, IA","Charles City, IA",3,5,5,0,9,4,6,4,3,13,2006
+8775,"Cedar Falls, IA","Riverside, IA",5,7,0,0,9,3,8,3,1,12,2006
+8730,"Cedar Falls, IA","Nichols, IA",2,9,1,0,0,12,2,10,0,12,2006
+8552,"Cedar Falls, IA","Clarinda, IA",8,1,3,0,3,9,5,6,1,12,2006
+8509,"Cedar Falls, IA","Andrew, IA",8,3,1,3,8,1,0,9,3,12,2006
+8522,"Cedar Falls, IA","Belle Plaine, IA",3,8,1,1,10,1,3,5,4,12,2006
+8810,"Cedar Falls, IA","Strawberry Point, IA",6,2,4,0,10,2,8,3,1,12,2006
+8852,"Cedar Falls, IA","Williamsburg, IA",7,4,1,0,7,5,6,5,1,12,2006
+8532,"Cedar Falls, IA","Brandon, IA",4,5,3,2,7,3,7,4,1,12,2006
+8728,"Cedar Falls, IA","Newell, IA",9,0,2,1,4,6,9,2,0,11,2006
+8735,"Cedar Falls, IA","Northwood, IA",5,4,2,0,5,6,7,3,1,11,2006
+8715,"Cedar Falls, IA","Morley, IA",5,4,2,0,3,8,5,4,2,11,2006
+8527,"Cedar Falls, IA","Blairstown, IA",4,6,1,5,6,0,2,4,5,11,2006
+8759,"Cedar Falls, IA","Polk City, IA",2,7,2,10,0,1,1,1,9,11,2006
+8500,"Cedar Falls, IA","Agency, IA",5,3,3,1,6,4,8,2,1,11,2006
+8827,"Cedar Falls, IA","Urbandale, IA",2,7,2,11,0,0,0,0,11,11,2006
+8563,"Cedar Falls, IA","Conrad, IA",4,7,0,0,7,4,4,6,1,11,2006
+8792,"Cedar Falls, IA","Silver City, IA",8,2,0,0,6,4,8,1,1,10,2006
+8517,"Cedar Falls, IA","Aurora, IA",4,5,1,0,10,0,7,2,1,10,2006
+8814,"Cedar Falls, IA","Swisher, IA",5,5,0,0,5,5,7,1,2,10,2006
+8693,"Cedar Falls, IA","Marengo, IA",4,4,2,0,6,4,7,2,1,10,2006
+8834,"Cedar Falls, IA","Walford, IA",5,5,0,3,1,6,5,3,2,10,2006
+8616,"Cedar Falls, IA","Garner, IA",6,2,2,2,4,4,7,1,2,10,2006
+8835,"Cedar Falls, IA","Walker, IA",2,6,2,0,8,2,4,2,4,10,2006
+8618,"Cedar Falls, IA","Gilbert, IA",3,5,2,6,1,3,2,1,7,10,2006
+8815,"Cedar Falls, IA","Tama, IA",4,5,1,1,8,1,5,3,2,10,2006
+8506,"Cedar Falls, IA","Alta Vista, IA",3,6,0,3,4,2,6,1,2,9,2006
+8848,"Cedar Falls, IA","West Liberty, IA",2,6,1,0,0,9,4,4,1,9,2006
+8633,"Cedar Falls, IA","Hancock, IA",6,2,1,0,7,2,6,1,2,9,2006
+8549,"Cedar Falls, IA","Central City, IA",7,2,0,0,8,1,4,4,1,9,2006
+8586,"Cedar Falls, IA","East Peru, IA",2,6,1,0,0,9,5,3,1,9,2006
+8530,"Cedar Falls, IA","Bonaparte, IA",6,3,0,2,0,7,6,1,2,9,2006
+8661,"Cedar Falls, IA","Keosauqua, IA",7,2,0,1,0,8,8,0,1,9,2006
+8804,"Cedar Falls, IA","Stanley, IA",1,8,0,2,6,1,3,3,3,9,2006
+8751,"Cedar Falls, IA","Patterson, IA",5,3,1,1,1,7,4,3,2,9,2006
+8630,"Cedar Falls, IA","Guttenberg, IA",4,2,3,0,8,1,4,4,1,9,2006
+8686,"Cedar Falls, IA","Macksburg, IA",6,3,0,1,1,7,3,5,1,9,2006
+8764,"Cedar Falls, IA","Protivin, IA",9,0,0,0,9,0,6,3,0,9,2006
+8567,"Cedar Falls, IA","Crescent, IA",6,2,0,0,3,5,5,3,0,8,2006
+8580,"Cedar Falls, IA","Dougherty, IA",1,6,1,1,5,2,2,3,3,8,2006
+8662,"Cedar Falls, IA","Keystone, IA",3,4,1,1,5,2,3,2,3,8,2006
+8789,"Cedar Falls, IA","Shenandoah, IA",3,3,2,0,0,8,3,5,0,8,2006
+8521,"Cedar Falls, IA","Beaman, IA",2,5,1,0,6,2,1,5,2,8,2006
+8737,"Cedar Falls, IA","Norway, IA",2,4,2,4,2,2,3,2,3,8,2006
+8707,"Cedar Falls, IA","Missouri Valley, IA",7,1,0,0,0,8,7,1,0,8,2006
+8608,"Cedar Falls, IA","Ferguson, IA",4,4,0,2,1,5,2,6,0,8,2006
+8554,"Cedar Falls, IA","Clear Lake, IA",2,5,1,0,5,3,4,0,4,8,2006
+8702,"Cedar Falls, IA","Melbourne, IA",3,2,3,3,4,1,1,2,5,8,2006
+8682,"Cedar Falls, IA","Lone Tree, IA",3,2,3,2,5,1,2,2,4,8,2006
+8681,"Cedar Falls, IA","Logan, IA",4,2,1,0,0,7,6,0,1,7,2006
+8680,"Cedar Falls, IA","Liscomb, IA",1,6,0,1,5,1,2,3,2,7,2006
+8684,"Cedar Falls, IA","Lynnville, IA",3,1,3,1,2,4,5,1,1,7,2006
+8701,"Cedar Falls, IA","McIntire, IA",5,2,0,1,6,0,2,4,1,7,2006
+8675,"Cedar Falls, IA","Le Grand, IA",4,3,0,1,4,2,1,4,2,7,2006
+8673,"Cedar Falls, IA","Lansing, IA",3,4,0,2,1,4,2,1,4,7,2006
+8711,"Cedar Falls, IA","Monroe, IA",3,3,1,0,2,5,4,1,2,7,2006
+8632,"Cedar Falls, IA","Hampton, IA",2,4,1,0,0,7,2,3,2,7,2006
+8721,"Cedar Falls, IA","Nevada, IA",6,1,0,0,3,4,4,0,3,7,2006
+8772,"Cedar Falls, IA","Rhodes, IA",4,2,1,1,4,2,3,0,4,7,2006
+8622,"Cedar Falls, IA","Graf, IA",3,4,0,2,5,0,3,0,4,7,2006
+8738,"Cedar Falls, IA","Oakland, IA",4,3,0,0,6,1,6,0,1,7,2006
+8590,"Cedar Falls, IA","Eldora, IA",1,5,1,0,7,0,3,3,1,7,2006
+8556,"Cedar Falls, IA","Clive, IA",6,1,0,6,1,0,0,0,7,7,2006
+8559,"Cedar Falls, IA","Coggon, IA",4,2,1,0,5,2,2,3,2,7,2006
+8718,"Cedar Falls, IA","Mount Vernon, IA",0,5,2,1,6,0,1,3,3,7,2006
+8838,"Cedar Falls, IA","Washington, IA",3,3,1,0,4,3,4,3,0,7,2006
+8544,"Cedar Falls, IA","Castalia, IA",3,2,1,1,3,2,3,3,0,6,2006
+8779,"Cedar Falls, IA","Roland, IA",2,4,0,0,5,1,2,2,2,6,2006
+8700,"Cedar Falls, IA","McClelland, IA",6,0,0,1,5,0,6,0,0,6,2006
+8714,"Cedar Falls, IA","Montour, IA",2,4,0,2,4,0,3,3,0,6,2006
+8515,"Cedar Falls, IA","Atkins, IA",3,3,0,0,2,4,3,1,2,6,2006
+8781,"Cedar Falls, IA","Sabula, IA",0,5,1,1,5,0,0,4,2,6,2006
+8706,"Cedar Falls, IA","Minden, IA",3,3,0,1,3,2,4,0,2,6,2006
+8828,"Cedar Falls, IA","Van Horne, IA",0,6,0,0,6,0,0,0,6,6,2006
+8578,"Cedar Falls, IA","Dexter, IA",3,3,0,0,2,4,3,1,2,6,2006
+8589,"Cedar Falls, IA","Eldon, IA",4,2,0,2,0,4,4,0,2,6,2006
+8564,"Cedar Falls, IA","Coralville, IA",5,1,0,0,3,3,5,1,0,6,2006
+8638,"Cedar Falls, IA","Haverhill, IA",4,2,0,0,6,0,0,4,2,6,2006
+8620,"Cedar Falls, IA","Gilman, IA",2,4,0,1,3,2,2,1,3,6,2006
+8626,"Cedar Falls, IA","Grimes, IA",0,6,0,4,0,2,0,0,6,6,2006
+8629,"Cedar Falls, IA","Guernsey, IA",3,2,1,0,4,2,3,2,1,6,2006
+8562,"Cedar Falls, IA","Colwell, IA",3,2,0,1,3,1,3,2,0,5,2006
+8611,"Cedar Falls, IA","Fort Atkinson, IA",4,0,1,0,4,1,5,0,0,5,2006
+8516,"Cedar Falls, IA","Atlantic, IA",5,0,0,0,0,5,5,0,0,5,2006
+8732,"Cedar Falls, IA","Nora Springs, IA",1,2,2,3,1,1,0,1,4,5,2006
+8796,"Cedar Falls, IA","Solon, IA",5,0,0,0,1,4,2,3,0,5,2006
+8787,"Cedar Falls, IA","Shelby, IA",4,1,0,1,1,3,4,1,0,5,2006
+8745,"Cedar Falls, IA","Pacific Junction, IA",4,1,0,0,0,5,5,0,0,5,2006
+8806,"Cedar Falls, IA","Steamboat Rock, IA",0,4,1,0,5,0,0,2,3,5,2006
+8819,"Cedar Falls, IA","Tiffin, IA",2,3,0,0,2,3,2,2,1,5,2006
+8780,"Cedar Falls, IA","Ryan, IA",5,0,0,0,0,5,5,0,0,5,2006
+8691,"Cedar Falls, IA","Manly, IA",0,3,2,0,2,3,0,3,2,5,2006
+8645,"Cedar Falls, IA","Hubbard, IA",3,1,1,0,3,2,3,1,1,5,2006
+8644,"Cedar Falls, IA","Hopkinton, IA",5,0,0,0,0,5,5,0,0,5,2006
+8758,"Cedar Falls, IA","Plymouth, IA",2,2,1,2,0,3,1,3,1,5,2006
+8643,"Cedar Falls, IA","Hillsboro, IA",5,0,0,1,0,4,4,0,1,5,2006
+8761,"Cedar Falls, IA","Prairieburg, IA",5,0,0,0,4,1,2,3,0,5,2006
+8512,"Cedar Falls, IA","Arlington, IA",2,3,0,0,4,1,2,2,1,5,2006
+8722,"Cedar Falls, IA","New Albin, IA",1,2,2,0,3,2,2,1,2,5,2006
+8560,"Cedar Falls, IA","Colfax, IA",4,1,0,0,0,5,3,2,0,5,2006
+8674,"Cedar Falls, IA","Lawler, IA",3,1,1,0,4,1,4,1,0,5,2006
+8840,"Cedar Falls, IA","Waucoma, IA",3,1,1,1,3,1,1,3,1,5,2006
+8709,"Cedar Falls, IA","Mondamin, IA",5,0,0,0,0,5,5,0,0,5,2006
+8604,"Cedar Falls, IA","Farmersburg, IA",2,2,1,0,5,0,1,3,1,5,2006
+8583,"Cedar Falls, IA","Dunlap, IA",4,1,0,1,0,4,5,0,0,5,2006
+8539,"Cedar Falls, IA","Cantril, IA",5,0,0,0,0,5,5,0,0,5,2006
+8541,"Cedar Falls, IA","Carson, IA",3,2,0,0,2,3,3,0,2,5,2006
+8710,"Cedar Falls, IA","Monona, IA",2,3,0,0,5,0,2,1,2,5,2006
+8853,"Cedar Falls, IA","Wilton, IA",3,2,0,0,0,5,5,0,0,5,2006
+8845,"Cedar Falls, IA","Wellman, IA",0,1,4,0,5,0,5,0,0,5,2006
+8605,"Cedar Falls, IA","Farmington, IA",4,0,0,2,0,2,1,1,2,4,2006
+8836,"Cedar Falls, IA","Walnut, IA",4,0,0,0,3,1,4,0,0,4,2006
+8561,"Cedar Falls, IA","Colo, IA",1,3,0,0,4,0,0,0,4,4,2006
+8520,"Cedar Falls, IA","Baxter, IA",0,4,0,1,1,2,0,0,4,4,2006
+8587,"Cedar Falls, IA","Eddyville, IA",0,2,2,0,0,4,1,2,1,4,2006
+8631,"Cedar Falls, IA","Hamburg, IA",2,2,0,0,0,4,4,0,0,4,2006
+8519,"Cedar Falls, IA","Balltown, IA",3,1,0,1,2,1,2,2,0,4,2006
+8551,"Cedar Falls, IA","Chester, IA",3,1,0,0,4,0,2,2,0,4,2006
+8634,"Cedar Falls, IA","Harlan, IA",0,4,0,0,4,0,0,3,1,4,2006
+8854,"Cedar Falls, IA","Windsor Heights, IA",4,0,0,4,0,0,0,0,4,4,2006
+8543,"Cedar Falls, IA","Cascade, IA",0,3,1,0,1,3,0,4,0,4,2006
+8762,"Cedar Falls, IA","Preston, IA",4,0,0,0,3,1,0,4,0,4,2006
+8859,"Cedar Falls, IA","Worthington, IA",0,1,3,2,1,1,2,0,2,4,2006
+8642,"Cedar Falls, IA","Hills, IA",1,2,1,1,3,0,0,1,3,4,2006
+8786,"Cedar Falls, IA","Sheffield, IA",1,2,1,1,2,1,2,1,1,4,2006
+8555,"Cedar Falls, IA","Clio, IA",3,0,1,0,4,0,1,3,0,4,2006
+8833,"Cedar Falls, IA","Wadena, IA",3,0,1,0,2,2,3,1,0,4,2006
+8800,"Cedar Falls, IA","St. Ansgar, IA",2,1,1,0,3,1,3,0,1,4,2006
+8535,"Cedar Falls, IA","Britt, IA",2,0,2,0,0,4,2,2,0,4,2006
+8609,"Cedar Falls, IA","Floyd, IA",1,3,0,0,3,1,2,2,0,4,2006
+8502,"Cedar Falls, IA","Albion, IA",2,2,0,0,1,3,3,1,0,4,2006
+8801,"Cedar Falls, IA","St. Lucas, IA",4,0,0,0,4,0,3,1,0,4,2006
+8727,"Cedar Falls, IA","New Vienna, IA",1,0,3,1,3,0,3,0,1,4,2006
+8658,"Cedar Falls, IA","Kalona, IA",4,0,0,0,3,1,4,0,0,4,2006
+8625,"Cedar Falls, IA","Greene, IA",2,0,2,0,4,0,3,1,0,4,2006
+8596,"Cedar Falls, IA","Elma, IA",4,0,0,0,2,2,4,0,0,4,2006
+8862,"Cedar Falls, IA","Zwingle, IA",2,2,0,0,4,0,2,1,1,4,2006
+8824,"Cedar Falls, IA","Underwood, IA",3,0,0,0,1,2,3,0,0,3,2006
+8785,"Cedar Falls, IA","Shannon City, IA",2,1,0,2,0,1,1,0,2,3,2006
+8773,"Cedar Falls, IA","Ridgeway, IA",2,0,1,0,1,2,2,0,1,3,2006
+8565,"Cedar Falls, IA","Corydon, IA",0,0,3,0,2,1,2,0,1,3,2006
+8615,"Cedar Falls, IA","Garnavillo, IA",1,2,0,0,2,1,1,1,1,3,2006
+8504,"Cedar Falls, IA","Algona, IA",2,1,0,0,2,1,2,1,0,3,2006
+8798,"Cedar Falls, IA","Springbrook, IA",1,1,1,1,2,0,0,2,1,3,2006
+8574,"Cedar Falls, IA","De Soto, IA",1,2,0,0,0,3,3,0,0,3,2006
+8606,"Cedar Falls, IA","Farragut, IA",3,0,0,0,0,3,3,0,0,3,2006
+8803,"Cedar Falls, IA","Stacyville, IA",0,2,1,0,1,2,2,1,0,3,2006
+8816,"Cedar Falls, IA","Tennant, IA",0,3,0,1,2,0,1,1,1,3,2006
+8639,"Cedar Falls, IA","Hawkeye, IA",1,2,0,0,2,1,1,1,1,3,2006
+8811,"Cedar Falls, IA","Sully, IA",0,3,0,0,1,2,2,0,1,3,2006
+8692,"Cedar Falls, IA","Maquoketa, IA",1,1,1,2,1,0,0,2,1,3,2006
+8766,"Cedar Falls, IA","Randolph, IA",3,0,0,0,0,3,3,0,0,3,2006
+8726,"Cedar Falls, IA","New Sharon, IA",2,0,1,0,2,1,1,2,0,3,2006
+8740,"Cedar Falls, IA","Osage, IA",2,1,0,0,1,2,2,1,0,3,2006
+8529,"Cedar Falls, IA","Blanchard, IA",1,2,0,0,1,2,3,0,0,3,2006
+8553,"Cedar Falls, IA","Clarksville, IA",3,0,0,0,2,1,1,2,0,3,2006
+8659,"Cedar Falls, IA","Kellogg, IA",1,2,0,0,2,1,1,0,2,3,2006
+8731,"Cedar Falls, IA","Nodaway, IA",0,3,0,0,0,3,0,3,0,3,2006
+8660,"Cedar Falls, IA","Kensett, IA",0,2,1,0,1,2,1,2,0,3,2006
+8533,"Cedar Falls, IA","Brighton, IA",0,3,0,0,1,2,1,2,0,3,2006
+8526,"Cedar Falls, IA","Birmingham, IA",3,0,0,1,0,2,2,0,1,3,2006
+8712,"Cedar Falls, IA","Montezuma, IA",1,1,1,0,2,1,1,1,1,3,2006
+8708,"Cedar Falls, IA","Mitchellville, IA",1,2,0,0,1,2,2,0,1,3,2006
+8676,"Cedar Falls, IA","Lewis, IA",2,1,0,1,1,1,2,0,1,3,2006
+8547,"Cedar Falls, IA","Center Junction, IA",2,1,0,2,0,1,0,3,0,3,2006
+8688,"Cedar Falls, IA","Magnolia, IA",3,0,0,1,0,2,2,0,1,3,2006
+8695,"Cedar Falls, IA","Marquette, IA",0,2,1,0,3,0,1,1,1,3,2006
+8743,"Cedar Falls, IA","Oxford Junction, IA",0,3,0,0,0,3,1,2,0,3,2006
+8777,"Cedar Falls, IA","Rockford, IA",3,0,0,0,2,1,2,1,0,3,2006
+8518,"Cedar Falls, IA","Baldwin, IA",2,0,1,0,2,1,1,2,0,3,2006
+8650,"Cedar Falls, IA","Ionia, IA",1,2,0,0,2,1,3,0,0,3,2006
+8677,"Cedar Falls, IA","Lime Springs, IA",2,0,0,0,2,0,2,0,0,2,2006
+8725,"Cedar Falls, IA","New Market, IA",1,1,0,0,0,2,2,0,0,2,2006
+8514,"Cedar Falls, IA","Atalissa, IA",1,1,0,0,0,2,2,0,0,2,2006
+8503,"Cedar Falls, IA","Alden, IA",0,2,0,0,1,1,0,0,2,2,2006
+8671,"Cedar Falls, IA","Lake Mills, IA",2,0,0,0,2,0,2,0,0,2,2006
+8653,"Cedar Falls, IA","Irwin, IA",0,2,0,0,0,2,0,2,0,2,2006
+8831,"Cedar Falls, IA","Vining, IA",1,0,1,0,2,0,1,0,1,2,2006
+8593,"Cedar Falls, IA","Elkader, IA",1,1,0,0,2,0,0,1,1,2,2006
+8784,"Cedar Falls, IA","Sergeant Bluff, IA",1,1,0,0,1,1,0,0,2,2,2006
+8808,"Cedar Falls, IA","Storm Lake, IA",0,0,2,0,0,2,0,0,2,2,2006
+8705,"Cedar Falls, IA","Minburn, IA",1,0,1,1,1,0,0,0,2,2,2006
+8760,"Cedar Falls, IA","Postville, IA",0,0,2,0,1,1,1,1,0,2,2006
+8685,"Cedar Falls, IA","Macedonia, IA",0,2,0,0,0,2,1,1,0,2,2006
+8689,"Cedar Falls, IA","Malcom, IA",0,1,1,0,1,1,0,1,1,2,2006
+8641,"Cedar Falls, IA","Henderson, IA",1,1,0,0,2,0,1,0,1,2,2006
+8858,"Cedar Falls, IA","Woodbine, IA",2,0,0,0,0,2,2,0,0,2,2006
+8861,"Cedar Falls, IA","Zearing, IA",0,2,0,0,2,0,0,0,2,2,2006
+8591,"Cedar Falls, IA","Elgin, IA",1,1,0,1,0,1,0,1,1,2,2006
+8672,"Cedar Falls, IA","Lambs Grove, IA",1,1,0,0,1,1,1,0,1,2,2006
+8795,"Cedar Falls, IA","Slater, IA",0,2,0,1,0,1,0,0,2,2,2006
+8663,"Cedar Falls, IA","Kinross, IA",0,0,2,0,1,1,2,0,0,2,2006
+8733,"Cedar Falls, IA","North English, IA",1,1,0,0,0,2,1,1,0,2,2006
+8647,"Cedar Falls, IA","Huxley, IA",2,0,0,0,1,1,0,0,2,2,2006
+8750,"Cedar Falls, IA","Parnell, IA",0,1,1,0,1,1,0,2,0,2,2006
+8791,"Cedar Falls, IA","Sidney, IA",2,0,0,0,0,2,2,0,0,2,2006
+8614,"Cedar Falls, IA","Fruitland, IA",0,2,0,0,0,2,0,2,0,2,2006
+8805,"Cedar Falls, IA","Stanton, IA",0,2,0,0,0,2,0,2,0,2,2006
+8623,"Cedar Falls, IA","Granger, IA",0,2,0,2,0,0,0,0,2,2,2006
+8841,"Cedar Falls, IA","Waukee, IA",0,1,0,1,0,0,0,0,1,1,2006
+8704,"Cedar Falls, IA","Milton, IA",1,0,0,0,0,1,1,0,0,1,2006
+8499,"Cedar Falls, IA","Afton, IA",0,1,0,0,0,1,0,0,1,1,2006
+8572,"Cedar Falls, IA","Dallas Center, IA",1,0,0,0,1,0,0,0,1,1,2006
+8571,"Cedar Falls, IA","Cumberland, IA",1,0,0,0,0,1,1,0,0,1,2006
+8624,"Cedar Falls, IA","Grant, IA",0,1,0,0,0,1,0,1,0,1,2006
+8498,"Cedar Falls, IA","Adel, IA",1,0,0,0,1,0,0,0,1,1,2006
+8847,"Cedar Falls, IA","West Chester, IA",0,1,0,0,1,0,1,0,0,1,2006
+8793,"Cedar Falls, IA","Sioux City, IA",0,0,1,0,0,1,0,1,0,1,2006
+8807,"Cedar Falls, IA","Stockton, IA",1,0,0,0,0,1,0,0,1,1,2006
+8850,"Cedar Falls, IA","Whittemore, IA",1,0,0,1,0,0,1,0,0,1,2006
+8558,"Cedar Falls, IA","Coburg, IA",0,1,0,0,0,1,0,1,0,1,2006
+8573,"Cedar Falls, IA","Davenport, IA",1,0,0,0,0,1,0,0,1,1,2006
+8687,"Cedar Falls, IA","Madrid, IA",1,0,0,0,1,0,0,0,1,1,2006
+8763,"Cedar Falls, IA","Promise City, IA",0,1,0,0,0,1,0,0,1,1,2006
+8747,"Cedar Falls, IA","Panama, IA",0,1,0,0,1,0,1,0,0,1,2006
+8857,"Cedar Falls, IA","Wiota, IA",1,0,0,0,0,1,1,0,0,1,2006
+8510,"Cedar Falls, IA","Anita, IA",0,1,0,0,0,1,0,0,1,1,2006
+8690,"Cedar Falls, IA","Manchester, IA",1,0,0,0,0,1,1,0,0,1,2006
+8860,"Cedar Falls, IA","Wyoming, IA",0,1,0,0,0,1,0,1,0,1,2006
+8511,"Cedar Falls, IA","Anthon, IA",0,1,0,0,0,1,0,0,1,1,2006
+8851,"Cedar Falls, IA","Whitten, IA",0,1,0,0,1,0,1,0,0,1,2006
+8657,"Cedar Falls, IA","Joice, IA",0,1,0,0,0,1,0,1,0,1,2006
+8570,"Cedar Falls, IA","Crystal Lake, IA",0,0,1,0,0,1,0,1,0,1,2006
+8837,"Cedar Falls, IA","Wapello, IA",0,1,0,0,0,1,0,0,1,1,2006
+8664,"Cedar Falls, IA","Kirkman, IA",0,1,0,0,1,0,0,0,1,1,2006
+8776,"Cedar Falls, IA","Riverton, IA",1,0,0,0,0,1,1,0,0,1,2006
+8610,"Cedar Falls, IA","Forest City, IA",0,0,1,0,1,0,1,0,0,1,2006
+8665,"Cedar Falls, IA","Kirkville, IA",0,1,0,0,0,1,0,1,0,1,2006
+8778,"Cedar Falls, IA","Rockwell, IA",1,0,0,0,0,1,0,1,0,1,2006
+8536,"Cedar Falls, IA","Brooklyn, IA",0,1,0,0,1,0,1,0,0,1,2006
+8817,"Cedar Falls, IA","Thompson, IA",1,0,0,0,1,0,1,0,0,1,2006
+8818,"Cedar Falls, IA","Thornton, IA",0,1,0,0,0,1,1,0,0,1,2006
+8537,"Cedar Falls, IA","Buffalo Center, IA",1,0,0,0,1,0,1,0,0,1,2006
+8538,"Cedar Falls, IA","Cambridge, IA",1,0,0,0,1,0,0,0,1,1,2006
+8670,"Cedar Falls, IA","Ladora, IA",0,0,1,0,0,1,0,1,0,1,2006
+8531,"Cedar Falls, IA","Braddyville, IA",1,0,0,0,0,1,1,0,0,1,2006
+8825,"Cedar Falls, IA","University Heights, IA",0,0,1,0,0,1,0,1,0,1,2006
+8755,"Cedar Falls, IA","Pleasant Hill, IA",0,1,0,0,0,1,0,1,0,1,2006
+8599,"Cedar Falls, IA","Essex, IA",0,1,0,0,0,1,0,1,0,1,2006
+8637,"Cedar Falls, IA","Hastings, IA",1,0,0,0,0,1,1,0,0,1,2006
+8829,"Cedar Falls, IA","Van Meter, IA",1,0,0,0,1,0,0,0,1,1,2006
+8830,"Cedar Falls, IA","Victor, IA",1,0,0,0,1,0,0,1,0,1,2006
+8595,"Cedar Falls, IA","Elliott, IA",0,1,0,0,0,1,0,1,0,1,2006
+8756,"Cedar Falls, IA","Pleasant Plain, IA",0,1,0,0,1,0,0,1,0,1,2006
+8594,"Cedar Falls, IA","Elkport, IA",0,0,1,0,1,0,0,1,0,1,2006
+8666,"Cedar Falls, IA","Klemme, IA",1,0,0,0,0,1,1,0,0,1,2006

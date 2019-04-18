@@ -1,0 +1,122 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+22461,"Gilbert, IA","Ames, IA",36,64,27,36,75,16,46,36,45,127,2004
+22556,"Gilbert, IA","Story City, IA",25,46,14,36,17,32,26,31,28,85,2004
+22532,"Gilbert, IA","Nevada, IA",7,15,5,8,13,6,10,5,12,27,2004
+22504,"Gilbert, IA","Gilbert, IA",5,13,8,8,13,5,4,10,12,26,2004
+22471,"Gilbert, IA","Boone, IA",10,11,1,11,11,0,6,11,5,22,2004
+22499,"Gilbert, IA","Ellsworth, IA",8,7,5,11,1,8,5,11,4,20,2004
+22519,"Gilbert, IA","Knoxville, IA",0,10,2,8,1,3,0,9,3,12,2004
+22517,"Gilbert, IA","Jewell Junction, IA",4,4,2,3,1,6,4,6,0,10,2004
+22549,"Gilbert, IA","Roland, IA",3,7,0,7,0,3,2,5,3,10,2004
+22540,"Gilbert, IA","Pella, IA",4,4,1,9,0,0,0,7,2,9,2004
+22463,"Gilbert, IA","Ankeny, IA",2,7,0,1,7,1,0,1,8,9,2004
+22513,"Gilbert, IA","Iowa City, IA",4,3,1,0,8,0,2,3,3,8,2004
+22518,"Gilbert, IA","Kamrar, IA",2,4,1,4,1,2,2,3,2,7,2004
+22538,"Gilbert, IA","Owasa, IA",4,3,0,4,1,2,0,4,3,7,2004
+22474,"Gilbert, IA","Carroll, IA",1,4,1,5,0,1,1,3,2,6,2004
+22537,"Gilbert, IA","Oskaloosa, IA",3,1,2,5,0,1,1,3,2,6,2004
+22527,"Gilbert, IA","Marshalltown, IA",0,6,0,0,6,0,1,5,0,6,2004
+22460,"Gilbert, IA","Altoona, IA",1,3,0,1,2,1,0,4,0,4,2004
+22472,"Gilbert, IA","Cambridge, IA",1,2,1,2,1,1,0,2,2,4,2004
+22483,"Gilbert, IA","Coon Rapids, IA",0,2,2,3,1,0,2,1,1,4,2004
+22554,"Gilbert, IA","Stanhope, IA",0,4,0,2,2,0,0,3,1,4,2004
+22509,"Gilbert, IA","Harvey, IA",2,1,0,3,0,0,0,1,2,3,2004
+22522,"Gilbert, IA","Liscomb, IA",1,2,0,1,1,1,2,1,0,3,2004
+22548,"Gilbert, IA","Rhodes, IA",0,3,0,0,3,0,0,2,1,3,2004
+22533,"Gilbert, IA","Newton, IA",1,2,0,2,1,0,1,1,1,3,2004
+22551,"Gilbert, IA","Sac City, IA",1,1,1,2,0,1,0,3,0,3,2004
+22490,"Gilbert, IA","Des Moines, IA",0,3,0,1,2,0,0,2,1,3,2004
+22503,"Gilbert, IA","Fraser, IA",2,1,0,2,1,0,0,3,0,3,2004
+22491,"Gilbert, IA","Dubuque, IA",1,2,0,1,0,2,2,1,0,3,2004
+22482,"Gilbert, IA","Colo, IA",0,3,0,0,3,0,0,2,1,3,2004
+22475,"Gilbert, IA","Cedar Falls, IA",1,1,1,0,3,0,2,1,0,3,2004
+22457,"Gilbert, IA","Alden, IA",1,2,0,1,0,2,1,1,1,3,2004
+22572,"Gilbert, IA","Woolstock, IA",0,3,0,3,0,0,0,0,3,3,2004
+22481,"Gilbert, IA","Clive, IA",0,2,1,1,2,0,0,0,3,3,2004
+22565,"Gilbert, IA","Waterloo, IA",3,0,0,1,1,1,2,0,1,3,2004
+22521,"Gilbert, IA","Linden, IA",0,1,1,0,2,0,0,2,0,2,2004
+22534,"Gilbert, IA","North English, IA",1,0,1,0,1,1,0,2,0,2,2004
+22570,"Gilbert, IA","Windsor Heights, IA",0,1,1,0,1,1,1,1,0,2,2004
+22568,"Gilbert, IA","Whitten, IA",2,0,0,2,0,0,0,2,0,2,2004
+22566,"Gilbert, IA","Webster City, IA",0,2,0,0,2,0,0,0,2,2,2004
+22469,"Gilbert, IA","Belmond, IA",0,2,0,2,0,0,0,2,0,2,2004
+22541,"Gilbert, IA","Perry, IA",0,1,1,1,0,1,0,2,0,2,2004
+22473,"Gilbert, IA","Carlisle, IA",0,2,0,0,1,1,0,1,1,2,2004
+22546,"Gilbert, IA","Randall, IA",1,1,0,0,0,2,1,0,1,2,2004
+22547,"Gilbert, IA","Reasnor, IA",1,1,0,1,0,1,0,1,1,2,2004
+22544,"Gilbert, IA","Polk City, IA",0,2,0,0,2,0,0,0,2,2,2004
+22563,"Gilbert, IA","Urbandale, IA",1,1,0,0,2,0,0,1,1,2,2004
+22479,"Gilbert, IA","Clear Lake, IA",1,0,1,1,1,0,0,0,2,2,2004
+22557,"Gilbert, IA","Stratford, IA",1,1,0,1,1,0,0,2,0,2,2004
+22561,"Gilbert, IA","Union, IA",0,1,1,2,0,0,1,0,1,2,2004
+22477,"Gilbert, IA","Churdan, IA",0,2,0,2,0,0,0,2,0,2,2004
+22529,"Gilbert, IA","Mason City, IA",1,0,1,1,0,1,1,0,1,2,2004
+22543,"Gilbert, IA","Pleasantville, IA",1,0,0,1,0,0,0,1,0,1,2004
+22542,"Gilbert, IA","Pleasant Hill, IA",0,0,1,0,1,0,0,1,0,1,2004
+22530,"Gilbert, IA","Mondamin, IA",1,0,0,1,0,0,0,1,0,1,2004
+22531,"Gilbert, IA","Moravia, IA",0,1,0,0,0,1,0,0,1,1,2004
+22573,"Gilbert, IA","Yetter, IA",0,0,1,1,0,0,0,1,0,1,2004
+22559,"Gilbert, IA","Tiffin, IA",1,0,0,0,1,0,1,0,0,1,2004
+22558,"Gilbert, IA","Tama, IA",0,1,0,0,1,0,0,0,1,1,2004
+22545,"Gilbert, IA","Pomeroy, IA",1,0,0,0,0,1,1,0,0,1,2004
+22555,"Gilbert, IA","Storm Lake, IA",0,1,0,0,0,1,1,0,0,1,2004
+22571,"Gilbert, IA","Winterset, IA",1,0,0,0,1,0,1,0,0,1,2004
+22550,"Gilbert, IA","Royal, IA",1,0,0,1,0,0,0,0,1,1,2004
+22569,"Gilbert, IA","Williams, IA",0,1,0,1,0,0,0,0,1,1,2004
+22535,"Gilbert, IA","North Liberty, IA",1,0,0,0,1,0,1,0,0,1,2004
+22536,"Gilbert, IA","Norwalk, IA",1,0,0,0,1,0,0,1,0,1,2004
+22564,"Gilbert, IA","Walford, IA",0,1,0,0,1,0,0,0,1,1,2004
+22567,"Gilbert, IA","West Des Moines, IA",0,1,0,0,0,1,1,0,0,1,2004
+22560,"Gilbert, IA","Toledo, IA",0,1,0,0,1,0,1,0,0,1,2004
+22539,"Gilbert, IA","Packwood, IA",0,1,0,0,1,0,1,0,0,1,2004
+22553,"Gilbert, IA","Spencer, IA",0,0,1,0,0,1,0,1,0,1,2004
+22552,"Gilbert, IA","Slater, IA",0,1,0,0,1,0,0,0,1,1,2004
+22562,"Gilbert, IA","Urbana, IA",0,1,0,0,1,0,0,0,1,1,2004
+22454,"Gilbert, IA","Ackley, IA",0,1,0,0,0,1,0,1,0,1,2004
+22514,"Gilbert, IA","Iowa Falls, IA",0,1,0,0,1,0,1,0,0,1,2004
+22528,"Gilbert, IA","Marysville, IA",0,1,0,1,0,0,0,0,1,1,2004
+22476,"Gilbert, IA","Charles City, IA",0,1,0,0,0,1,0,1,0,1,2004
+22492,"Gilbert, IA","Duncombe, IA",0,1,0,1,0,0,0,0,1,1,2004
+22489,"Gilbert, IA","Delaware, IA",0,1,0,1,0,0,0,0,1,1,2004
+22488,"Gilbert, IA","Decorah, IA",0,1,0,0,0,1,1,0,0,1,2004
+22487,"Gilbert, IA","Crystal Lake, IA",1,0,0,1,0,0,0,1,0,1,2004
+22486,"Gilbert, IA","Creston, IA",0,0,1,0,0,1,0,0,1,1,2004
+22485,"Gilbert, IA","Council Bluffs, IA",1,0,0,0,1,0,0,0,1,1,2004
+22484,"Gilbert, IA","Coulter, IA",0,1,0,1,0,0,0,1,0,1,2004
+22480,"Gilbert, IA","Clinton, IA",0,1,0,0,0,1,1,0,0,1,2004
+22478,"Gilbert, IA","Clarion, IA",0,1,0,1,0,0,0,1,0,1,2004
+22470,"Gilbert, IA","Bettendorf, IA",1,0,0,0,1,0,1,0,0,1,2004
+22526,"Gilbert, IA","Manchester, IA",0,1,0,1,0,0,1,0,0,1,2004
+22468,"Gilbert, IA","Balltown, IA",1,0,0,1,0,0,0,1,0,1,2004
+22467,"Gilbert, IA","Bagley, IA",0,0,1,0,0,1,1,0,0,1,2004
+22466,"Gilbert, IA","Audubon, IA",0,1,0,0,0,1,1,0,0,1,2004
+22465,"Gilbert, IA","Ashton, IA",1,0,0,1,0,0,0,0,1,1,2004
+22464,"Gilbert, IA","Armstrong, IA",0,1,0,0,0,1,0,1,0,1,2004
+22462,"Gilbert, IA","Andover, IA",0,1,0,1,0,0,0,1,0,1,2004
+22459,"Gilbert, IA","Alton, IA",1,0,0,0,0,1,1,0,0,1,2004
+22458,"Gilbert, IA","Algona, IA",0,1,0,0,1,0,0,0,1,1,2004
+22456,"Gilbert, IA","Albion, IA",0,1,0,0,1,0,0,1,0,1,2004
+22493,"Gilbert, IA","Dyersville, IA",1,0,0,1,0,0,0,1,0,1,2004
+22494,"Gilbert, IA","Eagle Grove, IA",0,0,1,0,0,1,0,0,1,1,2004
+22495,"Gilbert, IA","Elberon, IA",0,1,0,0,1,0,0,1,0,1,2004
+22496,"Gilbert, IA","Eldon, IA",1,0,0,0,1,0,1,0,0,1,2004
+22525,"Gilbert, IA","Madrid, IA",0,1,0,0,1,0,0,1,0,1,2004
+22524,"Gilbert, IA","Lynnville, IA",0,1,0,1,0,0,0,1,0,1,2004
+22523,"Gilbert, IA","Little Rock, IA",0,1,0,0,0,1,1,0,0,1,2004
+22520,"Gilbert, IA","Leland, IA",1,0,0,0,0,1,1,0,0,1,2004
+22516,"Gilbert, IA","Jefferson, IA",0,1,0,1,0,0,0,1,0,1,2004
+22515,"Gilbert, IA","Ireton, IA",0,1,0,0,1,0,1,0,0,1,2004
+22455,"Gilbert, IA","Albia, IA",1,0,0,1,0,0,1,0,0,1,2004
+22512,"Gilbert, IA","Indianola, IA",0,1,0,1,0,0,0,0,1,1,2004
+22511,"Gilbert, IA","Imogene, IA",0,1,0,1,0,0,0,1,0,1,2004
+22510,"Gilbert, IA","Huxley, IA",0,1,0,1,0,0,0,0,1,1,2004
+22508,"Gilbert, IA","Harris, IA",1,0,0,0,1,0,1,0,0,1,2004
+22507,"Gilbert, IA","Hampton, IA",0,1,0,0,0,1,1,0,0,1,2004
+22506,"Gilbert, IA","Grimes, IA",0,1,0,0,1,0,0,0,1,1,2004
+22505,"Gilbert, IA","Greenfield, IA",0,1,0,1,0,0,1,0,0,1,2004
+22502,"Gilbert, IA","Fort Dodge, IA",0,1,0,0,1,0,1,0,0,1,2004
+22501,"Gilbert, IA","Everly, IA",1,0,0,1,0,0,0,1,0,1,2004
+22500,"Gilbert, IA","Evansdale, IA",0,1,0,0,0,1,0,0,1,1,2004
+22498,"Gilbert, IA","Elk Horn, IA",0,1,0,0,0,1,0,1,0,1,2004
+22497,"Gilbert, IA","Eldora, IA",0,0,1,0,0,1,0,1,0,1,2004
+22574,"Gilbert, IA","Zearing, IA",0,1,0,1,0,0,1,0,0,1,2004

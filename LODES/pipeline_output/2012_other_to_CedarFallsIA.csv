@@ -1,0 +1,424 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+10650,"Cedar Falls, IA","Cedar Falls, IA",2075,3649,1793,1108,5202,1207,2067,2103,3347,7517,2012
+10986,"Cedar Falls, IA","Waterloo, IA",1643,2331,1003,1088,2943,946,1388,1929,1660,4977,2012
+10714,"Cedar Falls, IA","Evansdale, IA",222,333,193,184,406,158,197,281,270,748,2012
+10990,"Cedar Falls, IA","Waverly, IA",128,282,119,111,314,104,114,159,256,529,2012
+10688,"Cedar Falls, IA","Denver, IA",115,277,134,138,292,96,131,152,243,526,2012
+10779,"Cedar Falls, IA","Janesville, IA",84,179,91,73,233,48,89,77,188,354,2012
+10889,"Cedar Falls, IA","Parkersburg, IA",62,189,76,100,181,46,58,112,157,327,2012
+10706,"Cedar Falls, IA","Elk Run Heights, IA",100,147,71,102,170,46,80,123,115,318,2012
+10606,"Cedar Falls, IA","Ames, IA",127,109,40,31,145,100,108,66,102,276,2012
+10651,"Cedar Falls, IA","Cedar Rapids, IA",84,108,32,19,121,84,108,61,55,224,2012
+10910,"Cedar Falls, IA","Reinbeck, IA",59,116,43,60,125,33,58,57,103,218,2012
+10906,"Cedar Falls, IA","Raymond, IA",63,100,44,63,110,34,43,98,66,207,2012
+10689,"Cedar Falls, IA","Des Moines, IA",92,90,24,37,103,66,83,42,81,206,2012
+10794,"Cedar Falls, IA","La Porte City, IA",51,110,38,44,109,46,33,75,91,199,2012
+10716,"Cedar Falls, IA","Fairbank, IA",57,109,27,67,88,38,45,60,88,193,2012
+10853,"Cedar Falls, IA","Morrison, IA",39,104,41,60,85,39,34,56,94,184,2012
+10769,"Cedar Falls, IA","Hudson, IA",42,99,38,44,99,36,44,43,92,179,2012
+10772,"Cedar Falls, IA","Independence, IA",66,88,24,42,88,48,49,65,64,178,2012
+10833,"Cedar Falls, IA","Mason City, IA",69,70,35,4,113,57,87,57,30,174,2012
+10934,"Cedar Falls, IA","Shell Rock, IA",30,94,31,41,81,33,32,66,57,155,2012
+10864,"Cedar Falls, IA","New Hartford, IA",35,78,40,37,87,29,31,55,67,153,2012
+10907,"Cedar Falls, IA","Readlyn, IA",37,87,26,47,79,24,29,58,63,150,2012
+10696,"Cedar Falls, IA","Dubuque, IA",71,62,14,31,73,43,70,33,44,147,2012
+10966,"Cedar Falls, IA","Traer, IA",32,82,29,31,88,24,28,60,55,143,2012
+10830,"Cedar Falls, IA","Marshalltown, IA",60,56,23,7,82,50,59,40,40,139,2012
+10855,"Cedar Falls, IA","Mount Auburn, IA",38,56,29,36,56,31,26,50,47,123,2012
+10675,"Cedar Falls, IA","Council Bluffs, IA",72,37,10,4,78,37,71,24,24,119,2012
+10773,"Cedar Falls, IA","Indianola, IA",58,42,17,4,64,49,44,36,37,117,2012
+10692,"Cedar Falls, IA","Dike, IA",25,61,29,27,68,20,32,30,53,115,2012
+10781,"Cedar Falls, IA","Jesup, IA",31,61,21,31,58,24,20,41,52,113,2012
+10680,"Cedar Falls, IA","Davenport, IA",52,37,19,23,39,46,49,26,33,108,2012
+10896,"Cedar Falls, IA","Pleasant Hill, IA",47,51,10,10,59,39,38,35,35,108,2012
+10974,"Cedar Falls, IA","Urbandale, IA",42,54,11,18,53,36,42,25,40,107,2012
+10809,"Cedar Falls, IA","Lincoln, IA",20,59,24,27,57,19,23,23,57,103,2012
+10995,"Cedar Falls, IA","Wellsburg, IA",16,65,21,26,56,20,21,37,44,102,2012
+10917,"Cedar Falls, IA","Robins, IA",39,47,15,4,66,31,42,29,30,101,2012
+10939,"Cedar Falls, IA","Sioux City, IA",56,27,15,4,58,36,50,29,19,98,2012
+10592,"Cedar Falls, IA","Ackley, IA",25,48,25,26,55,17,25,33,40,98,2012
+10766,"Cedar Falls, IA","Hiawatha, IA",37,47,10,7,48,39,42,32,20,94,2012
+10876,"Cedar Falls, IA","Oelwein, IA",32,52,9,30,40,23,28,36,29,93,2012
+10605,"Cedar Falls, IA","Altoona, IA",41,39,9,13,45,31,34,27,28,89,2012
+10863,"Cedar Falls, IA","New Hampton, IA",29,42,13,11,31,42,29,25,30,84,2012
+10699,"Cedar Falls, IA","Dysart, IA",21,53,8,25,45,12,26,21,35,82,2012
+10697,"Cedar Falls, IA","Dunkerton, IA",22,46,14,17,44,21,17,25,40,82,2012
+10751,"Cedar Falls, IA","Grundy Center, IA",12,56,11,15,45,19,16,22,41,79,2012
+10662,"Cedar Falls, IA","Clinton, IA",47,23,8,17,37,24,41,9,28,78,2012
+10776,"Cedar Falls, IA","Iowa City, IA",38,28,11,6,48,23,29,23,25,77,2012
+10628,"Cedar Falls, IA","Bettendorf, IA",45,18,12,16,36,23,35,17,23,75,2012
+10602,"Cedar Falls, IA","Allison, IA",11,36,20,16,37,14,22,17,28,67,2012
+10765,"Cedar Falls, IA","Hazleton, IA",21,30,11,13,42,7,20,24,18,62,2012
+10702,"Cedar Falls, IA","Elberon, IA",16,34,11,13,30,18,22,20,19,61,2012
+10956,"Cedar Falls, IA","Sumner, IA",16,26,18,20,32,8,13,23,24,60,2012
+10609,"Cedar Falls, IA","Ankeny, IA",17,37,6,25,20,15,23,7,30,60,2012
+10733,"Cedar Falls, IA","Frederika, IA",10,33,16,23,28,8,11,23,25,59,2012
+10973,"Cedar Falls, IA","Urbana, IA",12,39,7,12,35,11,11,19,28,58,2012
+10683,"Cedar Falls, IA","Decorah, IA",23,23,11,1,41,15,29,19,9,57,2012
+10967,"Cedar Falls, IA","Tripoli, IA",8,35,13,19,26,11,10,21,25,56,2012
+10894,"Cedar Falls, IA","Plainfield, IA",7,32,15,24,23,7,11,18,25,54,2012
+10860,"Cedar Falls, IA","Nashua, IA",22,25,5,20,21,11,7,21,24,52,2012
+10739,"Cedar Falls, IA","Gilbertville, IA",14,26,11,19,22,10,9,14,28,51,2012
+10783,"Cedar Falls, IA","Johnston, IA",16,30,5,8,27,16,20,9,22,51,2012
+11008,"Cedar Falls, IA","Windsor Heights, IA",14,27,7,25,16,7,12,7,29,48,2012
+10978,"Cedar Falls, IA","Vinton, IA",21,20,4,7,26,12,15,18,12,45,2012
+10777,"Cedar Falls, IA","Iowa Falls, IA",21,13,10,1,24,19,21,16,7,44,2012
+10657,"Cedar Falls, IA","Charles City, IA",13,20,11,5,27,12,19,15,10,44,2012
+10883,"Cedar Falls, IA","Ottumwa, IA",22,13,9,18,15,11,15,11,18,44,2012
+10848,"Cedar Falls, IA","Monticello, IA",18,17,8,4,15,24,17,17,9,43,2012
+10859,"Cedar Falls, IA","Muscatine, IA",25,13,3,1,17,23,25,11,5,41,2012
+10593,"Cedar Falls, IA","Ackworth, IA",17,18,4,3,19,17,15,11,13,39,2012
+10665,"Cedar Falls, IA","Clutier, IA",10,19,7,13,13,10,6,10,20,36,2012
+10634,"Cedar Falls, IA","Brandon, IA",7,20,8,11,18,6,8,12,15,35,2012
+10750,"Cedar Falls, IA","Grinnell, IA",14,11,9,2,24,8,16,6,12,34,2012
+11001,"Cedar Falls, IA","West Union, IA",22,10,1,4,14,15,16,10,7,33,2012
+11011,"Cedar Falls, IA","Winthrop, IA",9,17,7,7,17,9,12,6,15,33,2012
+10884,"Cedar Falls, IA","Owasa, IA",13,13,6,7,18,7,11,10,11,32,2012
+10601,"Cedar Falls, IA","Algona, IA",14,11,7,3,15,14,15,11,6,32,2012
+10641,"Cedar Falls, IA","Burlington, IA",15,11,6,0,22,10,20,11,1,32,2012
+10646,"Cedar Falls, IA","Carter Lake, IA",20,6,5,2,24,5,17,9,5,31,2012
+10614,"Cedar Falls, IA","Asbury, IA",16,9,6,2,14,15,18,8,5,31,2012
+10626,"Cedar Falls, IA","Bennett, IA",12,14,4,5,17,8,14,7,9,30,2012
+10717,"Cedar Falls, IA","Fairfax, IA",14,12,4,1,18,11,13,11,6,30,2012
+10947,"Cedar Falls, IA","St. Marys, IA",15,9,5,2,19,8,14,9,6,29,2012
+10965,"Cedar Falls, IA","Toledo, IA",9,13,7,5,15,9,11,11,7,29,2012
+10962,"Cedar Falls, IA","Tiffin, IA",12,11,6,0,18,11,12,9,8,29,2012
+10821,"Cedar Falls, IA","Manchester, IA",16,7,5,6,16,6,11,6,11,28,2012
+10661,"Cedar Falls, IA","Clear Lake, IA",13,9,5,4,12,11,12,6,9,27,2012
+10736,"Cedar Falls, IA","Garwin, IA",10,9,8,4,18,5,5,12,10,27,2012
+10858,"Cedar Falls, IA","Mount Vernon, IA",11,11,5,4,16,7,12,7,8,27,2012
+10687,"Cedar Falls, IA","Denison, IA",13,10,4,4,15,8,13,6,8,27,2012
+10703,"Cedar Falls, IA","Eldora, IA",9,10,8,7,15,5,10,6,11,27,2012
+10782,"Cedar Falls, IA","Jewell Junction, IA",14,10,2,3,15,8,15,6,5,26,2012
+10982,"Cedar Falls, IA","Walker, IA",6,14,6,7,13,6,5,7,14,26,2012
+10880,"Cedar Falls, IA","Osage, IA",13,9,4,3,13,10,14,5,7,26,2012
+10887,"Cedar Falls, IA","Palo, IA",13,9,4,1,13,12,15,5,6,26,2012
+10724,"Cedar Falls, IA","Floyd, IA",7,12,6,1,17,7,15,5,5,25,2012
+10670,"Cedar Falls, IA","Coralville, IA",14,8,3,3,10,12,12,5,8,25,2012
+10872,"Cedar Falls, IA","North Liberty, IA",10,12,2,3,12,9,8,10,6,24,2012
+10627,"Cedar Falls, IA","Bertram, IA",11,9,4,2,10,12,10,9,5,24,2012
+10629,"Cedar Falls, IA","Blairstown, IA",4,9,11,5,13,6,10,3,11,24,2012
+10732,"Cedar Falls, IA","Fredericksburg, IA",4,9,11,4,15,5,6,7,11,24,2012
+10905,"Cedar Falls, IA","Randalia, IA",11,10,3,5,14,5,9,8,7,24,2012
+10617,"Cedar Falls, IA","Aurelia, IA",13,7,4,3,10,11,15,6,3,24,2012
+10971,"Cedar Falls, IA","University Heights, IA",10,8,5,1,13,9,13,6,4,23,2012
+10643,"Cedar Falls, IA","Camanche, IA",12,9,2,3,13,7,13,7,3,23,2012
+10989,"Cedar Falls, IA","Waukon, IA",6,12,4,2,13,7,10,7,5,22,2012
+10660,"Cedar Falls, IA","Clarksville, IA",5,12,5,4,12,6,7,7,8,22,2012
+10636,"Cedar Falls, IA","Bristow, IA",3,18,1,5,13,4,3,9,10,22,2012
+10664,"Cedar Falls, IA","Clive, IA",8,13,1,12,5,5,3,6,13,22,2012
+10845,"Cedar Falls, IA","Mitchellville, IA",6,11,5,4,9,9,10,5,7,22,2012
+10950,"Cedar Falls, IA","Stanley, IA",7,14,1,6,15,1,2,7,13,22,2012
+10754,"Cedar Falls, IA","Hampton, IA",10,8,3,1,14,6,5,9,7,21,2012
+10878,"Cedar Falls, IA","Orange City, IA",6,12,3,10,5,6,4,8,9,21,2012
+10926,"Cedar Falls, IA","Sageville, IA",13,4,4,6,12,3,9,6,6,21,2012
+10825,"Cedar Falls, IA","Maquoketa, IA",10,6,5,2,10,9,11,7,3,21,2012
+10800,"Cedar Falls, IA","Larrabee, IA",10,9,2,3,11,7,10,6,5,21,2012
+10981,"Cedar Falls, IA","Walford, IA",12,8,1,3,11,7,12,4,5,21,2012
+10925,"Cedar Falls, IA","Ryan, IA",7,11,3,6,7,8,6,7,8,21,2012
+10756,"Cedar Falls, IA","Harlan, IA",14,4,2,3,10,7,11,5,4,20,2012
+10959,"Cedar Falls, IA","Tama, IA",7,10,3,1,12,7,11,5,4,20,2012
+10669,"Cedar Falls, IA","Conrad, IA",8,7,5,2,15,3,4,6,10,20,2012
+10836,"Cedar Falls, IA","McIntire, IA",7,11,2,3,11,6,13,5,2,20,2012
+10958,"Cedar Falls, IA","Swea City, IA",4,9,7,2,14,4,8,6,6,20,2012
+10668,"Cedar Falls, IA","Colwell, IA",8,6,5,2,10,7,9,5,5,19,2012
+10618,"Cedar Falls, IA","Aurora, IA",5,7,7,6,8,5,5,6,8,19,2012
+10649,"Cedar Falls, IA","Castalia, IA",8,7,4,2,8,9,7,8,4,19,2012
+10873,"Cedar Falls, IA","Northwood, IA",5,9,5,1,14,4,4,11,4,19,2012
+10827,"Cedar Falls, IA","Marengo, IA",9,6,4,1,14,4,8,8,3,19,2012
+10676,"Cedar Falls, IA","Cresco, IA",8,8,3,2,6,11,11,6,2,19,2012
+10940,"Cedar Falls, IA","Spencer, IA",8,9,2,5,10,4,6,5,8,19,2012
+10747,"Cedar Falls, IA","Greene, IA",2,14,3,6,10,3,3,4,12,19,2012
+10900,"Cedar Falls, IA","Pomeroy, IA",7,6,5,2,11,5,9,4,5,18,2012
+10735,"Cedar Falls, IA","Garner, IA",8,7,3,1,13,4,10,6,2,18,2012
+10616,"Cedar Falls, IA","Atkins, IA",10,7,1,2,9,7,7,7,4,18,2012
+10695,"Cedar Falls, IA","Dougherty, IA",5,10,3,3,10,5,8,5,5,18,2012
+10935,"Cedar Falls, IA","Shueyville, IA",6,8,4,0,11,7,7,8,3,18,2012
+10620,"Cedar Falls, IA","Balltown, IA",8,6,3,5,10,2,11,2,4,17,2012
+10979,"Cedar Falls, IA","Wadena, IA",15,2,0,2,9,6,12,4,1,17,2012
+10608,"Cedar Falls, IA","Andover, IA",8,7,2,6,8,3,9,2,6,17,2012
+10797,"Cedar Falls, IA","Lake Mills, IA",10,4,3,1,9,7,13,2,2,17,2012
+10942,"Cedar Falls, IA","Spring Hill, IA",7,8,1,1,9,6,4,5,7,16,2012
+10818,"Cedar Falls, IA","Luana, IA",10,4,2,0,12,4,11,3,2,16,2012
+10815,"Cedar Falls, IA","Lone Tree, IA",7,5,4,1,10,5,4,5,7,16,2012
+10803,"Cedar Falls, IA","Le Grand, IA",4,7,5,1,13,2,5,6,5,16,2012
+10653,"Cedar Falls, IA","Center Point, IA",7,5,4,0,11,5,11,5,0,16,2012
+10607,"Cedar Falls, IA","Anamosa, IA",2,11,3,3,7,6,7,6,3,16,2012
+10682,"Cedar Falls, IA","De Witt, IA",7,6,3,3,8,5,8,4,4,16,2012
+10719,"Cedar Falls, IA","Farley, IA",8,8,0,4,8,4,5,4,7,16,2012
+10852,"Cedar Falls, IA","Morley, IA",7,8,0,0,8,7,5,9,1,15,2012
+10988,"Cedar Falls, IA","Waukee, IA",3,12,0,15,0,0,0,1,14,15,2012
+10992,"Cedar Falls, IA","Webster City, IA",8,6,1,0,10,5,7,6,2,15,2012
+10721,"Cedar Falls, IA","Fayette, IA",8,6,1,1,9,5,6,6,3,15,2012
+10972,"Cedar Falls, IA","University Park, IA",8,7,0,5,4,6,7,1,7,15,2012
+10849,"Cedar Falls, IA","Montour, IA",7,6,2,2,7,6,6,4,5,15,2012
+10921,"Cedar Falls, IA","Rockwell, IA",12,2,1,0,10,5,10,3,2,15,2012
+10949,"Cedar Falls, IA","Stacyville, IA",8,6,1,5,7,3,3,5,7,15,2012
+10652,"Cedar Falls, IA","Center Junction, IA",8,4,2,4,6,4,9,3,2,14,2012
+10903,"Cedar Falls, IA","Protivin, IA",6,8,0,3,5,6,5,6,3,14,2012
+10953,"Cedar Falls, IA","Storm Lake, IA",4,7,3,3,8,3,7,2,5,14,2012
+10603,"Cedar Falls, IA","Alta Vista, IA",3,8,3,5,3,6,6,2,6,14,2012
+10985,"Cedar Falls, IA","Washington, IA",6,5,3,1,8,5,8,4,2,14,2012
+10943,"Cedar Falls, IA","Springbrook, IA",4,6,4,6,4,4,5,0,9,14,2012
+10822,"Cedar Falls, IA","Manly, IA",3,9,2,0,6,8,8,2,4,14,2012
+10929,"Cedar Falls, IA","Schleswig, IA",10,2,2,3,6,5,9,2,3,14,2012
+10916,"Cedar Falls, IA","Riverside, IA",6,5,3,0,10,4,8,3,3,14,2012
+10999,"Cedar Falls, IA","West Des Moines, IA",4,9,1,9,5,0,1,3,10,14,2012
+10728,"Cedar Falls, IA","Fort Madison, IA",7,6,1,0,10,4,9,4,1,14,2012
+10955,"Cedar Falls, IA","Strawberry Point, IA",9,4,0,5,5,3,7,2,4,13,2012
+10725,"Cedar Falls, IA","Forest City, IA",5,6,2,0,10,3,8,3,2,13,2012
+10960,"Cedar Falls, IA","Thompson, IA",6,4,3,0,7,6,3,9,1,13,2012
+10637,"Cedar Falls, IA","Britt, IA",7,5,1,2,11,0,6,4,3,13,2012
+10816,"Cedar Falls, IA","Long Grove, IA",5,5,3,1,6,6,7,2,4,13,2012
+10705,"Cedar Falls, IA","Elgin, IA",8,3,2,2,7,4,8,4,1,13,2012
+10677,"Cedar Falls, IA","Creston, IA",5,4,4,6,3,4,4,4,5,13,2012
+10600,"Cedar Falls, IA","Alden, IA",6,5,2,1,7,5,4,5,4,13,2012
+10718,"Cedar Falls, IA","Fairfield, IA",7,5,1,4,5,4,5,3,5,13,2012
+10624,"Cedar Falls, IA","Belle Plaine, IA",5,6,1,3,7,2,6,2,4,12,2012
+10828,"Cedar Falls, IA","Marion, IA",5,6,1,1,6,5,8,3,1,12,2012
+10698,"Cedar Falls, IA","Dyersville, IA",2,9,1,1,6,5,3,4,5,12,2012
+10710,"Cedar Falls, IA","Ely, IA",5,6,1,1,5,6,4,3,5,12,2012
+10911,"Cedar Falls, IA","Rhodes, IA",3,6,3,1,4,7,4,1,7,12,2012
+10778,"Cedar Falls, IA","Irwin, IA",6,3,3,2,5,5,8,2,2,12,2012
+10801,"Cedar Falls, IA","Lawler, IA",4,5,3,3,4,5,3,7,2,12,2012
+10726,"Cedar Falls, IA","Fort Atkinson, IA",4,8,0,0,11,1,6,6,0,12,2012
+10753,"Cedar Falls, IA","Guttenberg, IA",4,7,1,3,5,4,7,2,3,12,2012
+10658,"Cedar Falls, IA","Charter Oak, IA",6,6,0,1,5,6,4,5,3,12,2012
+10655,"Cedar Falls, IA","Central City, IA",4,7,0,2,5,4,3,6,2,11,2012
+10914,"Cedar Falls, IA","Rinard, IA",5,4,2,1,7,3,2,8,1,11,2012
+10824,"Cedar Falls, IA","Manson, IA",4,4,3,0,7,4,6,3,2,11,2012
+11005,"Cedar Falls, IA","Williams, IA",8,3,0,3,7,1,7,1,3,11,2012
+10856,"Cedar Falls, IA","Mount Pleasant, IA",6,4,1,0,5,6,6,3,2,11,2012
+10764,"Cedar Falls, IA","Hawkeye, IA",4,6,1,4,4,3,5,2,4,11,2012
+10774,"Cedar Falls, IA","Inwood, IA",5,4,1,5,2,3,2,6,2,10,2012
+10798,"Cedar Falls, IA","Lamoni, IA",4,5,1,3,5,2,4,3,3,10,2012
+11007,"Cedar Falls, IA","Wilton, IA",6,4,0,1,6,3,5,3,2,10,2012
+10630,"Cedar Falls, IA","Blue Grass, IA",5,3,2,1,6,3,5,2,3,10,2012
+10752,"Cedar Falls, IA","Guernsey, IA",5,3,2,0,5,5,3,7,0,10,2012
+10870,"Cedar Falls, IA","Nora Springs, IA",5,4,1,1,5,4,3,4,3,10,2012
+10787,"Cedar Falls, IA","Keokuk, IA",5,2,3,2,5,3,5,2,3,10,2012
+10625,"Cedar Falls, IA","Bellevue, IA",6,3,1,3,3,4,3,5,2,10,2012
+10742,"Cedar Falls, IA","Grand Mound, IA",6,4,0,3,7,0,4,2,4,10,2012
+10976,"Cedar Falls, IA","Victor, IA",3,2,5,6,2,2,3,2,5,10,2012
+10919,"Cedar Falls, IA","Rock Valley, IA",3,6,1,3,6,1,3,5,2,10,2012
+10811,"Cedar Falls, IA","Liscomb, IA",5,4,1,1,6,3,3,5,2,10,2012
+11002,"Cedar Falls, IA","Wheatland, IA",7,2,1,2,7,1,7,0,3,10,2012
+10666,"Cedar Falls, IA","Coggon, IA",1,8,1,2,8,0,2,2,6,10,2012
+10704,"Cedar Falls, IA","Eldridge, IA",5,4,1,2,5,3,5,1,4,10,2012
+10685,"Cedar Falls, IA","Delaware, IA",4,5,1,2,3,5,2,1,7,10,2012
+10938,"Cedar Falls, IA","Sioux Center, IA",1,5,3,4,4,1,1,4,4,9,2012
+11014,"Cedar Falls, IA","Yetter, IA",4,4,1,0,4,5,3,4,2,9,2012
+10837,"Cedar Falls, IA","Mechanicsville, IA",5,2,2,1,6,2,3,4,2,9,2012
+10645,"Cedar Falls, IA","Carlisle, IA",3,6,0,8,0,1,1,1,7,9,2012
+10647,"Cedar Falls, IA","Cascade, IA",3,5,1,3,4,2,2,2,5,9,2012
+10712,"Cedar Falls, IA","Epworth, IA",4,3,2,1,6,2,3,3,3,9,2012
+10622,"Cedar Falls, IA","Beaman, IA",6,2,1,3,4,2,5,1,3,9,2012
+10713,"Cedar Falls, IA","Estherville, IA",5,2,2,3,6,0,3,4,2,9,2012
+10902,"Cedar Falls, IA","Preston, IA",5,4,0,1,7,1,2,3,4,9,2012
+10757,"Cedar Falls, IA","Harpers Ferry, IA",4,3,2,0,8,1,7,1,1,9,2012
+10659,"Cedar Falls, IA","Chester, IA",5,2,2,0,6,3,4,3,2,9,2012
+10871,"Cedar Falls, IA","North English, IA",4,2,3,2,6,1,4,3,2,9,2012
+10847,"Cedar Falls, IA","Montezuma, IA",3,2,4,0,4,5,6,3,0,9,2012
+10840,"Cedar Falls, IA","Meriden, IA",7,1,0,0,5,3,4,4,0,8,2012
+10823,"Cedar Falls, IA","Manning, IA",4,2,2,2,6,0,5,2,1,8,2012
+10667,"Cedar Falls, IA","Columbus Junction, IA",3,4,1,1,6,1,3,3,2,8,2012
+10640,"Cedar Falls, IA","Buffalo, IA",2,2,4,2,2,4,4,1,3,8,2012
+10672,"Cedar Falls, IA","Corwith, IA",2,3,3,2,6,0,4,3,1,8,2012
+10963,"Cedar Falls, IA","Tipton, IA",3,2,3,3,2,3,3,1,4,8,2012
+10707,"Cedar Falls, IA","Elkader, IA",4,2,2,0,7,1,4,2,2,8,2012
+10964,"Cedar Falls, IA","Titonka, IA",2,4,2,0,8,0,3,1,4,8,2012
+10788,"Cedar Falls, IA","Keosauqua, IA",4,2,2,3,3,2,4,1,3,8,2012
+10709,"Cedar Falls, IA","Elma, IA",3,4,1,0,7,1,5,1,2,8,2012
+10599,"Cedar Falls, IA","Albion, IA",2,4,2,1,5,2,2,2,4,8,2012
+10749,"Cedar Falls, IA","Grimes, IA",3,5,0,8,0,0,0,0,8,8,2012
+10993,"Cedar Falls, IA","Webster, IA",3,5,0,4,3,1,1,1,6,8,2012
+10619,"Cedar Falls, IA","Baldwin, IA",5,2,1,2,4,2,5,1,2,8,2012
+11003,"Cedar Falls, IA","Whittemore, IA",2,4,2,1,5,2,3,2,3,8,2012
+10888,"Cedar Falls, IA","Panama, IA",5,1,1,1,3,3,4,2,1,7,2012
+10835,"Cedar Falls, IA","McCausland, IA",2,4,1,1,1,5,2,2,3,7,2012
+11006,"Cedar Falls, IA","Williamsburg, IA",4,3,0,1,6,0,4,2,1,7,2012
+10846,"Cedar Falls, IA","Monona, IA",3,3,1,1,3,3,3,2,2,7,2012
+10612,"Cedar Falls, IA","Armstrong, IA",1,5,1,0,2,5,3,1,3,7,2012
+10722,"Cedar Falls, IA","Ferguson, IA",2,2,3,0,6,1,1,3,3,7,2012
+10740,"Cedar Falls, IA","Gilman, IA",3,2,2,2,5,0,2,2,3,7,2012
+10686,"Cedar Falls, IA","Deloit, IA",4,2,1,0,6,1,6,1,0,7,2012
+10708,"Cedar Falls, IA","Elkport, IA",5,2,0,2,4,1,5,0,2,7,2012
+10913,"Cedar Falls, IA","Ridgeway, IA",5,0,2,0,4,3,3,4,0,7,2012
+10890,"Cedar Falls, IA","Parnell, IA",1,5,1,1,3,3,2,1,4,7,2012
+10882,"Cedar Falls, IA","Oskaloosa, IA",4,2,1,0,3,4,3,3,1,7,2012
+10596,"Cedar Falls, IA","Agency, IA",2,3,2,6,1,0,1,1,5,7,2012
+10865,"Cedar Falls, IA","New London, IA",3,2,2,1,1,5,5,1,1,7,2012
+10874,"Cedar Falls, IA","Norwalk, IA",0,6,1,6,1,0,1,0,6,7,2012
+10862,"Cedar Falls, IA","New Albin, IA",5,0,1,1,5,0,4,1,1,6,2012
+10615,"Cedar Falls, IA","Ashton, IA",3,2,1,2,3,1,3,2,1,6,2012
+10854,"Cedar Falls, IA","Moulton, IA",1,2,3,3,3,0,1,2,3,6,2012
+10730,"Cedar Falls, IA","Franklin, IA",4,2,0,0,3,3,5,0,1,6,2012
+10611,"Cedar Falls, IA","Arlington, IA",2,4,0,1,4,1,1,4,1,6,2012
+10850,"Cedar Falls, IA","Montrose, IA",3,3,0,0,4,2,4,2,0,6,2012
+10598,"Cedar Falls, IA","Albia, IA",0,5,1,2,2,2,1,2,3,6,2012
+10701,"Cedar Falls, IA","Eddyville, IA",3,1,2,1,3,2,2,2,2,6,2012
+10928,"Cedar Falls, IA","Schaller, IA",5,1,0,0,5,1,5,1,0,6,2012
+10784,"Cedar Falls, IA","Joice, IA",5,0,1,1,4,1,5,0,1,6,2012
+10820,"Cedar Falls, IA","Malcom, IA",1,5,0,1,4,1,1,2,3,6,2012
+10638,"Cedar Falls, IA","Brooklyn, IA",3,2,1,2,2,2,2,2,2,6,2012
+10936,"Cedar Falls, IA","Sibley, IA",4,2,0,2,4,0,3,3,0,6,2012
+10937,"Cedar Falls, IA","Sigourney, IA",5,1,0,2,3,1,2,1,3,6,2012
+10633,"Cedar Falls, IA","Boyden, IA",2,2,2,1,3,2,2,1,3,6,2012
+10632,"Cedar Falls, IA","Boxholm, IA",4,2,0,1,4,1,5,0,1,6,2012
+10920,"Cedar Falls, IA","Rockford, IA",0,5,1,1,5,0,1,4,1,6,2012
+10693,"Cedar Falls, IA","Dixon, IA",1,5,0,1,4,1,2,2,2,6,2012
+10642,"Cedar Falls, IA","Bussey, IA",0,4,2,3,1,2,1,0,5,6,2012
+10799,"Cedar Falls, IA","Lansing, IA",2,3,1,1,4,1,1,0,5,6,2012
+10944,"Cedar Falls, IA","Springville, IA",3,2,1,0,2,4,4,2,0,6,2012
+10912,"Cedar Falls, IA","Richland, IA",2,4,0,3,2,1,2,2,2,6,2012
+10952,"Cedar Falls, IA","Steamboat Rock, IA",2,3,1,2,2,2,1,1,4,6,2012
+10785,"Cedar Falls, IA","Kalona, IA",1,5,0,0,3,3,4,1,1,6,2012
+10804,"Cedar Falls, IA","Le Roy, IA",0,5,1,3,1,2,1,1,4,6,2012
+10915,"Cedar Falls, IA","Riverdale, IA",1,2,2,3,2,0,1,2,2,5,2012
+10654,"Cedar Falls, IA","Centerville, IA",3,1,1,2,2,1,2,1,2,5,2012
+11000,"Cedar Falls, IA","West Liberty, IA",3,0,2,0,5,0,4,1,0,5,2012
+10898,"Cedar Falls, IA","Plymouth, IA",1,1,3,0,1,4,2,1,2,5,2012
+10648,"Cedar Falls, IA","Casey, IA",3,1,1,2,0,3,2,2,1,5,2012
+10933,"Cedar Falls, IA","Sheldon, IA",0,2,3,3,2,0,0,2,3,5,2012
+10875,"Cedar Falls, IA","Norway, IA",1,3,1,0,2,3,1,3,1,5,2012
+10723,"Cedar Falls, IA","Floris, IA",3,2,0,0,1,4,3,2,0,5,2012
+10806,"Cedar Falls, IA","Lenox, IA",2,2,1,2,2,1,3,0,2,5,2012
+10826,"Cedar Falls, IA","Marble Rock, IA",3,2,0,1,3,1,2,2,1,5,2012
+10738,"Cedar Falls, IA","George, IA",3,2,0,2,2,1,2,2,1,5,2012
+10691,"Cedar Falls, IA","Dickens, IA",3,2,0,3,1,1,1,3,1,5,2012
+10780,"Cedar Falls, IA","Jefferson, IA",2,2,1,1,2,2,1,1,3,5,2012
+10763,"Cedar Falls, IA","Hawarden, IA",3,1,1,3,2,0,2,2,1,5,2012
+10802,"Cedar Falls, IA","Le Claire, IA",1,1,3,1,2,2,1,1,3,5,2012
+10775,"Cedar Falls, IA","Ionia, IA",0,3,2,1,3,1,3,1,1,5,2012
+10813,"Cedar Falls, IA","Lockridge, IA",3,2,0,0,3,2,2,0,3,5,2012
+10808,"Cedar Falls, IA","Lime Springs, IA",2,1,1,2,1,1,1,1,2,4,2012
+10635,"Cedar Falls, IA","Brighton, IA",2,2,0,1,1,2,2,1,1,4,2012
+10807,"Cedar Falls, IA","Leon, IA",2,1,1,0,3,1,1,0,3,4,2012
+10796,"Cedar Falls, IA","Ladora, IA",2,2,0,0,1,3,2,1,1,4,2012
+10932,"Cedar Falls, IA","Sheffield, IA",3,1,0,0,3,1,3,1,0,4,2012
+10700,"Cedar Falls, IA","East Peru, IA",3,1,0,2,1,1,2,1,1,4,2012
+10927,"Cedar Falls, IA","Sanborn, IA",2,1,1,1,3,0,3,1,0,4,2012
+10819,"Cedar Falls, IA","Lynnville, IA",1,2,1,1,2,1,1,0,3,4,2012
+10694,"Cedar Falls, IA","Donnellson, IA",2,2,0,0,1,3,2,2,0,4,2012
+10829,"Cedar Falls, IA","Marquette, IA",1,1,2,2,0,2,1,2,1,4,2012
+10941,"Cedar Falls, IA","Spirit Lake, IA",4,0,0,0,4,0,4,0,0,4,2012
+10791,"Cedar Falls, IA","Kinross, IA",1,3,0,2,0,2,1,0,3,4,2012
+10946,"Cedar Falls, IA","St. Lucas, IA",3,1,0,2,2,0,2,0,2,4,2012
+10631,"Cedar Falls, IA","Boone, IA",1,2,1,4,0,0,0,0,4,4,2012
+10789,"Cedar Falls, IA","Keota, IA",2,1,1,2,1,1,3,0,1,4,2012
+10711,"Cedar Falls, IA","Emmetsburg, IA",4,0,0,1,2,1,2,1,1,4,2012
+10720,"Cedar Falls, IA","Farmington, IA",0,2,2,1,0,3,0,1,3,4,2012
+10771,"Cedar Falls, IA","Huxley, IA",1,3,0,4,0,0,1,0,3,4,2012
+10969,"Cedar Falls, IA","Union, IA",1,1,2,0,3,1,1,0,3,4,2012
+10604,"Cedar Falls, IA","Alton, IA",2,0,2,1,3,0,2,1,1,4,2012
+10745,"Cedar Falls, IA","Gravity, IA",1,1,2,2,1,1,2,1,1,4,2012
+10744,"Cedar Falls, IA","Grant, IA",2,1,1,1,3,0,1,2,1,4,2012
+10743,"Cedar Falls, IA","Grandview, IA",1,2,1,0,3,1,1,1,2,4,2012
+10595,"Cedar Falls, IA","Afton, IA",4,0,0,1,0,3,3,1,0,4,2012
+11009,"Cedar Falls, IA","Winfield, IA",3,0,1,0,4,0,1,2,1,4,2012
+10918,"Cedar Falls, IA","Rock Rapids, IA",2,1,1,1,1,2,1,1,2,4,2012
+10734,"Cedar Falls, IA","Garnavillo, IA",2,1,1,1,1,2,2,1,1,4,2012
+10881,"Cedar Falls, IA","Osceola, IA",2,2,0,2,1,1,1,1,2,4,2012
+10866,"Cedar Falls, IA","New Sharon, IA",1,1,2,1,1,2,1,0,3,4,2012
+10868,"Cedar Falls, IA","Newton, IA",0,4,0,4,0,0,0,0,4,4,2012
+10892,"Cedar Falls, IA","Pella, IA",1,3,0,4,0,0,0,0,4,4,2012
+10891,"Cedar Falls, IA","Paullina, IA",3,0,1,0,3,1,1,2,1,4,2012
+10644,"Cedar Falls, IA","Cambridge, IA",1,2,1,4,0,0,0,0,4,4,2012
+10663,"Cedar Falls, IA","Clio, IA",4,0,0,0,2,2,3,1,0,4,2012
+10899,"Cedar Falls, IA","Polk City, IA",3,1,0,4,0,0,0,0,4,4,2012
+10678,"Cedar Falls, IA","Crystal Lake, IA",1,2,1,1,3,0,1,1,2,4,2012
+10656,"Cedar Falls, IA","Chariton, IA",1,1,1,1,1,1,1,0,2,3,2012
+10610,"Cedar Falls, IA","Aredale, IA",1,1,1,0,0,3,2,0,1,3,2012
+10673,"Cedar Falls, IA","Corydon, IA",2,1,0,1,2,0,1,1,1,3,2012
+10975,"Cedar Falls, IA","Van Horne, IA",1,2,0,0,1,2,3,0,0,3,2012
+10715,"Cedar Falls, IA","Exline, IA",1,2,0,0,2,1,2,0,1,3,2012
+10623,"Cedar Falls, IA","Bedford, IA",1,2,0,1,0,2,0,2,1,3,2012
+10867,"Cedar Falls, IA","Newell, IA",0,2,1,3,0,0,0,1,2,3,2012
+10957,"Cedar Falls, IA","Superior, IA",3,0,0,0,1,2,2,0,1,3,2012
+10793,"Cedar Falls, IA","Knoxville, IA",1,2,0,3,0,0,0,1,2,3,2012
+10980,"Cedar Falls, IA","Walcott, IA",1,1,1,0,1,2,1,1,1,3,2012
+10983,"Cedar Falls, IA","Wallingford, IA",0,3,0,0,1,2,3,0,0,3,2012
+10762,"Cedar Falls, IA","Haverhill, IA",1,2,0,0,2,1,2,0,1,3,2012
+10948,"Cedar Falls, IA","St. Olaf, IA",0,3,0,0,3,0,1,2,0,3,2012
+10984,"Cedar Falls, IA","Wapello, IA",1,0,2,0,2,1,1,2,0,3,2012
+10987,"Cedar Falls, IA","Waucoma, IA",2,1,0,1,0,2,1,0,2,3,2012
+10758,"Cedar Falls, IA","Harris, IA",2,1,0,0,3,0,2,0,1,3,2012
+10991,"Cedar Falls, IA","Webb, IA",0,1,2,2,1,0,1,1,1,3,2012
+10748,"Cedar Falls, IA","Greenfield, IA",2,0,1,2,1,0,1,0,2,3,2012
+10996,"Cedar Falls, IA","West Bend, IA",1,2,0,3,0,0,0,1,2,3,2012
+10997,"Cedar Falls, IA","West Burlington, IA",3,0,0,0,3,0,0,3,0,3,2012
+10879,"Cedar Falls, IA","Orient, IA",2,1,0,0,3,0,3,0,0,3,2012
+11004,"Cedar Falls, IA","Whitten, IA",3,0,0,0,2,1,3,0,0,3,2012
+10741,"Cedar Falls, IA","Graettinger, IA",2,1,0,1,1,1,1,1,1,3,2012
+11013,"Cedar Falls, IA","Wyoming, IA",0,1,2,0,2,1,1,1,1,3,2012
+10795,"Cedar Falls, IA","Lacona, IA",1,0,2,1,2,0,1,0,2,3,2012
+10671,"Cedar Falls, IA","Corning, IA",3,0,0,0,2,1,2,1,0,3,2012
+10931,"Cedar Falls, IA","Shannon City, IA",0,2,1,3,0,0,1,0,2,3,2012
+10909,"Cedar Falls, IA","Redding, IA",1,1,1,1,1,1,0,1,2,3,2012
+10639,"Cedar Falls, IA","Buffalo Center, IA",0,3,0,0,3,0,0,3,0,3,2012
+10810,"Cedar Falls, IA","Lineville, IA",0,2,1,1,1,1,0,1,2,3,2012
+10924,"Cedar Falls, IA","Ruthven, IA",1,1,1,2,0,1,0,1,2,3,2012
+10923,"Cedar Falls, IA","Russell, IA",1,2,0,1,2,0,1,0,2,3,2012
+10908,"Cedar Falls, IA","Reasnor, IA",2,1,0,3,0,0,0,2,1,3,2012
+10681,"Cedar Falls, IA","De Soto, IA",1,2,0,3,0,0,0,0,3,3,2012
+10831,"Cedar Falls, IA","Martelle, IA",2,1,0,0,2,1,2,1,0,3,2012
+10727,"Cedar Falls, IA","Fort Dodge, IA",1,1,0,0,2,0,0,2,0,2,2012
+10684,"Cedar Falls, IA","Dedham, IA",1,1,0,0,2,0,2,0,0,2,2012
+10893,"Cedar Falls, IA","Perry, IA",2,0,0,2,0,0,0,0,2,2,2012
+10930,"Cedar Falls, IA","Seymour, IA",1,1,0,1,1,0,1,0,1,2,2012
+10760,"Cedar Falls, IA","Hartwick, IA",1,1,0,0,2,0,1,1,0,2,2012
+10834,"Cedar Falls, IA","Maxwell, IA",1,1,0,2,0,0,1,0,1,2,2012
+10594,"Cedar Falls, IA","Adel, IA",0,2,0,2,0,0,0,0,2,2,2012
+10869,"Cedar Falls, IA","Nichols, IA",1,1,0,0,1,1,2,0,0,2,2012
+10737,"Cedar Falls, IA","Geneva, IA",2,0,0,0,2,0,1,1,0,2,2012
+10690,"Cedar Falls, IA","Diagonal, IA",1,0,1,1,0,1,0,0,2,2,2012
+10994,"Cedar Falls, IA","Wellman, IA",1,1,0,1,0,1,1,0,1,2,2012
+10597,"Cedar Falls, IA","Ainsworth, IA",0,2,0,1,0,1,0,1,1,2,2012
+10922,"Cedar Falls, IA","Roland, IA",2,0,0,0,2,0,1,1,0,2,2012
+10901,"Cedar Falls, IA","Postville, IA",0,1,1,0,1,1,0,0,2,2,2012
+10842,"Cedar Falls, IA","Millville, IA",2,0,0,1,1,0,0,2,0,2,2012
+10998,"Cedar Falls, IA","West Chester, IA",0,1,1,1,0,1,0,1,1,2,2012
+10841,"Cedar Falls, IA","Milford, IA",0,1,1,1,1,0,0,0,2,2,2012
+10977,"Cedar Falls, IA","Vining, IA",2,0,0,0,2,0,2,0,0,2,2012
+10679,"Cedar Falls, IA","Danville, IA",1,0,1,0,1,1,1,1,0,2,2012
+10861,"Cedar Falls, IA","Nevada, IA",0,2,0,2,0,0,1,0,1,2,2012
+10951,"Cedar Falls, IA","State Center, IA",1,1,0,1,0,1,1,0,1,2,2012
+10897,"Cedar Falls, IA","Pleasant Plain, IA",2,0,0,0,0,2,0,2,0,2,2012
+10786,"Cedar Falls, IA","Kensett, IA",0,2,0,1,1,0,2,0,0,2,2012
+10851,"Cedar Falls, IA","Moravia, IA",2,0,0,0,2,0,1,1,0,2,2012
+10961,"Cedar Falls, IA","Thornton, IA",2,0,0,0,2,0,2,0,0,2,2012
+10838,"Cedar Falls, IA","Melbourne, IA",0,1,1,1,1,0,0,0,2,2,2012
+10674,"Cedar Falls, IA","Coulter, IA",0,0,2,0,0,2,2,0,0,2,2012
+10621,"Cedar Falls, IA","Batavia, IA",1,1,0,1,1,0,1,0,1,2,2012
+10954,"Cedar Falls, IA","Story City, IA",0,2,0,2,0,0,0,0,2,2,2012
+10792,"Cedar Falls, IA","Klemme, IA",0,1,1,2,0,0,0,1,1,2,2012
+10886,"Cedar Falls, IA","Oxford, IA",2,0,0,0,1,1,2,0,0,2,2012
+10895,"Cedar Falls, IA","Plano, IA",1,1,0,0,2,0,1,1,0,2,2012
+10970,"Cedar Falls, IA","Unionville, IA",1,1,0,0,0,2,1,0,1,2,2012
+10613,"Cedar Falls, IA","Arnolds Park, IA",1,1,0,1,1,0,1,0,1,2,2012
+10768,"Cedar Falls, IA","Hubbard, IA",1,0,1,0,2,0,1,1,0,2,2012
+10857,"Cedar Falls, IA","Mount Union, IA",1,1,0,0,2,0,2,0,0,2,2012
+10877,"Cedar Falls, IA","Ogden, IA",0,1,0,1,0,0,0,0,1,1,2012
+10746,"Cedar Falls, IA","Greeley, IA",1,0,0,0,1,0,0,1,0,1,2012
+10832,"Cedar Falls, IA","Marysville, IA",0,1,0,1,0,0,0,0,1,1,2012
+10805,"Cedar Falls, IA","Ledyard, IA",0,1,0,1,0,0,0,0,1,1,2012
+11010,"Cedar Falls, IA","Winterset, IA",0,1,0,0,0,1,1,0,0,1,2012
+10731,"Cedar Falls, IA","Fraser, IA",1,0,0,1,0,0,0,0,1,1,2012
+10790,"Cedar Falls, IA","Keystone, IA",1,0,0,0,0,1,0,1,0,1,2012
+11012,"Cedar Falls, IA","Woodward, IA",1,0,0,1,0,0,0,0,1,1,2012
+10945,"Cedar Falls, IA","St. Ansgar, IA",0,1,0,1,0,0,0,0,1,1,2012
+10767,"Cedar Falls, IA","Hopkinton, IA",1,0,0,0,1,0,1,0,0,1,2012
+10729,"Cedar Falls, IA","Fostoria, IA",1,0,0,1,0,0,1,0,0,1,2012
+10812,"Cedar Falls, IA","Livermore, IA",1,0,0,0,1,0,1,0,0,1,2012
+10755,"Cedar Falls, IA","Hanlontown, IA",0,1,0,0,0,1,0,1,0,1,2012
+10843,"Cedar Falls, IA","Minburn, IA",0,1,0,1,0,0,0,0,1,1,2012
+10759,"Cedar Falls, IA","Hartley, IA",0,1,0,1,0,0,0,1,0,1,2012
+10968,"Cedar Falls, IA","Truesdale, IA",1,0,0,0,1,0,1,0,0,1,2012
+10761,"Cedar Falls, IA","Havelock, IA",1,0,0,0,1,0,1,0,0,1,2012
+10904,"Cedar Falls, IA","Rake, IA",1,0,0,0,1,0,1,0,0,1,2012
+10844,"Cedar Falls, IA","Mitchell, IA",0,1,0,0,1,0,0,0,1,1,2012
+10817,"Cedar Falls, IA","Low Moor, IA",1,0,0,0,1,0,1,0,0,1,2012
+10885,"Cedar Falls, IA","Oxford Junction, IA",1,0,0,0,1,0,1,0,0,1,2012
+10814,"Cedar Falls, IA","Lone Rock, IA",0,0,1,0,1,0,1,0,0,1,2012
+10770,"Cedar Falls, IA","Humboldt, IA",1,0,0,0,1,0,1,0,0,1,2012
+10839,"Cedar Falls, IA","Melcher-Dallas, IA",0,1,0,1,0,0,0,0,1,1,2012

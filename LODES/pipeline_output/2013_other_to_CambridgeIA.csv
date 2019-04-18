@@ -1,0 +1,66 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+9439,"Cambridge, IA","Huxley, IA",8,20,4,13,16,3,6,10,16,32,2013
+9423,"Cambridge, IA","Ankeny, IA",6,16,9,8,6,17,3,13,15,31,2013
+9468,"Cambridge, IA","Slater, IA",5,8,8,6,14,1,8,7,6,21,2013
+9427,"Cambridge, IA","Cambridge, IA",2,10,4,3,10,3,5,6,5,16,2013
+9422,"Cambridge, IA","Ames, IA",4,8,2,6,4,4,2,6,6,14,2013
+9476,"Cambridge, IA","Waukee, IA",1,5,1,4,1,2,0,4,3,7,2013
+9433,"Cambridge, IA","Des Moines, IA",2,3,1,3,1,2,1,3,2,6,2013
+9449,"Cambridge, IA","Madrid, IA",1,4,0,1,4,0,2,1,2,5,2013
+9460,"Cambridge, IA","Pleasant Hill, IA",2,0,3,2,1,2,2,3,0,5,2013
+9473,"Cambridge, IA","Urbandale, IA",0,3,1,1,2,1,1,1,2,4,2013
+9469,"Cambridge, IA","Story City, IA",3,0,1,3,1,0,0,3,1,4,2013
+9431,"Cambridge, IA","Colo, IA",1,1,2,3,1,0,0,2,2,4,2013
+9454,"Cambridge, IA","Nevada, IA",3,1,0,1,0,3,1,2,1,4,2013
+9464,"Cambridge, IA","Rhodes, IA",0,1,2,2,1,0,0,0,3,3,2013
+9478,"Cambridge, IA","West Des Moines, IA",1,2,0,1,1,1,0,2,1,3,2013
+9447,"Cambridge, IA","Lineville, IA",0,2,1,1,2,0,1,1,1,3,2013
+9466,"Cambridge, IA","Roland, IA",0,2,1,0,2,1,0,2,1,3,2013
+9480,"Cambridge, IA","Windsor Heights, IA",0,1,2,2,0,1,0,1,2,3,2013
+9440,"Cambridge, IA","Indianola, IA",0,1,2,1,1,1,0,1,2,3,2013
+9463,"Cambridge, IA","Polk City, IA",0,1,1,0,2,0,1,1,0,2,2013
+9474,"Cambridge, IA","Van Meter, IA",1,1,0,1,0,1,1,1,0,2,2013
+9434,"Cambridge, IA","East Peru, IA",1,0,1,2,0,0,0,2,0,2,2013
+9426,"Cambridge, IA","Boone, IA",0,2,0,1,0,1,0,0,2,2,2013
+9432,"Cambridge, IA","Dallas Center, IA",1,0,1,1,1,0,0,1,1,2,2013
+9446,"Cambridge, IA","Lidderdale, IA",0,2,0,0,0,2,0,2,0,2,2013
+9459,"Cambridge, IA","Ottumwa, IA",0,0,1,1,0,0,0,1,0,1,2013
+9461,"Cambridge, IA","Pleasanton, IA",0,1,0,1,0,0,0,1,0,1,2013
+9458,"Cambridge, IA","Orient, IA",0,1,0,0,1,0,0,1,0,1,2013
+9462,"Cambridge, IA","Pleasantville, IA",0,1,0,0,1,0,0,1,0,1,2013
+9471,"Cambridge, IA","University Park, IA",1,0,0,0,0,1,0,1,0,1,2013
+9465,"Cambridge, IA","Robins, IA",0,0,1,1,0,0,0,0,1,1,2013
+9467,"Cambridge, IA","Schleswig, IA",1,0,0,0,1,0,1,0,0,1,2013
+9470,"Cambridge, IA","Stratford, IA",0,1,0,1,0,0,0,1,0,1,2013
+9456,"Cambridge, IA","Norwalk, IA",0,1,0,1,0,0,0,1,0,1,2013
+9472,"Cambridge, IA","Urbana, IA",0,1,0,0,0,1,0,1,0,1,2013
+9475,"Cambridge, IA","Victor, IA",0,1,0,0,0,1,0,1,0,1,2013
+9477,"Cambridge, IA","Waverly, IA",0,1,0,0,1,0,1,0,0,1,2013
+9479,"Cambridge, IA","Williamsburg, IA",1,0,0,1,0,0,0,1,0,1,2013
+9457,"Cambridge, IA","Ogden, IA",0,1,0,1,0,0,0,1,0,1,2013
+9417,"Cambridge, IA","Adel, IA",0,1,0,0,1,0,0,1,0,1,2013
+9455,"Cambridge, IA","North English, IA",0,1,0,0,0,1,0,1,0,1,2013
+9437,"Cambridge, IA","Hinton, IA",0,1,0,1,0,0,0,1,0,1,2013
+9419,"Cambridge, IA","Albion, IA",0,1,0,0,0,1,0,0,1,1,2013
+9420,"Cambridge, IA","Alden, IA",0,1,0,0,0,1,0,0,1,1,2013
+9421,"Cambridge, IA","Altoona, IA",0,0,1,0,0,1,0,1,0,1,2013
+9424,"Cambridge, IA","Bedford, IA",0,0,1,0,1,0,0,0,1,1,2013
+9425,"Cambridge, IA","Belle Plaine, IA",0,0,1,0,0,1,0,1,0,1,2013
+9428,"Cambridge, IA","Carroll, IA",0,0,1,0,0,1,0,0,1,1,2013
+9429,"Cambridge, IA","Clarion, IA",0,1,0,0,0,1,0,1,0,1,2013
+9430,"Cambridge, IA","Clive, IA",1,0,0,0,1,0,0,1,0,1,2013
+9435,"Cambridge, IA","Gilbert, IA",1,0,0,1,0,0,0,1,0,1,2013
+9436,"Cambridge, IA","Grant, IA",0,0,1,0,1,0,0,0,1,1,2013
+9438,"Cambridge, IA","Humboldt, IA",0,1,0,0,1,0,1,0,0,1,2013
+9453,"Cambridge, IA","Muscatine, IA",0,1,0,0,0,1,0,0,1,1,2013
+9441,"Cambridge, IA","Jefferson, IA",1,0,0,0,0,1,0,0,1,1,2013
+9442,"Cambridge, IA","Johnston, IA",0,1,0,0,1,0,1,0,0,1,2013
+9443,"Cambridge, IA","Kellogg, IA",0,1,0,0,0,1,0,0,1,1,2013
+9444,"Cambridge, IA","Knoxville, IA",1,0,0,1,0,0,1,0,0,1,2013
+9445,"Cambridge, IA","Lacona, IA",0,1,0,1,0,0,0,1,0,1,2013
+9448,"Cambridge, IA","Luther, IA",1,0,0,0,0,1,0,1,0,1,2013
+9418,"Cambridge, IA","Afton, IA",0,1,0,0,1,0,1,0,0,1,2013
+9450,"Cambridge, IA","Maxwell, IA",1,0,0,0,0,1,0,0,1,1,2013
+9451,"Cambridge, IA","Melcher-Dallas, IA",0,1,0,0,1,0,1,0,0,1,2013
+9452,"Cambridge, IA","Minburn, IA",0,1,0,1,0,0,0,0,1,1,2013
+9481,"Cambridge, IA","Zearing, IA",0,1,0,0,1,0,0,0,1,1,2013

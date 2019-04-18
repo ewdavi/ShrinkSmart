@@ -1,0 +1,333 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+20038,"Decorah, IA","Decorah, IA",765,1887,910,718,2341,503,1008,1471,1083,3562,2010
+20011,"Decorah, IA","Castalia, IA",100,274,119,138,286,69,123,229,141,493,2010
+20031,"Decorah, IA","Cresco, IA",95,227,80,100,241,61,98,209,95,402,2010
+20285,"Decorah, IA","Waukon, IA",106,179,50,106,178,51,87,147,101,335,2010
+20072,"Decorah, IA","Fort Atkinson, IA",25,101,39,54,93,18,45,82,38,165,2010
+20216,"Decorah, IA","Protivin, IA",31,82,32,48,77,20,30,80,35,145,2010
+20224,"Decorah, IA","Ridgeway, IA",39,66,22,46,62,19,31,72,24,127,2010
+20141,"Decorah, IA","Luana, IA",27,49,21,29,57,11,19,50,28,97,2010
+20177,"Decorah, IA","New Albin, IA",19,61,12,30,44,18,24,37,31,92,2010
+20013,"Decorah, IA","Cedar Rapids, IA",25,33,5,38,10,15,10,17,36,63,2010
+20093,"Decorah, IA","Harpers Ferry, IA",13,30,10,9,40,4,17,28,8,53,2010
+20292,"Decorah, IA","West Union, IA",9,36,6,15,33,3,13,24,14,51,2010
+20178,"Decorah, IA","New Hampton, IA",18,14,6,5,27,6,14,19,5,38,2010
+20129,"Decorah, IA","Lime Springs, IA",8,17,8,10,19,4,9,14,10,33,2010
+20282,"Decorah, IA","Waterloo, IA",12,14,5,0,11,20,13,13,5,31,2010
+20189,"Decorah, IA","Oelwein, IA",5,21,4,2,15,13,8,14,8,30,2010
+20164,"Decorah, IA","Monona, IA",16,10,2,3,23,2,8,13,7,28,2010
+20042,"Decorah, IA","Des Moines, IA",3,18,6,5,11,11,7,11,9,27,2010
+20075,"Decorah, IA","Fredericksburg, IA",6,19,2,6,19,2,5,15,7,27,2010
+20212,"Decorah, IA","Postville, IA",4,17,3,11,9,4,2,14,8,24,2010
+20047,"Decorah, IA","Dubuque, IA",9,9,6,2,12,10,6,15,3,24,2010
+20097,"Decorah, IA","Hawkeye, IA",3,16,2,7,11,3,2,13,6,21,2010
+20108,"Decorah, IA","Iowa City, IA",10,9,2,2,8,11,11,4,6,21,2010
+20055,"Decorah, IA","Elgin, IA",2,13,5,5,12,3,4,9,7,20,2010
+20153,"Decorah, IA","Mason City, IA",4,13,3,7,7,6,8,6,6,20,2010
+20100,"Decorah, IA","Hiawatha, IA",8,9,2,15,1,3,2,2,15,19,2010
+20012,"Decorah, IA","Cedar Falls, IA",8,9,1,0,10,8,4,11,3,18,2010
+20276,"Decorah, IA","Wadena, IA",1,14,2,3,13,1,3,8,6,17,2010
+20227,"Decorah, IA","Robins, IA",2,13,2,11,2,4,1,3,13,17,2010
+20104,"Decorah, IA","Independence, IA",5,6,5,1,15,0,6,8,2,16,2010
+19978,"Decorah, IA","Ames, IA",3,6,6,4,9,2,4,4,7,15,2010
+20252,"Decorah, IA","St. Lucas, IA",3,8,2,4,7,2,3,7,3,13,2010
+20035,"Decorah, IA","Davenport, IA",4,7,1,4,4,4,3,5,4,12,2010
+20258,"Decorah, IA","Sumner, IA",4,6,2,0,4,8,7,4,1,12,2010
+20218,"Decorah, IA","Randalia, IA",4,5,3,1,7,4,4,5,3,12,2010
+20024,"Decorah, IA","Clinton, IA",3,8,1,1,3,8,2,7,3,12,2010
+20090,"Decorah, IA","Guttenberg, IA",0,6,5,1,8,2,1,7,3,11,2010
+19996,"Decorah, IA","Bettendorf, IA",1,8,1,2,2,6,3,4,3,10,2010
+20151,"Decorah, IA","Marshalltown, IA",0,7,3,1,6,3,1,5,4,10,2010
+20283,"Decorah, IA","Waucoma, IA",3,5,2,3,6,1,0,9,1,10,2010
+20066,"Decorah, IA","Fairbank, IA",4,4,2,1,3,6,4,4,2,10,2010
+20041,"Decorah, IA","Denver, IA",2,7,0,0,5,4,4,4,1,9,2010
+20030,"Decorah, IA","Council Bluffs, IA",3,2,4,0,5,4,3,5,1,9,2010
+20023,"Decorah, IA","Clear Lake, IA",3,4,2,1,5,3,4,2,3,9,2010
+20025,"Decorah, IA","Clive, IA",1,6,2,2,2,5,2,7,0,9,2010
+19975,"Decorah, IA","Allison, IA",5,3,1,0,5,4,6,2,1,9,2010
+20175,"Decorah, IA","Nashua, IA",6,2,1,0,8,1,4,4,1,9,2010
+20257,"Decorah, IA","Strawberry Point, IA",2,3,4,1,4,4,2,5,2,9,2010
+20169,"Decorah, IA","Morrison, IA",5,2,1,2,0,6,6,0,2,8,2010
+20070,"Decorah, IA","Fayette, IA",1,5,2,0,6,2,4,3,1,8,2010
+20290,"Decorah, IA","West Des Moines, IA",5,1,2,2,4,2,3,4,1,8,2010
+20273,"Decorah, IA","Urbandale, IA",3,4,1,2,3,3,2,3,3,8,2010
+20150,"Decorah, IA","Marquette, IA",6,2,0,3,5,0,2,4,2,8,2010
+20208,"Decorah, IA","Pleasant Hill, IA",1,5,2,1,4,3,1,5,2,8,2010
+20006,"Decorah, IA","Burlington, IA",3,3,2,2,3,3,4,2,2,8,2010
+20202,"Decorah, IA","Parkersburg, IA",1,4,3,2,4,2,4,3,1,8,2010
+20196,"Decorah, IA","Ottumwa, IA",1,6,0,3,2,2,4,1,2,7,2010
+20295,"Decorah, IA","Windsor Heights, IA",1,3,3,2,2,3,3,3,1,7,2010
+20124,"Decorah, IA","Lansing, IA",1,5,1,0,5,2,2,4,1,7,2010
+20242,"Decorah, IA","Sioux City, IA",3,4,0,1,4,2,3,2,2,7,2010
+20286,"Decorah, IA","Waverly, IA",3,3,1,1,2,4,3,4,0,7,2010
+20272,"Decorah, IA","Urbana, IA",0,4,2,4,0,2,1,4,1,6,2010
+20253,"Decorah, IA","St. Olaf, IA",1,1,4,1,5,0,0,5,1,6,2010
+20071,"Decorah, IA","Floyd, IA",2,3,1,0,2,4,3,2,1,6,2010
+20017,"Decorah, IA","Charles City, IA",2,3,1,0,4,2,3,1,2,6,2010
+20077,"Decorah, IA","Garnavillo, IA",2,1,3,0,6,0,2,4,0,6,2010
+20156,"Decorah, IA","McIntire, IA",0,6,0,2,3,1,2,4,0,6,2010
+19976,"Decorah, IA","Alta Vista, IA",2,4,0,2,3,1,2,4,0,6,2010
+20069,"Decorah, IA","Farmersburg, IA",2,4,0,2,3,1,1,2,3,6,2010
+20270,"Decorah, IA","University Heights, IA",3,2,1,1,2,3,3,2,1,6,2010
+20226,"Decorah, IA","Riverside, IA",0,3,2,3,1,1,1,1,3,5,2010
+20251,"Decorah, IA","Springville, IA",1,4,0,1,1,3,0,2,3,5,2010
+20111,"Decorah, IA","Janesville, IA",0,2,3,1,3,1,0,1,4,5,2010
+20131,"Decorah, IA","Lisbon, IA",2,3,0,4,1,0,1,1,3,5,2010
+20234,"Decorah, IA","Sageville, IA",2,3,0,0,2,3,4,0,1,5,2010
+20125,"Decorah, IA","Lawler, IA",1,4,0,0,5,0,1,4,0,5,2010
+20200,"Decorah, IA","Palo, IA",2,2,1,3,1,1,0,3,2,5,2010
+20165,"Decorah, IA","Monticello, IA",2,2,1,1,2,2,1,2,2,5,2010
+19988,"Decorah, IA","Aurora, IA",1,3,1,0,3,2,1,4,0,5,2010
+20027,"Decorah, IA","Coralville, IA",2,3,0,0,2,3,3,2,0,5,2010
+20174,"Decorah, IA","Muscatine, IA",0,4,1,0,2,3,1,3,1,5,2010
+20019,"Decorah, IA","Chester, IA",2,2,1,3,1,1,3,1,1,5,2010
+19981,"Decorah, IA","Ankeny, IA",4,0,1,0,2,3,3,1,1,5,2010
+20073,"Decorah, IA","Fort Dodge, IA",3,1,0,0,1,3,3,0,1,4,2010
+20064,"Decorah, IA","Evansdale, IA",2,1,1,0,1,3,3,1,0,4,2010
+20002,"Decorah, IA","Bristow, IA",1,3,0,0,2,2,4,0,0,4,2010
+20181,"Decorah, IA","Newton, IA",0,4,0,2,1,1,0,3,1,4,2010
+20048,"Decorah, IA","Dyersville, IA",1,1,2,0,2,2,0,3,1,4,2010
+20107,"Decorah, IA","Ionia, IA",1,3,0,0,4,0,1,2,1,4,2010
+20126,"Decorah, IA","Lawton, IA",2,2,0,0,3,1,2,1,1,4,2010
+20109,"Decorah, IA","Iowa Falls, IA",1,1,2,0,1,3,1,2,1,4,2010
+20238,"Decorah, IA","Shell Rock, IA",2,2,0,0,0,4,1,3,0,4,2010
+19974,"Decorah, IA","Algona, IA",2,2,0,2,2,0,1,1,2,4,2010
+20089,"Decorah, IA","Grundy Center, IA",0,3,1,0,1,3,2,1,1,4,2010
+20185,"Decorah, IA","Northwood, IA",0,3,1,0,2,2,1,3,0,4,2010
+20026,"Decorah, IA","Colwell, IA",0,4,0,0,3,1,1,3,0,4,2010
+20059,"Decorah, IA","Elkport, IA",0,0,4,1,2,1,0,1,3,4,2010
+20091,"Decorah, IA","Hampton, IA",1,2,1,2,0,2,1,0,3,4,2010
+20254,"Decorah, IA","Stacyville, IA",0,1,3,1,2,1,0,2,2,4,2010
+20098,"Decorah, IA","Hazleton, IA",0,4,0,0,3,1,1,2,1,4,2010
+20145,"Decorah, IA","Manchester, IA",1,2,1,0,1,3,2,1,1,4,2010
+20142,"Decorah, IA","Lynnville, IA",0,3,0,0,2,1,1,1,1,3,2010
+19999,"Decorah, IA","Boone, IA",1,2,0,0,1,2,0,2,1,3,2010
+19985,"Decorah, IA","Asbury, IA",3,0,0,0,2,1,3,0,0,3,2010
+20186,"Decorah, IA","Norwalk, IA",0,3,0,0,2,1,0,0,3,3,2010
+19991,"Decorah, IA","Bedford, IA",0,2,1,2,0,1,0,1,2,3,2010
+20138,"Decorah, IA","Lorimor, IA",2,1,0,1,1,1,2,0,1,3,2010
+20127,"Decorah, IA","Le Grand, IA",1,0,2,0,0,3,2,1,0,3,2010
+20001,"Decorah, IA","Brighton, IA",2,0,1,0,1,2,1,2,0,3,2010
+20221,"Decorah, IA","Readlyn, IA",2,1,0,0,0,3,2,1,0,3,2010
+20146,"Decorah, IA","Maquoketa, IA",1,0,2,0,0,3,2,0,1,3,2010
+20022,"Decorah, IA","Clarksville, IA",0,2,1,0,1,2,3,0,0,3,2010
+20116,"Decorah, IA","Keokuk, IA",1,2,0,0,1,2,1,0,2,3,2010
+20037,"Decorah, IA","De Witt, IA",0,2,1,0,1,2,0,1,2,3,2010
+20247,"Decorah, IA","Spencer, IA",0,2,1,0,2,1,0,1,2,3,2010
+20029,"Decorah, IA","Coulter, IA",2,1,0,0,3,0,3,0,0,3,2010
+20057,"Decorah, IA","Elk Run Heights, IA",0,0,3,0,3,0,0,2,1,3,2010
+20058,"Decorah, IA","Elkader, IA",0,1,2,0,2,1,0,0,3,3,2010
+20074,"Decorah, IA","Fort Madison, IA",1,2,0,2,0,1,2,0,1,3,2010
+20061,"Decorah, IA","Ely, IA",0,3,0,2,1,0,1,0,2,3,2010
+20172,"Decorah, IA","Mount Pleasant, IA",1,2,0,0,1,2,0,3,0,3,2010
+20067,"Decorah, IA","Fairfax, IA",1,2,0,2,1,0,1,0,2,3,2010
+19986,"Decorah, IA","Ashton, IA",2,1,0,0,0,3,2,1,0,3,2010
+20255,"Decorah, IA","Stanley, IA",0,2,1,0,3,0,0,2,1,3,2010
+20193,"Decorah, IA","Osage, IA",0,1,1,0,1,1,1,1,0,2,2010
+20194,"Decorah, IA","Oskaloosa, IA",0,1,1,1,0,1,0,0,2,2,2010
+20205,"Decorah, IA","Peosta, IA",0,1,1,0,0,2,1,1,0,2,2010
+20204,"Decorah, IA","Pella, IA",1,0,1,1,0,1,1,0,1,2,2010
+20203,"Decorah, IA","Patterson, IA",1,1,0,0,1,1,0,2,0,2,2010
+20195,"Decorah, IA","Otho, IA",0,1,1,1,1,0,1,1,0,2,2010
+20211,"Decorah, IA","Plymouth, IA",1,0,1,0,0,2,0,2,0,2,2010
+20192,"Decorah, IA","Orient, IA",0,2,0,1,0,1,0,0,2,2,2010
+20128,"Decorah, IA","Le Mars, IA",0,1,1,2,0,0,0,1,1,2,2010
+20184,"Decorah, IA","North Liberty, IA",1,1,0,0,1,1,1,1,0,2,2010
+20210,"Decorah, IA","Pleasantville, IA",1,1,0,1,1,0,1,1,0,2,2010
+20135,"Decorah, IA","Lone Rock, IA",0,1,1,1,0,1,0,2,0,2,2010
+20137,"Decorah, IA","Long Grove, IA",2,0,0,0,2,0,1,1,0,2,2010
+20176,"Decorah, IA","Nevada, IA",0,1,1,1,0,1,0,0,2,2,2010
+20214,"Decorah, IA","Preston, IA",0,1,1,0,1,1,0,1,1,2,2010
+20230,"Decorah, IA","Rockford, IA",1,1,0,0,1,1,1,1,0,2,2010
+20229,"Decorah, IA","Rock Valley, IA",1,1,0,0,2,0,1,0,1,2,2010
+20228,"Decorah, IA","Rock Rapids, IA",1,1,0,1,1,0,0,0,2,2,2010
+20152,"Decorah, IA","Martelle, IA",2,0,0,1,1,0,1,0,1,2,2010
+20170,"Decorah, IA","Mount Auburn, IA",0,1,1,0,1,1,2,0,0,2,2010
+20217,"Decorah, IA","Rake, IA",0,1,1,0,0,2,0,1,1,2,2010
+20245,"Decorah, IA","Sloan, IA",2,0,0,0,2,0,2,0,0,2,2010
+20136,"Decorah, IA","Lone Tree, IA",0,2,0,1,0,1,0,1,1,2,2010
+19995,"Decorah, IA","Bertram, IA",1,1,0,2,0,0,0,0,2,2,2010
+19997,"Decorah, IA","Blairstown, IA",1,0,1,0,1,1,1,0,1,2,2010
+20081,"Decorah, IA","Gibson, IA",1,0,1,1,0,1,1,0,1,2,2010
+20044,"Decorah, IA","Dixon, IA",1,1,0,0,0,2,1,0,1,2,2010
+20264,"Decorah, IA","Tiffin, IA",0,1,1,1,0,1,0,1,1,2,2010
+20265,"Decorah, IA","Tipton, IA",2,0,0,0,2,0,2,0,0,2,2010
+19993,"Decorah, IA","Bellevue, IA",0,1,1,0,0,2,1,0,1,2,2010
+20078,"Decorah, IA","Garner, IA",1,1,0,0,2,0,1,0,1,2,2010
+20076,"Decorah, IA","Frederika, IA",0,1,1,1,0,1,1,1,0,2,2010
+20289,"Decorah, IA","West Branch, IA",0,1,1,0,0,2,0,1,1,2,2010
+20010,"Decorah, IA","Carter Lake, IA",1,0,1,0,0,2,1,1,0,2,2010
+20063,"Decorah, IA","Estherville, IA",1,1,0,0,2,0,2,0,0,2,2010
+20062,"Decorah, IA","Epworth, IA",0,2,0,0,1,1,0,2,0,2,2010
+20060,"Decorah, IA","Elma, IA",0,2,0,0,1,1,1,1,0,2,2010
+20268,"Decorah, IA","Tripoli, IA",2,0,0,0,0,2,2,0,0,2,2010
+20000,"Decorah, IA","Brandon, IA",0,1,1,1,0,1,1,0,1,2,2010
+20003,"Decorah, IA","Brooklyn, IA",0,2,0,0,2,0,0,2,0,2,2010
+20049,"Decorah, IA","Dysart, IA",2,0,0,0,1,1,1,1,0,2,2010
+20263,"Decorah, IA","Thornton, IA",0,2,0,2,0,0,0,1,1,2,2010
+20083,"Decorah, IA","Grandview, IA",0,2,0,0,0,2,1,0,1,2,2010
+20039,"Decorah, IA","Delaware, IA",1,1,0,0,1,1,0,0,2,2,2010
+20262,"Decorah, IA","Tama, IA",1,0,1,0,1,1,1,0,1,2,2010
+20032,"Decorah, IA","Creston, IA",0,2,0,0,0,2,0,1,1,2,2010
+20020,"Decorah, IA","Clarence, IA",1,1,0,0,0,2,1,1,0,2,2010
+20113,"Decorah, IA","Jesup, IA",1,1,0,0,0,2,1,1,0,2,2010
+20015,"Decorah, IA","Central City, IA",0,2,0,2,0,0,0,0,2,2,2010
+20297,"Decorah, IA","Winthrop, IA",0,1,1,0,1,1,0,2,0,2,2010
+20296,"Decorah, IA","Winterset, IA",1,1,0,0,2,0,0,1,1,2,2010
+20277,"Decorah, IA","Walford, IA",1,1,0,0,1,1,2,0,0,2,2010
+20250,"Decorah, IA","Springbrook, IA",0,1,1,0,1,1,0,2,0,2,2010
+20115,"Decorah, IA","Kensett, IA",1,1,0,0,2,0,2,0,0,2,2010
+20259,"Decorah, IA","Superior, IA",1,0,1,0,0,2,1,1,0,2,2010
+19987,"Decorah, IA","Aurelia, IA",1,1,0,0,1,1,2,0,0,2,2010
+20040,"Decorah, IA","Deloit, IA",0,0,2,1,0,1,0,1,1,2,2010
+20087,"Decorah, IA","Grimes, IA",2,0,0,0,0,2,1,1,0,2,2010
+20086,"Decorah, IA","Greene, IA",1,1,0,0,2,0,0,1,1,2,2010
+20014,"Decorah, IA","Center Point, IA",0,2,0,1,1,0,1,0,1,2,2010
+19990,"Decorah, IA","Balltown, IA",1,0,1,0,1,1,0,2,0,2,2010
+20284,"Decorah, IA","Waukee, IA",1,0,0,0,1,0,1,0,0,1,2010
+20287,"Decorah, IA","Webster City, IA",0,1,0,0,1,0,0,0,1,1,2010
+20246,"Decorah, IA","Solon, IA",0,1,0,0,1,0,1,0,0,1,2010
+20213,"Decorah, IA","Prairieburg, IA",1,0,0,0,1,0,1,0,0,1,2010
+20288,"Decorah, IA","Wellsburg, IA",0,0,1,0,0,1,1,0,0,1,2010
+20215,"Decorah, IA","Princeton, IA",0,0,1,0,0,1,1,0,0,1,2010
+20209,"Decorah, IA","Pleasanton, IA",0,1,0,1,0,0,0,0,1,1,2010
+20291,"Decorah, IA","West Point, IA",0,1,0,1,0,0,0,0,1,1,2010
+20207,"Decorah, IA","Pierson, IA",0,1,0,0,0,1,0,1,0,1,2010
+20206,"Decorah, IA","Peterson, IA",0,0,1,0,1,0,1,0,0,1,2010
+20293,"Decorah, IA","Wheatland, IA",0,0,1,0,1,0,0,1,0,1,2010
+20294,"Decorah, IA","Willey, IA",1,0,0,1,0,0,1,0,0,1,2010
+20298,"Decorah, IA","Wiota, IA",1,0,0,0,1,0,1,0,0,1,2010
+20299,"Decorah, IA","Woolstock, IA",0,1,0,1,0,0,0,0,1,1,2010
+20300,"Decorah, IA","Worthington, IA",0,1,0,1,0,0,0,1,0,1,2010
+20281,"Decorah, IA","Washington, IA",0,1,0,0,1,0,0,0,1,1,2010
+20223,"Decorah, IA","Richland, IA",0,1,0,1,0,0,0,0,1,1,2010
+20280,"Decorah, IA","Wapello, IA",1,0,0,0,1,0,0,1,0,1,2010
+20233,"Decorah, IA","Sabula, IA",1,0,0,0,1,0,1,0,0,1,2010
+20244,"Decorah, IA","Slater, IA",0,0,1,0,1,0,1,0,0,1,2010
+20243,"Decorah, IA","Sioux Rapids, IA",0,1,0,0,1,0,1,0,0,1,2010
+20241,"Decorah, IA","Sioux Center, IA",1,0,0,0,0,1,1,0,0,1,2010
+20240,"Decorah, IA","Sibley, IA",0,1,0,0,0,1,0,0,1,1,2010
+20248,"Decorah, IA","Spirit Lake, IA",1,0,0,0,1,0,1,0,0,1,2010
+20249,"Decorah, IA","Spring Hill, IA",0,1,0,1,0,0,0,1,0,1,2010
+20256,"Decorah, IA","Story City, IA",0,1,0,0,0,1,0,1,0,1,2010
+20260,"Decorah, IA","Swan, IA",0,1,0,0,1,0,0,1,0,1,2010
+20239,"Decorah, IA","Shueyville, IA",0,1,0,1,0,0,0,0,1,1,2010
+20237,"Decorah, IA","Sheldon, IA",0,1,0,0,0,1,0,1,0,1,2010
+20236,"Decorah, IA","Sharpsburg, IA",0,1,0,0,0,1,0,1,0,1,2010
+20235,"Decorah, IA","Scarville, IA",0,0,1,0,1,0,1,0,0,1,2010
+20232,"Decorah, IA","Ryan, IA",1,0,0,0,1,0,0,1,0,1,2010
+20279,"Decorah, IA","Wall Lake, IA",1,0,0,0,0,1,0,1,0,1,2010
+20231,"Decorah, IA","Russell, IA",0,1,0,1,0,0,0,0,1,1,2010
+20266,"Decorah, IA","Titonka, IA",0,1,0,0,1,0,1,0,0,1,2010
+20267,"Decorah, IA","Toledo, IA",0,0,1,0,1,0,0,0,1,1,2010
+20269,"Decorah, IA","Unionville, IA",0,0,1,0,0,1,1,0,0,1,2010
+20271,"Decorah, IA","University Park, IA",0,1,0,0,0,1,0,0,1,1,2010
+20274,"Decorah, IA","Van Horne, IA",0,1,0,0,1,0,1,0,0,1,2010
+20225,"Decorah, IA","Riverdale, IA",1,0,0,0,0,1,1,0,0,1,2010
+20275,"Decorah, IA","Vinton, IA",0,1,0,0,0,1,0,1,0,1,2010
+20222,"Decorah, IA","Rhodes, IA",0,0,1,0,0,1,1,0,0,1,2010
+20220,"Decorah, IA","Raymond, IA",1,0,0,0,1,0,0,1,0,1,2010
+20219,"Decorah, IA","Randolph, IA",1,0,0,0,1,0,1,0,0,1,2010
+20278,"Decorah, IA","Walker, IA",1,0,0,0,1,0,1,0,0,1,2010
+20261,"Decorah, IA","Swea City, IA",0,1,0,0,0,1,1,0,0,1,2010
+19970,"Decorah, IA","Ackley, IA",0,1,0,0,0,1,0,1,0,1,2010
+20201,"Decorah, IA","Panorama Park, IA",0,1,0,0,0,1,0,1,0,1,2010
+20079,"Decorah, IA","Geneva, IA",0,0,1,0,0,1,1,0,0,1,2010
+20045,"Decorah, IA","Donnellson, IA",1,0,0,0,1,0,0,1,0,1,2010
+20046,"Decorah, IA","Dougherty, IA",0,1,0,0,0,1,0,1,0,1,2010
+20050,"Decorah, IA","East Peru, IA",1,0,0,0,0,1,1,0,0,1,2010
+20051,"Decorah, IA","Elberon, IA",0,0,1,1,0,0,0,1,0,1,2010
+20052,"Decorah, IA","Eldon, IA",0,1,0,0,1,0,0,1,0,1,2010
+20053,"Decorah, IA","Eldora, IA",0,1,0,0,0,1,0,1,0,1,2010
+20054,"Decorah, IA","Eldridge, IA",1,0,0,0,1,0,1,0,0,1,2010
+20056,"Decorah, IA","Elk Horn, IA",1,0,0,0,1,0,1,0,0,1,2010
+20065,"Decorah, IA","Exline, IA",0,1,0,0,1,0,0,0,1,1,2010
+20068,"Decorah, IA","Fairfield, IA",0,0,1,0,0,1,1,0,0,1,2010
+20080,"Decorah, IA","George, IA",0,1,0,0,0,1,1,0,0,1,2010
+20199,"Decorah, IA","Oxford, IA",1,0,0,1,0,0,0,1,0,1,2010
+20082,"Decorah, IA","Gilbertville, IA",1,0,0,0,0,1,1,0,0,1,2010
+20084,"Decorah, IA","Gravity, IA",0,1,0,1,0,0,0,0,1,1,2010
+20085,"Decorah, IA","Greeley, IA",0,1,0,0,0,1,0,0,1,1,2010
+20088,"Decorah, IA","Grinnell, IA",0,1,0,0,1,0,0,1,0,1,2010
+20092,"Decorah, IA","Harlan, IA",0,0,1,0,0,1,0,1,0,1,2010
+20094,"Decorah, IA","Harris, IA",1,0,0,0,0,1,0,1,0,1,2010
+20095,"Decorah, IA","Hartley, IA",1,0,0,0,0,1,1,0,0,1,2010
+20096,"Decorah, IA","Hastings, IA",0,1,0,0,1,0,0,1,0,1,2010
+20099,"Decorah, IA","Henderson, IA",0,0,1,0,1,0,0,1,0,1,2010
+20101,"Decorah, IA","Hinton, IA",0,1,0,0,0,1,0,0,1,1,2010
+20043,"Decorah, IA","Dike, IA",1,0,0,0,0,1,1,0,0,1,2010
+20036,"Decorah, IA","De Soto, IA",0,0,1,0,1,0,0,1,0,1,2010
+20034,"Decorah, IA","Danbury, IA",1,0,0,0,0,1,1,0,0,1,2010
+20033,"Decorah, IA","Crystal Lake, IA",0,1,0,0,1,0,1,0,0,1,2010
+19972,"Decorah, IA","Afton, IA",0,1,0,1,0,0,0,0,1,1,2010
+19973,"Decorah, IA","Alden, IA",0,1,0,0,1,0,1,0,0,1,2010
+19977,"Decorah, IA","Altoona, IA",0,0,1,0,0,1,0,1,0,1,2010
+19979,"Decorah, IA","Anamosa, IA",0,1,0,0,0,1,1,0,0,1,2010
+19980,"Decorah, IA","Anita, IA",1,0,0,0,1,0,1,0,0,1,2010
+19982,"Decorah, IA","Arlington, IA",0,1,0,0,0,1,1,0,0,1,2010
+19983,"Decorah, IA","Armstrong, IA",0,1,0,0,0,1,0,0,1,1,2010
+19984,"Decorah, IA","Arnolds Park, IA",0,1,0,0,0,1,0,0,1,1,2010
+19989,"Decorah, IA","Baldwin, IA",0,1,0,0,1,0,0,1,0,1,2010
+19992,"Decorah, IA","Belle Plaine, IA",0,1,0,0,1,0,0,0,1,1,2010
+19994,"Decorah, IA","Bennett, IA",1,0,0,0,1,0,1,0,0,1,2010
+19998,"Decorah, IA","Blanchard, IA",1,0,0,0,0,1,1,0,0,1,2010
+20004,"Decorah, IA","Buffalo Center, IA",0,0,1,0,1,0,1,0,0,1,2010
+20005,"Decorah, IA","Buffalo, IA",1,0,0,0,0,1,1,0,0,1,2010
+20007,"Decorah, IA","Camanche, IA",0,1,0,1,0,0,0,0,1,1,2010
+20008,"Decorah, IA","Cambridge, IA",1,0,0,0,0,1,1,0,0,1,2010
+20009,"Decorah, IA","Carlisle, IA",0,1,0,0,1,0,0,0,1,1,2010
+20016,"Decorah, IA","Chariton, IA",1,0,0,0,1,0,0,1,0,1,2010
+20018,"Decorah, IA","Cherokee, IA",1,0,0,0,0,1,1,0,0,1,2010
+20021,"Decorah, IA","Clarinda, IA",1,0,0,0,1,0,1,0,0,1,2010
+20028,"Decorah, IA","Corwith, IA",1,0,0,0,1,0,0,0,1,1,2010
+20102,"Decorah, IA","Hopkinton, IA",0,1,0,0,1,0,1,0,0,1,2010
+20103,"Decorah, IA","Hudson, IA",1,0,0,0,1,0,0,1,0,1,2010
+20105,"Decorah, IA","Indianola, IA",0,1,0,1,0,0,0,0,1,1,2010
+20155,"Decorah, IA","McCausland, IA",0,1,0,0,1,0,0,1,0,1,2010
+20158,"Decorah, IA","Meriden, IA",1,0,0,0,0,1,0,1,0,1,2010
+20159,"Decorah, IA","Merrill, IA",1,0,0,0,0,1,1,0,0,1,2010
+20160,"Decorah, IA","Millville, IA",0,0,1,0,1,0,0,0,1,1,2010
+20161,"Decorah, IA","Milton, IA",0,1,0,1,0,0,0,0,1,1,2010
+20162,"Decorah, IA","Missouri Valley, IA",0,1,0,0,1,0,0,0,1,1,2010
+20163,"Decorah, IA","Mondamin, IA",0,1,0,0,0,1,0,1,0,1,2010
+20166,"Decorah, IA","Montrose, IA",0,0,1,0,0,1,1,0,0,1,2010
+20167,"Decorah, IA","Moravia, IA",0,1,0,1,0,0,0,0,1,1,2010
+20168,"Decorah, IA","Morley, IA",0,1,0,0,1,0,0,0,1,1,2010
+20171,"Decorah, IA","Mount Ayr, IA",0,1,0,1,0,0,0,0,1,1,2010
+20173,"Decorah, IA","Murray, IA",0,1,0,0,0,1,0,1,0,1,2010
+20179,"Decorah, IA","New Sharon, IA",0,1,0,1,0,0,0,0,1,1,2010
+20180,"Decorah, IA","Newell, IA",0,1,0,0,0,1,0,0,1,1,2010
+20182,"Decorah, IA","Nichols, IA",0,1,0,1,0,0,0,0,1,1,2010
+20183,"Decorah, IA","Nora Springs, IA",0,1,0,1,0,0,0,1,0,1,2010
+20187,"Decorah, IA","Norway, IA",1,0,0,0,0,1,0,1,0,1,2010
+20188,"Decorah, IA","Odebolt, IA",1,0,0,0,0,1,0,0,1,1,2010
+20190,"Decorah, IA","Onawa, IA",0,0,1,0,0,1,1,0,0,1,2010
+20191,"Decorah, IA","Orange City, IA",0,1,0,0,0,1,0,1,0,1,2010
+20197,"Decorah, IA","Owasa, IA",0,0,1,0,0,1,0,1,0,1,2010
+20198,"Decorah, IA","Oxford Junction, IA",1,0,0,0,0,1,1,0,0,1,2010
+20157,"Decorah, IA","Melbourne, IA",0,1,0,0,1,0,1,0,0,1,2010
+20154,"Decorah, IA","Massena, IA",0,0,1,0,0,1,1,0,0,1,2010
+20106,"Decorah, IA","Inwood, IA",0,1,0,0,1,0,1,0,0,1,2010
+20149,"Decorah, IA","Marion, IA",0,1,0,1,0,0,0,0,1,1,2010
+20110,"Decorah, IA","Irwin, IA",0,1,0,0,0,1,0,1,0,1,2010
+20112,"Decorah, IA","Jefferson, IA",0,0,1,0,0,1,0,1,0,1,2010
+20114,"Decorah, IA","Kalona, IA",0,1,0,1,0,0,0,0,1,1,2010
+20117,"Decorah, IA","Kingsley, IA",0,1,0,0,1,0,0,0,1,1,2010
+20118,"Decorah, IA","Kirkville, IA",0,1,0,0,0,1,0,1,0,1,2010
+20119,"Decorah, IA","Knoxville, IA",1,0,0,0,0,1,0,1,0,1,2010
+20120,"Decorah, IA","Lacona, IA",1,0,0,0,1,0,0,1,0,1,2010
+20121,"Decorah, IA","Lake Mills, IA",0,0,1,0,1,0,0,0,1,1,2010
+20122,"Decorah, IA","Lake Park, IA",0,1,0,0,1,0,1,0,0,1,2010
+20123,"Decorah, IA","Lamoni, IA",1,0,0,0,0,1,1,0,0,1,2010
+20130,"Decorah, IA","Lincoln, IA",0,1,0,0,0,1,0,0,1,1,2010
+20132,"Decorah, IA","Liscomb, IA",1,0,0,0,0,1,1,0,0,1,2010
+20133,"Decorah, IA","Livermore, IA",0,1,0,0,1,0,0,0,1,1,2010
+20134,"Decorah, IA","Logan, IA",0,1,0,0,0,1,0,0,1,1,2010
+19971,"Decorah, IA","Adair, IA",1,0,0,0,1,0,1,0,0,1,2010
+20139,"Decorah, IA","Lost Nation, IA",1,0,0,0,0,1,1,0,0,1,2010
+20140,"Decorah, IA","Low Moor, IA",1,0,0,0,0,1,0,1,0,1,2010
+20143,"Decorah, IA","Macedonia, IA",0,0,1,0,1,0,1,0,0,1,2010
+20144,"Decorah, IA","Madrid, IA",0,0,1,0,0,1,0,1,0,1,2010
+20147,"Decorah, IA","Marble Rock, IA",0,1,0,0,1,0,0,1,0,1,2010
+20148,"Decorah, IA","Marcus, IA",1,0,0,0,0,1,1,0,0,1,2010
+20301,"Decorah, IA","Wyoming, IA",0,1,0,0,0,1,1,0,0,1,2010

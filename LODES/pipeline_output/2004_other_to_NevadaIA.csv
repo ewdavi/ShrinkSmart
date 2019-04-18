@@ -1,0 +1,246 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+38214,"Nevada, IA","Nevada, IA",268,549,219,297,642,97,343,475,218,1036,2004
+38063,"Nevada, IA","Ames, IA",117,268,66,140,287,24,109,191,151,451,2004
+38100,"Nevada, IA","Colo, IA",24,77,23,30,75,19,26,76,22,124,2004
+38248,"Nevada, IA","Rhodes, IA",27,63,24,38,64,12,36,63,15,114,2004
+38195,"Nevada, IA","Marshalltown, IA",19,57,8,67,15,2,5,68,11,84,2004
+38265,"Nevada, IA","Story City, IA",13,58,10,9,61,11,13,37,31,81,2004
+38077,"Nevada, IA","Boone, IA",21,33,3,17,30,10,10,21,26,57,2004
+38183,"Nevada, IA","Liscomb, IA",8,31,8,25,18,4,8,25,14,47,2004
+38162,"Nevada, IA","Huxley, IA",6,31,3,8,29,3,13,10,17,40,2004
+38141,"Nevada, IA","Gilbert, IA",17,17,4,4,25,9,10,18,10,38,2004
+38263,"Nevada, IA","State Center, IA",7,21,6,16,17,1,5,19,10,34,2004
+38251,"Nevada, IA","Roland, IA",5,28,0,19,10,4,7,19,7,33,2004
+38116,"Nevada, IA","Des Moines, IA",10,15,4,6,16,7,6,15,8,29,2004
+38135,"Nevada, IA","Fort Dodge, IA",10,16,2,6,16,6,11,10,7,28,2004
+38302,"Nevada, IA","Zearing, IA",9,14,3,11,12,3,10,13,3,26,2004
+38276,"Nevada, IA","Urbandale, IA",11,11,2,3,17,4,9,15,0,24,2004
+38065,"Nevada, IA","Ankeny, IA",10,9,2,6,11,4,6,12,3,21,2004
+38228,"Nevada, IA","Ottumwa, IA",4,9,4,7,5,5,6,7,4,17,2004
+38099,"Nevada, IA","Clive, IA",4,11,0,0,10,5,6,4,5,15,2004
+38284,"Nevada, IA","Waukee, IA",3,12,0,1,9,5,8,4,3,15,2004
+38166,"Nevada, IA","Iowa Falls, IA",4,10,0,7,4,3,4,7,3,14,2004
+38257,"Nevada, IA","Slater, IA",0,11,2,3,10,0,4,3,6,13,2004
+38196,"Nevada, IA","Mason City, IA",7,4,2,0,10,3,8,5,0,13,2004
+38084,"Nevada, IA","Carlisle, IA",0,12,0,9,3,0,0,3,9,12,2004
+38293,"Nevada, IA","West Des Moines, IA",5,7,0,2,7,3,1,6,5,12,2004
+38298,"Nevada, IA","Windsor Heights, IA",5,3,3,2,8,1,5,3,3,11,2004
+38156,"Nevada, IA","Haverhill, IA",3,7,1,4,3,4,3,6,2,11,2004
+38110,"Nevada, IA","Davenport, IA",3,4,4,6,2,3,5,3,3,11,2004
+38090,"Nevada, IA","Cedar Rapids, IA",2,6,2,6,4,0,1,1,8,10,2004
+38190,"Nevada, IA","Madrid, IA",6,4,0,0,10,0,0,6,4,10,2004
+38223,"Nevada, IA","Ogden, IA",1,9,0,2,5,3,1,6,3,10,2004
+38234,"Nevada, IA","Pleasant Hill, IA",6,4,0,2,5,3,1,6,3,10,2004
+38200,"Nevada, IA","Melbourne, IA",7,1,1,5,3,1,6,2,1,9,2004
+38089,"Nevada, IA","Cedar Falls, IA",2,6,0,1,4,3,3,2,3,8,2004
+38060,"Nevada, IA","Albion, IA",4,4,0,3,3,2,4,3,1,8,2004
+38083,"Nevada, IA","Cambridge, IA",2,5,1,1,6,1,3,3,2,8,2004
+38229,"Nevada, IA","Owasa, IA",2,4,1,3,2,2,4,3,0,7,2004
+38139,"Nevada, IA","Garwin, IA",2,4,1,3,3,1,1,0,6,7,2004
+38145,"Nevada, IA","Grand River, IA",3,2,2,1,3,3,6,1,0,7,2004
+38062,"Nevada, IA","Altoona, IA",2,5,0,0,3,4,2,4,1,7,2004
+38171,"Nevada, IA","Kellogg, IA",3,2,2,3,3,1,4,2,1,7,2004
+38270,"Nevada, IA","Toledo, IA",1,6,0,4,1,2,1,5,1,7,2004
+38288,"Nevada, IA","Webster City, IA",2,5,0,2,3,2,0,3,4,7,2004
+38273,"Nevada, IA","Union, IA",2,3,1,4,2,0,0,5,1,6,2004
+38216,"Nevada, IA","Newton, IA",2,4,0,2,2,2,2,4,0,6,2004
+38097,"Nevada, IA","Clear Lake, IA",1,5,0,2,4,0,1,4,1,6,2004
+38192,"Nevada, IA","Manson, IA",2,2,2,1,4,1,3,3,0,6,2004
+38233,"Nevada, IA","Perry, IA",1,1,4,2,1,3,3,0,3,6,2004
+38221,"Nevada, IA","Norway, IA",3,1,2,2,4,0,3,3,0,6,2004
+38165,"Nevada, IA","Iowa City, IA",2,3,1,0,3,3,3,0,3,6,2004
+38118,"Nevada, IA","Diagonal, IA",0,4,2,3,3,0,0,4,2,6,2004
+38137,"Nevada, IA","Fraser, IA",2,3,0,1,3,1,2,2,1,5,2004
+38092,"Nevada, IA","Centerville, IA",4,1,0,0,3,2,4,1,0,5,2004
+38282,"Nevada, IA","Waterloo, IA",2,3,0,2,3,0,2,2,1,5,2004
+38250,"Nevada, IA","Rockwell City, IA",3,2,0,3,1,1,1,3,1,5,2004
+38170,"Nevada, IA","Johnston, IA",3,2,0,1,2,2,0,4,1,5,2004
+38111,"Nevada, IA","De Soto, IA",2,3,0,2,2,1,4,1,0,5,2004
+38239,"Nevada, IA","Pomeroy, IA",3,2,0,0,2,3,3,1,1,5,2004
+38207,"Nevada, IA","Montour, IA",0,4,1,2,1,2,1,1,3,5,2004
+38296,"Nevada, IA","Whitten, IA",0,5,0,2,2,1,2,0,3,5,2004
+38158,"Nevada, IA","Hiawatha, IA",2,1,1,2,0,2,0,1,3,4,2004
+38232,"Nevada, IA","Pella, IA",3,1,0,0,0,4,2,1,1,4,2004
+38148,"Nevada, IA","Grinnell, IA",2,2,0,0,1,3,1,3,0,4,2004
+38225,"Nevada, IA","Osceola, IA",2,2,0,0,2,2,2,2,0,4,2004
+38143,"Nevada, IA","Gilman, IA",1,2,1,1,2,1,1,3,0,4,2004
+38131,"Nevada, IA","Ferguson, IA",1,1,2,2,0,2,0,2,2,4,2004
+38164,"Nevada, IA","Indianola, IA",1,2,1,2,1,1,1,3,0,4,2004
+38180,"Nevada, IA","Le Mars, IA",3,1,0,0,2,2,3,1,0,4,2004
+38095,"Nevada, IA","Charles City, IA",1,2,1,0,3,1,1,2,1,4,2004
+38103,"Nevada, IA","Council Bluffs, IA",1,3,0,0,2,2,0,2,2,4,2004
+38123,"Nevada, IA","Elberon, IA",0,4,0,2,2,0,0,1,3,4,2004
+38275,"Nevada, IA","University Park, IA",0,3,0,0,2,1,0,1,2,3,2004
+38160,"Nevada, IA","Hubbard, IA",0,1,2,3,0,0,0,3,0,3,2004
+38085,"Nevada, IA","Carroll, IA",0,1,2,0,2,1,2,1,0,3,2004
+38226,"Nevada, IA","Otho, IA",0,3,0,1,2,0,0,2,1,3,2004
+38262,"Nevada, IA","Stanhope, IA",0,3,0,0,1,2,0,1,2,3,2004
+38117,"Nevada, IA","Dexter, IA",2,1,0,0,2,1,2,0,1,3,2004
+38167,"Nevada, IA","Janesville, IA",0,3,0,1,0,2,1,0,2,3,2004
+38146,"Nevada, IA","Granger, IA",2,0,1,0,1,2,3,0,0,3,2004
+38073,"Nevada, IA","Bettendorf, IA",1,1,1,2,1,0,1,2,0,3,2004
+38268,"Nevada, IA","Tiffin, IA",2,1,0,0,2,1,2,0,1,3,2004
+38114,"Nevada, IA","Denison, IA",2,1,0,0,2,1,3,0,0,3,2004
+38122,"Nevada, IA","Eagle Grove, IA",0,3,0,1,2,0,2,0,1,3,2004
+38205,"Nevada, IA","Missouri Valley, IA",2,1,0,0,2,1,2,1,0,3,2004
+38061,"Nevada, IA","Algona, IA",0,1,2,1,2,0,1,2,0,3,2004
+38292,"Nevada, IA","West Chester, IA",0,2,1,0,1,2,2,0,1,3,2004
+38277,"Nevada, IA","Van Meter, IA",0,2,1,2,0,1,0,1,2,3,2004
+38206,"Nevada, IA","Mitchellville, IA",0,2,0,0,2,0,1,1,0,2,2004
+38213,"Nevada, IA","Muscatine, IA",1,1,0,1,1,0,1,1,0,2,2004
+38098,"Nevada, IA","Clearfield, IA",1,0,1,1,1,0,1,1,0,2,2004
+38197,"Nevada, IA","Maxwell, IA",2,0,0,0,2,0,0,2,0,2,2004
+38208,"Nevada, IA","Montrose, IA",0,1,1,0,2,0,1,1,0,2,2004
+38218,"Nevada, IA","North Liberty, IA",2,0,0,0,0,2,2,0,0,2,2004
+38220,"Nevada, IA","Norwalk, IA",0,2,0,1,0,1,0,2,0,2,2004
+38222,"Nevada, IA","Oelwein, IA",0,2,0,1,0,1,1,1,0,2,2004
+38224,"Nevada, IA","Osage, IA",1,0,1,0,2,0,1,0,1,2,2004
+38187,"Nevada, IA","Luther, IA",0,2,0,1,1,0,0,2,0,2,2004
+38227,"Nevada, IA","Ottosen, IA",1,1,0,0,1,1,2,0,0,2,2004
+38086,"Nevada, IA","Carter Lake, IA",2,0,0,0,2,0,2,0,0,2,2004
+38105,"Nevada, IA","Cresco, IA",1,0,1,0,0,2,1,1,0,2,2004
+38210,"Nevada, IA","Mount Auburn, IA",1,1,0,0,2,0,0,1,1,2,2004
+38246,"Nevada, IA","Remsen, IA",1,0,1,0,1,1,1,1,0,2,2004
+38231,"Nevada, IA","Parkersburg, IA",2,0,0,0,2,0,1,1,0,2,2004
+38274,"Nevada, IA","University Heights, IA",2,0,0,0,0,2,2,0,0,2,2004
+38300,"Nevada, IA","Woodbine, IA",2,0,0,0,1,1,1,0,1,2,2004
+38295,"Nevada, IA","Whittemore, IA",1,1,0,0,1,1,1,0,1,2,2004
+38066,"Nevada, IA","Aredale, IA",1,1,0,1,1,0,1,0,1,2,2004
+38067,"Nevada, IA","Atlantic, IA",0,2,0,0,1,1,0,1,1,2,2004
+38286,"Nevada, IA","Waverly, IA",1,1,0,1,0,1,1,1,0,2,2004
+38285,"Nevada, IA","Waukon, IA",0,2,0,0,2,0,1,1,0,2,2004
+38278,"Nevada, IA","Vinton, IA",0,2,0,2,0,0,0,2,0,2,2004
+38271,"Nevada, IA","Traer, IA",1,1,0,0,2,0,0,2,0,2,2004
+38082,"Nevada, IA","Burlington, IA",1,1,0,1,1,0,2,0,0,2,2004
+38264,"Nevada, IA","Steamboat Rock, IA",2,0,0,1,1,0,1,1,0,2,2004
+38074,"Nevada, IA","Blairstown, IA",2,0,0,0,1,1,2,0,0,2,2004
+38256,"Nevada, IA","Sigourney, IA",0,1,1,0,2,0,1,1,0,2,2004
+38253,"Nevada, IA","Sac City, IA",0,2,0,1,1,0,0,2,0,2,2004
+38179,"Nevada, IA","Le Grand, IA",0,2,0,1,1,0,0,1,1,2,2004
+38238,"Nevada, IA","Polk City, IA",1,1,0,0,1,1,0,1,1,2,2004
+38237,"Nevada, IA","Pocahontas, IA",1,1,0,0,2,0,2,0,0,2,2004
+38182,"Nevada, IA","Lenox, IA",2,0,0,0,2,0,1,1,0,2,2004
+38126,"Nevada, IA","Ellsworth, IA",1,1,0,0,1,1,2,0,0,2,2004
+38058,"Nevada, IA","Ackley, IA",0,1,1,0,0,2,1,1,0,2,2004
+38149,"Nevada, IA","Grundy Center, IA",0,1,1,0,0,2,1,1,0,2,2004
+38161,"Nevada, IA","Humboldt, IA",0,0,2,0,1,1,2,0,0,2,2004
+38172,"Nevada, IA","Keokuk, IA",0,2,0,0,2,0,2,0,0,2,2004
+38106,"Nevada, IA","Creston, IA",1,1,0,0,1,1,1,1,0,2,2004
+38119,"Nevada, IA","Dixon, IA",1,0,1,0,1,1,0,0,2,2,2004
+38107,"Nevada, IA","Crystal Lake, IA",0,2,0,1,0,1,0,0,2,2,2004
+38144,"Nevada, IA","Goldfield, IA",0,2,0,0,1,1,0,1,1,2,2004
+38153,"Nevada, IA","Harlan, IA",1,1,0,0,1,1,1,0,1,2,2004
+38175,"Nevada, IA","Knoxville, IA",1,1,0,0,1,1,1,0,1,2,2004
+38130,"Nevada, IA","Farnhamville, IA",0,2,0,1,1,0,0,2,0,2,2004
+38112,"Nevada, IA","Decorah, IA",1,1,0,1,1,0,0,2,0,2,2004
+38176,"Nevada, IA","La Porte City, IA",0,1,1,0,1,1,0,1,1,2,2004
+38129,"Nevada, IA","Fairfax, IA",2,0,0,0,1,1,2,0,0,2,2004
+38178,"Nevada, IA","Laurens, IA",0,2,0,1,1,0,0,1,1,2,2004
+38147,"Nevada, IA","Grimes, IA",0,2,0,1,1,0,1,0,1,2,2004
+38266,"Nevada, IA","Swisher, IA",1,0,0,0,0,1,1,0,0,1,2004
+38267,"Nevada, IA","Tama, IA",0,1,0,1,0,0,0,0,1,1,2004
+38120,"Nevada, IA","Duncombe, IA",0,1,0,0,1,0,1,0,0,1,2004
+38269,"Nevada, IA","Titonka, IA",0,0,1,0,1,0,0,0,1,1,2004
+38072,"Nevada, IA","Belmond, IA",1,0,0,0,1,0,1,0,0,1,2004
+38258,"Nevada, IA","South English, IA",0,1,0,0,1,0,0,1,0,1,2004
+38261,"Nevada, IA","Stacyville, IA",1,0,0,0,1,0,1,0,0,1,2004
+38260,"Nevada, IA","Springville, IA",0,0,1,0,1,0,0,0,1,1,2004
+38259,"Nevada, IA","Spring Hill, IA",0,1,0,0,1,0,1,0,0,1,2004
+38272,"Nevada, IA","Underwood, IA",0,1,0,1,0,0,0,0,1,1,2004
+38075,"Nevada, IA","Bloomfield, IA",0,1,0,0,1,0,0,1,0,1,2004
+38150,"Nevada, IA","Guttenberg, IA",1,0,0,0,1,0,1,0,0,1,2004
+38255,"Nevada, IA","Shenandoah, IA",1,0,0,0,1,0,1,0,0,1,2004
+38254,"Nevada, IA","Scarville, IA",1,0,0,0,1,0,1,0,0,1,2004
+38151,"Nevada, IA","Hampton, IA",1,0,0,0,1,0,1,0,0,1,2004
+38252,"Nevada, IA","Rome, IA",0,1,0,0,0,1,1,0,0,1,2004
+38076,"Nevada, IA","Bondurant, IA",0,1,0,0,1,0,0,1,0,1,2004
+38078,"Nevada, IA","Braddyville, IA",1,0,0,0,1,0,1,0,0,1,2004
+38249,"Nevada, IA","Riverside, IA",1,0,0,0,1,0,1,0,0,1,2004
+38079,"Nevada, IA","Brandon, IA",0,1,0,0,1,0,0,1,0,1,2004
+38142,"Nevada, IA","Gilbertville, IA",1,0,0,0,0,1,0,1,0,1,2004
+38070,"Nevada, IA","Bagley, IA",1,0,0,0,0,1,1,0,0,1,2004
+38071,"Nevada, IA","Baxter, IA",1,0,0,0,1,0,0,1,0,1,2004
+38121,"Nevada, IA","Dunlap, IA",1,0,0,0,1,0,1,0,0,1,2004
+38301,"Nevada, IA","Yetter, IA",1,0,0,0,1,0,0,1,0,1,2004
+38128,"Nevada, IA","Evansdale, IA",0,1,0,0,1,0,0,1,0,1,2004
+38299,"Nevada, IA","Wiota, IA",1,0,0,0,0,1,0,0,1,1,2004
+38297,"Nevada, IA","Williams, IA",0,1,0,0,1,0,0,0,1,1,2004
+38064,"Nevada, IA","Anamosa, IA",0,1,0,0,1,0,1,0,0,1,2004
+38294,"Nevada, IA","Westside, IA",0,1,0,0,1,0,0,0,1,1,2004
+38125,"Nevada, IA","Eldridge, IA",0,0,1,1,0,0,0,1,0,1,2004
+38132,"Nevada, IA","Floyd, IA",0,1,0,0,0,1,0,0,1,1,2004
+38291,"Nevada, IA","West Burlington, IA",0,0,1,0,1,0,0,1,0,1,2004
+38290,"Nevada, IA","Wellman, IA",0,1,0,0,1,0,1,0,0,1,2004
+38289,"Nevada, IA","Webster, IA",1,0,0,0,0,1,1,0,0,1,2004
+38133,"Nevada, IA","Fonda, IA",1,0,0,0,1,0,1,0,0,1,2004
+38287,"Nevada, IA","Wayland, IA",0,1,0,0,1,0,0,0,1,1,2004
+38134,"Nevada, IA","Forest City, IA",1,0,0,0,1,0,1,0,0,1,2004
+38124,"Nevada, IA","Eldora, IA",1,0,0,1,0,0,0,1,0,1,2004
+38068,"Nevada, IA","Audubon, IA",0,1,0,0,1,0,0,1,0,1,2004
+38283,"Nevada, IA","Waucoma, IA",0,1,0,0,1,0,1,0,0,1,2004
+38069,"Nevada, IA","Aurora, IA",0,1,0,0,1,0,1,0,0,1,2004
+38281,"Nevada, IA","Walker, IA",1,0,0,0,1,0,1,0,0,1,2004
+38280,"Nevada, IA","Walford, IA",1,0,0,0,1,0,0,1,0,1,2004
+38279,"Nevada, IA","Walcott, IA",1,0,0,1,0,0,1,0,0,1,2004
+38136,"Nevada, IA","Fort Madison, IA",1,0,0,1,0,0,1,0,0,1,2004
+38138,"Nevada, IA","Garner, IA",1,0,0,0,1,0,1,0,0,1,2004
+38152,"Nevada, IA","Hardy, IA",0,1,0,0,1,0,0,1,0,1,2004
+38140,"Nevada, IA","Geneva, IA",1,0,0,0,1,0,0,0,1,1,2004
+38247,"Nevada, IA","Renwick, IA",0,1,0,0,1,0,0,0,1,1,2004
+38059,"Nevada, IA","Adair, IA",1,0,0,0,1,0,1,0,0,1,2004
+38245,"Nevada, IA","Reinbeck, IA",1,0,0,0,1,0,0,1,0,1,2004
+38244,"Nevada, IA","Rathbun, IA",1,0,0,0,1,0,1,0,0,1,2004
+38212,"Nevada, IA","Mount Vernon, IA",0,1,0,0,1,0,1,0,0,1,2004
+38211,"Nevada, IA","Mount Ayr, IA",0,0,1,0,0,1,0,0,1,1,2004
+38169,"Nevada, IA","Jewell Junction, IA",0,1,0,0,1,0,1,0,0,1,2004
+38209,"Nevada, IA","Moulton, IA",0,1,0,0,1,0,0,1,0,1,2004
+38096,"Nevada, IA","Clarion, IA",1,0,0,1,0,0,0,1,0,1,2004
+38204,"Nevada, IA","Minden, IA",1,0,0,0,1,0,1,0,0,1,2004
+38203,"Nevada, IA","Middletown, IA",0,1,0,0,0,1,0,1,0,1,2004
+38202,"Nevada, IA","Merrill, IA",0,1,0,0,0,1,1,0,0,1,2004
+38201,"Nevada, IA","Meriden, IA",0,1,0,0,0,1,0,1,0,1,2004
+38173,"Nevada, IA","Keota, IA",0,1,0,0,1,0,0,1,0,1,2004
+38199,"Nevada, IA","Mediapolis, IA",0,1,0,0,1,0,0,0,1,1,2004
+38198,"Nevada, IA","McIntire, IA",1,0,0,0,1,0,0,1,0,1,2004
+38174,"Nevada, IA","Keystone, IA",1,0,0,0,0,1,1,0,0,1,2004
+38101,"Nevada, IA","Coralville, IA",1,0,0,0,0,1,0,1,0,1,2004
+38102,"Nevada, IA","Corwith, IA",1,0,0,0,0,1,1,0,0,1,2004
+38194,"Nevada, IA","Marengo, IA",1,0,0,0,0,1,1,0,0,1,2004
+38193,"Nevada, IA","Marcus, IA",1,0,0,0,0,1,1,0,0,1,2004
+38191,"Nevada, IA","Manilla, IA",0,1,0,0,1,0,1,0,0,1,2004
+38104,"Nevada, IA","Craig, IA",1,0,0,0,0,1,1,0,0,1,2004
+38189,"Nevada, IA","Macksburg, IA",0,1,0,0,0,1,0,0,1,1,2004
+38188,"Nevada, IA","Lynnville, IA",1,0,0,0,0,1,1,0,0,1,2004
+38186,"Nevada, IA","Luana, IA",0,0,1,0,1,0,0,1,0,1,2004
+38185,"Nevada, IA","Lone Rock, IA",1,0,0,0,1,0,0,1,0,1,2004
+38184,"Nevada, IA","Livermore, IA",0,1,0,0,1,0,1,0,0,1,2004
+38177,"Nevada, IA","Lake Mills, IA",1,0,0,0,1,0,0,1,0,1,2004
+38168,"Nevada, IA","Jefferson, IA",0,1,0,0,1,0,1,0,0,1,2004
+38127,"Nevada, IA","Ely, IA",0,1,0,0,1,0,0,0,1,1,2004
+38215,"Nevada, IA","New Hampton, IA",0,0,1,0,1,0,1,0,0,1,2004
+38157,"Nevada, IA","Hazleton, IA",1,0,0,0,1,0,1,0,0,1,2004
+38243,"Nevada, IA","Randall, IA",0,1,0,0,1,0,1,0,0,1,2004
+38242,"Nevada, IA","Quimby, IA",1,0,0,0,0,1,1,0,0,1,2004
+38181,"Nevada, IA","Ledyard, IA",1,0,0,0,1,0,0,1,0,1,2004
+38240,"Nevada, IA","Popejoy, IA",0,1,0,0,0,1,0,0,1,1,2004
+38080,"Nevada, IA","Brighton, IA",0,0,1,1,0,0,0,0,1,1,2004
+38154,"Nevada, IA","Harvey, IA",0,1,0,0,0,1,1,0,0,1,2004
+38236,"Nevada, IA","Plymouth, IA",0,0,1,0,1,0,1,0,0,1,2004
+38235,"Nevada, IA","Pleasant Plain, IA",0,0,1,1,0,0,0,0,1,1,2004
+38081,"Nevada, IA","Brooklyn, IA",1,0,0,0,0,1,0,1,0,1,2004
+38155,"Nevada, IA","Havelock, IA",0,1,0,0,0,1,0,1,0,1,2004
+38115,"Nevada, IA","Denver, IA",0,1,0,0,1,0,0,1,0,1,2004
+38230,"Nevada, IA","Panorama Park, IA",1,0,0,1,0,0,0,0,1,1,2004
+38094,"Nevada, IA","Chariton, IA",1,0,0,0,1,0,0,1,0,1,2004
+38159,"Nevada, IA","Hills, IA",1,0,0,0,0,1,1,0,0,1,2004
+38087,"Nevada, IA","Casey, IA",0,1,0,0,0,1,0,1,0,1,2004
+38113,"Nevada, IA","Delta, IA",0,1,0,0,1,0,1,0,0,1,2004
+38088,"Nevada, IA","Castalia, IA",0,1,0,0,0,1,0,0,1,1,2004
+38163,"Nevada, IA","Ida Grove, IA",0,1,0,0,1,0,0,0,1,1,2004
+38091,"Nevada, IA","Center Point, IA",0,0,1,1,0,0,0,0,1,1,2004
+38093,"Nevada, IA","Central City, IA",0,1,0,1,0,0,0,0,1,1,2004
+38109,"Nevada, IA","Danbury, IA",0,1,0,0,1,0,0,0,1,1,2004
+38219,"Nevada, IA","Northwood, IA",0,1,0,0,1,0,0,0,1,1,2004
+38108,"Nevada, IA","Dakota City, IA",0,1,0,1,0,0,0,1,0,1,2004
+38217,"Nevada, IA","Nodaway, IA",1,0,0,0,0,1,1,0,0,1,2004
+38241,"Nevada, IA","Promise City, IA",0,1,0,0,0,1,0,1,0,1,2004

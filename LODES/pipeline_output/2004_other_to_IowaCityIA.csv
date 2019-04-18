@@ -1,0 +1,567 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+27710,"Iowa City, IA","Iowa City, IA",3441,5745,2102,1152,8751,1385,3919,4483,2886,11288,2004
+27977,"Iowa City, IA","University Heights, IA",1106,1299,530,159,2532,244,845,1201,889,2935,2004
+27568,"Iowa City, IA","Coralville, IA",918,1334,344,202,2205,189,689,1148,759,2596,2004
+27842,"Iowa City, IA","North Liberty, IA",619,1439,378,276,1943,217,484,1047,905,2436,2004
+27542,"Iowa City, IA","Cedar Rapids, IA",463,878,195,207,1109,220,446,666,424,1536,2004
+27905,"Iowa City, IA","Riverside, IA",218,589,144,216,617,118,209,525,217,951,2004
+27859,"Iowa City, IA","Oxford, IA",200,548,159,156,650,101,195,441,271,907,2004
+27968,"Iowa City, IA","Tiffin, IA",189,396,117,67,567,68,144,303,255,702,2004
+27694,"Iowa City, IA","Hiawatha, IA",196,364,87,84,469,94,166,287,194,647,2004
+27717,"Iowa City, IA","Kalona, IA",90,309,68,112,305,50,70,263,134,467,2004
+27758,"Iowa City, IA","Lisbon, IA",89,283,73,61,346,38,77,192,176,445,2004
+27624,"Iowa City, IA","Ely, IA",99,241,93,51,337,45,113,165,155,433,2004
+28007,"Iowa City, IA","West Liberty, IA",100,254,58,127,243,42,113,190,109,412,2004
+27907,"Iowa City, IA","Robins, IA",118,227,56,74,266,61,119,150,132,401,2004
+27993,"Iowa City, IA","Washington, IA",94,194,60,59,266,23,87,201,60,348,2004
+27695,"Iowa City, IA","Hills, IA",75,207,59,68,229,44,90,153,98,341,2004
+27764,"Iowa City, IA","Lone Tree, IA",67,196,61,86,201,37,75,149,100,324,2004
+27826,"Iowa City, IA","Muscatine, IA",110,168,38,60,195,61,114,149,53,316,2004
+28003,"Iowa City, IA","West Branch, IA",50,173,47,70,179,21,48,139,83,270,2004
+27588,"Iowa City, IA","Davenport, IA",115,112,22,12,156,81,129,79,41,249,2004
+27938,"Iowa City, IA","Solon, IA",39,160,45,36,195,13,52,84,108,244,2004
+27602,"Iowa City, IA","Dubuque, IA",86,81,28,16,118,61,99,61,35,195,2004
+27596,"Iowa City, IA","Des Moines, IA",94,74,17,13,125,47,102,49,34,185,2004
+28018,"Iowa City, IA","Wilton, IA",28,108,41,48,108,21,33,87,57,177,2004
+27969,"Iowa City, IA","Tipton, IA",34,106,21,34,105,22,24,95,42,161,2004
+27994,"Iowa City, IA","Waterloo, IA",86,47,12,5,107,33,83,42,20,145,2004
+27931,"Iowa City, IA","Shueyville, IA",24,95,19,28,104,6,18,68,52,138,2004
+27631,"Iowa City, IA","Fairfax, IA",51,59,22,14,93,25,43,62,27,132,2004
+27529,"Iowa City, IA","Burlington, IA",62,56,10,5,55,68,73,43,12,128,2004
+27838,"Iowa City, IA","Nichols, IA",22,82,9,38,64,11,25,52,36,113,2004
+28017,"Iowa City, IA","Williamsburg, IA",17,77,17,14,93,4,19,57,35,111,2004
+27489,"Iowa City, IA","Atalissa, IA",21,62,20,29,61,13,24,47,32,103,2004
+28001,"Iowa City, IA","Wellman, IA",25,60,15,20,73,7,26,56,18,100,2004
+27510,"Iowa City, IA","Bettendorf, IA",39,50,7,5,58,33,47,34,15,96,2004
+27785,"Iowa City, IA","Marshalltown, IA",40,39,17,15,49,32,40,28,28,96,2004
+27783,"Iowa City, IA","Marion, IA",34,43,11,10,68,10,24,29,35,88,2004
+27862,"Iowa City, IA","Palo, IA",23,52,11,9,64,13,22,33,31,86,2004
+27508,"Iowa City, IA","Bennett, IA",18,51,10,15,54,10,12,40,27,79,2004
+27555,"Iowa City, IA","Clinton, IA",49,17,12,0,51,27,56,18,4,78,2004
+27541,"Iowa City, IA","Cedar Falls, IA",43,26,8,1,52,24,45,21,11,77,2004
+27788,"Iowa City, IA","Mason City, IA",20,44,11,52,10,13,21,25,29,75,2004
+27471,"Iowa City, IA","Ainsworth, IA",19,52,4,20,50,5,16,43,16,75,2004
+27509,"Iowa City, IA","Bertram, IA",19,41,13,11,54,8,24,29,20,73,2004
+27724,"Iowa City, IA","Kinross, IA",20,40,12,15,46,11,14,46,12,72,2004
+27934,"Iowa City, IA","Sioux City, IA",36,30,6,3,53,16,42,23,7,72,2004
+27480,"Iowa City, IA","Ames, IA",36,31,4,6,44,21,44,22,5,71,2004
+27823,"Iowa City, IA","Mount Vernon, IA",24,39,6,6,51,12,21,26,22,69,2004
+27962,"Iowa City, IA","Swisher, IA",10,42,9,15,40,6,8,23,30,61,2004
+27563,"Iowa City, IA","Columbus Junction, IA",18,32,10,9,43,8,11,41,8,60,2004
+27856,"Iowa City, IA","Ottumwa, IA",24,30,6,6,35,19,22,32,6,60,2004
+27793,"Iowa City, IA","Mechanicsville, IA",10,43,6,14,32,13,4,39,16,59,2004
+27523,"Iowa City, IA","Brighton, IA",10,37,11,17,33,8,10,32,16,58,2004
+27821,"Iowa City, IA","Mount Pleasant, IA",28,24,6,1,45,12,32,18,8,58,2004
+27485,"Iowa City, IA","Ankeny, IA",26,24,7,6,37,14,34,18,5,57,2004
+27645,"Iowa City, IA","Fort Madison, IA",25,23,8,6,32,18,25,24,7,56,2004
+27544,"Iowa City, IA","Center Point, IA",18,33,4,5,43,7,14,27,14,55,2004
+28005,"Iowa City, IA","West Chester, IA",7,39,7,11,35,7,9,29,15,53,2004
+27980,"Iowa City, IA","Urbandale, IA",21,20,11,7,38,7,35,10,7,52,2004
+28006,"Iowa City, IA","West Des Moines, IA",22,27,2,9,34,8,28,15,8,51,2004
+27782,"Iowa City, IA","Marengo, IA",14,28,8,7,39,4,8,28,14,50,2004
+27573,"Iowa City, IA","Council Bluffs, IA",23,22,5,4,34,12,33,12,5,50,2004
+27575,"Iowa City, IA","Crawfordsville, IA",12,30,4,14,29,3,13,20,13,46,2004
+28019,"Iowa City, IA","Windsor Heights, IA",27,16,3,2,38,6,24,13,9,46,2004
+27557,"Iowa City, IA","Clive, IA",25,16,5,7,30,9,25,18,3,46,2004
+27866,"Iowa City, IA","Parnell, IA",6,29,9,11,30,3,6,21,17,44,2004
+28020,"Iowa City, IA","Winfield, IA",9,28,7,7,29,8,5,28,11,44,2004
+27873,"Iowa City, IA","Pleasant Hill, IA",22,17,5,4,33,7,23,10,11,44,2004
+27720,"Iowa City, IA","Keokuk, IA",16,14,13,5,11,27,23,17,3,43,2004
+27811,"Iowa City, IA","Monticello, IA",23,14,6,3,31,9,20,22,1,43,2004
+27943,"Iowa City, IA","Springville, IA",14,25,3,4,33,5,14,17,11,42,2004
+27488,"Iowa City, IA","Asbury, IA",20,17,4,0,20,21,27,7,7,41,2004
+27786,"Iowa City, IA","Martelle, IA",13,21,6,7,26,7,13,16,11,40,2004
+27988,"Iowa City, IA","Walford, IA",9,28,1,6,23,9,3,22,13,38,2004
+27979,"Iowa City, IA","Urbana, IA",13,21,2,7,24,5,12,12,12,36,2004
+27481,"Iowa City, IA","Anamosa, IA",6,28,1,1,28,6,18,13,4,35,2004
+27983,"Iowa City, IA","Victor, IA",3,29,1,2,26,5,5,26,2,33,2004
+27874,"Iowa City, IA","Pleasant Plain, IA",9,19,5,8,24,1,6,19,8,33,2004
+27644,"Iowa City, IA","Fort Dodge, IA",17,13,1,2,23,6,19,7,5,31,2004
+28004,"Iowa City, IA","West Burlington, IA",15,11,3,0,20,9,14,10,5,29,2004
+27815,"Iowa City, IA","Morley, IA",4,15,8,1,24,2,9,13,5,27,2004
+27985,"Iowa City, IA","Vinton, IA",5,17,5,10,11,6,11,3,13,27,2004
+27592,"Iowa City, IA","Decorah, IA",11,12,4,2,22,3,15,5,7,27,2004
+27591,"Iowa City, IA","De Witt, IA",19,8,0,0,16,11,15,8,4,27,2004
+27516,"Iowa City, IA","Blue Grass, IA",11,13,2,0,18,8,10,9,7,26,2004
+27776,"Iowa City, IA","Manchester, IA",8,14,3,6,17,2,7,11,7,25,2004
+27844,"Iowa City, IA","Norwalk, IA",13,11,1,2,16,7,12,9,4,25,2004
+27864,"Iowa City, IA","Panorama Park, IA",7,17,1,1,16,8,9,7,9,25,2004
+27841,"Iowa City, IA","North English, IA",3,21,0,4,17,3,1,19,4,24,2004
+27548,"Iowa City, IA","Charles City, IA",7,16,1,20,3,1,5,9,10,24,2004
+27743,"Iowa City, IA","Le Claire, IA",11,12,1,0,15,9,11,12,1,24,2004
+27675,"Iowa City, IA","Grinnell, IA",13,9,1,0,13,10,9,9,5,23,2004
+27837,"Iowa City, IA","Newton, IA",7,10,5,2,15,5,11,9,2,22,2004
+27607,"Iowa City, IA","Dyersville, IA",13,9,0,5,14,3,10,10,2,22,2004
+27822,"Iowa City, IA","Mount Union, IA",3,12,7,4,12,6,1,16,5,22,2004
+27512,"Iowa City, IA","Blairstown, IA",7,13,2,7,14,1,7,11,4,22,2004
+27854,"Iowa City, IA","Oskaloosa, IA",10,8,4,1,15,6,7,11,4,22,2004
+27667,"Iowa City, IA","Grandview, IA",8,10,3,3,13,5,4,12,5,21,2004
+27715,"Iowa City, IA","Johnston, IA",9,10,2,3,16,2,14,5,2,21,2004
+27681,"Iowa City, IA","Hampton, IA",4,15,2,15,3,3,6,4,11,21,2004
+27614,"Iowa City, IA","Elberon, IA",9,8,4,6,10,5,10,7,4,21,2004
+27707,"Iowa City, IA","Indianola, IA",6,12,2,1,13,6,8,6,6,20,2004
+27651,"Iowa City, IA","Fruitland, IA",6,12,2,5,13,2,5,7,8,20,2004
+27886,"Iowa City, IA","Princeton, IA",8,8,4,1,13,6,10,8,2,20,2004
+27479,"Iowa City, IA","Altoona, IA",12,5,3,0,16,4,10,7,3,20,2004
+27920,"Iowa City, IA","Sageville, IA",9,8,3,3,9,8,12,7,1,20,2004
+27628,"Iowa City, IA","Evansdale, IA",8,10,2,2,13,5,10,6,4,20,2004
+27519,"Iowa City, IA","Boone, IA",10,8,2,3,13,4,11,6,3,20,2004
+27998,"Iowa City, IA","Wayland, IA",1,19,0,6,13,1,3,10,7,20,2004
+27534,"Iowa City, IA","Carlisle, IA",12,4,2,1,15,2,12,5,1,18,2004
+28013,"Iowa City, IA","Wheatland, IA",9,7,1,3,7,7,4,9,4,17,2004
+27732,"Iowa City, IA","Ladora, IA",4,9,4,2,14,1,4,10,3,17,2004
+27565,"Iowa City, IA","Conesville, IA",5,9,3,4,11,2,4,12,1,17,2004
+27780,"Iowa City, IA","Maquoketa, IA",9,7,1,0,14,3,12,2,3,17,2004
+27617,"Iowa City, IA","Eldridge, IA",9,7,1,1,12,4,5,9,3,17,2004
+27813,"Iowa City, IA","Montrose, IA",10,5,1,0,9,7,10,5,1,16,2004
+27995,"Iowa City, IA","Waukee, IA",9,7,0,1,13,2,12,2,2,16,2004
+27578,"Iowa City, IA","Creston, IA",5,11,0,0,9,7,4,9,3,16,2004
+27490,"Iowa City, IA","Atkins, IA",3,12,1,4,6,6,6,4,6,16,2004
+27505,"Iowa City, IA","Belle Plaine, IA",4,11,1,0,14,2,8,6,2,16,2004
+27476,"Iowa City, IA","Algona, IA",3,10,2,11,3,1,4,4,7,15,2004
+27852,"Iowa City, IA","Osage, IA",6,7,2,6,4,5,5,5,5,15,2004
+27963,"Iowa City, IA","Tama, IA",5,7,3,4,7,4,5,5,5,15,2004
+27528,"Iowa City, IA","Buffalo, IA",9,6,0,0,11,4,10,4,1,15,2004
+27957,"Iowa City, IA","Story City, IA",6,8,0,0,13,1,7,6,1,14,2004
+27553,"Iowa City, IA","Clear Lake, IA",2,9,3,12,1,1,2,5,7,14,2004
+27547,"Iowa City, IA","Chariton, IA",7,5,2,5,5,4,8,4,2,14,2004
+27560,"Iowa City, IA","Coggon, IA",7,4,3,2,11,1,5,6,3,14,2004
+27900,"Iowa City, IA","Reinbeck, IA",11,2,1,0,12,2,10,2,2,14,2004
+27831,"Iowa City, IA","New Hampton, IA",8,4,2,0,8,6,7,2,5,14,2004
+27765,"Iowa City, IA","Long Grove, IA",5,8,0,0,10,3,5,5,3,13,2004
+27526,"Iowa City, IA","Brooklyn, IA",5,6,2,1,10,2,3,4,6,13,2004
+27829,"Iowa City, IA","Nevada, IA",5,6,2,4,6,3,6,5,2,13,2004
+27531,"Iowa City, IA","Camanche, IA",8,4,1,0,11,2,7,5,1,13,2004
+27473,"Iowa City, IA","Albia, IA",6,5,2,2,6,5,6,3,4,13,2004
+27497,"Iowa City, IA","Balltown, IA",10,2,0,2,7,3,10,1,1,12,2004
+27834,"Iowa City, IA","New London, IA",5,7,0,0,9,3,3,8,1,12,2004
+27729,"Iowa City, IA","Knoxville, IA",4,7,1,1,9,2,4,7,1,12,2004
+27835,"Iowa City, IA","New Sharon, IA",5,5,2,3,6,3,3,6,3,12,2004
+27595,"Iowa City, IA","Denver, IA",8,3,1,1,10,1,7,4,1,12,2004
+27883,"Iowa City, IA","Prairieburg, IA",1,11,0,4,8,0,3,6,3,12,2004
+27620,"Iowa City, IA","Elk Run Heights, IA",6,5,1,0,8,4,9,2,1,12,2004
+27812,"Iowa City, IA","Montour, IA",3,6,3,4,7,1,8,4,0,12,2004
+27769,"Iowa City, IA","Lowden, IA",4,6,2,6,6,0,2,8,2,12,2004
+27948,"Iowa City, IA","St. Paul, IA",1,11,0,0,6,6,2,8,2,12,2004
+27632,"Iowa City, IA","Fairfield, IA",5,5,1,0,6,5,6,4,1,11,2004
+27496,"Iowa City, IA","Baldwin, IA",7,1,3,1,6,4,6,2,3,11,2004
+27904,"Iowa City, IA","Riverdale, IA",6,3,2,0,6,5,8,2,1,11,2004
+27818,"Iowa City, IA","Moulton, IA",2,6,3,1,5,5,3,8,0,11,2004
+27703,"Iowa City, IA","Huxley, IA",6,2,3,0,9,2,6,2,3,11,2004
+27870,"Iowa City, IA","Perry, IA",8,2,1,1,9,1,8,3,0,11,2004
+27606,"Iowa City, IA","Durant, IA",3,7,1,0,10,1,1,8,2,11,2004
+27997,"Iowa City, IA","Waverly, IA",3,5,3,1,7,3,8,2,1,11,2004
+27868,"Iowa City, IA","Pella, IA",6,4,1,1,9,1,4,5,2,11,2004
+27551,"Iowa City, IA","Clarence, IA",4,4,3,5,5,1,3,5,3,11,2004
+27537,"Iowa City, IA","Carter Lake, IA",4,7,0,1,8,2,8,2,1,11,2004
+27546,"Iowa City, IA","Central City, IA",4,2,5,0,7,4,4,5,2,11,2004
+27633,"Iowa City, IA","Farley, IA",4,5,1,3,7,0,3,7,0,10,2004
+27978,"Iowa City, IA","University Park, IA",4,6,0,0,6,4,6,3,1,10,2004
+27971,"Iowa City, IA","Toledo, IA",3,6,1,2,4,4,2,6,2,10,2004
+27737,"Iowa City, IA","Lamoni, IA",4,4,2,0,8,2,3,7,0,10,2004
+27506,"Iowa City, IA","Bellevue, IA",6,2,1,2,6,1,4,3,2,9,2004
+28000,"Iowa City, IA","Webster, IA",3,4,2,3,3,3,1,7,1,9,2004
+27992,"Iowa City, IA","Wapello, IA",7,2,0,2,5,2,4,4,1,9,2004
+27545,"Iowa City, IA","Centerville, IA",2,6,1,0,5,4,4,4,1,9,2004
+27608,"Iowa City, IA","Dysart, IA",1,6,2,2,2,5,2,3,4,9,2004
+27706,"Iowa City, IA","Independence, IA",5,4,0,0,9,0,5,3,1,9,2004
+27611,"Iowa City, IA","East Peru, IA",4,3,2,1,5,3,5,3,1,9,2004
+27677,"Iowa City, IA","Guernsey, IA",5,3,1,0,8,1,6,3,0,9,2004
+27673,"Iowa City, IA","Greenfield, IA",3,3,2,0,6,2,5,2,1,8,2004
+27744,"Iowa City, IA","Le Grand, IA",1,5,2,1,7,0,6,0,2,8,2004
+27895,"Iowa City, IA","Raymond, IA",4,2,2,1,5,2,7,0,1,8,2004
+27654,"Iowa City, IA","Garner, IA",0,8,0,8,0,0,0,4,4,8,2004
+27655,"Iowa City, IA","Garwin, IA",1,5,2,0,8,0,4,1,3,8,2004
+27660,"Iowa City, IA","Gilman, IA",3,4,1,0,6,2,6,2,0,8,2004
+27849,"Iowa City, IA","Ogden, IA",1,6,1,0,7,1,3,4,1,8,2004
+27869,"Iowa City, IA","Peosta, IA",6,2,0,0,8,0,4,4,0,8,2004
+28014,"Iowa City, IA","Whittemore, IA",2,6,0,6,1,1,1,1,6,8,2004
+27981,"Iowa City, IA","Van Horne, IA",0,7,1,0,6,2,1,2,5,8,2004
+27770,"Iowa City, IA","Luana, IA",4,4,0,1,7,0,5,2,1,8,2004
+27853,"Iowa City, IA","Osceola, IA",1,3,4,0,7,1,4,4,0,8,2004
+27984,"Iowa City, IA","Vining, IA",0,8,0,2,4,2,1,7,0,8,2004
+27639,"Iowa City, IA","Ferguson, IA",4,1,3,0,5,3,4,4,0,8,2004
+27470,"Iowa City, IA","Agency, IA",4,3,1,1,4,3,2,5,1,8,2004
+27698,"Iowa City, IA","Hopkinton, IA",0,5,2,3,3,1,1,2,4,7,2004
+27794,"Iowa City, IA","Mediapolis, IA",2,5,0,1,3,3,2,3,2,7,2004
+27902,"Iowa City, IA","Rhodes, IA",3,4,0,0,6,1,5,1,1,7,2004
+27896,"Iowa City, IA","Readlyn, IA",1,4,2,1,5,1,4,2,1,7,2004
+27530,"Iowa City, IA","Bussey, IA",5,1,1,1,2,4,4,3,0,7,2004
+27580,"Iowa City, IA","Crystal Lake, IA",1,5,1,6,1,0,2,1,4,7,2004
+27599,"Iowa City, IA","Dixon, IA",4,1,2,0,5,2,3,3,1,7,2004
+27809,"Iowa City, IA","Monroe, IA",4,3,0,1,5,1,4,2,1,7,2004
+27932,"Iowa City, IA","Sigourney, IA",2,5,0,3,3,1,1,4,2,7,2004
+27774,"Iowa City, IA","Malcom, IA",5,1,1,1,4,2,3,3,1,7,2004
+27773,"Iowa City, IA","Madrid, IA",5,2,0,0,5,2,6,1,0,7,2004
+27504,"Iowa City, IA","Bedford, IA",1,4,2,1,5,1,1,4,2,7,2004
+27858,"Iowa City, IA","Oxford Junction, IA",2,4,1,3,4,0,2,2,3,7,2004
+27972,"Iowa City, IA","Traer, IA",4,2,1,0,5,2,2,4,1,7,2004
+27674,"Iowa City, IA","Grimes, IA",1,3,3,0,6,1,2,1,4,7,2004
+27642,"Iowa City, IA","Forest City, IA",3,4,0,3,3,1,3,3,1,7,2004
+27884,"Iowa City, IA","Preston, IA",3,4,0,0,6,1,2,3,2,7,2004
+28021,"Iowa City, IA","Winterset, IA",3,4,0,1,5,1,4,1,2,7,2004
+27768,"Iowa City, IA","Low Moor, IA",5,2,0,0,5,2,4,1,2,7,2004
+27535,"Iowa City, IA","Carroll, IA",3,3,0,1,4,1,4,2,0,6,2004
+27819,"Iowa City, IA","Mount Auburn, IA",5,1,0,2,2,2,4,2,0,6,2004
+27686,"Iowa City, IA","Hartwick, IA",2,3,1,2,4,0,0,5,1,6,2004
+27525,"Iowa City, IA","Britt, IA",1,3,2,5,1,0,2,2,2,6,2004
+27840,"Iowa City, IA","Nora Springs, IA",1,3,2,4,1,1,1,4,1,6,2004
+27697,"Iowa City, IA","Hinton, IA",2,4,0,0,4,2,2,2,2,6,2004
+27843,"Iowa City, IA","Northwood, IA",2,4,0,4,2,0,1,2,3,6,2004
+27848,"Iowa City, IA","Oelwein, IA",3,2,1,2,2,2,2,3,1,6,2004
+27804,"Iowa City, IA","Missouri Valley, IA",3,2,1,0,3,3,4,2,0,6,2004
+27641,"Iowa City, IA","Floyd, IA",0,6,0,5,0,1,0,2,4,6,2004
+27756,"Iowa City, IA","Linden, IA",4,2,0,0,4,2,1,3,2,6,2004
+27872,"Iowa City, IA","Plano, IA",3,1,2,0,2,4,3,3,0,6,2004
+27747,"Iowa City, IA","Ledyard, IA",0,4,2,5,1,0,1,4,1,6,2004
+27752,"Iowa City, IA","Lewis, IA",6,0,0,0,5,1,4,2,0,6,2004
+27876,"Iowa City, IA","Pleasantville, IA",1,4,1,1,4,1,3,0,3,6,2004
+27996,"Iowa City, IA","Waukon, IA",5,1,0,2,4,0,1,4,1,6,2004
+27772,"Iowa City, IA","Lynnville, IA",2,2,2,1,2,3,1,3,2,6,2004
+27646,"Iowa City, IA","Franklin, IA",3,3,0,0,5,1,5,1,0,6,2004
+27762,"Iowa City, IA","Logan, IA",5,1,0,0,4,2,4,2,0,6,2004
+27734,"Iowa City, IA","Lake Mills, IA",1,4,1,6,0,0,0,3,3,6,2004
+27594,"Iowa City, IA","Denison, IA",1,5,0,0,3,3,2,3,1,6,2004
+27939,"Iowa City, IA","South English, IA",1,3,2,6,0,0,0,4,2,6,2004
+27730,"Iowa City, IA","La Porte City, IA",3,2,1,0,3,3,5,1,0,6,2004
+27867,"Iowa City, IA","Patterson, IA",4,1,1,2,4,0,4,0,2,6,2004
+27879,"Iowa City, IA","Polk City, IA",0,5,1,3,3,0,1,2,3,6,2004
+27761,"Iowa City, IA","Lockridge, IA",3,2,0,1,2,2,2,0,3,5,2004
+27759,"Iowa City, IA","Liscomb, IA",3,1,1,1,2,2,2,0,3,5,2004
+27727,"Iowa City, IA","Klemme, IA",2,3,0,3,2,0,2,0,3,5,2004
+27830,"Iowa City, IA","New Albin, IA",3,2,0,0,4,1,2,2,1,5,2004
+27712,"Iowa City, IA","Janesville, IA",3,1,1,0,4,1,3,1,1,5,2004
+27713,"Iowa City, IA","Jefferson, IA",4,0,1,0,5,0,5,0,0,5,2004
+27888,"Iowa City, IA","Protivin, IA",4,1,0,0,3,2,4,0,1,5,2004
+27894,"Iowa City, IA","Rathbun, IA",2,3,0,0,3,2,2,3,0,5,2004
+27814,"Iowa City, IA","Moravia, IA",1,4,0,2,2,1,1,4,0,5,2004
+27704,"Iowa City, IA","Ida Grove, IA",1,3,1,0,5,0,4,1,0,5,2004
+28031,"Iowa City, IA","Zwingle, IA",1,3,1,1,2,2,2,2,1,5,2004
+27958,"Iowa City, IA","Strawberry Point, IA",2,2,1,1,3,1,4,1,0,5,2004
+27513,"Iowa City, IA","Blakesburg, IA",4,1,0,0,4,1,3,1,1,5,2004
+27987,"Iowa City, IA","Walcott, IA",1,3,1,1,1,3,4,0,1,5,2004
+27577,"Iowa City, IA","Cresco, IA",3,1,1,0,5,0,2,2,1,5,2004
+27593,"Iowa City, IA","Delaware, IA",3,2,0,2,2,1,2,2,1,5,2004
+27561,"Iowa City, IA","Colfax, IA",2,3,0,0,4,1,3,1,1,5,2004
+27661,"Iowa City, IA","Glenwood, IA",4,1,0,0,3,2,4,1,0,5,2004
+27552,"Iowa City, IA","Clarinda, IA",2,2,1,1,4,0,2,3,0,5,2004
+27549,"Iowa City, IA","Cherokee, IA",1,3,1,1,3,1,3,0,2,5,2004
+27999,"Iowa City, IA","Webster City, IA",4,0,1,2,3,0,2,2,1,5,2004
+27538,"Iowa City, IA","Cascade, IA",3,2,0,1,4,0,0,5,0,5,2004
+27517,"Iowa City, IA","Bonaparte, IA",4,0,1,0,3,2,2,2,1,5,2004
+27532,"Iowa City, IA","Cambridge, IA",2,3,0,0,5,0,2,2,1,5,2004
+27615,"Iowa City, IA","Eldon, IA",3,2,0,0,4,1,3,1,1,5,2004
+27491,"Iowa City, IA","Atlantic, IA",2,3,0,1,4,0,1,4,0,5,2004
+27616,"Iowa City, IA","Eldora, IA",1,4,0,0,3,2,1,4,0,5,2004
+27482,"Iowa City, IA","Andover, IA",2,3,0,0,2,3,2,2,1,5,2004
+27475,"Iowa City, IA","Alden, IA",2,3,0,4,1,0,1,2,2,5,2004
+27665,"Iowa City, IA","Grand Mound, IA",2,3,0,0,2,3,1,4,0,5,2004
+27590,"Iowa City, IA","De Soto, IA",2,2,0,0,2,2,3,0,1,4,2004
+27612,"Iowa City, IA","Eddyville, IA",0,4,0,0,4,0,0,4,0,4,2004
+27973,"Iowa City, IA","Tripoli, IA",2,2,0,0,4,0,2,1,1,4,2004
+27970,"Iowa City, IA","Titonka, IA",2,2,0,2,1,1,2,1,1,4,2004
+27604,"Iowa City, IA","Dunkerton, IA",2,2,0,0,2,2,3,1,0,4,2004
+27600,"Iowa City, IA","Donnellson, IA",2,2,0,0,1,3,2,1,1,4,2004
+27917,"Iowa City, IA","Ryan, IA",0,3,1,1,2,1,1,1,2,4,2004
+27630,"Iowa City, IA","Fairbank, IA",1,3,0,0,3,1,2,2,0,4,2004
+27760,"Iowa City, IA","Livermore, IA",1,2,1,2,1,1,1,2,1,4,2004
+27757,"Iowa City, IA","Lineville, IA",2,2,0,1,1,2,2,2,0,4,2004
+27597,"Iowa City, IA","Dexter, IA",2,2,0,0,4,0,2,2,0,4,2004
+27585,"Iowa City, IA","Dallas Center, IA",2,1,1,2,1,1,2,1,1,4,2004
+27865,"Iowa City, IA","Parkersburg, IA",3,1,0,0,4,0,2,0,2,4,2004
+27799,"Iowa City, IA","Middletown, IA",2,1,1,0,1,3,3,0,1,4,2004
+27750,"Iowa City, IA","Lenox, IA",1,3,0,0,4,0,2,2,0,4,2004
+27802,"Iowa City, IA","Milton, IA",2,1,1,0,3,1,3,1,0,4,2004
+27556,"Iowa City, IA","Clio, IA",2,0,2,0,2,2,1,2,1,4,2004
+27543,"Iowa City, IA","Center Junction, IA",2,2,0,0,3,1,2,2,0,4,2004
+27855,"Iowa City, IA","Otho, IA",3,1,0,0,4,0,2,1,1,4,2004
+27486,"Iowa City, IA","Aredale, IA",0,4,0,4,0,0,0,1,3,4,2004
+27483,"Iowa City, IA","Andrew, IA",2,2,0,0,4,0,4,0,0,4,2004
+27839,"Iowa City, IA","Nodaway, IA",2,2,0,0,1,3,1,1,2,4,2004
+27474,"Iowa City, IA","Albion, IA",2,1,1,1,2,1,2,1,1,4,2004
+28024,"Iowa City, IA","Woden, IA",1,2,1,3,1,0,0,1,3,4,2004
+27845,"Iowa City, IA","Norway, IA",2,0,2,0,2,2,2,2,0,4,2004
+27558,"Iowa City, IA","Clutier, IA",2,1,1,1,1,2,1,2,1,4,2004
+27658,"Iowa City, IA","Gilbert, IA",2,2,0,1,2,1,4,0,0,4,2004
+27930,"Iowa City, IA","Shenandoah, IA",3,1,0,0,3,1,2,1,1,4,2004
+27898,"Iowa City, IA","Red Oak, IA",3,0,1,0,2,2,2,2,0,4,2004
+27909,"Iowa City, IA","Rockford, IA",0,3,1,4,0,0,0,1,3,4,2004
+27850,"Iowa City, IA","Onawa, IA",3,1,0,0,3,1,3,1,0,4,2004
+27921,"Iowa City, IA","Salem, IA",1,3,0,0,4,0,0,3,1,4,2004
+27949,"Iowa City, IA","Stacyville, IA",0,4,0,4,0,0,0,4,0,4,2004
+27679,"Iowa City, IA","Guttenberg, IA",3,1,0,0,1,3,3,1,0,4,2004
+27692,"Iowa City, IA","Hazleton, IA",3,1,0,0,3,1,1,0,3,4,2004
+27680,"Iowa City, IA","Hamburg, IA",1,3,0,0,4,0,2,1,1,4,2004
+27941,"Iowa City, IA","Spring Hill, IA",2,2,0,1,3,0,2,1,1,4,2004
+27897,"Iowa City, IA","Reasnor, IA",1,3,0,0,3,1,0,3,1,4,2004
+27731,"Iowa City, IA","Lacona, IA",1,2,1,0,3,1,1,2,1,4,2004
+27955,"Iowa City, IA","Stockton, IA",2,2,0,0,3,1,3,1,0,4,2004
+27751,"Iowa City, IA","Leon, IA",0,1,2,0,2,1,0,1,2,3,2004
+27714,"Iowa City, IA","Jesup, IA",1,2,0,0,1,2,2,1,0,3,2004
+27728,"Iowa City, IA","Knierim, IA",1,2,0,0,2,1,1,2,0,3,2004
+27798,"Iowa City, IA","Merrill, IA",2,1,0,0,3,0,2,1,0,3,2004
+27805,"Iowa City, IA","Mitchell, IA",0,3,0,2,1,0,1,1,1,3,2004
+27797,"Iowa City, IA","Meriden, IA",2,1,0,0,3,0,1,2,0,3,2004
+27796,"Iowa City, IA","Melcher-Dallas, IA",1,1,1,1,2,0,1,1,1,3,2004
+27806,"Iowa City, IA","Mitchellville, IA",2,1,0,0,3,0,2,0,1,3,2004
+27807,"Iowa City, IA","Mondamin, IA",1,2,0,0,2,1,0,2,1,3,2004
+27554,"Iowa City, IA","Clearfield, IA",2,1,0,0,3,0,1,1,1,3,2004
+27676,"Iowa City, IA","Grundy Center, IA",2,1,0,0,1,2,1,0,2,3,2004
+27810,"Iowa City, IA","Montezuma, IA",1,2,0,0,3,0,1,2,0,3,2004
+27820,"Iowa City, IA","Mount Ayr, IA",2,0,1,0,2,1,2,0,1,3,2004
+27828,"Iowa City, IA","Nashua, IA",1,2,0,1,1,1,1,2,0,3,2004
+27498,"Iowa City, IA","Bancroft, IA",2,1,0,0,1,2,2,0,1,3,2004
+27507,"Iowa City, IA","Belmond, IA",1,2,0,1,1,1,2,1,0,3,2004
+27922,"Iowa City, IA","Sandyville, IA",0,3,0,0,3,0,2,1,0,3,2004
+27924,"Iowa City, IA","Sergeant Bluff, IA",2,1,0,0,3,0,2,1,0,3,2004
+27515,"Iowa City, IA","Bloomfield, IA",1,2,0,0,2,1,1,1,1,3,2004
+27689,"Iowa City, IA","Havelock, IA",2,1,0,0,2,1,2,1,0,3,2004
+28002,"Iowa City, IA","Welton, IA",2,1,0,3,0,0,0,1,2,3,2004
+27562,"Iowa City, IA","Colo, IA",1,1,1,0,3,0,2,1,0,3,2004
+27527,"Iowa City, IA","Buffalo Center, IA",2,1,0,1,2,0,2,1,0,3,2004
+27492,"Iowa City, IA","Audubon, IA",2,1,0,1,0,2,1,1,1,3,2004
+27927,"Iowa City, IA","Shelby, IA",1,2,0,0,2,1,1,1,1,3,2004
+27687,"Iowa City, IA","Harvey, IA",3,0,0,0,3,0,2,1,0,3,2004
+27539,"Iowa City, IA","Casey, IA",2,1,0,0,3,0,2,0,1,3,2004
+27929,"Iowa City, IA","Shell Rock, IA",1,1,1,0,2,1,1,2,0,3,2004
+27903,"Iowa City, IA","Richland, IA",1,2,0,1,1,1,1,1,1,3,2004
+27935,"Iowa City, IA","Slater, IA",1,2,0,1,2,0,2,0,1,3,2004
+27836,"Iowa City, IA","New Vienna, IA",3,0,0,1,2,0,1,2,0,3,2004
+27569,"Iowa City, IA","Corning, IA",2,1,0,1,2,0,1,0,2,3,2004
+27961,"Iowa City, IA","Swea City, IA",1,2,0,1,1,1,1,2,0,3,2004
+28028,"Iowa City, IA","Worthington, IA",2,1,0,0,2,1,2,1,0,3,2004
+27767,"Iowa City, IA","Lost Nation, IA",1,1,1,0,3,0,2,1,0,3,2004
+27919,"Iowa City, IA","Sac City, IA",1,2,0,0,2,1,2,1,0,3,2004
+27625,"Iowa City, IA","Epworth, IA",1,2,0,0,1,2,1,0,2,3,2004
+27745,"Iowa City, IA","Le Mars, IA",2,1,0,0,3,0,2,1,0,3,2004
+27634,"Iowa City, IA","Farmersburg, IA",3,0,0,0,3,0,2,1,0,3,2004
+27846,"Iowa City, IA","Oakland, IA",0,2,1,0,3,0,2,1,0,3,2004
+27889,"Iowa City, IA","Quimby, IA",2,1,0,0,3,0,1,2,0,3,2004
+27851,"Iowa City, IA","Orient, IA",3,0,0,0,2,1,2,1,0,3,2004
+27952,"Iowa City, IA","Stanton, IA",2,0,1,1,1,1,2,0,1,3,2004
+27640,"Iowa City, IA","Floris, IA",2,1,0,0,2,1,2,1,0,3,2004
+27877,"Iowa City, IA","Plymouth, IA",0,3,0,3,0,0,0,0,3,3,2004
+27643,"Iowa City, IA","Fort Atkinson, IA",1,2,0,1,1,1,1,1,1,3,2004
+27880,"Iowa City, IA","Pomeroy, IA",1,1,1,0,3,0,1,2,0,3,2004
+27792,"Iowa City, IA","McIntire, IA",1,2,0,1,2,0,3,0,0,3,2004
+27700,"Iowa City, IA","Hubbard, IA",3,0,0,0,2,1,3,0,0,3,2004
+27613,"Iowa City, IA","Edgewood, IA",0,3,0,1,1,1,0,2,1,3,2004
+27584,"Iowa City, IA","Dakota City, IA",2,1,0,0,3,0,3,0,0,3,2004
+27572,"Iowa City, IA","Coulter, IA",1,2,0,2,1,0,1,1,1,3,2004
+27576,"Iowa City, IA","Crescent, IA",2,1,0,0,3,0,2,1,0,3,2004
+27936,"Iowa City, IA","Sloan, IA",2,1,0,0,2,1,2,1,0,3,2004
+27990,"Iowa City, IA","Wall Lake, IA",1,2,0,0,3,0,2,1,0,3,2004
+27915,"Iowa City, IA","Russell, IA",1,1,1,0,2,1,1,2,0,3,2004
+27986,"Iowa City, IA","Wadena, IA",1,2,0,0,3,0,1,1,1,3,2004
+27781,"Iowa City, IA","Marble Rock, IA",0,3,0,3,0,0,0,0,3,3,2004
+27945,"Iowa City, IA","St. Lucas, IA",3,0,0,0,3,0,3,0,0,3,2004
+27779,"Iowa City, IA","Manson, IA",2,1,0,0,2,1,1,2,0,3,2004
+27736,"Iowa City, IA","Lakota, IA",0,2,1,2,0,1,2,0,1,3,2004
+27699,"Iowa City, IA","Houghton, IA",2,1,0,0,2,1,1,1,1,3,2004
+27910,"Iowa City, IA","Rockwell City, IA",1,1,1,0,2,1,2,1,0,3,2004
+28029,"Iowa City, IA","Wyoming, IA",2,0,0,0,2,0,1,1,0,2,2004
+28016,"Iowa City, IA","Williams, IA",2,0,0,0,2,0,2,0,0,2,2004
+28011,"Iowa City, IA","Westside, IA",1,1,0,0,2,0,1,1,0,2,2004
+28012,"Iowa City, IA","What Cheer, IA",0,2,0,2,0,0,0,2,0,2,2004
+27956,"Iowa City, IA","Storm Lake, IA",0,2,0,0,0,2,0,2,0,2,2004
+28010,"Iowa City, IA","Westfield, IA",1,0,1,0,1,1,1,1,0,2,2004
+27893,"Iowa City, IA","Randolph, IA",0,2,0,1,0,1,0,2,0,2,2004
+27959,"Iowa City, IA","Sumner, IA",0,1,1,0,2,0,0,1,1,2,2004
+27960,"Iowa City, IA","Swan, IA",1,1,0,0,2,0,1,0,1,2,2004
+27950,"Iowa City, IA","Stanhope, IA",0,2,0,0,2,0,1,1,0,2,2004
+27875,"Iowa City, IA","Pleasanton, IA",0,2,0,0,1,1,0,2,0,2,2004
+27976,"Iowa City, IA","Unionville, IA",0,2,0,1,1,0,0,1,1,2,2004
+27947,"Iowa City, IA","St. Olaf, IA",1,1,0,0,1,1,1,0,1,2,2004
+27891,"Iowa City, IA","Randalia, IA",2,0,0,0,2,0,0,2,0,2,2004
+27946,"Iowa City, IA","St. Marys, IA",2,0,0,0,2,0,2,0,0,2,2004
+28009,"Iowa City, IA","West Union, IA",1,1,0,1,1,0,1,0,1,2,2004
+27982,"Iowa City, IA","Van Meter, IA",1,1,0,1,1,0,0,1,1,2,2004
+27871,"Iowa City, IA","Plainfield, IA",2,0,0,0,2,0,1,1,0,2,2004
+27942,"Iowa City, IA","Springbrook, IA",1,1,0,0,2,0,2,0,0,2,2004
+27991,"Iowa City, IA","Walnut, IA",1,1,0,0,2,0,2,0,0,2,2004
+27861,"Iowa City, IA","Packwood, IA",0,0,2,0,2,0,2,0,0,2,2004
+27857,"Iowa City, IA","Owasa, IA",2,0,0,0,0,2,2,0,0,2,2004
+28008,"Iowa City, IA","West Point, IA",2,0,0,0,0,2,2,0,0,2,2004
+27918,"Iowa City, IA","Sabula, IA",1,1,0,0,2,0,1,1,0,2,2004
+27466,"Iowa City, IA","Ackley, IA",2,0,0,0,1,1,1,1,0,2,2004
+27847,"Iowa City, IA","Oakville, IA",0,2,0,1,1,0,1,1,0,2,2004
+27662,"Iowa City, IA","Goldfield, IA",0,2,0,0,2,0,1,1,0,2,2004
+27622,"Iowa City, IA","Elkport, IA",2,0,0,0,1,1,2,0,0,2,2004
+27623,"Iowa City, IA","Elma, IA",1,0,1,0,1,1,1,1,0,2,2004
+27627,"Iowa City, IA","Estherville, IA",0,2,0,0,1,1,1,1,0,2,2004
+27636,"Iowa City, IA","Farnhamville, IA",0,0,2,0,2,0,2,0,0,2,2004
+27647,"Iowa City, IA","Fraser, IA",2,0,0,0,1,1,1,1,0,2,2004
+27649,"Iowa City, IA","Frederika, IA",1,1,0,0,1,1,1,0,1,2,2004
+27650,"Iowa City, IA","Fremont, IA",0,2,0,1,0,1,1,0,1,2,2004
+27656,"Iowa City, IA","Geneva, IA",0,2,0,2,0,0,0,0,2,2,2004
+27657,"Iowa City, IA","Gibson, IA",1,0,1,0,1,1,1,1,0,2,2004
+27664,"Iowa City, IA","Grand Junction, IA",2,0,0,0,1,1,2,0,0,2,2004
+27725,"Iowa City, IA","Kirkville, IA",1,1,0,0,1,1,2,0,0,2,2004
+27833,"Iowa City, IA","New Liberty, IA",0,2,0,2,0,0,0,0,2,2,2004
+27672,"Iowa City, IA","Greene, IA",2,0,0,0,1,1,1,1,0,2,2004
+27682,"Iowa City, IA","Hancock, IA",1,0,1,0,1,1,2,0,0,2,2004
+27684,"Iowa City, IA","Harlan, IA",2,0,0,0,2,0,2,0,0,2,2004
+27685,"Iowa City, IA","Harpers Ferry, IA",2,0,0,0,2,0,1,0,1,2,2004
+27693,"Iowa City, IA","Hedrick, IA",1,1,0,1,1,0,1,1,0,2,2004
+27708,"Iowa City, IA","Inwood, IA",1,1,0,1,0,1,1,1,0,2,2004
+27711,"Iowa City, IA","Iowa Falls, IA",1,1,0,1,1,0,0,1,1,2,2004
+27716,"Iowa City, IA","Joice, IA",0,1,1,2,0,0,0,1,1,2,2004
+27618,"Iowa City, IA","Elgin, IA",1,1,0,0,1,1,0,2,0,2,2004
+27609,"Iowa City, IA","Eagle Grove, IA",2,0,0,0,1,1,2,0,0,2,2004
+27605,"Iowa City, IA","Dunlap, IA",2,0,0,0,1,1,2,0,0,2,2004
+27598,"Iowa City, IA","Dike, IA",1,1,0,0,2,0,1,0,1,2,2004
+27468,"Iowa City, IA","Adel, IA",1,0,1,0,2,0,2,0,0,2,2004
+27469,"Iowa City, IA","Afton, IA",1,1,0,0,1,1,1,0,1,2,2004
+27472,"Iowa City, IA","Akron, IA",1,0,1,0,2,0,1,1,0,2,2004
+27484,"Iowa City, IA","Anita, IA",1,1,0,0,1,1,0,2,0,2,2004
+27487,"Iowa City, IA","Arlington, IA",1,0,1,0,2,0,0,1,1,2,2004
+27493,"Iowa City, IA","Aurelia, IA",1,1,0,0,2,0,2,0,0,2,2004
+27494,"Iowa City, IA","Aurora, IA",0,2,0,0,0,2,0,1,1,2,2004
+27500,"Iowa City, IA","Battle Creek, IA",0,2,0,0,1,1,0,2,0,2,2004
+27501,"Iowa City, IA","Baxter, IA",2,0,0,0,2,0,2,0,0,2,2004
+27518,"Iowa City, IA","Bondurant, IA",0,1,1,0,1,1,0,1,1,2,2004
+27520,"Iowa City, IA","Braddyville, IA",2,0,0,0,2,0,2,0,0,2,2004
+27533,"Iowa City, IA","Cantril, IA",1,0,1,0,0,2,1,1,0,2,2004
+27540,"Iowa City, IA","Castalia, IA",2,0,0,1,1,0,1,1,0,2,2004
+27550,"Iowa City, IA","Chester, IA",1,1,0,0,1,1,1,1,0,2,2004
+27564,"Iowa City, IA","Colwell, IA",0,2,0,2,0,0,0,0,2,2,2004
+27570,"Iowa City, IA","Corwith, IA",1,1,0,1,1,0,1,1,0,2,2004
+27571,"Iowa City, IA","Corydon, IA",0,1,1,0,2,0,0,0,2,2,2004
+27579,"Iowa City, IA","Cromwell, IA",0,1,1,0,2,0,0,1,1,2,2004
+27586,"Iowa City, IA","Danbury, IA",0,1,1,0,2,0,2,0,0,2,2004
+27718,"Iowa City, IA","Kellogg, IA",2,0,0,0,2,0,1,1,0,2,2004
+27668,"Iowa City, IA","Granger, IA",0,2,0,1,1,0,2,0,0,2,2004
+27749,"Iowa City, IA","Leland, IA",0,1,1,2,0,0,0,0,2,2,2004
+27817,"Iowa City, IA","Morrison, IA",1,1,0,0,2,0,0,1,1,2,2004
+27791,"Iowa City, IA","McClelland, IA",2,0,0,0,2,0,2,0,0,2,2004
+27742,"Iowa City, IA","Lawton, IA",1,1,0,0,2,0,2,0,0,2,2004
+27787,"Iowa City, IA","Marysville, IA",1,1,0,0,2,0,1,1,0,2,2004
+27741,"Iowa City, IA","Laurens, IA",2,0,0,0,0,2,2,0,0,2,2004
+27800,"Iowa City, IA","Millerton, IA",0,1,1,0,2,0,0,2,0,2,2004
+27740,"Iowa City, IA","Larrabee, IA",2,0,0,0,2,0,2,0,0,2,2004
+27801,"Iowa City, IA","Millville, IA",2,0,0,0,1,1,2,0,0,2,2004
+27467,"Iowa City, IA","Ackworth, IA",2,0,0,0,1,1,2,0,0,2,2004
+27778,"Iowa City, IA","Manly, IA",0,2,0,2,0,0,0,0,2,2,2004
+27803,"Iowa City, IA","Minburn, IA",2,0,0,0,2,0,1,1,0,2,2004
+27777,"Iowa City, IA","Manilla, IA",1,1,0,0,1,1,1,1,0,2,2004
+27790,"Iowa City, IA","McCausland, IA",0,2,0,0,2,0,1,1,0,2,2004
+27825,"Iowa City, IA","Murray, IA",1,1,0,0,2,0,0,2,0,2,2004
+27832,"Iowa City, IA","New Hartford, IA",1,1,0,0,1,1,1,0,1,2,2004
+27763,"Iowa City, IA","Lone Rock, IA",0,1,1,2,0,0,0,1,1,2,2004
+27766,"Iowa City, IA","Lorimor, IA",2,0,0,0,1,1,1,1,0,2,2004
+27735,"Iowa City, IA","Lake View, IA",1,1,0,0,2,0,2,0,0,2,2004
+27753,"Iowa City, IA","Lidderdale, IA",1,1,0,0,2,0,2,0,0,2,2004
+27989,"Iowa City, IA","Walker, IA",0,1,0,0,0,1,0,1,0,1,2004
+27567,"Iowa City, IA","Coon Rapids, IA",1,0,0,0,0,1,0,0,1,1,2004
+27755,"Iowa City, IA","Lincoln, IA",0,1,0,1,0,0,0,1,0,1,2004
+27789,"Iowa City, IA","Massena, IA",1,0,0,0,1,0,1,0,0,1,2004
+27621,"Iowa City, IA","Elkader, IA",1,0,0,0,1,0,0,0,1,1,2004
+27619,"Iowa City, IA","Elk Horn, IA",1,0,0,0,1,0,1,0,0,1,2004
+27574,"Iowa City, IA","Craig, IA",1,0,0,0,1,0,1,0,0,1,2004
+27974,"Iowa City, IA","Underwood, IA",0,1,0,0,1,0,1,0,0,1,2004
+27784,"Iowa City, IA","Marquette, IA",1,0,0,0,1,0,0,0,1,1,2004
+27771,"Iowa City, IA","Luther, IA",0,1,0,0,0,1,0,0,1,1,2004
+27581,"Iowa City, IA","Cumberland, IA",1,0,0,0,1,0,0,1,0,1,2004
+27582,"Iowa City, IA","Curlew, IA",1,0,0,0,1,0,1,0,0,1,2004
+27583,"Iowa City, IA","Cushing, IA",1,0,0,1,0,0,0,1,0,1,2004
+27975,"Iowa City, IA","Union, IA",1,0,0,0,1,0,1,0,0,1,2004
+27587,"Iowa City, IA","Danville, IA",0,1,0,0,0,1,1,0,0,1,2004
+27566,"Iowa City, IA","Conrad, IA",1,0,0,0,0,1,1,0,0,1,2004
+27610,"Iowa City, IA","Early, IA",0,1,0,0,1,0,0,1,0,1,2004
+27601,"Iowa City, IA","Dougherty, IA",1,0,0,0,1,0,0,1,0,1,2004
+27603,"Iowa City, IA","Duncombe, IA",1,0,0,0,1,0,1,0,0,1,2004
+27775,"Iowa City, IA","Malvern, IA",0,0,1,0,1,0,1,0,0,1,2004
+27589,"Iowa City, IA","Dayton, IA",0,0,1,0,1,0,1,0,0,1,2004
+27536,"Iowa City, IA","Carson, IA",0,1,0,1,0,0,0,1,0,1,2004
+27559,"Iowa City, IA","Coburg, IA",0,1,0,0,1,0,1,0,0,1,2004
+27795,"Iowa City, IA","Melbourne, IA",0,1,0,0,0,1,1,0,0,1,2004
+28030,"Iowa City, IA","Zearing, IA",1,0,0,0,0,1,1,0,0,1,2004
+27827,"Iowa City, IA","Mystic, IA",1,0,0,0,0,1,1,0,0,1,2004
+28027,"Iowa City, IA","Woolstock, IA",1,0,0,0,1,0,0,1,0,1,2004
+28026,"Iowa City, IA","Woodward, IA",0,1,0,0,1,0,0,1,0,1,2004
+28025,"Iowa City, IA","Woodbine, IA",1,0,0,0,0,1,1,0,0,1,2004
+28023,"Iowa City, IA","Wiota, IA",0,1,0,0,1,0,0,1,0,1,2004
+28022,"Iowa City, IA","Winthrop, IA",0,1,0,0,1,0,1,0,0,1,2004
+27477,"Iowa City, IA","Allison, IA",1,0,0,0,1,0,1,0,0,1,2004
+27478,"Iowa City, IA","Alton, IA",0,1,0,1,0,0,1,0,0,1,2004
+27824,"Iowa City, IA","Moville, IA",1,0,0,0,1,0,1,0,0,1,2004
+27816,"Iowa City, IA","Morning Sun, IA",1,0,0,0,1,0,1,0,0,1,2004
+27808,"Iowa City, IA","Monona, IA",1,0,0,0,0,1,0,1,0,1,2004
+28015,"Iowa City, IA","Willey, IA",1,0,0,0,1,0,1,0,0,1,2004
+27495,"Iowa City, IA","Bagley, IA",0,1,0,0,1,0,0,0,1,1,2004
+27499,"Iowa City, IA","Batavia, IA",0,1,0,1,0,0,0,1,0,1,2004
+27860,"Iowa City, IA","Pacific Junction, IA",1,0,0,0,1,0,1,0,0,1,2004
+27502,"Iowa City, IA","Bayard, IA",0,1,0,0,1,0,1,0,0,1,2004
+27503,"Iowa City, IA","Beaman, IA",0,1,0,0,1,0,1,0,0,1,2004
+27511,"Iowa City, IA","Birmingham, IA",0,1,0,0,0,1,0,1,0,1,2004
+27514,"Iowa City, IA","Blanchard, IA",1,0,0,0,0,1,1,0,0,1,2004
+27863,"Iowa City, IA","Panama, IA",0,1,0,0,1,0,1,0,0,1,2004
+27521,"Iowa City, IA","Brandon, IA",1,0,0,0,1,0,0,0,1,1,2004
+27522,"Iowa City, IA","Brayton, IA",1,0,0,0,0,1,0,1,0,1,2004
+27524,"Iowa City, IA","Bristow, IA",0,1,0,1,0,0,0,1,0,1,2004
+27878,"Iowa City, IA","Pocahontas, IA",1,0,0,1,0,0,0,0,1,1,2004
+27626,"Iowa City, IA","Essex, IA",1,0,0,0,1,0,1,0,0,1,2004
+27726,"Iowa City, IA","Kiron, IA",0,1,0,0,1,0,1,0,0,1,2004
+27967,"Iowa City, IA","Thornton, IA",1,0,0,1,0,0,0,1,0,1,2004
+27739,"Iowa City, IA","Larchwood, IA",0,0,1,0,0,1,0,1,0,1,2004
+27928,"Iowa City, IA","Sheldon, IA",1,0,0,0,1,0,1,0,0,1,2004
+27688,"Iowa City, IA","Hastings, IA",0,1,0,0,1,0,0,1,0,1,2004
+27926,"Iowa City, IA","Sheffield, IA",0,0,1,1,0,0,0,1,0,1,2004
+27925,"Iowa City, IA","Seymour, IA",0,1,0,1,0,0,0,1,0,1,2004
+27690,"Iowa City, IA","Haverhill, IA",0,1,0,0,1,0,0,0,1,1,2004
+27923,"Iowa City, IA","Scarville, IA",1,0,0,0,1,0,1,0,0,1,2004
+27691,"Iowa City, IA","Hawarden, IA",0,1,0,0,0,1,0,1,0,1,2004
+27892,"Iowa City, IA","Randall, IA",0,1,0,0,1,0,1,0,0,1,2004
+27696,"Iowa City, IA","Hillsboro, IA",0,0,1,0,0,1,0,0,1,1,2004
+27701,"Iowa City, IA","Hudson, IA",0,1,0,1,0,0,0,0,1,1,2004
+27702,"Iowa City, IA","Humboldt, IA",1,0,0,0,1,0,1,0,0,1,2004
+27705,"Iowa City, IA","Imogene, IA",0,1,0,0,1,0,1,0,0,1,2004
+27916,"Iowa City, IA","Ruthven, IA",0,0,1,1,0,0,0,0,1,1,2004
+27914,"Iowa City, IA","Runnells, IA",0,1,0,1,0,0,0,1,0,1,2004
+27683,"Iowa City, IA","Harcourt, IA",1,0,0,0,0,1,1,0,0,1,2004
+27913,"Iowa City, IA","Rome, IA",0,1,0,0,0,1,0,0,1,1,2004
+27912,"Iowa City, IA","Roland, IA",0,1,0,0,1,0,0,1,0,1,2004
+27911,"Iowa City, IA","Rockwell, IA",0,1,0,1,0,0,0,1,0,1,2004
+27709,"Iowa City, IA","Ionia, IA",0,0,1,0,1,0,1,0,0,1,2004
+27738,"Iowa City, IA","Lansing, IA",1,0,0,0,1,0,1,0,0,1,2004
+27908,"Iowa City, IA","Rock Rapids, IA",1,0,0,1,0,0,0,0,1,1,2004
+27906,"Iowa City, IA","Riverton, IA",0,1,0,0,0,1,0,0,1,1,2004
+27733,"Iowa City, IA","Lake City, IA",1,0,0,0,1,0,1,0,0,1,2004
+27719,"Iowa City, IA","Kensett, IA",1,0,0,0,1,0,1,0,0,1,2004
+27721,"Iowa City, IA","Keosauqua, IA",0,0,1,0,1,0,1,0,0,1,2004
+27722,"Iowa City, IA","Keota, IA",0,1,0,0,0,1,1,0,0,1,2004
+27901,"Iowa City, IA","Remsen, IA",0,1,0,0,0,1,0,1,0,1,2004
+27723,"Iowa City, IA","Kimballton, IA",0,1,0,0,0,1,0,1,0,1,2004
+27890,"Iowa City, IA","Rake, IA",1,0,0,1,0,0,0,1,0,1,2004
+27933,"Iowa City, IA","Silver City, IA",0,1,0,0,1,0,0,1,0,1,2004
+27966,"Iowa City, IA","Thompson, IA",0,1,0,1,0,0,0,0,1,1,2004
+27951,"Iowa City, IA","Stanley, IA",1,0,0,0,1,0,1,0,0,1,2004
+27899,"Iowa City, IA","Redfield, IA",1,0,0,0,1,0,1,0,0,1,2004
+27964,"Iowa City, IA","Tennant, IA",0,1,0,0,1,0,1,0,0,1,2004
+27629,"Iowa City, IA","Exline, IA",0,1,0,0,1,0,1,0,0,1,2004
+27635,"Iowa City, IA","Farmington, IA",0,1,0,0,1,0,0,0,1,1,2004
+27754,"Iowa City, IA","Lime Springs, IA",0,1,0,1,0,0,0,0,1,1,2004
+27637,"Iowa City, IA","Fayette, IA",0,1,0,0,1,0,1,0,0,1,2004
+27638,"Iowa City, IA","Fenton, IA",0,1,0,1,0,0,0,1,0,1,2004
+27648,"Iowa City, IA","Fredericksburg, IA",0,0,1,0,0,1,0,0,1,1,2004
+27881,"Iowa City, IA","Portsmouth, IA",1,0,0,0,1,0,1,0,0,1,2004
+27882,"Iowa City, IA","Prairie City, IA",1,0,0,0,1,0,1,0,0,1,2004
+27954,"Iowa City, IA","Steamboat Rock, IA",0,1,0,0,0,1,1,0,0,1,2004
+27953,"Iowa City, IA","State Center, IA",1,0,0,0,0,1,1,0,0,1,2004
+27652,"Iowa City, IA","Garden Grove, IA",1,0,0,1,0,0,1,0,0,1,2004
+27653,"Iowa City, IA","Garnavillo, IA",1,0,0,0,1,0,1,0,0,1,2004
+27678,"Iowa City, IA","Guthrie Center, IA",1,0,0,0,1,0,1,0,0,1,2004
+27748,"Iowa City, IA","Lehigh, IA",0,1,0,0,1,0,1,0,0,1,2004
+27659,"Iowa City, IA","Gilbertville, IA",0,1,0,0,1,0,0,0,1,1,2004
+27885,"Iowa City, IA","Primghar, IA",0,0,1,0,0,1,0,1,0,1,2004
+27663,"Iowa City, IA","Graf, IA",0,1,0,0,1,0,0,0,1,1,2004
+27944,"Iowa City, IA","St. Ansgar, IA",0,1,0,1,0,0,0,0,1,1,2004
+27746,"Iowa City, IA","Le Roy, IA",0,1,0,0,1,0,0,1,0,1,2004
+27666,"Iowa City, IA","Grand River, IA",0,0,1,1,0,0,1,0,0,1,2004
+27887,"Iowa City, IA","Promise City, IA",0,1,0,0,1,0,1,0,0,1,2004
+27940,"Iowa City, IA","Spirit Lake, IA",0,1,0,0,0,1,0,1,0,1,2004
+27669,"Iowa City, IA","Grant, IA",0,1,0,0,1,0,0,1,0,1,2004
+27670,"Iowa City, IA","Gravity, IA",1,0,0,0,0,1,1,0,0,1,2004
+27937,"Iowa City, IA","Soldier, IA",0,1,0,0,1,0,0,1,0,1,2004
+27671,"Iowa City, IA","Greeley, IA",0,1,0,0,1,0,0,0,1,1,2004
+27965,"Iowa City, IA","Terril, IA",0,1,0,0,1,0,1,0,0,1,2004

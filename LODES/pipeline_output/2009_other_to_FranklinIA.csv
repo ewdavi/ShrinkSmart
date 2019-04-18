@@ -1,0 +1,69 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+29015,"Franklin, IA","Franklin, IA",27,31,24,24,35,23,35,24,23,82,2009
+29014,"Franklin, IA","Fort Madison, IA",26,38,8,16,34,22,26,37,9,72,2009
+29020,"Franklin, IA","Houghton, IA",15,27,11,18,25,10,19,17,17,53,2009
+29051,"Franklin, IA","St. Paul, IA",16,25,8,20,15,14,15,24,10,49,2009
+29008,"Franklin, IA","Donnellson, IA",11,32,6,15,16,18,15,25,9,49,2009
+29001,"Franklin, IA","Burlington, IA",3,11,4,10,5,3,5,4,9,18,2009
+29033,"Franklin, IA","Montrose, IA",6,4,7,3,12,2,11,3,3,17,2009
+29049,"Franklin, IA","Salem, IA",3,6,4,6,4,3,4,7,2,13,2009
+29034,"Franklin, IA","Mount Pleasant, IA",1,5,7,5,6,2,3,9,1,13,2009
+29026,"Franklin, IA","Lockridge, IA",3,5,3,6,2,3,4,4,3,11,2009
+29022,"Franklin, IA","Keokuk, IA",1,4,5,1,9,0,6,1,3,10,2009
+29023,"Franklin, IA","Keosauqua, IA",4,5,0,4,3,2,2,4,3,9,2009
+29059,"Franklin, IA","West Point, IA",6,1,1,1,6,1,6,2,0,8,2009
+29013,"Franklin, IA","Farmington, IA",3,4,1,4,3,1,3,4,1,8,2009
+29002,"Franklin, IA","Cantril, IA",2,2,3,3,3,1,3,3,1,7,2009
+29032,"Franklin, IA","Milton, IA",2,4,0,2,0,4,1,4,1,6,2009
+28999,"Franklin, IA","Bonaparte, IA",0,5,1,5,0,1,0,5,1,6,2009
+29035,"Franklin, IA","Mount Union, IA",0,4,2,1,3,2,1,4,1,6,2009
+29010,"Franklin, IA","Eldon, IA",2,2,1,0,3,2,2,2,1,5,2009
+29057,"Franklin, IA","West Burlington, IA",1,3,0,0,2,2,1,3,0,4,2009
+29041,"Franklin, IA","Ottumwa, IA",1,1,2,2,0,2,2,2,0,4,2009
+29012,"Franklin, IA","Fairfield, IA",1,2,1,1,2,1,1,2,1,4,2009
+29048,"Franklin, IA","Rome, IA",0,2,1,0,0,3,2,1,0,3,2009
+29031,"Franklin, IA","Middletown, IA",1,0,2,2,0,1,1,2,0,3,2009
+29003,"Franklin, IA","Cedar Rapids, IA",2,1,0,0,0,3,3,0,0,3,2009
+29030,"Franklin, IA","Melcher-Dallas, IA",2,0,0,0,0,2,2,0,0,2,2009
+29024,"Franklin, IA","Keota, IA",0,2,0,0,2,0,0,2,0,2,2009
+29037,"Franklin, IA","New London, IA",0,1,1,0,1,1,0,0,2,2,2009
+28995,"Franklin, IA","Agency, IA",0,1,1,0,2,0,1,1,0,2,2009
+29040,"Franklin, IA","Oskaloosa, IA",1,0,1,0,1,1,1,1,0,2,2009
+29019,"Franklin, IA","Hillsboro, IA",0,1,1,2,0,0,0,2,0,2,2009
+29052,"Franklin, IA","University Park, IA",0,1,0,1,0,0,0,0,1,1,2009
+29047,"Franklin, IA","Robins, IA",0,1,0,1,0,0,0,1,0,1,2009
+29046,"Franklin, IA","Riverside, IA",1,0,0,0,0,1,1,0,0,1,2009
+29045,"Franklin, IA","Richland, IA",0,1,0,0,1,0,0,1,0,1,2009
+29053,"Franklin, IA","Urbandale, IA",1,0,0,0,0,1,1,0,0,1,2009
+29054,"Franklin, IA","Victor, IA",0,0,1,0,0,1,1,0,0,1,2009
+29055,"Franklin, IA","Wayland, IA",0,1,0,0,0,1,0,1,0,1,2009
+29056,"Franklin, IA","Webster, IA",1,0,0,1,0,0,0,1,0,1,2009
+29058,"Franklin, IA","West Liberty, IA",1,0,0,1,0,0,0,1,0,1,2009
+29060,"Franklin, IA","Windsor Heights, IA",0,1,0,0,0,1,0,0,1,1,2009
+29044,"Franklin, IA","Pleasanton, IA",0,0,1,0,1,0,1,0,0,1,2009
+29061,"Franklin, IA","Winfield, IA",0,1,0,1,0,0,0,1,0,1,2009
+29043,"Franklin, IA","Pleasant Hill, IA",1,0,0,0,0,1,1,0,0,1,2009
+29042,"Franklin, IA","Palo, IA",1,0,0,0,0,1,1,0,0,1,2009
+29050,"Franklin, IA","Seymour, IA",1,0,0,1,0,0,0,0,1,1,2009
+29029,"Franklin, IA","Marshalltown, IA",0,1,0,0,0,1,0,1,0,1,2009
+29039,"Franklin, IA","Norwalk, IA",1,0,0,0,0,1,1,0,0,1,2009
+29011,"Franklin, IA","Evansdale, IA",1,0,0,0,0,1,1,0,0,1,2009
+28997,"Franklin, IA","Blakesburg, IA",0,1,0,0,1,0,0,1,0,1,2009
+28998,"Franklin, IA","Bloomfield, IA",0,0,1,0,0,1,0,0,1,1,2009
+29000,"Franklin, IA","Brighton, IA",0,1,0,0,0,1,0,0,1,1,2009
+29004,"Franklin, IA","Chariton, IA",0,0,1,1,0,0,0,0,1,1,2009
+29005,"Franklin, IA","Danville, IA",0,1,0,0,1,0,0,0,1,1,2009
+29006,"Franklin, IA","Davenport, IA",0,1,0,0,0,1,1,0,0,1,2009
+29007,"Franklin, IA","Des Moines, IA",0,0,1,0,0,1,0,0,1,1,2009
+29009,"Franklin, IA","Eddyville, IA",1,0,0,0,1,0,1,0,0,1,2009
+29016,"Franklin, IA","Gibson, IA",0,1,0,0,1,0,0,1,0,1,2009
+29038,"Franklin, IA","Newton, IA",1,0,0,0,0,1,1,0,0,1,2009
+29017,"Franklin, IA","Guernsey, IA",1,0,0,1,0,0,0,1,0,1,2009
+29018,"Franklin, IA","Hiawatha, IA",1,0,0,0,0,1,1,0,0,1,2009
+29021,"Franklin, IA","Iowa City, IA",1,0,0,0,0,1,0,1,0,1,2009
+29025,"Franklin, IA","Liscomb, IA",0,0,1,0,0,1,0,0,1,1,2009
+29027,"Franklin, IA","Luther, IA",1,0,0,0,0,1,1,0,0,1,2009
+29028,"Franklin, IA","Marengo, IA",1,0,0,0,0,1,0,0,1,1,2009
+28996,"Franklin, IA","Birmingham, IA",0,1,0,1,0,0,0,1,0,1,2009
+29036,"Franklin, IA","Muscatine, IA",0,1,0,1,0,0,1,0,0,1,2009
+29062,"Franklin, IA","Winthrop, IA",0,1,0,0,0,1,0,0,1,1,2009

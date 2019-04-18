@@ -1,0 +1,63 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+10824,"Conrad, IA","Conrad, IA",18,39,18,20,39,16,32,35,8,75,2002
+10819,"Conrad, IA","Beaman, IA",15,39,11,22,27,16,30,32,3,65,2002
+10847,"Conrad, IA","Marshalltown, IA",11,44,9,21,35,8,14,42,8,64,2002
+10836,"Conrad, IA","Garwin, IA",5,13,3,5,4,12,8,9,4,21,2002
+10846,"Conrad, IA","Liscomb, IA",2,12,4,6,9,3,5,9,4,18,2002
+10843,"Conrad, IA","Le Grand, IA",2,12,3,1,11,5,8,7,2,17,2002
+10817,"Conrad, IA","Albion, IA",2,9,3,2,8,4,8,4,2,14,2002
+10831,"Conrad, IA","Eldora, IA",1,6,3,1,8,1,3,6,1,10,2002
+10839,"Conrad, IA","Grundy Center, IA",1,7,1,4,4,1,2,6,1,9,2002
+10876,"Conrad, IA","Wellsburg, IA",0,8,0,4,3,1,1,6,1,8,2002
+10862,"Conrad, IA","Rhodes, IA",0,3,4,2,5,0,3,3,1,7,2002
+10816,"Conrad, IA","Ackley, IA",0,6,1,1,5,1,3,3,1,7,2002
+10877,"Conrad, IA","Whitten, IA",0,6,1,2,4,1,2,5,0,7,2002
+10854,"Conrad, IA","Owasa, IA",1,2,3,5,0,1,0,6,0,6,2002
+10872,"Conrad, IA","Union, IA",1,2,3,2,2,2,4,1,1,6,2002
+10861,"Conrad, IA","Reinbeck, IA",1,4,1,1,1,4,2,3,1,6,2002
+10866,"Conrad, IA","State Center, IA",4,1,0,0,2,3,2,2,1,5,2002
+10867,"Conrad, IA","Steamboat Rock, IA",0,4,0,0,4,0,1,2,1,4,2002
+10848,"Conrad, IA","Mason City, IA",0,1,3,2,0,2,1,2,1,4,2002
+10840,"Conrad, IA","Hubbard, IA",2,1,1,0,1,3,4,0,0,4,2002
+10850,"Conrad, IA","Montour, IA",0,4,0,0,3,1,0,1,3,4,2002
+10868,"Conrad, IA","Story City, IA",1,3,0,2,2,0,2,0,2,4,2002
+10870,"Conrad, IA","Toledo, IA",0,4,0,3,1,0,1,0,3,4,2002
+10834,"Conrad, IA","Ferguson, IA",0,4,0,1,0,3,0,2,2,4,2002
+10875,"Conrad, IA","Waukon, IA",1,1,2,1,3,0,2,0,2,4,2002
+10851,"Conrad, IA","Morrison, IA",1,1,1,1,2,0,2,1,0,3,2002
+10842,"Conrad, IA","Johnston, IA",0,3,0,3,0,0,0,0,3,3,2002
+10864,"Conrad, IA","Roland, IA",0,0,3,0,1,2,2,1,0,3,2002
+10871,"Conrad, IA","Traer, IA",0,3,0,1,0,2,0,3,0,3,2002
+10857,"Conrad, IA","Parkersburg, IA",1,0,2,0,2,1,2,1,0,3,2002
+10874,"Conrad, IA","Waterloo, IA",0,3,0,0,3,0,0,0,3,3,2002
+10849,"Conrad, IA","Melbourne, IA",0,2,1,0,3,0,0,2,1,3,2002
+10825,"Conrad, IA","De Witt, IA",0,1,2,0,3,0,0,0,3,3,2002
+10865,"Conrad, IA","Spring Hill, IA",0,2,0,0,0,2,0,1,1,2,2002
+10860,"Conrad, IA","Princeton, IA",0,0,2,0,2,0,0,0,2,2,2002
+10828,"Conrad, IA","Dubuque, IA",0,2,0,0,2,0,1,1,0,2,2002
+10841,"Conrad, IA","Iowa Falls, IA",1,1,0,0,1,1,1,1,0,2,2002
+10838,"Conrad, IA","Gilman, IA",0,2,0,0,0,2,0,0,2,2,2002
+10827,"Conrad, IA","Dike, IA",1,0,1,2,0,0,1,1,0,2,2002
+10837,"Conrad, IA","Gilbert, IA",1,1,0,0,0,2,1,0,1,2,2002
+10853,"Conrad, IA","Ottumwa, IA",1,0,1,1,0,1,1,1,0,2,2002
+10822,"Conrad, IA","Clarion, IA",1,0,0,0,0,1,0,1,0,1,2002
+10826,"Conrad, IA","Delaware, IA",0,0,1,0,0,1,0,1,0,1,2002
+10818,"Conrad, IA","Alden, IA",0,0,1,0,1,0,0,1,0,1,2002
+10830,"Conrad, IA","Eagle Grove, IA",0,1,0,1,0,0,0,1,0,1,2002
+10821,"Conrad, IA","Central City, IA",0,1,0,1,0,0,0,0,1,1,2002
+10873,"Conrad, IA","Urbana, IA",0,1,0,1,0,0,0,0,1,1,2002
+10832,"Conrad, IA","Ely, IA",0,1,0,0,0,1,1,0,0,1,2002
+10833,"Conrad, IA","Farnhamville, IA",0,1,0,0,0,1,1,0,0,1,2002
+10835,"Conrad, IA","Fort Dodge, IA",0,1,0,0,0,1,1,0,0,1,2002
+10869,"Conrad, IA","Tama, IA",0,1,0,0,1,0,0,0,1,1,2002
+10855,"Conrad, IA","Oxford, IA",0,1,0,0,0,1,0,1,0,1,2002
+10858,"Conrad, IA","Popejoy, IA",0,1,0,0,0,1,0,1,0,1,2002
+10856,"Conrad, IA","Palo, IA",0,1,0,1,0,0,0,0,1,1,2002
+10829,"Conrad, IA","Dysart, IA",1,0,0,0,1,0,1,0,0,1,2002
+10823,"Conrad, IA","Clutier, IA",1,0,0,1,0,0,0,1,0,1,2002
+10863,"Conrad, IA","Rockford, IA",0,0,1,0,1,0,0,1,0,1,2002
+10820,"Conrad, IA","Cedar Rapids, IA",1,0,0,0,0,1,0,0,1,1,2002
+10844,"Conrad, IA","Leon, IA",0,1,0,0,1,0,0,1,0,1,2002
+10845,"Conrad, IA","Lisbon, IA",0,1,0,0,0,1,1,0,0,1,2002
+10859,"Conrad, IA","Prairieburg, IA",0,1,0,1,0,0,0,0,1,1,2002
+10852,"Conrad, IA","Nevada, IA",0,1,0,0,0,1,1,0,0,1,2002

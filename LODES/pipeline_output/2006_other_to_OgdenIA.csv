@@ -1,0 +1,105 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+43432,"Ogden, IA","Ogden, IA",26,112,55,25,121,47,72,60,61,193,2006
+43370,"Ogden, IA","Boone, IA",34,84,20,41,79,18,41,66,31,138,2006
+43397,"Ogden, IA","Fraser, IA",12,50,26,18,45,25,34,29,25,88,2006
+43363,"Ogden, IA","Ames, IA",21,30,6,21,27,9,14,23,20,57,2006
+43448,"Ogden, IA","Stanhope, IA",5,19,5,16,7,6,11,12,6,29,2006
+43364,"Ogden, IA","Ankeny, IA",2,11,1,1,12,1,9,2,3,14,2006
+43454,"Ogden, IA","Urbandale, IA",1,10,2,7,0,6,0,8,5,13,2006
+43419,"Ogden, IA","Madrid, IA",1,10,2,4,9,0,3,8,2,13,2006
+43408,"Ogden, IA","Jefferson, IA",0,4,5,1,5,3,2,2,5,9,2006
+43401,"Ogden, IA","Grand Junction, IA",0,5,2,3,2,2,1,6,0,7,2006
+43423,"Ogden, IA","Marshalltown, IA",1,5,0,4,2,0,3,2,1,6,2006
+43449,"Ogden, IA","Story City, IA",0,6,0,2,4,0,3,0,3,6,2006
+43424,"Ogden, IA","Mason City, IA",1,3,2,0,0,6,1,2,3,6,2006
+43450,"Ogden, IA","Stratford, IA",0,3,2,1,2,2,2,1,2,5,2006
+43433,"Ogden, IA","Otho, IA",2,2,1,1,2,2,2,2,1,5,2006
+43391,"Ogden, IA","Ellsworth, IA",0,3,1,4,0,0,1,1,2,4,2006
+43384,"Ogden, IA","Dayton, IA",0,3,1,0,2,2,2,1,1,4,2006
+43410,"Ogden, IA","Johnston, IA",1,3,0,3,0,1,1,2,1,4,2006
+43430,"Ogden, IA","Newton, IA",1,1,2,0,1,3,1,1,2,4,2006
+43458,"Ogden, IA","Waukee, IA",1,1,2,1,2,1,0,2,2,4,2006
+43413,"Ogden, IA","Knoxville, IA",0,4,0,0,3,1,2,1,1,4,2006
+43376,"Ogden, IA","Carroll, IA",2,1,1,0,0,4,1,2,1,4,2006
+43415,"Ogden, IA","Lehigh, IA",0,3,1,1,3,0,1,2,1,4,2006
+43392,"Ogden, IA","Exira, IA",0,3,0,2,0,1,2,0,1,3,2006
+43429,"Ogden, IA","Nevada, IA",0,3,0,3,0,0,0,2,1,3,2006
+43394,"Ogden, IA","Farnhamville, IA",1,2,0,0,3,0,1,2,0,3,2006
+43463,"Ogden, IA","Windsor Heights, IA",1,2,0,3,0,0,0,2,1,3,2006
+43377,"Ogden, IA","Churdan, IA",0,1,2,0,2,1,2,1,0,3,2006
+43453,"Ogden, IA","Traer, IA",3,0,0,3,0,0,0,0,3,3,2006
+43455,"Ogden, IA","Vinton, IA",1,2,0,3,0,0,0,0,3,3,2006
+43434,"Ogden, IA","Ottumwa, IA",1,2,0,0,0,3,1,1,1,3,2006
+43428,"Ogden, IA","Minburn, IA",1,1,0,0,0,2,0,0,2,2,2006
+43431,"Ogden, IA","Norwalk, IA",0,2,0,0,1,1,1,1,0,2,2006
+43439,"Ogden, IA","Perry, IA",2,0,0,1,0,1,1,0,1,2,2006
+43444,"Ogden, IA","Rippey, IA",0,2,0,0,0,2,0,2,0,2,2006
+43445,"Ogden, IA","Robins, IA",1,0,1,0,1,1,1,1,0,2,2006
+43446,"Ogden, IA","Roland, IA",1,1,0,1,0,1,0,2,0,2,2006
+43414,"Ogden, IA","Lacona, IA",1,1,0,0,2,0,0,1,1,2,2006
+43459,"Ogden, IA","Webster City, IA",2,0,0,2,0,0,0,2,0,2,2006
+43460,"Ogden, IA","Wellman, IA",2,0,0,0,2,0,2,0,0,2,2006
+43409,"Ogden, IA","Jewell Junction, IA",0,2,0,2,0,0,0,0,2,2,2006
+43412,"Ogden, IA","Knierim, IA",1,0,1,0,1,1,0,1,1,2,2006
+43372,"Ogden, IA","Brighton, IA",0,2,0,1,0,1,0,1,1,2,2006
+43371,"Ogden, IA","Boxholm, IA",0,1,1,0,1,1,0,2,0,2,2006
+43379,"Ogden, IA","Colo, IA",2,0,0,1,1,0,1,1,0,2,2006
+43385,"Ogden, IA","Des Moines, IA",1,1,0,0,1,1,0,2,0,2,2006
+43388,"Ogden, IA","Eagle Grove, IA",0,2,0,0,2,0,0,0,2,2,2006
+43389,"Ogden, IA","East Peru, IA",0,2,0,1,1,0,0,0,2,2,2006
+43373,"Ogden, IA","Callender, IA",0,2,0,0,2,0,0,2,0,2,2006
+43380,"Ogden, IA","Coon Rapids, IA",2,0,0,0,2,0,2,0,0,2,2006
+43365,"Ogden, IA","Audubon, IA",0,2,0,1,0,1,1,0,1,2,2006
+43399,"Ogden, IA","Gilbert, IA",1,1,0,0,1,1,1,0,1,2,2006
+43457,"Ogden, IA","Waterloo, IA",0,0,1,0,1,0,1,0,0,1,2006
+43437,"Ogden, IA","Parnell, IA",0,1,0,0,0,1,0,0,1,1,2006
+43438,"Ogden, IA","Pella, IA",0,1,0,0,1,0,0,1,0,1,2006
+43462,"Ogden, IA","Williams, IA",0,1,0,1,0,0,0,1,0,1,2006
+43461,"Ogden, IA","Willey, IA",1,0,0,0,1,0,1,0,0,1,2006
+43440,"Ogden, IA","Pleasant Plain, IA",0,0,1,1,0,0,0,1,0,1,2006
+43441,"Ogden, IA","Pomeroy, IA",0,1,0,0,0,1,0,0,1,1,2006
+43442,"Ogden, IA","Rhodes, IA",0,1,0,0,1,0,1,0,0,1,2006
+43443,"Ogden, IA","Rinard, IA",1,0,0,0,1,0,0,1,0,1,2006
+43378,"Ogden, IA","Clive, IA",0,1,0,0,1,0,0,0,1,1,2006
+43362,"Ogden, IA","Altoona, IA",1,0,0,1,0,0,0,0,1,1,2006
+43375,"Ogden, IA","Carlisle, IA",0,1,0,0,1,0,1,0,0,1,2006
+43456,"Ogden, IA","Wall Lake, IA",0,1,0,0,0,1,0,1,0,1,2006
+43374,"Ogden, IA","Cantril, IA",0,1,0,0,1,0,0,0,1,1,2006
+43447,"Ogden, IA","Russell, IA",0,1,0,0,0,1,0,0,1,1,2006
+43366,"Ogden, IA","Baxter, IA",0,1,0,1,0,0,0,1,0,1,2006
+43436,"Ogden, IA","Panora, IA",0,0,1,1,0,0,0,0,1,1,2006
+43451,"Ogden, IA","Stuart, IA",0,0,1,0,0,1,0,0,1,1,2006
+43452,"Ogden, IA","Toledo, IA",0,1,0,0,0,1,0,0,1,1,2006
+43369,"Ogden, IA","Bloomfield, IA",1,0,0,1,0,0,0,1,0,1,2006
+43368,"Ogden, IA","Blakesburg, IA",0,1,0,0,0,1,0,1,0,1,2006
+43367,"Ogden, IA","Bertram, IA",1,0,0,0,1,0,1,0,0,1,2006
+43402,"Ogden, IA","Grant, IA",1,0,0,0,0,1,0,0,1,1,2006
+43381,"Ogden, IA","Cushing, IA",1,0,0,0,1,0,1,0,0,1,2006
+43435,"Ogden, IA","Owasa, IA",1,0,0,1,0,0,0,1,0,1,2006
+43403,"Ogden, IA","Greenfield, IA",0,1,0,0,1,0,0,1,0,1,2006
+43404,"Ogden, IA","Harcourt, IA",0,1,0,0,0,1,0,1,0,1,2006
+43405,"Ogden, IA","Harvey, IA",0,0,1,0,1,0,1,0,0,1,2006
+43406,"Ogden, IA","Hiawatha, IA",0,1,0,0,0,1,0,0,1,1,2006
+43407,"Ogden, IA","Huxley, IA",1,0,0,1,0,0,1,0,0,1,2006
+43400,"Ogden, IA","Glenwood, IA",0,0,1,0,0,1,0,0,1,1,2006
+43398,"Ogden, IA","Garden Grove, IA",0,1,0,0,0,1,0,1,0,1,2006
+43411,"Ogden, IA","Kamrar, IA",0,0,1,1,0,0,0,0,1,1,2006
+43361,"Ogden, IA","Albia, IA",0,1,0,0,0,1,0,0,1,1,2006
+43396,"Ogden, IA","Fort Dodge, IA",0,1,0,0,1,0,0,1,0,1,2006
+43395,"Ogden, IA","Ferguson, IA",0,1,0,0,0,1,0,0,1,1,2006
+43393,"Ogden, IA","Farmington, IA",0,1,0,1,0,0,0,0,1,1,2006
+43416,"Ogden, IA","Lidderdale, IA",0,0,1,0,0,1,0,1,0,1,2006
+43417,"Ogden, IA","Linden, IA",0,1,0,0,0,1,0,0,1,1,2006
+43418,"Ogden, IA","Luther, IA",0,1,0,0,1,0,0,1,0,1,2006
+43390,"Ogden, IA","Elberon, IA",0,1,0,0,1,0,1,0,0,1,2006
+43420,"Ogden, IA","Manning, IA",0,1,0,0,0,1,0,1,0,1,2006
+43421,"Ogden, IA","Marcus, IA",1,0,0,0,0,1,1,0,0,1,2006
+43422,"Ogden, IA","Marion, IA",1,0,0,1,0,0,0,0,1,1,2006
+43425,"Ogden, IA","Melcher-Dallas, IA",1,0,0,0,0,1,1,0,0,1,2006
+43426,"Ogden, IA","Millerton, IA",0,1,0,0,0,1,0,0,1,1,2006
+43427,"Ogden, IA","Milton, IA",0,1,0,0,1,0,0,0,1,1,2006
+43387,"Ogden, IA","Duncombe, IA",1,0,0,0,1,0,1,0,0,1,2006
+43386,"Ogden, IA","Dexter, IA",0,1,0,1,0,0,0,0,1,1,2006
+43383,"Ogden, IA","Dawson, IA",0,1,0,0,0,1,0,1,0,1,2006
+43382,"Ogden, IA","Dallas Center, IA",0,1,0,0,1,0,1,0,0,1,2006
+43360,"Ogden, IA","Ackley, IA",0,1,0,0,1,0,0,1,0,1,2006

@@ -1,0 +1,110 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+8765,"Buffalo, IA","Davenport, IA",51,146,46,113,72,58,31,61,151,243,2013
+8755,"Buffalo, IA","Buffalo, IA",17,34,31,33,25,24,24,25,33,82,2013
+8752,"Buffalo, IA","Bettendorf, IA",2,42,17,24,26,11,6,19,36,61,2013
+8753,"Buffalo, IA","Blue Grass, IA",8,42,11,20,24,17,9,15,37,61,2013
+8814,"Buffalo, IA","Muscatine, IA",6,13,6,16,3,6,3,9,13,25,2013
+8845,"Buffalo, IA","Wilton, IA",10,10,4,9,11,4,5,5,14,24,2013
+8774,"Buffalo, IA","Eldridge, IA",3,11,7,7,10,4,0,10,11,21,2013
+8840,"Buffalo, IA","Walcott, IA",3,7,7,8,4,5,2,4,11,17,2013
+8761,"Buffalo, IA","Clinton, IA",2,10,2,10,0,4,3,4,7,14,2013
+8799,"Buffalo, IA","Long Grove, IA",1,7,4,11,1,0,3,2,7,12,2013
+8821,"Buffalo, IA","Panorama Park, IA",1,8,2,5,4,2,3,2,6,11,2013
+8769,"Buffalo, IA","Dixon, IA",3,5,2,5,3,2,3,5,2,10,2013
+8758,"Buffalo, IA","Cedar Rapids, IA",5,4,0,9,0,0,2,3,4,9,2013
+8797,"Buffalo, IA","Le Claire, IA",3,3,1,4,2,1,1,2,4,7,2013
+8751,"Buffalo, IA","Bennett, IA",1,6,0,1,4,2,2,1,4,7,2013
+8829,"Buffalo, IA","Robins, IA",1,5,1,3,0,4,3,2,2,7,2013
+8756,"Buffalo, IA","Burlington, IA",1,5,0,2,0,4,4,0,2,6,2013
+8828,"Buffalo, IA","Riverdale, IA",1,4,1,1,2,3,0,6,0,6,2013
+8836,"Buffalo, IA","Stockton, IA",1,0,4,2,3,0,2,1,2,5,2013
+8826,"Buffalo, IA","Princeton, IA",1,3,1,3,1,1,0,5,0,5,2013
+8770,"Buffalo, IA","Donnellson, IA",1,0,3,3,0,1,2,1,1,4,2013
+8804,"Buffalo, IA","Maquoketa, IA",0,2,2,2,0,2,1,0,3,4,2013
+8842,"Buffalo, IA","West Burlington, IA",1,3,0,2,1,1,2,0,2,4,2013
+8820,"Buffalo, IA","Ottumwa, IA",2,1,0,2,0,1,1,0,2,3,2013
+8790,"Buffalo, IA","Iowa City, IA",1,2,0,1,0,2,0,1,2,3,2013
+8771,"Buffalo, IA","Dubuque, IA",0,3,0,1,0,2,0,1,2,3,2013
+8800,"Buffalo, IA","Lost Nation, IA",1,1,1,1,1,1,0,0,3,3,2013
+8841,"Buffalo, IA","Washington, IA",2,1,0,2,1,0,0,2,1,3,2013
+8745,"Buffalo, IA","Andrew, IA",0,3,0,2,0,1,1,0,2,3,2013
+8844,"Buffalo, IA","Wheatland, IA",2,1,0,1,2,0,0,2,1,3,2013
+8785,"Buffalo, IA","Grinnell, IA",0,2,0,0,0,2,2,0,0,2,2013
+8783,"Buffalo, IA","Grandview, IA",1,1,0,0,0,2,0,2,0,2,2013
+8782,"Buffalo, IA","Grand Mound, IA",0,1,1,2,0,0,0,0,2,2,2013
+8830,"Buffalo, IA","Rockwell, IA",2,0,0,0,0,2,0,2,0,2,2013
+8794,"Buffalo, IA","Kalona, IA",1,1,0,1,1,0,0,0,2,2,2013
+8823,"Buffalo, IA","Pleasant Hill, IA",0,2,0,1,1,0,1,0,1,2,2013
+8822,"Buffalo, IA","Peosta, IA",0,0,2,2,0,0,0,0,2,2,2013
+8818,"Buffalo, IA","Nichols, IA",2,0,0,0,0,2,0,1,1,2,2013
+8780,"Buffalo, IA","Fort Madison, IA",0,1,1,1,0,1,0,0,2,2,2013
+8806,"Buffalo, IA","Martelle, IA",0,1,1,1,0,1,1,0,1,2,2013
+8807,"Buffalo, IA","Mason City, IA",0,2,0,0,0,2,0,2,0,2,2013
+8781,"Buffalo, IA","Franklin, IA",0,0,2,2,0,0,1,0,1,2,2013
+8808,"Buffalo, IA","McCausland, IA",1,0,1,1,0,1,0,2,0,2,2013
+8779,"Buffalo, IA","Floyd, IA",0,2,0,0,1,1,0,1,1,2,2013
+8757,"Buffalo, IA","Camanche, IA",0,2,0,2,0,0,0,0,2,2,2013
+8810,"Buffalo, IA","Mediapolis, IA",0,2,0,2,0,0,2,0,0,2,2013
+8742,"Buffalo, IA","Ames, IA",1,1,0,1,0,1,1,0,1,2,2013
+8747,"Buffalo, IA","Asbury, IA",0,2,0,0,2,0,0,0,2,2,2013
+8766,"Buffalo, IA","De Witt, IA",1,1,0,0,2,0,0,0,2,2,2013
+8748,"Buffalo, IA","Baldwin, IA",1,0,1,1,0,1,0,0,2,2,2013
+8762,"Buffalo, IA","Columbus Junction, IA",2,0,0,0,1,1,2,0,0,2,2013
+8843,"Buffalo, IA","West Liberty, IA",1,0,0,0,1,0,0,1,0,1,2013
+8811,"Buffalo, IA","Mitchellville, IA",0,1,0,0,1,0,1,0,0,1,2013
+8812,"Buffalo, IA","Montrose, IA",0,0,1,1,0,0,0,0,1,1,2013
+8813,"Buffalo, IA","Mount Vernon, IA",1,0,0,0,0,1,1,0,0,1,2013
+8839,"Buffalo, IA","Urbana, IA",0,0,1,1,0,0,0,0,1,1,2013
+8838,"Buffalo, IA","Tipton, IA",0,1,0,1,0,0,0,0,1,1,2013
+8815,"Buffalo, IA","New Liberty, IA",0,1,0,0,0,1,1,0,0,1,2013
+8817,"Buffalo, IA","New Vienna, IA",1,0,0,0,1,0,1,0,0,1,2013
+8816,"Buffalo, IA","New Sharon, IA",1,0,0,0,0,1,0,0,1,1,2013
+8827,"Buffalo, IA","Readlyn, IA",1,0,0,0,0,1,1,0,0,1,2013
+8837,"Buffalo, IA","Tama, IA",0,1,0,0,0,1,0,1,0,1,2013
+8819,"Buffalo, IA","Oelwein, IA",1,0,0,0,0,1,1,0,0,1,2013
+8835,"Buffalo, IA","Spring Hill, IA",0,1,0,0,1,0,1,0,0,1,2013
+8834,"Buffalo, IA","Sioux City, IA",0,0,1,0,0,1,0,1,0,1,2013
+8833,"Buffalo, IA","Seymour, IA",0,1,0,0,0,1,0,0,1,1,2013
+8832,"Buffalo, IA","Sageville, IA",0,1,0,0,1,0,1,0,0,1,2013
+8824,"Buffalo, IA","Pomeroy, IA",1,0,0,0,0,1,1,0,0,1,2013
+8831,"Buffalo, IA","Russell, IA",0,0,1,0,0,1,0,1,0,1,2013
+8825,"Buffalo, IA","Prairieburg, IA",0,0,1,0,0,1,0,0,1,1,2013
+8738,"Buffalo, IA","Alden, IA",0,1,0,0,0,1,0,0,1,1,2013
+8792,"Buffalo, IA","Jewell Junction, IA",1,0,0,1,0,0,0,0,1,1,2013
+8809,"Buffalo, IA","Mechanicsville, IA",0,1,0,0,0,1,0,0,1,1,2013
+8775,"Buffalo, IA","Ely, IA",1,0,0,0,1,0,1,0,0,1,2013
+8772,"Buffalo, IA","Durant, IA",0,0,1,0,0,1,0,1,0,1,2013
+8768,"Buffalo, IA","Delaware, IA",1,0,0,0,1,0,0,1,0,1,2013
+8767,"Buffalo, IA","Decorah, IA",1,0,0,1,0,0,1,0,0,1,2013
+8764,"Buffalo, IA","Council Bluffs, IA",1,0,0,0,0,1,0,0,1,1,2013
+8763,"Buffalo, IA","Conesville, IA",1,0,0,0,1,0,1,0,0,1,2013
+8760,"Buffalo, IA","Clarence, IA",0,0,1,1,0,0,0,0,1,1,2013
+8759,"Buffalo, IA","Central City, IA",1,0,0,1,0,0,0,0,1,1,2013
+8754,"Buffalo, IA","Brighton, IA",0,1,0,0,0,1,0,0,1,1,2013
+8750,"Buffalo, IA","Bellevue, IA",1,0,0,1,0,0,0,1,0,1,2013
+8749,"Buffalo, IA","Batavia, IA",0,1,0,1,0,0,0,0,1,1,2013
+8746,"Buffalo, IA","Ankeny, IA",0,1,0,0,1,0,0,0,1,1,2013
+8744,"Buffalo, IA","Andover, IA",0,1,0,0,1,0,0,0,1,1,2013
+8743,"Buffalo, IA","Anamosa, IA",1,0,0,0,0,1,1,0,0,1,2013
+8741,"Buffalo, IA","Altoona, IA",0,1,0,1,0,0,0,0,1,1,2013
+8740,"Buffalo, IA","Allison, IA",0,0,1,0,0,1,0,0,1,1,2013
+8773,"Buffalo, IA","Edgewood, IA",1,0,0,1,0,0,0,0,1,1,2013
+8776,"Buffalo, IA","Fairbank, IA",0,0,1,0,0,1,0,1,0,1,2013
+8805,"Buffalo, IA","Marble Rock, IA",0,1,0,0,1,0,0,0,1,1,2013
+8777,"Buffalo, IA","Fairfax, IA",1,0,0,1,0,0,0,1,0,1,2013
+8803,"Buffalo, IA","Manson, IA",0,1,0,0,0,1,0,0,1,1,2013
+8802,"Buffalo, IA","Manchester, IA",0,1,0,0,1,0,0,0,1,1,2013
+8801,"Buffalo, IA","Low Moor, IA",1,0,0,1,0,0,0,1,0,1,2013
+8798,"Buffalo, IA","Lone Tree, IA",1,0,0,0,0,1,0,1,0,1,2013
+8796,"Buffalo, IA","Lacona, IA",0,1,0,0,0,1,1,0,0,1,2013
+8795,"Buffalo, IA","Keota, IA",0,1,0,0,0,1,0,0,1,1,2013
+8793,"Buffalo, IA","Johnston, IA",0,1,0,1,0,0,0,1,0,1,2013
+8739,"Buffalo, IA","Algona, IA",0,1,0,0,0,1,0,1,0,1,2013
+8791,"Buffalo, IA","Jesup, IA",0,1,0,1,0,0,0,0,1,1,2013
+8789,"Buffalo, IA","Indianola, IA",0,1,0,1,0,0,0,0,1,1,2013
+8788,"Buffalo, IA","Houghton, IA",0,1,0,1,0,0,1,0,0,1,2013
+8787,"Buffalo, IA","Hiawatha, IA",0,1,0,1,0,0,0,0,1,1,2013
+8786,"Buffalo, IA","Grundy Center, IA",1,0,0,0,0,1,1,0,0,1,2013
+8784,"Buffalo, IA","Grant, IA",0,1,0,0,0,1,0,0,1,1,2013
+8778,"Buffalo, IA","Floris, IA",0,1,0,0,0,1,0,1,0,1,2013
+8846,"Buffalo, IA","Wyoming, IA",0,1,0,0,0,1,0,0,1,1,2013

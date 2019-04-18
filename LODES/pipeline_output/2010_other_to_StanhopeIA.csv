@@ -1,0 +1,165 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+68527,"Stanhope, IA","Ames, IA",37,82,16,74,36,25,28,54,53,135,2010
+68542,"Stanhope, IA","Boone, IA",30,68,19,50,39,28,28,52,37,117,2010
+68624,"Stanhope, IA","Ogden, IA",14,22,10,31,8,7,15,22,9,46,2010
+68660,"Stanhope, IA","Stanhope, IA",11,22,5,24,2,12,9,18,11,38,2010
+68609,"Stanhope, IA","Madrid, IA",3,19,6,16,5,7,3,16,9,28,2010
+68622,"Stanhope, IA","Nevada, IA",6,10,4,18,1,1,1,12,7,20,2010
+68664,"Stanhope, IA","Stratford, IA",4,6,3,9,2,2,5,6,2,13,2010
+68581,"Stanhope, IA","Fraser, IA",1,8,4,5,4,4,2,5,6,13,2010
+68567,"Stanhope, IA","Des Moines, IA",7,6,0,11,2,0,3,4,6,13,2010
+68663,"Stanhope, IA","Story City, IA",1,9,2,9,0,3,0,1,11,12,2010
+68558,"Stanhope, IA","Clive, IA",1,9,2,5,2,5,1,3,8,12,2010
+68559,"Stanhope, IA","Colo, IA",6,4,1,7,3,1,1,6,4,11,2010
+68599,"Stanhope, IA","Jefferson, IA",5,4,1,3,3,4,3,3,4,10,2010
+68596,"Stanhope, IA","Huxley, IA",3,6,1,7,2,1,2,5,3,10,2010
+68529,"Stanhope, IA","Ankeny, IA",3,5,1,3,5,1,3,1,5,9,2010
+68584,"Stanhope, IA","Gilbert, IA",2,6,0,7,0,1,1,2,5,8,2010
+68546,"Stanhope, IA","Cambridge, IA",5,2,0,6,0,1,0,2,5,7,2010
+68580,"Stanhope, IA","Fort Dodge, IA",4,2,0,3,1,2,2,4,0,6,2010
+68611,"Stanhope, IA","Marshalltown, IA",0,3,3,0,0,6,0,0,6,6,2010
+68548,"Stanhope, IA","Carroll, IA",5,1,0,3,0,3,3,0,3,6,2010
+68678,"Stanhope, IA","Webster City, IA",1,5,0,6,0,0,2,3,1,6,2010
+68677,"Stanhope, IA","Waukee, IA",2,2,1,4,1,0,1,0,4,5,2010
+68683,"Stanhope, IA","Windsor Heights, IA",5,0,0,2,3,0,3,0,2,5,2010
+68673,"Stanhope, IA","Urbandale, IA",4,1,0,1,4,0,4,0,1,5,2010
+68656,"Stanhope, IA","Sioux City, IA",3,2,0,0,3,2,3,0,2,5,2010
+68648,"Stanhope, IA","Roland, IA",2,2,0,3,1,0,0,3,1,4,2010
+68526,"Stanhope, IA","Altoona, IA",3,1,0,0,3,1,0,2,2,4,2010
+68679,"Stanhope, IA","West Des Moines, IA",2,2,0,2,1,1,0,1,3,4,2010
+68642,"Stanhope, IA","Rhodes, IA",1,3,0,2,1,1,1,3,0,4,2010
+68602,"Stanhope, IA","Kamrar, IA",0,4,0,4,0,0,2,1,1,4,2010
+68562,"Stanhope, IA","Creston, IA",0,2,1,1,0,2,0,0,3,3,2010
+68566,"Stanhope, IA","Denison, IA",1,1,1,2,1,0,0,3,0,3,2010
+68600,"Stanhope, IA","Jewell Junction, IA",0,2,1,3,0,0,0,2,1,3,2010
+68641,"Stanhope, IA","Renwick, IA",0,1,2,0,1,2,0,0,3,3,2010
+68685,"Stanhope, IA","Zearing, IA",1,2,0,2,1,0,0,2,1,3,2010
+68607,"Stanhope, IA","Liscomb, IA",1,2,0,2,0,1,1,2,0,3,2010
+68549,"Stanhope, IA","Casey, IA",2,1,0,1,0,2,0,0,3,3,2010
+68639,"Stanhope, IA","Randall, IA",1,2,0,2,0,1,0,3,0,3,2010
+68657,"Stanhope, IA","Slater, IA",0,2,1,0,3,0,1,1,1,3,2010
+68543,"Stanhope, IA","Boxholm, IA",0,1,2,2,0,1,0,2,1,3,2010
+68674,"Stanhope, IA","Van Meter, IA",2,0,1,2,0,1,0,0,3,3,2010
+68588,"Stanhope, IA","Granger, IA",0,3,0,0,2,1,1,0,2,3,2010
+68633,"Stanhope, IA","Perry, IA",1,1,1,1,0,2,0,1,2,3,2010
+68627,"Stanhope, IA","Otho, IA",1,1,1,2,0,1,0,3,0,3,2010
+68524,"Stanhope, IA","Alden, IA",0,1,2,2,1,0,1,1,1,3,2010
+68598,"Stanhope, IA","Iowa Falls, IA",1,1,1,2,0,1,0,1,2,3,2010
+68595,"Stanhope, IA","Hubbard, IA",1,0,1,0,0,2,1,0,1,2,2010
+68644,"Stanhope, IA","Rippey, IA",0,0,2,2,0,0,0,2,0,2,2010
+68589,"Stanhope, IA","Grimes, IA",1,1,0,0,1,1,2,0,0,2,2010
+68610,"Stanhope, IA","Manilla, IA",0,2,0,0,0,2,2,0,0,2,2010
+68601,"Stanhope, IA","Johnston, IA",1,1,0,0,1,1,1,0,1,2,2010
+68643,"Stanhope, IA","Richland, IA",1,1,0,0,1,1,0,0,2,2,2010
+68606,"Stanhope, IA","Lidderdale, IA",0,2,0,0,0,2,0,2,0,2,2010
+68612,"Stanhope, IA","Mason City, IA",0,2,0,0,0,2,0,1,1,2,2010
+68615,"Stanhope, IA","Missouri Valley, IA",0,2,0,1,0,1,0,1,1,2,2010
+68637,"Stanhope, IA","Pomeroy, IA",1,1,0,2,0,0,0,1,1,2,2010
+68636,"Stanhope, IA","Polk City, IA",0,2,0,1,0,1,0,1,1,2,2010
+68634,"Stanhope, IA","Pleasant Hill, IA",0,2,0,2,0,0,0,1,1,2,2010
+68621,"Stanhope, IA","Murray, IA",2,0,0,2,0,0,2,0,0,2,2010
+68632,"Stanhope, IA","Paullina, IA",0,1,1,0,0,2,0,0,2,2,2010
+68650,"Stanhope, IA","Sac City, IA",2,0,0,2,0,0,2,0,0,2,2010
+68628,"Stanhope, IA","Ottumwa, IA",1,1,0,0,1,1,1,0,1,2,2010
+68583,"Stanhope, IA","Garwin, IA",0,1,1,0,0,2,0,0,2,2,2010
+68539,"Stanhope, IA","Bayard, IA",2,0,0,2,0,0,0,0,2,2,2010
+68550,"Stanhope, IA","Cedar Falls, IA",2,0,0,0,2,0,2,0,0,2,2010
+68556,"Stanhope, IA","Clinton, IA",1,0,1,1,0,1,0,1,1,2,2010
+68557,"Stanhope, IA","Clio, IA",0,2,0,0,0,2,0,0,2,2,2010
+68560,"Stanhope, IA","Colwell, IA",0,2,0,2,0,0,0,2,0,2,2010
+68672,"Stanhope, IA","Urbana, IA",0,2,0,0,0,2,0,0,2,2,2010
+68540,"Stanhope, IA","Belmond, IA",1,0,1,1,0,1,2,0,0,2,2010
+68564,"Stanhope, IA","Dawson, IA",1,1,0,2,0,0,0,2,0,2,2010
+68665,"Stanhope, IA","Tama, IA",0,0,2,0,0,2,0,0,2,2,2010
+68570,"Stanhope, IA","Eagle Grove, IA",0,2,0,0,2,0,0,0,2,2,2010
+68552,"Stanhope, IA","Charles City, IA",1,0,1,0,2,0,1,0,1,2,2010
+68662,"Stanhope, IA","Storm Lake, IA",2,0,0,2,0,0,2,0,0,2,2010
+68675,"Stanhope, IA","Wall Lake, IA",1,1,0,1,0,1,1,1,0,2,2010
+68537,"Stanhope, IA","Audubon, IA",1,0,1,0,0,2,1,0,1,2,2010
+68682,"Stanhope, IA","Williams, IA",1,1,0,0,0,2,0,2,0,2,2010
+68551,"Stanhope, IA","Cedar Rapids, IA",0,2,0,1,0,1,0,2,0,2,2010
+68635,"Stanhope, IA","Pleasantville, IA",0,1,0,0,0,1,0,0,1,1,2010
+68676,"Stanhope, IA","Wapello, IA",1,0,0,0,0,1,0,0,1,1,2010
+68680,"Stanhope, IA","Westside, IA",0,1,0,1,0,0,0,1,0,1,2010
+68681,"Stanhope, IA","Willey, IA",1,0,0,0,0,1,1,0,0,1,2010
+68631,"Stanhope, IA","Panora, IA",1,0,0,1,0,0,0,0,1,1,2010
+68630,"Stanhope, IA","Palo, IA",0,1,0,0,0,1,0,1,0,1,2010
+68638,"Stanhope, IA","Promise City, IA",0,1,0,0,0,1,0,0,1,1,2010
+68671,"Stanhope, IA","University Park, IA",1,0,0,0,0,1,0,1,0,1,2010
+68684,"Stanhope, IA","Woodward, IA",0,0,1,0,0,1,1,0,0,1,2010
+68668,"Stanhope, IA","Traer, IA",0,1,0,0,0,1,0,0,1,1,2010
+68670,"Stanhope, IA","University Heights, IA",1,0,0,0,1,0,1,0,0,1,2010
+68640,"Stanhope, IA","Redding, IA",1,0,0,0,0,1,0,1,0,1,2010
+68651,"Stanhope, IA","Schaller, IA",0,1,0,0,0,1,0,0,1,1,2010
+68653,"Stanhope, IA","Shannon City, IA",0,1,0,0,0,1,0,1,0,1,2010
+68654,"Stanhope, IA","Shelby, IA",0,1,0,0,0,1,0,0,1,1,2010
+68655,"Stanhope, IA","Sibley, IA",1,0,0,1,0,0,1,0,0,1,2010
+68649,"Stanhope, IA","Ryan, IA",0,1,0,0,0,1,0,0,1,1,2010
+68629,"Stanhope, IA","Owasa, IA",0,0,1,1,0,0,0,1,0,1,2010
+68647,"Stanhope, IA","Rockwell City, IA",0,0,1,1,0,0,0,1,0,1,2010
+68646,"Stanhope, IA","Rock Rapids, IA",0,0,1,0,0,1,0,0,1,1,2010
+68645,"Stanhope, IA","Robins, IA",0,0,1,0,0,1,0,0,1,1,2010
+68659,"Stanhope, IA","Spring Hill, IA",1,0,0,1,0,0,0,0,1,1,2010
+68661,"Stanhope, IA","State Center, IA",0,1,0,1,0,0,0,1,0,1,2010
+68666,"Stanhope, IA","Tiffin, IA",1,0,0,0,1,0,1,0,0,1,2010
+68667,"Stanhope, IA","Toledo, IA",0,1,0,0,1,0,0,0,1,1,2010
+68652,"Stanhope, IA","Schleswig, IA",0,1,0,0,1,0,0,0,1,1,2010
+68669,"Stanhope, IA","Truesdale, IA",0,1,0,0,0,1,0,1,0,1,2010
+68658,"Stanhope, IA","Soldier, IA",0,1,0,0,0,1,0,0,1,1,2010
+68522,"Stanhope, IA","Albia, IA",0,1,0,0,1,0,0,1,0,1,2010
+68626,"Stanhope, IA","Osceola, IA",0,1,0,1,0,0,0,0,1,1,2010
+68625,"Stanhope, IA","Osage, IA",1,0,0,1,0,0,0,0,1,1,2010
+68573,"Stanhope, IA","Emmetsburg, IA",1,0,0,0,1,0,0,1,0,1,2010
+68572,"Stanhope, IA","Ellsworth, IA",0,1,0,1,0,0,0,1,0,1,2010
+68571,"Stanhope, IA","Elkader, IA",0,1,0,1,0,0,0,1,0,1,2010
+68569,"Stanhope, IA","Dubuque, IA",0,1,0,0,0,1,0,0,1,1,2010
+68568,"Stanhope, IA","Dexter, IA",0,1,0,0,0,1,0,0,1,1,2010
+68565,"Stanhope, IA","De Soto, IA",1,0,0,1,0,0,1,0,0,1,2010
+68563,"Stanhope, IA","Danbury, IA",0,1,0,1,0,0,0,1,0,1,2010
+68561,"Stanhope, IA","Corwith, IA",0,1,0,1,0,0,0,1,0,1,2010
+68555,"Stanhope, IA","Clear Lake, IA",0,1,0,0,0,1,0,0,1,1,2010
+68554,"Stanhope, IA","Clarion, IA",0,0,1,0,1,0,1,0,0,1,2010
+68553,"Stanhope, IA","Churdan, IA",0,1,0,0,0,1,0,1,0,1,2010
+68547,"Stanhope, IA","Carlisle, IA",1,0,0,0,1,0,1,0,0,1,2010
+68545,"Stanhope, IA","Burlington, IA",0,1,0,0,1,0,0,0,1,1,2010
+68544,"Stanhope, IA","Buffalo Center, IA",1,0,0,1,0,0,0,0,1,1,2010
+68541,"Stanhope, IA","Blue Grass, IA",0,1,0,0,1,0,0,0,1,1,2010
+68538,"Stanhope, IA","Bagley, IA",0,0,1,0,0,1,0,0,1,1,2010
+68536,"Stanhope, IA","Atlantic, IA",0,1,0,1,0,0,0,0,1,1,2010
+68535,"Stanhope, IA","Ashton, IA",0,1,0,0,0,1,0,1,0,1,2010
+68534,"Stanhope, IA","Asbury, IA",1,0,0,0,0,1,0,0,1,1,2010
+68533,"Stanhope, IA","Arthur, IA",0,1,0,1,0,0,0,0,1,1,2010
+68532,"Stanhope, IA","Arnolds Park, IA",0,1,0,0,0,1,0,0,1,1,2010
+68531,"Stanhope, IA","Armstrong, IA",1,0,0,1,0,0,1,0,0,1,2010
+68530,"Stanhope, IA","Arcadia, IA",0,1,0,0,0,1,0,1,0,1,2010
+68528,"Stanhope, IA","Anita, IA",1,0,0,1,0,0,0,1,0,1,2010
+68525,"Stanhope, IA","Algona, IA",0,1,0,0,0,1,0,0,1,1,2010
+68574,"Stanhope, IA","Epworth, IA",0,1,0,0,0,1,0,0,1,1,2010
+68575,"Stanhope, IA","Estherville, IA",0,1,0,0,0,1,0,0,1,1,2010
+68576,"Stanhope, IA","Evansdale, IA",1,0,0,0,0,1,0,0,1,1,2010
+68603,"Stanhope, IA","Lacona, IA",0,1,0,1,0,0,0,0,1,1,2010
+68623,"Stanhope, IA","Norwalk, IA",1,0,0,0,1,0,0,1,0,1,2010
+68620,"Stanhope, IA","Mount Ayr, IA",1,0,0,0,1,0,1,0,0,1,2010
+68619,"Stanhope, IA","Moravia, IA",1,0,0,0,0,1,0,0,1,1,2010
+68618,"Stanhope, IA","Moorhead, IA",0,1,0,0,0,1,0,0,1,1,2010
+68617,"Stanhope, IA","Montrose, IA",1,0,0,0,1,0,1,0,0,1,2010
+68616,"Stanhope, IA","Mitchellville, IA",1,0,0,1,0,0,0,0,1,1,2010
+68614,"Stanhope, IA","Minburn, IA",1,0,0,0,0,1,0,1,0,1,2010
+68613,"Stanhope, IA","Milford, IA",0,0,1,1,0,0,0,1,0,1,2010
+68608,"Stanhope, IA","Luther, IA",0,1,0,1,0,0,0,1,0,1,2010
+68605,"Stanhope, IA","Lamoni, IA",0,0,1,1,0,0,1,0,0,1,2010
+68523,"Stanhope, IA","Albion, IA",0,1,0,0,0,1,0,0,1,1,2010
+68597,"Stanhope, IA","Indianola, IA",0,0,1,1,0,0,0,0,1,1,2010
+68577,"Stanhope, IA","Fairfield, IA",1,0,0,0,0,1,0,0,1,1,2010
+68594,"Stanhope, IA","Hiawatha, IA",0,1,0,1,0,0,0,1,0,1,2010
+68593,"Stanhope, IA","Hawarden, IA",0,1,0,0,0,1,0,0,1,1,2010
+68592,"Stanhope, IA","Hanlontown, IA",1,0,0,0,1,0,1,0,0,1,2010
+68591,"Stanhope, IA","Guthrie Center, IA",0,1,0,0,1,0,0,0,1,1,2010
+68590,"Stanhope, IA","Grinnell, IA",0,0,1,0,0,1,0,0,1,1,2010
+68587,"Stanhope, IA","Grand River, IA",1,0,0,0,1,0,1,0,0,1,2010
+68586,"Stanhope, IA","Grand Junction, IA",0,1,0,0,0,1,0,0,1,1,2010
+68585,"Stanhope, IA","Gilman, IA",0,0,1,0,0,1,0,0,1,1,2010
+68582,"Stanhope, IA","Fremont, IA",1,0,0,0,0,1,0,0,1,1,2010
+68579,"Stanhope, IA","Ferguson, IA",1,0,0,0,0,1,1,0,0,1,2010
+68578,"Stanhope, IA","Farnhamville, IA",0,1,0,0,0,1,0,0,1,1,2010
+68604,"Stanhope, IA","Lambs Grove, IA",0,1,0,0,0,1,0,0,1,1,2010

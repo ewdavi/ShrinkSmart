@@ -1,0 +1,362 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+35378,"Iowa Falls, IA","Iowa Falls, IA",225,627,341,204,794,195,393,453,347,1193,2013
+35468,"Iowa Falls, IA","Owasa, IA",63,150,84,68,184,45,87,131,79,297,2013
+35219,"Iowa Falls, IA","Alden, IA",35,70,31,38,72,26,42,59,35,136,2013
+35361,"Iowa Falls, IA","Hampton, IA",27,43,41,23,70,18,34,46,31,111,2013
+35213,"Iowa Falls, IA","Ackley, IA",19,56,33,22,68,18,24,50,34,108,2013
+35502,"Iowa Falls, IA","Roland, IA",21,50,17,22,52,14,29,37,22,88,2013
+35423,"Iowa Falls, IA","Marshalltown, IA",15,33,18,2,50,14,36,18,12,66,2013
+35425,"Iowa Falls, IA","Mason City, IA",12,31,12,9,22,24,14,29,12,55,2013
+35317,"Iowa Falls, IA","Eldora, IA",15,27,12,12,30,12,16,23,15,54,2013
+35512,"Iowa Falls, IA","Sheffield, IA",6,29,10,10,24,11,8,26,11,45,2013
+35225,"Iowa Falls, IA","Ames, IA",9,18,14,1,16,24,11,13,17,41,2013
+35338,"Iowa Falls, IA","Fort Dodge, IA",8,17,9,8,11,15,5,19,10,34,2013
+35527,"Iowa Falls, IA","Steamboat Rock, IA",7,23,4,13,16,5,5,17,12,34,2013
+35288,"Iowa Falls, IA","Coulter, IA",6,13,9,6,16,6,8,13,7,28,2013
+35471,"Iowa Falls, IA","Parkersburg, IA",8,11,8,2,19,6,5,12,10,27,2013
+35411,"Iowa Falls, IA","Liscomb, IA",5,15,6,10,12,4,6,9,11,26,2013
+35371,"Iowa Falls, IA","Hubbard, IA",7,16,1,3,16,5,4,12,8,24,2013
+35229,"Iowa Falls, IA","Aredale, IA",6,13,5,3,16,5,5,9,10,24,2013
+35566,"Iowa Falls, IA","Williams, IA",8,11,4,4,14,5,4,12,7,23,2013
+35562,"Iowa Falls, IA","Wellsburg, IA",5,8,8,1,13,7,8,8,5,21,2013
+35561,"Iowa Falls, IA","Webster City, IA",6,10,5,2,15,4,10,7,4,21,2013
+35252,"Iowa Falls, IA","Bristow, IA",2,11,8,4,9,8,3,8,10,21,2013
+35346,"Iowa Falls, IA","Geneva, IA",4,14,2,1,15,4,7,6,7,20,2013
+35305,"Iowa Falls, IA","Des Moines, IA",7,9,4,2,8,10,9,6,5,20,2013
+35265,"Iowa Falls, IA","Cedar Falls, IA",8,9,2,0,9,10,6,7,6,19,2013
+35481,"Iowa Falls, IA","Popejoy, IA",0,13,5,5,11,2,4,11,3,18,2013
+35266,"Iowa Falls, IA","Cedar Rapids, IA",6,11,0,3,6,8,4,9,4,17,2013
+35356,"Iowa Falls, IA","Grinnell, IA",5,3,8,1,11,4,9,5,2,16,2013
+35300,"Iowa Falls, IA","Decorah, IA",5,6,4,2,5,8,8,4,3,15,2013
+35565,"Iowa Falls, IA","Whitten, IA",5,7,2,2,10,2,5,5,4,14,2013
+35557,"Iowa Falls, IA","Waukee, IA",2,7,4,0,6,7,5,5,3,13,2013
+35311,"Iowa Falls, IA","Duncombe, IA",5,5,3,2,8,3,3,7,3,13,2013
+35227,"Iowa Falls, IA","Ankeny, IA",4,5,4,2,5,6,6,2,5,13,2013
+35382,"Iowa Falls, IA","Jewell Junction, IA",3,7,2,4,7,1,6,4,2,12,2013
+35319,"Iowa Falls, IA","Ellsworth, IA",5,5,2,3,5,4,3,5,4,12,2013
+35543,"Iowa Falls, IA","Union, IA",2,9,1,4,4,4,3,5,4,12,2013
+35440,"Iowa Falls, IA","Morrison, IA",5,5,1,3,5,3,3,4,4,11,2013
+35375,"Iowa Falls, IA","Indianola, IA",4,3,4,0,7,4,6,4,1,11,2013
+35275,"Iowa Falls, IA","Clear Lake, IA",2,8,1,0,5,6,1,4,6,11,2013
+35556,"Iowa Falls, IA","Waterloo, IA",5,5,1,2,1,8,6,4,1,11,2013
+35559,"Iowa Falls, IA","Waverly, IA",3,3,4,1,3,6,4,4,2,10,2013
+35467,"Iowa Falls, IA","Ottumwa, IA",2,6,2,5,4,1,2,2,6,10,2013
+35457,"Iowa Falls, IA","Oelwein, IA",3,5,2,2,7,1,3,6,1,10,2013
+35518,"Iowa Falls, IA","Sioux City, IA",1,6,3,1,1,8,0,2,8,10,2013
+35244,"Iowa Falls, IA","Belmond, IA",0,8,1,1,7,1,1,6,2,9,2013
+35304,"Iowa Falls, IA","Denver, IA",4,4,1,2,5,2,4,4,1,9,2013
+35545,"Iowa Falls, IA","University Park, IA",3,4,2,3,3,3,3,2,4,9,2013
+35296,"Iowa Falls, IA","Davenport, IA",2,5,2,7,1,1,3,4,2,9,2013
+35278,"Iowa Falls, IA","Clive, IA",2,5,2,0,5,4,3,1,5,9,2013
+35241,"Iowa Falls, IA","Beaman, IA",2,4,3,1,7,1,4,3,2,9,2013
+35271,"Iowa Falls, IA","Charles City, IA",5,1,2,0,5,3,2,6,0,8,2013
+35383,"Iowa Falls, IA","Johnston, IA",3,3,2,1,3,4,4,1,3,8,2013
+35451,"Iowa Falls, IA","Newton, IA",2,5,1,2,3,3,2,3,3,8,2013
+35250,"Iowa Falls, IA","Boone, IA",6,1,1,1,4,3,1,5,2,8,2013
+35377,"Iowa Falls, IA","Iowa City, IA",1,5,2,0,3,5,5,3,0,8,2013
+35462,"Iowa Falls, IA","Osage, IA",2,5,1,0,7,1,0,8,0,8,2013
+35295,"Iowa Falls, IA","Dakota City, IA",2,4,2,0,2,6,2,3,3,8,2013
+35291,"Iowa Falls, IA","Cresco, IA",5,2,0,2,1,4,4,2,1,7,2013
+35401,"Iowa Falls, IA","Le Mars, IA",4,1,2,0,2,5,3,2,2,7,2013
+35310,"Iowa Falls, IA","Dubuque, IA",2,3,2,1,2,4,4,1,2,7,2013
+35309,"Iowa Falls, IA","Dougherty, IA",0,5,2,2,5,0,4,2,1,7,2013
+35283,"Iowa Falls, IA","Conrad, IA",4,2,1,2,5,0,3,3,1,7,2013
+35416,"Iowa Falls, IA","Madrid, IA",0,2,5,0,3,4,0,1,6,7,2013
+35327,"Iowa Falls, IA","Fairfield, IA",1,6,0,2,5,0,2,1,4,7,2013
+35499,"Iowa Falls, IA","Rockford, IA",2,4,1,4,3,0,2,2,3,7,2013
+35218,"Iowa Falls, IA","Albion, IA",0,2,5,1,3,3,2,2,3,7,2013
+35539,"Iowa Falls, IA","Toledo, IA",2,2,3,1,4,2,2,3,2,7,2013
+35247,"Iowa Falls, IA","Bettendorf, IA",1,6,0,4,2,1,2,1,4,7,2013
+35476,"Iowa Falls, IA","Pleasant Hill, IA",3,3,1,0,2,5,1,2,4,7,2013
+35568,"Iowa Falls, IA","Windsor Heights, IA",1,5,1,1,5,1,2,1,4,7,2013
+35563,"Iowa Falls, IA","West Des Moines, IA",1,3,3,1,1,5,4,2,1,7,2013
+35465,"Iowa Falls, IA","Otho, IA",3,3,1,2,2,3,4,2,1,7,2013
+35412,"Iowa Falls, IA","Livermore, IA",2,4,1,0,4,3,5,2,0,7,2013
+35446,"Iowa Falls, IA","Nashua, IA",4,3,0,0,1,6,1,3,3,7,2013
+35448,"Iowa Falls, IA","New Hampton, IA",3,3,0,1,2,3,2,2,2,6,2013
+35370,"Iowa Falls, IA","Hiawatha, IA",4,2,0,2,2,2,2,1,3,6,2013
+35514,"Iowa Falls, IA","Shell Rock, IA",1,1,4,1,2,3,0,5,1,6,2013
+35282,"Iowa Falls, IA","Colwell, IA",2,3,1,0,5,1,1,4,1,6,2013
+35564,"Iowa Falls, IA","Whittemore, IA",2,3,1,1,4,1,1,3,2,6,2013
+35274,"Iowa Falls, IA","Clarion, IA",0,4,2,1,5,0,0,5,1,6,2013
+35449,"Iowa Falls, IA","New Hartford, IA",2,3,1,1,2,3,1,5,0,6,2013
+35345,"Iowa Falls, IA","Garwin, IA",2,4,0,1,4,1,3,2,1,6,2013
+35381,"Iowa Falls, IA","Jesup, IA",3,1,2,0,5,1,5,0,1,6,2013
+35332,"Iowa Falls, IA","Ferguson, IA",2,2,1,0,4,1,1,4,0,5,2013
+35390,"Iowa Falls, IA","Klemme, IA",0,4,1,0,3,2,1,3,1,5,2013
+35312,"Iowa Falls, IA","Eagle Grove, IA",2,3,0,0,1,4,2,2,1,5,2013
+35533,"Iowa Falls, IA","Tama, IA",2,1,2,0,5,0,3,2,0,5,2013
+35372,"Iowa Falls, IA","Humboldt, IA",2,2,1,1,0,4,2,1,2,5,2013
+35526,"Iowa Falls, IA","State Center, IA",1,2,2,2,3,0,1,2,2,5,2013
+35336,"Iowa Falls, IA","Forest City, IA",2,2,1,4,1,0,1,3,1,5,2013
+35525,"Iowa Falls, IA","Stacyville, IA",1,3,1,1,4,0,0,4,1,5,2013
+35403,"Iowa Falls, IA","Lehigh, IA",2,3,0,1,2,2,2,3,0,5,2013
+35334,"Iowa Falls, IA","Floyd, IA",3,1,1,1,2,2,0,3,2,5,2013
+35374,"Iowa Falls, IA","Independence, IA",3,1,1,0,3,2,2,1,2,5,2013
+35427,"Iowa Falls, IA","McIntire, IA",1,3,1,1,4,0,0,3,2,5,2013
+35431,"Iowa Falls, IA","Merrill, IA",0,0,5,1,2,2,1,3,1,5,2013
+35224,"Iowa Falls, IA","Altoona, IA",2,3,0,0,5,0,2,1,2,5,2013
+35261,"Iowa Falls, IA","Carlisle, IA",2,2,1,1,3,1,2,0,3,5,2013
+35439,"Iowa Falls, IA","Moravia, IA",1,4,0,0,4,1,2,3,0,5,2013
+35500,"Iowa Falls, IA","Rockwell City, IA",0,3,2,0,4,1,0,5,0,5,2013
+35470,"Iowa Falls, IA","Palo, IA",1,4,0,1,1,3,1,1,3,5,2013
+35491,"Iowa Falls, IA","Renwick, IA",1,4,0,1,4,0,0,5,0,5,2013
+35547,"Iowa Falls, IA","Urbandale, IA",1,3,1,1,2,2,2,1,2,5,2013
+35507,"Iowa Falls, IA","Sanborn, IA",2,0,3,0,2,3,2,3,0,5,2013
+35472,"Iowa Falls, IA","Pella, IA",2,2,0,0,2,2,3,0,1,4,2013
+35455,"Iowa Falls, IA","Norwalk, IA",0,1,3,0,2,2,2,2,0,4,2013
+35221,"Iowa Falls, IA","Allison, IA",2,1,1,2,1,1,1,2,1,4,2013
+35357,"Iowa Falls, IA","Grundy Center, IA",1,3,0,1,2,1,1,0,3,4,2013
+35260,"Iowa Falls, IA","Cambridge, IA",2,1,1,1,2,1,1,1,2,4,2013
+35454,"Iowa Falls, IA","Northwood, IA",3,1,0,1,2,1,2,2,0,4,2013
+35536,"Iowa Falls, IA","Tiffin, IA",2,1,1,1,0,3,3,0,1,4,2013
+35555,"Iowa Falls, IA","Washington, IA",0,3,1,0,2,2,2,1,1,4,2013
+35379,"Iowa Falls, IA","Janesville, IA",3,1,0,0,3,1,2,2,0,4,2013
+35231,"Iowa Falls, IA","Asbury, IA",2,0,2,0,1,3,3,1,0,4,2013
+35344,"Iowa Falls, IA","Garner, IA",1,3,0,1,0,3,0,1,3,4,2013
+35270,"Iowa Falls, IA","Chariton, IA",2,2,0,1,2,1,1,3,0,4,2013
+35246,"Iowa Falls, IA","Bertram, IA",2,2,0,0,1,3,0,3,1,4,2013
+35350,"Iowa Falls, IA","Goldfield, IA",2,1,1,0,2,2,3,1,0,4,2013
+35450,"Iowa Falls, IA","New Sharon, IA",1,3,0,0,4,0,3,0,1,4,2013
+35452,"Iowa Falls, IA","Nora Springs, IA",1,3,0,3,0,1,1,1,2,4,2013
+35420,"Iowa Falls, IA","Marengo, IA",2,1,1,0,1,3,3,1,0,4,2013
+35538,"Iowa Falls, IA","Titonka, IA",0,1,3,0,2,2,2,0,2,4,2013
+35286,"Iowa Falls, IA","Corwith, IA",0,3,1,0,4,0,1,3,0,4,2013
+35496,"Iowa Falls, IA","Robins, IA",0,4,0,2,1,1,1,1,2,4,2013
+35419,"Iowa Falls, IA","Marble Rock, IA",1,1,2,0,1,3,1,3,0,4,2013
+35549,"Iowa Falls, IA","Vinton, IA",2,1,1,0,3,1,4,0,0,4,2013
+35326,"Iowa Falls, IA","Fairbank, IA",1,2,1,0,3,1,3,1,0,4,2013
+35391,"Iowa Falls, IA","Knoxville, IA",1,2,1,0,3,1,1,2,1,4,2013
+35289,"Iowa Falls, IA","Council Bluffs, IA",2,2,0,0,2,2,2,1,1,4,2013
+35323,"Iowa Falls, IA","Evansdale, IA",2,2,0,0,1,3,1,2,1,4,2013
+35397,"Iowa Falls, IA","Larrabee, IA",1,3,0,1,2,1,1,2,1,4,2013
+35400,"Iowa Falls, IA","Le Grand, IA",0,2,2,0,2,2,0,3,1,4,2013
+35486,"Iowa Falls, IA","Readlyn, IA",1,2,1,1,2,1,1,2,1,4,2013
+35402,"Iowa Falls, IA","Le Roy, IA",2,1,0,0,3,0,1,1,1,3,2013
+35519,"Iowa Falls, IA","Spencer, IA",1,2,0,0,0,3,3,0,0,3,2013
+35523,"Iowa Falls, IA","St. Marys, IA",0,2,1,0,3,0,1,0,2,3,2013
+35474,"Iowa Falls, IA","Plainfield, IA",0,1,2,0,2,1,2,1,0,3,2013
+35487,"Iowa Falls, IA","Reasnor, IA",1,1,1,0,2,1,1,1,1,3,2013
+35373,"Iowa Falls, IA","Ida Grove, IA",1,1,1,0,2,1,1,0,2,3,2013
+35460,"Iowa Falls, IA","Orange City, IA",0,1,2,1,1,1,0,1,2,3,2013
+35480,"Iowa Falls, IA","Pomeroy, IA",1,1,1,0,1,2,3,0,0,3,2013
+35501,"Iowa Falls, IA","Rockwell, IA",2,0,1,2,1,0,0,3,0,3,2013
+35376,"Iowa Falls, IA","Inwood, IA",1,2,0,1,0,2,1,1,1,3,2013
+35459,"Iowa Falls, IA","Onawa, IA",0,2,1,0,1,2,0,2,1,3,2013
+35492,"Iowa Falls, IA","Rhodes, IA",0,2,1,0,3,0,2,1,0,3,2013
+35395,"Iowa Falls, IA","Lambs Grove, IA",1,2,0,1,1,1,1,2,0,3,2013
+35437,"Iowa Falls, IA","Montour, IA",1,1,1,1,2,0,2,0,1,3,2013
+35418,"Iowa Falls, IA","Manson, IA",1,1,1,1,2,0,0,2,1,3,2013
+35410,"Iowa Falls, IA","Linden, IA",1,0,2,1,1,1,0,3,0,3,2013
+35530,"Iowa Falls, IA","Stratford, IA",0,3,0,0,3,0,0,2,1,3,2013
+35303,"Iowa Falls, IA","Denison, IA",0,3,0,0,1,2,0,2,1,3,2013
+35531,"Iowa Falls, IA","Sumner, IA",2,1,0,1,2,0,2,1,0,3,2013
+35264,"Iowa Falls, IA","Castalia, IA",0,2,1,0,0,3,1,0,2,3,2013
+35263,"Iowa Falls, IA","Casey, IA",1,2,0,0,2,1,0,3,0,3,2013
+35262,"Iowa Falls, IA","Carroll, IA",2,1,0,0,1,2,1,0,2,3,2013
+35257,"Iowa Falls, IA","Burlington, IA",0,3,0,0,0,3,0,1,2,3,2013
+35550,"Iowa Falls, IA","Wadena, IA",0,2,1,1,1,1,0,1,2,3,2013
+35253,"Iowa Falls, IA","Britt, IA",1,2,0,0,2,1,2,0,1,3,2013
+35284,"Iowa Falls, IA","Coralville, IA",2,1,0,1,1,1,1,1,1,3,2013
+35535,"Iowa Falls, IA","Thornton, IA",0,1,2,0,1,2,1,1,1,3,2013
+35243,"Iowa Falls, IA","Belle Plaine, IA",2,1,0,0,1,2,1,1,1,3,2013
+35287,"Iowa Falls, IA","Corydon, IA",0,2,1,0,2,1,1,1,1,3,2013
+35306,"Iowa Falls, IA","Diagonal, IA",1,2,0,2,0,1,0,1,2,3,2013
+35567,"Iowa Falls, IA","Wilton, IA",3,0,0,0,1,2,1,2,0,3,2013
+35220,"Iowa Falls, IA","Algona, IA",1,2,0,2,0,1,0,1,2,3,2013
+35297,"Iowa Falls, IA","Dayton, IA",0,3,0,0,3,0,0,3,0,3,2013
+35570,"Iowa Falls, IA","Woden, IA",0,3,0,1,1,1,1,1,1,3,2013
+35267,"Iowa Falls, IA","Center Point, IA",1,1,1,0,1,2,0,2,1,3,2013
+35293,"Iowa Falls, IA","Crystal Lake, IA",1,1,1,0,1,2,1,2,0,3,2013
+35422,"Iowa Falls, IA","Marquette, IA",0,2,0,1,0,1,0,1,1,2,2013
+35433,"Iowa Falls, IA","Minburn, IA",0,2,0,0,1,1,0,1,1,2,2013
+35285,"Iowa Falls, IA","Corning, IA",0,1,1,0,2,0,1,0,1,2,2013
+35281,"Iowa Falls, IA","Colfax, IA",0,2,0,1,1,0,0,0,2,2,2013
+35429,"Iowa Falls, IA","Melbourne, IA",0,2,0,0,1,1,1,1,0,2,2013
+35268,"Iowa Falls, IA","Centerville, IA",2,0,0,1,1,0,1,1,0,2,2013
+35498,"Iowa Falls, IA","Rock Valley, IA",0,1,1,0,1,1,1,1,0,2,2013
+35364,"Iowa Falls, IA","Harlan, IA",1,0,1,0,1,1,1,0,1,2,2013
+35276,"Iowa Falls, IA","Clinton, IA",0,2,0,1,0,1,0,2,0,2,2013
+35494,"Iowa Falls, IA","Ridgeway, IA",2,0,0,0,1,1,1,1,0,2,2013
+35445,"Iowa Falls, IA","Muscatine, IA",1,0,1,0,2,0,1,1,0,2,2013
+35298,"Iowa Falls, IA","De Soto, IA",1,0,1,1,0,1,0,0,2,2,2013
+35301,"Iowa Falls, IA","Dedham, IA",1,1,0,0,0,2,1,0,1,2,2013
+35548,"Iowa Falls, IA","Victor, IA",0,2,0,1,0,1,0,0,2,2,2013
+35363,"Iowa Falls, IA","Hardy, IA",1,1,0,0,1,1,2,0,0,2,2013
+35453,"Iowa Falls, IA","North Liberty, IA",1,0,1,0,0,2,1,1,0,2,2013
+35417,"Iowa Falls, IA","Manly, IA",1,0,1,0,1,1,1,1,0,2,2013
+35216,"Iowa Falls, IA","Afton, IA",0,2,0,0,2,0,0,0,2,2,2013
+35571,"Iowa Falls, IA","Woodward, IA",0,1,1,0,1,1,1,0,1,2,2013
+35477,"Iowa Falls, IA","Pleasant Plain, IA",0,2,0,0,0,2,0,0,2,2,2013
+35473,"Iowa Falls, IA","Perry, IA",2,0,0,0,2,0,2,0,0,2,2013
+35232,"Iowa Falls, IA","Atkins, IA",1,0,1,0,1,1,1,1,0,2,2013
+35234,"Iowa Falls, IA","Aurelia, IA",0,1,1,0,0,2,1,1,0,2,2013
+35489,"Iowa Falls, IA","Redding, IA",0,1,1,1,1,0,1,1,0,2,2013
+35239,"Iowa Falls, IA","Batavia, IA",0,2,0,1,1,0,0,2,0,2,2013
+35490,"Iowa Falls, IA","Reinbeck, IA",0,2,0,0,2,0,1,1,0,2,2013
+35464,"Iowa Falls, IA","Oskaloosa, IA",0,1,1,0,1,1,0,2,0,2,2013
+35463,"Iowa Falls, IA","Osceola, IA",1,1,0,0,2,0,0,2,0,2,2013
+35558,"Iowa Falls, IA","Waukon, IA",0,0,2,0,2,0,0,2,0,2,2013
+35461,"Iowa Falls, IA","Orient, IA",1,1,0,1,0,1,0,0,2,2,2013
+35249,"Iowa Falls, IA","Blue Grass, IA",0,2,0,1,0,1,1,1,0,2,2013
+35254,"Iowa Falls, IA","Brooklyn, IA",0,1,1,0,1,1,1,1,0,2,2013
+35255,"Iowa Falls, IA","Buffalo Center, IA",1,0,1,0,1,1,0,2,0,2,2013
+35258,"Iowa Falls, IA","Bussey, IA",1,0,1,0,0,2,1,1,0,2,2013
+35259,"Iowa Falls, IA","Callender, IA",1,1,0,0,0,2,0,2,0,2,2013
+35546,"Iowa Falls, IA","Urbana, IA",0,0,2,1,1,0,1,0,1,2,2013
+35394,"Iowa Falls, IA","Lake Mills, IA",0,2,0,0,0,2,0,1,1,2,2013
+35508,"Iowa Falls, IA","Schaller, IA",0,2,0,0,2,0,0,2,0,2,2013
+35354,"Iowa Falls, IA","Greene, IA",0,2,0,1,1,0,0,0,2,2,2013
+35353,"Iowa Falls, IA","Gravity, IA",1,1,0,1,1,0,0,2,0,2,2013
+35321,"Iowa Falls, IA","Ely, IA",0,1,1,0,0,2,1,1,0,2,2013
+35540,"Iowa Falls, IA","Traer, IA",0,2,0,0,1,1,2,0,0,2,2013
+35528,"Iowa Falls, IA","Storm Lake, IA",0,1,1,0,1,1,0,0,2,2,2013
+35529,"Iowa Falls, IA","Story City, IA",0,2,0,0,0,2,0,1,1,2,2013
+35396,"Iowa Falls, IA","Lamoni, IA",0,1,1,0,2,0,1,1,0,2,2013
+35324,"Iowa Falls, IA","Exira, IA",1,1,0,1,0,1,1,1,0,2,2013
+35325,"Iowa Falls, IA","Exline, IA",1,1,0,0,0,2,1,1,0,2,2013
+35513,"Iowa Falls, IA","Sheldon, IA",0,1,1,0,2,0,1,0,1,2,2013
+35329,"Iowa Falls, IA","Farmington, IA",1,1,0,0,1,1,0,1,1,2,2013
+35517,"Iowa Falls, IA","Sigourney, IA",0,1,1,1,1,0,0,1,1,2,2013
+35388,"Iowa Falls, IA","Keosauqua, IA",1,1,0,0,2,0,1,1,0,2,2013
+35330,"Iowa Falls, IA","Farnhamville, IA",1,1,0,0,1,1,1,1,0,2,2013
+35333,"Iowa Falls, IA","Floris, IA",1,1,0,0,1,1,1,0,1,2,2013
+35385,"Iowa Falls, IA","Kamrar, IA",2,0,0,0,1,1,2,0,0,2,2013
+35384,"Iowa Falls, IA","Joice, IA",1,0,1,0,1,1,1,1,0,2,2013
+35335,"Iowa Falls, IA","Fonda, IA",0,2,0,0,2,0,0,2,0,2,2013
+35359,"Iowa Falls, IA","Guthrie Center, IA",1,0,1,0,2,0,1,1,0,2,2013
+35360,"Iowa Falls, IA","Hamburg, IA",0,1,1,0,0,2,0,2,0,2,2013
+35406,"Iowa Falls, IA","Lewis, IA",0,1,1,0,0,2,0,1,1,2,2013
+35307,"Iowa Falls, IA","Dickens, IA",1,1,0,1,0,1,1,1,0,2,2013
+35367,"Iowa Falls, IA","Haverhill, IA",0,1,1,0,1,1,0,1,1,2,2013
+35408,"Iowa Falls, IA","Lime Springs, IA",0,0,2,0,1,1,0,1,1,2,2013
+35522,"Iowa Falls, IA","St. Ansgar, IA",0,1,1,0,2,0,0,1,1,2,2013
+35308,"Iowa Falls, IA","Dike, IA",2,0,0,1,1,0,1,1,0,2,2013
+35541,"Iowa Falls, IA","Tripoli, IA",0,1,1,0,1,1,0,2,0,2,2013
+35407,"Iowa Falls, IA","Lidderdale, IA",2,0,0,0,1,1,1,1,0,2,2013
+35366,"Iowa Falls, IA","Havelock, IA",0,1,1,1,1,0,1,1,0,2,2013
+35405,"Iowa Falls, IA","Lenox, IA",1,0,1,0,1,1,2,0,0,2,2013
+35314,"Iowa Falls, IA","Eddyville, IA",0,1,1,0,2,0,1,0,1,2,2013
+35315,"Iowa Falls, IA","Elberon, IA",1,0,1,0,1,1,1,0,1,2,2013
+35510,"Iowa Falls, IA","Sergeant Bluff, IA",0,2,0,1,0,1,0,0,2,2,2013
+35318,"Iowa Falls, IA","Elkader, IA",0,1,1,0,0,2,0,1,1,2,2013
+35524,"Iowa Falls, IA","St. Olaf, IA",0,1,0,0,0,1,0,0,1,1,2013
+35572,"Iowa Falls, IA","Woolstock, IA",0,1,0,0,0,1,1,0,0,1,2013
+35534,"Iowa Falls, IA","Thompson, IA",0,1,0,1,0,0,0,1,0,1,2013
+35560,"Iowa Falls, IA","Webb, IA",1,0,0,0,1,0,1,0,0,1,2013
+35484,"Iowa Falls, IA","Rake, IA",0,0,1,0,0,1,0,1,0,1,2013
+35521,"Iowa Falls, IA","Spring Hill, IA",0,1,0,0,1,0,0,0,1,1,2013
+35488,"Iowa Falls, IA","Red Oak, IA",0,1,0,0,1,0,1,0,0,1,2013
+35569,"Iowa Falls, IA","Winterset, IA",0,1,0,0,0,1,1,0,0,1,2013
+35532,"Iowa Falls, IA","Swea City, IA",0,1,0,1,0,0,0,1,0,1,2013
+35544,"Iowa Falls, IA","University Heights, IA",0,1,0,1,0,0,0,0,1,1,2013
+35520,"Iowa Falls, IA","Spirit Lake, IA",0,1,0,0,1,0,0,1,0,1,2013
+35551,"Iowa Falls, IA","Walcott, IA",0,0,1,0,0,1,0,0,1,1,2013
+35509,"Iowa Falls, IA","Schleswig, IA",0,1,0,0,0,1,0,1,0,1,2013
+35506,"Iowa Falls, IA","Sageville, IA",0,0,1,0,1,0,0,1,0,1,2013
+35511,"Iowa Falls, IA","Shannon City, IA",0,1,0,0,1,0,0,0,1,1,2013
+35505,"Iowa Falls, IA","Sac City, IA",0,0,1,0,0,1,0,0,1,1,2013
+35504,"Iowa Falls, IA","Ryan, IA",0,1,0,0,0,1,0,0,1,1,2013
+35503,"Iowa Falls, IA","Russell, IA",0,0,1,0,1,0,1,0,0,1,2013
+35542,"Iowa Falls, IA","Truesdale, IA",0,0,1,0,0,1,1,0,0,1,2013
+35552,"Iowa Falls, IA","Walford, IA",0,1,0,0,0,1,0,0,1,1,2013
+35537,"Iowa Falls, IA","Tipton, IA",0,1,0,0,0,1,0,0,1,1,2013
+35497,"Iowa Falls, IA","Rock Rapids, IA",0,0,1,0,1,0,0,0,1,1,2013
+35553,"Iowa Falls, IA","Walker, IA",0,0,1,0,0,1,1,0,0,1,2013
+35495,"Iowa Falls, IA","Rinard, IA",1,0,0,0,1,0,1,0,0,1,2013
+35554,"Iowa Falls, IA","Wall Lake, IA",1,0,0,1,0,0,0,0,1,1,2013
+35493,"Iowa Falls, IA","Richland, IA",1,0,0,0,1,0,1,0,0,1,2013
+35515,"Iowa Falls, IA","Shenandoah, IA",0,0,1,1,0,0,0,0,1,1,2013
+35516,"Iowa Falls, IA","Sibley, IA",0,1,0,0,1,0,0,1,0,1,2013
+35485,"Iowa Falls, IA","Randall, IA",0,1,0,0,0,1,0,0,1,1,2013
+35393,"Iowa Falls, IA","Lake City, IA",0,1,0,0,1,0,0,1,0,1,2013
+35483,"Iowa Falls, IA","Protivin, IA",0,1,0,0,0,1,0,0,1,1,2013
+35277,"Iowa Falls, IA","Clio, IA",1,0,0,0,1,0,0,1,0,1,2013
+35280,"Iowa Falls, IA","Coggon, IA",0,0,1,0,0,1,1,0,0,1,2013
+35290,"Iowa Falls, IA","Crawfordsville, IA",0,0,1,0,0,1,0,0,1,1,2013
+35292,"Iowa Falls, IA","Creston, IA",1,0,0,0,0,1,0,0,1,1,2013
+35294,"Iowa Falls, IA","Cushing, IA",0,1,0,0,1,0,0,0,1,1,2013
+35299,"Iowa Falls, IA","De Witt, IA",0,1,0,1,0,0,0,0,1,1,2013
+35302,"Iowa Falls, IA","Deloit, IA",0,0,1,0,0,1,0,0,1,1,2013
+35313,"Iowa Falls, IA","East Peru, IA",0,1,0,1,0,0,0,1,0,1,2013
+35316,"Iowa Falls, IA","Eldon, IA",0,1,0,0,1,0,0,1,0,1,2013
+35320,"Iowa Falls, IA","Elma, IA",0,1,0,0,1,0,0,1,0,1,2013
+35322,"Iowa Falls, IA","Emmetsburg, IA",0,0,1,0,1,0,1,0,0,1,2013
+35328,"Iowa Falls, IA","Farley, IA",0,0,1,0,0,1,0,0,1,1,2013
+35331,"Iowa Falls, IA","Fayette, IA",0,1,0,0,1,0,1,0,0,1,2013
+35337,"Iowa Falls, IA","Fort Atkinson, IA",1,0,0,0,0,1,1,0,0,1,2013
+35339,"Iowa Falls, IA","Fort Madison, IA",0,1,0,0,1,0,0,1,0,1,2013
+35340,"Iowa Falls, IA","Fostoria, IA",0,1,0,0,0,1,0,1,0,1,2013
+35341,"Iowa Falls, IA","Fraser, IA",1,0,0,0,1,0,0,1,0,1,2013
+35342,"Iowa Falls, IA","Fredericksburg, IA",1,0,0,1,0,0,0,1,0,1,2013
+35343,"Iowa Falls, IA","Frederika, IA",1,0,0,0,0,1,0,1,0,1,2013
+35347,"Iowa Falls, IA","Gilbertville, IA",0,1,0,0,1,0,1,0,0,1,2013
+35279,"Iowa Falls, IA","Clutier, IA",0,1,0,0,1,0,0,1,0,1,2013
+35273,"Iowa Falls, IA","Chester, IA",0,1,0,0,1,0,0,1,0,1,2013
+35482,"Iowa Falls, IA","Preston, IA",1,0,0,0,0,1,1,0,0,1,2013
+35272,"Iowa Falls, IA","Charter Oak, IA",0,1,0,0,1,0,0,1,0,1,2013
+35215,"Iowa Falls, IA","Adel, IA",0,0,1,1,0,0,0,1,0,1,2013
+35217,"Iowa Falls, IA","Agency, IA",1,0,0,0,1,0,0,1,0,1,2013
+35222,"Iowa Falls, IA","Alta Vista, IA",0,1,0,1,0,0,0,1,0,1,2013
+35223,"Iowa Falls, IA","Alton, IA",0,1,0,0,0,1,0,0,1,1,2013
+35226,"Iowa Falls, IA","Andover, IA",1,0,0,0,1,0,1,0,0,1,2013
+35228,"Iowa Falls, IA","Anthon, IA",0,1,0,0,1,0,0,0,1,1,2013
+35230,"Iowa Falls, IA","Arnolds Park, IA",1,0,0,0,0,1,1,0,0,1,2013
+35233,"Iowa Falls, IA","Audubon, IA",0,1,0,0,0,1,0,1,0,1,2013
+35235,"Iowa Falls, IA","Aurora, IA",1,0,0,0,1,0,1,0,0,1,2013
+35236,"Iowa Falls, IA","Avoca, IA",0,0,1,1,0,0,0,0,1,1,2013
+35237,"Iowa Falls, IA","Bagley, IA",1,0,0,0,0,1,0,0,1,1,2013
+35238,"Iowa Falls, IA","Balltown, IA",1,0,0,0,0,1,1,0,0,1,2013
+35240,"Iowa Falls, IA","Battle Creek, IA",0,1,0,1,0,0,0,1,0,1,2013
+35242,"Iowa Falls, IA","Bedford, IA",1,0,0,0,1,0,1,0,0,1,2013
+35245,"Iowa Falls, IA","Bennett, IA",1,0,0,0,1,0,1,0,0,1,2013
+35248,"Iowa Falls, IA","Blairstown, IA",0,1,0,0,1,0,0,1,0,1,2013
+35251,"Iowa Falls, IA","Brighton, IA",1,0,0,0,1,0,0,1,0,1,2013
+35256,"Iowa Falls, IA","Buffalo, IA",0,1,0,1,0,0,0,1,0,1,2013
+35269,"Iowa Falls, IA","Central City, IA",0,0,1,0,0,1,1,0,0,1,2013
+35348,"Iowa Falls, IA","Gilman, IA",1,0,0,0,1,0,1,0,0,1,2013
+35349,"Iowa Falls, IA","Glenwood, IA",0,1,0,0,0,1,0,0,1,1,2013
+35351,"Iowa Falls, IA","Grand Mound, IA",0,0,1,0,0,1,0,1,0,1,2013
+35352,"Iowa Falls, IA","Grant, IA",0,1,0,0,1,0,0,1,0,1,2013
+35428,"Iowa Falls, IA","Mechanicsville, IA",0,1,0,1,0,0,1,0,0,1,2013
+35430,"Iowa Falls, IA","Melcher-Dallas, IA",0,1,0,0,1,0,0,0,1,1,2013
+35432,"Iowa Falls, IA","Milford, IA",1,0,0,0,0,1,0,1,0,1,2013
+35434,"Iowa Falls, IA","Missouri Valley, IA",1,0,0,0,0,1,0,0,1,1,2013
+35435,"Iowa Falls, IA","Mitchellville, IA",0,1,0,0,0,1,0,1,0,1,2013
+35436,"Iowa Falls, IA","Montezuma, IA",1,0,0,0,1,0,1,0,0,1,2013
+35438,"Iowa Falls, IA","Montrose, IA",1,0,0,0,0,1,0,1,0,1,2013
+35441,"Iowa Falls, IA","Moulton, IA",0,0,1,0,1,0,1,0,0,1,2013
+35442,"Iowa Falls, IA","Mount Ayr, IA",0,1,0,0,1,0,0,1,0,1,2013
+35443,"Iowa Falls, IA","Mount Pleasant, IA",1,0,0,0,0,1,1,0,0,1,2013
+35444,"Iowa Falls, IA","Mount Vernon, IA",0,0,1,1,0,0,0,0,1,1,2013
+35447,"Iowa Falls, IA","Nevada, IA",1,0,0,0,0,1,1,0,0,1,2013
+35456,"Iowa Falls, IA","Norway, IA",1,0,0,0,0,1,1,0,0,1,2013
+35458,"Iowa Falls, IA","Ogden, IA",0,0,1,0,0,1,1,0,0,1,2013
+35466,"Iowa Falls, IA","Ottosen, IA",0,1,0,0,1,0,0,1,0,1,2013
+35469,"Iowa Falls, IA","Oyens, IA",0,0,1,1,0,0,0,0,1,1,2013
+35475,"Iowa Falls, IA","Plano, IA",0,1,0,0,1,0,0,1,0,1,2013
+35478,"Iowa Falls, IA","Plymouth, IA",1,0,0,0,0,1,0,0,1,1,2013
+35479,"Iowa Falls, IA","Polk City, IA",0,0,1,0,1,0,0,1,0,1,2013
+35426,"Iowa Falls, IA","Maxwell, IA",0,1,0,0,0,1,0,0,1,1,2013
+35424,"Iowa Falls, IA","Marysville, IA",0,1,0,0,0,1,0,0,1,1,2013
+35421,"Iowa Falls, IA","Marion, IA",0,1,0,0,1,0,0,0,1,1,2013
+35387,"Iowa Falls, IA","Keokuk, IA",0,1,0,1,0,0,1,0,0,1,2013
+35355,"Iowa Falls, IA","Greenfield, IA",0,1,0,0,0,1,0,1,0,1,2013
+35358,"Iowa Falls, IA","Guernsey, IA",1,0,0,0,1,0,1,0,0,1,2013
+35362,"Iowa Falls, IA","Harcourt, IA",1,0,0,0,0,1,1,0,0,1,2013
+35365,"Iowa Falls, IA","Harris, IA",0,1,0,0,0,1,0,1,0,1,2013
+35368,"Iowa Falls, IA","Hawkeye, IA",0,1,0,0,1,0,1,0,0,1,2013
+35369,"Iowa Falls, IA","Hazleton, IA",1,0,0,0,0,1,1,0,0,1,2013
+35380,"Iowa Falls, IA","Jefferson, IA",0,0,1,0,0,1,1,0,0,1,2013
+35386,"Iowa Falls, IA","Kensett, IA",0,1,0,0,0,1,0,0,1,1,2013
+35389,"Iowa Falls, IA","Keota, IA",0,1,0,1,0,0,0,1,0,1,2013
+35415,"Iowa Falls, IA","Lynnville, IA",1,0,0,0,0,1,0,1,0,1,2013
+35392,"Iowa Falls, IA","Ladora, IA",1,0,0,0,1,0,1,0,0,1,2013
+35214,"Iowa Falls, IA","Ackworth, IA",0,1,0,0,0,1,0,1,0,1,2013
+35398,"Iowa Falls, IA","Laurens, IA",0,0,1,0,0,1,1,0,0,1,2013
+35399,"Iowa Falls, IA","Lawler, IA",1,0,0,0,1,0,1,0,0,1,2013
+35404,"Iowa Falls, IA","Leland, IA",0,1,0,1,0,0,0,1,0,1,2013
+35409,"Iowa Falls, IA","Lincoln, IA",1,0,0,0,1,0,1,0,0,1,2013
+35413,"Iowa Falls, IA","Lone Tree, IA",0,1,0,1,0,0,0,0,1,1,2013
+35414,"Iowa Falls, IA","Luana, IA",1,0,0,0,0,1,1,0,0,1,2013
+35573,"Iowa Falls, IA","Yetter, IA",0,1,0,0,1,0,1,0,0,1,2013

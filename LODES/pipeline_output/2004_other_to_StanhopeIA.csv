@@ -1,0 +1,107 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+50345,"Stanhope, IA","Ames, IA",62,43,6,43,47,21,47,33,31,111,2004
+50354,"Stanhope, IA","Boone, IA",13,52,26,21,47,23,16,51,24,91,2004
+50410,"Stanhope, IA","Ogden, IA",7,20,6,14,8,11,13,14,6,33,2004
+50432,"Stanhope, IA","Stanhope, IA",13,13,6,15,8,9,15,12,5,32,2004
+50438,"Stanhope, IA","Urbandale, IA",5,18,0,17,6,0,5,14,4,23,2004
+50433,"Stanhope, IA","Story City, IA",8,15,0,13,6,4,4,16,3,23,2004
+50402,"Stanhope, IA","Mason City, IA",7,9,2,3,6,9,8,6,4,18,2004
+50400,"Stanhope, IA","Madrid, IA",0,11,0,0,8,3,4,3,4,11,2004
+50366,"Stanhope, IA","Des Moines, IA",4,6,0,6,4,0,4,4,2,10,2004
+50434,"Stanhope, IA","Stratford, IA",0,8,2,10,0,0,3,5,2,10,2004
+50377,"Stanhope, IA","Gilbert, IA",2,7,0,6,1,2,2,2,5,9,2004
+50360,"Stanhope, IA","Clive, IA",2,4,3,1,2,6,3,0,6,9,2004
+50389,"Stanhope, IA","Jewell Junction, IA",5,4,0,9,0,0,2,4,3,9,2004
+50421,"Stanhope, IA","Randall, IA",1,5,2,6,1,1,3,4,1,8,2004
+50442,"Stanhope, IA","Waukee, IA",1,6,1,1,6,1,3,0,5,8,2004
+50401,"Stanhope, IA","Marshalltown, IA",2,1,3,0,0,6,0,0,6,6,2004
+50372,"Stanhope, IA","Ellsworth, IA",4,2,0,6,0,0,2,2,2,6,2004
+50436,"Stanhope, IA","Toledo, IA",1,4,1,2,1,3,1,2,3,6,2004
+50383,"Stanhope, IA","Hiawatha, IA",1,4,1,0,0,6,0,1,5,6,2004
+50390,"Stanhope, IA","Johnston, IA",2,4,0,4,2,0,2,1,3,6,2004
+50418,"Stanhope, IA","Perry, IA",2,3,0,0,2,3,2,0,3,5,2004
+50385,"Stanhope, IA","Huxley, IA",3,2,0,2,2,1,2,2,1,5,2004
+50408,"Stanhope, IA","Nevada, IA",1,4,0,4,0,1,0,1,4,5,2004
+50391,"Stanhope, IA","Kamrar, IA",4,1,0,5,0,0,0,1,4,5,2004
+50445,"Stanhope, IA","Williams, IA",4,0,1,5,0,0,1,4,0,5,2004
+50446,"Stanhope, IA","Windsor Heights, IA",3,2,0,2,3,0,3,1,1,5,2004
+50347,"Stanhope, IA","Ankeny, IA",0,3,2,1,4,0,4,1,0,5,2004
+50380,"Stanhope, IA","Grand River, IA",3,1,0,2,1,1,1,3,0,4,2004
+50399,"Stanhope, IA","Luther, IA",0,4,0,0,3,1,1,1,2,4,2004
+50409,"Stanhope, IA","Norwalk, IA",0,4,0,1,3,0,1,0,3,4,2004
+50441,"Stanhope, IA","Waterloo, IA",4,0,0,4,0,0,4,0,0,4,2004
+50371,"Stanhope, IA","Elberon, IA",1,2,1,1,1,2,1,1,2,4,2004
+50357,"Stanhope, IA","Carroll, IA",2,0,2,0,1,3,1,0,3,4,2004
+50416,"Stanhope, IA","Patterson, IA",2,1,1,2,1,1,2,1,1,4,2004
+50353,"Stanhope, IA","Bloomfield, IA",1,2,1,3,0,1,0,2,2,4,2004
+50397,"Stanhope, IA","Lidderdale, IA",0,4,0,0,0,4,0,1,3,4,2004
+50387,"Stanhope, IA","Iowa Falls, IA",2,1,0,2,0,1,0,2,1,3,2004
+50431,"Stanhope, IA","Slater, IA",3,0,0,3,0,0,0,3,0,3,2004
+50365,"Stanhope, IA","De Soto, IA",0,3,0,1,2,0,2,1,0,3,2004
+50443,"Stanhope, IA","Webster City, IA",2,1,0,3,0,0,0,2,1,3,2004
+50423,"Stanhope, IA","Renwick, IA",1,2,0,0,0,3,0,2,1,3,2004
+50388,"Stanhope, IA","Jefferson, IA",1,2,0,1,0,2,0,0,3,3,2004
+50375,"Stanhope, IA","Fort Dodge, IA",0,3,0,2,1,0,0,1,2,3,2004
+50404,"Stanhope, IA","Melbourne, IA",0,0,2,0,0,2,0,0,2,2,2004
+50398,"Stanhope, IA","Linden, IA",1,1,0,0,1,1,2,0,0,2,2004
+50426,"Stanhope, IA","Robins, IA",0,1,1,0,1,1,0,1,1,2,2004
+50406,"Stanhope, IA","Moulton, IA",0,0,2,1,1,0,0,2,0,2,2004
+50407,"Stanhope, IA","Mount Auburn, IA",1,1,0,1,1,0,0,0,2,2,2004
+50413,"Stanhope, IA","Otho, IA",1,1,0,2,0,0,0,2,0,2,2004
+50344,"Stanhope, IA","Albion, IA",0,1,1,0,0,2,0,0,2,2,2004
+50396,"Stanhope, IA","Leon, IA",0,2,0,0,0,2,0,0,2,2,2004
+50437,"Stanhope, IA","University Park, IA",1,1,0,0,1,1,1,0,1,2,2004
+50368,"Stanhope, IA","Diagonal, IA",1,1,0,1,0,1,1,0,1,2,2004
+50447,"Stanhope, IA","Yetter, IA",2,0,0,0,1,1,0,2,0,2,2004
+50349,"Stanhope, IA","Baxter, IA",0,2,0,0,2,0,0,1,1,2,2004
+50355,"Stanhope, IA","Bussey, IA",0,2,0,0,0,2,0,1,1,2,2004
+50440,"Stanhope, IA","Wall Lake, IA",0,2,0,0,0,2,0,0,2,2,2004
+50361,"Stanhope, IA","Colo, IA",1,1,0,1,1,0,1,0,1,2,2004
+50363,"Stanhope, IA","Creston, IA",0,2,0,0,0,2,0,0,2,2,2004
+50393,"Stanhope, IA","Lake View, IA",2,0,0,1,0,1,1,0,1,2,2004
+50419,"Stanhope, IA","Pleasant Hill, IA",2,0,0,2,0,0,0,0,2,2,2004
+50369,"Stanhope, IA","Duncombe, IA",1,1,0,2,0,0,0,2,0,2,2004
+50376,"Stanhope, IA","Fraser, IA",0,2,0,0,1,1,0,2,0,2,2004
+50381,"Stanhope, IA","Grant, IA",2,0,0,0,0,2,0,0,2,2,2004
+50430,"Stanhope, IA","Sioux City, IA",1,0,1,0,2,0,1,1,0,2,2004
+50425,"Stanhope, IA","Rippey, IA",0,1,0,1,0,0,1,0,0,1,2004
+50424,"Stanhope, IA","Rinard, IA",0,1,0,0,1,0,0,0,1,1,2004
+50435,"Stanhope, IA","Tama, IA",0,1,0,0,0,1,0,0,1,1,2004
+50439,"Stanhope, IA","Walford, IA",0,0,1,0,0,1,0,0,1,1,2004
+50422,"Stanhope, IA","Redding, IA",1,0,0,1,0,0,0,1,0,1,2004
+50444,"Stanhope, IA","Westside, IA",0,1,0,1,0,0,1,0,0,1,2004
+50429,"Stanhope, IA","Silver City, IA",0,0,1,0,0,1,0,1,0,1,2004
+50420,"Stanhope, IA","Popejoy, IA",0,0,1,1,0,0,0,0,1,1,2004
+50428,"Stanhope, IA","Schleswig, IA",0,1,0,0,1,0,1,0,0,1,2004
+50427,"Stanhope, IA","Roland, IA",0,1,0,1,0,0,0,0,1,1,2004
+50343,"Stanhope, IA","Adair, IA",0,1,0,0,0,1,0,0,1,1,2004
+50417,"Stanhope, IA","Pella, IA",0,1,0,0,1,0,0,1,0,1,2004
+50415,"Stanhope, IA","Panora, IA",0,0,1,0,0,1,0,0,1,1,2004
+50346,"Stanhope, IA","Anita, IA",0,0,1,0,0,1,1,0,0,1,2004
+50348,"Stanhope, IA","Bagley, IA",0,1,0,0,0,1,0,0,1,1,2004
+50350,"Stanhope, IA","Bayard, IA",0,1,0,0,0,1,0,0,1,1,2004
+50351,"Stanhope, IA","Belmond, IA",0,1,0,1,0,0,1,0,0,1,2004
+50352,"Stanhope, IA","Blairstown, IA",1,0,0,1,0,0,1,0,0,1,2004
+50356,"Stanhope, IA","Cambridge, IA",1,0,0,1,0,0,0,1,0,1,2004
+50358,"Stanhope, IA","Chariton, IA",0,1,0,0,0,1,0,0,1,1,2004
+50359,"Stanhope, IA","Cherokee, IA",0,1,0,0,1,0,1,0,0,1,2004
+50362,"Stanhope, IA","Coon Rapids, IA",1,0,0,0,0,1,0,1,0,1,2004
+50364,"Stanhope, IA","Dayton, IA",1,0,0,1,0,0,0,1,0,1,2004
+50367,"Stanhope, IA","Dexter, IA",0,1,0,0,1,0,0,0,1,1,2004
+50370,"Stanhope, IA","Eagle Grove, IA",1,0,0,1,0,0,1,0,0,1,2004
+50373,"Stanhope, IA","Farnhamville, IA",0,1,0,1,0,0,0,1,0,1,2004
+50374,"Stanhope, IA","Fonda, IA",0,1,0,1,0,0,0,1,0,1,2004
+50378,"Stanhope, IA","Goldfield, IA",1,0,0,0,1,0,0,1,0,1,2004
+50379,"Stanhope, IA","Grand Junction, IA",0,1,0,0,0,1,1,0,0,1,2004
+50382,"Stanhope, IA","Haverhill, IA",0,0,1,0,0,1,0,0,1,1,2004
+50384,"Stanhope, IA","Humboldt, IA",0,1,0,0,0,1,0,0,1,1,2004
+50386,"Stanhope, IA","Indianola, IA",1,0,0,0,0,1,0,1,0,1,2004
+50392,"Stanhope, IA","Knierim, IA",0,1,0,0,1,0,0,0,1,1,2004
+50394,"Stanhope, IA","Le Grand, IA",0,1,0,0,0,1,0,0,1,1,2004
+50395,"Stanhope, IA","Lehigh, IA",0,1,0,1,0,0,0,1,0,1,2004
+50403,"Stanhope, IA","Maxwell, IA",0,1,0,0,1,0,1,0,0,1,2004
+50405,"Stanhope, IA","Mitchellville, IA",0,1,0,0,1,0,0,1,0,1,2004
+50411,"Stanhope, IA","Osceola, IA",0,1,0,0,0,1,0,0,1,1,2004
+50412,"Stanhope, IA","Oskaloosa, IA",0,1,0,0,0,1,0,0,1,1,2004
+50414,"Stanhope, IA","Owasa, IA",0,1,0,0,0,1,0,0,1,1,2004
+50448,"Stanhope, IA","Zearing, IA",1,0,0,1,0,0,0,1,0,1,2004

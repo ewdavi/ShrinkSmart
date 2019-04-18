@@ -1,0 +1,475 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+34352,"Hiawatha, IA","Cedar Rapids, IA",2392,5386,1763,2290,6032,1219,2151,3093,4297,9541,2014
+34481,"Hiawatha, IA","Hiawatha, IA",1432,3786,1361,2296,3648,635,1244,1641,3694,6579,2014
+34647,"Hiawatha, IA","Robins, IA",948,3521,1059,2361,2676,491,906,924,3698,5528,2014
+34430,"Hiawatha, IA","Fairfax, IA",249,825,219,358,800,135,198,357,738,1293,2014
+34549,"Hiawatha, IA","Marion, IA",191,668,262,445,582,94,207,157,757,1121,2014
+34614,"Hiawatha, IA","Palo, IA",140,557,147,286,465,93,110,167,567,844,2014
+34714,"Hiawatha, IA","Urbana, IA",110,415,122,252,327,68,85,161,401,647,2014
+34597,"Hiawatha, IA","North Liberty, IA",146,397,95,201,360,77,65,120,453,638,2014
+34493,"Hiawatha, IA","Iowa City, IA",226,316,88,115,408,107,204,147,279,630,2014
+34681,"Hiawatha, IA","Springville, IA",92,322,143,196,281,80,118,135,304,557,2014
+34329,"Hiawatha, IA","Bertram, IA",78,302,115,175,262,58,99,117,279,495,2014
+34406,"Hiawatha, IA","Dubuque, IA",139,173,78,47,207,136,143,131,116,390,2014
+34354,"Hiawatha, IA","Center Point, IA",69,230,68,145,182,40,58,102,207,367,2014
+34529,"Hiawatha, IA","Lisbon, IA",55,232,64,108,190,53,49,86,216,351,2014
+34728,"Hiawatha, IA","Waterloo, IA",128,160,48,15,228,93,141,125,70,336,2014
+34552,"Hiawatha, IA","Martelle, IA",54,191,77,133,146,43,42,80,200,322,2014
+34378,"Hiawatha, IA","Coralville, IA",89,174,54,77,193,47,70,78,169,317,2014
+34423,"Hiawatha, IA","Ely, IA",83,173,44,86,179,35,51,72,177,300,2014
+34668,"Hiawatha, IA","Shueyville, IA",33,187,70,123,135,32,33,49,208,290,2014
+34575,"Hiawatha, IA","Morley, IA",39,167,59,107,128,30,28,59,178,265,2014
+34390,"Hiawatha, IA","Davenport, IA",93,115,49,5,171,81,96,106,55,257,2014
+34399,"Hiawatha, IA","Des Moines, IA",78,123,27,13,159,56,92,73,63,228,2014
+34300,"Hiawatha, IA","Anamosa, IA",44,141,39,69,120,35,32,65,127,224,2014
+34712,"Hiawatha, IA","University Heights, IA",79,101,30,34,144,32,42,58,110,210,2014
+34351,"Hiawatha, IA","Cedar Falls, IA",67,110,30,14,129,64,66,84,57,207,2014
+34719,"Hiawatha, IA","Vinton, IA",53,118,35,48,125,33,36,71,99,206,2014
+34571,"Hiawatha, IA","Monticello, IA",47,98,56,70,97,34,36,71,94,201,2014
+34312,"Hiawatha, IA","Atkins, IA",30,131,31,55,118,19,19,44,129,192,2014
+34611,"Hiawatha, IA","Oxford, IA",32,115,35,68,93,21,33,38,111,182,2014
+34722,"Hiawatha, IA","Walford, IA",22,119,32,57,103,13,19,38,116,173,2014
+34543,"Hiawatha, IA","Manchester, IA",39,98,35,103,51,18,24,57,91,172,2014
+34581,"Hiawatha, IA","Mount Vernon, IA",33,114,17,62,83,19,17,47,100,164,2014
+34630,"Hiawatha, IA","Prairieburg, IA",22,105,31,67,75,16,15,40,103,158,2014
+34551,"Hiawatha, IA","Marshalltown, IA",58,72,26,10,95,51,59,70,27,156,2014
+34702,"Hiawatha, IA","Tiffin, IA",38,100,18,45,80,31,26,26,104,156,2014
+34393,"Hiawatha, IA","Decorah, IA",22,80,50,108,29,15,13,49,90,152,2014
+34356,"Hiawatha, IA","Central City, IA",32,83,21,53,66,17,26,38,72,136,2014
+34483,"Hiawatha, IA","Hopkinton, IA",22,73,31,40,66,20,12,38,76,126,2014
+34489,"Hiawatha, IA","Independence, IA",27,67,28,24,80,18,24,52,46,122,2014
+34330,"Hiawatha, IA","Bettendorf, IA",37,60,24,3,87,31,35,54,32,121,2014
+34703,"Hiawatha, IA","Tipton, IA",16,72,28,34,62,20,16,33,67,116,2014
+34326,"Hiawatha, IA","Bellevue, IA",10,70,31,97,9,5,7,27,77,111,2014
+34366,"Hiawatha, IA","Clinton, IA",29,58,21,7,59,42,38,46,24,108,2014
+34299,"Hiawatha, IA","Ames, IA",36,53,17,6,72,28,41,34,31,106,2014
+34342,"Hiawatha, IA","Burlington, IA",35,52,16,10,54,39,41,41,21,103,2014
+34303,"Hiawatha, IA","Ankeny, IA",36,48,17,5,62,34,34,37,30,101,2014
+34716,"Hiawatha, IA","Van Horne, IA",15,72,13,21,66,13,16,20,64,100,2014
+34309,"Hiawatha, IA","Asbury, IA",33,43,23,10,46,43,36,24,39,99,2014
+34749,"Hiawatha, IA","Windsor Heights, IA",26,49,21,5,64,27,27,36,33,96,2014
+34414,"Hiawatha, IA","Elberon, IA",19,55,16,20,60,10,16,34,40,90,2014
+34583,"Hiawatha, IA","Muscatine, IA",21,47,22,8,48,34,31,33,26,90,2014
+34353,"Hiawatha, IA","Center Junction, IA",14,44,25,35,36,12,10,28,45,83,2014
+34699,"Hiawatha, IA","Swisher, IA",9,48,26,44,33,6,8,11,64,83,2014
+34548,"Hiawatha, IA","Marengo, IA",23,46,12,24,51,6,13,21,47,81,2014
+34646,"Hiawatha, IA","Riverside, IA",21,43,15,18,46,15,13,25,41,79,2014
+34559,"Hiawatha, IA","Mechanicsville, IA",17,52,10,24,42,13,12,26,41,79,2014
+34547,"Hiawatha, IA","Maquoketa, IA",17,42,19,15,39,24,27,26,25,78,2014
+34371,"Hiawatha, IA","Coggon, IA",9,52,17,38,34,6,10,19,49,78,2014
+34331,"Hiawatha, IA","Blairstown, IA",9,52,13,23,41,10,16,17,41,74,2014
+34623,"Hiawatha, IA","Pleasant Hill, IA",29,30,7,3,44,19,26,25,15,66,2014
+34676,"Hiawatha, IA","Solon, IA",8,40,13,24,29,8,8,8,45,61,2014
+34578,"Hiawatha, IA","Mount Auburn, IA",18,33,10,12,39,10,12,24,25,61,2014
+34732,"Hiawatha, IA","Waverly, IA",22,26,9,10,27,20,16,26,15,57,2014
+34742,"Hiawatha, IA","West Des Moines, IA",19,25,8,3,34,15,20,21,11,52,2014
+34395,"Hiawatha, IA","Delaware, IA",13,26,13,31,15,6,10,14,28,52,2014
+34368,"Hiawatha, IA","Clive, IA",22,24,6,5,33,14,20,18,14,52,2014
+34554,"Hiawatha, IA","Mason City, IA",26,19,6,2,34,15,29,9,13,51,2014
+34408,"Hiawatha, IA","Dyersville, IA",14,28,9,13,23,15,18,12,21,51,2014
+34336,"Hiawatha, IA","Brandon, IA",8,30,13,19,25,7,3,17,31,51,2014
+34752,"Hiawatha, IA","Winthrop, IA",6,37,7,15,33,2,7,10,33,50,2014
+34727,"Hiawatha, IA","Washington, IA",13,28,7,9,16,23,16,16,16,48,2014
+34695,"Hiawatha, IA","Strawberry Point, IA",6,24,16,33,5,8,2,18,26,46,2014
+34747,"Hiawatha, IA","Williamsburg, IA",14,24,7,14,27,4,8,12,25,45,2014
+34730,"Hiawatha, IA","Waukee, IA",12,21,12,1,29,15,14,12,19,45,2014
+34674,"Hiawatha, IA","Sioux City, IA",14,20,10,0,30,14,19,20,5,44,2014
+34601,"Hiawatha, IA","Oelwein, IA",7,27,10,6,22,16,12,16,16,44,2014
+34608,"Hiawatha, IA","Ottumwa, IA",22,15,5,2,25,15,17,21,4,42,2014
+34619,"Hiawatha, IA","Peosta, IA",9,26,7,8,20,14,12,10,20,42,2014
+34715,"Hiawatha, IA","Urbandale, IA",9,31,2,4,29,9,10,20,12,42,2014
+34723,"Hiawatha, IA","Walker, IA",7,23,10,13,20,7,1,12,27,40,2014
+34413,"Hiawatha, IA","Edgewood, IA",7,26,7,25,13,2,6,8,26,40,2014
+34381,"Hiawatha, IA","Council Bluffs, IA",9,22,8,2,26,11,18,10,11,39,2014
+34325,"Hiawatha, IA","Belle Plaine, IA",10,21,8,4,31,4,7,15,17,39,2014
+34657,"Hiawatha, IA","Sageville, IA",14,15,10,2,16,21,19,11,9,39,2014
+34654,"Hiawatha, IA","Ryan, IA",6,25,7,9,22,7,3,16,19,38,2014
+34500,"Hiawatha, IA","Johnston, IA",12,15,11,2,28,8,14,13,11,38,2014
+34640,"Hiawatha, IA","Reinbeck, IA",9,19,10,3,25,10,9,18,11,38,2014
+34507,"Hiawatha, IA","Knoxville, IA",16,14,6,3,19,14,14,10,12,36,2014
+34385,"Hiawatha, IA","Cresco, IA",11,17,7,20,10,5,6,15,14,35,2014
+34426,"Hiawatha, IA","Evansdale, IA",12,21,2,1,26,8,11,16,8,35,2014
+34600,"Hiawatha, IA","Norway, IA",6,21,8,9,25,1,6,9,20,35,2014
+34740,"Hiawatha, IA","West Branch, IA",8,17,9,9,20,5,7,7,20,34,2014
+34392,"Hiawatha, IA","De Witt, IA",11,19,4,2,24,8,8,9,17,34,2014
+34501,"Hiawatha, IA","Kalona, IA",7,20,5,7,13,12,9,6,17,32,2014
+34444,"Hiawatha, IA","Fort Madison, IA",10,14,8,2,17,13,10,13,9,32,2014
+34498,"Hiawatha, IA","Jesup, IA",8,17,7,14,13,5,4,9,19,32,2014
+34409,"Hiawatha, IA","Dysart, IA",6,11,15,10,18,4,9,9,14,32,2014
+34334,"Hiawatha, IA","Boone, IA",6,16,9,1,21,9,13,12,6,31,2014
+34616,"Hiawatha, IA","Parkersburg, IA",10,18,3,0,20,11,4,20,7,31,2014
+34505,"Hiawatha, IA","Keystone, IA",1,22,8,9,21,1,0,13,18,31,2014
+34680,"Hiawatha, IA","Springbrook, IA",2,18,10,23,4,3,3,2,25,30,2014
+34502,"Hiawatha, IA","Keokuk, IA",7,17,6,1,18,11,15,10,5,30,2014
+34731,"Hiawatha, IA","Waukon, IA",7,15,7,16,7,6,5,8,16,29,2014
+34350,"Hiawatha, IA","Castalia, IA",7,14,8,21,4,4,4,9,16,29,2014
+34599,"Hiawatha, IA","Norwalk, IA",10,13,6,1,20,8,10,7,12,29,2014
+34593,"Hiawatha, IA","Newton, IA",9,13,7,0,23,6,9,10,10,29,2014
+34398,"Hiawatha, IA","Denver, IA",10,13,6,0,18,11,7,16,6,29,2014
+34319,"Hiawatha, IA","Baldwin, IA",10,12,6,7,12,9,11,9,8,28,2014
+34717,"Hiawatha, IA","Victor, IA",12,13,3,6,16,6,7,13,8,28,2014
+34610,"Hiawatha, IA","Oxford Junction, IA",6,16,5,14,7,6,2,12,13,27,2014
+34631,"Hiawatha, IA","Preston, IA",10,14,3,10,5,12,9,12,6,27,2014
+34464,"Hiawatha, IA","Grimes, IA",10,12,5,2,19,6,10,9,8,27,2014
+34626,"Hiawatha, IA","Polk City, IA",6,16,4,0,21,5,12,6,8,26,2014
+34443,"Hiawatha, IA","Fort Dodge, IA",13,9,4,0,14,12,15,8,3,26,2014
+34590,"Hiawatha, IA","New London, IA",6,12,7,2,14,9,15,8,2,25,2014
+34700,"Hiawatha, IA","Tama, IA",11,7,7,4,16,5,14,6,5,25,2014
+34302,"Hiawatha, IA","Andrew, IA",1,17,7,17,3,5,3,5,17,25,2014
+34465,"Hiawatha, IA","Grinnell, IA",10,8,7,2,13,10,8,10,7,25,2014
+34705,"Hiawatha, IA","Toledo, IA",10,9,6,3,13,9,8,9,8,25,2014
+34494,"Hiawatha, IA","Iowa Falls, IA",9,13,2,3,8,13,7,14,3,24,2014
+34419,"Hiawatha, IA","Elk Run Heights, IA",8,12,3,1,14,8,6,9,8,23,2014
+34298,"Hiawatha, IA","Altoona, IA",9,12,2,2,15,6,8,7,8,23,2014
+34316,"Hiawatha, IA","Aurora, IA",2,17,4,8,13,2,2,10,11,23,2014
+34320,"Hiawatha, IA","Balltown, IA",6,12,5,5,13,5,9,8,6,23,2014
+34369,"Hiawatha, IA","Clutier, IA",3,15,5,7,15,1,5,6,12,23,2014
+34517,"Hiawatha, IA","Le Claire, IA",7,10,6,0,13,10,9,9,5,23,2014
+34343,"Hiawatha, IA","Camanche, IA",6,9,8,4,13,6,11,4,8,23,2014
+34745,"Hiawatha, IA","Wheatland, IA",8,9,5,6,13,3,11,3,8,22,2014
+34633,"Hiawatha, IA","Protivin, IA",5,14,3,17,5,0,2,6,14,22,2014
+34756,"Hiawatha, IA","Wyoming, IA",2,14,6,10,6,6,1,10,11,22,2014
+34534,"Hiawatha, IA","Lone Tree, IA",6,11,5,3,17,2,8,3,11,22,2014
+34345,"Hiawatha, IA","Carlisle, IA",6,12,4,0,18,4,4,8,10,22,2014
+34432,"Hiawatha, IA","Farley, IA",7,13,1,3,9,9,11,8,2,21,2014
+34429,"Hiawatha, IA","Fairbank, IA",9,9,3,3,9,9,7,5,9,21,2014
+34461,"Hiawatha, IA","Greeley, IA",7,9,5,14,6,1,3,8,10,21,2014
+34490,"Hiawatha, IA","Indianola, IA",7,11,3,2,12,7,5,6,10,21,2014
+34328,"Hiawatha, IA","Bennett, IA",6,10,4,4,8,8,7,4,9,20,2014
+34293,"Hiawatha, IA","Alden, IA",11,8,1,0,15,5,6,7,7,20,2014
+34482,"Hiawatha, IA","Hills, IA",3,15,2,5,14,1,5,5,10,20,2014
+34431,"Hiawatha, IA","Fairfield, IA",7,11,2,0,12,8,10,9,1,20,2014
+34539,"Hiawatha, IA","Luana, IA",6,8,6,4,10,6,8,4,8,20,2014
+34645,"Hiawatha, IA","Riverdale, IA",6,8,5,0,11,8,10,7,2,19,2014
+34748,"Hiawatha, IA","Wilton, IA",4,7,8,1,14,4,10,7,2,19,2014
+34720,"Hiawatha, IA","Wadena, IA",4,8,6,11,3,4,4,6,8,18,2014
+34417,"Hiawatha, IA","Eldridge, IA",6,11,1,2,12,4,6,6,6,18,2014
+34361,"Hiawatha, IA","Clarence, IA",2,10,6,7,10,1,0,5,13,18,2014
+34579,"Hiawatha, IA","Mount Pleasant, IA",5,8,5,2,6,10,8,6,4,18,2014
+34635,"Hiawatha, IA","Raymond, IA",6,9,2,1,9,7,3,8,6,17,2014
+34358,"Hiawatha, IA","Charles City, IA",8,6,3,1,12,4,4,8,5,17,2014
+34618,"Hiawatha, IA","Pella, IA",9,7,1,2,10,5,7,5,5,17,2014
+34344,"Hiawatha, IA","Cambridge, IA",7,7,2,2,10,4,4,3,9,16,2014
+34509,"Hiawatha, IA","Ladora, IA",5,9,2,6,8,2,3,4,9,16,2014
+34535,"Hiawatha, IA","Long Grove, IA",5,8,3,0,9,7,5,8,3,16,2014
+34391,"Hiawatha, IA","De Soto, IA",6,6,4,0,13,3,4,7,5,16,2014
+34596,"Hiawatha, IA","North English, IA",2,10,4,5,7,4,3,6,7,16,2014
+34586,"Hiawatha, IA","New Albin, IA",4,8,4,9,6,1,4,6,6,16,2014
+34374,"Hiawatha, IA","Columbus Junction, IA",7,5,3,0,10,5,8,6,1,15,2014
+34561,"Hiawatha, IA","Melcher-Dallas, IA",7,6,2,1,9,5,5,5,5,15,2014
+34333,"Hiawatha, IA","Blue Grass, IA",7,5,3,1,13,1,8,3,4,15,2014
+34285,"Hiawatha, IA","Ackley, IA",2,12,1,5,5,5,2,8,5,15,2014
+34713,"Hiawatha, IA","University Park, IA",8,6,1,0,11,4,6,7,2,15,2014
+34469,"Hiawatha, IA","Guttenberg, IA",6,8,1,0,14,1,6,5,4,15,2014
+34617,"Hiawatha, IA","Parnell, IA",6,9,0,4,10,1,3,5,7,15,2014
+34607,"Hiawatha, IA","Oskaloosa, IA",5,8,2,0,7,8,4,5,6,15,2014
+34538,"Hiawatha, IA","Lowden, IA",3,5,7,6,6,3,4,4,7,15,2014
+34636,"Hiawatha, IA","Readlyn, IA",7,4,3,1,11,2,7,5,2,14,2014
+34530,"Hiawatha, IA","Liscomb, IA",6,8,0,0,8,6,6,5,3,14,2014
+34286,"Hiawatha, IA","Ackworth, IA",7,6,1,1,10,3,6,2,6,14,2014
+34479,"Hiawatha, IA","Hazleton, IA",3,7,4,3,6,5,3,5,6,14,2014
+34609,"Hiawatha, IA","Owasa, IA",2,10,2,3,3,8,3,7,4,14,2014
+34454,"Hiawatha, IA","Gilbertville, IA",7,6,1,0,7,7,6,7,1,14,2014
+34496,"Hiawatha, IA","Janesville, IA",5,6,3,1,9,4,1,8,5,14,2014
+34287,"Hiawatha, IA","Adel, IA",3,9,1,0,7,6,5,3,5,13,2014
+34655,"Hiawatha, IA","Sabula, IA",5,6,2,5,6,2,3,4,6,13,2014
+34643,"Hiawatha, IA","Ridgeway, IA",2,10,1,10,2,1,2,3,8,13,2014
+34372,"Hiawatha, IA","Colfax, IA",6,5,2,2,5,6,3,8,2,13,2014
+34587,"Hiawatha, IA","New Hampton, IA",3,8,2,0,6,7,6,5,2,13,2014
+34585,"Hiawatha, IA","Nevada, IA",6,5,2,0,10,3,3,6,4,13,2014
+34620,"Hiawatha, IA","Perry, IA",5,7,1,1,10,2,3,6,4,13,2014
+34421,"Hiawatha, IA","Elkport, IA",2,7,3,4,5,3,1,7,4,12,2014
+34565,"Hiawatha, IA","Minburn, IA",5,2,5,1,8,3,4,4,4,12,2014
+34755,"Hiawatha, IA","Worthington, IA",2,9,1,3,7,2,1,7,4,12,2014
+34584,"Hiawatha, IA","Nashua, IA",5,6,1,0,9,3,6,4,2,12,2014
+34726,"Hiawatha, IA","Wapello, IA",4,3,5,3,6,3,6,1,5,12,2014
+34527,"Hiawatha, IA","Linden, IA",6,5,1,1,6,5,4,5,3,12,2014
+34537,"Hiawatha, IA","Low Moor, IA",3,7,2,1,5,6,6,4,2,12,2014
+34404,"Hiawatha, IA","Donnellson, IA",3,5,3,0,9,2,2,6,3,11,2014
+34576,"Hiawatha, IA","Morrison, IA",3,7,1,2,4,5,2,5,4,11,2014
+34457,"Hiawatha, IA","Graf, IA",4,7,0,5,4,2,3,4,4,11,2014
+34442,"Hiawatha, IA","Fort Atkinson, IA",0,9,2,8,3,0,1,3,7,11,2014
+34637,"Hiawatha, IA","Reasnor, IA",3,6,2,1,6,4,4,2,5,11,2014
+34348,"Hiawatha, IA","Cascade, IA",2,8,1,2,4,5,2,7,2,11,2014
+34567,"Hiawatha, IA","Mitchellville, IA",4,6,1,0,7,4,3,4,4,11,2014
+34632,"Hiawatha, IA","Princeton, IA",4,5,1,1,7,2,3,3,4,10,2014
+34523,"Hiawatha, IA","Lewis, IA",3,4,3,1,5,4,5,2,3,10,2014
+34634,"Hiawatha, IA","Randalia, IA",3,4,3,3,6,1,1,6,3,10,2014
+34736,"Hiawatha, IA","Wellman, IA",1,5,4,5,2,3,1,4,5,10,2014
+34556,"Hiawatha, IA","McCausland, IA",3,4,3,1,6,3,3,5,2,10,2014
+34741,"Hiawatha, IA","West Burlington, IA",5,3,2,2,5,3,3,5,2,10,2014
+34555,"Hiawatha, IA","Maxwell, IA",7,2,1,0,8,2,5,4,1,10,2014
+34533,"Hiawatha, IA","Lockridge, IA",1,2,7,0,4,6,4,2,4,10,2014
+34706,"Hiawatha, IA","Traer, IA",3,7,0,3,2,5,2,1,7,10,2014
+34751,"Hiawatha, IA","Winterset, IA",3,6,1,0,9,1,0,5,5,10,2014
+34605,"Hiawatha, IA","Osage, IA",6,1,3,0,6,4,4,3,3,10,2014
+34758,"Hiawatha, IA","Zwingle, IA",4,5,1,1,4,5,4,4,2,10,2014
+34386,"Hiawatha, IA","Creston, IA",4,2,4,1,1,8,2,4,4,10,2014
+34294,"Hiawatha, IA","Algona, IA",4,5,1,0,6,4,6,3,1,10,2014
+34518,"Hiawatha, IA","Le Grand, IA",6,2,1,0,6,3,5,3,1,9,2014
+34744,"Hiawatha, IA","West Union, IA",4,4,1,0,5,4,7,2,0,9,2014
+34526,"Hiawatha, IA","Lincoln, IA",4,3,2,2,4,3,4,3,2,9,2014
+34696,"Hiawatha, IA","Sumner, IA",4,4,1,0,4,5,2,6,1,9,2014
+34403,"Hiawatha, IA","Dixon, IA",4,4,1,0,7,2,4,4,1,9,2014
+34606,"Hiawatha, IA","Osceola, IA",5,3,1,0,2,7,6,3,0,9,2014
+34425,"Hiawatha, IA","Epworth, IA",2,5,2,0,2,7,4,5,0,9,2014
+34455,"Hiawatha, IA","Gilman, IA",1,6,2,1,7,1,3,1,5,9,2014
+34754,"Hiawatha, IA","Woodward, IA",3,5,0,0,7,1,0,4,4,8,2014
+34475,"Hiawatha, IA","Hartwick, IA",2,3,3,0,6,2,2,0,6,8,2014
+34438,"Hiawatha, IA","Ferguson, IA",3,5,0,0,4,4,5,1,2,8,2014
+34573,"Hiawatha, IA","Montrose, IA",1,3,4,0,5,3,2,4,2,8,2014
+34570,"Hiawatha, IA","Montezuma, IA",4,4,0,1,5,2,4,3,1,8,2014
+34440,"Hiawatha, IA","Floyd, IA",4,2,2,0,5,3,2,5,1,8,2014
+34750,"Hiawatha, IA","Winfield, IA",1,4,3,1,4,3,4,1,3,8,2014
+34289,"Hiawatha, IA","Agency, IA",3,4,1,1,4,3,2,3,3,8,2014
+34448,"Hiawatha, IA","Frederika, IA",1,7,0,3,1,4,2,5,1,8,2014
+34553,"Hiawatha, IA","Marysville, IA",4,3,1,0,6,2,3,1,4,8,2014
+34589,"Hiawatha, IA","New Liberty, IA",1,5,2,0,4,4,4,3,1,8,2014
+34591,"Hiawatha, IA","New Sharon, IA",4,3,1,1,4,3,5,2,1,8,2014
+34311,"Hiawatha, IA","Atalissa, IA",4,3,1,1,2,5,4,3,1,8,2014
+34503,"Hiawatha, IA","Keosauqua, IA",1,3,4,0,6,2,4,3,1,8,2014
+34355,"Hiawatha, IA","Centerville, IA",0,7,1,1,5,2,1,3,4,8,2014
+34541,"Hiawatha, IA","Madrid, IA",2,6,0,0,7,1,3,4,1,8,2014
+34540,"Hiawatha, IA","Lynnville, IA",3,3,2,0,7,1,1,5,2,8,2014
+34602,"Hiawatha, IA","Ogden, IA",4,3,1,0,5,3,4,2,2,8,2014
+34737,"Hiawatha, IA","Wellsburg, IA",1,6,1,2,4,2,0,4,4,8,2014
+34458,"Hiawatha, IA","Grand Mound, IA",3,2,3,0,4,4,2,3,3,8,2014
+34373,"Hiawatha, IA","Colo, IA",2,5,1,1,2,5,1,2,5,8,2014
+34292,"Hiawatha, IA","Albion, IA",3,5,0,0,6,2,2,3,3,8,2014
+34542,"Hiawatha, IA","Malcom, IA",1,5,1,2,3,2,3,1,3,7,2014
+34452,"Hiawatha, IA","Garwin, IA",2,5,0,0,3,4,2,2,3,7,2014
+34688,"Hiawatha, IA","Stanley, IA",1,4,2,0,6,1,2,3,2,7,2014
+34580,"Hiawatha, IA","Mount Union, IA",3,3,1,1,3,3,5,1,1,7,2014
+34558,"Hiawatha, IA","McIntire, IA",3,2,2,0,5,2,2,3,2,7,2014
+34692,"Hiawatha, IA","Storm Lake, IA",5,0,2,2,2,3,2,2,3,7,2014
+34683,"Hiawatha, IA","St. Marys, IA",5,2,0,1,4,2,5,1,1,7,2014
+34341,"Hiawatha, IA","Buffalo, IA",2,4,1,1,4,2,2,4,1,7,2014
+34743,"Hiawatha, IA","West Liberty, IA",1,5,1,0,4,3,2,3,2,7,2014
+34347,"Hiawatha, IA","Carter Lake, IA",0,4,3,0,4,3,2,4,1,7,2014
+34416,"Hiawatha, IA","Eldora, IA",3,3,1,1,5,1,2,1,4,7,2014
+34598,"Hiawatha, IA","Northwood, IA",5,0,2,1,2,4,4,2,1,7,2014
+34376,"Hiawatha, IA","Conrad, IA",4,2,1,0,4,3,2,2,3,7,2014
+34641,"Hiawatha, IA","Rhodes, IA",0,5,2,0,4,3,2,3,2,7,2014
+34459,"Hiawatha, IA","Grandview, IA",2,2,3,1,3,3,1,2,4,7,2014
+34365,"Hiawatha, IA","Clear Lake, IA",3,2,2,1,4,2,2,2,3,7,2014
+34724,"Hiawatha, IA","Wall Lake, IA",3,3,1,0,5,2,2,3,2,7,2014
+34288,"Hiawatha, IA","Afton, IA",3,3,1,0,2,5,5,2,0,7,2014
+34337,"Hiawatha, IA","Brighton, IA",3,3,1,2,1,4,1,3,3,7,2014
+34718,"Hiawatha, IA","Vining, IA",2,3,1,1,3,2,0,4,2,6,2014
+34357,"Hiawatha, IA","Chariton, IA",4,2,0,0,4,2,2,2,2,6,2014
+34388,"Hiawatha, IA","Dakota City, IA",0,5,1,0,4,2,1,4,1,6,2014
+34588,"Hiawatha, IA","New Hartford, IA",2,2,2,0,5,1,0,3,3,6,2014
+34738,"Hiawatha, IA","Welton, IA",2,4,0,1,3,2,1,4,1,6,2014
+34447,"Hiawatha, IA","Fredericksburg, IA",3,2,1,2,3,1,1,3,2,6,2014
+34384,"Hiawatha, IA","Crescent, IA",2,3,1,0,4,2,2,1,3,6,2014
+34569,"Hiawatha, IA","Monona, IA",2,3,1,0,4,2,0,5,1,6,2014
+34662,"Hiawatha, IA","Seymour, IA",0,3,3,0,5,1,2,3,1,6,2014
+34519,"Hiawatha, IA","Le Mars, IA",2,2,2,0,4,2,2,2,2,6,2014
+34564,"Hiawatha, IA","Millville, IA",2,3,1,3,3,0,0,5,1,6,2014
+34513,"Hiawatha, IA","Lansing, IA",2,3,1,2,3,1,1,5,0,6,2014
+34528,"Hiawatha, IA","Lineville, IA",3,2,1,1,3,2,1,3,2,6,2014
+34412,"Hiawatha, IA","Eddyville, IA",0,6,0,1,3,2,0,3,3,6,2014
+34698,"Hiawatha, IA","Swea City, IA",2,3,1,0,3,3,3,2,1,6,2014
+34492,"Hiawatha, IA","Ionia, IA",2,3,1,3,1,2,2,3,1,6,2014
+34627,"Hiawatha, IA","Pomeroy, IA",2,3,1,0,5,1,3,2,1,6,2014
+34516,"Hiawatha, IA","Lawler, IA",3,2,1,1,2,3,3,1,2,6,2014
+34472,"Hiawatha, IA","Harpers Ferry, IA",0,4,2,3,3,0,1,3,2,6,2014
+34682,"Hiawatha, IA","St. Lucas, IA",1,4,0,3,2,0,0,4,1,5,2014
+34514,"Hiawatha, IA","Larrabee, IA",2,2,1,0,1,4,3,1,1,5,2014
+34666,"Hiawatha, IA","Shell Rock, IA",1,2,2,0,3,2,2,2,1,5,2014
+34592,"Hiawatha, IA","New Vienna, IA",1,3,1,1,3,1,1,3,1,5,2014
+34621,"Hiawatha, IA","Plainfield, IA",1,4,0,0,3,2,0,4,1,5,2014
+34397,"Hiawatha, IA","Denison, IA",2,2,1,0,4,1,4,1,0,5,2014
+34422,"Hiawatha, IA","Elma, IA",1,2,2,1,2,2,1,3,1,5,2014
+34485,"Hiawatha, IA","Humboldt, IA",3,2,0,1,2,2,3,0,2,5,2014
+34304,"Hiawatha, IA","Anthon, IA",2,2,1,0,4,1,1,4,0,5,2014
+34420,"Hiawatha, IA","Elkader, IA",3,2,0,1,3,1,1,1,3,5,2014
+34478,"Hiawatha, IA","Hawkeye, IA",1,3,1,2,3,0,1,0,4,5,2014
+34322,"Hiawatha, IA","Battle Creek, IA",0,3,2,0,5,0,2,3,0,5,2014
+34415,"Hiawatha, IA","Eldon, IA",1,2,2,0,3,2,3,2,0,5,2014
+34411,"Hiawatha, IA","East Peru, IA",0,5,0,0,3,2,3,0,2,5,2014
+34402,"Hiawatha, IA","Dike, IA",2,1,2,0,4,1,1,1,3,5,2014
+34721,"Hiawatha, IA","Walcott, IA",2,1,2,0,2,3,2,2,1,5,2014
+34729,"Hiawatha, IA","Waucoma, IA",2,1,2,2,2,1,1,2,2,5,2014
+34572,"Hiawatha, IA","Montour, IA",3,2,0,1,3,1,3,1,1,5,2014
+34577,"Hiawatha, IA","Moulton, IA",1,3,1,1,1,3,1,2,2,5,2014
+34339,"Hiawatha, IA","Britt, IA",0,2,3,0,1,4,1,3,1,5,2014
+34295,"Hiawatha, IA","Allison, IA",2,2,1,2,0,3,1,3,1,5,2014
+34638,"Hiawatha, IA","Red Oak, IA",2,3,0,0,3,2,2,3,0,5,2014
+34639,"Hiawatha, IA","Redding, IA",3,1,1,0,4,1,3,1,1,5,2014
+34487,"Hiawatha, IA","Ida Grove, IA",1,4,0,0,1,4,2,0,3,5,2014
+34296,"Hiawatha, IA","Alta Vista, IA",1,4,0,1,2,2,3,2,0,5,2014
+34471,"Hiawatha, IA","Harlan, IA",3,1,1,0,3,2,2,2,1,5,2014
+34446,"Hiawatha, IA","Fraser, IA",1,3,1,0,3,2,2,2,1,5,2014
+34661,"Hiawatha, IA","Sergeant Bluff, IA",1,3,1,0,4,1,2,2,1,5,2014
+34486,"Hiawatha, IA","Huxley, IA",1,2,2,1,3,1,1,2,2,5,2014
+34445,"Hiawatha, IA","Franklin, IA",1,2,2,0,5,0,1,2,2,5,2014
+34563,"Hiawatha, IA","Merrill, IA",2,3,0,0,4,1,3,0,2,5,2014
+34441,"Hiawatha, IA","Forest City, IA",1,4,0,0,4,1,3,1,1,5,2014
+34690,"Hiawatha, IA","State Center, IA",1,2,2,1,3,1,3,1,1,5,2014
+34291,"Hiawatha, IA","Albia, IA",2,3,0,0,3,2,2,1,2,5,2014
+34439,"Hiawatha, IA","Floris, IA",2,1,2,0,2,3,1,3,1,5,2014
+34370,"Hiawatha, IA","Coburg, IA",2,1,1,0,3,1,3,1,0,4,2014
+34321,"Hiawatha, IA","Batavia, IA",0,2,2,0,4,0,3,0,1,4,2014
+34735,"Hiawatha, IA","Webster, IA",1,2,1,0,3,1,2,0,2,4,2014
+34401,"Hiawatha, IA","Diagonal, IA",1,2,1,1,1,2,0,3,1,4,2014
+34377,"Hiawatha, IA","Coon Rapids, IA",3,1,0,0,3,1,2,2,0,4,2014
+34613,"Hiawatha, IA","Pacific Junction, IA",0,3,1,0,3,1,1,1,2,4,2014
+34380,"Hiawatha, IA","Corydon, IA",1,2,1,0,2,2,1,2,1,4,2014
+34629,"Hiawatha, IA","Postville, IA",3,1,0,0,2,2,2,0,2,4,2014
+34383,"Hiawatha, IA","Crawfordsville, IA",3,1,0,0,3,1,2,0,2,4,2014
+34671,"Hiawatha, IA","Sigourney, IA",1,3,0,0,3,1,0,3,1,4,2014
+34407,"Hiawatha, IA","Durant, IA",0,4,0,2,2,0,1,0,3,4,2014
+34405,"Hiawatha, IA","Dougherty, IA",0,3,1,0,1,3,1,2,1,4,2014
+34340,"Hiawatha, IA","Brooklyn, IA",2,2,0,2,0,2,1,1,2,4,2014
+34484,"Hiawatha, IA","Hubbard, IA",1,3,0,0,4,0,1,3,0,4,2014
+34582,"Hiawatha, IA","Moville, IA",1,2,1,0,2,2,0,1,3,4,2014
+34466,"Hiawatha, IA","Grundy Center, IA",2,1,1,1,2,1,1,3,0,4,2014
+34338,"Hiawatha, IA","Bristow, IA",1,3,0,2,1,1,1,2,1,4,2014
+34467,"Hiawatha, IA","Guernsey, IA",0,3,1,2,1,1,0,1,3,4,2014
+34546,"Hiawatha, IA","Manson, IA",2,1,1,0,3,1,2,1,1,4,2014
+34470,"Hiawatha, IA","Hampton, IA",2,2,0,0,3,1,0,2,2,4,2014
+34346,"Hiawatha, IA","Carroll, IA",1,2,1,1,2,1,2,1,1,4,2014
+34451,"Hiawatha, IA","Garner, IA",3,1,0,0,3,1,0,4,0,4,2014
+34450,"Hiawatha, IA","Garnavillo, IA",1,3,0,0,4,0,2,2,0,4,2014
+34693,"Hiawatha, IA","Story City, IA",1,3,0,0,4,0,2,2,0,4,2014
+34707,"Hiawatha, IA","Tripoli, IA",4,0,0,0,3,1,1,2,1,4,2014
+34301,"Hiawatha, IA","Andover, IA",0,4,0,1,2,1,0,0,4,4,2014
+34437,"Hiawatha, IA","Fayette, IA",3,1,0,2,2,0,0,2,2,4,2014
+34290,"Hiawatha, IA","Ainsworth, IA",0,4,0,1,3,0,1,0,3,4,2014
+34686,"Hiawatha, IA","Stacyville, IA",1,2,1,0,2,2,3,1,0,4,2014
+34506,"Hiawatha, IA","Kinross, IA",1,1,2,2,1,1,2,1,1,4,2014
+34463,"Hiawatha, IA","Greenfield, IA",1,2,1,0,3,1,2,2,0,4,2014
+34508,"Hiawatha, IA","Lacona, IA",2,1,1,0,0,4,3,1,0,4,2014
+34603,"Hiawatha, IA","Onawa, IA",1,2,1,1,3,0,1,3,0,4,2014
+34677,"Hiawatha, IA","Spencer, IA",1,3,0,1,0,3,2,1,1,4,2014
+34324,"Hiawatha, IA","Bedford, IA",2,1,1,0,3,1,0,2,2,4,2014
+34510,"Hiawatha, IA","Lake Mills, IA",3,1,0,0,4,0,1,2,1,4,2014
+34711,"Hiawatha, IA","Unionville, IA",3,0,1,0,0,4,0,4,0,4,2014
+34650,"Hiawatha, IA","Rockwell, IA",1,1,1,0,0,3,2,1,0,3,2014
+34362,"Hiawatha, IA","Clarinda, IA",1,2,0,0,3,0,1,1,1,3,2014
+34659,"Hiawatha, IA","Schaller, IA",1,2,0,0,2,1,1,2,0,3,2014
+34323,"Hiawatha, IA","Beaman, IA",3,0,0,0,1,2,2,1,0,3,2014
+34704,"Hiawatha, IA","Titonka, IA",1,1,1,0,3,0,0,3,0,3,2014
+34359,"Hiawatha, IA","Charter Oak, IA",1,1,1,0,2,1,1,1,1,3,2014
+34679,"Hiawatha, IA","Spring Hill, IA",0,3,0,0,2,1,0,1,2,3,2014
+34694,"Hiawatha, IA","Stratford, IA",0,3,0,0,2,1,0,0,3,3,2014
+34335,"Hiawatha, IA","Boxholm, IA",1,2,0,0,2,1,2,1,0,3,2014
+34670,"Hiawatha, IA","Sidney, IA",1,2,0,0,2,1,1,0,2,3,2014
+34649,"Hiawatha, IA","Rock Valley, IA",1,0,2,1,1,1,0,2,1,3,2014
+34308,"Hiawatha, IA","Arthur, IA",2,1,0,0,2,1,1,2,0,3,2014
+34663,"Hiawatha, IA","Shannon City, IA",1,2,0,0,1,2,1,2,0,3,2014
+34349,"Hiawatha, IA","Casey, IA",3,0,0,0,2,1,2,1,0,3,2014
+34624,"Hiawatha, IA","Pleasant Plain, IA",0,2,1,0,2,1,1,2,0,3,2014
+34410,"Hiawatha, IA","Eagle Grove, IA",0,1,2,0,2,1,0,2,1,3,2014
+34734,"Hiawatha, IA","Webster City, IA",2,0,1,0,2,1,1,1,1,3,2014
+34418,"Hiawatha, IA","Elgin, IA",0,3,0,0,2,1,0,3,0,3,2014
+34595,"Hiawatha, IA","Nora Springs, IA",2,0,1,1,2,0,0,2,1,3,2014
+34456,"Hiawatha, IA","Glenwood, IA",1,2,0,0,2,1,2,0,1,3,2014
+34460,"Hiawatha, IA","Grant, IA",0,0,3,0,2,1,2,0,1,3,2014
+34536,"Hiawatha, IA","Lost Nation, IA",1,2,0,1,2,0,0,1,2,3,2014
+34594,"Hiawatha, IA","Nichols, IA",1,1,1,0,2,1,0,2,1,3,2014
+34550,"Hiawatha, IA","Marquette, IA",1,1,1,0,2,1,0,2,1,3,2014
+34568,"Hiawatha, IA","Mondamin, IA",1,1,1,1,1,1,1,0,2,3,2014
+34468,"Hiawatha, IA","Guthrie Center, IA",1,2,0,0,2,1,1,2,0,3,2014
+34525,"Hiawatha, IA","Lime Springs, IA",1,1,1,1,1,1,0,1,2,3,2014
+34524,"Hiawatha, IA","Lidderdale, IA",0,2,1,0,2,1,1,2,0,3,2014
+34297,"Hiawatha, IA","Alton, IA",0,2,1,0,3,0,0,1,2,3,2014
+34305,"Hiawatha, IA","Arlington, IA",1,2,0,1,2,0,0,1,2,3,2014
+34544,"Hiawatha, IA","Manly, IA",1,1,1,0,3,0,0,2,1,3,2014
+34428,"Hiawatha, IA","Exline, IA",2,1,0,0,2,1,2,1,0,3,2014
+34476,"Hiawatha, IA","Havelock, IA",1,2,0,0,3,0,2,1,0,3,2014
+34642,"Hiawatha, IA","Richland, IA",2,1,0,1,1,1,2,0,1,3,2014
+34560,"Hiawatha, IA","Melbourne, IA",1,1,1,0,3,0,1,1,1,3,2014
+34562,"Hiawatha, IA","Meriden, IA",1,0,2,1,1,1,1,1,1,3,2014
+34504,"Hiawatha, IA","Keota, IA",1,2,0,0,3,0,1,0,2,3,2014
+34480,"Hiawatha, IA","Henderson, IA",1,1,1,0,2,1,1,1,1,3,2014
+34495,"Hiawatha, IA","Irwin, IA",1,2,0,0,3,0,1,1,1,3,2014
+34574,"Hiawatha, IA","Moravia, IA",0,2,1,0,2,1,0,3,0,3,2014
+34367,"Hiawatha, IA","Clio, IA",1,1,1,0,2,1,2,1,0,3,2014
+34691,"Hiawatha, IA","Steamboat Rock, IA",1,0,1,1,1,0,1,1,0,2,2014
+34566,"Hiawatha, IA","Missouri Valley, IA",1,1,0,0,2,0,0,2,0,2,2014
+34648,"Hiawatha, IA","Rock Rapids, IA",1,0,1,0,1,1,0,1,1,2,2014
+34531,"Hiawatha, IA","Little Sioux, IA",1,1,0,0,2,0,1,1,0,2,2014
+34697,"Hiawatha, IA","Superior, IA",0,2,0,0,1,1,0,1,1,2,2014
+34701,"Hiawatha, IA","Thompson, IA",1,1,0,0,1,1,1,1,0,2,2014
+34532,"Hiawatha, IA","Livermore, IA",0,2,0,0,1,1,0,0,2,2,2014
+34473,"Hiawatha, IA","Harris, IA",1,1,0,1,0,1,1,0,1,2,2014
+34709,"Hiawatha, IA","Underwood, IA",0,1,1,0,1,1,0,2,0,2,2014
+34314,"Hiawatha, IA","Audubon, IA",1,1,0,1,1,0,0,1,1,2,2014
+34327,"Hiawatha, IA","Belmond, IA",0,1,1,0,2,0,1,1,0,2,2014
+34477,"Hiawatha, IA","Haverhill, IA",1,1,0,0,1,1,1,1,0,2,2014
+34757,"Hiawatha, IA","Zearing, IA",2,0,0,0,2,0,2,0,0,2,2014
+34315,"Hiawatha, IA","Aurelia, IA",0,0,2,0,1,1,2,0,0,2,2014
+34689,"Hiawatha, IA","Stanton, IA",1,0,1,0,2,0,0,0,2,2,2014
+34684,"Hiawatha, IA","St. Olaf, IA",0,1,1,0,2,0,0,1,1,2,2014
+34687,"Hiawatha, IA","Stanhope, IA",1,1,0,0,1,1,1,1,0,2,2014
+34387,"Hiawatha, IA","Cushing, IA",0,1,1,0,2,0,0,0,2,2,2014
+34306,"Hiawatha, IA","Armstrong, IA",0,1,1,1,0,1,0,0,2,2,2014
+34652,"Hiawatha, IA","Roland, IA",0,1,1,0,1,1,0,0,2,2,2014
+34653,"Hiawatha, IA","Russell, IA",1,0,1,0,1,1,2,0,0,2,2014
+34363,"Hiawatha, IA","Clarion, IA",0,2,0,0,1,1,2,0,0,2,2014
+34644,"Hiawatha, IA","Rinard, IA",0,1,1,1,1,0,0,1,1,2,2014
+34656,"Hiawatha, IA","Sac City, IA",0,1,1,0,0,2,1,0,1,2,2014
+34360,"Hiawatha, IA","Chester, IA",1,1,0,0,2,0,0,2,0,2,2014
+34658,"Hiawatha, IA","Sanborn, IA",0,2,0,0,1,1,0,1,1,2,2014
+34660,"Hiawatha, IA","Schleswig, IA",0,1,1,0,2,0,1,0,1,2,2014
+34665,"Hiawatha, IA","Sheldon, IA",1,0,1,0,0,2,2,0,0,2,2014
+34313,"Hiawatha, IA","Atlantic, IA",0,2,0,1,0,1,0,0,2,2,2014
+34667,"Hiawatha, IA","Shenandoah, IA",0,2,0,0,2,0,0,1,1,2,2014
+34491,"Hiawatha, IA","Inwood, IA",1,1,0,1,0,1,0,1,1,2,2014
+34389,"Hiawatha, IA","Danville, IA",1,1,0,0,2,0,1,1,0,2,2014
+34612,"Hiawatha, IA","Oyens, IA",1,0,1,1,1,0,0,1,1,2,2014
+34364,"Hiawatha, IA","Clarksville, IA",1,1,0,0,0,2,1,1,0,2,2014
+34435,"Hiawatha, IA","Farnhamville, IA",0,1,1,0,1,1,0,1,1,2,2014
+34434,"Hiawatha, IA","Farmington, IA",0,2,0,1,1,0,0,1,1,2,2014
+34424,"Hiawatha, IA","Emmetsburg, IA",2,0,0,0,0,2,1,1,0,2,2014
+34675,"Hiawatha, IA","Soldier, IA",1,0,1,0,2,0,0,2,0,2,2014
+34317,"Hiawatha, IA","Avoca, IA",1,0,1,0,1,1,1,0,1,2,2014
+34615,"Hiawatha, IA","Panama, IA",0,1,1,0,1,1,0,1,1,2,2014
+34396,"Hiawatha, IA","Deloit, IA",0,2,0,0,2,0,0,2,0,2,2014
+34739,"Hiawatha, IA","West Bend, IA",1,0,0,0,0,1,0,1,0,1,2014
+34753,"Hiawatha, IA","Wiota, IA",0,1,0,0,1,0,0,0,1,1,2014
+34733,"Hiawatha, IA","Webb, IA",0,1,0,0,1,0,0,0,1,1,2014
+34746,"Hiawatha, IA","Whittemore, IA",0,1,0,0,1,0,1,0,0,1,2014
+34725,"Hiawatha, IA","Wallingford, IA",0,0,1,0,1,0,1,0,0,1,2014
+34307,"Hiawatha, IA","Arnolds Park, IA",0,1,0,1,0,0,0,0,1,1,2014
+34310,"Hiawatha, IA","Ashton, IA",1,0,0,0,0,1,1,0,0,1,2014
+34488,"Hiawatha, IA","Imogene, IA",0,0,1,0,1,0,1,0,0,1,2014
+34318,"Hiawatha, IA","Bagley, IA",0,1,0,0,0,1,0,1,0,1,2014
+34604,"Hiawatha, IA","Orient, IA",1,0,0,0,0,1,1,0,0,1,2014
+34433,"Hiawatha, IA","Farmersburg, IA",0,1,0,0,1,0,0,1,0,1,2014
+34436,"Hiawatha, IA","Farragut, IA",1,0,0,0,0,1,1,0,0,1,2014
+34557,"Hiawatha, IA","McClelland, IA",1,0,0,0,1,0,1,0,0,1,2014
+34449,"Hiawatha, IA","Fruitland, IA",0,1,0,0,1,0,1,0,0,1,2014
+34453,"Hiawatha, IA","George, IA",0,0,1,0,1,0,0,1,0,1,2014
+34545,"Hiawatha, IA","Manning, IA",0,1,0,0,1,0,1,0,0,1,2014
+34462,"Hiawatha, IA","Greene, IA",0,1,0,1,0,0,0,0,1,1,2014
+34521,"Hiawatha, IA","Lenox, IA",1,0,0,0,0,1,1,0,0,1,2014
+34520,"Hiawatha, IA","Le Roy, IA",0,1,0,0,1,0,1,0,0,1,2014
+34515,"Hiawatha, IA","Laurens, IA",0,0,1,0,1,0,1,0,0,1,2014
+34512,"Hiawatha, IA","Lamoni, IA",0,1,0,0,1,0,0,1,0,1,2014
+34511,"Hiawatha, IA","Lambs Grove, IA",0,0,1,0,1,0,0,0,1,1,2014
+34474,"Hiawatha, IA","Hartley, IA",1,0,0,1,0,0,0,0,1,1,2014
+34499,"Hiawatha, IA","Jewell Junction, IA",0,1,0,1,0,0,0,0,1,1,2014
+34497,"Hiawatha, IA","Jefferson, IA",1,0,0,1,0,0,0,0,1,1,2014
+34427,"Hiawatha, IA","Exira, IA",1,0,0,0,1,0,1,0,0,1,2014
+34400,"Hiawatha, IA","Dexter, IA",1,0,0,0,1,0,0,1,0,1,2014
+34332,"Hiawatha, IA","Blanchard, IA",1,0,0,0,1,0,1,0,0,1,2014
+34394,"Hiawatha, IA","Dedham, IA",1,0,0,0,1,0,0,0,1,1,2014
+34710,"Hiawatha, IA","Union, IA",0,1,0,0,1,0,0,0,1,1,2014
+34708,"Hiawatha, IA","Truesdale, IA",0,0,1,0,1,0,0,0,1,1,2014
+34685,"Hiawatha, IA","St. Paul, IA",1,0,0,0,0,1,0,1,0,1,2014
+34678,"Hiawatha, IA","Spirit Lake, IA",0,1,0,0,1,0,0,0,1,1,2014
+34673,"Hiawatha, IA","Sioux Center, IA",1,0,0,0,1,0,1,0,0,1,2014
+34672,"Hiawatha, IA","Silver City, IA",0,1,0,0,1,0,0,1,0,1,2014
+34669,"Hiawatha, IA","Sibley, IA",1,0,0,0,0,1,0,1,0,1,2014
+34664,"Hiawatha, IA","Sheffield, IA",1,0,0,0,0,1,1,0,0,1,2014
+34651,"Hiawatha, IA","Rodney, IA",1,0,0,0,1,0,0,0,1,1,2014
+34375,"Hiawatha, IA","Colwell, IA",0,0,1,0,1,0,0,1,0,1,2014
+34379,"Hiawatha, IA","Corwith, IA",0,1,0,0,1,0,0,1,0,1,2014
+34382,"Hiawatha, IA","Craig, IA",0,0,1,1,0,0,0,1,0,1,2014
+34628,"Hiawatha, IA","Popejoy, IA",0,1,0,0,1,0,0,0,1,1,2014
+34625,"Hiawatha, IA","Pocahontas, IA",1,0,0,0,0,1,0,0,1,1,2014
+34622,"Hiawatha, IA","Plano, IA",0,1,0,0,1,0,1,0,0,1,2014
+34522,"Hiawatha, IA","Leon, IA",0,0,1,0,0,1,1,0,0,1,2014

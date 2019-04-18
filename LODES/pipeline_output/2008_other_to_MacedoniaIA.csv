@@ -1,0 +1,88 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+40603,"Macedonia, IA","Red Oak, IA",39,103,30,128,14,30,23,106,43,172,2008
+40613,"Macedonia, IA","Stanton, IA",7,26,15,24,3,21,13,19,16,48,2008
+40569,"Macedonia, IA","Grant, IA",7,18,7,13,9,10,7,16,9,32,2008
+40561,"Macedonia, IA","Elliott, IA",9,16,4,17,4,8,8,10,11,29,2008
+40581,"Macedonia, IA","Macedonia, IA",4,11,8,9,5,9,5,9,9,23,2008
+40608,"Macedonia, IA","Shenandoah, IA",0,9,0,8,1,0,0,4,5,9,2008
+40554,"Macedonia, IA","Corning, IA",6,2,0,8,0,0,1,5,2,8,2008
+40582,"Macedonia, IA","Malvern, IA",4,2,1,4,1,2,2,5,0,7,2008
+40591,"Macedonia, IA","Nodaway, IA",2,3,2,7,0,0,0,2,5,7,2008
+40555,"Macedonia, IA","Council Bluffs, IA",4,2,0,0,0,6,4,1,1,6,2008
+40602,"Macedonia, IA","Randolph, IA",0,6,0,5,0,1,1,4,1,6,2008
+40559,"Macedonia, IA","Des Moines, IA",1,5,0,1,2,3,1,3,2,6,2008
+40568,"Macedonia, IA","Glenwood, IA",2,4,0,5,0,1,1,0,5,6,2008
+40578,"Macedonia, IA","Lewis, IA",1,2,3,2,4,0,2,0,4,6,2008
+40607,"Macedonia, IA","Sharpsburg, IA",0,3,1,4,0,0,3,1,0,4,2008
+40557,"Macedonia, IA","Cumberland, IA",1,3,0,1,1,2,2,1,1,4,2008
+40556,"Macedonia, IA","Cromwell, IA",1,3,0,1,2,1,0,2,2,4,2008
+40609,"Macedonia, IA","Sidney, IA",0,3,0,3,0,0,0,1,2,3,2008
+40606,"Macedonia, IA","Schleswig, IA",0,2,1,2,0,1,1,1,1,3,2008
+40558,"Macedonia, IA","Danbury, IA",0,2,1,1,0,2,1,1,1,3,2008
+40610,"Macedonia, IA","Silver City, IA",1,1,1,1,2,0,2,1,0,3,2008
+40552,"Macedonia, IA","Coburg, IA",1,2,0,3,0,0,0,1,2,3,2008
+40546,"Macedonia, IA","Carson, IA",0,3,0,0,1,2,2,0,1,3,2008
+40551,"Macedonia, IA","Clive, IA",2,0,1,1,1,1,2,1,0,3,2008
+40579,"Macedonia, IA","Logan, IA",0,2,0,0,0,2,1,1,0,2,2008
+40562,"Macedonia, IA","Essex, IA",2,0,0,0,2,0,1,1,0,2,2008
+40570,"Macedonia, IA","Gravity, IA",0,0,2,2,0,0,0,2,0,2,2008
+40536,"Macedonia, IA","Ankeny, IA",2,0,0,2,0,0,0,1,1,2,2008
+40541,"Macedonia, IA","Atlantic, IA",0,1,1,2,0,0,0,0,2,2,2008
+40542,"Macedonia, IA","Aurelia, IA",0,1,1,0,0,2,1,1,0,2,2008
+40611,"Macedonia, IA","Sioux City, IA",1,0,1,1,0,1,0,1,1,2,2008
+40549,"Macedonia, IA","Clarinda, IA",0,1,1,1,0,1,0,1,1,2,2008
+40545,"Macedonia, IA","Bedford, IA",0,2,0,0,0,2,0,0,2,2,2008
+40592,"Macedonia, IA","Norwalk, IA",0,1,0,1,0,0,0,0,1,1,2008
+40596,"Macedonia, IA","Orient, IA",0,1,0,0,1,0,1,0,0,1,2008
+40599,"Macedonia, IA","Owasa, IA",0,1,0,0,0,1,1,0,0,1,2008
+40593,"Macedonia, IA","Oakland, IA",0,1,0,0,0,1,1,0,0,1,2008
+40594,"Macedonia, IA","Onawa, IA",1,0,0,0,0,1,1,0,0,1,2008
+40595,"Macedonia, IA","Orange City, IA",1,0,0,0,0,1,1,0,0,1,2008
+40597,"Macedonia, IA","Oskaloosa, IA",0,1,0,1,0,0,0,1,0,1,2008
+40598,"Macedonia, IA","Ottumwa, IA",0,1,0,0,1,0,0,0,1,1,2008
+40534,"Macedonia, IA","Afton, IA",0,1,0,0,0,1,0,0,1,1,2008
+40600,"Macedonia, IA","Pacific Junction, IA",0,0,1,0,1,0,0,1,0,1,2008
+40601,"Macedonia, IA","Pleasant Hill, IA",1,0,0,1,0,0,0,1,0,1,2008
+40604,"Macedonia, IA","Riverton, IA",0,1,0,0,0,1,0,0,1,1,2008
+40605,"Macedonia, IA","Sageville, IA",0,0,1,0,0,1,0,1,0,1,2008
+40589,"Macedonia, IA","Murray, IA",0,1,0,1,0,0,0,1,0,1,2008
+40612,"Macedonia, IA","St. Lucas, IA",0,1,0,0,0,1,0,0,1,1,2008
+40614,"Macedonia, IA","Urbandale, IA",1,0,0,1,0,0,1,0,0,1,2008
+40615,"Macedonia, IA","Waterloo, IA",0,1,0,0,0,1,0,1,0,1,2008
+40616,"Macedonia, IA","Waukon, IA",0,1,0,0,0,1,0,0,1,1,2008
+40617,"Macedonia, IA","Webb, IA",1,0,0,0,0,1,1,0,0,1,2008
+40618,"Macedonia, IA","West Des Moines, IA",0,1,0,0,0,1,1,0,0,1,2008
+40619,"Macedonia, IA","Windsor Heights, IA",1,0,0,1,0,0,0,1,0,1,2008
+40590,"Macedonia, IA","Newton, IA",1,0,0,1,0,0,0,1,0,1,2008
+40577,"Macedonia, IA","Leland, IA",0,1,0,0,0,1,1,0,0,1,2008
+40588,"Macedonia, IA","Mount Auburn, IA",0,0,1,1,0,0,0,0,1,1,2008
+40565,"Macedonia, IA","Farragut, IA",0,1,0,0,0,1,0,0,1,1,2008
+40537,"Macedonia, IA","Anthon, IA",0,1,0,0,0,1,0,1,0,1,2008
+40538,"Macedonia, IA","Arthur, IA",0,1,0,0,1,0,0,1,0,1,2008
+40539,"Macedonia, IA","Asbury, IA",0,1,0,0,0,1,0,1,0,1,2008
+40540,"Macedonia, IA","Atkins, IA",1,0,0,0,0,1,1,0,0,1,2008
+40543,"Macedonia, IA","Batavia, IA",0,1,0,0,0,1,1,0,0,1,2008
+40544,"Macedonia, IA","Bayard, IA",0,1,0,0,0,1,0,0,1,1,2008
+40547,"Macedonia, IA","Cedar Falls, IA",0,1,0,0,1,0,1,0,0,1,2008
+40548,"Macedonia, IA","Chariton, IA",0,0,1,0,0,1,1,0,0,1,2008
+40550,"Macedonia, IA","Clinton, IA",1,0,0,0,0,1,1,0,0,1,2008
+40553,"Macedonia, IA","Coon Rapids, IA",0,1,0,0,0,1,1,0,0,1,2008
+40560,"Macedonia, IA","Dyersville, IA",0,1,0,1,0,0,0,0,1,1,2008
+40563,"Macedonia, IA","Estherville, IA",1,0,0,0,0,1,1,0,0,1,2008
+40564,"Macedonia, IA","Exira, IA",1,0,0,0,0,1,0,1,0,1,2008
+40566,"Macedonia, IA","Fort Dodge, IA",1,0,0,0,0,1,1,0,0,1,2008
+40587,"Macedonia, IA","Mondamin, IA",0,1,0,0,1,0,0,0,1,1,2008
+40567,"Macedonia, IA","George, IA",0,1,0,0,0,1,0,0,1,1,2008
+40571,"Macedonia, IA","Grimes, IA",1,0,0,1,0,0,1,0,0,1,2008
+40572,"Macedonia, IA","Henderson, IA",1,0,0,0,0,1,1,0,0,1,2008
+40573,"Macedonia, IA","Hinton, IA",0,1,0,0,0,1,1,0,0,1,2008
+40574,"Macedonia, IA","Kalona, IA",0,1,0,0,0,1,0,1,0,1,2008
+40575,"Macedonia, IA","Kiron, IA",0,1,0,1,0,0,0,0,1,1,2008
+40576,"Macedonia, IA","Lamoni, IA",0,0,1,0,1,0,0,0,1,1,2008
+40535,"Macedonia, IA","Albion, IA",1,0,0,0,0,1,0,1,0,1,2008
+40580,"Macedonia, IA","Lost Nation, IA",1,0,0,0,0,1,1,0,0,1,2008
+40583,"Macedonia, IA","Manning, IA",0,1,0,0,0,1,1,0,0,1,2008
+40584,"Macedonia, IA","Massena, IA",0,1,0,0,1,0,1,0,0,1,2008
+40585,"Macedonia, IA","Meriden, IA",0,1,0,0,0,1,0,1,0,1,2008
+40586,"Macedonia, IA","Missouri Valley, IA",1,0,0,0,0,1,1,0,0,1,2008
+40620,"Macedonia, IA","Woolstock, IA",0,1,0,0,0,1,0,1,0,1,2008

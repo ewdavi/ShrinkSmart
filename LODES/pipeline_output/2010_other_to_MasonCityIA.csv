@@ -1,0 +1,572 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+47355,"Mason City, IA","Mason City, IA",1975,4968,2200,1646,6118,1379,2691,3747,2705,9143,2010
+47120,"Mason City, IA","Clear Lake, IA",287,769,355,227,960,224,336,614,461,1411,2010
+47402,"Mason City, IA","Nora Springs, IA",82,282,102,111,286,69,105,194,167,466,2010
+47404,"Mason City, IA","Northwood, IA",91,265,104,114,266,80,101,214,145,460,2010
+47208,"Mason City, IA","Floyd, IA",72,218,90,98,220,62,82,160,138,380,2010
+47111,"Mason City, IA","Charles City, IA",67,160,67,85,146,63,79,137,78,294,2010
+47219,"Mason City, IA","Garner, IA",65,159,62,41,199,46,69,113,104,286,2010
+47440,"Mason City, IA","Plymouth, IA",37,166,66,53,165,51,57,118,94,269,2010
+47475,"Mason City, IA","Rockford, IA",38,145,56,43,161,35,44,104,91,239,2010
+47342,"Mason City, IA","Manly, IA",55,121,43,51,123,45,51,93,75,219,2010
+47161,"Mason City, IA","Des Moines, IA",68,81,23,14,92,66,54,53,65,172,2010
+47246,"Mason City, IA","Hampton, IA",29,106,35,28,106,36,39,81,50,170,2010
+47413,"Mason City, IA","Osage, IA",40,83,28,22,102,27,41,70,40,151,2010
+47564,"Mason City, IA","Waterloo, IA",70,60,20,5,71,74,59,67,24,150,2010
+47538,"Mason City, IA","Thornton, IA",26,90,33,26,98,25,29,56,64,149,2010
+47290,"Mason City, IA","Kensett, IA",30,81,32,31,85,27,38,58,47,143,2010
+47477,"Mason City, IA","Rockwell, IA",23,87,27,30,82,25,21,57,59,137,2010
+47212,"Mason City, IA","Fort Dodge, IA",36,67,31,11,83,40,42,64,28,134,2010
+47210,"Mason City, IA","Forest City, IA",42,56,28,23,89,14,40,45,41,126,2010
+47088,"Mason City, IA","Britt, IA",29,73,20,20,85,17,28,62,32,122,2010
+47390,"Mason City, IA","Nashua, IA",31,69,14,22,71,21,21,56,37,114,2010
+47105,"Mason City, IA","Cedar Falls, IA",48,50,14,1,49,62,46,45,21,112,2010
+47150,"Mason City, IA","Davenport, IA",25,61,15,5,67,29,28,35,38,101,2010
+47287,"Mason City, IA","Joice, IA",14,61,25,13,70,17,19,39,42,100,2010
+47248,"Mason City, IA","Hanlontown, IA",13,56,23,14,61,17,20,36,36,92,2010
+47393,"Mason City, IA","New Hampton, IA",19,55,15,6,65,18,26,32,31,89,2010
+47142,"Mason City, IA","Crystal Lake, IA",18,49,18,19,52,14,22,40,23,85,2010
+47301,"Mason City, IA","Lake Mills, IA",22,40,22,13,61,10,28,33,23,84,2010
+47520,"Mason City, IA","Stacyville, IA",21,40,21,9,60,13,26,25,31,82,2010
+47505,"Mason City, IA","Sioux City, IA",28,39,12,4,24,51,34,26,19,79,2010
+47279,"Mason City, IA","Iowa Falls, IA",18,49,12,10,53,16,27,26,26,79,2010
+47045,"Mason City, IA","Ames, IA",26,44,6,2,34,40,24,15,37,76,2010
+47040,"Mason City, IA","Algona, IA",24,34,13,4,42,25,32,20,19,71,2010
+47171,"Mason City, IA","Dubuque, IA",24,34,12,6,36,28,29,25,16,70,2010
+47155,"Mason City, IA","Decorah, IA",17,30,15,6,29,27,15,26,21,62,2010
+47130,"Mason City, IA","Colwell, IA",12,37,11,12,42,6,14,28,18,60,2010
+47568,"Mason City, IA","Waverly, IA",24,32,3,2,33,24,15,21,23,59,2010
+47278,"Mason City, IA","Iowa City, IA",29,23,7,2,30,27,18,23,18,59,2010
+47295,"Mason City, IA","Klemme, IA",17,31,8,11,34,11,18,23,15,56,2010
+47106,"Mason City, IA","Cedar Rapids, IA",26,20,8,1,38,15,23,19,12,54,2010
+47048,"Mason City, IA","Ankeny, IA",19,25,8,1,27,24,12,15,25,52,2010
+47428,"Mason City, IA","Parkersburg, IA",13,29,9,0,32,19,23,12,16,51,2010
+47593,"Mason City, IA","Windsor Heights, IA",21,24,6,1,31,19,16,21,14,51,2010
+47496,"Mason City, IA","Sheffield, IA",12,29,8,11,29,9,7,18,24,49,2010
+47134,"Mason City, IA","Corwith, IA",11,28,7,6,36,4,12,17,17,46,2010
+47437,"Mason City, IA","Pleasant Hill, IA",9,24,9,6,25,11,8,11,23,42,2010
+47570,"Mason City, IA","Webster City, IA",11,19,12,7,27,8,13,18,11,42,2010
+47552,"Mason City, IA","Urbandale, IA",16,19,6,1,23,17,14,9,18,41,2010
+47319,"Mason City, IA","Leland, IA",13,25,2,5,31,4,15,13,12,40,2010
+47579,"Mason City, IA","West Des Moines, IA",11,26,3,1,22,17,15,11,14,40,2010
+47515,"Mason City, IA","St. Ansgar, IA",6,24,10,3,33,4,12,17,11,40,2010
+47075,"Mason City, IA","Bettendorf, IA",7,26,7,0,27,13,11,7,22,40,2010
+47220,"Mason City, IA","Geneva, IA",7,26,6,5,30,4,11,17,11,39,2010
+47137,"Mason City, IA","Council Bluffs, IA",14,20,5,2,11,26,15,8,16,39,2010
+47124,"Mason City, IA","Clive, IA",17,18,3,2,21,15,12,9,17,38,2010
+47405,"Mason City, IA","Norwalk, IA",15,15,5,5,13,17,10,12,13,35,2010
+47347,"Mason City, IA","Marble Rock, IA",4,21,9,9,19,6,8,11,15,34,2010
+47051,"Mason City, IA","Aredale, IA",6,22,5,8,21,4,6,13,14,33,2010
+47352,"Mason City, IA","Marshalltown, IA",12,14,7,2,20,11,11,13,9,33,2010
+47566,"Mason City, IA","Waukee, IA",12,16,4,2,17,13,7,11,14,32,2010
+47399,"Mason City, IA","Newton, IA",11,18,2,1,17,13,7,13,11,31,2010
+47370,"Mason City, IA","Mitchell, IA",5,18,8,3,22,6,6,16,9,31,2010
+47409,"Mason City, IA","Oelwein, IA",10,17,4,2,16,13,15,11,5,31,2010
+47091,"Mason City, IA","Buffalo Center, IA",9,17,3,1,25,3,11,15,3,29,2010
+47039,"Mason City, IA","Alden, IA",5,14,10,5,20,4,12,9,8,29,2010
+47263,"Mason City, IA","Hiawatha, IA",10,14,4,1,21,6,7,9,12,28,2010
+47139,"Mason City, IA","Cresco, IA",11,13,4,1,18,9,9,11,8,28,2010
+47196,"Mason City, IA","Evansdale, IA",11,15,2,0,8,20,6,20,2,28,2010
+47041,"Mason City, IA","Allison, IA",7,15,6,6,20,2,6,13,9,28,2010
+47358,"Mason City, IA","McIntire, IA",11,10,6,2,21,4,6,16,5,27,2010
+47459,"Mason City, IA","Readlyn, IA",7,14,5,2,15,9,9,6,11,26,2010
+47491,"Mason City, IA","Scarville, IA",6,17,3,5,18,3,9,13,4,26,2010
+47122,"Mason City, IA","Clinton, IA",16,7,3,1,10,15,13,10,3,26,2010
+47160,"Mason City, IA","Denver, IA",9,11,5,1,12,12,8,10,7,25,2010
+47567,"Mason City, IA","Waukon, IA",5,13,7,1,13,11,13,9,3,25,2010
+47274,"Mason City, IA","Independence, IA",7,14,4,3,11,11,8,9,8,25,2010
+47498,"Mason City, IA","Shell Rock, IA",5,11,8,1,14,9,10,11,3,24,2010
+47282,"Mason City, IA","Janesville, IA",5,12,6,2,14,7,8,10,5,23,2010
+47286,"Mason City, IA","Johnston, IA",7,15,1,1,10,12,8,9,6,23,2010
+47044,"Mason City, IA","Altoona, IA",6,13,3,2,14,6,4,9,9,22,2010
+47388,"Mason City, IA","Muscatine, IA",6,12,4,0,14,8,6,10,6,22,2010
+47297,"Mason City, IA","Knoxville, IA",2,16,4,4,9,9,6,3,13,22,2010
+47081,"Mason City, IA","Boone, IA",8,10,4,2,8,12,5,8,9,22,2010
+47418,"Mason City, IA","Ottumwa, IA",6,12,3,1,9,11,5,11,5,21,2010
+47271,"Mason City, IA","Humboldt, IA",3,13,5,0,13,8,8,6,7,21,2010
+47198,"Mason City, IA","Fairbank, IA",14,5,1,1,8,11,10,6,4,20,2010
+47093,"Mason City, IA","Burlington, IA",7,8,5,0,9,11,11,7,2,20,2010
+47136,"Mason City, IA","Coulter, IA",3,12,4,2,12,5,4,9,6,19,2010
+47597,"Mason City, IA","Woden, IA",2,13,4,5,10,4,6,7,6,19,2010
+47277,"Mason City, IA","Ionia, IA",2,10,6,3,11,4,4,7,7,18,2010
+47275,"Mason City, IA","Indianola, IA",9,7,2,0,10,8,3,9,6,18,2010
+47472,"Mason City, IA","Robins, IA",6,10,2,0,10,8,3,8,7,18,2010
+47311,"Mason City, IA","Lawler, IA",8,6,4,0,12,6,8,8,2,18,2010
+47587,"Mason City, IA","Whittemore, IA",1,8,9,2,11,5,5,6,7,18,2010
+47451,"Mason City, IA","Protivin, IA",5,9,3,4,11,2,5,6,6,17,2010
+47236,"Mason City, IA","Greene, IA",2,14,1,3,12,2,3,6,8,17,2010
+47042,"Mason City, IA","Alta Vista, IA",3,10,4,1,14,2,2,9,6,17,2010
+47336,"Mason City, IA","Luana, IA",3,9,5,3,5,9,2,10,5,17,2010
+47087,"Mason City, IA","Bristow, IA",5,7,4,0,15,1,4,8,4,16,2010
+47187,"Mason City, IA","Elk Run Heights, IA",4,6,6,1,8,7,5,7,4,16,2010
+47391,"Mason City, IA","Nevada, IA",5,8,3,1,7,8,5,5,6,16,2010
+47416,"Mason City, IA","Otho, IA",5,10,0,2,10,3,2,10,3,15,2010
+47133,"Mason City, IA","Coralville, IA",5,8,2,0,6,9,6,6,3,15,2010
+47098,"Mason City, IA","Carlisle, IA",4,7,4,3,5,7,5,4,6,15,2010
+47432,"Mason City, IA","Pella, IA",3,8,4,0,7,8,7,1,7,15,2010
+47511,"Mason City, IA","Spencer, IA",4,6,5,1,5,9,6,7,2,15,2010
+47215,"Mason City, IA","Fredericksburg, IA",3,8,4,0,13,2,6,4,5,15,2010
+47178,"Mason City, IA","Eagle Grove, IA",6,7,1,1,5,8,4,7,3,14,2010
+47529,"Mason City, IA","Sumner, IA",7,4,2,0,6,7,7,2,4,13,2010
+47434,"Mason City, IA","Perry, IA",4,6,3,0,10,3,5,2,6,13,2010
+47257,"Mason City, IA","Havelock, IA",5,4,4,0,10,3,6,5,2,13,2010
+47504,"Mason City, IA","Sioux Center, IA",5,6,2,2,5,6,2,8,3,13,2010
+47216,"Mason City, IA","Frederika, IA",5,6,1,0,6,6,7,2,3,12,2010
+47291,"Mason City, IA","Keokuk, IA",3,4,5,1,2,9,7,3,2,12,2010
+47118,"Mason City, IA","Clarion, IA",8,2,2,1,8,3,5,6,1,12,2010
+47411,"Mason City, IA","Orange City, IA",5,6,1,1,4,7,9,1,2,12,2010
+47227,"Mason City, IA","Goldfield, IA",3,9,0,1,8,3,4,7,1,12,2010
+47323,"Mason City, IA","Lime Springs, IA",4,7,1,1,10,1,6,5,1,12,2010
+47055,"Mason City, IA","Asbury, IA",8,4,0,0,6,6,5,5,2,12,2010
+47533,"Mason City, IA","Swea City, IA",4,4,4,0,9,3,7,3,2,12,2010
+47439,"Mason City, IA","Pleasantville, IA",3,5,3,1,8,2,2,3,6,11,2010
+47119,"Mason City, IA","Clarksville, IA",3,5,3,2,8,1,4,3,4,11,2010
+47213,"Mason City, IA","Fort Madison, IA",5,5,1,1,4,6,4,2,5,11,2010
+47329,"Mason City, IA","Livermore, IA",1,7,3,2,7,2,2,5,4,11,2010
+47327,"Mason City, IA","Liscomb, IA",3,5,2,3,3,4,1,2,7,10,2010
+47170,"Mason City, IA","Dougherty, IA",3,7,0,3,4,3,4,3,3,10,2010
+47285,"Mason City, IA","Jewell Junction, IA",2,5,3,0,7,3,3,4,3,10,2010
+47541,"Mason City, IA","Titonka, IA",3,4,3,0,5,5,5,5,0,10,2010
+47099,"Mason City, IA","Carroll, IA",5,2,3,2,5,3,3,5,2,10,2010
+47072,"Mason City, IA","Belmond, IA",6,2,2,1,4,5,7,2,1,10,2010
+47415,"Mason City, IA","Oskaloosa, IA",2,7,1,0,6,4,2,4,4,10,2010
+47476,"Mason City, IA","Rockwell City, IA",3,6,1,1,3,6,5,2,3,10,2010
+47453,"Mason City, IA","Rake, IA",3,6,1,1,6,3,7,3,0,10,2010
+47549,"Mason City, IA","University Heights, IA",5,4,1,0,3,7,4,5,1,10,2010
+47146,"Mason City, IA","Dakota City, IA",3,6,1,3,5,2,3,5,2,10,2010
+47392,"Mason City, IA","New Albin, IA",7,2,1,0,8,2,3,2,5,10,2010
+47551,"Mason City, IA","Urbana, IA",3,2,5,1,3,6,5,4,1,10,2010
+47380,"Mason City, IA","Morrison, IA",2,7,1,0,4,6,1,4,5,10,2010
+47544,"Mason City, IA","Tripoli, IA",2,6,1,0,6,3,2,5,2,9,2010
+47239,"Mason City, IA","Grimes, IA",2,5,2,0,4,5,3,2,4,9,2010
+47189,"Mason City, IA","Elkport, IA",5,3,1,2,5,2,3,4,2,9,2010
+47471,"Mason City, IA","Riverside, IA",3,4,2,0,7,2,3,2,4,9,2010
+47061,"Mason City, IA","Aurelia, IA",3,4,2,2,4,3,1,6,2,9,2010
+47526,"Mason City, IA","Stratford, IA",3,4,2,4,2,3,2,5,2,9,2010
+47512,"Mason City, IA","Spirit Lake, IA",4,4,1,0,6,3,2,4,3,9,2010
+47162,"Mason City, IA","Dexter, IA",1,4,4,0,8,1,0,4,5,9,2010
+47159,"Mason City, IA","Denison, IA",2,6,1,3,3,3,2,4,3,9,2010
+47080,"Mason City, IA","Bondurant, IA",3,5,1,0,4,5,3,2,4,9,2010
+47315,"Mason City, IA","Le Mars, IA",2,6,1,2,3,4,5,3,1,9,2010
+47140,"Mason City, IA","Creston, IA",5,4,0,0,6,3,3,6,0,9,2010
+47375,"Mason City, IA","Monticello, IA",3,4,2,1,3,5,4,3,2,9,2010
+47384,"Mason City, IA","Mount Pleasant, IA",4,2,3,0,5,4,6,0,3,9,2010
+47103,"Mason City, IA","Castalia, IA",5,3,1,0,2,7,4,3,2,9,2010
+47394,"Mason City, IA","New Hartford, IA",4,4,1,1,1,7,3,4,2,9,2010
+47573,"Mason City, IA","Wellsburg, IA",1,6,1,1,4,3,3,3,2,8,2010
+47563,"Mason City, IA","Washington, IA",5,1,2,1,4,3,4,3,1,8,2010
+47396,"Mason City, IA","New Sharon, IA",2,5,1,0,5,3,3,3,2,8,2010
+47300,"Mason City, IA","Lake City, IA",2,3,3,0,4,4,2,4,2,8,2010
+47240,"Mason City, IA","Grinnell, IA",2,4,2,0,4,4,3,3,2,8,2010
+47555,"Mason City, IA","Vinton, IA",1,5,2,0,6,2,3,2,3,8,2010
+47473,"Mason City, IA","Rock Rapids, IA",3,3,2,0,4,4,6,0,2,8,2010
+47032,"Mason City, IA","Ackworth, IA",3,3,2,0,5,3,2,3,3,8,2010
+47465,"Mason City, IA","Renwick, IA",2,3,3,0,6,2,2,5,1,8,2010
+47444,"Mason City, IA","Popejoy, IA",2,4,2,1,5,2,4,2,2,8,2010
+47435,"Mason City, IA","Plainfield, IA",3,4,1,0,4,4,2,4,2,8,2010
+47427,"Mason City, IA","Panorama Park, IA",2,5,1,0,8,0,2,3,3,8,2010
+47425,"Mason City, IA","Palo, IA",1,7,0,0,6,2,2,3,3,8,2010
+47031,"Mason City, IA","Ackley, IA",0,6,2,0,5,3,2,6,0,8,2010
+47601,"Mason City, IA","Yetter, IA",4,3,1,1,4,3,4,4,0,8,2010
+47184,"Mason City, IA","Eldridge, IA",4,3,1,0,5,3,5,2,1,8,2010
+47191,"Mason City, IA","Elma, IA",2,3,3,2,6,0,3,3,2,8,2010
+47114,"Mason City, IA","Chester, IA",3,4,1,0,7,1,2,5,1,8,2010
+47241,"Mason City, IA","Grundy Center, IA",2,3,2,0,2,5,3,4,0,7,2010
+47398,"Mason City, IA","Newell, IA",3,3,1,1,3,3,2,1,4,7,2010
+47371,"Mason City, IA","Mitchellville, IA",0,5,2,1,3,3,3,1,3,7,2010
+47488,"Mason City, IA","Sageville, IA",5,2,0,0,3,4,2,5,0,7,2010
+47071,"Mason City, IA","Bellevue, IA",1,5,1,0,3,4,1,2,4,7,2010
+47346,"Mason City, IA","Maquoketa, IA",3,2,2,1,3,3,3,2,2,7,2010
+47508,"Mason City, IA","Sloan, IA",2,3,2,0,3,4,1,4,2,7,2010
+47510,"Mason City, IA","Solon, IA",5,1,1,0,2,5,3,3,1,7,2010
+47334,"Mason City, IA","Long Grove, IA",1,6,0,0,5,2,1,4,2,7,2010
+47514,"Mason City, IA","Springville, IA",2,3,2,0,5,2,1,4,2,7,2010
+47522,"Mason City, IA","Stanley, IA",1,4,2,0,6,1,3,2,2,7,2010
+47524,"Mason City, IA","Storm Lake, IA",1,4,2,1,3,3,0,2,5,7,2010
+47261,"Mason City, IA","Hazleton, IA",2,5,0,2,4,1,2,1,4,7,2010
+47153,"Mason City, IA","De Soto, IA",1,6,0,1,4,2,0,2,5,7,2010
+47313,"Mason City, IA","Le Claire, IA",0,5,2,1,5,1,1,1,5,7,2010
+47266,"Mason City, IA","Hopkinton, IA",2,4,1,1,1,5,0,6,1,7,2010
+47530,"Mason City, IA","Superior, IA",1,5,1,1,2,4,1,2,4,7,2010
+47556,"Mason City, IA","Wadena, IA",4,2,1,1,5,1,1,4,2,7,2010
+47537,"Mason City, IA","Thompson, IA",3,3,1,1,5,1,3,3,1,7,2010
+47540,"Mason City, IA","Tipton, IA",2,4,1,0,3,4,1,4,2,7,2010
+47583,"Mason City, IA","West Union, IA",0,6,1,3,2,2,1,1,5,7,2010
+47284,"Mason City, IA","Jesup, IA",1,4,2,1,3,3,4,1,2,7,2010
+47447,"Mason City, IA","Preston, IA",1,5,1,0,5,2,3,0,4,7,2010
+47204,"Mason City, IA","Fayette, IA",1,3,3,0,4,3,4,3,0,7,2010
+47417,"Mason City, IA","Ottosen, IA",3,2,2,0,6,1,2,2,3,7,2010
+47595,"Mason City, IA","Winterset, IA",1,4,2,0,5,2,1,2,4,7,2010
+47421,"Mason City, IA","Oxford, IA",4,2,1,0,4,3,3,3,1,7,2010
+47455,"Mason City, IA","Randall, IA",1,5,1,1,5,1,3,2,2,7,2010
+47199,"Mason City, IA","Fairfax, IA",3,2,2,0,3,4,3,2,2,7,2010
+47097,"Mason City, IA","Cambridge, IA",2,5,0,0,4,3,3,0,4,7,2010
+47532,"Mason City, IA","Swan, IA",2,4,0,0,4,2,0,2,4,6,2010
+47299,"Mason City, IA","Lacona, IA",2,4,0,1,3,2,0,2,4,6,2010
+47062,"Mason City, IA","Aurora, IA",0,2,4,0,5,1,1,4,1,6,2010
+47596,"Mason City, IA","Winthrop, IA",1,3,2,0,5,1,3,1,2,6,2010
+47449,"Mason City, IA","Princeton, IA",1,5,0,0,4,2,2,2,2,6,2010
+47259,"Mason City, IA","Hawarden, IA",4,1,1,0,3,3,2,3,1,6,2010
+47165,"Mason City, IA","Dike, IA",1,5,0,0,2,4,1,4,1,6,2010
+47326,"Mason City, IA","Lisbon, IA",2,3,1,0,1,5,2,2,2,6,2010
+47516,"Mason City, IA","St. Lucas, IA",3,1,2,1,3,2,0,6,0,6,2010
+47046,"Mason City, IA","Anamosa, IA",2,4,0,0,5,1,2,1,3,6,2010
+47414,"Mason City, IA","Osceola, IA",2,3,1,0,3,3,4,2,0,6,2010
+47224,"Mason City, IA","Gilbertville, IA",2,1,3,1,2,3,2,2,2,6,2010
+47343,"Mason City, IA","Manning, IA",3,2,1,2,1,3,2,3,1,6,2010
+47193,"Mason City, IA","Emmetsburg, IA",1,3,2,0,0,6,3,2,1,6,2010
+47200,"Mason City, IA","Fairfield, IA",2,4,0,1,2,3,1,3,2,6,2010
+47507,"Mason City, IA","Slater, IA",1,4,1,0,1,5,2,2,2,6,2010
+47461,"Mason City, IA","Red Oak, IA",3,2,1,1,1,4,2,2,2,6,2010
+47129,"Mason City, IA","Colo, IA",3,3,0,1,3,2,1,1,4,6,2010
+47454,"Mason City, IA","Randalia, IA",0,5,1,1,5,0,2,3,1,6,2010
+47490,"Mason City, IA","Sanborn, IA",2,2,2,1,3,2,2,2,2,6,2010
+47190,"Mason City, IA","Ellsworth, IA",1,4,1,0,3,3,2,4,0,6,2010
+47468,"Mason City, IA","Ridgeway, IA",1,3,2,1,1,4,0,1,5,6,2010
+47493,"Mason City, IA","Sergeant Bluff, IA",1,4,1,1,3,2,1,2,3,6,2010
+47351,"Mason City, IA","Marquette, IA",2,3,1,0,4,2,3,2,1,6,2010
+47244,"Mason City, IA","Guttenberg, IA",1,3,2,1,3,2,3,2,1,6,2010
+47037,"Mason City, IA","Albia, IA",2,4,0,0,4,2,3,2,1,6,2010
+47479,"Mason City, IA","Roland, IA",4,1,0,1,4,0,2,1,2,5,2010
+47294,"Mason City, IA","Kinross, IA",1,3,1,0,4,1,2,1,2,5,2010
+47059,"Mason City, IA","Atlantic, IA",2,3,0,1,0,4,3,0,2,5,2010
+47288,"Mason City, IA","Kalona, IA",3,1,1,0,3,2,1,3,1,5,2010
+47474,"Mason City, IA","Rock Valley, IA",0,5,0,0,3,2,3,0,2,5,2010
+47430,"Mason City, IA","Patterson, IA",3,1,1,0,2,3,2,3,0,5,2010
+47168,"Mason City, IA","Donnellson, IA",2,2,1,0,3,2,0,4,1,5,2010
+47386,"Mason City, IA","Moville, IA",2,3,0,2,0,3,2,1,2,5,2010
+47306,"Mason City, IA","Lamoni, IA",0,4,1,1,3,1,1,2,2,5,2010
+47527,"Mason City, IA","Strawberry Point, IA",4,1,0,0,1,4,2,3,0,5,2010
+47484,"Mason City, IA","Rutland, IA",0,4,1,1,4,0,0,2,3,5,2010
+47528,"Mason City, IA","Sully, IA",1,4,0,0,3,2,1,2,2,5,2010
+47441,"Mason City, IA","Pocahontas, IA",2,2,1,0,2,3,3,1,1,5,2010
+47344,"Mason City, IA","Manson, IA",0,5,0,0,3,2,1,2,2,5,2010
+47154,"Mason City, IA","De Witt, IA",0,3,2,0,2,3,0,2,3,5,2010
+47085,"Mason City, IA","Brandon, IA",1,2,2,0,1,4,0,5,0,5,2010
+47442,"Mason City, IA","Polk City, IA",2,3,0,1,2,2,2,0,3,5,2010
+47073,"Mason City, IA","Bennett, IA",1,4,0,0,2,3,1,1,3,5,2010
+47283,"Mason City, IA","Jefferson, IA",1,3,1,0,3,2,4,1,0,5,2010
+47403,"Mason City, IA","North Liberty, IA",1,3,1,0,1,4,1,2,2,5,2010
+47448,"Mason City, IA","Primghar, IA",1,3,1,1,1,3,0,3,2,5,2010
+47339,"Mason City, IA","Madrid, IA",2,3,0,1,2,2,1,2,2,5,2010
+47458,"Mason City, IA","Raymond, IA",4,0,1,0,1,4,2,3,0,5,2010
+47318,"Mason City, IA","Lehigh, IA",0,3,2,2,2,1,2,2,1,5,2010
+47172,"Mason City, IA","Duncombe, IA",4,1,0,0,4,1,1,3,1,5,2010
+47195,"Mason City, IA","Estherville, IA",2,1,2,0,1,4,3,2,0,5,2010
+47243,"Mason City, IA","Guthrie Center, IA",1,1,3,1,1,3,3,0,2,5,2010
+47049,"Mason City, IA","Anthon, IA",3,2,0,1,0,4,1,2,2,5,2010
+47577,"Mason City, IA","West Burlington, IA",1,3,1,0,3,2,1,3,1,5,2010
+47559,"Mason City, IA","Walford, IA",3,1,1,0,1,4,1,4,0,5,2010
+47228,"Mason City, IA","Graettinger, IA",3,1,1,0,2,3,3,1,1,5,2010
+47254,"Mason City, IA","Hartley, IA",1,3,1,0,2,3,1,2,2,5,2010
+47591,"Mason City, IA","Williamsburg, IA",3,2,0,0,3,2,2,3,0,5,2010
+47554,"Mason City, IA","Victor, IA",0,5,0,1,1,3,1,2,2,5,2010
+47176,"Mason City, IA","Dyersville, IA",2,3,0,0,1,4,1,3,1,5,2010
+47253,"Mason City, IA","Harris, IA",1,3,1,0,1,4,1,3,1,5,2010
+47598,"Mason City, IA","Woolstock, IA",0,4,1,2,3,0,0,4,1,5,2010
+47550,"Mason City, IA","University Park, IA",1,3,1,0,5,0,1,3,1,5,2010
+47054,"Mason City, IA","Arthur, IA",0,3,2,3,0,2,1,3,1,5,2010
+47056,"Mason City, IA","Ashton, IA",2,1,2,1,1,3,1,2,2,5,2010
+47443,"Mason City, IA","Pomeroy, IA",3,0,1,0,2,2,3,1,0,4,2010
+47068,"Mason City, IA","Beaman, IA",1,2,1,0,3,1,1,1,2,4,2010
+47576,"Mason City, IA","West Branch, IA",2,2,0,2,1,1,1,1,2,4,2010
+47492,"Mason City, IA","Schaller, IA",1,3,0,1,0,3,1,2,1,4,2010
+47242,"Mason City, IA","Guernsey, IA",1,2,1,0,2,2,1,2,1,4,2010
+47433,"Mason City, IA","Peosta, IA",0,2,2,0,0,4,0,2,2,4,2010
+47182,"Mason City, IA","Eldon, IA",1,3,0,1,2,1,0,2,2,4,2010
+47374,"Mason City, IA","Monroe, IA",2,2,0,0,2,2,2,2,0,4,2010
+47145,"Mason City, IA","Cushing, IA",3,0,1,2,0,2,2,2,0,4,2010
+47341,"Mason City, IA","Manchester, IA",1,2,1,0,1,3,1,2,1,4,2010
+47509,"Mason City, IA","Soldier, IA",1,1,2,1,2,1,0,2,2,4,2010
+47067,"Mason City, IA","Bayard, IA",2,2,0,1,1,2,2,2,0,4,2010
+47147,"Mason City, IA","Dallas Center, IA",0,4,0,0,2,2,0,2,2,4,2010
+47513,"Mason City, IA","Spring Hill, IA",0,3,1,1,2,1,0,1,3,4,2010
+47366,"Mason City, IA","Millville, IA",0,0,4,0,3,1,2,1,1,4,2010
+47131,"Mason City, IA","Conrad, IA",0,4,0,1,2,1,1,0,3,4,2010
+47034,"Mason City, IA","Adel, IA",1,3,0,1,2,1,2,0,2,4,2010
+47382,"Mason City, IA","Mount Auburn, IA",1,3,0,0,2,2,0,2,2,4,2010
+47076,"Mason City, IA","Blakesburg, IA",1,3,0,0,1,3,2,2,0,4,2010
+47470,"Mason City, IA","Riverdale, IA",2,2,0,0,4,0,1,0,3,4,2010
+47094,"Mason City, IA","Bussey, IA",1,3,0,0,2,2,0,2,2,4,2010
+47101,"Mason City, IA","Carter Lake, IA",0,3,1,0,1,3,0,2,2,4,2010
+47226,"Mason City, IA","Glenwood, IA",2,1,1,0,1,3,1,3,0,4,2010
+47223,"Mason City, IA","Gilbert, IA",2,1,1,0,1,3,3,0,1,4,2010
+47218,"Mason City, IA","Garnavillo, IA",2,1,1,1,2,1,1,2,1,4,2010
+47590,"Mason City, IA","Williams, IA",1,2,1,1,3,0,0,3,1,4,2010
+47452,"Mason City, IA","Quimby, IA",1,2,1,2,1,1,1,1,2,4,2010
+47092,"Mason City, IA","Buffalo, IA",2,2,0,1,3,0,0,3,1,4,2010
+47410,"Mason City, IA","Ogden, IA",3,1,0,0,4,0,0,1,3,4,2010
+47446,"Mason City, IA","Prairieburg, IA",1,3,0,0,2,2,2,1,1,4,2010
+47424,"Mason City, IA","Palmer, IA",1,3,0,1,0,3,1,2,1,4,2010
+47460,"Mason City, IA","Reasnor, IA",1,3,0,0,4,0,2,0,2,4,2010
+47095,"Mason City, IA","Callender, IA",1,2,1,0,3,1,1,2,1,4,2010
+47296,"Mason City, IA","Knierim, IA",0,2,2,1,2,1,2,1,1,4,2010
+47324,"Mason City, IA","Lincoln, IA",1,3,0,0,1,3,2,1,1,4,2010
+47298,"Mason City, IA","La Porte City, IA",2,1,1,0,3,1,1,2,1,4,2010
+47264,"Mason City, IA","Hills, IA",4,0,0,0,1,3,1,2,1,4,2010
+47276,"Mason City, IA","Inwood, IA",0,2,2,1,1,2,0,3,1,4,2010
+47558,"Mason City, IA","Walcott, IA",0,2,2,0,3,1,0,1,3,4,2010
+47064,"Mason City, IA","Balltown, IA",0,4,0,0,0,4,2,1,1,4,2010
+47151,"Mason City, IA","Dawson, IA",2,1,1,0,4,0,2,1,1,4,2010
+47542,"Mason City, IA","Toledo, IA",2,1,1,0,3,1,2,2,0,4,2010
+47317,"Mason City, IA","Ledyard, IA",2,1,1,0,3,1,2,1,1,4,2010
+47267,"Mason City, IA","Hospers, IA",2,2,0,1,2,1,1,1,2,4,2010
+47330,"Mason City, IA","Lockridge, IA",1,3,0,0,4,0,0,3,1,4,2010
+47256,"Mason City, IA","Harvey, IA",1,2,1,0,2,2,1,0,3,4,2010
+47518,"Mason City, IA","St. Olaf, IA",1,0,3,0,1,3,1,1,2,4,2010
+47268,"Mason City, IA","Houghton, IA",2,1,0,0,2,1,1,2,0,3,2010
+47060,"Mason City, IA","Audubon, IA",1,1,1,1,1,1,1,0,2,3,2010
+47052,"Mason City, IA","Armstrong, IA",1,1,1,1,2,0,2,1,0,3,2010
+47035,"Mason City, IA","Afton, IA",0,3,0,0,1,2,0,2,1,3,2010
+47270,"Mason City, IA","Hull, IA",1,0,2,0,1,2,0,2,1,3,2010
+47063,"Mason City, IA","Bagley, IA",2,1,0,1,1,1,1,1,1,3,2010
+47188,"Mason City, IA","Elkader, IA",0,2,1,1,1,1,0,1,2,3,2010
+47464,"Mason City, IA","Remsen, IA",0,2,1,2,0,1,0,1,2,3,2010
+47074,"Mason City, IA","Bertram, IA",2,0,1,0,3,0,3,0,0,3,2010
+47083,"Mason City, IA","Boyden, IA",1,2,0,0,2,1,0,1,2,3,2010
+47534,"Mason City, IA","Swisher, IA",2,1,0,0,1,2,1,0,2,3,2010
+47065,"Mason City, IA","Bancroft, IA",0,0,3,0,2,1,0,3,0,3,2010
+47310,"Mason City, IA","Laurens, IA",2,0,1,1,2,0,0,2,1,3,2010
+47466,"Mason City, IA","Rhodes, IA",1,2,0,0,3,0,0,2,1,3,2010
+47332,"Mason City, IA","Lone Rock, IA",0,3,0,0,3,0,1,2,0,3,2010
+47302,"Mason City, IA","Lake Park, IA",1,2,0,1,1,1,0,2,1,3,2010
+47192,"Mason City, IA","Ely, IA",1,1,1,0,1,2,1,1,1,3,2010
+47096,"Mason City, IA","Camanche, IA",1,2,0,0,1,2,1,1,1,3,2010
+47545,"Mason City, IA","Truesdale, IA",1,1,1,0,0,3,1,1,1,3,2010
+47543,"Mason City, IA","Traer, IA",0,1,2,0,1,2,2,1,0,3,2010
+47431,"Mason City, IA","Paullina, IA",1,2,0,0,2,1,1,2,0,3,2010
+47203,"Mason City, IA","Farnhamville, IA",0,2,1,0,3,0,0,3,0,3,2010
+47429,"Mason City, IA","Parnell, IA",3,0,0,0,2,1,1,2,0,3,2010
+47166,"Mason City, IA","Dixon, IA",0,3,0,0,1,2,1,2,0,3,2010
+47422,"Mason City, IA","Pacific Junction, IA",1,2,0,0,1,2,2,0,1,3,2010
+47206,"Mason City, IA","Ferguson, IA",0,3,0,0,3,0,0,3,0,3,2010
+47419,"Mason City, IA","Owasa, IA",0,2,1,1,1,1,0,2,1,3,2010
+47594,"Mason City, IA","Winfield, IA",3,0,0,0,1,2,1,2,0,3,2010
+47539,"Mason City, IA","Tiffin, IA",3,0,0,0,0,3,2,1,0,3,2010
+47108,"Mason City, IA","Center Point, IA",1,1,1,0,3,0,0,2,1,3,2010
+47109,"Mason City, IA","Centerville, IA",1,1,1,0,2,1,0,1,2,3,2010
+47110,"Mason City, IA","Chariton, IA",2,1,0,0,2,1,3,0,0,3,2010
+47233,"Mason City, IA","Granger, IA",0,2,1,0,1,2,1,0,2,3,2010
+47231,"Mason City, IA","Grand Mound, IA",2,1,0,0,0,3,1,1,1,3,2010
+47575,"Mason City, IA","West Bend, IA",0,2,1,0,1,2,1,0,2,3,2010
+47368,"Mason City, IA","Minden, IA",2,0,1,0,1,2,3,0,0,3,2010
+47070,"Mason City, IA","Belle Plaine, IA",0,2,1,0,3,0,0,2,1,3,2010
+47497,"Mason City, IA","Sheldon, IA",2,1,0,0,2,1,3,0,0,3,2010
+47357,"Mason City, IA","Maxwell, IA",1,2,0,0,2,1,0,0,3,3,2010
+47152,"Mason City, IA","Dayton, IA",2,1,0,1,1,1,1,2,0,3,2010
+47503,"Mason City, IA","Silver City, IA",1,1,1,0,1,2,0,0,3,3,2010
+47378,"Mason City, IA","Morley, IA",0,3,0,0,1,2,2,0,1,3,2010
+47350,"Mason City, IA","Marion, IA",1,2,0,0,3,0,0,2,1,3,2010
+47361,"Mason City, IA","Melcher-Dallas, IA",1,1,1,0,2,1,0,1,2,3,2010
+47183,"Mason City, IA","Eldora, IA",2,0,1,1,0,2,1,1,1,3,2010
+47364,"Mason City, IA","Milford, IA",0,3,0,0,3,0,0,2,1,3,2010
+47501,"Mason City, IA","Sibley, IA",1,1,1,0,1,2,2,1,0,3,2010
+47367,"Mason City, IA","Milton, IA",1,2,0,0,1,2,2,1,0,3,2010
+47560,"Mason City, IA","Walker, IA",0,2,1,0,1,2,2,1,0,3,2010
+47499,"Mason City, IA","Shenandoah, IA",0,2,1,0,2,1,1,0,2,3,2010
+47325,"Mason City, IA","Linden, IA",2,1,0,0,0,3,1,1,1,3,2010
+47519,"Mason City, IA","St. Paul, IA",1,2,0,0,2,1,0,1,2,3,2010
+47580,"Mason City, IA","West Liberty, IA",1,2,0,1,0,2,1,1,1,3,2010
+47043,"Mason City, IA","Alton, IA",0,2,1,1,2,0,2,0,1,3,2010
+47251,"Mason City, IA","Harlan, IA",0,3,0,0,1,2,1,2,0,3,2010
+47525,"Mason City, IA","Story City, IA",1,2,0,0,1,2,1,1,1,3,2010
+47181,"Mason City, IA","Elberon, IA",2,1,0,1,0,2,1,1,1,3,2010
+47372,"Mason City, IA","Mondamin, IA",1,2,0,0,0,3,2,1,0,3,2010
+47373,"Mason City, IA","Monona, IA",0,0,3,1,1,1,1,0,2,3,2010
+47487,"Mason City, IA","Sac City, IA",1,1,1,0,1,2,1,1,1,3,2010
+47565,"Mason City, IA","Waucoma, IA",0,1,1,0,1,1,2,0,0,2,2010
+47438,"Mason City, IA","Pleasanton, IA",0,2,0,0,1,1,0,0,2,2,2010
+47038,"Mason City, IA","Albion, IA",0,2,0,0,2,0,0,2,0,2,2010
+47069,"Mason City, IA","Bedford, IA",1,0,1,0,1,1,1,0,1,2,2010
+47090,"Mason City, IA","Brooklyn, IA",0,2,0,1,0,1,0,2,0,2,2010
+47053,"Mason City, IA","Arnolds Park, IA",1,1,0,1,1,0,0,1,1,2,2010
+47571,"Mason City, IA","Webster, IA",1,1,0,0,1,1,1,1,0,2,2010
+47058,"Mason City, IA","Atkins, IA",1,1,0,0,1,1,0,1,1,2,2010
+47572,"Mason City, IA","Wellman, IA",0,2,0,0,2,0,0,2,0,2,2010
+47033,"Mason City, IA","Adair, IA",1,1,0,0,0,2,2,0,0,2,2010
+47480,"Mason City, IA","Royal, IA",0,2,0,0,2,0,0,1,1,2,2010
+47553,"Mason City, IA","Van Horne, IA",0,2,0,0,1,1,0,0,2,2,2010
+47485,"Mason City, IA","Ryan, IA",1,1,0,1,1,0,0,1,1,2,2010
+47482,"Mason City, IA","Russell, IA",2,0,0,1,0,1,0,1,1,2,2010
+47483,"Mason City, IA","Ruthven, IA",2,0,0,0,1,1,1,0,1,2,2010
+47582,"Mason City, IA","West Point, IA",1,0,1,0,0,2,2,0,0,2,2010
+47584,"Mason City, IA","Westside, IA",2,0,0,0,0,2,0,0,2,2,2010
+47586,"Mason City, IA","Wheatland, IA",1,0,1,0,1,1,0,1,1,2,2010
+47079,"Mason City, IA","Blue Grass, IA",1,1,0,0,2,0,0,2,0,2,2010
+47467,"Mason City, IA","Richland, IA",1,1,0,0,1,1,2,0,0,2,2010
+47463,"Mason City, IA","Reinbeck, IA",0,1,1,1,0,1,0,0,2,2,2010
+47592,"Mason City, IA","Wilton, IA",2,0,0,0,1,1,2,0,0,2,2010
+47036,"Mason City, IA","Ainsworth, IA",1,1,0,0,1,1,0,2,0,2,2010
+47588,"Mason City, IA","Whitten, IA",0,1,1,0,0,2,0,1,1,2,2010
+47589,"Mason City, IA","Willey, IA",1,1,0,0,0,2,1,1,0,2,2010
+47562,"Mason City, IA","Wapello, IA",1,1,0,0,0,2,2,0,0,2,2010
+47436,"Mason City, IA","Plano, IA",1,0,1,0,1,1,0,1,1,2,2010
+47450,"Mason City, IA","Promise City, IA",0,1,1,0,2,0,1,1,0,2,2010
+47547,"Mason City, IA","Union, IA",1,1,0,0,1,1,1,1,0,2,2010
+47535,"Mason City, IA","Tama, IA",2,0,0,0,0,2,1,1,0,2,2010
+47401,"Mason City, IA","Nodaway, IA",0,0,2,0,0,2,1,1,0,2,2010
+47100,"Mason City, IA","Carson, IA",0,2,0,0,1,1,1,0,1,2,2010
+47363,"Mason City, IA","Merrill, IA",0,2,0,1,0,1,0,2,0,2,2010
+47179,"Mason City, IA","Early, IA",0,2,0,0,0,2,1,0,1,2,2010
+47354,"Mason City, IA","Marysville, IA",1,0,1,0,1,1,1,0,1,2,2010
+47265,"Mason City, IA","Hinton, IA",1,1,0,0,0,2,1,1,0,2,2010
+47180,"Mason City, IA","Eddyville, IA",1,1,0,0,1,1,2,0,0,2,2010
+47260,"Mason City, IA","Hawkeye, IA",1,1,0,0,1,1,1,1,0,2,2010
+47362,"Mason City, IA","Meriden, IA",0,2,0,0,2,0,0,2,0,2,2010
+47365,"Mason City, IA","Millerton, IA",2,0,0,0,2,0,1,1,0,2,2010
+47177,"Mason City, IA","Dysart, IA",1,1,0,0,1,1,1,0,1,2,2010
+47369,"Mason City, IA","Missouri Valley, IA",0,2,0,0,0,2,1,0,1,2,2010
+47376,"Mason City, IA","Montour, IA",0,2,0,1,0,1,0,2,0,2,2010
+47377,"Mason City, IA","Montrose, IA",0,1,1,0,0,2,1,1,0,2,2010
+47252,"Mason City, IA","Harpers Ferry, IA",0,1,1,1,0,1,0,0,2,2,2010
+47385,"Mason City, IA","Mount Vernon, IA",1,0,1,0,1,1,1,0,1,2,2010
+47245,"Mason City, IA","Hamburg, IA",2,0,0,0,1,1,1,1,0,2,2010
+47272,"Mason City, IA","Ida Grove, IA",1,1,0,0,0,2,1,1,0,2,2010
+47174,"Mason City, IA","Dunlap, IA",0,1,1,0,0,2,0,2,0,2,2010
+47128,"Mason City, IA","Colfax, IA",2,0,0,0,1,1,2,0,0,2,2010
+47167,"Mason City, IA","Dolliver, IA",1,0,1,0,1,1,1,1,0,2,2010
+47308,"Mason City, IA","Larchwood, IA",1,1,0,1,0,1,0,2,0,2,2010
+47156,"Mason City, IA","Delaware, IA",1,1,0,0,1,1,1,0,1,2,2010
+47158,"Mason City, IA","Delta, IA",0,2,0,1,1,0,0,0,2,2,2010
+47164,"Mason City, IA","Dickens, IA",1,1,0,1,1,0,0,1,1,2,2010
+47292,"Mason City, IA","Keystone, IA",1,1,0,0,0,2,0,2,0,2,2010
+47289,"Mason City, IA","Kamrar, IA",1,0,1,0,2,0,0,1,1,2,2010
+47169,"Mason City, IA","Doon, IA",1,1,0,0,0,2,1,0,1,2,2010
+47173,"Mason City, IA","Dunkerton, IA",0,1,1,0,1,1,2,0,0,2,2010
+47331,"Mason City, IA","Logan, IA",0,1,1,0,0,2,0,1,1,2,2010
+47281,"Mason City, IA","Irwin, IA",0,2,0,1,0,1,0,2,0,2,2010
+47335,"Mason City, IA","Low Moor, IA",1,1,0,0,2,0,1,1,0,2,2010
+47338,"Mason City, IA","Lynnville, IA",1,0,1,0,2,0,0,0,2,2,2010
+47340,"Mason City, IA","Malcom, IA",0,1,1,0,1,1,0,1,1,2,2010
+47345,"Mason City, IA","Mapleton, IA",0,1,1,1,1,0,0,1,1,2,2010
+47185,"Mason City, IA","Elgin, IA",1,1,0,0,1,1,2,0,0,2,2010
+47132,"Mason City, IA","Coon Rapids, IA",1,1,0,0,0,2,2,0,0,2,2010
+47238,"Mason City, IA","Greenville, IA",1,1,0,1,0,1,0,2,0,2,2010
+47232,"Mason City, IA","Grandview, IA",1,1,0,0,1,1,0,2,0,2,2010
+47102,"Mason City, IA","Casey, IA",1,1,0,1,0,1,1,0,1,2,2010
+47202,"Mason City, IA","Farmersburg, IA",1,1,0,0,1,1,1,0,1,2,2010
+47205,"Mason City, IA","Fenton, IA",0,2,0,1,1,0,0,1,1,2,2010
+47412,"Mason City, IA","Orient, IA",1,1,0,0,0,2,1,1,0,2,2010
+47197,"Mason City, IA","Exira, IA",2,0,0,0,0,2,2,0,0,2,2010
+47211,"Mason City, IA","Fort Atkinson, IA",2,0,0,0,1,1,2,0,0,2,2010
+47406,"Mason City, IA","Norway, IA",0,2,0,0,1,1,1,1,0,2,2010
+47113,"Mason City, IA","Cherokee, IA",2,0,0,0,1,1,1,0,1,2,2010
+47217,"Mason City, IA","Fruitland, IA",1,1,0,0,1,1,2,0,0,2,2010
+47221,"Mason City, IA","George, IA",2,0,0,0,1,1,2,0,0,2,2010
+47400,"Mason City, IA","Nichols, IA",1,1,0,0,2,0,1,1,0,2,2010
+47116,"Mason City, IA","Cincinnati, IA",1,1,0,0,1,1,1,1,0,2,2010
+47304,"Mason City, IA","Lakeside, IA",1,1,0,0,1,1,1,0,1,2,2010
+47123,"Mason City, IA","Clio, IA",1,1,0,0,1,1,1,0,1,2,2010
+47237,"Mason City, IA","Greenfield, IA",0,1,1,0,1,1,0,2,0,2,2010
+47235,"Mason City, IA","Gravity, IA",1,1,0,0,1,1,1,0,1,2,2010
+47125,"Mason City, IA","Clutier, IA",0,1,1,0,1,1,0,1,1,2,2010
+47581,"Mason City, IA","West Okoboji, IA",0,0,1,0,1,0,1,0,0,1,2010
+47207,"Mason City, IA","Floris, IA",0,1,0,0,1,0,0,1,0,1,2010
+47569,"Mason City, IA","Wayland, IA",0,1,0,0,1,0,0,1,0,1,2010
+47250,"Mason City, IA","Hardy, IA",0,0,1,1,0,0,0,0,1,1,2010
+47546,"Mason City, IA","Underwood, IA",0,1,0,0,0,1,0,1,0,1,2010
+47249,"Mason City, IA","Harcourt, IA",0,1,0,0,1,0,1,0,0,1,2010
+47057,"Mason City, IA","Atalissa, IA",0,1,0,0,1,0,0,1,0,1,2010
+47209,"Mason City, IA","Fonda, IA",0,1,0,0,1,0,0,0,1,1,2010
+47293,"Mason City, IA","Kimballton, IA",0,1,0,0,0,1,1,0,0,1,2010
+47247,"Mason City, IA","Hancock, IA",1,0,0,0,1,0,1,0,0,1,2010
+47548,"Mason City, IA","Unionville, IA",0,1,0,0,1,0,1,0,0,1,2010
+47578,"Mason City, IA","West Chester, IA",0,1,0,0,0,1,0,0,1,1,2010
+47163,"Mason City, IA","Diagonal, IA",0,1,0,0,0,1,0,1,0,1,2010
+47599,"Mason City, IA","Worthington, IA",0,0,1,0,1,0,0,1,0,1,2010
+47536,"Mason City, IA","Terril, IA",1,0,0,0,1,0,0,1,0,1,2010
+47600,"Mason City, IA","Wyoming, IA",1,0,0,0,0,1,1,0,0,1,2010
+47157,"Mason City, IA","Deloit, IA",1,0,0,0,1,0,0,1,0,1,2010
+47303,"Mason City, IA","Lake View, IA",0,0,1,0,1,0,0,0,1,1,2010
+47194,"Mason City, IA","Essex, IA",0,0,1,0,1,0,1,0,0,1,2010
+47186,"Mason City, IA","Elk Horn, IA",0,0,1,1,0,0,0,0,1,1,2010
+47280,"Mason City, IA","Ireton, IA",1,0,0,0,0,1,1,0,0,1,2010
+47258,"Mason City, IA","Haverhill, IA",0,1,0,0,1,0,0,0,1,1,2010
+47234,"Mason City, IA","Grant, IA",1,0,0,0,0,1,1,0,0,1,2010
+47230,"Mason City, IA","Grand Junction, IA",0,0,1,0,0,1,1,0,0,1,2010
+47050,"Mason City, IA","Arcadia, IA",1,0,0,0,0,1,0,1,0,1,2010
+47262,"Mason City, IA","Hedrick, IA",1,0,0,0,0,1,1,0,0,1,2010
+47561,"Mason City, IA","Wallingford, IA",0,1,0,0,0,1,0,1,0,1,2010
+47585,"Mason City, IA","What Cheer, IA",1,0,0,0,0,1,1,0,0,1,2010
+47229,"Mason City, IA","Graf, IA",1,0,0,0,0,1,0,1,0,1,2010
+47269,"Mason City, IA","Hudson, IA",0,0,1,0,1,0,0,1,0,1,2010
+47047,"Mason City, IA","Andrew, IA",1,0,0,0,1,0,0,1,0,1,2010
+47557,"Mason City, IA","Wahpeton, IA",0,1,0,0,1,0,0,0,1,1,2010
+47225,"Mason City, IA","Gilman, IA",0,1,0,0,1,0,0,0,1,1,2010
+47574,"Mason City, IA","Welton, IA",0,1,0,0,1,0,0,1,0,1,2010
+47273,"Mason City, IA","Imogene, IA",1,0,0,0,0,1,1,0,0,1,2010
+47255,"Mason City, IA","Hartwick, IA",1,0,0,0,1,0,0,1,0,1,2010
+47175,"Mason City, IA","Durant, IA",1,0,0,0,1,0,1,0,0,1,2010
+47305,"Mason City, IA","Lakota, IA",0,1,0,0,0,1,0,0,1,1,2010
+47214,"Mason City, IA","Fostoria, IA",0,1,0,0,1,0,0,0,1,1,2010
+47222,"Mason City, IA","Gibson, IA",0,1,0,1,0,0,0,0,1,1,2010
+47149,"Mason City, IA","Danville, IA",0,0,1,0,1,0,0,1,0,1,2010
+47531,"Mason City, IA","Sutherland, IA",0,0,1,0,1,0,0,0,1,1,2010
+47389,"Mason City, IA","Mystic, IA",1,0,0,0,0,1,1,0,0,1,2010
+47462,"Mason City, IA","Redding, IA",0,1,0,0,0,1,0,1,0,1,2010
+47395,"Mason City, IA","New London, IA",0,0,1,0,0,1,1,0,0,1,2010
+47121,"Mason City, IA","Clearfield, IA",0,1,0,0,0,1,0,1,0,1,2010
+47126,"Mason City, IA","Coburg, IA",0,0,1,0,0,1,1,0,0,1,2010
+47127,"Mason City, IA","Coggon, IA",0,1,0,0,0,1,0,1,0,1,2010
+47469,"Mason City, IA","Rippey, IA",0,0,1,0,1,0,1,0,0,1,2010
+47082,"Mason City, IA","Boxholm, IA",0,1,0,0,0,1,0,1,0,1,2010
+47481,"Mason City, IA","Runnells, IA",0,1,0,0,0,1,0,1,0,1,2010
+47078,"Mason City, IA","Bloomfield, IA",0,1,0,0,0,1,0,0,1,1,2010
+47387,"Mason City, IA","Murray, IA",0,1,0,0,1,0,1,0,0,1,2010
+47077,"Mason City, IA","Blanchard, IA",1,0,0,0,0,1,1,0,0,1,2010
+47383,"Mason City, IA","Mount Ayr, IA",1,0,0,0,1,0,0,1,0,1,2010
+47478,"Mason City, IA","Rodney, IA",1,0,0,1,0,0,0,0,1,1,2010
+47381,"Mason City, IA","Moulton, IA",0,0,1,0,0,1,0,0,1,1,2010
+47117,"Mason City, IA","Clarinda, IA",0,0,1,0,0,1,0,1,0,1,2010
+47397,"Mason City, IA","New Vienna, IA",0,1,0,0,0,1,1,0,0,1,2010
+47084,"Mason City, IA","Braddyville, IA",0,1,0,0,0,1,1,0,0,1,2010
+47457,"Mason City, IA","Rathbun, IA",1,0,0,0,0,1,0,1,0,1,2010
+47456,"Mason City, IA","Randolph, IA",0,1,0,0,0,1,1,0,0,1,2010
+47201,"Mason City, IA","Farley, IA",1,0,0,0,0,1,1,0,0,1,2010
+47115,"Mason City, IA","Churdan, IA",1,0,0,0,0,1,1,0,0,1,2010
+47086,"Mason City, IA","Brayton, IA",0,0,1,0,0,1,1,0,0,1,2010
+47407,"Mason City, IA","Oakland, IA",0,0,1,0,1,0,0,0,1,1,2010
+47408,"Mason City, IA","Ocheyedan, IA",1,0,0,0,0,1,1,0,0,1,2010
+47112,"Mason City, IA","Charter Oak, IA",1,0,0,0,0,1,0,1,0,1,2010
+47445,"Mason City, IA","Postville, IA",0,0,1,0,0,1,0,1,0,1,2010
+47089,"Mason City, IA","Bronson, IA",0,1,0,1,0,0,0,0,1,1,2010
+47107,"Mason City, IA","Center Junction, IA",1,0,0,0,1,0,1,0,0,1,2010
+47104,"Mason City, IA","Castana, IA",0,1,0,1,0,0,0,1,0,1,2010
+47420,"Mason City, IA","Oxford Junction, IA",1,0,0,0,1,0,0,0,1,1,2010
+47423,"Mason City, IA","Packwood, IA",0,1,0,0,0,1,0,1,0,1,2010
+47379,"Mason City, IA","Morning Sun, IA",0,1,0,1,0,0,0,0,1,1,2010
+47135,"Mason City, IA","Corydon, IA",1,0,0,0,0,1,0,0,1,1,2010
+47307,"Mason City, IA","Lansing, IA",1,0,0,0,0,1,0,0,1,1,2010
+47322,"Mason City, IA","Lidderdale, IA",1,0,0,0,1,0,0,1,0,1,2010
+47066,"Mason City, IA","Battle Creek, IA",1,0,0,0,0,1,1,0,0,1,2010
+47333,"Mason City, IA","Lone Tree, IA",1,0,0,0,0,1,0,1,0,1,2010
+47148,"Mason City, IA","Danbury, IA",0,0,1,0,1,0,1,0,0,1,2010
+47517,"Mason City, IA","St. Marys, IA",1,0,0,0,1,0,1,0,0,1,2010
+47328,"Mason City, IA","Little Rock, IA",0,1,0,0,1,0,0,1,0,1,2010
+47426,"Mason City, IA","Panora, IA",0,1,0,0,1,0,0,1,0,1,2010
+47521,"Mason City, IA","Stanhope, IA",0,1,0,0,1,0,0,0,1,1,2010
+47486,"Mason City, IA","Sabula, IA",0,1,0,1,0,0,0,1,0,1,2010
+47321,"Mason City, IA","Lewis, IA",0,1,0,0,0,1,0,1,0,1,2010
+47523,"Mason City, IA","Stanton, IA",0,0,1,0,0,1,0,0,1,1,2010
+47320,"Mason City, IA","Leon, IA",0,0,1,0,0,1,0,1,0,1,2010
+47314,"Mason City, IA","Le Grand, IA",0,0,1,0,0,1,1,0,0,1,2010
+47312,"Mason City, IA","Lawton, IA",1,0,0,0,0,1,1,0,0,1,2010
+47309,"Mason City, IA","Larrabee, IA",1,0,0,0,1,0,1,0,0,1,2010
+47337,"Mason City, IA","Luther, IA",1,0,0,0,1,0,0,0,1,1,2010
+47144,"Mason City, IA","Curlew, IA",0,0,1,0,0,1,0,1,0,1,2010
+47506,"Mason City, IA","Sioux Rapids, IA",0,0,1,0,1,0,0,0,1,1,2010
+47348,"Mason City, IA","Marcus, IA",1,0,0,0,0,1,0,1,0,1,2010
+47349,"Mason City, IA","Marengo, IA",1,0,0,0,0,1,1,0,0,1,2010
+47143,"Mason City, IA","Cumberland, IA",1,0,0,0,1,0,1,0,0,1,2010
+47502,"Mason City, IA","Sigourney, IA",0,0,1,0,0,1,1,0,0,1,2010
+47353,"Mason City, IA","Martelle, IA",1,0,0,0,1,0,1,0,0,1,2010
+47500,"Mason City, IA","Shueyville, IA",1,0,0,0,1,0,0,1,0,1,2010
+47141,"Mason City, IA","Cromwell, IA",0,0,1,1,0,0,0,0,1,1,2010
+47356,"Mason City, IA","Maurice, IA",0,1,0,0,1,0,1,0,0,1,2010
+47138,"Mason City, IA","Crawfordsville, IA",1,0,0,0,0,1,0,1,0,1,2010
+47495,"Mason City, IA","Shannon City, IA",0,1,0,0,1,0,0,0,1,1,2010
+47494,"Mason City, IA","Seymour, IA",1,0,0,0,0,1,1,0,0,1,2010
+47359,"Mason City, IA","Mechanicsville, IA",0,1,0,0,0,1,0,0,1,1,2010
+47360,"Mason City, IA","Mediapolis, IA",1,0,0,0,0,1,1,0,0,1,2010
+47489,"Mason City, IA","Salem, IA",1,0,0,0,0,1,1,0,0,1,2010
+47316,"Mason City, IA","Le Roy, IA",0,1,0,1,0,0,0,0,1,1,2010

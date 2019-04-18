@@ -1,0 +1,91 @@
+,home city,work city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+53100,"Ogden, IA","Ames, IA",83,216,105,73,280,51,77,130,197,404,2013
+53106,"Ogden, IA","Boone, IA",56,166,95,52,210,55,79,114,124,317,2013
+53155,"Ogden, IA","Ogden, IA",25,98,60,22,119,42,69,54,60,183,2013
+53120,"Ogden, IA","Des Moines, IA",27,53,23,13,82,8,25,28,50,103,2013
+53169,"Ogden, IA","Stanhope, IA",7,23,10,20,7,13,5,16,19,40,2013
+53113,"Ogden, IA","Clive, IA",19,15,5,1,28,10,15,13,11,39,2013
+53101,"Ogden, IA","Ankeny, IA",10,25,4,7,21,11,9,7,23,39,2013
+53127,"Ogden, IA","Fraser, IA",3,22,12,9,21,7,10,17,10,37,2013
+53152,"Ogden, IA","Nevada, IA",13,17,5,6,28,1,7,9,19,35,2013
+53175,"Ogden, IA","Urbandale, IA",3,21,3,6,15,6,6,4,17,27,2013
+53141,"Ogden, IA","Johnston, IA",2,11,3,0,10,6,5,1,10,16,2013
+53163,"Ogden, IA","Pleasant Hill, IA",5,5,4,4,2,8,6,3,5,14,2013
+53150,"Ogden, IA","Marshalltown, IA",4,7,3,4,9,1,2,6,6,14,2013
+53176,"Ogden, IA","Waukee, IA",3,9,2,1,11,2,5,5,4,14,2013
+53162,"Ogden, IA","Perry, IA",2,7,5,2,7,5,1,9,4,14,2013
+53178,"Ogden, IA","West Des Moines, IA",3,9,1,5,5,3,3,3,7,13,2013
+53170,"Ogden, IA","Story City, IA",5,6,1,2,9,1,5,2,5,12,2013
+53149,"Ogden, IA","Madrid, IA",5,4,3,2,9,1,3,7,2,12,2013
+53181,"Ogden, IA","Windsor Heights, IA",4,0,7,0,4,7,6,3,2,11,2013
+53099,"Ogden, IA","Altoona, IA",2,9,0,2,7,2,3,5,3,11,2013
+53126,"Ogden, IA","Fort Dodge, IA",2,7,2,3,6,2,2,3,6,11,2013
+53154,"Ogden, IA","Norwalk, IA",3,6,1,0,5,5,3,4,3,10,2013
+53177,"Ogden, IA","Webster City, IA",2,6,1,1,6,2,2,5,2,9,2013
+53136,"Ogden, IA","Huxley, IA",1,7,0,0,4,4,1,0,7,8,2013
+53153,"Ogden, IA","Newton, IA",3,4,0,2,2,3,2,3,2,7,2013
+53117,"Ogden, IA","Dawson, IA",1,3,2,2,0,4,1,1,4,6,2013
+53121,"Ogden, IA","Duncombe, IA",1,4,1,0,0,6,1,3,2,6,2013
+53139,"Ogden, IA","Jefferson, IA",2,3,1,1,5,0,0,3,3,6,2013
+53118,"Ogden, IA","Dayton, IA",2,3,1,0,3,3,3,2,1,6,2013
+53128,"Ogden, IA","Gilbert, IA",2,1,2,1,4,0,0,2,3,5,2013
+53096,"Ogden, IA","Adel, IA",0,5,0,0,5,0,0,0,5,5,2013
+53137,"Ogden, IA","Indianola, IA",1,3,1,0,2,3,1,2,2,5,2013
+53180,"Ogden, IA","Williams, IA",1,2,2,0,1,4,1,3,1,5,2013
+53131,"Ogden, IA","Grimes, IA",4,1,0,2,1,2,2,0,3,5,2013
+53164,"Ogden, IA","Polk City, IA",1,4,0,0,5,0,0,5,0,5,2013
+53151,"Ogden, IA","Minburn, IA",0,4,0,0,0,4,0,0,4,4,2013
+53171,"Ogden, IA","Stratford, IA",0,4,0,0,4,0,0,4,0,4,2013
+53146,"Ogden, IA","Linden, IA",1,1,1,2,0,1,0,2,1,3,2013
+53130,"Ogden, IA","Grand Junction, IA",0,2,1,0,2,1,0,1,2,3,2013
+53183,"Ogden, IA","Woodward, IA",0,3,0,0,0,3,1,2,0,3,2013
+53111,"Ogden, IA","Casey, IA",0,3,0,0,0,3,0,1,2,3,2013
+53124,"Ogden, IA","Farnhamville, IA",1,0,2,0,1,2,0,2,1,3,2013
+53123,"Ogden, IA","Ellsworth, IA",0,2,1,2,0,1,0,2,1,3,2013
+53104,"Ogden, IA","Bagley, IA",1,2,0,1,2,0,0,2,1,3,2013
+53107,"Ogden, IA","Boxholm, IA",0,3,0,3,0,0,0,0,3,3,2013
+53144,"Ogden, IA","Lehigh, IA",0,3,0,2,0,1,0,1,2,3,2013
+53098,"Ogden, IA","Albia, IA",1,1,0,0,2,0,0,1,1,2,2013
+53102,"Ogden, IA","Atlantic, IA",2,0,0,1,0,1,1,1,0,2,2013
+53158,"Ogden, IA","Ottumwa, IA",2,0,0,0,0,2,2,0,0,2,2013
+53148,"Ogden, IA","Luther, IA",2,0,0,1,0,1,1,0,1,2,2013
+53110,"Ogden, IA","Carroll, IA",1,0,1,0,2,0,1,0,1,2,2013
+53103,"Ogden, IA","Audubon, IA",0,2,0,1,0,1,1,0,1,2,2013
+53172,"Ogden, IA","Stuart, IA",0,1,1,1,1,0,0,1,1,2,2013
+53119,"Ogden, IA","De Soto, IA",0,1,1,0,2,0,1,1,0,2,2013
+53115,"Ogden, IA","Creston, IA",2,0,0,0,0,2,0,2,0,2,2013
+53140,"Ogden, IA","Jewell Junction, IA",0,2,0,0,2,0,0,0,2,2,2013
+53166,"Ogden, IA","Rockwell City, IA",1,0,0,0,0,1,1,0,0,1,2013
+53165,"Ogden, IA","Rinard, IA",0,1,0,0,0,1,0,0,1,1,2013
+53167,"Ogden, IA","Roland, IA",0,1,0,0,0,1,0,0,1,1,2013
+53168,"Ogden, IA","Slater, IA",0,1,0,1,0,0,0,1,0,1,2013
+53173,"Ogden, IA","Toledo, IA",0,1,0,0,1,0,0,0,1,1,2013
+53174,"Ogden, IA","University Park, IA",1,0,0,0,0,1,0,0,1,1,2013
+53161,"Ogden, IA","Pella, IA",0,0,1,0,1,0,1,0,0,1,2013
+53182,"Ogden, IA","Winterset, IA",0,0,1,0,0,1,0,0,1,1,2013
+53179,"Ogden, IA","Willey, IA",0,1,0,0,1,0,0,0,1,1,2013
+53095,"Ogden, IA","Adair, IA",0,0,1,0,0,1,1,0,0,1,2013
+53160,"Ogden, IA","Parkersburg, IA",0,0,1,0,1,0,0,1,0,1,2013
+53159,"Ogden, IA","Panora, IA",0,1,0,0,1,0,0,0,1,1,2013
+53097,"Ogden, IA","Agency, IA",0,0,1,0,0,1,0,0,1,1,2013
+53105,"Ogden, IA","Bloomfield, IA",1,0,0,1,0,0,0,0,1,1,2013
+53108,"Ogden, IA","Brooklyn, IA",0,0,1,1,0,0,0,0,1,1,2013
+53109,"Ogden, IA","Cambridge, IA",0,1,0,1,0,0,0,1,0,1,2013
+53112,"Ogden, IA","Centerville, IA",1,0,0,0,0,1,1,0,0,1,2013
+53114,"Ogden, IA","Corydon, IA",0,1,0,0,1,0,0,1,0,1,2013
+53116,"Ogden, IA","Dallas Center, IA",0,0,1,0,0,1,0,0,1,1,2013
+53122,"Ogden, IA","Eldora, IA",0,0,1,0,1,0,0,1,0,1,2013
+53125,"Ogden, IA","Ferguson, IA",0,1,0,1,0,0,0,0,1,1,2013
+53129,"Ogden, IA","Gilman, IA",1,0,0,0,0,1,1,0,0,1,2013
+53132,"Ogden, IA","Grinnell, IA",1,0,0,0,1,0,1,0,0,1,2013
+53133,"Ogden, IA","Guthrie Center, IA",0,0,1,0,1,0,0,0,1,1,2013
+53134,"Ogden, IA","Harcourt, IA",0,1,0,0,0,1,0,0,1,1,2013
+53135,"Ogden, IA","Hubbard, IA",0,0,1,1,0,0,0,0,1,1,2013
+53138,"Ogden, IA","Iowa Falls, IA",0,0,1,0,0,1,1,0,0,1,2013
+53142,"Ogden, IA","Kamrar, IA",0,0,1,1,0,0,0,0,1,1,2013
+53143,"Ogden, IA","Knierim, IA",1,0,0,0,1,0,0,0,1,1,2013
+53145,"Ogden, IA","Lidderdale, IA",0,0,1,1,0,0,0,0,1,1,2013
+53147,"Ogden, IA","Liscomb, IA",0,1,0,0,0,1,0,0,1,1,2013
+53156,"Ogden, IA","Osceola, IA",0,1,0,0,1,0,1,0,0,1,2013
+53157,"Ogden, IA","Oskaloosa, IA",0,1,0,0,0,1,0,0,1,1,2013
+53184,"Ogden, IA","Zearing, IA",0,1,0,0,1,0,0,1,0,1,2013

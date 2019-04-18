@@ -1,0 +1,399 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+10676,"Cedar Rapids, IA","Cedar Rapids, IA",4072,9278,3502,2681,11311,2860,4409,6366,6077,16852,2011
+10788,"Cedar Rapids, IA","Hiawatha, IA",1477,3469,1390,836,4471,1029,1440,2199,2697,6336,2011
+10924,"Cedar Rapids, IA","Robins, IA",857,2852,1011,662,3312,746,972,1301,2447,4720,2011
+10742,"Cedar Rapids, IA","Fairfax, IA",496,1404,462,501,1473,388,517,782,1063,2362,2011
+10897,"Cedar Rapids, IA","Palo, IA",209,745,241,254,768,173,215,344,636,1195,2011
+10845,"Cedar Rapids, IA","Marion, IA",153,690,277,198,754,168,235,298,587,1120,2011
+10978,"Cedar Rapids, IA","Urbana, IA",192,718,204,320,624,170,183,351,580,1114,2011
+10796,"Cedar Rapids, IA","Iowa City, IA",376,470,182,103,695,230,360,326,342,1028,2011
+10884,"Cedar Rapids, IA","North Liberty, IA",270,501,96,139,563,165,135,248,484,867,2011
+10654,"Cedar Rapids, IA","Bertram, IA",125,459,156,160,462,118,131,225,384,740,2011
+10719,"Cedar Rapids, IA","Dubuque, IA",239,251,116,45,332,229,239,214,153,606,2011
+10951,"Cedar Rapids, IA","Springville, IA",114,357,130,115,383,103,114,202,285,601,2011
+10633,"Cedar Rapids, IA","Ames, IA",188,277,70,36,263,236,162,158,215,535,2011
+10735,"Cedar Rapids, IA","Ely, IA",158,303,70,115,325,91,125,181,225,531,2011
+10941,"Cedar Rapids, IA","Shueyville, IA",78,327,126,150,296,85,79,128,324,531,2011
+10825,"Cedar Rapids, IA","Lisbon, IA",95,305,110,130,298,82,110,158,242,510,2011
+10705,"Cedar Rapids, IA","Davenport, IA",168,234,68,36,269,165,175,167,128,470,2011
+10696,"Cedar Rapids, IA","Coralville, IA",148,232,66,59,286,101,112,132,202,446,2011
+10678,"Cedar Rapids, IA","Center Point, IA",79,261,95,126,250,59,63,119,253,435,2011
+10983,"Cedar Rapids, IA","Vinton, IA",116,212,63,117,194,80,74,161,156,391,2011
+10896,"Cedar Rapids, IA","Oxford, IA",89,192,84,102,214,49,71,93,201,365,2011
+10986,"Cedar Rapids, IA","Walford, IA",66,215,79,108,193,59,52,94,214,360,2011
+10713,"Cedar Rapids, IA","Des Moines, IA",106,189,59,27,194,133,106,100,148,354,2011
+10643,"Cedar Rapids, IA","Atkins, IA",63,218,69,90,209,51,58,98,194,350,2011
+10990,"Cedar Rapids, IA","Waterloo, IA",115,190,42,43,200,104,115,118,114,347,2011
+10848,"Cedar Rapids, IA","Martelle, IA",54,189,75,74,196,48,48,119,151,318,2011
+10870,"Cedar Rapids, IA","Mount Vernon, IA",53,213,51,82,183,52,46,104,167,317,2011
+10976,"Cedar Rapids, IA","University Heights, IA",121,143,37,30,214,57,111,73,117,301,2011
+10860,"Cedar Rapids, IA","Monticello, IA",65,171,60,55,190,51,61,111,124,296,2011
+10864,"Cedar Rapids, IA","Morley, IA",48,183,65,65,165,66,50,104,142,296,2011
+10675,"Cedar Rapids, IA","Cedar Falls, IA",104,147,40,27,174,90,91,98,102,291,2011
+10634,"Cedar Rapids, IA","Anamosa, IA",50,192,44,69,163,54,60,112,114,286,2011
+10688,"Cedar Rapids, IA","Clinton, IA",73,130,53,51,102,103,80,92,84,256,2011
+10979,"Cedar Rapids, IA","Urbandale, IA",95,108,26,16,119,94,60,76,93,229,2011
+10905,"Cedar Rapids, IA","Pleasant Hill, IA",76,110,31,14,106,97,66,68,83,217,2011
+10655,"Cedar Rapids, IA","Bettendorf, IA",66,114,26,14,106,86,84,69,53,206,2011
+10793,"Cedar Rapids, IA","Indianola, IA",67,107,27,14,106,81,55,59,87,201,2011
+10792,"Cedar Rapids, IA","Independence, IA",55,117,27,63,92,44,34,66,99,199,2011
+10847,"Cedar Rapids, IA","Marshalltown, IA",61,90,41,17,101,74,64,72,56,192,2011
+10909,"Cedar Rapids, IA","Prairieburg, IA",34,122,31,53,97,37,29,45,113,187,2011
+10852,"Cedar Rapids, IA","Mechanicsville, IA",33,122,31,54,96,36,28,65,93,186,2011
+10640,"Cedar Rapids, IA","Asbury, IA",58,94,31,4,90,89,64,51,68,183,2011
+10967,"Cedar Rapids, IA","Tiffin, IA",55,106,21,36,123,23,35,42,105,182,2011
+10837,"Cedar Rapids, IA","Manchester, IA",49,111,22,24,114,44,46,53,83,182,2011
+10964,"Cedar Rapids, IA","Swisher, IA",23,111,45,47,104,28,27,43,109,179,2011
+10968,"Cedar Rapids, IA","Tipton, IA",52,99,23,42,108,24,38,61,75,174,2011
+10980,"Cedar Rapids, IA","Van Horne, IA",37,104,32,39,102,32,37,46,90,173,2011
+10844,"Cedar Rapids, IA","Marengo, IA",48,85,39,39,99,34,47,51,74,172,2011
+10726,"Cedar Rapids, IA","Elberon, IA",34,107,28,51,87,31,26,59,84,169,2011
+10700,"Cedar Rapids, IA","Council Bluffs, IA",72,77,14,15,75,73,77,46,40,163,2011
+10680,"Cedar Rapids, IA","Central City, IA",26,81,43,38,85,27,17,53,80,150,2011
+10632,"Cedar Rapids, IA","Altoona, IA",57,74,19,15,74,61,42,49,59,150,2011
+10651,"Cedar Rapids, IA","Belle Plaine, IA",42,83,17,30,91,21,48,39,55,142,2011
+10667,"Cedar Rapids, IA","Burlington, IA",40,59,33,15,62,55,51,45,36,132,2011
+10945,"Cedar Rapids, IA","Sioux City, IA",60,51,18,8,60,61,69,32,28,129,2011
+10849,"Cedar Rapids, IA","Mason City, IA",51,62,16,7,64,58,44,42,43,129,2011
+10989,"Cedar Rapids, IA","Washington, IA",48,49,17,8,58,48,65,34,15,114,2011
+10790,"Cedar Rapids, IA","Hopkinton, IA",22,74,18,34,63,17,22,32,60,114,2011
+10871,"Cedar Rapids, IA","Muscatine, IA",32,57,23,12,57,43,35,36,41,112,2011
+10677,"Cedar Rapids, IA","Center Junction, IA",23,68,21,26,58,28,19,43,50,112,2011
+10841,"Cedar Rapids, IA","Maquoketa, IA",44,51,12,12,58,37,45,39,23,107,2011
+10946,"Cedar Rapids, IA","Solon, IA",17,56,34,17,61,29,21,29,57,107,2011
+10656,"Cedar Rapids, IA","Blairstown, IA",21,74,10,33,50,22,15,47,43,105,2011
+10923,"Cedar Rapids, IA","Riverside, IA",33,46,20,8,65,26,27,37,35,99,2011
+10867,"Cedar Rapids, IA","Mount Auburn, IA",20,59,14,19,52,22,25,25,43,93,2011
+10893,"Cedar Rapids, IA","Ottumwa, IA",27,44,21,15,29,48,32,16,44,92,2011
+10993,"Cedar Rapids, IA","Waverly, IA",34,41,15,12,48,30,32,25,33,90,2011
+10692,"Cedar Rapids, IA","Coggon, IA",12,60,13,23,52,10,11,21,53,85,2011
+10621,"Cedar Rapids, IA","Ackworth, IA",22,54,9,6,44,35,23,24,38,85,2011
+10706,"Cedar Rapids, IA","De Witt, IA",30,49,4,13,47,23,19,20,44,83,2011
+10933,"Cedar Rapids, IA","Sageville, IA",36,34,12,2,47,33,35,22,25,82,2011
+11013,"Cedar Rapids, IA","Winthrop, IA",12,54,16,29,41,12,14,17,51,82,2011
+10661,"Cedar Rapids, IA","Brandon, IA",21,43,16,28,34,18,14,26,40,80,2011
+11009,"Cedar Rapids, IA","Williamsburg, IA",28,40,10,14,48,16,20,22,36,78,2011
+10887,"Cedar Rapids, IA","Oelwein, IA",19,40,16,6,45,24,29,16,30,75,2011
+10803,"Cedar Rapids, IA","Johnston, IA",23,41,9,5,38,30,26,22,25,73,2011
+10886,"Cedar Rapids, IA","Norway, IA",15,42,15,15,44,13,17,22,33,72,2011
+10707,"Cedar Rapids, IA","Decorah, IA",20,33,18,4,40,27,24,21,26,71,2011
+10902,"Cedar Rapids, IA","Peosta, IA",21,36,12,7,42,20,18,16,35,69,2011
+10987,"Cedar Rapids, IA","Walker, IA",13,40,15,21,27,20,15,20,33,68,2011
+10797,"Cedar Rapids, IA","Iowa Falls, IA",17,37,10,12,24,28,24,16,24,64,2011
+10965,"Cedar Rapids, IA","Tama, IA",18,35,10,6,42,15,20,22,21,63,2011
+11000,"Cedar Rapids, IA","West Branch, IA",13,31,17,9,34,18,15,18,28,61,2011
+10721,"Cedar Rapids, IA","Dyersville, IA",18,32,11,5,40,16,25,15,21,61,2011
+10722,"Cedar Rapids, IA","Dysart, IA",10,39,11,17,31,12,8,23,29,60,2011
+10739,"Cedar Rapids, IA","Evansdale, IA",20,28,12,4,38,18,27,20,13,60,2011
+10931,"Cedar Rapids, IA","Ryan, IA",10,45,3,22,29,7,3,20,35,58,2011
+10753,"Cedar Rapids, IA","Fort Madison, IA",21,24,12,8,30,19,21,21,15,57,2011
+11015,"Cedar Rapids, IA","Wyoming, IA",16,30,11,24,23,10,7,27,23,57,2011
+10953,"Cedar Rapids, IA","St. Marys, IA",15,35,7,6,28,23,15,19,23,57,2011
+10817,"Cedar Rapids, IA","Le Claire, IA",19,27,9,1,34,20,23,17,15,55,2011
+10808,"Cedar Rapids, IA","Keystone, IA",6,38,11,14,35,6,14,15,26,55,2011
+10774,"Cedar Rapids, IA","Grinnell, IA",18,25,10,1,28,24,36,7,10,53,2011
+10895,"Cedar Rapids, IA","Oxford Junction, IA",12,33,7,9,39,4,6,22,24,52,2011
+10787,"Cedar Rapids, IA","Hazleton, IA",14,29,9,14,26,12,20,12,20,52,2011
+10653,"Cedar Rapids, IA","Bennett, IA",11,33,7,8,27,16,9,15,27,51,2011
+11011,"Cedar Rapids, IA","Windsor Heights, IA",18,23,9,2,34,14,16,20,14,50,2011
+10805,"Cedar Rapids, IA","Keokuk, IA",17,20,12,8,25,16,18,14,17,49,2011
+10652,"Cedar Rapids, IA","Bellevue, IA",22,22,5,3,29,17,20,14,15,49,2011
+10646,"Cedar Rapids, IA","Baldwin, IA",9,26,14,4,29,16,15,16,18,49,2011
+11006,"Cedar Rapids, IA","Wheatland, IA",14,30,4,13,23,12,7,17,24,48,2011
+10637,"Cedar Rapids, IA","Ankeny, IA",10,28,10,3,28,17,12,17,19,48,2011
+10647,"Cedar Rapids, IA","Balltown, IA",14,27,7,4,20,24,11,16,21,48,2011
+11010,"Cedar Rapids, IA","Wilton, IA",14,24,8,9,24,13,12,12,22,46,2011
+10741,"Cedar Rapids, IA","Fairbank, IA",10,28,7,10,26,9,12,12,21,45,2011
+10709,"Cedar Rapids, IA","Delaware, IA",15,22,7,6,28,10,8,23,13,44,2011
+10669,"Cedar Rapids, IA","Camanche, IA",13,23,7,11,16,16,9,11,23,43,2011
+10949,"Cedar Rapids, IA","Spring Hill, IA",13,23,6,3,18,21,12,14,16,42,2011
+10970,"Cedar Rapids, IA","Toledo, IA",15,23,4,3,29,10,19,11,12,42,2011
+10922,"Cedar Rapids, IA","Riverdale, IA",12,23,6,4,25,12,12,14,15,41,2011
+10645,"Cedar Rapids, IA","Aurora, IA",10,23,8,12,24,5,7,15,19,41,2011
+10899,"Cedar Rapids, IA","Parkersburg, IA",13,19,8,2,28,10,15,9,16,40,2011
+10960,"Cedar Rapids, IA","Strawberry Point, IA",8,28,3,15,14,10,9,8,22,39,2011
+10857,"Cedar Rapids, IA","Mitchellville, IA",13,21,5,3,17,19,13,9,17,39,2011
+10801,"Cedar Rapids, IA","Jesup, IA",15,21,3,16,16,7,13,6,20,39,2011
+10671,"Cedar Rapids, IA","Carter Lake, IA",13,15,10,1,23,14,16,10,12,38,2011
+10743,"Cedar Rapids, IA","Fairfield, IA",10,22,6,8,11,19,7,12,19,38,2011
+10657,"Cedar Rapids, IA","Blue Grass, IA",8,26,3,4,17,16,8,16,13,37,2011
+10868,"Cedar Rapids, IA","Mount Pleasant, IA",10,16,10,7,15,14,15,8,13,36,2011
+10711,"Cedar Rapids, IA","Denison, IA",21,11,4,1,18,17,18,9,9,36,2011
+10830,"Cedar Rapids, IA","Long Grove, IA",11,18,7,3,16,17,13,11,12,36,2011
+10682,"Cedar Rapids, IA","Charles City, IA",14,18,3,6,18,11,13,9,13,35,2011
+10804,"Cedar Rapids, IA","Kalona, IA",4,21,10,2,20,13,9,11,15,35,2011
+10744,"Cedar Rapids, IA","Farley, IA",10,16,9,5,18,12,8,11,16,35,2011
+10815,"Cedar Rapids, IA","Larrabee, IA",19,6,8,2,20,11,17,10,6,33,2011
+10917,"Cedar Rapids, IA","Reinbeck, IA",7,19,7,4,13,16,7,13,13,33,2011
+10731,"Cedar Rapids, IA","Elk Run Heights, IA",14,11,7,1,20,11,13,12,7,32,2011
+10910,"Cedar Rapids, IA","Preston, IA",15,15,2,7,17,8,9,7,16,32,2011
+10907,"Cedar Rapids, IA","Pomeroy, IA",17,9,5,0,12,19,17,5,9,31,2011
+10877,"Cedar Rapids, IA","New London, IA",11,16,4,4,12,15,12,10,9,31,2011
+10712,"Cedar Rapids, IA","Denver, IA",11,8,12,4,16,11,11,9,11,31,2011
+10874,"Cedar Rapids, IA","New Hampton, IA",12,12,6,3,16,11,11,9,10,30,2011
+10679,"Cedar Rapids, IA","Centerville, IA",11,12,7,8,13,9,10,11,9,30,2011
+10799,"Cedar Rapids, IA","Janesville, IA",8,12,10,5,15,10,8,6,16,30,2011
+10833,"Cedar Rapids, IA","Lowden, IA",8,19,3,9,17,4,7,9,14,30,2011
+10725,"Cedar Rapids, IA","Edgewood, IA",8,19,2,3,22,4,6,11,12,29,2011
+10914,"Cedar Rapids, IA","Raymond, IA",12,14,3,3,19,7,11,11,7,29,2011
+10716,"Cedar Rapids, IA","Dixon, IA",6,18,4,1,15,12,6,14,8,28,2011
+10950,"Cedar Rapids, IA","Springbrook, IA",9,11,8,3,15,10,10,8,10,28,2011
+10861,"Cedar Rapids, IA","Montour, IA",6,18,4,10,12,6,5,6,17,28,2011
+10703,"Cedar Rapids, IA","Creston, IA",9,13,5,8,11,8,5,8,14,27,2011
+10729,"Cedar Rapids, IA","Eldridge, IA",7,13,7,0,15,12,16,8,3,27,2011
+10777,"Cedar Rapids, IA","Guttenberg, IA",10,11,6,5,15,7,10,5,12,27,2011
+10662,"Cedar Rapids, IA","Brighton, IA",7,12,7,1,14,11,7,4,15,26,2011
+10685,"Cedar Rapids, IA","Clarence, IA",9,12,5,10,12,4,6,8,12,26,2011
+10665,"Cedar Rapids, IA","Brooklyn, IA",8,9,9,2,18,6,5,14,7,26,2011
+10981,"Cedar Rapids, IA","Victor, IA",7,13,5,2,18,5,14,8,3,25,2011
+10977,"Cedar Rapids, IA","University Park, IA",10,8,7,5,12,8,4,13,8,25,2011
+10771,"Cedar Rapids, IA","Greeley, IA",12,9,3,1,16,7,6,11,7,24,2011
+10779,"Cedar Rapids, IA","Harlan, IA",9,11,3,0,16,7,9,10,4,23,2011
+10691,"Cedar Rapids, IA","Clutier, IA",6,17,0,6,11,6,3,10,10,23,2011
+10811,"Cedar Rapids, IA","Ladora, IA",8,13,2,6,13,4,8,4,11,23,2011
+10666,"Cedar Rapids, IA","Buffalo, IA",6,11,6,2,12,9,9,7,7,23,2011
+10915,"Cedar Rapids, IA","Readlyn, IA",9,11,3,2,10,11,11,5,7,23,2011
+10872,"Cedar Rapids, IA","Nashua, IA",8,10,4,1,9,12,10,7,5,22,2011
+10693,"Cedar Rapids, IA","Columbus Junction, IA",6,12,4,4,11,7,7,9,6,22,2011
+10862,"Cedar Rapids, IA","Montrose, IA",5,15,2,6,9,7,4,9,9,22,2011
+10918,"Cedar Rapids, IA","Rhodes, IA",9,10,3,1,4,17,12,4,6,22,2011
+10850,"Cedar Rapids, IA","McCausland, IA",1,18,3,1,10,11,4,12,6,22,2011
+10809,"Cedar Rapids, IA","Kinross, IA",6,13,3,3,16,3,7,3,12,22,2011
+11017,"Cedar Rapids, IA","Zwingle, IA",5,13,4,2,11,9,7,5,10,22,2011
+10834,"Cedar Rapids, IA","Luana, IA",9,7,5,4,13,4,9,6,6,21,2011
+10961,"Cedar Rapids, IA","Sumner, IA",11,10,0,2,16,3,9,4,8,21,2011
+10836,"Cedar Rapids, IA","Malcom, IA",4,11,6,5,12,4,7,7,7,21,2011
+10996,"Cedar Rapids, IA","Wellman, IA",5,12,4,4,15,2,6,3,12,21,2011
+10789,"Cedar Rapids, IA","Hills, IA",6,15,0,2,15,4,8,5,8,21,2011
+10900,"Cedar Rapids, IA","Parnell, IA",7,11,3,6,14,1,6,7,8,21,2011
+10940,"Cedar Rapids, IA","Shell Rock, IA",3,12,5,2,14,4,5,5,10,20,2011
+10776,"Cedar Rapids, IA","Guernsey, IA",4,13,3,7,9,4,3,7,10,20,2011
+10992,"Cedar Rapids, IA","Waukon, IA",10,7,3,2,7,11,10,3,7,20,2011
+10832,"Cedar Rapids, IA","Low Moor, IA",6,10,4,3,8,9,6,4,10,20,2011
+10892,"Cedar Rapids, IA","Oskaloosa, IA",10,6,4,1,7,12,11,6,3,20,2011
+10984,"Cedar Rapids, IA","Wadena, IA",8,10,2,4,8,8,8,5,7,20,2011
+10749,"Cedar Rapids, IA","Floris, IA",4,11,4,4,4,11,5,5,9,19,2011
+10737,"Cedar Rapids, IA","Epworth, IA",9,8,2,2,8,9,7,6,6,19,2011
+10873,"Cedar Rapids, IA","New Albin, IA",4,13,2,3,10,6,6,4,9,19,2011
+10802,"Cedar Rapids, IA","Jewell Junction, IA",8,7,4,2,9,8,5,11,3,19,2011
+10756,"Cedar Rapids, IA","Fredericksburg, IA",6,10,3,3,10,6,9,6,4,19,2011
+10728,"Cedar Rapids, IA","Eldora, IA",8,8,2,0,12,6,8,4,6,18,2011
+10702,"Cedar Rapids, IA","Cresco, IA",6,9,3,1,8,9,6,7,5,18,2011
+10757,"Cedar Rapids, IA","Frederika, IA",4,11,2,1,7,9,6,6,5,17,2011
+10642,"Cedar Rapids, IA","Atalissa, IA",5,9,3,1,12,4,8,2,7,17,2011
+10988,"Cedar Rapids, IA","Wapello, IA",6,9,2,0,7,10,7,7,3,17,2011
+10644,"Cedar Rapids, IA","Aurelia, IA",11,3,3,1,10,6,9,7,1,17,2011
+10851,"Cedar Rapids, IA","McIntire, IA",8,4,5,0,9,8,10,6,1,17,2011
+11005,"Cedar Rapids, IA","West Union, IA",7,7,3,2,9,6,5,4,8,17,2011
+10885,"Cedar Rapids, IA","Northwood, IA",3,9,5,0,7,10,4,7,6,17,2011
+10751,"Cedar Rapids, IA","Forest City, IA",6,10,1,2,11,4,6,5,6,17,2011
+10763,"Cedar Rapids, IA","Gilbertville, IA",5,9,3,2,12,3,4,8,5,17,2011
+10879,"Cedar Rapids, IA","New Vienna, IA",5,12,0,1,8,8,3,6,8,17,2011
+10878,"Cedar Rapids, IA","New Sharon, IA",10,5,2,4,3,10,6,5,6,17,2011
+10768,"Cedar Rapids, IA","Grandview, IA",4,9,4,3,8,6,5,4,8,17,2011
+10828,"Cedar Rapids, IA","Lockridge, IA",2,9,6,2,7,8,7,2,8,17,2011
+10664,"Cedar Rapids, IA","Britt, IA",3,10,3,0,12,4,5,6,5,16,2011
+10894,"Cedar Rapids, IA","Owasa, IA",5,9,2,2,9,5,2,10,4,16,2011
+10812,"Cedar Rapids, IA","Lake Mills, IA",3,11,2,1,7,8,3,7,6,16,2011
+10971,"Cedar Rapids, IA","Traer, IA",4,8,4,0,9,7,4,6,6,16,2011
+10767,"Cedar Rapids, IA","Grand Mound, IA",5,11,0,0,11,5,4,8,4,16,2011
+10775,"Cedar Rapids, IA","Grundy Center, IA",11,4,1,1,11,4,4,9,3,16,2011
+10636,"Cedar Rapids, IA","Andrew, IA",8,5,3,2,11,3,5,9,2,16,2011
+10778,"Cedar Rapids, IA","Hampton, IA",4,8,4,1,8,7,9,2,5,16,2011
+11003,"Cedar Rapids, IA","West Des Moines, IA",5,10,1,1,8,7,4,9,3,16,2011
+10865,"Cedar Rapids, IA","Morrison, IA",2,9,4,1,9,5,6,0,9,15,2011
+11001,"Cedar Rapids, IA","West Burlington, IA",6,6,3,1,7,7,7,3,5,15,2011
+10913,"Cedar Rapids, IA","Randalia, IA",7,5,3,1,10,4,5,7,3,15,2011
+10866,"Cedar Rapids, IA","Moulton, IA",3,8,4,4,4,7,4,6,5,15,2011
+10916,"Cedar Rapids, IA","Redding, IA",5,8,2,2,7,6,6,2,7,15,2011
+10891,"Cedar Rapids, IA","Osceola, IA",5,8,2,2,7,6,6,8,1,15,2011
+10620,"Cedar Rapids, IA","Ackley, IA",3,9,3,5,9,1,3,6,6,15,2011
+10627,"Cedar Rapids, IA","Alden, IA",3,9,3,1,6,8,7,2,6,15,2011
+10732,"Cedar Rapids, IA","Elkader, IA",2,7,6,1,11,3,3,5,7,15,2011
+10755,"Cedar Rapids, IA","Franklin, IA",5,9,1,4,6,5,4,6,5,15,2011
+10690,"Cedar Rapids, IA","Clive, IA",5,8,2,0,9,6,6,6,3,15,2011
+10635,"Cedar Rapids, IA","Andover, IA",4,9,2,3,7,5,7,4,4,15,2011
+10780,"Cedar Rapids, IA","Harpers Ferry, IA",3,7,5,3,7,5,3,4,8,15,2011
+10748,"Cedar Rapids, IA","Ferguson, IA",2,10,3,1,6,8,4,6,5,15,2011
+10687,"Cedar Rapids, IA","Clear Lake, IA",3,9,3,3,4,8,2,9,4,15,2011
+11016,"Cedar Rapids, IA","Yetter, IA",9,4,1,1,5,8,10,3,1,14,2011
+10624,"Cedar Rapids, IA","Ainsworth, IA",4,4,6,0,9,5,5,7,2,14,2011
+10674,"Cedar Rapids, IA","Castalia, IA",6,6,2,3,7,4,6,5,3,14,2011
+10798,"Cedar Rapids, IA","Irwin, IA",7,5,2,0,5,9,6,4,4,14,2011
+10943,"Cedar Rapids, IA","Sigourney, IA",3,7,4,4,5,5,1,8,5,14,2011
+11004,"Cedar Rapids, IA","West Liberty, IA",2,9,3,2,7,5,5,6,3,14,2011
+10717,"Cedar Rapids, IA","Donnellson, IA",4,6,4,2,6,6,2,5,7,14,2011
+10814,"Cedar Rapids, IA","Lansing, IA",4,9,1,2,1,11,4,8,2,14,2011
+10681,"Cedar Rapids, IA","Chariton, IA",3,7,4,4,7,3,5,0,9,14,2011
+10818,"Cedar Rapids, IA","Le Grand, IA",5,7,2,0,8,6,4,5,5,14,2011
+10883,"Cedar Rapids, IA","North English, IA",4,7,3,4,7,3,8,6,0,14,2011
+10994,"Cedar Rapids, IA","Webster City, IA",6,3,5,1,9,4,7,5,2,14,2011
+10859,"Cedar Rapids, IA","Montezuma, IA",3,5,6,2,9,3,5,3,6,14,2011
+10998,"Cedar Rapids, IA","Welton, IA",1,6,6,3,5,5,3,4,6,13,2011
+10650,"Cedar Rapids, IA","Bedford, IA",4,5,4,3,4,6,1,7,5,13,2011
+10766,"Cedar Rapids, IA","Graf, IA",7,4,2,2,5,6,4,7,2,13,2011
+10876,"Cedar Rapids, IA","New Liberty, IA",2,11,0,4,5,4,2,4,7,13,2011
+10911,"Cedar Rapids, IA","Princeton, IA",6,4,3,1,8,4,7,2,4,13,2011
+10663,"Cedar Rapids, IA","Bristow, IA",2,10,1,2,8,3,5,3,5,13,2011
+10783,"Cedar Rapids, IA","Hartwick, IA",2,9,2,5,5,3,4,3,6,13,2011
+10695,"Cedar Rapids, IA","Conrad, IA",1,6,6,1,6,6,3,2,8,13,2011
+10898,"Cedar Rapids, IA","Panama, IA",7,6,0,0,8,5,8,3,2,13,2011
+10649,"Cedar Rapids, IA","Beaman, IA",6,5,2,2,7,4,5,3,5,13,2011
+10956,"Cedar Rapids, IA","Stanley, IA",5,6,2,1,9,3,4,3,6,13,2011
+10625,"Cedar Rapids, IA","Albia, IA",4,7,2,2,5,6,5,4,4,13,2011
+10704,"Cedar Rapids, IA","Danville, IA",3,6,4,0,7,6,6,5,2,13,2011
+10683,"Cedar Rapids, IA","Charter Oak, IA",8,4,1,2,7,4,3,4,6,13,2011
+10840,"Cedar Rapids, IA","Manson, IA",5,7,1,1,3,9,7,1,5,13,2011
+11014,"Cedar Rapids, IA","Worthington, IA",3,9,1,4,6,3,5,2,6,13,2011
+10929,"Cedar Rapids, IA","Russell, IA",3,6,3,0,10,2,5,5,2,12,2011
+10760,"Cedar Rapids, IA","Garner, IA",4,7,1,2,6,4,6,2,4,12,2011
+10623,"Cedar Rapids, IA","Agency, IA",6,4,2,1,6,5,3,7,2,12,2011
+10715,"Cedar Rapids, IA","Dike, IA",3,7,2,0,5,7,5,4,3,12,2011
+10727,"Cedar Rapids, IA","Eldon, IA",2,9,1,3,5,4,2,6,4,12,2011
+11002,"Cedar Rapids, IA","West Chester, IA",5,6,1,2,8,2,2,6,4,12,2011
+11008,"Cedar Rapids, IA","Williams, IA",7,2,3,0,5,7,5,2,5,12,2011
+10672,"Cedar Rapids, IA","Cascade, IA",4,5,3,3,3,6,3,5,4,12,2011
+10773,"Cedar Rapids, IA","Greenfield, IA",4,7,1,1,4,7,6,3,3,12,2011
+10921,"Cedar Rapids, IA","Rinard, IA",8,3,1,2,6,4,6,5,1,12,2011
+10628,"Cedar Rapids, IA","Algona, IA",5,4,3,1,7,4,7,3,2,12,2011
+10626,"Cedar Rapids, IA","Albion, IA",4,6,2,1,3,8,3,4,5,12,2011
+10912,"Cedar Rapids, IA","Protivin, IA",3,7,1,0,10,1,5,5,1,11,2011
+10806,"Cedar Rapids, IA","Keosauqua, IA",3,7,1,0,6,5,3,4,4,11,2011
+10733,"Cedar Rapids, IA","Elkport, IA",2,7,2,3,5,3,2,2,7,11,2011
+10932,"Cedar Rapids, IA","Sabula, IA",1,10,0,2,7,2,2,6,3,11,2011
+10839,"Cedar Rapids, IA","Manning, IA",4,2,5,0,4,7,7,2,2,11,2011
+10936,"Cedar Rapids, IA","Schleswig, IA",4,7,0,1,2,8,5,2,4,11,2011
+10947,"Cedar Rapids, IA","Spencer, IA",6,5,0,2,6,3,9,0,2,11,2011
+10835,"Cedar Rapids, IA","Lynnville, IA",2,5,4,3,4,4,4,6,1,11,2011
+10820,"Cedar Rapids, IA","Lenox, IA",2,8,1,5,0,6,3,4,4,11,2011
+10659,"Cedar Rapids, IA","Boxholm, IA",5,3,3,0,10,1,3,6,2,11,2011
+10972,"Cedar Rapids, IA","Tripoli, IA",4,7,0,4,4,3,3,4,4,11,2011
+10982,"Cedar Rapids, IA","Vining, IA",4,4,2,1,7,2,0,6,4,10,2011
+10724,"Cedar Rapids, IA","Eddyville, IA",2,3,5,2,4,4,2,4,4,10,2011
+10906,"Cedar Rapids, IA","Pleasant Plain, IA",4,2,4,0,10,0,2,6,2,10,2011
+10668,"Cedar Rapids, IA","Bussey, IA",2,4,4,1,6,3,2,5,3,10,2011
+10975,"Cedar Rapids, IA","Unionville, IA",3,5,2,1,3,6,3,2,5,10,2011
+10919,"Cedar Rapids, IA","Richland, IA",3,6,1,2,3,5,1,4,5,10,2011
+10699,"Cedar Rapids, IA","Corydon, IA",2,6,2,5,3,2,2,1,7,10,2011
+10882,"Cedar Rapids, IA","Nora Springs, IA",5,4,1,2,5,3,4,3,3,10,2011
+10752,"Cedar Rapids, IA","Fort Atkinson, IA",4,3,3,1,7,2,3,2,5,10,2011
+10761,"Cedar Rapids, IA","Garwin, IA",5,5,0,0,4,6,6,1,3,10,2011
+10824,"Cedar Rapids, IA","Lineville, IA",3,6,1,0,4,6,4,3,3,10,2011
+10823,"Cedar Rapids, IA","Lincoln, IA",3,6,1,0,6,4,3,4,3,10,2011
+10701,"Cedar Rapids, IA","Crawfordsville, IA",1,7,2,2,6,2,3,4,3,10,2011
+10813,"Cedar Rapids, IA","Lamoni, IA",5,4,1,2,3,5,2,5,3,10,2011
+10955,"Cedar Rapids, IA","Stacyville, IA",4,4,2,2,3,5,4,3,3,10,2011
+10708,"Cedar Rapids, IA","Dedham, IA",8,2,0,1,4,5,7,2,1,10,2011
+10875,"Cedar Rapids, IA","New Hartford, IA",2,8,0,0,5,5,1,9,0,10,2011
+10769,"Cedar Rapids, IA","Grant, IA",2,5,3,3,3,4,3,3,4,10,2011
+10863,"Cedar Rapids, IA","Moravia, IA",3,5,2,1,5,4,2,5,3,10,2011
+10963,"Cedar Rapids, IA","Swea City, IA",6,3,1,1,7,2,3,5,2,10,2011
+10888,"Cedar Rapids, IA","Orange City, IA",3,5,2,3,4,3,2,3,5,10,2011
+10648,"Cedar Rapids, IA","Batavia, IA",3,4,2,3,3,3,2,4,3,9,2011
+10622,"Cedar Rapids, IA","Afton, IA",2,5,2,2,2,5,2,6,1,9,2011
+10810,"Cedar Rapids, IA","Lacona, IA",4,3,2,0,7,2,3,4,2,9,2011
+10807,"Cedar Rapids, IA","Keota, IA",5,3,1,2,3,4,5,3,1,9,2011
+10854,"Cedar Rapids, IA","Meriden, IA",4,4,1,1,2,6,5,3,1,9,2011
+10858,"Cedar Rapids, IA","Monona, IA",3,3,3,0,5,4,3,2,4,9,2011
+10997,"Cedar Rapids, IA","Wellsburg, IA",2,6,1,0,7,2,2,5,2,9,2011
+10786,"Cedar Rapids, IA","Hawkeye, IA",1,4,4,2,6,1,3,5,1,9,2011
+10629,"Cedar Rapids, IA","Allison, IA",1,5,3,0,8,1,3,4,2,9,2011
+10673,"Cedar Rapids, IA","Casey, IA",2,5,2,2,3,4,0,5,4,9,2011
+10903,"Cedar Rapids, IA","Plainfield, IA",2,5,1,3,2,3,5,2,1,8,2011
+10966,"Cedar Rapids, IA","Thompson, IA",2,4,2,1,5,2,4,2,2,8,2011
+10937,"Cedar Rapids, IA","Seymour, IA",2,3,3,1,2,5,2,3,3,8,2011
+10714,"Cedar Rapids, IA","Diagonal, IA",3,3,2,2,3,3,3,2,3,8,2011
+10831,"Cedar Rapids, IA","Lost Nation, IA",2,6,0,3,1,4,5,2,1,8,2011
+10747,"Cedar Rapids, IA","Fayette, IA",3,4,1,1,6,1,3,2,3,8,2011
+10746,"Cedar Rapids, IA","Farmington, IA",4,4,0,1,3,4,4,2,2,8,2011
+10985,"Cedar Rapids, IA","Walcott, IA",4,3,1,1,4,3,4,1,3,8,2011
+10686,"Cedar Rapids, IA","Clarksville, IA",5,2,1,0,3,5,6,1,1,8,2011
+10723,"Cedar Rapids, IA","East Peru, IA",4,4,0,1,3,4,4,2,2,8,2011
+10698,"Cedar Rapids, IA","Corwith, IA",5,3,0,1,3,4,3,4,1,8,2011
+10890,"Cedar Rapids, IA","Osage, IA",0,7,1,1,4,3,3,2,3,8,2011
+10853,"Cedar Rapids, IA","Melbourne, IA",2,4,2,1,2,5,3,1,4,8,2011
+10869,"Cedar Rapids, IA","Mount Union, IA",1,3,4,3,2,3,1,3,4,8,2011
+10958,"Cedar Rapids, IA","Steamboat Rock, IA",1,3,3,0,3,4,3,3,1,7,2011
+10938,"Cedar Rapids, IA","Shannon City, IA",2,5,0,2,3,2,1,3,3,7,2011
+10829,"Cedar Rapids, IA","Lone Tree, IA",4,2,1,0,3,4,3,1,3,7,2011
+10720,"Cedar Rapids, IA","Durant, IA",2,5,0,1,1,5,2,1,4,7,2011
+10740,"Cedar Rapids, IA","Exline, IA",2,4,1,2,0,5,2,3,2,7,2011
+10772,"Cedar Rapids, IA","Greene, IA",1,3,3,3,1,3,2,3,2,7,2011
+10784,"Cedar Rapids, IA","Haverhill, IA",4,2,1,0,3,4,1,3,3,7,2011
+10785,"Cedar Rapids, IA","Hawarden, IA",1,4,2,2,3,2,1,0,6,7,2011
+10856,"Cedar Rapids, IA","Millville, IA",3,4,0,3,2,2,0,2,5,7,2011
+10816,"Cedar Rapids, IA","Lawler, IA",1,4,2,2,5,0,3,2,2,7,2011
+11012,"Cedar Rapids, IA","Winfield, IA",1,6,0,0,5,2,3,2,2,7,2011
+10826,"Cedar Rapids, IA","Liscomb, IA",3,2,2,0,4,3,3,1,3,7,2011
+10889,"Cedar Rapids, IA","Orient, IA",2,4,1,1,3,3,2,2,3,7,2011
+10689,"Cedar Rapids, IA","Clio, IA",3,2,1,0,3,3,3,1,2,6,2011
+10991,"Cedar Rapids, IA","Waucoma, IA",1,2,3,1,2,3,2,1,3,6,2011
+11007,"Cedar Rapids, IA","Whittemore, IA",2,3,1,1,3,2,2,2,2,6,2011
+10718,"Cedar Rapids, IA","Dougherty, IA",4,1,1,3,2,1,3,0,3,6,2011
+10819,"Cedar Rapids, IA","Le Roy, IA",1,3,2,2,1,3,1,2,3,6,2011
+10730,"Cedar Rapids, IA","Elgin, IA",2,3,1,2,4,0,3,0,3,6,2011
+10838,"Cedar Rapids, IA","Manly, IA",1,5,0,0,5,1,2,2,2,6,2011
+10881,"Cedar Rapids, IA","Nichols, IA",3,2,1,0,1,5,1,4,1,6,2011
+10846,"Cedar Rapids, IA","Marquette, IA",3,2,1,0,4,2,4,2,0,6,2011
+10750,"Cedar Rapids, IA","Floyd, IA",1,4,0,0,3,2,3,0,2,5,2011
+10926,"Cedar Rapids, IA","Rock Valley, IA",4,1,0,1,3,1,2,2,1,5,2011
+10927,"Cedar Rapids, IA","Rockwell, IA",3,1,1,0,4,1,3,2,0,5,2011
+10928,"Cedar Rapids, IA","Roland, IA",1,3,1,1,1,3,1,4,0,5,2011
+10738,"Cedar Rapids, IA","Estherville, IA",1,3,1,1,3,1,0,4,1,5,2011
+10800,"Cedar Rapids, IA","Jefferson, IA",3,1,1,0,3,2,3,1,1,5,2011
+10959,"Cedar Rapids, IA","Storm Lake, IA",3,2,0,0,1,4,1,4,0,5,2011
+10957,"Cedar Rapids, IA","State Center, IA",1,4,0,0,2,3,1,2,2,5,2011
+10821,"Cedar Rapids, IA","Leon, IA",0,5,0,0,0,5,0,0,5,5,2011
+10795,"Cedar Rapids, IA","Ionia, IA",3,1,0,1,3,0,2,1,1,4,2011
+10794,"Cedar Rapids, IA","Inwood, IA",1,2,1,1,1,2,2,0,2,4,2011
+10782,"Cedar Rapids, IA","Hartley, IA",1,0,3,1,2,1,0,2,2,4,2011
+10770,"Cedar Rapids, IA","Gravity, IA",2,2,0,2,1,1,1,1,2,4,2011
+10842,"Cedar Rapids, IA","Marble Rock, IA",2,1,1,0,1,3,2,0,2,4,2011
+10764,"Cedar Rapids, IA","Gilman, IA",1,3,0,1,2,1,1,0,3,4,2011
+10995,"Cedar Rapids, IA","Webster, IA",1,2,1,2,1,1,0,0,4,4,2011
+10822,"Cedar Rapids, IA","Lime Springs, IA",2,2,0,0,3,1,2,0,2,4,2011
+10952,"Cedar Rapids, IA","St. Lucas, IA",0,2,2,1,1,2,1,2,1,4,2011
+10904,"Cedar Rapids, IA","Plano, IA",3,0,1,0,3,1,0,4,0,4,2011
+10791,"Cedar Rapids, IA","Hubbard, IA",1,0,3,1,2,1,0,2,2,4,2011
+10697,"Cedar Rapids, IA","Corning, IA",1,2,1,1,0,3,1,1,2,4,2011
+10745,"Cedar Rapids, IA","Farmersburg, IA",0,3,1,0,3,1,0,1,3,4,2011
+10954,"Cedar Rapids, IA","St. Olaf, IA",2,1,1,1,2,1,0,0,4,4,2011
+10939,"Cedar Rapids, IA","Sheldon, IA",2,2,0,0,2,2,3,0,1,4,2011
+10969,"Cedar Rapids, IA","Titonka, IA",1,2,1,0,1,3,3,0,1,4,2011
+10758,"Cedar Rapids, IA","Fruitland, IA",3,0,0,0,3,0,2,1,0,3,2011
+10710,"Cedar Rapids, IA","Deloit, IA",2,1,0,0,2,1,1,2,0,3,2011
+10935,"Cedar Rapids, IA","Schaller, IA",2,1,0,3,0,0,0,1,2,3,2011
+10630,"Cedar Rapids, IA","Alta Vista, IA",2,1,0,0,2,1,1,1,1,3,2011
+10759,"Cedar Rapids, IA","Garnavillo, IA",1,1,1,1,1,1,0,2,1,3,2011
+10734,"Cedar Rapids, IA","Elma, IA",1,2,0,0,1,2,2,0,1,3,2011
+10670,"Cedar Rapids, IA","Cambridge, IA",0,3,0,0,2,1,0,3,0,3,2011
+10901,"Cedar Rapids, IA","Paullina, IA",1,1,1,0,2,1,2,0,1,3,2011
+10908,"Cedar Rapids, IA","Postville, IA",0,2,1,1,0,2,1,0,2,3,2011
+10827,"Cedar Rapids, IA","Livermore, IA",2,0,0,0,0,2,0,2,0,2,2011
+10925,"Cedar Rapids, IA","Rock Rapids, IA",2,0,0,0,1,1,2,0,0,2,2011
+10948,"Cedar Rapids, IA","Spirit Lake, IA",1,1,0,0,2,0,0,1,1,2,2011
+10944,"Cedar Rapids, IA","Sioux Center, IA",0,1,1,0,2,0,0,2,0,2,2011
+10942,"Cedar Rapids, IA","Sibley, IA",1,0,1,0,1,1,0,2,0,2,2011
+10765,"Cedar Rapids, IA","Graettinger, IA",0,2,0,0,1,1,0,1,1,2,2011
+10762,"Cedar Rapids, IA","George, IA",2,0,0,0,1,1,2,0,0,2,2011
+10973,"Cedar Rapids, IA","Truesdale, IA",0,1,0,1,0,0,0,0,1,1,2011
+10736,"Cedar Rapids, IA","Emmetsburg, IA",0,1,0,0,1,0,0,1,0,1,2011
+10658,"Cedar Rapids, IA","Bonaparte, IA",0,1,0,1,0,0,0,0,1,1,2011
+10641,"Cedar Rapids, IA","Ashton, IA",1,0,0,0,0,1,1,0,0,1,2011
+10639,"Cedar Rapids, IA","Arnolds Park, IA",1,0,0,0,0,1,1,0,0,1,2011
+10638,"Cedar Rapids, IA","Arlington, IA",0,1,0,0,1,0,1,0,0,1,2011
+10843,"Cedar Rapids, IA","Marcus, IA",1,0,0,0,0,1,1,0,0,1,2011
+10694,"Cedar Rapids, IA","Colwell, IA",0,1,0,0,0,1,0,1,0,1,2011
+10855,"Cedar Rapids, IA","Milford, IA",1,0,0,0,1,0,1,0,0,1,2011
+10920,"Cedar Rapids, IA","Ridgeway, IA",0,1,0,1,0,0,0,0,1,1,2011
+10962,"Cedar Rapids, IA","Superior, IA",1,0,0,0,1,0,1,0,0,1,2011
+10974,"Cedar Rapids, IA","Union, IA",0,1,0,1,0,0,1,0,0,1,2011
+10934,"Cedar Rapids, IA","Sanborn, IA",0,1,0,0,1,0,1,0,0,1,2011
+10781,"Cedar Rapids, IA","Harris, IA",1,0,0,0,1,0,1,0,0,1,2011
+10930,"Cedar Rapids, IA","Ruthven, IA",0,0,1,1,0,0,0,1,0,1,2011
+10754,"Cedar Rapids, IA","Fostoria, IA",1,0,0,0,0,1,1,0,0,1,2011
+10660,"Cedar Rapids, IA","Boyden, IA",0,0,1,0,1,0,0,1,0,1,2011
+10631,"Cedar Rapids, IA","Alton, IA",0,0,1,0,1,0,0,1,0,1,2011
+10999,"Cedar Rapids, IA","West Bend, IA",0,1,0,0,0,1,1,0,0,1,2011
+10880,"Cedar Rapids, IA","Newell, IA",0,1,0,0,1,0,0,0,1,1,2011
+10684,"Cedar Rapids, IA","Chester, IA",0,1,0,0,0,1,0,0,1,1,2011

@@ -1,0 +1,310 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+15130,"Decorah, IA","Decorah, IA",894,2058,746,805,2312,581,1309,1594,795,3698,2004
+15346,"Decorah, IA","Waukon, IA",148,275,58,243,185,53,92,284,105,481,2004
+15103,"Decorah, IA","Castalia, IA",112,235,53,119,225,56,131,194,75,400,2004
+15121,"Decorah, IA","Cresco, IA",104,190,47,113,190,38,99,188,54,341,2004
+15223,"Decorah, IA","Luana, IA",51,72,23,46,82,18,45,89,12,146,2004
+15255,"Decorah, IA","New Albin, IA",37,87,16,75,48,17,42,68,30,140,2004
+15291,"Decorah, IA","Protivin, IA",27,82,23,46,67,19,30,69,33,132,2004
+15165,"Decorah, IA","Fort Atkinson, IA",19,73,19,30,70,11,26,60,25,111,2004
+15298,"Decorah, IA","Ridgeway, IA",23,45,15,21,57,5,29,40,14,83,2004
+15343,"Decorah, IA","Waterloo, IA",23,19,6,6,16,26,23,18,7,48,2004
+15353,"Decorah, IA","West Union, IA",16,20,11,19,22,6,16,24,7,47,2004
+15185,"Decorah, IA","Harpers Ferry, IA",13,28,4,20,21,4,13,25,7,45,2004
+15242,"Decorah, IA","Monona, IA",15,25,3,13,24,6,15,17,11,43,2004
+15285,"Decorah, IA","Postville, IA",8,24,8,11,22,7,11,24,5,40,2004
+15105,"Decorah, IA","Cedar Rapids, IA",18,16,4,6,15,17,13,16,9,38,2004
+15138,"Decorah, IA","Dubuque, IA",16,19,2,4,17,16,17,10,10,37,2004
+15104,"Decorah, IA","Cedar Falls, IA",14,13,5,7,13,12,16,12,4,32,2004
+15217,"Decorah, IA","Lime Springs, IA",2,22,4,11,9,8,7,13,8,28,2004
+15256,"Decorah, IA","New Hampton, IA",6,13,6,2,12,11,13,8,4,25,2004
+15347,"Decorah, IA","Waverly, IA",7,9,8,4,8,12,10,11,3,24,2004
+15266,"Decorah, IA","Oelwein, IA",11,9,4,1,17,6,14,8,2,24,2004
+15195,"Decorah, IA","Independence, IA",5,6,9,0,8,12,6,11,3,20,2004
+15233,"Decorah, IA","Mason City, IA",6,12,1,3,13,3,7,7,5,19,2004
+15112,"Decorah, IA","Clinton, IA",10,9,0,3,11,5,12,3,4,19,2004
+15181,"Decorah, IA","Guttenberg, IA",5,7,7,11,8,0,4,13,2,19,2004
+15127,"Decorah, IA","Davenport, IA",8,9,1,0,12,6,11,7,0,18,2004
+15292,"Decorah, IA","Randalia, IA",4,13,0,9,6,2,5,11,1,17,2004
+15134,"Decorah, IA","Des Moines, IA",6,8,2,3,4,9,6,7,3,16,2004
+15169,"Decorah, IA","Fredericksburg, IA",5,11,0,4,7,5,7,7,2,16,2004
+15149,"Decorah, IA","Elkader, IA",2,7,6,5,5,5,3,11,1,15,2004
+15328,"Decorah, IA","Sumner, IA",1,10,4,5,4,6,3,4,8,15,2004
+15340,"Decorah, IA","Wadena, IA",6,6,2,3,8,3,4,9,1,14,2004
+15190,"Decorah, IA","Hiawatha, IA",8,6,0,5,6,3,4,3,7,14,2004
+15147,"Decorah, IA","Elgin, IA",3,10,0,5,4,4,1,6,6,13,2004
+15344,"Decorah, IA","Waucoma, IA",1,10,1,4,7,1,7,5,0,12,2004
+15211,"Decorah, IA","Lansing, IA",3,7,1,8,2,1,3,5,3,11,2004
+15232,"Decorah, IA","Marshalltown, IA",3,7,1,2,1,8,3,7,1,11,2004
+15327,"Decorah, IA","Strawberry Point, IA",10,1,0,5,5,1,3,7,1,11,2004
+15084,"Decorah, IA","Bettendorf, IA",4,7,0,2,7,2,4,5,2,11,2004
+15133,"Decorah, IA","Denver, IA",1,5,4,2,3,5,4,5,1,10,2004
+15337,"Decorah, IA","Urbandale, IA",2,4,4,1,4,5,6,1,3,10,2004
+15065,"Decorah, IA","Ames, IA",2,6,1,5,2,2,1,3,5,9,2004
+15318,"Decorah, IA","St. Lucas, IA",3,4,2,4,5,0,4,5,0,9,2004
+15300,"Decorah, IA","Robins, IA",5,3,1,1,7,1,7,0,2,9,2004
+15278,"Decorah, IA","Parkersburg, IA",6,3,0,4,3,2,8,0,1,9,2004
+15247,"Decorah, IA","Morrison, IA",4,4,1,3,5,1,3,5,1,9,2004
+15171,"Decorah, IA","Garnavillo, IA",2,3,3,1,5,2,3,5,0,8,2004
+15111,"Decorah, IA","Clear Lake, IA",5,2,1,0,6,2,5,3,0,8,2004
+15152,"Decorah, IA","Evansdale, IA",4,3,1,1,5,2,3,4,1,8,2004
+15188,"Decorah, IA","Hawkeye, IA",2,6,0,4,3,1,2,6,0,8,2004
+15231,"Decorah, IA","Marquette, IA",3,4,0,2,3,2,1,4,2,7,2004
+15228,"Decorah, IA","Maquoketa, IA",3,3,1,0,0,7,4,3,0,7,2004
+15352,"Decorah, IA","West Des Moines, IA",4,2,1,2,3,2,5,0,2,7,2004
+15057,"Decorah, IA","Ackley, IA",1,4,2,1,3,3,2,4,1,7,2004
+15068,"Decorah, IA","Ankeny, IA",1,5,1,2,2,3,3,3,1,7,2004
+15109,"Decorah, IA","Charles City, IA",1,3,3,2,3,2,1,4,2,7,2004
+15235,"Decorah, IA","McIntire, IA",3,2,1,0,5,1,2,4,0,6,2004
+15120,"Decorah, IA","Council Bluffs, IA",2,3,1,1,1,4,3,0,3,6,2004
+15172,"Decorah, IA","Garner, IA",1,4,1,0,4,2,3,2,1,6,2004
+15140,"Decorah, IA","Dyersville, IA",1,5,0,1,1,4,2,4,0,6,2004
+15155,"Decorah, IA","Fairbank, IA",1,4,1,2,4,0,1,3,2,6,2004
+15182,"Decorah, IA","Hampton, IA",2,4,0,0,3,3,3,2,1,6,2004
+15349,"Decorah, IA","Wellsburg, IA",1,4,1,1,3,2,2,3,1,6,2004
+15197,"Decorah, IA","Iowa City, IA",4,1,1,0,4,2,4,1,1,6,2004
+15321,"Decorah, IA","Stacyville, IA",1,3,1,0,1,4,3,1,1,5,2004
+15160,"Decorah, IA","Fayette, IA",1,4,0,3,2,0,2,2,1,5,2004
+15150,"Decorah, IA","Elma, IA",3,2,0,0,3,2,2,3,0,5,2004
+15179,"Decorah, IA","Grinnell, IA",2,3,0,1,2,2,3,2,0,5,2004
+15274,"Decorah, IA","Oxford, IA",3,1,1,0,3,2,4,1,0,5,2004
+15322,"Decorah, IA","Stanley, IA",2,3,0,2,3,0,2,2,1,5,2004
+15116,"Decorah, IA","Colwell, IA",1,4,0,3,1,1,1,0,4,5,2004
+15358,"Decorah, IA","Windsor Heights, IA",0,5,0,1,3,1,1,3,1,5,2004
+15283,"Decorah, IA","Pleasant Hill, IA",1,3,1,4,1,0,1,2,2,5,2004
+15136,"Decorah, IA","Dixon, IA",0,3,1,0,1,3,0,4,0,4,2004
+15062,"Decorah, IA","Algona, IA",2,2,0,0,2,2,3,1,0,4,2004
+15099,"Decorah, IA","Camanche, IA",3,0,1,0,0,4,2,1,1,4,2004
+15225,"Decorah, IA","Manchester, IA",3,0,1,0,2,2,2,2,0,4,2004
+15320,"Decorah, IA","St. Olaf, IA",0,2,2,1,1,2,2,2,0,4,2004
+15180,"Decorah, IA","Grundy Center, IA",1,2,1,0,1,3,2,1,1,4,2004
+15110,"Decorah, IA","Chester, IA",3,0,1,0,3,1,1,3,0,4,2004
+15229,"Decorah, IA","Marengo, IA",0,3,1,2,0,2,0,3,1,4,2004
+15236,"Decorah, IA","Mechanicsville, IA",0,4,0,0,2,2,1,1,2,4,2004
+15330,"Decorah, IA","Tama, IA",2,2,0,0,2,2,1,3,0,4,2004
+15249,"Decorah, IA","Mount Pleasant, IA",0,3,1,0,3,1,2,2,0,4,2004
+15253,"Decorah, IA","Muscatine, IA",2,2,0,2,1,1,2,1,1,4,2004
+15254,"Decorah, IA","Nashua, IA",0,4,0,4,0,0,0,1,3,4,2004
+15119,"Decorah, IA","Corwith, IA",2,1,1,1,1,2,2,1,1,4,2004
+15262,"Decorah, IA","North Liberty, IA",4,0,0,0,3,1,4,0,0,4,2004
+15277,"Decorah, IA","Panorama Park, IA",2,2,0,1,2,1,2,1,1,4,2004
+15114,"Decorah, IA","Clive, IA",2,2,0,3,0,1,0,4,0,4,2004
+15098,"Decorah, IA","Burlington, IA",0,4,0,0,4,0,2,2,0,4,2004
+15170,"Decorah, IA","Frederika, IA",0,3,0,0,1,2,1,1,1,3,2004
+15332,"Decorah, IA","Tipton, IA",0,2,1,0,1,2,2,1,0,3,2004
+15304,"Decorah, IA","Sageville, IA",1,2,0,0,2,1,2,1,0,3,2004
+15070,"Decorah, IA","Arlington, IA",1,2,0,2,1,0,0,2,1,3,2004
+15200,"Decorah, IA","Johnston, IA",1,1,1,1,1,1,1,1,1,3,2004
+15203,"Decorah, IA","Kensett, IA",3,0,0,0,1,2,1,2,0,3,2004
+15312,"Decorah, IA","Sioux City, IA",3,0,0,0,1,2,3,0,0,3,2004
+15208,"Decorah, IA","La Porte City, IA",0,0,3,2,0,1,0,1,2,3,2004
+15213,"Decorah, IA","Lawler, IA",1,2,0,2,0,1,1,0,2,3,2004
+15166,"Decorah, IA","Fort Dodge, IA",2,1,0,0,2,1,2,1,0,3,2004
+15071,"Decorah, IA","Asbury, IA",0,3,0,0,2,1,2,1,0,3,2004
+15230,"Decorah, IA","Marion, IA",1,2,0,2,1,0,0,1,2,3,2004
+15294,"Decorah, IA","Readlyn, IA",2,0,1,0,1,2,1,2,0,3,2004
+15239,"Decorah, IA","Millville, IA",0,2,1,1,1,1,2,0,1,3,2004
+15241,"Decorah, IA","Mitchellville, IA",1,1,1,1,1,1,2,1,0,3,2004
+15271,"Decorah, IA","Oskaloosa, IA",1,2,0,0,2,1,3,0,0,3,2004
+15333,"Decorah, IA","Toledo, IA",1,2,0,0,1,2,1,2,0,3,2004
+15272,"Decorah, IA","Ottumwa, IA",0,2,1,1,1,1,0,2,1,3,2004
+15141,"Decorah, IA","Dysart, IA",0,1,2,0,0,3,1,2,0,3,2004
+15356,"Decorah, IA","Williamsburg, IA",1,2,0,0,0,3,0,3,0,3,2004
+15129,"Decorah, IA","De Witt, IA",2,1,0,1,1,1,3,0,0,3,2004
+15159,"Decorah, IA","Farmersburg, IA",2,0,1,2,1,0,0,2,1,3,2004
+15139,"Decorah, IA","Dunkerton, IA",1,2,0,0,1,2,1,1,1,3,2004
+15158,"Decorah, IA","Farley, IA",1,1,1,1,0,2,2,0,1,3,2004
+15097,"Decorah, IA","Buffalo, IA",3,0,0,0,2,1,3,0,0,3,2004
+15064,"Decorah, IA","Alta Vista, IA",0,2,1,3,0,0,0,1,2,3,2004
+15279,"Decorah, IA","Patterson, IA",0,1,1,0,1,1,1,1,0,2,2004
+15282,"Decorah, IA","Perry, IA",0,2,0,1,0,1,1,0,1,2,2004
+15281,"Decorah, IA","Peosta, IA",1,1,0,1,1,0,1,0,1,2,2004
+15280,"Decorah, IA","Pella, IA",1,1,0,2,0,0,0,1,1,2,2004
+15219,"Decorah, IA","Lisbon, IA",1,1,0,0,2,0,0,2,0,2,2004
+15210,"Decorah, IA","Lamoni, IA",0,2,0,0,2,0,0,1,1,2,2004
+15209,"Decorah, IA","Lambs Grove, IA",0,2,0,1,1,0,0,1,1,2,2004
+15207,"Decorah, IA","Knoxville, IA",1,1,0,1,0,1,1,1,0,2,2004
+15311,"Decorah, IA","Sioux Center, IA",2,0,0,0,0,2,2,0,0,2,2004
+15076,"Decorah, IA","Balltown, IA",0,1,1,0,1,1,1,0,1,2,2004
+15108,"Decorah, IA","Chariton, IA",1,1,0,0,1,1,1,1,0,2,2004
+15220,"Decorah, IA","Liscomb, IA",1,1,0,0,0,2,1,1,0,2,2004
+15305,"Decorah, IA","Scarville, IA",0,2,0,0,0,2,1,1,0,2,2004
+15361,"Decorah, IA","Woden, IA",2,0,0,0,1,1,1,1,0,2,2004
+15357,"Decorah, IA","Wilton, IA",2,0,0,0,0,2,1,1,0,2,2004
+15221,"Decorah, IA","Long Grove, IA",2,0,0,0,1,1,2,0,0,2,2004
+15303,"Decorah, IA","Sabula, IA",1,1,0,0,1,1,1,1,0,2,2004
+15137,"Decorah, IA","Dougherty, IA",1,1,0,1,0,1,1,1,0,2,2004
+15359,"Decorah, IA","Winfield, IA",2,0,0,0,1,1,2,0,0,2,2004
+15287,"Decorah, IA","Preston, IA",2,0,0,1,0,1,2,0,0,2,2004
+15080,"Decorah, IA","Belle Plaine, IA",1,0,1,0,0,2,2,0,0,2,2004
+15244,"Decorah, IA","Monticello, IA",1,1,0,1,1,0,1,1,0,2,2004
+15059,"Decorah, IA","Agency, IA",1,1,0,0,0,2,1,0,1,2,2004
+15354,"Decorah, IA","Wheatland, IA",1,0,1,0,1,1,0,1,1,2,2004
+15293,"Decorah, IA","Raymond, IA",1,1,0,1,1,0,0,0,2,2,2004
+15355,"Decorah, IA","Whittemore, IA",1,0,1,0,1,1,1,1,0,2,2004
+15204,"Decorah, IA","Keokuk, IA",1,1,0,0,0,2,1,1,0,2,2004
+15261,"Decorah, IA","Nora Springs, IA",0,2,0,1,0,1,0,1,1,2,2004
+15341,"Decorah, IA","Walford, IA",1,0,1,0,0,2,1,1,0,2,2004
+15342,"Decorah, IA","Washington, IA",0,2,0,0,0,2,1,1,0,2,2004
+15336,"Decorah, IA","Urbana, IA",0,2,0,1,1,0,1,0,1,2,2004
+15331,"Decorah, IA","Tiffin, IA",1,1,0,0,1,1,2,0,0,2,2004
+15113,"Decorah, IA","Clio, IA",1,1,0,0,1,1,2,0,0,2,2004
+15338,"Decorah, IA","Victor, IA",0,2,0,0,0,2,1,1,0,2,2004
+15268,"Decorah, IA","Orange City, IA",2,0,0,0,2,0,2,0,0,2,2004
+15325,"Decorah, IA","Storm Lake, IA",1,1,0,0,1,1,1,1,0,2,2004
+15178,"Decorah, IA","Greeley, IA",1,1,0,1,0,1,0,1,1,2,2004
+15267,"Decorah, IA","Ogden, IA",0,2,0,0,0,2,0,2,0,2,2004
+15066,"Decorah, IA","Andover, IA",0,2,0,0,1,1,0,1,1,2,2004
+15093,"Decorah, IA","Bristow, IA",0,2,0,0,0,2,0,2,0,2,2004
+15201,"Decorah, IA","Joice, IA",0,2,0,0,0,2,1,0,1,2,2004
+15324,"Decorah, IA","Steamboat Rock, IA",1,1,0,0,1,1,1,1,0,2,2004
+15276,"Decorah, IA","Palo, IA",2,0,0,0,1,1,2,0,0,2,2004
+15074,"Decorah, IA","Aurora, IA",0,2,0,1,0,1,0,1,1,2,2004
+15151,"Decorah, IA","Ely, IA",1,1,0,0,2,0,1,1,0,2,2004
+15264,"Decorah, IA","Norwalk, IA",0,2,0,0,2,0,0,2,0,2,2004
+15363,"Decorah, IA","Woodward, IA",0,2,0,1,0,1,1,1,0,2,2004
+15199,"Decorah, IA","Janesville, IA",0,2,0,1,0,1,1,0,1,2,2004
+15198,"Decorah, IA","Iowa Falls, IA",0,1,1,0,1,1,0,1,1,2,2004
+15146,"Decorah, IA","Eldridge, IA",1,1,0,0,0,2,1,1,0,2,2004
+15196,"Decorah, IA","Ionia, IA",0,2,0,0,2,0,0,2,0,2,2004
+15315,"Decorah, IA","Springbrook, IA",0,1,1,0,1,1,0,1,1,2,2004
+15314,"Decorah, IA","Spencer, IA",1,0,1,0,1,1,1,0,1,2,2004
+15265,"Decorah, IA","Norway, IA",0,1,1,0,1,1,1,1,0,2,2004
+15090,"Decorah, IA","Boone, IA",0,2,0,0,2,0,1,1,0,2,2004
+15319,"Decorah, IA","St. Marys, IA",0,0,2,1,0,1,1,0,1,2,2004
+15091,"Decorah, IA","Brandon, IA",0,0,2,2,0,0,0,2,0,2,2004
+15286,"Decorah, IA","Prairieburg, IA",0,1,0,0,1,0,0,1,0,1,2004
+15360,"Decorah, IA","Winthrop, IA",0,0,1,1,0,0,0,1,0,1,2004
+15288,"Decorah, IA","Primghar, IA",1,0,0,0,0,1,1,0,0,1,2004
+15289,"Decorah, IA","Princeton, IA",0,1,0,0,1,0,0,1,0,1,2004
+15075,"Decorah, IA","Baldwin, IA",0,0,1,1,0,0,0,1,0,1,2004
+15290,"Decorah, IA","Promise City, IA",0,0,1,0,0,1,1,0,0,1,2004
+15275,"Decorah, IA","Oyens, IA",1,0,0,0,0,1,1,0,0,1,2004
+15364,"Decorah, IA","Worthington, IA",1,0,0,1,0,0,1,0,0,1,2004
+15284,"Decorah, IA","Plymouth, IA",0,1,0,1,0,0,0,0,1,1,2004
+15362,"Decorah, IA","Woodbine, IA",1,0,0,0,1,0,1,0,0,1,2004
+15334,"Decorah, IA","Union, IA",0,1,0,0,0,1,0,1,0,1,2004
+15073,"Decorah, IA","Atlantic, IA",1,0,0,0,0,1,1,0,0,1,2004
+15309,"Decorah, IA","Shell Rock, IA",1,0,0,0,1,0,1,0,0,1,2004
+15067,"Decorah, IA","Anita, IA",0,1,0,0,0,1,1,0,0,1,2004
+15329,"Decorah, IA","Swea City, IA",0,1,0,1,0,0,0,0,1,1,2004
+15069,"Decorah, IA","Aredale, IA",0,1,0,0,0,1,0,1,0,1,2004
+15326,"Decorah, IA","Story City, IA",0,0,1,0,1,0,1,0,0,1,2004
+15339,"Decorah, IA","Vinton, IA",0,0,1,0,1,0,1,0,0,1,2004
+15323,"Decorah, IA","Stanton, IA",1,0,0,0,0,1,0,1,0,1,2004
+15273,"Decorah, IA","Owasa, IA",0,0,1,0,0,1,1,0,0,1,2004
+15316,"Decorah, IA","Springville, IA",0,1,0,1,0,0,0,0,1,1,2004
+15063,"Decorah, IA","Allison, IA",0,1,0,1,0,0,0,0,1,1,2004
+15313,"Decorah, IA","Solon, IA",1,0,0,0,0,1,1,0,0,1,2004
+15345,"Decorah, IA","Waukee, IA",0,1,0,0,0,1,1,0,0,1,2004
+15061,"Decorah, IA","Alden, IA",0,1,0,0,0,1,0,1,0,1,2004
+15310,"Decorah, IA","Shueyville, IA",1,0,0,0,0,1,1,0,0,1,2004
+15308,"Decorah, IA","Sheffield, IA",1,0,0,0,1,0,0,1,0,1,2004
+15295,"Decorah, IA","Reinbeck, IA",0,1,0,1,0,0,0,0,1,1,2004
+15307,"Decorah, IA","Sharpsburg, IA",0,1,0,0,0,1,0,1,0,1,2004
+15306,"Decorah, IA","Sergeant Bluff, IA",0,0,1,0,0,1,0,0,1,1,2004
+15348,"Decorah, IA","Wellman, IA",1,0,0,0,0,1,1,0,0,1,2004
+15335,"Decorah, IA","University Park, IA",0,1,0,0,1,0,0,1,0,1,2004
+15302,"Decorah, IA","Runnells, IA",0,1,0,0,1,0,0,1,0,1,2004
+15301,"Decorah, IA","Rockwell, IA",0,1,0,0,0,1,1,0,0,1,2004
+15350,"Decorah, IA","West Branch, IA",1,0,0,0,1,0,0,1,0,1,2004
+15299,"Decorah, IA","Riverside, IA",1,0,0,0,0,1,1,0,0,1,2004
+15072,"Decorah, IA","Atkins, IA",1,0,0,0,1,0,1,0,0,1,2004
+15351,"Decorah, IA","West Burlington, IA",1,0,0,0,0,1,1,0,0,1,2004
+15060,"Decorah, IA","Albia, IA",1,0,0,0,0,1,1,0,0,1,2004
+15297,"Decorah, IA","Rhodes, IA",1,0,0,0,0,1,0,1,0,1,2004
+15296,"Decorah, IA","Remsen, IA",0,1,0,0,0,1,0,1,0,1,2004
+15317,"Decorah, IA","St. Ansgar, IA",1,0,0,0,1,0,1,0,0,1,2004
+15238,"Decorah, IA","Melbourne, IA",0,1,0,0,0,1,0,1,0,1,2004
+15270,"Decorah, IA","Osceola, IA",0,1,0,0,1,0,0,1,0,1,2004
+15168,"Decorah, IA","Franklin, IA",1,0,0,0,1,0,1,0,0,1,2004
+15154,"Decorah, IA","Exline, IA",1,0,0,0,0,1,1,0,0,1,2004
+15156,"Decorah, IA","Fairfax, IA",1,0,0,0,0,1,0,1,0,1,2004
+15157,"Decorah, IA","Fairfield, IA",0,1,0,0,1,0,0,0,1,1,2004
+15161,"Decorah, IA","Fenton, IA",1,0,0,0,0,1,1,0,0,1,2004
+15162,"Decorah, IA","Ferguson, IA",0,0,1,0,0,1,1,0,0,1,2004
+15163,"Decorah, IA","Floyd, IA",1,0,0,0,1,0,0,1,0,1,2004
+15164,"Decorah, IA","Forest City, IA",0,0,1,0,1,0,0,0,1,1,2004
+15096,"Decorah, IA","Buffalo Center, IA",0,1,0,0,1,0,0,1,0,1,2004
+15167,"Decorah, IA","Fort Madison, IA",0,1,0,0,1,0,1,0,0,1,2004
+15095,"Decorah, IA","Brooklyn, IA",0,1,0,0,0,1,0,1,0,1,2004
+15269,"Decorah, IA","Osage, IA",0,1,0,1,0,0,0,1,0,1,2004
+15094,"Decorah, IA","Britt, IA",1,0,0,0,0,1,1,0,0,1,2004
+15173,"Decorah, IA","Garwin, IA",0,1,0,0,0,1,1,0,0,1,2004
+15174,"Decorah, IA","Geneva, IA",0,1,0,0,0,1,1,0,0,1,2004
+15175,"Decorah, IA","Glenwood, IA",1,0,0,0,1,0,1,0,0,1,2004
+15176,"Decorah, IA","Grandview, IA",0,1,0,1,0,0,0,1,0,1,2004
+15177,"Decorah, IA","Gray, IA",0,1,0,0,1,0,1,0,0,1,2004
+15183,"Decorah, IA","Hanlontown, IA",0,0,1,0,0,1,0,1,0,1,2004
+15184,"Decorah, IA","Hardy, IA",1,0,0,0,0,1,1,0,0,1,2004
+15092,"Decorah, IA","Brighton, IA",1,0,0,0,0,1,0,0,1,1,2004
+15153,"Decorah, IA","Exira, IA",0,1,0,1,0,0,0,0,1,1,2004
+15148,"Decorah, IA","Elk Run Heights, IA",0,0,1,0,0,1,0,1,0,1,2004
+15145,"Decorah, IA","Eldora, IA",0,1,0,0,0,1,0,1,0,1,2004
+15144,"Decorah, IA","Eldon, IA",1,0,0,0,1,0,0,1,0,1,2004
+15115,"Decorah, IA","Coggon, IA",0,1,0,1,0,0,0,0,1,1,2004
+15117,"Decorah, IA","Coralville, IA",1,0,0,0,0,1,0,1,0,1,2004
+15118,"Decorah, IA","Corning, IA",1,0,0,0,1,0,1,0,0,1,2004
+15122,"Decorah, IA","Creston, IA",1,0,0,0,1,0,0,1,0,1,2004
+15123,"Decorah, IA","Cromwell, IA",0,1,0,0,0,1,0,0,1,1,2004
+15124,"Decorah, IA","Crystal Lake, IA",0,0,1,0,0,1,1,0,0,1,2004
+15125,"Decorah, IA","Cumberland, IA",0,1,0,0,0,1,1,0,0,1,2004
+15126,"Decorah, IA","Cushing, IA",1,0,0,0,1,0,1,0,0,1,2004
+15107,"Decorah, IA","Centerville, IA",0,1,0,0,1,0,1,0,0,1,2004
+15128,"Decorah, IA","De Soto, IA",0,1,0,0,0,1,1,0,0,1,2004
+15106,"Decorah, IA","Center Point, IA",1,0,0,0,0,1,1,0,0,1,2004
+15131,"Decorah, IA","Delaware, IA",1,0,0,0,0,1,1,0,0,1,2004
+15132,"Decorah, IA","Denison, IA",0,1,0,0,1,0,0,0,1,1,2004
+15102,"Decorah, IA","Cascade, IA",0,1,0,0,1,0,1,0,0,1,2004
+15101,"Decorah, IA","Carroll, IA",1,0,0,0,0,1,1,0,0,1,2004
+15135,"Decorah, IA","Dike, IA",0,0,1,0,0,1,0,1,0,1,2004
+15100,"Decorah, IA","Carlisle, IA",0,1,0,0,0,1,0,1,0,1,2004
+15142,"Decorah, IA","Eddyville, IA",0,1,0,0,1,0,0,0,1,1,2004
+15143,"Decorah, IA","Elberon, IA",0,1,0,0,0,1,0,1,0,1,2004
+15186,"Decorah, IA","Hartwick, IA",0,1,0,0,0,1,0,1,0,1,2004
+15187,"Decorah, IA","Hawarden, IA",1,0,0,0,1,0,1,0,0,1,2004
+15189,"Decorah, IA","Hazleton, IA",0,1,0,0,0,1,0,1,0,1,2004
+15083,"Decorah, IA","Bennett, IA",0,1,0,0,0,1,0,0,1,1,2004
+15234,"Decorah, IA","Maxwell, IA",1,0,0,0,1,0,1,0,0,1,2004
+15237,"Decorah, IA","Mediapolis, IA",0,1,0,0,0,1,0,0,1,1,2004
+15240,"Decorah, IA","Missouri Valley, IA",0,0,1,0,0,1,0,0,1,1,2004
+15081,"Decorah, IA","Bellevue, IA",1,0,0,0,0,1,1,0,0,1,2004
+15243,"Decorah, IA","Montezuma, IA",0,1,0,1,0,0,0,0,1,1,2004
+15245,"Decorah, IA","Montrose, IA",0,1,0,0,0,1,0,1,0,1,2004
+15246,"Decorah, IA","Morley, IA",1,0,0,0,1,0,1,0,0,1,2004
+15248,"Decorah, IA","Mount Auburn, IA",1,0,0,0,0,1,0,0,1,1,2004
+15250,"Decorah, IA","Mount Union, IA",0,1,0,0,0,1,0,1,0,1,2004
+15251,"Decorah, IA","Moville, IA",0,1,0,1,0,0,0,0,1,1,2004
+15252,"Decorah, IA","Murray, IA",0,0,1,0,1,0,0,0,1,1,2004
+15079,"Decorah, IA","Bedford, IA",1,0,0,0,0,1,1,0,0,1,2004
+15078,"Decorah, IA","Bayard, IA",1,0,0,0,0,1,1,0,0,1,2004
+15257,"Decorah, IA","New Hartford, IA",0,1,0,0,1,0,1,0,0,1,2004
+15258,"Decorah, IA","New Vienna, IA",1,0,0,0,0,1,1,0,0,1,2004
+15259,"Decorah, IA","Newton, IA",1,0,0,0,1,0,0,1,0,1,2004
+15260,"Decorah, IA","Nodaway, IA",1,0,0,0,1,0,1,0,0,1,2004
+15263,"Decorah, IA","Northwood, IA",0,1,0,1,0,0,0,0,1,1,2004
+15077,"Decorah, IA","Baxter, IA",1,0,0,0,1,0,0,1,0,1,2004
+15082,"Decorah, IA","Belmond, IA",0,1,0,0,0,1,1,0,0,1,2004
+15085,"Decorah, IA","Birmingham, IA",0,1,0,0,1,0,1,0,0,1,2004
+15191,"Decorah, IA","Hillsboro, IA",0,1,0,0,1,0,1,0,0,1,2004
+15086,"Decorah, IA","Blairstown, IA",0,1,0,0,0,1,1,0,0,1,2004
+15192,"Decorah, IA","Hopkinton, IA",0,1,0,0,1,0,1,0,0,1,2004
+15193,"Decorah, IA","Hull, IA",0,1,0,0,0,1,0,0,1,1,2004
+15194,"Decorah, IA","Huxley, IA",1,0,0,0,1,0,1,0,0,1,2004
+15089,"Decorah, IA","Bondurant, IA",0,1,0,0,1,0,1,0,0,1,2004
+15202,"Decorah, IA","Kalona, IA",0,1,0,0,0,1,1,0,0,1,2004
+15205,"Decorah, IA","Kingsley, IA",1,0,0,0,1,0,1,0,0,1,2004
+15206,"Decorah, IA","Klemme, IA",0,1,0,0,0,1,0,1,0,1,2004
+15058,"Decorah, IA","Adair, IA",1,0,0,0,0,1,0,1,0,1,2004
+15212,"Decorah, IA","Laurens, IA",0,1,0,0,0,1,1,0,0,1,2004
+15214,"Decorah, IA","Leland, IA",1,0,0,0,1,0,1,0,0,1,2004
+15215,"Decorah, IA","Leon, IA",0,1,0,0,1,0,1,0,0,1,2004
+15216,"Decorah, IA","Lidderdale, IA",0,0,1,0,1,0,1,0,0,1,2004
+15088,"Decorah, IA","Bonaparte, IA",1,0,0,0,0,1,1,0,0,1,2004
+15218,"Decorah, IA","Lincoln, IA",0,1,0,0,1,0,1,0,0,1,2004
+15222,"Decorah, IA","Low Moor, IA",0,1,0,0,0,1,1,0,0,1,2004
+15087,"Decorah, IA","Bloomfield, IA",0,1,0,1,0,0,0,0,1,1,2004
+15224,"Decorah, IA","Lynnville, IA",0,1,0,1,0,0,0,0,1,1,2004
+15226,"Decorah, IA","Manilla, IA",0,1,0,0,0,1,0,0,1,1,2004
+15227,"Decorah, IA","Manly, IA",1,0,0,0,1,0,1,0,0,1,2004
+15365,"Decorah, IA","Yetter, IA",0,1,0,0,1,0,1,0,0,1,2004

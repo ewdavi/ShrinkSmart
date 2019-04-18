@@ -1,0 +1,294 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+6103,"Boone, IA","Boone, IA",722,1615,558,609,1784,502,1019,1365,511,2895,2003
+6281,"Boone, IA","Ogden, IA",67,191,51,88,155,66,85,179,45,309,2003
+6294,"Boone, IA","Perry, IA",51,211,47,3,282,24,16,205,88,309,2003
+6090,"Boone, IA","Ames, IA",110,135,36,73,131,77,101,102,78,281,2003
+6330,"Boone, IA","Stanhope, IA",41,98,23,34,92,36,51,84,27,162,2003
+6141,"Boone, IA","Des Moines, IA",36,73,15,13,75,36,32,57,35,124,2003
+6240,"Boone, IA","Madrid, IA",22,76,20,11,102,5,25,53,40,118,2003
+6347,"Boone, IA","Urbandale, IA",35,48,16,12,67,20,50,33,16,99,2003
+6247,"Boone, IA","Mason City, IA",41,36,16,3,23,67,54,35,4,93,2003
+6091,"Boone, IA","Ankeny, IA",16,56,17,31,55,3,16,37,36,89,2003
+6163,"Boone, IA","Fraser, IA",17,54,15,30,42,14,21,46,19,86,2003
+6133,"Boone, IA","Dallas Center, IA",13,47,12,6,62,4,9,36,27,72,2003
+6367,"Boone, IA","Windsor Heights, IA",33,30,7,9,45,16,15,39,16,70,2003
+6173,"Boone, IA","Granger, IA",14,39,16,5,59,5,7,38,24,69,2003
+6370,"Boone, IA","Woodward, IA",7,43,13,1,57,5,5,32,26,63,2003
+6245,"Boone, IA","Marshalltown, IA",25,22,8,11,23,21,35,18,2,55,2003
+6121,"Boone, IA","Clive, IA",25,18,4,5,23,19,13,17,17,47,2003
+6199,"Boone, IA","Jefferson, IA",19,22,2,9,23,11,13,22,8,43,2003
+6161,"Boone, IA","Fort Dodge, IA",13,18,11,4,10,28,16,19,7,42,2003
+6256,"Boone, IA","Minburn, IA",4,34,4,7,33,2,5,20,17,42,2003
+6357,"Boone, IA","Webster City, IA",15,16,11,2,30,10,12,21,9,42,2003
+6172,"Boone, IA","Grand Junction, IA",18,18,5,16,20,5,13,23,5,41,2003
+6237,"Boone, IA","Luther, IA",8,24,5,2,31,4,4,22,11,37,2003
+6353,"Boone, IA","Waukee, IA",7,23,7,5,23,9,8,11,18,37,2003
+6272,"Boone, IA","Nevada, IA",8,26,1,7,11,17,5,15,15,35,2003
+6201,"Boone, IA","Johnston, IA",9,25,1,3,32,0,12,20,3,35,2003
+6352,"Boone, IA","Waterloo, IA",19,15,1,0,9,26,18,11,6,35,2003
+6276,"Boone, IA","Newton, IA",18,11,3,3,18,11,11,17,4,32,2003
+6110,"Boone, IA","Carroll, IA",14,6,12,1,13,18,22,6,4,32,2003
+6336,"Boone, IA","Stratford, IA",7,24,0,13,14,4,6,18,7,31,2003
+6312,"Boone, IA","Rippey, IA",12,12,5,7,22,0,8,13,8,29,2003
+6228,"Boone, IA","Linden, IA",5,20,4,1,24,4,6,21,2,29,2003
+6196,"Boone, IA","Indianola, IA",6,15,5,2,10,14,4,17,5,26,2003
+6304,"Boone, IA","Randall, IA",4,18,3,6,18,1,8,15,2,25,2003
+6324,"Boone, IA","Sioux City, IA",15,6,1,0,3,19,14,5,3,22,2003
+6104,"Boone, IA","Boxholm, IA",6,12,4,3,19,0,3,11,8,22,2003
+6284,"Boone, IA","Oskaloosa, IA",9,12,0,2,7,12,9,9,3,21,2003
+6096,"Boone, IA","Bagley, IA",5,13,2,2,14,4,6,8,6,20,2003
+6120,"Boone, IA","Clinton, IA",13,4,2,0,0,19,12,4,3,19,2003
+6194,"Boone, IA","Huxley, IA",10,7,2,7,11,1,1,13,5,19,2003
+6356,"Boone, IA","Webb, IA",5,7,5,2,5,10,9,3,5,17,2003
+6296,"Boone, IA","Pleasant Hill, IA",8,6,3,0,3,14,13,2,2,17,2003
+6211,"Boone, IA","Knoxville, IA",8,6,3,1,5,11,7,5,5,17,2003
+6355,"Boone, IA","Waverly, IA",10,7,0,0,0,17,6,11,0,17,2003
+6293,"Boone, IA","Pella, IA",7,8,1,1,8,7,8,5,3,16,2003
+6335,"Boone, IA","Story City, IA",5,10,1,8,6,2,5,2,9,16,2003
+6126,"Boone, IA","Coon Rapids, IA",3,10,1,0,11,3,2,5,7,14,2003
+6273,"Boone, IA","New Albin, IA",6,7,1,4,9,1,4,9,1,14,2003
+6285,"Boone, IA","Otho, IA",5,9,0,9,0,5,2,12,0,14,2003
+6260,"Boone, IA","Mondamin, IA",2,9,2,0,13,0,3,10,0,13,2003
+6325,"Boone, IA","Sioux Rapids, IA",12,0,1,0,5,8,11,2,0,13,2003
+6136,"Boone, IA","De Soto, IA",4,9,0,0,10,3,2,10,1,13,2003
+6354,"Boone, IA","Waukon, IA",7,6,0,0,4,9,5,5,3,13,2003
+6275,"Boone, IA","Newell, IA",9,2,1,2,1,9,8,4,0,12,2003
+6279,"Boone, IA","Norwalk, IA",3,6,3,1,8,3,3,8,1,12,2003
+6258,"Boone, IA","Missouri Valley, IA",1,10,1,0,11,1,7,5,0,12,2003
+6139,"Boone, IA","Denison, IA",9,3,0,0,4,8,8,4,0,12,2003
+6225,"Boone, IA","Leon, IA",4,5,3,3,7,2,5,5,2,12,2003
+6134,"Boone, IA","Dawson, IA",2,7,3,5,5,2,1,8,3,12,2003
+6190,"Boone, IA","Hiawatha, IA",8,4,0,1,0,11,6,3,3,12,2003
+6341,"Boone, IA","Toledo, IA",1,8,3,1,5,6,4,6,2,12,2003
+6343,"Boone, IA","Truesdale, IA",6,3,3,0,3,9,9,3,0,12,2003
+6291,"Boone, IA","Panora, IA",5,6,0,0,8,3,3,6,2,11,2003
+6233,"Boone, IA","Logan, IA",1,9,1,0,10,1,7,4,0,11,2003
+6135,"Boone, IA","Dayton, IA",4,7,0,6,5,0,3,8,0,11,2003
+6360,"Boone, IA","West Des Moines, IA",11,0,0,1,1,9,7,3,1,11,2003
+6344,"Boone, IA","University Heights, IA",11,0,0,1,0,10,8,2,1,11,2003
+6106,"Boone, IA","Burlington, IA",1,10,0,0,11,0,3,1,7,11,2003
+6321,"Boone, IA","Shenandoah, IA",9,2,0,0,0,11,11,0,0,11,2003
+6109,"Boone, IA","Carlisle, IA",4,6,0,3,2,5,4,1,5,10,2003
+6146,"Boone, IA","Eagle Grove, IA",8,1,1,0,1,9,6,4,0,10,2003
+6198,"Boone, IA","Iowa Falls, IA",6,4,0,1,0,9,5,5,0,10,2003
+6116,"Boone, IA","Churdan, IA",1,6,3,1,7,2,7,1,2,10,2003
+6223,"Boone, IA","Lehigh, IA",4,5,0,1,7,1,2,7,0,9,2003
+6179,"Boone, IA","Guthrie Center, IA",4,4,1,2,6,1,2,6,1,9,2003
+6334,"Boone, IA","Storm Lake, IA",9,0,0,0,0,9,9,0,0,9,2003
+6162,"Boone, IA","Fort Madison, IA",8,1,0,2,0,7,7,0,2,9,2003
+6118,"Boone, IA","Clarion, IA",1,8,0,1,3,5,1,4,4,9,2003
+6130,"Boone, IA","Creston, IA",8,1,0,0,1,8,8,1,0,9,2003
+6283,"Boone, IA","Osceola, IA",9,0,0,1,2,6,7,2,0,9,2003
+6171,"Boone, IA","Goldfield, IA",2,6,0,0,2,6,5,1,2,8,2003
+6145,"Boone, IA","Dysart, IA",3,0,5,1,1,6,3,1,4,8,2003
+6170,"Boone, IA","Glidden, IA",7,0,1,0,3,5,4,4,0,8,2003
+6127,"Boone, IA","Coralville, IA",2,6,0,0,1,7,2,2,4,8,2003
+6224,"Boone, IA","Lenox, IA",1,3,4,2,4,2,2,3,3,8,2003
+6095,"Boone, IA","Audubon, IA",1,5,2,3,5,0,3,3,2,8,2003
+6308,"Boone, IA","Red Oak, IA",5,2,1,0,0,8,5,3,0,8,2003
+6328,"Boone, IA","St. Marys, IA",2,6,0,0,6,2,5,0,3,8,2003
+6318,"Boone, IA","Sac City, IA",2,6,0,2,1,5,2,4,2,8,2003
+6363,"Boone, IA","Wheatland, IA",1,6,1,2,6,0,3,4,1,8,2003
+6282,"Boone, IA","Orient, IA",5,2,0,0,1,6,5,1,1,7,2003
+6099,"Boone, IA","Belmond, IA",6,1,0,0,0,7,5,2,0,7,2003
+6221,"Boone, IA","Le Mars, IA",4,2,1,0,0,7,2,3,2,7,2003
+6149,"Boone, IA","Elberon, IA",5,2,0,4,0,3,4,1,2,7,2003
+6264,"Boone, IA","Montour, IA",5,0,2,0,2,5,5,1,1,7,2003
+6169,"Boone, IA","Glenwood, IA",1,5,1,0,0,7,1,5,1,7,2003
+6306,"Boone, IA","Readlyn, IA",6,1,0,0,0,7,7,0,0,7,2003
+6152,"Boone, IA","Ellsworth, IA",2,5,0,3,3,1,4,3,0,7,2003
+6288,"Boone, IA","Owasa, IA",5,1,1,1,0,6,5,1,1,7,2003
+6113,"Boone, IA","Chariton, IA",4,2,1,0,0,7,3,1,3,7,2003
+6259,"Boone, IA","Mitchellville, IA",1,4,2,0,1,6,5,1,1,7,2003
+6277,"Boone, IA","Nodaway, IA",3,3,0,0,1,5,5,1,0,6,2003
+6340,"Boone, IA","Tipton, IA",3,2,1,2,3,1,2,3,1,6,2003
+6297,"Boone, IA","Pleasantville, IA",4,1,1,1,2,3,4,2,0,6,2003
+6339,"Boone, IA","Tama, IA",3,2,1,1,1,4,3,2,1,6,2003
+6252,"Boone, IA","Melcher-Dallas, IA",3,3,0,0,3,3,3,1,2,6,2003
+6348,"Boone, IA","Van Meter, IA",4,2,0,1,2,3,3,2,1,6,2003
+6193,"Boone, IA","Humboldt, IA",4,2,0,0,1,5,3,1,2,6,2003
+6371,"Boone, IA","Yetter, IA",2,3,1,2,0,4,1,4,1,6,2003
+6166,"Boone, IA","Garwin, IA",0,3,3,3,0,3,2,4,0,6,2003
+6082,"Boone, IA","Adel, IA",1,5,0,0,5,1,1,2,3,6,2003
+6098,"Boone, IA","Bayard, IA",1,4,1,0,4,2,1,5,0,6,2003
+6154,"Boone, IA","Exira, IA",2,3,1,0,6,0,2,3,1,6,2003
+6151,"Boone, IA","Eldora, IA",3,3,0,0,3,3,3,2,1,6,2003
+6100,"Boone, IA","Bennett, IA",3,2,1,3,1,2,2,4,0,6,2003
+6124,"Boone, IA","Colfax, IA",1,2,3,2,2,2,1,3,2,6,2003
+6314,"Boone, IA","Robins, IA",0,5,0,0,1,4,0,0,5,5,2003
+6115,"Boone, IA","Cherokee, IA",3,1,1,0,0,5,1,3,1,5,2003
+6112,"Boone, IA","Centerville, IA",2,2,1,0,0,5,3,0,2,5,2003
+6326,"Boone, IA","Slater, IA",1,2,2,2,1,2,0,3,2,5,2003
+6227,"Boone, IA","Lidderdale, IA",4,0,1,0,4,1,2,3,0,5,2003
+6315,"Boone, IA","Rockwell City, IA",1,4,0,4,0,1,1,2,2,5,2003
+6177,"Boone, IA","Grinnell, IA",1,4,0,0,1,4,2,1,2,5,2003
+6274,"Boone, IA","New Sharon, IA",5,0,0,0,0,5,5,0,0,5,2003
+6261,"Boone, IA","Monroe, IA",3,0,2,0,1,4,4,1,0,5,2003
+6331,"Boone, IA","Stanton, IA",5,0,0,0,0,5,5,0,0,5,2003
+6250,"Boone, IA","Mechanicsville, IA",0,4,1,0,5,0,1,3,1,5,2003
+6185,"Boone, IA","Harvey, IA",2,2,1,1,2,2,3,1,1,5,2003
+6202,"Boone, IA","Kamrar, IA",0,5,0,4,1,0,1,3,1,5,2003
+6089,"Boone, IA","Altoona, IA",1,2,2,1,4,0,1,1,3,5,2003
+6085,"Boone, IA","Albia, IA",4,1,0,0,1,4,4,1,0,5,2003
+6244,"Boone, IA","Marcus, IA",3,0,1,0,2,2,4,0,0,4,2003
+6235,"Boone, IA","Lowden, IA",0,1,3,3,1,0,1,2,1,4,2003
+6267,"Boone, IA","Mount Auburn, IA",2,1,1,2,2,0,0,3,1,4,2003
+6175,"Boone, IA","Greenfield, IA",1,2,1,0,1,3,1,2,1,4,2003
+6337,"Boone, IA","Stuart, IA",1,1,2,3,1,0,2,1,1,4,2003
+6266,"Boone, IA","Moulton, IA",2,2,0,0,1,3,1,1,2,4,2003
+6303,"Boone, IA","Prairie City, IA",3,0,1,0,2,2,3,1,0,4,2003
+6365,"Boone, IA","Willey, IA",3,0,1,0,1,3,3,1,0,4,2003
+6220,"Boone, IA","Le Grand, IA",3,0,1,0,3,1,3,1,0,4,2003
+6368,"Boone, IA","Winterset, IA",1,2,1,0,1,3,2,2,0,4,2003
+6316,"Boone, IA","Runnells, IA",0,4,0,0,0,4,4,0,0,4,2003
+6215,"Boone, IA","Lakeside, IA",2,0,2,0,0,4,4,0,0,4,2003
+6253,"Boone, IA","Merrill, IA",2,2,0,3,1,0,2,1,1,4,2003
+6323,"Boone, IA","Silver City, IA",2,1,1,1,1,2,3,1,0,4,2003
+6200,"Boone, IA","Jewell Junction, IA",0,3,1,1,2,1,1,2,1,4,2003
+6108,"Boone, IA","Cambridge, IA",0,1,3,1,1,2,1,3,0,4,2003
+6255,"Boone, IA","Milton, IA",2,1,0,1,1,1,1,1,1,3,2003
+6364,"Boone, IA","Whitten, IA",3,0,0,0,0,3,3,0,0,3,2003
+6158,"Boone, IA","Ferguson, IA",1,0,2,1,0,2,1,2,0,3,2003
+6265,"Boone, IA","Moravia, IA",0,3,0,1,0,2,2,0,1,3,2003
+6251,"Boone, IA","Melbourne, IA",2,1,0,1,2,0,1,1,1,3,2003
+6268,"Boone, IA","Mount Ayr, IA",1,2,0,1,1,1,2,1,0,3,2003
+6269,"Boone, IA","Mount Pleasant, IA",1,2,0,1,0,2,1,2,0,3,2003
+6101,"Boone, IA","Bloomfield, IA",1,1,1,1,2,0,1,1,1,3,2003
+6084,"Boone, IA","Albert City, IA",1,2,0,0,1,2,0,1,2,3,2003
+6362,"Boone, IA","Westside, IA",2,1,0,1,0,2,3,0,0,3,2003
+6278,"Boone, IA","North Liberty, IA",2,1,0,0,1,2,1,1,1,3,2003
+6140,"Boone, IA","Denver, IA",3,0,0,0,0,3,3,0,0,3,2003
+6287,"Boone, IA","Ottumwa, IA",3,0,0,0,0,3,1,2,0,3,2003
+6132,"Boone, IA","Dakota City, IA",1,2,0,0,1,2,1,2,0,3,2003
+6301,"Boone, IA","Portsmouth, IA",2,1,0,0,3,0,0,3,0,3,2003
+6086,"Boone, IA","Albion, IA",2,0,1,0,2,1,1,2,0,3,2003
+6123,"Boone, IA","Coburg, IA",1,2,0,0,0,3,3,0,0,3,2003
+6122,"Boone, IA","Clutier, IA",3,0,0,0,1,2,2,1,0,3,2003
+6249,"Boone, IA","McClelland, IA",3,0,0,0,0,3,3,0,0,3,2003
+6087,"Boone, IA","Alden, IA",1,1,1,0,1,2,2,0,1,3,2003
+6119,"Boone, IA","Clearfield, IA",1,1,1,0,2,1,1,1,1,3,2003
+6342,"Boone, IA","Tripoli, IA",3,0,0,0,0,3,3,0,0,3,2003
+6280,"Boone, IA","Oakland, IA",3,0,0,0,0,3,3,0,0,3,2003
+6079,"Boone, IA","Ackley, IA",1,1,1,0,0,3,2,1,0,3,2003
+6210,"Boone, IA","Knierim, IA",3,0,0,0,0,3,1,2,0,3,2003
+6217,"Boone, IA","Lamoni, IA",0,3,0,3,0,0,0,0,3,3,2003
+6229,"Boone, IA","Lisbon, IA",0,3,0,0,3,0,0,3,0,3,2003
+6182,"Boone, IA","Harcourt, IA",3,0,0,0,0,3,3,0,0,3,2003
+6176,"Boone, IA","Grimes, IA",0,3,0,0,3,0,1,2,0,3,2003
+6184,"Boone, IA","Harpers Ferry, IA",2,1,0,0,3,0,2,0,1,3,2003
+6238,"Boone, IA","Lynnville, IA",2,1,0,0,1,2,3,0,0,3,2003
+6167,"Boone, IA","Gilbert, IA",0,3,0,0,1,2,0,0,3,3,2003
+6218,"Boone, IA","Lansing, IA",1,1,1,0,2,1,2,1,0,3,2003
+6230,"Boone, IA","Liscomb, IA",0,2,1,0,0,3,1,1,1,3,2003
+6180,"Boone, IA","Hamburg, IA",0,1,2,0,3,0,0,2,1,3,2003
+6243,"Boone, IA","Manson, IA",1,1,1,1,1,1,1,2,0,3,2003
+6317,"Boone, IA","Russell, IA",0,2,0,0,0,2,1,1,0,2,2003
+6125,"Boone, IA","Colo, IA",0,2,0,1,0,1,1,1,0,2,2003
+6286,"Boone, IA","Ottosen, IA",0,2,0,0,2,0,0,2,0,2,2003
+6350,"Boone, IA","Wall Lake, IA",2,0,0,0,0,2,1,1,0,2,2003
+6111,"Boone, IA","Casey, IA",1,1,0,0,0,2,1,1,0,2,2003
+6295,"Boone, IA","Plano, IA",1,1,0,0,0,2,2,0,0,2,2003
+6114,"Boone, IA","Charter Oak, IA",1,1,0,0,1,1,0,2,0,2,2003
+6203,"Boone, IA","Kellerton, IA",0,2,0,0,0,2,0,1,1,2,2003
+6300,"Boone, IA","Pomeroy, IA",0,2,0,1,0,1,1,0,1,2,2003
+6212,"Boone, IA","Lacona, IA",1,1,0,0,1,1,1,1,0,2,2003
+6222,"Boone, IA","Le Roy, IA",1,1,0,2,0,0,0,2,0,2,2003
+6216,"Boone, IA","Lambs Grove, IA",2,0,0,1,0,1,1,1,0,2,2003
+6309,"Boone, IA","Redfield, IA",0,2,0,0,1,1,0,1,1,2,2003
+6310,"Boone, IA","Rhodes, IA",1,1,0,1,0,1,1,0,1,2,2003
+6213,"Boone, IA","Lake City, IA",2,0,0,0,2,0,0,2,0,2,2003
+6351,"Boone, IA","Washington, IA",0,2,0,0,0,2,0,1,1,2,2003
+6117,"Boone, IA","Clarence, IA",0,2,0,1,1,0,0,2,0,2,2003
+6219,"Boone, IA","Larrabee, IA",0,2,0,0,0,2,1,0,1,2,2003
+6333,"Boone, IA","Steamboat Rock, IA",1,1,0,0,1,1,2,0,0,2,2003
+6214,"Boone, IA","Lake View, IA",1,1,0,1,1,0,1,0,1,2,2003
+6165,"Boone, IA","Fremont, IA",2,0,0,0,2,0,0,2,0,2,2003
+6188,"Boone, IA","Haverhill, IA",1,1,0,2,0,0,1,0,1,2,2003
+6092,"Boone, IA","Arcadia, IA",0,1,1,0,1,1,1,1,0,2,2003
+6153,"Boone, IA","Essex, IA",0,2,0,0,0,2,2,0,0,2,2003
+6369,"Boone, IA","Woodbine, IA",0,1,1,0,2,0,2,0,0,2,2003
+6191,"Boone, IA","Hillsboro, IA",0,1,1,0,1,1,0,1,1,2,2003
+6257,"Boone, IA","Minden, IA",2,0,0,0,0,2,2,0,0,2,2003
+6159,"Boone, IA","Floris, IA",0,1,1,0,2,0,0,2,0,2,2003
+6242,"Boone, IA","Manning, IA",0,1,1,2,0,0,0,2,0,2,2003
+6192,"Boone, IA","Hubbard, IA",2,0,0,0,0,2,2,0,0,2,2003
+6263,"Boone, IA","Monticello, IA",1,1,0,0,0,2,1,1,0,2,2003
+6083,"Boone, IA","Afton, IA",0,1,1,0,1,1,1,1,0,2,2003
+6236,"Boone, IA","Luana, IA",0,2,0,0,0,2,1,0,1,2,2003
+6144,"Boone, IA","Durant, IA",0,2,0,2,0,0,0,2,0,2,2003
+6183,"Boone, IA","Hardy, IA",0,0,2,0,1,1,0,2,0,2,2003
+6289,"Boone, IA","Pacific Junction, IA",0,1,1,1,0,1,1,1,0,2,2003
+6147,"Boone, IA","East Peru, IA",0,2,0,0,0,2,0,0,2,2,2003
+6181,"Boone, IA","Hancock, IA",2,0,0,0,0,2,2,0,0,2,2003
+6150,"Boone, IA","Eldon, IA",1,1,0,0,0,2,1,1,0,2,2003
+6088,"Boone, IA","Alton, IA",0,2,0,0,0,2,0,2,0,2,2003
+6231,"Boone, IA","Little Sioux, IA",0,0,2,0,2,0,0,2,0,2,2003
+6204,"Boone, IA","Kellogg, IA",1,0,0,0,0,1,0,1,0,1,2003
+6094,"Boone, IA","Atkins, IA",1,0,0,0,1,0,1,0,0,1,2003
+6209,"Boone, IA","Kiron, IA",0,1,0,0,0,1,1,0,0,1,2003
+6081,"Boone, IA","Adair, IA",0,1,0,0,0,1,0,1,0,1,2003
+6187,"Boone, IA","Havelock, IA",0,1,0,0,1,0,0,1,0,1,2003
+6332,"Boone, IA","State Center, IA",1,0,0,0,0,1,1,0,0,1,2003
+6208,"Boone, IA","Kirkville, IA",1,0,0,0,0,1,0,1,0,1,2003
+6349,"Boone, IA","Vinton, IA",0,0,1,0,1,0,0,0,1,1,2003
+6366,"Boone, IA","Williams, IA",0,1,0,0,0,1,1,0,0,1,2003
+6093,"Boone, IA","Atalissa, IA",0,1,0,0,0,1,0,1,0,1,2003
+6186,"Boone, IA","Hastings, IA",1,0,0,0,1,0,1,0,0,1,2003
+6107,"Boone, IA","Callender, IA",1,0,0,0,0,1,0,1,0,1,2003
+6205,"Boone, IA","Keokuk, IA",1,0,0,0,0,1,0,1,0,1,2003
+6346,"Boone, IA","Urbana, IA",0,1,0,0,0,1,0,1,0,1,2003
+6195,"Boone, IA","Imogene, IA",1,0,0,0,1,0,1,0,0,1,2003
+6361,"Boone, IA","Westfield, IA",1,0,0,1,0,0,0,1,0,1,2003
+6345,"Boone, IA","University Park, IA",0,1,0,0,0,1,0,1,0,1,2003
+6105,"Boone, IA","Brayton, IA",0,1,0,0,1,0,1,0,0,1,2003
+6207,"Boone, IA","Kingsley, IA",1,0,0,0,0,1,0,1,0,1,2003
+6338,"Boone, IA","Swan, IA",0,1,0,0,1,0,0,1,0,1,2003
+6358,"Boone, IA","West Branch, IA",0,1,0,0,0,1,0,1,0,1,2003
+6197,"Boone, IA","Iowa City, IA",0,1,0,0,1,0,0,0,1,1,2003
+6102,"Boone, IA","Bondurant, IA",0,1,0,1,0,0,0,1,0,1,2003
+6206,"Boone, IA","Keosauqua, IA",0,1,0,0,0,1,0,1,0,1,2003
+6097,"Boone, IA","Baxter, IA",1,0,0,0,1,0,1,0,0,1,2003
+6359,"Boone, IA","West Burlington, IA",1,0,0,0,1,0,0,1,0,1,2003
+6248,"Boone, IA","Massena, IA",1,0,0,0,1,0,0,1,0,1,2003
+6329,"Boone, IA","St. Paul, IA",1,0,0,1,0,0,1,0,0,1,2003
+6168,"Boone, IA","Gilman, IA",0,1,0,0,0,1,0,1,0,1,2003
+6189,"Boone, IA","Hedrick, IA",1,0,0,0,1,0,0,1,0,1,2003
+6148,"Boone, IA","Eddyville, IA",0,0,1,0,0,1,0,1,0,1,2003
+6232,"Boone, IA","Livermore, IA",1,0,0,0,0,1,0,1,0,1,2003
+6174,"Boone, IA","Grant, IA",0,1,0,0,1,0,0,0,1,1,2003
+6234,"Boone, IA","Lorimor, IA",0,1,0,0,1,0,0,1,0,1,2003
+6155,"Boone, IA","Exline, IA",1,0,0,0,1,0,0,1,0,1,2003
+6271,"Boone, IA","Mystic, IA",1,0,0,0,0,1,1,0,0,1,2003
+6270,"Boone, IA","Murray, IA",1,0,0,0,1,0,0,1,0,1,2003
+6239,"Boone, IA","Macedonia, IA",0,1,0,0,0,1,0,1,0,1,2003
+6327,"Boone, IA","Spring Hill, IA",1,0,0,0,1,0,0,1,0,1,2003
+6156,"Boone, IA","Fairfield, IA",0,1,0,0,0,1,1,0,0,1,2003
+6262,"Boone, IA","Montezuma, IA",1,0,0,0,0,1,1,0,0,1,2003
+6241,"Boone, IA","Malvern, IA",1,0,0,0,1,0,1,0,0,1,2003
+6157,"Boone, IA","Farragut, IA",0,1,0,0,1,0,0,1,0,1,2003
+6160,"Boone, IA","Fonda, IA",1,0,0,1,0,0,0,1,0,1,2003
+6254,"Boone, IA","Millerton, IA",0,0,1,0,0,1,0,0,1,1,2003
+6246,"Boone, IA","Marysville, IA",0,1,0,0,1,0,1,0,0,1,2003
+6164,"Boone, IA","Frederika, IA",1,0,0,0,0,1,1,0,0,1,2003
+6143,"Boone, IA","Duncombe, IA",1,0,0,0,0,1,1,0,0,1,2003
+6142,"Boone, IA","Dexter, IA",0,1,0,1,0,0,0,1,0,1,2003
+6138,"Boone, IA","Deloit, IA",0,0,1,0,1,0,0,1,0,1,2003
+6290,"Boone, IA","Palmer, IA",0,0,1,0,0,1,1,0,0,1,2003
+6322,"Boone, IA","Sigourney, IA",0,1,0,0,0,1,1,0,0,1,2003
+6320,"Boone, IA","Schleswig, IA",1,0,0,0,0,1,1,0,0,1,2003
+6319,"Boone, IA","Sandyville, IA",0,1,0,0,1,0,0,1,0,1,2003
+6313,"Boone, IA","Riverton, IA",0,1,0,0,1,0,0,1,0,1,2003
+6178,"Boone, IA","Guernsey, IA",1,0,0,0,0,1,1,0,0,1,2003
+6307,"Boone, IA","Reasnor, IA",0,1,0,0,0,1,0,1,0,1,2003
+6305,"Boone, IA","Randolph, IA",0,0,1,0,1,0,0,1,0,1,2003
+6302,"Boone, IA","Postville, IA",0,0,1,0,0,1,1,0,0,1,2003
+6080,"Boone, IA","Ackworth, IA",0,1,0,0,1,0,0,1,0,1,2003
+6299,"Boone, IA","Polk City, IA",0,1,0,0,1,0,0,0,1,1,2003
+6298,"Boone, IA","Pocahontas, IA",0,1,0,0,1,0,0,1,0,1,2003
+6128,"Boone, IA","Corydon, IA",0,1,0,0,0,1,0,0,1,1,2003
+6129,"Boone, IA","Council Bluffs, IA",0,0,1,0,0,1,1,0,0,1,2003
+6131,"Boone, IA","Cromwell, IA",1,0,0,0,1,0,0,0,1,1,2003
+6226,"Boone, IA","Lewis, IA",1,0,0,0,0,1,1,0,0,1,2003
+6292,"Boone, IA","Patterson, IA",1,0,0,0,1,0,1,0,0,1,2003
+6137,"Boone, IA","Dedham, IA",0,1,0,0,1,0,0,0,1,1,2003
+6311,"Boone, IA","Rinard, IA",1,0,0,0,0,1,0,1,0,1,2003

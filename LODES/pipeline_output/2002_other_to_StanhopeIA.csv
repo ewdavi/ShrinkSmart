@@ -1,0 +1,101 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+45513,"Stanhope, IA","Boone, IA",24,69,23,26,68,22,38,40,38,116,2002
+45506,"Stanhope, IA","Ames, IA",39,43,6,36,43,9,29,33,26,88,2002
+45580,"Stanhope, IA","Stanhope, IA",15,16,3,20,9,5,20,10,4,34,2002
+45564,"Stanhope, IA","Ogden, IA",8,15,5,8,5,15,10,12,6,28,2002
+45572,"Stanhope, IA","Randall, IA",4,5,5,14,0,0,4,8,2,14,2002
+45584,"Stanhope, IA","Story City, IA",1,12,0,12,1,0,4,6,3,13,2002
+45558,"Stanhope, IA","Mason City, IA",4,5,3,2,1,9,2,5,5,12,2002
+45557,"Stanhope, IA","Marshalltown, IA",3,7,1,0,0,11,0,1,10,11,2002
+45536,"Stanhope, IA","Gilbert, IA",2,9,0,8,3,0,4,3,4,11,2002
+45587,"Stanhope, IA","Toledo, IA",3,2,2,1,3,3,1,4,2,7,2002
+45555,"Stanhope, IA","Madrid, IA",0,7,0,1,6,0,4,1,2,7,2002
+45596,"Stanhope, IA","Webster City, IA",4,3,0,6,0,1,5,2,0,7,2002
+45507,"Stanhope, IA","Ankeny, IA",0,7,0,0,7,0,2,1,4,7,2002
+45523,"Stanhope, IA","Des Moines, IA",1,5,0,1,4,1,3,2,1,6,2002
+45553,"Stanhope, IA","Luther, IA",0,4,1,1,3,1,2,2,1,5,2002
+45543,"Stanhope, IA","Iowa Falls, IA",1,4,0,3,0,2,0,2,3,5,2002
+45560,"Stanhope, IA","Moulton, IA",2,3,0,2,1,2,2,0,3,5,2002
+45590,"Stanhope, IA","Urbandale, IA",3,2,0,1,4,0,4,1,0,5,2002
+45529,"Stanhope, IA","Ellsworth, IA",1,4,0,5,0,0,1,1,3,5,2002
+45598,"Stanhope, IA","Windsor Heights, IA",3,2,0,2,3,0,3,2,0,5,2002
+45562,"Stanhope, IA","Nevada, IA",2,1,2,4,1,0,1,4,0,5,2002
+45534,"Stanhope, IA","Fraser, IA",2,2,0,0,1,3,2,2,0,4,2002
+45525,"Stanhope, IA","Diagonal, IA",1,2,1,1,0,3,1,2,1,4,2002
+45537,"Stanhope, IA","Grand Junction, IA",3,1,0,1,3,0,3,1,0,4,2002
+45519,"Stanhope, IA","Creston, IA",0,3,1,0,0,4,0,0,4,4,2002
+45546,"Stanhope, IA","Johnston, IA",4,0,0,0,4,0,4,0,0,4,2002
+45575,"Stanhope, IA","Rhodes, IA",1,2,1,2,2,0,0,2,2,4,2002
+45595,"Stanhope, IA","Waukee, IA",0,4,0,1,1,2,1,0,3,4,2002
+45545,"Stanhope, IA","Jewell Junction, IA",2,1,1,3,0,1,0,2,2,4,2002
+45522,"Stanhope, IA","De Soto, IA",2,1,0,1,2,0,2,0,1,3,2002
+45551,"Stanhope, IA","Leon, IA",3,0,0,0,3,0,3,0,0,3,2002
+45597,"Stanhope, IA","Williams, IA",0,3,0,3,0,0,2,1,0,3,2002
+45518,"Stanhope, IA","Colo, IA",0,2,1,2,1,0,0,2,1,3,2002
+45517,"Stanhope, IA","Clive, IA",1,1,1,0,2,1,2,0,1,3,2002
+45547,"Stanhope, IA","Kamrar, IA",1,2,0,3,0,0,1,1,1,3,2002
+45585,"Stanhope, IA","Stratford, IA",2,1,0,3,0,0,2,1,0,3,2002
+45512,"Stanhope, IA","Bloomfield, IA",1,2,0,1,1,1,2,1,0,3,2002
+45600,"Stanhope, IA","Woolstock, IA",2,0,0,2,0,0,0,0,2,2,2002
+45559,"Stanhope, IA","Mitchellville, IA",0,1,1,2,0,0,0,1,1,2,2002
+45571,"Stanhope, IA","Pleasant Hill, IA",0,2,0,1,0,1,0,1,1,2,2002
+45565,"Stanhope, IA","Orient, IA",2,0,0,0,0,2,0,0,2,2,2002
+45566,"Stanhope, IA","Osceola, IA",0,2,0,0,0,2,0,0,2,2,2002
+45569,"Stanhope, IA","Patterson, IA",2,0,0,0,1,1,1,1,0,2,2002
+45570,"Stanhope, IA","Perry, IA",0,2,0,0,0,2,0,0,2,2,2002
+45576,"Stanhope, IA","Robins, IA",0,0,2,0,0,2,0,0,2,2,2002
+45579,"Stanhope, IA","Slater, IA",0,2,0,0,2,0,0,2,0,2,2002
+45581,"Stanhope, IA","Stanton, IA",0,2,0,0,0,2,0,2,0,2,2002
+45583,"Stanhope, IA","Steamboat Rock, IA",0,2,0,0,0,2,0,1,1,2,2002
+45586,"Stanhope, IA","Tama, IA",0,2,0,0,0,2,0,0,2,2,2002
+45591,"Stanhope, IA","Van Meter, IA",1,1,0,0,2,0,2,0,0,2,2002
+45502,"Stanhope, IA","Afton, IA",1,1,0,2,0,0,1,1,0,2,2002
+45552,"Stanhope, IA","Linden, IA",1,1,0,1,0,1,1,1,0,2,2002
+45542,"Stanhope, IA","Huxley, IA",2,0,0,2,0,0,0,1,1,2,2002
+45514,"Stanhope, IA","Cedar Rapids, IA",0,2,0,0,0,2,0,0,2,2,2002
+45524,"Stanhope, IA","Dexter, IA",0,2,0,1,1,0,1,1,0,2,2002
+45505,"Stanhope, IA","Altoona, IA",0,2,0,2,0,0,0,0,2,2,2002
+45548,"Stanhope, IA","Lake View, IA",0,2,0,2,0,0,0,1,1,2,2002
+45544,"Stanhope, IA","Jefferson, IA",0,2,0,0,1,1,1,1,0,2,2002
+45511,"Stanhope, IA","Blairstown, IA",1,1,0,1,0,1,1,1,0,2,2002
+45533,"Stanhope, IA","Fort Dodge, IA",1,1,0,0,2,0,0,2,0,2,2002
+45509,"Stanhope, IA","Baxter, IA",2,0,0,1,1,0,1,1,0,2,2002
+45527,"Stanhope, IA","Elberon, IA",1,0,1,0,2,0,1,0,1,2,2002
+45515,"Stanhope, IA","Cherokee, IA",0,1,0,0,1,0,0,1,0,1,2002
+45554,"Stanhope, IA","Lynnville, IA",0,0,1,0,0,1,0,1,0,1,2002
+45516,"Stanhope, IA","Churdan, IA",1,0,0,0,1,0,1,0,0,1,2002
+45520,"Stanhope, IA","Dawson, IA",0,1,0,0,0,1,0,1,0,1,2002
+45521,"Stanhope, IA","Dayton, IA",0,1,0,1,0,0,0,1,0,1,2002
+45582,"Stanhope, IA","State Center, IA",0,1,0,1,0,0,0,0,1,1,2002
+45588,"Stanhope, IA","University Heights, IA",1,0,0,0,1,0,0,1,0,1,2002
+45592,"Stanhope, IA","Vinton, IA",0,1,0,0,0,1,0,0,1,1,2002
+45589,"Stanhope, IA","University Park, IA",0,1,0,0,0,1,0,0,1,1,2002
+45593,"Stanhope, IA","Washington, IA",0,1,0,0,0,1,0,0,1,1,2002
+45594,"Stanhope, IA","Waterloo, IA",1,0,0,0,0,1,1,0,0,1,2002
+45510,"Stanhope, IA","Bayard, IA",0,1,0,1,0,0,1,0,0,1,2002
+45508,"Stanhope, IA","Bagley, IA",0,1,0,0,0,1,0,0,1,1,2002
+45599,"Stanhope, IA","Woodward, IA",0,1,0,1,0,0,0,1,0,1,2002
+45504,"Stanhope, IA","Alden, IA",0,0,1,1,0,0,0,1,0,1,2002
+45526,"Stanhope, IA","Duncombe, IA",0,1,0,1,0,0,1,0,0,1,2002
+45578,"Stanhope, IA","Sioux City, IA",1,0,0,0,1,0,0,1,0,1,2002
+45528,"Stanhope, IA","Eldora, IA",0,1,0,0,1,0,1,0,0,1,2002
+45567,"Stanhope, IA","Otho, IA",0,1,0,1,0,0,0,1,0,1,2002
+45556,"Stanhope, IA","Manson, IA",1,0,0,0,1,0,0,1,0,1,2002
+45550,"Stanhope, IA","Le Mars, IA",1,0,0,0,1,0,1,0,0,1,2002
+45549,"Stanhope, IA","Laurens, IA",0,1,0,0,0,1,0,0,1,1,2002
+45561,"Stanhope, IA","Mount Auburn, IA",1,0,0,1,0,0,1,0,0,1,2002
+45563,"Stanhope, IA","Norwalk, IA",0,1,0,0,1,0,0,0,1,1,2002
+45541,"Stanhope, IA","Havelock, IA",0,1,0,0,0,1,0,0,1,1,2002
+45540,"Stanhope, IA","Grinnell, IA",0,1,0,0,0,1,0,0,1,1,2002
+45539,"Stanhope, IA","Granger, IA",0,1,0,0,1,0,1,0,0,1,2002
+45568,"Stanhope, IA","Owasa, IA",0,1,0,0,0,1,0,0,1,1,2002
+45503,"Stanhope, IA","Albia, IA",0,0,1,0,0,1,0,0,1,1,2002
+45538,"Stanhope, IA","Grand River, IA",1,0,0,0,0,1,1,0,0,1,2002
+45535,"Stanhope, IA","Garwin, IA",1,0,0,0,1,0,0,1,0,1,2002
+45532,"Stanhope, IA","Farnhamville, IA",0,1,0,1,0,0,0,1,0,1,2002
+45573,"Stanhope, IA","Redding, IA",0,1,0,1,0,0,0,1,0,1,2002
+45574,"Stanhope, IA","Renwick, IA",0,1,0,0,0,1,0,0,1,1,2002
+45531,"Stanhope, IA","Fairfax, IA",0,1,0,0,0,1,0,0,1,1,2002
+45530,"Stanhope, IA","Evansdale, IA",1,0,0,0,0,1,1,0,0,1,2002
+45577,"Stanhope, IA","Roland, IA",1,0,0,1,0,0,0,1,0,1,2002
+45601,"Stanhope, IA","Yetter, IA",1,0,0,1,0,0,1,0,0,1,2002

@@ -1,0 +1,67 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+33938,"Lidderdale, IA","Carroll, IA",16,42,10,29,12,27,17,39,12,68,2006
+33964,"Lidderdale, IA","Lidderdale, IA",10,24,10,17,15,12,14,22,8,44,2006
+33954,"Lidderdale, IA","Glidden, IA",8,24,10,15,15,12,15,22,5,42,2006
+33992,"Lidderdale, IA","Willey, IA",5,25,10,19,10,11,8,24,8,40,2006
+33943,"Lidderdale, IA","Coon Rapids, IA",3,9,5,8,4,5,3,10,4,17,2006
+33991,"Lidderdale, IA","Westside, IA",5,10,1,11,1,4,3,8,5,16,2006
+33961,"Lidderdale, IA","Lake City, IA",1,4,5,4,3,3,1,4,5,10,2006
+33989,"Lidderdale, IA","Wall Lake, IA",1,5,3,6,1,2,1,6,2,9,2006
+33968,"Lidderdale, IA","Manning, IA",0,5,2,6,1,0,3,3,1,7,2006
+33958,"Lidderdale, IA","Jefferson, IA",2,4,1,0,0,7,2,3,2,7,2006
+33934,"Lidderdale, IA","Audubon, IA",0,5,2,2,0,5,2,4,1,7,2006
+33933,"Lidderdale, IA","Arcadia, IA",0,3,4,6,1,0,3,3,1,7,2006
+33995,"Lidderdale, IA","Yetter, IA",1,5,0,4,0,2,2,1,3,6,2006
+33977,"Lidderdale, IA","Pomeroy, IA",1,5,0,1,2,3,0,4,2,6,2006
+33987,"Lidderdale, IA","Story City, IA",1,4,0,1,1,3,0,4,1,5,2006
+33946,"Lidderdale, IA","Dedham, IA",1,3,1,2,2,1,1,4,0,5,2006
+33952,"Lidderdale, IA","Exira, IA",0,2,2,1,0,3,2,0,2,4,2006
+33947,"Lidderdale, IA","Deloit, IA",1,3,0,3,0,1,1,2,1,4,2006
+33948,"Lidderdale, IA","Denison, IA",2,1,0,2,1,0,0,1,2,3,2006
+33986,"Lidderdale, IA","Sioux Rapids, IA",0,2,1,1,0,2,2,1,0,3,2006
+33956,"Lidderdale, IA","Guthrie Center, IA",0,2,1,0,1,2,1,2,0,3,2006
+33974,"Lidderdale, IA","Otho, IA",3,0,0,0,0,3,1,2,0,3,2006
+33971,"Lidderdale, IA","Nevada, IA",0,2,1,0,0,3,1,0,2,3,2006
+33940,"Lidderdale, IA","Churdan, IA",0,1,2,2,0,1,0,3,0,3,2006
+33990,"Lidderdale, IA","Webb, IA",0,3,0,2,0,1,0,2,1,3,2006
+33966,"Lidderdale, IA","Logan, IA",2,1,0,2,1,0,1,1,1,3,2006
+33984,"Lidderdale, IA","Roland, IA",0,2,0,0,0,2,1,0,1,2,2006
+33983,"Lidderdale, IA","Rockwell City, IA",0,1,1,1,0,1,0,1,1,2,2006
+33980,"Lidderdale, IA","Rhodes, IA",0,2,0,0,0,2,0,0,2,2,2006
+33963,"Lidderdale, IA","Le Mars, IA",0,1,1,0,0,2,0,1,1,2,2006
+33975,"Lidderdale, IA","Pleasant Hill, IA",1,1,0,2,0,0,1,0,1,2,2006
+33988,"Lidderdale, IA","Stuart, IA",1,0,1,0,1,1,0,1,1,2,2006
+33996,"Lidderdale, IA","Zearing, IA",0,2,0,0,1,1,1,0,1,2,2006
+33935,"Lidderdale, IA","Bagley, IA",0,1,1,0,0,2,0,1,1,2,2006
+33932,"Lidderdale, IA","Anita, IA",0,1,0,0,0,1,0,0,1,1,2006
+33981,"Lidderdale, IA","Rinard, IA",0,0,1,1,0,0,0,1,0,1,2006
+33994,"Lidderdale, IA","Windsor Heights, IA",0,1,0,0,0,1,0,0,1,1,2006
+33993,"Lidderdale, IA","Wilton, IA",0,1,0,1,0,0,0,1,0,1,2006
+33936,"Lidderdale, IA","Bayard, IA",1,0,0,0,0,1,1,0,0,1,2006
+33937,"Lidderdale, IA","Callender, IA",1,0,0,0,0,1,1,0,0,1,2006
+33939,"Lidderdale, IA","Cherokee, IA",1,0,0,0,0,1,1,0,0,1,2006
+33941,"Lidderdale, IA","Clinton, IA",0,1,0,0,0,1,0,0,1,1,2006
+33942,"Lidderdale, IA","Clio, IA",0,1,0,1,0,0,0,1,0,1,2006
+33944,"Lidderdale, IA","Corydon, IA",0,1,0,0,0,1,0,1,0,1,2006
+33945,"Lidderdale, IA","Danbury, IA",0,1,0,0,0,1,1,0,0,1,2006
+33985,"Lidderdale, IA","Silver City, IA",0,0,1,0,0,1,0,1,0,1,2006
+33949,"Lidderdale, IA","Durant, IA",1,0,0,0,0,1,1,0,0,1,2006
+33950,"Lidderdale, IA","Early, IA",1,0,0,0,0,1,1,0,0,1,2006
+33982,"Lidderdale, IA","Rippey, IA",0,1,0,0,1,0,0,1,0,1,2006
+33951,"Lidderdale, IA","Elk Horn, IA",1,0,0,0,1,0,0,0,1,1,2006
+33965,"Lidderdale, IA","Linden, IA",0,0,1,0,0,1,1,0,0,1,2006
+33979,"Lidderdale, IA","Red Oak, IA",1,0,0,1,0,0,0,1,0,1,2006
+33978,"Lidderdale, IA","Promise City, IA",0,1,0,1,0,0,0,1,0,1,2006
+33953,"Lidderdale, IA","Fort Dodge, IA",0,0,1,0,0,1,0,0,1,1,2006
+33976,"Lidderdale, IA","Pocahontas, IA",1,0,0,0,0,1,1,0,0,1,2006
+33955,"Lidderdale, IA","Grand Junction, IA",0,1,0,0,0,1,0,1,0,1,2006
+33957,"Lidderdale, IA","Humboldt, IA",0,1,0,0,0,1,1,0,0,1,2006
+33973,"Lidderdale, IA","Odebolt, IA",0,1,0,1,0,0,0,1,0,1,2006
+33972,"Lidderdale, IA","Norwalk, IA",0,1,0,0,0,1,0,0,1,1,2006
+33959,"Lidderdale, IA","Johnston, IA",0,1,0,0,1,0,0,1,0,1,2006
+33970,"Lidderdale, IA","Mondamin, IA",0,1,0,0,0,1,0,1,0,1,2006
+33969,"Lidderdale, IA","Meriden, IA",1,0,0,0,0,1,1,0,0,1,2006
+33960,"Lidderdale, IA","Knierim, IA",0,1,0,0,1,0,0,1,0,1,2006
+33967,"Lidderdale, IA","Manilla, IA",1,0,0,0,0,1,1,0,0,1,2006
+33962,"Lidderdale, IA","Lake View, IA",0,0,1,1,0,0,0,1,0,1,2006
+33931,"Lidderdale, IA","Albert City, IA",0,1,0,0,1,0,0,1,0,1,2006

@@ -1,0 +1,76 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+31239,"Grant, IA","Grant, IA",9,24,15,12,25,11,21,18,9,48,2010
+31248,"Grant, IA","Lewis, IA",4,14,12,1,14,15,15,8,7,30,2010
+31226,"Grant, IA","Cumberland, IA",4,16,9,1,14,14,9,14,6,29,2010
+31269,"Grant, IA","Red Oak, IA",2,16,5,8,10,5,5,13,5,23,2010
+31276,"Grant, IA","Stanton, IA",2,16,2,5,6,9,6,11,3,20,2010
+31214,"Grant, IA","Atlantic, IA",9,6,3,6,2,10,1,9,8,18,2010
+31251,"Grant, IA","Macedonia, IA",1,9,3,0,10,3,5,7,1,13,2010
+31225,"Grant, IA","Cromwell, IA",3,8,1,3,7,2,5,6,1,12,2010
+31259,"Grant, IA","Nodaway, IA",0,4,4,3,5,0,2,6,0,8,2010
+31222,"Grant, IA","Corning, IA",0,5,3,1,5,2,3,5,0,8,2010
+31223,"Grant, IA","Council Bluffs, IA",1,4,1,1,2,3,0,4,2,6,2010
+31232,"Grant, IA","Elliott, IA",3,2,1,3,3,0,2,3,1,6,2010
+31216,"Grant, IA","Carson, IA",2,1,3,1,4,1,3,3,0,6,2010
+31255,"Grant, IA","Massena, IA",0,5,0,1,3,1,0,3,2,5,2010
+31263,"Grant, IA","Orient, IA",1,2,2,0,4,1,2,3,0,5,2010
+31224,"Grant, IA","Creston, IA",3,1,0,1,2,1,2,1,1,4,2010
+31266,"Grant, IA","Ottumwa, IA",2,1,1,1,3,0,1,3,0,4,2010
+31240,"Grant, IA","Greenfield, IA",1,2,0,1,1,1,0,3,0,3,2010
+31247,"Grant, IA","Lenox, IA",0,2,0,2,0,0,0,2,0,2,2010
+31236,"Grant, IA","Fort Dodge, IA",0,1,1,2,0,0,0,1,1,2,2010
+31207,"Grant, IA","Afton, IA",0,0,2,1,0,1,0,2,0,2,2010
+31234,"Grant, IA","Exira, IA",0,0,2,0,0,2,2,0,0,2,2010
+31261,"Grant, IA","Oakland, IA",1,0,1,0,1,1,2,0,0,2,2010
+31262,"Grant, IA","Orange City, IA",0,2,0,1,0,1,1,1,0,2,2010
+31264,"Grant, IA","Osceola, IA",2,0,0,0,2,0,1,1,0,2,2010
+31253,"Grant, IA","Marcus, IA",2,0,0,0,2,0,2,0,0,2,2010
+31281,"Grant, IA","Wiota, IA",0,2,0,0,0,2,0,2,0,2,2010
+31213,"Grant, IA","Arthur, IA",1,1,0,0,2,0,1,1,0,2,2010
+31227,"Grant, IA","Cushing, IA",0,1,1,0,2,0,0,2,0,2,2010
+31210,"Grant, IA","Anita, IA",0,2,0,0,0,2,0,1,1,2,2010
+31233,"Grant, IA","Emmetsburg, IA",1,0,0,1,0,0,0,1,0,1,2010
+31218,"Grant, IA","Casey, IA",0,1,0,0,0,1,0,1,0,1,2010
+31217,"Grant, IA","Carter Lake, IA",0,1,0,0,0,1,1,0,0,1,2010
+31215,"Grant, IA","Audubon, IA",0,0,1,0,0,1,1,0,0,1,2010
+31212,"Grant, IA","Arnolds Park, IA",1,0,0,0,0,1,1,0,0,1,2010
+31265,"Grant, IA","Otho, IA",0,0,1,1,0,0,0,0,1,1,2010
+31211,"Grant, IA","Ankeny, IA",1,0,0,0,0,1,1,0,0,1,2010
+31267,"Grant, IA","Oxford, IA",1,0,0,0,1,0,0,1,0,1,2010
+31268,"Grant, IA","Readlyn, IA",0,1,0,0,1,0,0,1,0,1,2010
+31270,"Grant, IA","Robins, IA",0,1,0,1,0,0,0,1,0,1,2010
+31271,"Grant, IA","Rock Rapids, IA",1,0,0,1,0,0,1,0,0,1,2010
+31272,"Grant, IA","Sheldon, IA",0,1,0,1,0,0,0,1,0,1,2010
+31273,"Grant, IA","Shenandoah, IA",1,0,0,0,0,1,1,0,0,1,2010
+31274,"Grant, IA","Sigourney, IA",0,1,0,0,1,0,0,1,0,1,2010
+31275,"Grant, IA","Silver City, IA",0,1,0,0,0,1,0,1,0,1,2010
+31209,"Grant, IA","Ames, IA",0,0,1,0,0,1,0,0,1,1,2010
+31277,"Grant, IA","Superior, IA",0,1,0,1,0,0,0,0,1,1,2010
+31278,"Grant, IA","Waterloo, IA",0,1,0,1,0,0,0,1,0,1,2010
+31279,"Grant, IA","Webster City, IA",0,1,0,1,0,0,0,0,1,1,2010
+31280,"Grant, IA","West Des Moines, IA",1,0,0,0,1,0,0,0,1,1,2010
+31260,"Grant, IA","Norwalk, IA",0,1,0,0,1,0,1,0,0,1,2010
+31258,"Grant, IA","Newton, IA",0,1,0,0,0,1,0,1,0,1,2010
+31235,"Grant, IA","Fonda, IA",0,1,0,1,0,0,0,0,1,1,2010
+31245,"Grant, IA","Lake View, IA",0,0,1,0,0,1,0,0,1,1,2010
+31231,"Grant, IA","East Peru, IA",0,1,0,0,0,1,0,1,0,1,2010
+31237,"Grant, IA","Frederika, IA",0,0,1,0,1,0,0,0,1,1,2010
+31238,"Grant, IA","Grand River, IA",0,1,0,0,1,0,0,1,0,1,2010
+31230,"Grant, IA","Dubuque, IA",1,0,0,0,0,1,1,0,0,1,2010
+31229,"Grant, IA","Des Moines, IA",1,0,0,1,0,0,0,1,0,1,2010
+31241,"Grant, IA","Hampton, IA",1,0,0,0,1,0,1,0,0,1,2010
+31242,"Grant, IA","Hancock, IA",1,0,0,0,0,1,1,0,0,1,2010
+31243,"Grant, IA","Iowa City, IA",0,1,0,0,1,0,1,0,0,1,2010
+31208,"Grant, IA","Akron, IA",1,0,0,0,1,0,1,0,0,1,2010
+31246,"Grant, IA","Lakeside, IA",0,1,0,1,0,0,0,0,1,1,2010
+31257,"Grant, IA","New Sharon, IA",1,0,0,1,0,0,0,0,1,1,2010
+31228,"Grant, IA","Danbury, IA",0,0,1,0,1,0,1,0,0,1,2010
+31249,"Grant, IA","Logan, IA",0,1,0,0,1,0,0,0,1,1,2010
+31250,"Grant, IA","Lynnville, IA",0,1,0,0,1,0,1,0,0,1,2010
+31221,"Grant, IA","Clive, IA",1,0,0,0,0,1,0,1,0,1,2010
+31252,"Grant, IA","Manning, IA",0,1,0,0,0,1,1,0,0,1,2010
+31220,"Grant, IA","Clarinda, IA",0,1,0,0,0,1,1,0,0,1,2010
+31254,"Grant, IA","Mason City, IA",0,0,1,0,1,0,0,1,0,1,2010
+31219,"Grant, IA","Centerville, IA",1,0,0,1,0,0,0,1,0,1,2010
+31256,"Grant, IA","Murray, IA",0,1,0,0,1,0,0,1,0,1,2010
+31244,"Grant, IA","Jefferson, IA",0,1,0,0,0,1,1,0,0,1,2010

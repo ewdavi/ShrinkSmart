@@ -1,0 +1,85 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+38274,"Kirkman, IA","Harlan, IA",31,63,33,20,37,70,42,62,23,127,2007
+38313,"Kirkman, IA","Tennant, IA",7,19,15,10,14,17,10,22,9,41,2007
+38279,"Kirkman, IA","Kirkman, IA",6,15,0,3,4,14,10,10,1,21,2007
+38257,"Kirkman, IA","Defiance, IA",4,10,1,2,2,11,5,8,2,15,2007
+38300,"Kirkman, IA","Panama, IA",6,6,1,2,3,8,4,9,0,13,2007
+38278,"Kirkman, IA","Kimballton, IA",0,7,1,2,2,4,2,4,2,8,2007
+38276,"Kirkman, IA","Irwin, IA",0,6,2,2,1,5,0,7,1,8,2007
+38284,"Kirkman, IA","Logan, IA",3,4,0,1,3,3,6,1,0,7,2007
+38259,"Kirkman, IA","Denison, IA",3,2,2,1,1,5,2,3,2,7,2007
+38263,"Kirkman, IA","Elk Horn, IA",1,2,3,2,2,2,4,2,0,6,2007
+38293,"Kirkman, IA","Missouri Valley, IA",1,3,1,3,1,1,1,2,2,5,2007
+38265,"Kirkman, IA","Exira, IA",1,3,0,1,1,2,0,4,0,4,2007
+38287,"Kirkman, IA","Manilla, IA",1,3,0,1,1,2,2,1,1,4,2007
+38307,"Kirkman, IA","Shelby, IA",0,2,2,0,3,1,1,3,0,4,2007
+38242,"Kirkman, IA","Atlantic, IA",0,4,0,0,1,3,1,1,2,4,2007
+38255,"Kirkman, IA","Danbury, IA",0,3,0,0,2,1,1,2,0,3,2007
+38249,"Kirkman, IA","Carroll, IA",1,1,1,0,2,1,2,1,0,3,2007
+38245,"Kirkman, IA","Avoca, IA",2,1,0,1,0,2,1,2,0,3,2007
+38294,"Kirkman, IA","Mondamin, IA",2,0,0,0,1,1,1,1,0,2,2007
+38323,"Kirkman, IA","Woodbine, IA",1,1,0,1,0,1,1,0,1,2,2007
+38275,"Kirkman, IA","Havelock, IA",0,1,1,1,0,1,1,1,0,2,2007
+38322,"Kirkman, IA","Wiota, IA",1,1,0,0,2,0,1,1,0,2,2007
+38273,"Kirkman, IA","Hancock, IA",0,2,0,1,0,1,0,2,0,2,2007
+38303,"Kirkman, IA","Red Oak, IA",1,1,0,0,0,2,2,0,0,2,2007
+38270,"Kirkman, IA","Grant, IA",1,1,0,1,0,1,1,1,0,2,2007
+38269,"Kirkman, IA","Grand Junction, IA",0,2,0,0,0,2,0,0,2,2,2007
+38260,"Kirkman, IA","Des Moines, IA",0,1,1,0,2,0,0,1,1,2,2007
+38312,"Kirkman, IA","Stanton, IA",0,2,0,1,1,0,1,1,0,2,2007
+38248,"Kirkman, IA","Brayton, IA",1,1,0,0,1,1,0,2,0,2,2007
+38297,"Kirkman, IA","Oakland, IA",1,1,0,1,0,1,0,2,0,2,2007
+38251,"Kirkman, IA","Cedar Rapids, IA",1,1,0,0,0,2,0,2,0,2,2007
+38302,"Kirkman, IA","Raymond, IA",0,1,0,0,1,0,1,0,0,1,2007
+38299,"Kirkman, IA","Ottumwa, IA",0,1,0,0,1,0,0,1,0,1,2007
+38295,"Kirkman, IA","Morley, IA",0,0,1,0,0,1,0,1,0,1,2007
+38296,"Kirkman, IA","Newton, IA",0,1,0,0,1,0,0,1,0,1,2007
+38301,"Kirkman, IA","Preston, IA",0,1,0,0,0,1,0,1,0,1,2007
+38304,"Kirkman, IA","Remsen, IA",0,0,1,1,0,0,0,0,1,1,2007
+38298,"Kirkman, IA","Osceola, IA",0,1,0,0,0,1,0,1,0,1,2007
+38241,"Kirkman, IA","Agency, IA",1,0,0,0,0,1,1,0,0,1,2007
+38305,"Kirkman, IA","Robins, IA",0,0,1,0,0,1,0,1,0,1,2007
+38306,"Kirkman, IA","Schleswig, IA",0,1,0,0,1,0,1,0,0,1,2007
+38308,"Kirkman, IA","Sioux City, IA",1,0,0,0,0,1,1,0,0,1,2007
+38310,"Kirkman, IA","Soldier, IA",0,0,1,0,0,1,0,1,0,1,2007
+38311,"Kirkman, IA","Springville, IA",0,1,0,0,0,1,0,1,0,1,2007
+38314,"Kirkman, IA","Underwood, IA",0,0,1,1,0,0,0,1,0,1,2007
+38315,"Kirkman, IA","Urbana, IA",1,0,0,0,0,1,0,1,0,1,2007
+38316,"Kirkman, IA","Walnut, IA",0,1,0,0,1,0,0,1,0,1,2007
+38317,"Kirkman, IA","Wapello, IA",0,1,0,0,0,1,0,1,0,1,2007
+38318,"Kirkman, IA","Waterloo, IA",1,0,0,0,1,0,0,0,1,1,2007
+38319,"Kirkman, IA","West Des Moines, IA",0,0,1,0,0,1,0,0,1,1,2007
+38320,"Kirkman, IA","Westfield, IA",0,0,1,0,0,1,0,0,1,1,2007
+38321,"Kirkman, IA","Westside, IA",0,1,0,0,1,0,1,0,0,1,2007
+38309,"Kirkman, IA","Sloan, IA",0,0,1,0,1,0,0,0,1,1,2007
+38283,"Kirkman, IA","Little Sioux, IA",1,0,0,1,0,0,0,1,0,1,2007
+38292,"Kirkman, IA","Minden, IA",1,0,0,0,1,0,1,0,0,1,2007
+38291,"Kirkman, IA","McClelland, IA",1,0,0,0,1,0,1,0,0,1,2007
+38243,"Kirkman, IA","Audubon, IA",0,0,1,1,0,0,0,1,0,1,2007
+38244,"Kirkman, IA","Aurelia, IA",0,0,1,0,0,1,0,1,0,1,2007
+38246,"Kirkman, IA","Bertram, IA",0,1,0,0,0,1,1,0,0,1,2007
+38247,"Kirkman, IA","Bloomfield, IA",0,0,1,0,1,0,0,0,1,1,2007
+38250,"Kirkman, IA","Carter Lake, IA",1,0,0,0,0,1,0,1,0,1,2007
+38252,"Kirkman, IA","Chariton, IA",0,1,0,0,0,1,0,1,0,1,2007
+38253,"Kirkman, IA","Clinton, IA",1,0,0,0,0,1,0,1,0,1,2007
+38254,"Kirkman, IA","Crystal Lake, IA",0,1,0,0,0,1,0,1,0,1,2007
+38256,"Kirkman, IA","Decorah, IA",0,0,1,0,1,0,1,0,0,1,2007
+38258,"Kirkman, IA","Deloit, IA",0,1,0,0,1,0,0,1,0,1,2007
+38261,"Kirkman, IA","Dunlap, IA",0,0,1,0,0,1,0,0,1,1,2007
+38262,"Kirkman, IA","Eagle Grove, IA",0,1,0,0,0,1,1,0,0,1,2007
+38264,"Kirkman, IA","Ellsworth, IA",0,1,0,0,0,1,0,1,0,1,2007
+38266,"Kirkman, IA","Fairfield, IA",0,1,0,0,0,1,0,1,0,1,2007
+38267,"Kirkman, IA","Franklin, IA",0,1,0,0,0,1,0,1,0,1,2007
+38268,"Kirkman, IA","Glenwood, IA",0,1,0,0,0,1,0,1,0,1,2007
+38271,"Kirkman, IA","Guthrie Center, IA",0,1,0,0,1,0,0,0,1,1,2007
+38272,"Kirkman, IA","Hamburg, IA",0,1,0,0,0,1,1,0,0,1,2007
+38277,"Kirkman, IA","Kalona, IA",0,1,0,0,1,0,0,1,0,1,2007
+38280,"Kirkman, IA","Kirkville, IA",0,1,0,0,1,0,0,0,1,1,2007
+38281,"Kirkman, IA","Lewis, IA",1,0,0,0,1,0,0,1,0,1,2007
+38282,"Kirkman, IA","Lisbon, IA",0,1,0,0,0,1,0,1,0,1,2007
+38285,"Kirkman, IA","Madrid, IA",0,1,0,0,0,1,0,1,0,1,2007
+38286,"Kirkman, IA","Magnolia, IA",0,0,1,0,0,1,0,0,1,1,2007
+38288,"Kirkman, IA","Marcus, IA",0,0,1,0,1,0,1,0,0,1,2007
+38289,"Kirkman, IA","Mason City, IA",0,0,1,0,1,0,1,0,0,1,2007
+38290,"Kirkman, IA","Massena, IA",1,0,0,0,0,1,0,1,0,1,2007
+38324,"Kirkman, IA","Worthington, IA",0,0,1,0,0,1,0,1,0,1,2007

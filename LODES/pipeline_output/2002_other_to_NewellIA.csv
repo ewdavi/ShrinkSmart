@@ -1,0 +1,81 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+35100,"Newell, IA","Newell, IA",29,135,37,43,95,63,73,86,42,201,2002
+35121,"Newell, IA","Storm Lake, IA",8,21,5,14,11,9,14,15,5,34,2002
+35067,"Newell, IA","Early, IA",3,11,1,8,0,7,5,9,1,15,2002
+35090,"Newell, IA","Lakeside, IA",3,12,0,6,7,2,4,8,3,15,2002
+35114,"Newell, IA","Schaller, IA",1,11,3,4,5,6,6,5,4,15,2002
+35106,"Newell, IA","Pomeroy, IA",4,8,3,0,9,6,5,9,1,15,2002
+35050,"Newell, IA","Arthur, IA",7,7,0,8,3,3,3,10,1,14,2002
+35113,"Newell, IA","Sac City, IA",4,8,0,2,5,5,0,8,4,12,2002
+35052,"Newell, IA","Aurelia, IA",0,5,1,2,2,2,1,4,1,6,2002
+35097,"Newell, IA","Manson, IA",2,2,2,5,1,0,1,5,0,6,2002
+35069,"Newell, IA","Estherville, IA",0,5,1,0,6,0,2,4,0,6,2002
+35105,"Newell, IA","Palmer, IA",3,3,0,2,3,1,3,2,1,6,2002
+35048,"Newell, IA","Albert City, IA",1,4,0,0,1,4,0,2,3,5,2002
+35111,"Newell, IA","Rockwell City, IA",0,1,4,1,4,0,2,3,0,5,2002
+35123,"Newell, IA","Wall Lake, IA",2,3,0,3,0,2,3,2,0,5,2002
+35125,"Newell, IA","Webb, IA",0,5,0,2,0,3,0,1,4,5,2002
+35117,"Newell, IA","Sioux City, IA",0,4,0,3,1,0,0,2,2,4,2002
+35073,"Newell, IA","Fonda, IA",1,3,0,1,3,0,3,0,1,4,2002
+35102,"Newell, IA","Odebolt, IA",1,2,0,2,0,1,2,1,0,3,2002
+35085,"Newell, IA","Jefferson, IA",1,1,1,0,3,0,1,1,1,3,2002
+35074,"Newell, IA","Fort Dodge, IA",3,0,0,0,0,3,3,0,0,3,2002
+35127,"Newell, IA","Yetter, IA",0,3,0,1,1,1,3,0,0,3,2002
+35064,"Newell, IA","Denison, IA",1,1,1,0,2,1,1,2,0,3,2002
+35051,"Newell, IA","Ashton, IA",0,2,1,0,3,0,1,2,0,3,2002
+35062,"Newell, IA","Cushing, IA",0,2,1,2,1,0,3,0,0,3,2002
+35070,"Newell, IA","Everly, IA",0,2,0,0,0,2,1,1,0,2,2002
+35056,"Newell, IA","Cedar Falls, IA",0,2,0,0,0,2,0,2,0,2,2002
+35094,"Newell, IA","Ledyard, IA",0,0,2,0,2,0,2,0,0,2,2002
+35084,"Newell, IA","Indianola, IA",0,2,0,0,1,1,1,1,0,2,2002
+35118,"Newell, IA","Sioux Rapids, IA",0,2,0,0,0,2,1,1,0,2,2002
+35096,"Newell, IA","Livermore, IA",0,2,0,0,2,0,2,0,0,2,2002
+35080,"Newell, IA","Hampton, IA",2,0,0,0,2,0,2,0,0,2,2002
+35063,"Newell, IA","Danbury, IA",1,1,0,1,0,1,1,0,1,2,2002
+35107,"Newell, IA","Quimby, IA",1,1,0,2,0,0,1,1,0,2,2002
+35076,"Newell, IA","George, IA",0,1,1,0,2,0,1,1,0,2,2002
+35066,"Newell, IA","Eagle Grove, IA",1,1,0,0,2,0,1,0,1,2,2002
+35108,"Newell, IA","Randall, IA",1,0,0,0,0,1,1,0,0,1,2002
+35109,"Newell, IA","Remsen, IA",0,1,0,0,1,0,0,1,0,1,2002
+35110,"Newell, IA","Rock Rapids, IA",0,1,0,0,1,0,0,1,0,1,2002
+35058,"Newell, IA","Charles City, IA",1,0,0,0,1,0,0,1,0,1,2002
+35059,"Newell, IA","Charter Oak, IA",1,0,0,1,0,0,0,1,0,1,2002
+35112,"Newell, IA","Ruthven, IA",0,1,0,0,1,0,0,1,0,1,2002
+35116,"Newell, IA","Sigourney, IA",0,0,1,0,0,1,1,0,0,1,2002
+35057,"Newell, IA","Cedar Rapids, IA",0,1,0,0,0,1,0,0,1,1,2002
+35115,"Newell, IA","Sergeant Bluff, IA",0,1,0,0,1,0,0,1,0,1,2002
+35104,"Newell, IA","Ottumwa, IA",0,0,1,0,0,1,1,0,0,1,2002
+35055,"Newell, IA","Castana, IA",0,0,1,0,0,1,1,0,0,1,2002
+35119,"Newell, IA","Sloan, IA",0,0,1,1,0,0,0,1,0,1,2002
+35120,"Newell, IA","Stanhope, IA",1,0,0,0,0,1,1,0,0,1,2002
+35054,"Newell, IA","Britt, IA",0,0,1,0,1,0,1,0,0,1,2002
+35122,"Newell, IA","Truesdale, IA",1,0,0,0,0,1,1,0,0,1,2002
+35053,"Newell, IA","Belmond, IA",0,1,0,0,0,1,0,1,0,1,2002
+35124,"Newell, IA","Waucoma, IA",1,0,0,0,0,1,0,1,0,1,2002
+35126,"Newell, IA","Willey, IA",0,1,0,1,0,0,0,0,1,1,2002
+35060,"Newell, IA","Corwith, IA",0,0,1,0,1,0,1,0,0,1,2002
+35099,"Newell, IA","Moville, IA",1,0,0,0,1,0,1,0,0,1,2002
+35103,"Newell, IA","Onawa, IA",0,1,0,0,0,1,1,0,0,1,2002
+35061,"Newell, IA","Craig, IA",0,0,1,0,1,0,0,1,0,1,2002
+35072,"Newell, IA","Floyd, IA",1,0,0,0,1,0,0,1,0,1,2002
+35068,"Newell, IA","Elk Horn, IA",1,0,0,0,1,0,1,0,0,1,2002
+35075,"Newell, IA","Garner, IA",1,0,0,0,1,0,1,0,0,1,2002
+35077,"Newell, IA","Glidden, IA",0,0,1,0,0,1,1,0,0,1,2002
+35078,"Newell, IA","Grand Junction, IA",0,1,0,0,0,1,0,0,1,1,2002
+35079,"Newell, IA","Gray, IA",0,1,0,0,0,1,0,1,0,1,2002
+35081,"Newell, IA","Havelock, IA",0,0,1,0,1,0,1,0,0,1,2002
+35082,"Newell, IA","Humboldt, IA",1,0,0,0,0,1,1,0,0,1,2002
+35083,"Newell, IA","Ida Grove, IA",0,1,0,0,1,0,0,1,0,1,2002
+35065,"Newell, IA","Dolliver, IA",0,1,0,0,1,0,0,1,0,1,2002
+35086,"Newell, IA","Kiron, IA",1,0,0,1,0,0,1,0,0,1,2002
+35087,"Newell, IA","Klemme, IA",1,0,0,0,1,0,1,0,0,1,2002
+35049,"Newell, IA","Armstrong, IA",0,1,0,0,1,0,1,0,0,1,2002
+35089,"Newell, IA","Lake View, IA",1,0,0,0,0,1,1,0,0,1,2002
+35091,"Newell, IA","Laurens, IA",0,0,1,0,1,0,0,1,0,1,2002
+35092,"Newell, IA","Lawton, IA",1,0,0,0,1,0,0,1,0,1,2002
+35093,"Newell, IA","Le Mars, IA",0,1,0,0,1,0,0,1,0,1,2002
+35095,"Newell, IA","Lidderdale, IA",0,1,0,1,0,0,0,0,1,1,2002
+35098,"Newell, IA","Mapleton, IA",0,1,0,0,1,0,0,0,1,1,2002
+35071,"Newell, IA","Exira, IA",1,0,0,0,0,1,1,0,0,1,2002
+35101,"Newell, IA","Norwalk, IA",0,0,1,0,1,0,0,1,0,1,2002
+35088,"Newell, IA","Knoxville, IA",0,1,0,1,0,0,0,1,0,1,2002

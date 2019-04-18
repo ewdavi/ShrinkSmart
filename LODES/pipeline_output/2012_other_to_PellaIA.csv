@@ -1,0 +1,323 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+55901,"Pella, IA","Pella, IA",487,1249,661,706,1534,157,708,662,1027,2397,2012
+55822,"Pella, IA","Knoxville, IA",153,515,187,432,359,64,161,233,461,855,2012
+55891,"Pella, IA","Oskaloosa, IA",72,246,109,236,163,28,54,118,255,427,2012
+55880,"Pella, IA","New Sharon, IA",82,243,99,192,199,33,108,104,212,424,2012
+55799,"Pella, IA","Harvey, IA",63,208,90,130,201,30,97,68,196,361,2012
+55906,"Pella, IA","Pleasantville, IA",47,175,75,109,160,28,78,69,150,297,2012
+55859,"Pella, IA","Monroe, IA",25,119,45,75,98,16,55,38,96,189,2012
+55962,"Pella, IA","University Park, IA",34,99,51,95,79,10,42,43,99,184,2012
+55853,"Pella, IA","Melcher-Dallas, IA",25,74,21,63,45,12,18,33,69,120,2012
+55841,"Pella, IA","Lynnville, IA",22,65,32,63,53,3,28,23,68,119,2012
+55881,"Pella, IA","Newton, IA",26,56,27,63,33,13,18,28,63,109,2012
+55892,"Pella, IA","Ottumwa, IA",20,60,18,62,31,5,16,18,64,98,2012
+55712,"Pella, IA","Bussey, IA",18,60,19,55,42,0,16,13,68,97,2012
+55915,"Pella, IA","Reasnor, IA",18,47,15,40,34,6,18,22,40,80,2012
+55678,"Pella, IA","Albia, IA",9,53,12,60,12,2,1,9,64,74,2012
+55848,"Pella, IA","Marysville, IA",17,40,12,42,23,4,8,16,45,69,2012
+55752,"Pella, IA","Des Moines, IA",17,30,8,12,33,10,12,25,18,55,2012
+55951,"Pella, IA","Sully, IA",17,21,14,31,21,0,8,17,27,52,2012
+55864,"Pella, IA","Moravia, IA",11,25,5,26,13,2,5,9,27,41,2012
+55808,"Pella, IA","Indianola, IA",15,17,6,13,22,3,15,13,10,38,2012
+55760,"Pella, IA","Eddyville, IA",6,26,6,31,7,0,0,8,30,38,2012
+55684,"Pella, IA","Ames, IA",17,10,10,14,20,3,12,13,12,37,2012
+55725,"Pella, IA","Chariton, IA",6,22,7,25,6,4,2,10,23,35,2012
+55688,"Pella, IA","Ankeny, IA",13,14,8,11,21,3,7,6,22,35,2012
+55785,"Pella, IA","Gilman, IA",4,14,12,23,4,3,5,7,18,30,2012
+55792,"Pella, IA","Grinnell, IA",8,21,1,16,12,2,2,6,22,30,2012
+55780,"Pella, IA","Fremont, IA",8,17,5,15,14,1,10,8,12,30,2012
+55715,"Pella, IA","Carlisle, IA",9,19,1,10,11,8,11,6,12,29,2012
+55847,"Pella, IA","Marshalltown, IA",13,7,8,4,12,12,7,10,11,28,2012
+55703,"Pella, IA","Blakesburg, IA",5,20,2,20,7,0,4,7,16,27,2012
+55985,"Pella, IA","Windsor Heights, IA",10,12,5,8,17,2,7,6,14,27,2012
+55940,"Pella, IA","Sigourney, IA",10,13,2,12,12,1,4,5,16,25,2012
+55734,"Pella, IA","Colfax, IA",3,15,4,14,7,1,2,6,14,22,2012
+55817,"Pella, IA","Kellogg, IA",7,14,1,13,5,4,5,7,10,22,2012
+55978,"Pella, IA","West Des Moines, IA",8,9,5,9,12,1,7,4,11,22,2012
+55972,"Pella, IA","Waukee, IA",6,14,2,4,16,2,10,4,8,22,2012
+55723,"Pella, IA","Centerville, IA",3,12,5,13,4,3,3,3,14,20,2012
+55904,"Pella, IA","Pleasant Hill, IA",8,10,2,6,13,1,8,7,5,20,2012
+55964,"Pella, IA","Urbandale, IA",7,9,3,4,13,2,5,6,8,19,2012
+55814,"Pella, IA","Johnston, IA",9,7,3,8,8,3,5,4,10,19,2012
+55742,"Pella, IA","Creston, IA",11,7,0,5,13,0,3,13,2,18,2012
+55825,"Pella, IA","Lambs Grove, IA",7,6,5,15,3,0,1,0,17,18,2012
+55866,"Pella, IA","Moulton, IA",9,9,0,14,1,3,3,2,13,18,2012
+55885,"Pella, IA","Norwalk, IA",8,6,3,0,12,5,7,7,3,17,2012
+55731,"Pella, IA","Clive, IA",6,6,4,5,9,2,5,2,9,16,2012
+55676,"Pella, IA","Agency, IA",3,12,1,12,1,3,1,2,13,16,2012
+55683,"Pella, IA","Altoona, IA",3,9,4,9,6,1,3,4,9,16,2012
+55720,"Pella, IA","Cedar Rapids, IA",4,8,3,2,8,5,9,5,1,15,2012
+55910,"Pella, IA","Prairie City, IA",1,10,4,12,3,0,0,2,13,15,2012
+55908,"Pella, IA","Polk City, IA",7,4,1,5,5,2,5,1,6,12,2012
+55927,"Pella, IA","Russell, IA",0,9,3,9,0,3,2,0,10,12,2012
+55745,"Pella, IA","Davenport, IA",1,7,4,2,6,4,1,1,10,12,2012
+55944,"Pella, IA","St. Marys, IA",4,6,1,1,7,3,2,4,5,11,2012
+55695,"Pella, IA","Bedford, IA",0,7,4,6,4,1,1,6,4,11,2012
+55831,"Pella, IA","Lenox, IA",6,5,0,8,3,0,0,6,5,11,2012
+55952,"Pella, IA","Swan, IA",1,7,3,3,8,0,5,2,4,11,2012
+55794,"Pella, IA","Guernsey, IA",1,8,2,9,2,0,2,0,9,11,2012
+55741,"Pella, IA","Council Bluffs, IA",5,4,1,3,3,4,3,3,4,10,2012
+55704,"Pella, IA","Bloomfield, IA",4,5,1,8,2,0,1,0,9,10,2012
+55836,"Pella, IA","Lineville, IA",3,5,2,7,3,0,2,2,6,10,2012
+55730,"Pella, IA","Clio, IA",2,3,5,4,4,2,7,0,3,10,2012
+55711,"Pella, IA","Burlington, IA",5,3,2,2,7,1,3,5,2,10,2012
+55975,"Pella, IA","Webster, IA",3,4,3,5,5,0,1,5,4,10,2012
+55890,"Pella, IA","Osceola, IA",5,3,2,5,3,2,2,5,3,10,2012
+55762,"Pella, IA","Eldon, IA",3,4,2,6,2,1,2,2,5,9,2012
+55694,"Pella, IA","Baxter, IA",1,8,0,6,3,0,1,2,6,9,2012
+55971,"Pella, IA","Waterloo, IA",4,4,1,1,6,2,5,1,3,9,2012
+55987,"Pella, IA","Winterset, IA",2,7,0,2,7,0,4,3,2,9,2012
+55855,"Pella, IA","Millerton, IA",2,5,1,2,4,2,2,2,4,8,2012
+55768,"Pella, IA","Fairfield, IA",4,2,2,0,4,4,3,4,1,8,2012
+55860,"Pella, IA","Montezuma, IA",2,5,1,5,3,0,0,3,5,8,2012
+55913,"Pella, IA","Rathbun, IA",1,5,2,4,4,0,2,1,5,8,2012
+55772,"Pella, IA","Ferguson, IA",0,8,0,7,1,0,1,2,5,8,2012
+55919,"Pella, IA","Richland, IA",3,4,1,5,3,0,1,2,5,8,2012
+55791,"Pella, IA","Grimes, IA",2,6,0,2,4,2,1,1,6,8,2012
+55776,"Pella, IA","Fort Dodge, IA",2,3,3,1,7,0,1,5,2,8,2012
+55850,"Pella, IA","Maxwell, IA",0,8,0,5,3,0,1,2,5,8,2012
+55672,"Pella, IA","Ackworth, IA",1,5,1,2,5,0,3,4,0,7,2012
+55905,"Pella, IA","Pleasanton, IA",1,5,1,1,5,1,2,3,2,7,2012
+55727,"Pella, IA","Cincinnati, IA",1,6,0,5,1,1,1,0,6,7,2012
+55826,"Pella, IA","Lamoni, IA",3,4,0,1,5,1,6,0,1,7,2012
+55849,"Pella, IA","Mason City, IA",4,1,2,0,4,3,4,1,2,7,2012
+55728,"Pella, IA","Clearfield, IA",2,5,0,7,0,0,1,4,2,7,2012
+55943,"Pella, IA","Spring Hill, IA",3,2,2,3,3,1,3,1,3,7,2012
+55874,"Pella, IA","Muscatine, IA",3,3,1,3,2,2,2,3,2,7,2012
+55743,"Pella, IA","Cromwell, IA",1,5,1,4,2,1,0,4,3,7,2012
+55916,"Pella, IA","Redding, IA",2,2,3,6,1,0,1,2,4,7,2012
+55700,"Pella, IA","Bettendorf, IA",1,3,3,2,3,2,2,1,4,7,2012
+55821,"Pella, IA","Kirkville, IA",4,3,0,3,4,0,2,2,3,7,2012
+55970,"Pella, IA","Washington, IA",2,2,2,0,6,0,3,1,2,6,2012
+55900,"Pella, IA","Patterson, IA",0,5,1,1,2,3,4,1,1,6,2012
+55719,"Pella, IA","Cedar Falls, IA",4,2,0,2,2,2,3,2,1,6,2012
+55983,"Pella, IA","Williamsburg, IA",3,2,1,0,4,2,3,3,0,6,2012
+55705,"Pella, IA","Bonaparte, IA",0,6,0,5,1,0,0,2,4,6,2012
+55882,"Pella, IA","Nodaway, IA",0,6,0,6,0,0,0,1,5,6,2012
+55823,"Pella, IA","Lacona, IA",1,4,1,2,4,0,0,2,4,6,2012
+55810,"Pella, IA","Iowa City, IA",4,1,1,2,3,1,0,2,4,6,2012
+55923,"Pella, IA","Robins, IA",4,2,0,0,3,3,2,4,0,6,2012
+55858,"Pella, IA","Mitchellville, IA",2,4,0,5,1,0,1,1,4,6,2012
+55738,"Pella, IA","Coralville, IA",1,3,2,0,3,3,3,2,1,6,2012
+55960,"Pella, IA","Unionville, IA",4,1,0,4,1,0,0,1,4,5,2012
+55980,"Pella, IA","What Cheer, IA",0,4,1,3,2,0,0,1,4,5,2012
+55828,"Pella, IA","Le Claire, IA",1,2,2,3,0,2,3,0,2,5,2012
+55749,"Pella, IA","Delta, IA",3,2,0,2,3,0,1,1,3,5,2012
+55816,"Pella, IA","Kellerton, IA",1,2,2,2,3,0,1,3,1,5,2012
+55784,"Pella, IA","Gibson, IA",1,3,1,1,3,1,0,3,2,5,2012
+55781,"Pella, IA","Garden Grove, IA",1,2,2,2,2,1,1,2,2,5,2012
+55867,"Pella, IA","Mount Auburn, IA",1,1,3,0,1,4,1,1,3,5,2012
+55714,"Pella, IA","Cantril, IA",0,4,1,3,0,2,0,4,1,5,2012
+55922,"Pella, IA","Riverside, IA",1,3,1,0,2,3,4,0,1,5,2012
+55974,"Pella, IA","Webster City, IA",2,1,2,4,1,0,0,1,4,5,2012
+55718,"Pella, IA","Casey, IA",1,1,3,1,4,0,0,2,3,5,2012
+55739,"Pella, IA","Corning, IA",1,4,0,5,0,0,0,1,4,5,2012
+55829,"Pella, IA","Le Grand, IA",2,2,1,1,4,0,3,1,1,5,2012
+55868,"Pella, IA","Mount Ayr, IA",1,2,2,4,1,0,1,3,1,5,2012
+55889,"Pella, IA","Orient, IA",1,2,1,0,4,0,2,0,2,4,2012
+55877,"Pella, IA","Nevada, IA",2,2,0,0,4,0,3,0,1,4,2012
+55706,"Pella, IA","Boone, IA",0,4,0,2,2,0,0,2,2,4,2012
+55941,"Pella, IA","Sioux City, IA",1,2,1,0,3,1,0,2,2,4,2012
+55803,"Pella, IA","Hiawatha, IA",1,2,1,1,2,1,2,2,0,4,2012
+55968,"Pella, IA","Walford, IA",2,0,2,0,1,3,3,0,1,4,2012
+55839,"Pella, IA","Lockridge, IA",1,0,3,0,2,2,0,2,2,4,2012
+55873,"Pella, IA","Murray, IA",3,1,0,0,3,1,0,1,3,4,2012
+55953,"Pella, IA","Tama, IA",1,2,1,0,2,2,1,1,2,4,2012
+55713,"Pella, IA","Cambridge, IA",2,1,1,1,2,1,2,0,2,4,2012
+55902,"Pella, IA","Perry, IA",0,3,1,1,2,1,1,2,1,4,2012
+55782,"Pella, IA","Garwin, IA",1,3,0,0,4,0,0,0,4,4,2012
+55969,"Pella, IA","Wall Lake, IA",1,1,2,0,4,0,2,1,1,4,2012
+55921,"Pella, IA","Riverdale, IA",1,1,2,0,3,1,2,0,2,4,2012
+55753,"Pella, IA","Dexter, IA",0,4,0,0,4,0,0,1,3,4,2012
+55754,"Pella, IA","Diagonal, IA",2,2,0,1,3,0,2,1,1,4,2012
+55759,"Pella, IA","East Peru, IA",2,2,0,0,4,0,1,3,0,4,2012
+55805,"Pella, IA","Huxley, IA",1,2,1,1,3,0,1,1,2,4,2012
+55813,"Pella, IA","Jewell Junction, IA",1,2,0,0,2,1,1,1,1,3,2012
+55879,"Pella, IA","New London, IA",0,3,0,0,3,0,2,1,0,3,2012
+55827,"Pella, IA","Larrabee, IA",2,1,0,1,2,0,0,2,1,3,2012
+55861,"Pella, IA","Monticello, IA",1,1,1,0,1,2,1,2,0,3,2012
+55840,"Pella, IA","Lorimor, IA",0,2,1,0,3,0,0,3,0,3,2012
+55830,"Pella, IA","Le Roy, IA",2,1,0,2,1,0,0,1,2,3,2012
+55871,"Pella, IA","Mount Vernon, IA",3,0,0,0,0,3,3,0,0,3,2012
+55977,"Pella, IA","West Burlington, IA",1,1,1,2,0,1,1,1,1,3,2012
+55963,"Pella, IA","Urbana, IA",0,2,1,1,0,2,1,1,1,3,2012
+55844,"Pella, IA","Manson, IA",0,2,1,0,1,2,1,1,1,3,2012
+55740,"Pella, IA","Corydon, IA",1,1,1,2,0,1,1,0,2,3,2012
+55856,"Pella, IA","Milton, IA",1,2,0,2,1,0,1,0,2,3,2012
+55932,"Pella, IA","Sandyville, IA",1,1,1,1,1,1,1,1,1,3,2012
+55746,"Pella, IA","De Soto, IA",0,3,0,1,1,1,0,1,2,3,2012
+55756,"Pella, IA","Dubuque, IA",1,0,2,0,2,1,2,1,0,3,2012
+55757,"Pella, IA","Dysart, IA",2,1,0,0,2,1,3,0,0,3,2012
+55758,"Pella, IA","Eagle Grove, IA",2,0,1,1,1,1,1,0,2,3,2012
+55722,"Pella, IA","Center Point, IA",1,2,0,0,2,1,1,1,1,3,2012
+55911,"Pella, IA","Promise City, IA",0,2,1,2,1,0,0,0,3,3,2012
+55949,"Pella, IA","Story City, IA",1,2,0,2,1,0,1,0,2,3,2012
+55909,"Pella, IA","Pomeroy, IA",0,1,2,0,3,0,1,2,0,3,2012
+55770,"Pella, IA","Farnhamville, IA",1,2,0,0,2,1,1,2,0,3,2012
+55773,"Pella, IA","Floris, IA",1,2,0,2,1,0,0,0,3,3,2012
+55716,"Pella, IA","Carroll, IA",0,2,1,1,2,0,1,0,2,3,2012
+55779,"Pella, IA","Fraser, IA",1,1,1,2,1,0,0,2,1,3,2012
+55789,"Pella, IA","Gravity, IA",0,2,1,2,0,1,0,0,3,3,2012
+55790,"Pella, IA","Greenfield, IA",3,0,0,0,2,1,1,2,0,3,2012
+55708,"Pella, IA","Britt, IA",1,2,0,0,0,3,1,2,0,3,2012
+55984,"Pella, IA","Wilton, IA",0,2,1,1,1,1,0,2,1,3,2012
+55846,"Pella, IA","Marengo, IA",0,2,1,0,2,1,2,1,0,3,2012
+55934,"Pella, IA","Shannon City, IA",1,1,1,1,1,1,1,2,0,3,2012
+55956,"Pella, IA","Toledo, IA",2,0,1,0,2,1,2,1,0,3,2012
+55884,"Pella, IA","North Liberty, IA",1,1,1,0,1,2,2,0,1,3,2012
+55935,"Pella, IA","Sharpsburg, IA",0,2,0,2,0,0,0,0,2,2,2012
+55895,"Pella, IA","Oyens, IA",2,0,0,0,2,0,2,0,0,2,2012
+55862,"Pella, IA","Montour, IA",0,2,0,0,1,1,0,1,1,2,2012
+55973,"Pella, IA","Waverly, IA",0,2,0,1,1,0,1,1,0,2,2012
+55875,"Pella, IA","Mystic, IA",0,2,0,1,1,0,0,0,2,2,2012
+55967,"Pella, IA","Walcott, IA",1,0,1,1,0,1,0,1,1,2,2012
+55965,"Pella, IA","Victor, IA",0,1,1,0,2,0,1,0,1,2,2012
+55883,"Pella, IA","North English, IA",1,1,0,0,1,1,1,0,1,2,2012
+55894,"Pella, IA","Oxford, IA",1,1,0,0,1,1,1,1,0,2,2012
+55955,"Pella, IA","Tiffin, IA",2,0,0,1,0,1,1,0,1,2,2012
+55896,"Pella, IA","Pacific Junction, IA",0,2,0,2,0,0,0,2,0,2,2012
+55899,"Pella, IA","Parnell, IA",1,0,1,0,2,0,2,0,0,2,2012
+55903,"Pella, IA","Plano, IA",0,2,0,2,0,0,0,0,2,2,2012
+55918,"Pella, IA","Rhodes, IA",0,2,0,1,0,1,0,2,0,2,2012
+55945,"Pella, IA","Stacyville, IA",2,0,0,0,1,1,2,0,0,2,2012
+55937,"Pella, IA","Shenandoah, IA",0,2,0,1,0,1,1,1,0,2,2012
+55832,"Pella, IA","Leon, IA",1,1,0,0,0,2,0,2,0,2,2012
+55992,"Pella, IA","Yetter, IA",1,0,1,0,0,2,1,1,0,2,2012
+55854,"Pella, IA","Merrill, IA",1,1,0,0,1,1,1,0,1,2,2012
+55682,"Pella, IA","Alton, IA",0,2,0,0,1,1,0,1,1,2,2012
+55815,"Pella, IA","Kalona, IA",1,1,0,1,0,1,1,0,1,2,2012
+55809,"Pella, IA","Inwood, IA",1,1,0,0,2,0,1,0,1,2,2012
+55691,"Pella, IA","Asbury, IA",0,1,1,0,2,0,1,0,1,2,2012
+55802,"Pella, IA","Hedrick, IA",0,1,1,2,0,0,0,0,2,2,2012
+55801,"Pella, IA","Haverhill, IA",0,2,0,1,0,1,1,0,1,2,2012
+55701,"Pella, IA","Birmingham, IA",0,1,1,1,1,0,0,1,1,2,2012
+55788,"Pella, IA","Grant, IA",1,1,0,2,0,0,0,0,2,2,2012
+55787,"Pella, IA","Grandview, IA",0,1,1,1,1,0,0,2,0,2,2012
+55777,"Pella, IA","Fort Madison, IA",0,2,0,0,2,0,0,1,1,2,2012
+55710,"Pella, IA","Buffalo, IA",1,1,0,0,1,1,1,1,0,2,2012
+55766,"Pella, IA","Exira, IA",1,1,0,0,0,2,0,2,0,2,2012
+55726,"Pella, IA","Charles City, IA",0,1,1,0,1,1,0,2,0,2,2012
+55763,"Pella, IA","Eldora, IA",1,1,0,0,0,2,1,0,1,2,2012
+55732,"Pella, IA","Clutier, IA",1,0,1,0,1,1,1,0,1,2,2012
+55735,"Pella, IA","Colo, IA",1,1,0,0,2,0,2,0,0,2,2012
+55852,"Pella, IA","Melbourne, IA",0,0,2,0,2,0,0,0,2,2,2012
+55747,"Pella, IA","Decorah, IA",0,2,0,1,0,1,0,0,2,2,2012
+55685,"Pella, IA","Anamosa, IA",2,0,0,1,0,1,2,0,0,2,2012
+55699,"Pella, IA","Bertram, IA",1,1,0,1,0,1,1,0,1,2,2012
+55819,"Pella, IA","Keosauqua, IA",1,1,0,0,2,0,1,1,0,2,2012
+55680,"Pella, IA","Alden, IA",1,0,1,1,0,1,2,0,0,2,2012
+55845,"Pella, IA","Maquoketa, IA",0,0,2,0,1,1,0,2,0,2,2012
+55679,"Pella, IA","Albion, IA",0,2,0,1,1,0,0,1,1,2,2012
+55675,"Pella, IA","Afton, IA",2,0,0,1,1,0,1,1,0,2,2012
+55988,"Pella, IA","Wiota, IA",0,0,1,1,0,0,0,0,1,1,2012
+55717,"Pella, IA","Carter Lake, IA",1,0,0,0,1,0,0,0,1,1,2012
+55950,"Pella, IA","Strawberry Point, IA",0,1,0,1,0,0,1,0,0,1,2012
+55721,"Pella, IA","Center Junction, IA",1,0,0,0,1,0,1,0,0,1,2012
+55948,"Pella, IA","Storm Lake, IA",0,1,0,0,1,0,0,1,0,1,2012
+55947,"Pella, IA","Steamboat Rock, IA",0,1,0,0,1,0,0,0,1,1,2012
+55986,"Pella, IA","Winfield, IA",0,1,0,0,1,0,1,0,0,1,2012
+55946,"Pella, IA","Stanhope, IA",0,0,1,1,0,0,0,0,1,1,2012
+55724,"Pella, IA","Central City, IA",0,0,1,0,1,0,1,0,0,1,2012
+55673,"Pella, IA","Adair, IA",1,0,0,0,1,0,0,0,1,1,2012
+55729,"Pella, IA","Clinton, IA",0,1,0,0,1,0,1,0,0,1,2012
+55989,"Pella, IA","Woodward, IA",0,0,1,0,1,0,1,0,0,1,2012
+55942,"Pella, IA","Spirit Lake, IA",1,0,0,0,0,1,1,0,0,1,2012
+55733,"Pella, IA","Coburg, IA",0,1,0,1,0,0,0,0,1,1,2012
+55939,"Pella, IA","Sidney, IA",0,0,1,0,0,1,1,0,0,1,2012
+55938,"Pella, IA","Shueyville, IA",0,1,0,0,1,0,0,1,0,1,2012
+55936,"Pella, IA","Sheldon, IA",0,0,1,0,0,1,0,0,1,1,2012
+55990,"Pella, IA","Woolstock, IA",0,1,0,0,0,1,0,1,0,1,2012
+55736,"Pella, IA","Columbus Junction, IA",1,0,0,0,1,0,1,0,0,1,2012
+55737,"Pella, IA","Colwell, IA",0,1,0,0,0,1,1,0,0,1,2012
+55991,"Pella, IA","Wyoming, IA",0,1,0,1,0,0,0,0,1,1,2012
+55933,"Pella, IA","Schaller, IA",1,0,0,0,1,0,1,0,0,1,2012
+55674,"Pella, IA","Adel, IA",1,0,0,0,1,0,0,1,0,1,2012
+55709,"Pella, IA","Brooklyn, IA",1,0,0,0,1,0,1,0,0,1,2012
+55976,"Pella, IA","West Bend, IA",0,1,0,0,1,0,0,1,0,1,2012
+55697,"Pella, IA","Belmond, IA",1,0,0,0,1,0,0,1,0,1,2012
+55686,"Pella, IA","Andover, IA",0,1,0,0,1,0,1,0,0,1,2012
+55687,"Pella, IA","Anita, IA",0,0,1,0,1,0,0,0,1,1,2012
+55689,"Pella, IA","Arnolds Park, IA",1,0,0,0,1,0,1,0,0,1,2012
+55681,"Pella, IA","Algona, IA",0,1,0,0,0,1,0,0,1,1,2012
+55690,"Pella, IA","Arthur, IA",0,1,0,1,0,0,0,0,1,1,2012
+55692,"Pella, IA","Balltown, IA",0,1,0,0,1,0,0,1,0,1,2012
+55979,"Pella, IA","West Union, IA",0,1,0,0,0,1,1,0,0,1,2012
+55693,"Pella, IA","Batavia, IA",0,1,0,0,1,0,0,0,1,1,2012
+55966,"Pella, IA","Vinton, IA",0,1,0,0,1,0,0,0,1,1,2012
+55696,"Pella, IA","Belle Plaine, IA",0,1,0,0,1,0,0,0,1,1,2012
+55698,"Pella, IA","Bennett, IA",1,0,0,0,1,0,1,0,0,1,2012
+55954,"Pella, IA","Thompson, IA",0,0,1,0,1,0,0,0,1,1,2012
+55931,"Pella, IA","Sanborn, IA",0,1,0,0,1,0,0,1,0,1,2012
+55961,"Pella, IA","University Heights, IA",0,1,0,0,1,0,0,0,1,1,2012
+55981,"Pella, IA","Whittemore, IA",1,0,0,0,1,0,1,0,0,1,2012
+55959,"Pella, IA","Union, IA",0,1,0,1,0,0,0,0,1,1,2012
+55958,"Pella, IA","Underwood, IA",1,0,0,0,0,1,1,0,0,1,2012
+55957,"Pella, IA","Traer, IA",1,0,0,0,1,0,1,0,0,1,2012
+55702,"Pella, IA","Blairstown, IA",1,0,0,0,1,0,0,0,1,1,2012
+55982,"Pella, IA","Whitten, IA",0,1,0,1,0,0,0,0,1,1,2012
+55677,"Pella, IA","Ainsworth, IA",0,1,0,0,1,0,0,1,0,1,2012
+55707,"Pella, IA","Brighton, IA",1,0,0,0,1,0,0,0,1,1,2012
+55744,"Pella, IA","Danbury, IA",0,1,0,1,0,0,0,0,1,1,2012
+55924,"Pella, IA","Rock Rapids, IA",0,1,0,0,1,0,0,0,1,1,2012
+55930,"Pella, IA","Sageville, IA",0,1,0,0,0,1,1,0,0,1,2012
+55872,"Pella, IA","Moville, IA",1,0,0,0,0,1,1,0,0,1,2012
+55800,"Pella, IA","Havelock, IA",1,0,0,1,0,0,0,0,1,1,2012
+55888,"Pella, IA","Onawa, IA",0,0,1,0,0,1,1,0,0,1,2012
+55887,"Pella, IA","Oelwein, IA",0,0,1,0,0,1,1,0,0,1,2012
+55886,"Pella, IA","Norway, IA",0,1,0,0,1,0,1,0,0,1,2012
+55804,"Pella, IA","Hubbard, IA",0,1,0,1,0,0,0,0,1,1,2012
+55806,"Pella, IA","Ida Grove, IA",1,0,0,0,1,0,0,1,0,1,2012
+55807,"Pella, IA","Independence, IA",0,1,0,1,0,0,0,0,1,1,2012
+55811,"Pella, IA","Iowa Falls, IA",0,1,0,1,0,0,0,0,1,1,2012
+55812,"Pella, IA","Jefferson, IA",1,0,0,0,1,0,1,0,0,1,2012
+55878,"Pella, IA","New Hampton, IA",0,1,0,0,1,0,0,0,1,1,2012
+55876,"Pella, IA","Nashua, IA",0,1,0,1,0,0,0,0,1,1,2012
+55818,"Pella, IA","Keokuk, IA",1,0,0,1,0,0,0,1,0,1,2012
+55820,"Pella, IA","Keota, IA",0,0,1,0,1,0,0,0,1,1,2012
+55824,"Pella, IA","Ladora, IA",0,1,0,0,1,0,1,0,0,1,2012
+55929,"Pella, IA","Sac City, IA",0,1,0,0,1,0,0,0,1,1,2012
+55870,"Pella, IA","Mount Union, IA",0,0,1,1,0,0,0,0,1,1,2012
+55869,"Pella, IA","Mount Pleasant, IA",0,1,0,1,0,0,0,0,1,1,2012
+55833,"Pella, IA","Lewis, IA",0,0,1,0,1,0,0,1,0,1,2012
+55834,"Pella, IA","Lidderdale, IA",1,0,0,0,1,0,1,0,0,1,2012
+55835,"Pella, IA","Linden, IA",1,0,0,0,0,1,0,1,0,1,2012
+55865,"Pella, IA","Morley, IA",0,1,0,0,1,0,0,0,1,1,2012
+55837,"Pella, IA","Liscomb, IA",1,0,0,0,1,0,0,1,0,1,2012
+55863,"Pella, IA","Montrose, IA",1,0,0,0,1,0,0,1,0,1,2012
+55838,"Pella, IA","Little Sioux, IA",0,0,1,1,0,0,0,0,1,1,2012
+55842,"Pella, IA","Madrid, IA",0,0,1,0,1,0,0,1,0,1,2012
+55843,"Pella, IA","Malcom, IA",0,0,1,0,1,0,0,0,1,1,2012
+55851,"Pella, IA","McCausland, IA",0,1,0,0,1,0,0,1,0,1,2012
+55857,"Pella, IA","Minburn, IA",0,0,1,0,1,0,1,0,0,1,2012
+55798,"Pella, IA","Hartley, IA",0,1,0,0,1,0,0,1,0,1,2012
+55797,"Pella, IA","Harlan, IA",1,0,0,0,0,1,1,0,0,1,2012
+55893,"Pella, IA","Owasa, IA",0,0,1,0,1,0,1,0,0,1,2012
+55796,"Pella, IA","Hamburg, IA",0,0,1,0,1,0,0,0,1,1,2012
+55928,"Pella, IA","Ruthven, IA",0,1,0,0,1,0,0,0,1,1,2012
+55926,"Pella, IA","Rodney, IA",1,0,0,0,0,1,1,0,0,1,2012
+55925,"Pella, IA","Rockwell, IA",0,1,0,0,0,1,0,0,1,1,2012
+55748,"Pella, IA","Dedham, IA",0,1,0,1,0,0,0,0,1,1,2012
+55750,"Pella, IA","Denison, IA",0,1,0,1,0,0,0,0,1,1,2012
+55751,"Pella, IA","Denver, IA",0,0,1,0,1,0,0,0,1,1,2012
+55920,"Pella, IA","Rinard, IA",0,0,1,1,0,0,0,0,1,1,2012
+55755,"Pella, IA","Donnellson, IA",0,1,0,1,0,0,0,1,0,1,2012
+55761,"Pella, IA","Elberon, IA",1,0,0,0,0,1,0,1,0,1,2012
+55917,"Pella, IA","Reinbeck, IA",0,1,0,1,0,0,0,0,1,1,2012
+55764,"Pella, IA","Elkport, IA",0,0,1,0,1,0,1,0,0,1,2012
+55914,"Pella, IA","Readlyn, IA",0,1,0,1,0,0,1,0,0,1,2012
+55765,"Pella, IA","Ely, IA",0,1,0,0,1,0,0,1,0,1,2012
+55912,"Pella, IA","Randalia, IA",0,1,0,1,0,0,0,0,1,1,2012
+55767,"Pella, IA","Exline, IA",1,0,0,1,0,0,0,0,1,1,2012
+55769,"Pella, IA","Farmington, IA",0,0,1,0,1,0,0,1,0,1,2012
+55771,"Pella, IA","Farragut, IA",0,0,1,1,0,0,0,0,1,1,2012
+55907,"Pella, IA","Pocahontas, IA",1,0,0,1,0,0,0,0,1,1,2012
+55774,"Pella, IA","Floyd, IA",1,0,0,0,0,1,0,1,0,1,2012
+55775,"Pella, IA","Fort Atkinson, IA",1,0,0,0,1,0,1,0,0,1,2012
+55778,"Pella, IA","Fostoria, IA",0,1,0,0,1,0,0,0,1,1,2012
+55783,"Pella, IA","George, IA",0,1,0,0,1,0,0,1,0,1,2012
+55786,"Pella, IA","Grand River, IA",0,1,0,1,0,0,0,0,1,1,2012
+55898,"Pella, IA","Panama, IA",0,1,0,1,0,0,0,0,1,1,2012
+55897,"Pella, IA","Packwood, IA",1,0,0,0,1,0,1,0,0,1,2012
+55793,"Pella, IA","Grundy Center, IA",1,0,0,0,1,0,1,0,0,1,2012
+55795,"Pella, IA","Guttenberg, IA",1,0,0,0,0,1,0,0,1,1,2012
+55671,"Pella, IA","Ackley, IA",0,0,1,0,0,1,0,0,1,1,2012

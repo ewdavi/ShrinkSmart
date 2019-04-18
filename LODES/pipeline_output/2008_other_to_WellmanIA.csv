@@ -1,0 +1,85 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+70278,"Wellman, IA","Wellman, IA",13,20,10,12,28,3,22,18,3,43,2008
+70261,"Wellman, IA","Riverside, IA",12,22,8,5,35,2,16,15,11,42,2008
+70275,"Wellman, IA","Washington, IA",5,28,8,4,30,7,8,24,9,41,2008
+70239,"Wellman, IA","Kalona, IA",4,15,10,1,25,3,10,11,8,29,2008
+70210,"Wellman, IA","Brighton, IA",7,12,9,3,17,8,13,11,4,28,2008
+70242,"Wellman, IA","Kinross, IA",8,14,6,4,17,7,15,9,4,28,2008
+70259,"Wellman, IA","Pleasant Plain, IA",2,12,13,7,20,0,9,12,6,27,2008
+70241,"Wellman, IA","Keota, IA",10,9,2,9,10,2,9,8,4,21,2008
+70277,"Wellman, IA","Webster, IA",6,7,7,8,10,2,7,10,3,20,2008
+70279,"Wellman, IA","West Chester, IA",2,6,5,0,13,0,8,4,1,13,2008
+70267,"Wellman, IA","South English, IA",0,7,4,2,8,1,4,6,1,11,2008
+70266,"Wellman, IA","Sigourney, IA",4,4,1,3,4,2,4,1,4,9,2008
+70238,"Wellman, IA","Iowa City, IA",1,4,2,1,5,1,3,0,4,7,2008
+70282,"Wellman, IA","Williamsburg, IA",0,6,1,0,5,2,3,2,2,7,2008
+70255,"Wellman, IA","Oxford, IA",2,3,1,0,5,1,3,3,0,6,2008
+70251,"Wellman, IA","North Liberty, IA",3,1,2,1,5,0,2,2,2,6,2008
+70260,"Wellman, IA","Richland, IA",0,4,1,0,3,2,2,3,0,5,2008
+70268,"Wellman, IA","University Heights, IA",4,0,1,0,3,2,4,1,0,5,2008
+70229,"Wellman, IA","Fairfield, IA",0,4,0,1,3,0,1,1,2,4,2008
+70258,"Wellman, IA","Parnell, IA",0,3,0,0,3,0,2,0,1,3,2008
+70211,"Wellman, IA","Burlington, IA",0,1,2,3,0,0,0,2,1,3,2008
+70249,"Wellman, IA","Mount Union, IA",2,1,0,1,1,1,0,3,0,3,2008
+70240,"Wellman, IA","Keokuk, IA",0,1,1,1,1,0,1,1,0,2,2008
+70236,"Wellman, IA","Hedrick, IA",0,2,0,0,2,0,2,0,0,2,2008
+70234,"Wellman, IA","Guernsey, IA",2,0,0,2,0,0,0,2,0,2,2008
+70250,"Wellman, IA","Muscatine, IA",1,1,0,1,1,0,1,0,1,2,2008
+70231,"Wellman, IA","Fremont, IA",0,2,0,0,2,0,1,1,0,2,2008
+70243,"Wellman, IA","Lisbon, IA",0,2,0,0,2,0,1,1,0,2,2008
+70217,"Wellman, IA","Conesville, IA",0,2,0,2,0,0,0,2,0,2,2008
+70221,"Wellman, IA","Cumberland, IA",0,1,1,0,0,2,0,1,1,2,2008
+70283,"Wellman, IA","Winfield, IA",0,2,0,2,0,0,0,1,1,2,2008
+70216,"Wellman, IA","Columbus Junction, IA",0,2,0,2,0,0,0,2,0,2,2008
+70218,"Wellman, IA","Coralville, IA",1,1,0,0,2,0,0,1,1,2,2008
+70271,"Wellman, IA","Victor, IA",2,0,0,1,1,0,1,1,0,2,2008
+70226,"Wellman, IA","Eddyville, IA",1,0,1,0,1,1,0,2,0,2,2008
+70270,"Wellman, IA","Van Horne, IA",0,1,0,0,1,0,0,0,1,1,2008
+70269,"Wellman, IA","University Park, IA",0,0,1,0,0,1,0,1,0,1,2008
+70272,"Wellman, IA","Walford, IA",0,1,0,0,1,0,0,0,1,1,2008
+70262,"Wellman, IA","Robins, IA",1,0,0,0,1,0,1,0,0,1,2008
+70264,"Wellman, IA","Russell, IA",0,1,0,0,0,1,0,1,0,1,2008
+70263,"Wellman, IA","Rome, IA",0,1,0,1,0,0,0,0,1,1,2008
+70273,"Wellman, IA","Walnut, IA",0,1,0,0,0,1,0,1,0,1,2008
+70274,"Wellman, IA","Wapello, IA",0,1,0,0,0,1,1,0,0,1,2008
+70276,"Wellman, IA","Wayland, IA",0,0,1,0,0,1,0,0,1,1,2008
+70257,"Wellman, IA","Palo, IA",0,1,0,1,0,0,1,0,0,1,2008
+70256,"Wellman, IA","Packwood, IA",0,1,0,1,0,0,0,1,0,1,2008
+70280,"Wellman, IA","West Liberty, IA",1,0,0,0,1,0,1,0,0,1,2008
+70254,"Wellman, IA","Oxford Junction, IA",1,0,0,0,1,0,1,0,0,1,2008
+70281,"Wellman, IA","What Cheer, IA",0,0,1,0,0,1,1,0,0,1,2008
+70253,"Wellman, IA","Ottumwa, IA",1,0,0,0,1,0,0,1,0,1,2008
+70265,"Wellman, IA","Sergeant Bluff, IA",1,0,0,0,1,0,1,0,0,1,2008
+70201,"Wellman, IA","Agency, IA",0,1,0,0,1,0,1,0,0,1,2008
+70252,"Wellman, IA","Ottosen, IA",0,0,1,0,0,1,1,0,0,1,2008
+70248,"Wellman, IA","Mount Pleasant, IA",0,0,1,0,0,1,0,0,1,1,2008
+70203,"Wellman, IA","Albia, IA",0,1,0,0,0,1,0,0,1,1,2008
+70204,"Wellman, IA","Ames, IA",1,0,0,0,1,0,1,0,0,1,2008
+70205,"Wellman, IA","Anamosa, IA",0,1,0,0,1,0,0,1,0,1,2008
+70206,"Wellman, IA","Balltown, IA",0,0,1,0,1,0,0,0,1,1,2008
+70207,"Wellman, IA","Bertram, IA",0,1,0,0,1,0,0,1,0,1,2008
+70208,"Wellman, IA","Bettendorf, IA",0,1,0,0,0,1,0,0,1,1,2008
+70209,"Wellman, IA","Bloomfield, IA",0,1,0,0,0,1,1,0,0,1,2008
+70212,"Wellman, IA","Carlisle, IA",0,1,0,0,1,0,1,0,0,1,2008
+70213,"Wellman, IA","Center Junction, IA",1,0,0,0,1,0,1,0,0,1,2008
+70214,"Wellman, IA","Clarion, IA",0,1,0,0,0,1,0,0,1,1,2008
+70215,"Wellman, IA","Clio, IA",0,1,0,1,0,0,0,1,0,1,2008
+70219,"Wellman, IA","Corydon, IA",0,0,1,0,0,1,0,0,1,1,2008
+70220,"Wellman, IA","Council Bluffs, IA",0,1,0,0,0,1,0,0,1,1,2008
+70222,"Wellman, IA","De Soto, IA",0,1,0,0,0,1,0,1,0,1,2008
+70223,"Wellman, IA","Delta, IA",1,0,0,1,0,0,0,1,0,1,2008
+70224,"Wellman, IA","Dubuque, IA",0,1,0,0,1,0,1,0,0,1,2008
+70225,"Wellman, IA","Dysart, IA",1,0,0,1,0,0,0,1,0,1,2008
+70227,"Wellman, IA","Elberon, IA",0,1,0,0,0,1,1,0,0,1,2008
+70228,"Wellman, IA","Ely, IA",1,0,0,0,0,1,1,0,0,1,2008
+70230,"Wellman, IA","Fort Dodge, IA",0,1,0,0,1,0,0,1,0,1,2008
+70232,"Wellman, IA","Gibson, IA",0,1,0,0,1,0,1,0,0,1,2008
+70233,"Wellman, IA","Gilman, IA",0,1,0,0,1,0,1,0,0,1,2008
+70235,"Wellman, IA","Harlan, IA",0,1,0,0,0,1,0,0,1,1,2008
+70237,"Wellman, IA","Hills, IA",0,1,0,0,1,0,0,0,1,1,2008
+70202,"Wellman, IA","Ainsworth, IA",0,0,1,0,1,0,0,0,1,1,2008
+70244,"Wellman, IA","Lockridge, IA",1,0,0,0,1,0,1,0,0,1,2008
+70245,"Wellman, IA","Middletown, IA",0,1,0,1,0,0,1,0,0,1,2008
+70246,"Wellman, IA","Montezuma, IA",0,1,0,0,1,0,0,1,0,1,2008
+70247,"Wellman, IA","Moulton, IA",1,0,0,0,0,1,0,1,0,1,2008
+70284,"Wellman, IA","Winterset, IA",0,1,0,0,0,1,0,0,1,1,2008

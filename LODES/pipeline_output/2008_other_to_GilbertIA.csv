@@ -1,0 +1,143 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+27025,"Gilbert, IA","Ames, IA",59,47,26,49,63,20,32,48,52,132,2008
+27139,"Gilbert, IA","Story City, IA",26,51,14,52,13,26,21,40,30,91,2008
+27107,"Gilbert, IA","Nevada, IA",7,27,10,15,27,2,13,12,19,44,2008
+27064,"Gilbert, IA","Gilbert, IA",10,18,3,14,7,10,5,12,14,31,2008
+27032,"Gilbert, IA","Boone, IA",5,5,5,5,7,3,3,7,5,15,2008
+27059,"Gilbert, IA","Ellsworth, IA",4,10,1,8,2,5,2,9,4,15,2008
+27130,"Gilbert, IA","Roland, IA",9,4,1,12,2,0,4,8,2,14,2008
+27078,"Gilbert, IA","Jewell Junction, IA",1,11,1,8,1,4,2,9,2,13,2008
+27054,"Gilbert, IA","Des Moines, IA",4,8,0,7,5,0,5,2,5,12,2008
+27073,"Gilbert, IA","Huxley, IA",4,4,3,4,5,2,3,3,5,11,2008
+27146,"Gilbert, IA","Urbandale, IA",1,9,0,8,0,2,0,5,5,10,2008
+27094,"Gilbert, IA","Marshalltown, IA",3,4,2,5,2,2,4,3,2,9,2008
+27136,"Gilbert, IA","Stanhope, IA",4,3,1,4,3,1,4,3,1,8,2008
+27026,"Gilbert, IA","Ankeny, IA",3,3,2,2,6,0,2,1,5,8,2008
+27021,"Gilbert, IA","Alden, IA",1,7,0,6,1,1,2,1,5,8,2008
+27157,"Gilbert, IA","Windsor Heights, IA",2,3,2,1,5,1,2,0,5,7,2008
+27134,"Gilbert, IA","Slater, IA",2,4,0,3,2,1,2,1,3,6,2008
+27044,"Gilbert, IA","Colo, IA",3,2,1,1,4,1,1,3,2,6,2008
+27160,"Gilbert, IA","Zearing, IA",4,2,0,3,1,2,1,5,0,6,2008
+27080,"Gilbert, IA","Kamrar, IA",0,4,1,5,0,0,0,3,2,5,2008
+27118,"Gilbert, IA","Owasa, IA",1,3,1,3,1,1,1,2,2,5,2008
+27074,"Gilbert, IA","Indianola, IA",1,3,1,2,3,0,1,2,2,5,2008
+27128,"Gilbert, IA","Robins, IA",1,2,2,1,4,0,1,2,2,5,2008
+27127,"Gilbert, IA","Rhodes, IA",1,3,1,2,1,2,1,2,2,5,2008
+27114,"Gilbert, IA","Ogden, IA",2,1,1,3,1,0,1,3,0,4,2008
+27062,"Gilbert, IA","Fort Dodge, IA",1,3,0,0,3,1,1,3,0,4,2008
+27122,"Gilbert, IA","Popejoy, IA",1,3,0,4,0,0,0,4,0,4,2008
+27155,"Gilbert, IA","Williams, IA",2,2,0,4,0,0,0,3,1,4,2008
+27085,"Gilbert, IA","Liscomb, IA",1,1,2,1,2,1,1,3,0,4,2008
+27149,"Gilbert, IA","Waterloo, IA",3,1,0,0,3,1,3,1,0,4,2008
+27043,"Gilbert, IA","Clive, IA",0,2,2,1,2,1,1,0,3,4,2008
+27151,"Gilbert, IA","Webster City, IA",1,3,0,1,1,2,0,2,2,4,2008
+27117,"Gilbert, IA","Otho, IA",1,2,0,2,1,0,1,2,0,3,2008
+27037,"Gilbert, IA","Carlisle, IA",1,0,2,1,2,0,2,0,1,3,2008
+27095,"Gilbert, IA","Mason City, IA",1,2,0,0,2,1,1,1,1,3,2008
+27137,"Gilbert, IA","State Center, IA",1,2,0,1,1,1,1,1,1,3,2008
+27063,"Gilbert, IA","Fraser, IA",2,1,0,3,0,0,0,2,1,3,2008
+27022,"Gilbert, IA","Algona, IA",1,1,1,1,1,1,3,0,0,3,2008
+27142,"Gilbert, IA","Tama, IA",2,1,0,0,1,2,2,1,0,3,2008
+27102,"Gilbert, IA","Monticello, IA",1,2,0,2,1,0,1,2,0,3,2008
+27140,"Gilbert, IA","Stratford, IA",0,3,0,1,1,1,1,2,0,3,2008
+27076,"Gilbert, IA","Iowa City, IA",1,0,1,1,1,0,0,2,0,2,2008
+27152,"Gilbert, IA","West Branch, IA",2,0,0,0,2,0,2,0,0,2,2008
+27119,"Gilbert, IA","Perry, IA",0,2,0,1,0,1,0,2,0,2,2008
+27079,"Gilbert, IA","Johnston, IA",1,1,0,0,1,1,1,0,1,2,2008
+27072,"Gilbert, IA","Hubbard, IA",1,1,0,2,0,0,0,1,1,2,2008
+27024,"Gilbert, IA","Altoona, IA",1,1,0,2,0,0,1,1,0,2,2008
+27082,"Gilbert, IA","Knoxville, IA",1,1,0,0,1,1,0,1,1,2,2008
+27023,"Gilbert, IA","Alton, IA",2,0,0,1,1,0,1,0,1,2,2008
+27088,"Gilbert, IA","Madrid, IA",1,1,0,0,1,1,2,0,0,2,2008
+27121,"Gilbert, IA","Pleasant Hill, IA",1,1,0,1,1,0,0,2,0,2,2008
+27039,"Gilbert, IA","Cedar Rapids, IA",0,2,0,0,2,0,0,1,1,2,2008
+27124,"Gilbert, IA","Randall, IA",0,2,0,2,0,0,0,1,1,2,2008
+27133,"Gilbert, IA","Sioux City, IA",0,1,1,0,0,2,0,0,2,2,2008
+27070,"Gilbert, IA","Hampton, IA",1,1,0,0,1,1,1,1,0,2,2008
+27040,"Gilbert, IA","Central City, IA",0,1,1,0,2,0,0,2,0,2,2008
+27047,"Gilbert, IA","Coralville, IA",2,0,0,0,2,0,0,0,2,2,2008
+27112,"Gilbert, IA","Norwalk, IA",1,1,0,1,1,0,1,0,1,2,2008
+27049,"Gilbert, IA","Council Bluffs, IA",0,2,0,1,0,1,0,1,1,2,2008
+27036,"Gilbert, IA","Cambridge, IA",0,1,1,1,0,1,0,0,2,2,2008
+27051,"Gilbert, IA","Davenport, IA",1,0,1,0,1,1,1,1,0,2,2008
+27052,"Gilbert, IA","De Witt, IA",0,2,0,1,0,1,1,1,0,2,2008
+27145,"Gilbert, IA","University Heights, IA",1,1,0,0,2,0,0,1,1,2,2008
+27153,"Gilbert, IA","West Des Moines, IA",0,2,0,0,0,2,0,1,1,2,2008
+27144,"Gilbert, IA","Union, IA",0,2,0,2,0,0,0,1,1,2,2008
+27156,"Gilbert, IA","Williamsburg, IA",1,0,1,0,0,2,2,0,0,2,2008
+27029,"Gilbert, IA","Bettendorf, IA",1,0,1,0,2,0,1,1,0,2,2008
+27120,"Gilbert, IA","Plano, IA",1,0,0,0,0,1,1,0,0,1,2008
+27113,"Gilbert, IA","Odebolt, IA",1,0,0,0,1,0,1,0,0,1,2008
+27116,"Gilbert, IA","Osage, IA",1,0,0,0,1,0,0,0,1,1,2008
+27111,"Gilbert, IA","North Liberty, IA",1,0,0,1,0,0,0,1,0,1,2008
+27115,"Gilbert, IA","Orange City, IA",0,1,0,0,0,1,1,0,0,1,2008
+27158,"Gilbert, IA","Winterset, IA",0,1,0,0,0,1,0,0,1,1,2008
+27123,"Gilbert, IA","Primghar, IA",0,1,0,0,0,1,0,1,0,1,2008
+27109,"Gilbert, IA","Newton, IA",0,0,1,0,1,0,0,1,0,1,2008
+27150,"Gilbert, IA","Waukee, IA",0,1,0,0,1,0,0,0,1,1,2008
+27148,"Gilbert, IA","Wall Lake, IA",0,0,1,0,0,1,0,0,1,1,2008
+27147,"Gilbert, IA","Victor, IA",1,0,0,0,0,1,1,0,0,1,2008
+27143,"Gilbert, IA","Tiffin, IA",0,1,0,0,1,0,0,0,1,1,2008
+27141,"Gilbert, IA","Swan, IA",0,0,1,0,0,1,0,1,0,1,2008
+27154,"Gilbert, IA","Whitten, IA",0,1,0,1,0,0,0,0,1,1,2008
+27138,"Gilbert, IA","Storm Lake, IA",0,1,0,0,1,0,0,0,1,1,2008
+27125,"Gilbert, IA","Reinbeck, IA",0,1,0,0,1,0,1,0,0,1,2008
+27135,"Gilbert, IA","St. Marys, IA",0,0,1,0,1,0,0,0,1,1,2008
+27132,"Gilbert, IA","Sandyville, IA",1,0,0,0,0,1,1,0,0,1,2008
+27131,"Gilbert, IA","Ruthven, IA",0,0,1,0,1,0,0,0,1,1,2008
+27159,"Gilbert, IA","Woden, IA",1,0,0,0,0,1,1,0,0,1,2008
+27129,"Gilbert, IA","Rockford, IA",0,1,0,0,0,1,0,1,0,1,2008
+27126,"Gilbert, IA","Renwick, IA",0,0,1,0,0,1,0,1,0,1,2008
+27110,"Gilbert, IA","Nora Springs, IA",0,1,0,0,1,0,0,0,1,1,2008
+27019,"Gilbert, IA","Ackley, IA",0,1,0,1,0,0,0,1,0,1,2008
+27108,"Gilbert, IA","New Hampton, IA",0,1,0,1,0,0,0,0,1,1,2008
+27046,"Gilbert, IA","Coon Rapids, IA",0,1,0,0,1,0,0,0,1,1,2008
+27065,"Gilbert, IA","Gilman, IA",1,0,0,0,1,0,1,0,0,1,2008
+27061,"Gilbert, IA","Fenton, IA",0,0,1,0,0,1,0,1,0,1,2008
+27060,"Gilbert, IA","Farnhamville, IA",0,1,0,0,1,0,0,0,1,1,2008
+27058,"Gilbert, IA","Eldora, IA",0,0,1,0,0,1,0,1,0,1,2008
+27057,"Gilbert, IA","Elberon, IA",0,1,0,0,1,0,1,0,0,1,2008
+27056,"Gilbert, IA","Eagle Grove, IA",1,0,0,1,0,0,1,0,0,1,2008
+27055,"Gilbert, IA","Duncombe, IA",1,0,0,1,0,0,0,0,1,1,2008
+27053,"Gilbert, IA","Denison, IA",1,0,0,1,0,0,1,0,0,1,2008
+27050,"Gilbert, IA","Creston, IA",1,0,0,0,0,1,1,0,0,1,2008
+27048,"Gilbert, IA","Coulter, IA",0,1,0,1,0,0,0,0,1,1,2008
+27045,"Gilbert, IA","Conrad, IA",1,0,0,1,0,0,0,1,0,1,2008
+27067,"Gilbert, IA","Grinnell, IA",1,0,0,1,0,0,0,1,0,1,2008
+27042,"Gilbert, IA","Clarion, IA",0,0,1,0,1,0,1,0,0,1,2008
+27041,"Gilbert, IA","Chariton, IA",0,1,0,0,0,1,0,1,0,1,2008
+27038,"Gilbert, IA","Carter Lake, IA",0,1,0,1,0,0,0,1,0,1,2008
+27035,"Gilbert, IA","Burlington, IA",0,1,0,1,0,0,0,1,0,1,2008
+27034,"Gilbert, IA","Brooklyn, IA",0,0,1,0,0,1,0,1,0,1,2008
+27033,"Gilbert, IA","Boxholm, IA",0,1,0,1,0,0,0,0,1,1,2008
+27031,"Gilbert, IA","Blue Grass, IA",0,1,0,1,0,0,0,1,0,1,2008
+27030,"Gilbert, IA","Blakesburg, IA",0,1,0,1,0,0,0,1,0,1,2008
+27028,"Gilbert, IA","Bertram, IA",0,1,0,0,1,0,0,0,1,1,2008
+27027,"Gilbert, IA","Bagley, IA",1,0,0,1,0,0,0,1,0,1,2008
+27066,"Gilbert, IA","Grimes, IA",0,1,0,0,1,0,0,0,1,1,2008
+27068,"Gilbert, IA","Guernsey, IA",0,0,1,0,0,1,1,0,0,1,2008
+27106,"Gilbert, IA","Muscatine, IA",0,1,0,0,1,0,0,1,0,1,2008
+27092,"Gilbert, IA","Manson, IA",1,0,0,1,0,0,0,0,1,1,2008
+27105,"Gilbert, IA","Mount Auburn, IA",0,1,0,0,1,0,0,0,1,1,2008
+27104,"Gilbert, IA","Moulton, IA",0,1,0,0,0,1,0,0,1,1,2008
+27103,"Gilbert, IA","Moravia, IA",1,0,0,0,0,1,1,0,0,1,2008
+27101,"Gilbert, IA","Monroe, IA",0,1,0,0,1,0,0,0,1,1,2008
+27100,"Gilbert, IA","Mitchellville, IA",0,1,0,0,0,1,0,1,0,1,2008
+27099,"Gilbert, IA","Minburn, IA",1,0,0,0,0,1,1,0,0,1,2008
+27098,"Gilbert, IA","Milton, IA",0,0,1,0,0,1,0,1,0,1,2008
+27097,"Gilbert, IA","Mechanicsville, IA",0,1,0,1,0,0,0,0,1,1,2008
+27096,"Gilbert, IA","Maxwell, IA",0,0,1,1,0,0,0,0,1,1,2008
+27093,"Gilbert, IA","Marengo, IA",0,1,0,0,0,1,1,0,0,1,2008
+27091,"Gilbert, IA","Manly, IA",0,1,0,0,1,0,0,0,1,1,2008
+27069,"Gilbert, IA","Hamburg, IA",0,1,0,0,0,1,0,1,0,1,2008
+27020,"Gilbert, IA","Agency, IA",0,1,0,0,0,1,0,1,0,1,2008
+27089,"Gilbert, IA","Malcom, IA",1,0,0,0,1,0,0,1,0,1,2008
+27087,"Gilbert, IA","Lynnville, IA",0,0,1,0,1,0,1,0,0,1,2008
+27086,"Gilbert, IA","Lone Tree, IA",0,1,0,0,1,0,0,1,0,1,2008
+27084,"Gilbert, IA","Leland, IA",1,0,0,0,1,0,1,0,0,1,2008
+27083,"Gilbert, IA","Lake City, IA",1,0,0,0,1,0,1,0,0,1,2008
+27081,"Gilbert, IA","Knierim, IA",0,1,0,0,1,0,0,1,0,1,2008
+27077,"Gilbert, IA","Iowa Falls, IA",0,1,0,1,0,0,0,1,0,1,2008
+27075,"Gilbert, IA","Inwood, IA",0,0,1,0,0,1,0,1,0,1,2008
+27071,"Gilbert, IA","Hospers, IA",1,0,0,0,1,0,1,0,0,1,2008
+27090,"Gilbert, IA","Manchester, IA",1,0,0,0,1,0,0,1,0,1,2008

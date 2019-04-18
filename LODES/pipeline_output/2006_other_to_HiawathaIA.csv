@@ -1,0 +1,513 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+27357,"Hiawatha, IA","Cedar Rapids, IA",2475,3872,887,1314,4795,1125,2078,3042,2114,7234,2006
+27486,"Hiawatha, IA","Hiawatha, IA",1626,2945,783,1024,3532,798,1477,1765,2112,5354,2006
+27686,"Hiawatha, IA","Robins, IA",922,1771,455,710,1941,497,887,956,1305,3148,2006
+27434,"Hiawatha, IA","Fairfax, IA",176,353,91,88,425,107,133,270,217,620,2006
+27566,"Hiawatha, IA","Marion, IA",146,370,99,88,416,111,156,174,285,615,2006
+27641,"Hiawatha, IA","Palo, IA",115,299,71,92,318,75,90,196,199,485,2006
+27748,"Hiawatha, IA","Urbana, IA",103,258,59,99,245,76,86,175,159,420,2006
+27498,"Hiawatha, IA","Iowa City, IA",156,133,17,48,204,54,115,117,74,306,2006
+27327,"Hiawatha, IA","Bertram, IA",86,177,41,57,191,56,74,118,112,304,2006
+27722,"Hiawatha, IA","Springville, IA",68,185,49,72,173,57,71,139,92,302,2006
+27359,"Hiawatha, IA","Center Point, IA",73,190,34,73,180,44,56,141,100,297,2006
+27763,"Hiawatha, IA","Waterloo, IA",111,91,31,15,142,76,103,79,51,233,2006
+27394,"Hiawatha, IA","Davenport, IA",92,110,26,4,115,109,102,81,45,228,2006
+27541,"Hiawatha, IA","Lisbon, IA",51,148,21,68,126,26,51,56,113,220,2006
+27569,"Hiawatha, IA","Martelle, IA",37,129,45,64,110,37,47,89,75,211,2006
+27402,"Hiawatha, IA","Des Moines, IA",72,114,22,10,118,80,73,71,64,208,2006
+27621,"Hiawatha, IA","North Liberty, IA",90,95,10,47,117,31,27,59,109,195,2006
+27409,"Hiawatha, IA","Dubuque, IA",83,80,26,7,91,91,92,66,31,189,2006
+27381,"Hiawatha, IA","Coralville, IA",95,83,9,55,95,37,41,67,79,187,2006
+27301,"Hiawatha, IA","Anamosa, IA",45,100,24,50,93,26,39,77,53,169,2006
+27754,"Hiawatha, IA","Vinton, IA",35,97,25,29,103,25,20,91,46,157,2006
+27591,"Hiawatha, IA","Monticello, IA",50,93,12,48,83,24,35,69,51,155,2006
+27356,"Hiawatha, IA","Cedar Falls, IA",70,62,22,9,78,67,63,59,32,154,2006
+27596,"Hiawatha, IA","Morley, IA",33,91,23,50,72,25,20,82,45,147,2006
+27709,"Hiawatha, IA","Shueyville, IA",38,87,18,30,94,19,23,50,70,143,2006
+27746,"Hiawatha, IA","University Heights, IA",72,61,6,33,80,26,33,40,66,139,2006
+27757,"Hiawatha, IA","Walford, IA",21,97,12,29,81,20,16,49,65,130,2006
+27603,"Hiawatha, IA","Mount Vernon, IA",32,81,12,36,69,20,18,40,67,125,2006
+27427,"Hiawatha, IA","Ely, IA",39,62,16,25,75,17,40,53,24,117,2006
+27637,"Hiawatha, IA","Oxford, IA",30,66,10,24,62,20,25,31,50,106,2006
+27328,"Hiawatha, IA","Bettendorf, IA",43,51,8,7,42,53,49,30,23,102,2006
+27660,"Hiawatha, IA","Prairieburg, IA",23,67,12,27,57,18,22,50,30,102,2006
+27310,"Hiawatha, IA","Atkins, IA",26,65,8,24,66,9,23,26,50,99,2006
+27559,"Hiawatha, IA","Manchester, IA",34,49,7,31,32,27,23,45,22,90,2006
+27300,"Hiawatha, IA","Ames, IA",37,43,8,3,48,37,37,26,25,88,2006
+27361,"Hiawatha, IA","Central City, IA",28,47,10,29,39,17,23,43,19,85,2006
+27344,"Hiawatha, IA","Burlington, IA",34,40,9,8,34,41,35,34,14,83,2006
+27375,"Hiawatha, IA","Coggon, IA",17,45,9,20,43,8,17,36,18,71,2006
+27308,"Hiawatha, IA","Asbury, IA",35,28,5,3,37,28,25,23,20,68,2006
+27495,"Hiawatha, IA","Independence, IA",19,38,9,6,47,13,12,40,14,66,2006
+27371,"Hiawatha, IA","Clinton, IA",33,21,12,10,23,33,29,24,13,66,2006
+27739,"Hiawatha, IA","Tiffin, IA",30,32,4,17,37,12,10,20,36,66,2006
+27489,"Hiawatha, IA","Hopkinton, IA",16,38,11,16,39,10,11,31,23,65,2006
+27373,"Hiawatha, IA","Clive, IA",24,32,7,4,33,26,26,17,20,63,2006
+27418,"Hiawatha, IA","Elberon, IA",20,33,10,11,41,11,18,25,20,63,2006
+27750,"Hiawatha, IA","Van Horne, IA",7,45,8,14,41,5,11,20,29,60,2006
+27606,"Hiawatha, IA","Muscatine, IA",27,20,9,5,25,26,28,18,10,56,2006
+27654,"Hiawatha, IA","Pleasant Hill, IA",29,20,5,2,31,21,27,24,3,54,2006
+27304,"Hiawatha, IA","Ankeny, IA",22,22,9,2,33,18,18,21,14,53,2006
+27568,"Hiawatha, IA","Marshalltown, IA",21,20,12,2,19,32,17,27,9,53,2006
+27358,"Hiawatha, IA","Center Junction, IA",16,28,9,14,24,15,14,23,16,53,2006
+27789,"Hiawatha, IA","Windsor Heights, IA",24,22,4,2,28,20,14,22,14,50,2006
+27777,"Hiawatha, IA","West Des Moines, IA",21,24,3,5,25,18,19,18,11,48,2006
+27398,"Hiawatha, IA","Decorah, IA",22,23,3,28,11,9,10,33,5,48,2006
+27565,"Hiawatha, IA","Marengo, IA",11,31,4,9,30,7,8,23,15,46,2006
+27749,"Hiawatha, IA","Urbandale, IA",19,24,3,2,23,21,20,16,10,46,2006
+27577,"Hiawatha, IA","Mechanicsville, IA",7,33,3,13,24,6,10,19,14,43,2006
+27740,"Hiawatha, IA","Tipton, IA",9,31,2,20,18,4,8,17,17,42,2006
+27736,"Hiawatha, IA","Swisher, IA",4,33,3,14,21,5,3,13,24,40,2006
+27324,"Hiawatha, IA","Bellevue, IA",13,20,6,26,7,6,9,27,3,39,2006
+27431,"Hiawatha, IA","Evansdale, IA",14,12,11,3,26,8,13,15,9,37,2006
+27337,"Hiawatha, IA","Brandon, IA",10,25,2,12,21,4,6,16,15,37,2006
+27696,"Hiawatha, IA","Ryan, IA",13,16,7,11,23,2,7,20,9,36,2006
+27714,"Hiawatha, IA","Sioux City, IA",15,16,4,2,16,17,14,16,5,35,2006
+27685,"Hiawatha, IA","Riverside, IA",17,12,6,15,14,6,9,21,5,35,2006
+27412,"Hiawatha, IA","Dyersville, IA",16,13,5,6,18,10,9,12,13,34,2006
+27634,"Hiawatha, IA","Ottumwa, IA",14,17,3,3,20,11,15,11,8,34,2006
+27762,"Hiawatha, IA","Washington, IA",5,24,4,1,18,14,13,14,6,33,2006
+27599,"Hiawatha, IA","Mount Auburn, IA",10,21,2,6,20,7,10,14,9,33,2006
+27626,"Hiawatha, IA","Oelwein, IA",13,13,7,2,16,15,14,14,5,33,2006
+27503,"Hiawatha, IA","Johnston, IA",13,17,2,1,19,12,11,12,9,32,2006
+27758,"Hiawatha, IA","Walker, IA",13,16,2,15,13,3,10,11,10,31,2006
+27562,"Hiawatha, IA","Maquoketa, IA",7,18,5,8,12,10,12,15,3,30,2006
+27385,"Hiawatha, IA","Council Bluffs, IA",13,13,4,2,17,11,13,14,3,30,2006
+27330,"Hiawatha, IA","Blairstown, IA",8,20,2,9,18,3,6,11,13,30,2006
+27698,"Hiawatha, IA","Sageville, IA",8,18,3,1,17,11,8,16,5,29,2006
+27792,"Hiawatha, IA","Winthrop, IA",11,17,1,9,19,1,5,10,14,29,2006
+27518,"Hiawatha, IA","Knoxville, IA",9,15,3,1,15,11,11,7,9,27,2006
+27423,"Hiawatha, IA","Elk Run Heights, IA",17,9,1,2,14,11,13,9,5,27,2006
+27509,"Hiawatha, IA","Keokuk, IA",10,15,1,5,11,10,10,11,5,26,2006
+27496,"Hiawatha, IA","Indianola, IA",11,13,1,1,14,10,7,12,6,25,2006
+27445,"Hiawatha, IA","Fort Madison, IA",10,11,3,1,14,9,9,10,5,24,2006
+27648,"Hiawatha, IA","Pella, IA",10,13,1,2,11,11,10,10,4,24,2006
+27623,"Hiawatha, IA","Norwalk, IA",9,10,5,0,12,12,7,11,6,24,2006
+27624,"Hiawatha, IA","Norway, IA",9,8,6,4,16,3,6,10,7,23,2006
+27643,"Hiawatha, IA","Panorama Park, IA",8,11,3,3,8,11,7,12,3,22,2006
+27512,"Hiawatha, IA","Keystone, IA",6,14,2,5,12,5,5,7,10,22,2006
+27601,"Hiawatha, IA","Mount Pleasant, IA",8,10,3,1,10,10,7,9,5,21,2006
+27399,"Hiawatha, IA","Delaware, IA",8,12,0,7,11,2,1,13,6,20,2006
+27335,"Hiawatha, IA","Boone, IA",13,7,0,0,13,7,11,3,6,20,2006
+27571,"Hiawatha, IA","Mason City, IA",12,7,1,0,14,6,9,8,3,20,2006
+27788,"Hiawatha, IA","Wilton, IA",8,8,4,4,8,8,9,7,4,20,2006
+27397,"Hiawatha, IA","De Witt, IA",6,11,3,3,4,13,5,9,6,20,2006
+27485,"Hiawatha, IA","Hazleton, IA",7,11,1,6,8,5,2,12,5,19,2006
+27767,"Hiawatha, IA","Waverly, IA",8,6,5,0,10,9,12,6,1,19,2006
+27433,"Hiawatha, IA","Fairbank, IA",8,9,2,0,10,9,7,9,3,19,2006
+27775,"Hiawatha, IA","West Burlington, IA",5,9,4,2,12,4,6,7,5,18,2006
+27417,"Hiawatha, IA","Edgewood, IA",4,14,0,12,3,3,2,12,4,18,2006
+27617,"Hiawatha, IA","Newton, IA",10,6,2,0,7,11,4,6,8,18,2006
+27787,"Hiawatha, IA","Williamsburg, IA",6,12,0,5,10,3,6,8,4,18,2006
+27469,"Hiawatha, IA","Grinnell, IA",9,5,3,2,6,9,8,5,4,17,2006
+27765,"Hiawatha, IA","Waukee, IA",3,12,2,0,9,8,1,9,7,17,2006
+27505,"Hiawatha, IA","Kalona, IA",8,2,7,0,13,4,8,8,1,17,2006
+27413,"Hiawatha, IA","Dysart, IA",4,13,0,3,10,4,4,7,6,17,2006
+27299,"Hiawatha, IA","Altoona, IA",8,8,1,0,9,8,9,3,5,17,2006
+27610,"Hiawatha, IA","New Hampton, IA",8,5,3,2,13,1,10,5,1,16,2006
+27401,"Hiawatha, IA","Denver, IA",4,12,0,3,11,2,3,6,7,16,2006
+27451,"Hiawatha, IA","Garwin, IA",7,7,2,3,9,4,7,6,3,16,2006
+27444,"Hiawatha, IA","Fort Dodge, IA",6,10,0,1,11,4,10,4,2,16,2006
+27388,"Hiawatha, IA","Cresco, IA",4,12,0,12,1,3,1,15,0,16,2006
+27333,"Hiawatha, IA","Blue Grass, IA",4,11,0,1,9,5,5,6,4,15,2006
+27343,"Hiawatha, IA","Buffalo, IA",4,10,1,0,6,9,7,5,3,15,2006
+27462,"Hiawatha, IA","Grandview, IA",4,10,1,3,7,5,4,7,4,15,2006
+27680,"Hiawatha, IA","Rhodes, IA",6,8,1,2,7,6,3,7,5,15,2006
+27677,"Hiawatha, IA","Reinbeck, IA",4,9,1,1,9,4,3,5,6,14,2006
+27435,"Hiawatha, IA","Fairfield, IA",4,6,4,1,7,6,3,6,5,14,2006
+27318,"Hiawatha, IA","Balltown, IA",4,6,4,0,4,10,8,3,3,14,2006
+27732,"Hiawatha, IA","Strawberry Point, IA",4,10,0,3,6,5,5,5,4,14,2006
+27424,"Hiawatha, IA","Elkader, IA",4,9,1,5,5,4,5,7,2,14,2006
+27636,"Hiawatha, IA","Oxford Junction, IA",4,8,1,3,8,2,1,4,8,13,2006
+27323,"Hiawatha, IA","Belle Plaine, IA",3,8,2,0,11,2,5,5,3,13,2006
+27766,"Hiawatha, IA","Waukon, IA",5,7,1,7,3,3,3,9,1,13,2006
+27717,"Hiawatha, IA","Solon, IA",4,7,2,1,7,5,4,5,4,13,2006
+27609,"Hiawatha, IA","New Albin, IA",1,11,0,5,3,4,2,6,4,12,2006
+27421,"Hiawatha, IA","Eldridge, IA",4,8,0,1,8,3,6,2,4,12,2006
+27549,"Hiawatha, IA","Low Moor, IA",2,9,1,5,2,5,2,6,4,12,2006
+27649,"Hiawatha, IA","Peosta, IA",6,5,1,1,4,7,6,5,1,12,2006
+27500,"Hiawatha, IA","Janesville, IA",5,6,1,3,5,4,3,3,6,12,2006
+27797,"Hiawatha, IA","Wyoming, IA",4,7,1,2,7,3,2,6,4,12,2006
+27644,"Hiawatha, IA","Parkersburg, IA",2,9,0,0,4,7,5,6,0,11,2006
+27519,"Hiawatha, IA","La Porte City, IA",4,6,1,0,8,3,1,6,4,11,2006
+27369,"Hiawatha, IA","Clear Lake, IA",3,6,2,3,4,4,6,3,2,11,2006
+27367,"Hiawatha, IA","Clarence, IA",1,8,2,2,6,3,2,5,4,11,2006
+27355,"Hiawatha, IA","Castalia, IA",6,4,1,5,4,2,2,7,2,11,2006
+27499,"Hiawatha, IA","Iowa Falls, IA",4,2,5,0,6,5,6,5,0,11,2006
+27314,"Hiawatha, IA","Aurora, IA",4,7,0,4,7,0,0,11,0,11,2006
+27407,"Hiawatha, IA","Donnellson, IA",4,7,0,1,2,8,5,5,1,11,2006
+27406,"Hiawatha, IA","Dixon, IA",5,6,0,3,5,3,3,6,2,11,2006
+27611,"Hiawatha, IA","New Hartford, IA",6,4,0,0,7,3,5,3,2,10,2006
+27632,"Hiawatha, IA","Osceola, IA",0,9,1,0,5,5,2,4,4,10,2006
+27707,"Hiawatha, IA","Shell Rock, IA",4,4,2,2,4,4,4,4,2,10,2006
+27592,"Hiawatha, IA","Montour, IA",3,4,3,2,4,4,1,5,4,10,2006
+27521,"Hiawatha, IA","Ladora, IA",0,5,5,3,5,2,1,2,7,10,2006
+27529,"Hiawatha, IA","Le Claire, IA",3,5,2,1,4,5,6,2,2,10,2006
+27778,"Hiawatha, IA","West Liberty, IA",5,4,1,1,4,5,6,1,3,10,2006
+27546,"Hiawatha, IA","Long Grove, IA",4,6,0,2,4,4,5,3,2,10,2006
+27737,"Hiawatha, IA","Tama, IA",1,9,0,1,7,2,1,7,2,10,2006
+27664,"Hiawatha, IA","Protivin, IA",6,4,0,6,4,0,3,7,0,10,2006
+27633,"Hiawatha, IA","Oskaloosa, IA",1,6,2,2,5,2,2,3,4,9,2006
+27502,"Hiawatha, IA","Jesup, IA",3,6,0,1,8,0,2,4,3,9,2006
+27741,"Hiawatha, IA","Toledo, IA",0,5,4,2,6,1,3,4,2,9,2006
+27721,"Hiawatha, IA","Springbrook, IA",0,9,0,8,0,1,0,8,1,9,2006
+27461,"Hiawatha, IA","Grand Mound, IA",4,4,1,5,2,2,1,4,4,9,2006
+27783,"Hiawatha, IA","Wheatland, IA",4,4,1,4,2,3,0,7,2,9,2006
+27780,"Hiawatha, IA","West Union, IA",4,4,1,3,6,0,3,3,3,9,2006
+27346,"Hiawatha, IA","Camanche, IA",3,4,2,1,0,8,5,2,2,9,2006
+27436,"Hiawatha, IA","Farley, IA",4,4,1,2,2,5,2,6,1,9,2006
+27771,"Hiawatha, IA","Wellman, IA",3,5,1,2,4,3,3,3,3,9,2006
+27612,"Hiawatha, IA","New Liberty, IA",4,2,2,5,3,0,3,3,2,8,2006
+27774,"Hiawatha, IA","West Branch, IA",0,7,1,4,3,1,0,6,2,8,2006
+27302,"Hiawatha, IA","Andrew, IA",2,4,2,4,3,1,3,5,0,8,2006
+27494,"Hiawatha, IA","Huxley, IA",3,4,1,0,5,3,4,2,2,8,2006
+27796,"Hiawatha, IA","Worthington, IA",1,6,1,1,3,4,3,5,0,8,2006
+27790,"Hiawatha, IA","Winfield, IA",6,0,2,2,4,2,4,2,2,8,2006
+27465,"Hiawatha, IA","Greeley, IA",4,4,0,1,6,1,1,4,3,8,2006
+27362,"Hiawatha, IA","Chariton, IA",4,3,1,1,4,3,2,4,2,8,2006
+27752,"Hiawatha, IA","Victor, IA",2,6,0,0,5,3,2,6,0,8,2006
+27545,"Hiawatha, IA","Lone Tree, IA",5,3,0,2,6,0,3,3,2,8,2006
+27487,"Hiawatha, IA","Hills, IA",3,5,0,0,3,5,5,2,1,8,2006
+27292,"Hiawatha, IA","Ainsworth, IA",2,4,2,4,3,1,2,5,1,8,2006
+27438,"Hiawatha, IA","Fayette, IA",3,4,1,3,5,0,2,3,3,8,2006
+27662,"Hiawatha, IA","Princeton, IA",2,5,1,2,1,5,2,4,2,8,2006
+27428,"Hiawatha, IA","Epworth, IA",2,4,2,0,4,4,0,4,4,8,2006
+27667,"Hiawatha, IA","Randalia, IA",1,4,3,3,4,1,3,3,2,8,2006
+27650,"Hiawatha, IA","Perry, IA",3,4,1,0,6,2,2,3,3,8,2006
+27374,"Hiawatha, IA","Clutier, IA",3,3,1,5,2,0,2,2,3,7,2006
+27724,"Hiawatha, IA","St. Marys, IA",2,5,0,0,4,3,1,3,3,7,2006
+27396,"Hiawatha, IA","De Soto, IA",4,3,0,1,4,2,4,2,1,7,2006
+27645,"Hiawatha, IA","Parnell, IA",4,3,0,1,6,0,0,4,3,7,2006
+27341,"Hiawatha, IA","Brooklyn, IA",1,6,0,1,4,2,4,2,1,7,2006
+27616,"Hiawatha, IA","New Vienna, IA",4,3,0,2,1,4,3,3,1,7,2006
+27378,"Hiawatha, IA","Columbus Junction, IA",3,4,0,2,2,3,4,1,2,7,2006
+27349,"Hiawatha, IA","Carlisle, IA",5,1,1,0,5,2,2,4,1,7,2006
+27309,"Hiawatha, IA","Atalissa, IA",2,5,0,2,1,4,2,3,2,7,2006
+27598,"Hiawatha, IA","Moulton, IA",1,5,1,1,1,5,2,3,2,7,2006
+27531,"Hiawatha, IA","Le Mars, IA",3,3,1,0,5,2,4,3,0,7,2006
+27602,"Hiawatha, IA","Mount Union, IA",3,3,1,0,1,6,4,3,0,7,2006
+27671,"Hiawatha, IA","Raymond, IA",1,5,1,0,4,3,2,2,3,7,2006
+27684,"Hiawatha, IA","Riverdale, IA",4,1,2,0,1,6,5,1,1,7,2006
+27405,"Hiawatha, IA","Dike, IA",2,5,0,0,3,4,3,2,2,7,2006
+27550,"Hiawatha, IA","Lowden, IA",0,6,1,0,2,5,2,5,0,7,2006
+27608,"Hiawatha, IA","Nevada, IA",3,4,0,1,3,3,3,1,3,7,2006
+27799,"Hiawatha, IA","Zwingle, IA",2,5,0,1,3,3,4,3,0,7,2006
+27425,"Hiawatha, IA","Elkport, IA",2,4,1,2,2,3,3,3,1,7,2006
+27755,"Hiawatha, IA","Wadena, IA",4,3,0,2,2,3,4,2,1,7,2006
+27468,"Hiawatha, IA","Grimes, IA",3,4,0,0,2,5,3,3,1,7,2006
+27293,"Hiawatha, IA","Albia, IA",4,2,1,0,3,4,4,3,0,7,2006
+27479,"Hiawatha, IA","Harpers Ferry, IA",2,5,0,2,4,1,3,4,0,7,2006
+27747,"Hiawatha, IA","University Park, IA",2,2,3,0,3,4,3,3,1,7,2006
+27756,"Hiawatha, IA","Walcott, IA",2,5,0,0,6,1,3,2,2,7,2006
+27389,"Hiawatha, IA","Creston, IA",1,3,2,2,2,2,2,1,3,6,2006
+27682,"Hiawatha, IA","Ridgeway, IA",3,3,0,3,1,2,1,5,0,6,2006
+27731,"Hiawatha, IA","Story City, IA",1,5,0,0,3,3,1,1,4,6,2006
+27470,"Hiawatha, IA","Grundy Center, IA",3,3,0,0,5,1,2,3,1,6,2006
+27615,"Hiawatha, IA","New Sharon, IA",1,4,1,1,3,2,1,2,3,6,2006
+27317,"Hiawatha, IA","Baldwin, IA",1,5,0,0,2,4,0,4,2,6,2006
+27391,"Hiawatha, IA","Dallas Center, IA",1,3,2,0,3,3,2,1,3,6,2006
+27646,"Hiawatha, IA","Patterson, IA",4,2,0,0,4,2,1,4,1,6,2006
+27471,"Hiawatha, IA","Guernsey, IA",1,0,5,0,4,2,5,0,1,6,2006
+27708,"Hiawatha, IA","Shenandoah, IA",1,4,1,0,3,3,2,3,1,6,2006
+27294,"Hiawatha, IA","Albion, IA",1,3,2,2,2,2,2,3,1,6,2006
+27597,"Hiawatha, IA","Morning Sun, IA",2,4,0,1,3,2,3,3,0,6,2006
+27463,"Hiawatha, IA","Granger, IA",2,4,0,0,5,1,2,2,2,6,2006
+27672,"Hiawatha, IA","Readlyn, IA",4,1,1,1,2,3,4,1,1,6,2006
+27449,"Hiawatha, IA","Garnavillo, IA",3,2,1,0,2,4,4,1,1,6,2006
+27493,"Hiawatha, IA","Hudson, IA",3,2,1,1,3,2,1,3,2,6,2006
+27779,"Hiawatha, IA","West Point, IA",3,3,0,1,1,4,2,3,1,6,2006
+27726,"Hiawatha, IA","St. Paul, IA",3,2,1,1,2,3,3,2,1,6,2006
+27443,"Hiawatha, IA","Fort Atkinson, IA",2,3,1,4,2,0,2,4,0,6,2006
+27590,"Hiawatha, IA","Montezuma, IA",1,1,4,0,5,1,3,0,3,6,2006
+27658,"Hiawatha, IA","Polk City, IA",2,4,0,0,3,3,1,3,2,6,2006
+27587,"Hiawatha, IA","Mitchellville, IA",5,1,0,0,4,2,3,1,2,6,2006
+27542,"Hiawatha, IA","Liscomb, IA",0,3,3,2,1,3,0,4,2,6,2006
+27415,"Hiawatha, IA","East Peru, IA",1,3,1,0,2,3,2,1,2,5,2006
+27694,"Hiawatha, IA","Russell, IA",0,5,0,0,3,2,2,3,0,5,2006
+27791,"Hiawatha, IA","Winterset, IA",3,2,0,0,3,2,3,1,1,5,2006
+27725,"Hiawatha, IA","St. Olaf, IA",0,3,2,0,3,2,4,1,0,5,2006
+27481,"Hiawatha, IA","Harvey, IA",4,1,0,0,3,2,1,3,1,5,2006
+27360,"Hiawatha, IA","Centerville, IA",4,1,0,0,3,2,2,1,2,5,2006
+27627,"Hiawatha, IA","Ogden, IA",1,4,0,0,1,4,1,3,1,5,2006
+27681,"Hiawatha, IA","Richland, IA",2,1,2,0,3,2,4,1,0,5,2006
+27556,"Hiawatha, IA","Madrid, IA",1,3,1,0,4,1,1,3,1,5,2006
+27557,"Hiawatha, IA","Malcom, IA",1,4,0,2,2,1,3,0,2,5,2006
+27595,"Hiawatha, IA","Moravia, IA",1,3,1,0,3,2,3,0,2,5,2006
+27338,"Hiawatha, IA","Brighton, IA",2,3,0,1,1,3,2,2,1,5,2006
+27593,"Hiawatha, IA","Montrose, IA",2,3,0,0,3,2,2,2,1,5,2006
+27584,"Hiawatha, IA","Millville, IA",3,1,1,1,1,3,3,0,2,5,2006
+27312,"Hiawatha, IA","Audubon, IA",1,4,0,0,4,1,2,2,1,5,2006
+27656,"Hiawatha, IA","Pleasantville, IA",2,3,0,0,3,2,0,3,2,5,2006
+27618,"Hiawatha, IA","Nichols, IA",3,1,1,0,1,4,1,3,1,5,2006
+27520,"Hiawatha, IA","Lacona, IA",2,2,1,0,1,4,3,2,0,5,2006
+27620,"Hiawatha, IA","North English, IA",1,3,1,1,3,1,3,2,0,5,2006
+27480,"Hiawatha, IA","Hartwick, IA",1,3,1,0,4,1,2,2,1,5,2006
+27475,"Hiawatha, IA","Hampton, IA",3,1,1,0,3,2,4,1,0,5,2006
+27400,"Hiawatha, IA","Denison, IA",3,2,0,1,2,2,1,3,1,5,2006
+27719,"Hiawatha, IA","Spencer, IA",3,0,2,2,1,2,1,4,0,5,2006
+27411,"Hiawatha, IA","Dunkerton, IA",1,4,0,0,3,2,3,2,0,5,2006
+27613,"Hiawatha, IA","New London, IA",4,1,0,0,2,3,2,3,0,5,2006
+27376,"Hiawatha, IA","Colfax, IA",2,2,1,2,1,2,0,2,3,5,2006
+27372,"Hiawatha, IA","Clio, IA",1,2,2,1,1,3,3,1,1,5,2006
+27393,"Hiawatha, IA","Danville, IA",4,1,0,0,2,3,2,3,0,5,2006
+27524,"Hiawatha, IA","Lambs Grove, IA",2,3,0,0,2,3,3,1,1,5,2006
+27525,"Hiawatha, IA","Lamoni, IA",2,2,1,1,2,2,1,2,2,5,2006
+27446,"Hiawatha, IA","Fredericksburg, IA",4,0,0,2,2,0,2,1,1,4,2006
+27578,"Hiawatha, IA","Mediapolis, IA",2,2,0,0,2,2,2,1,1,4,2006
+27673,"Hiawatha, IA","Reasnor, IA",2,2,0,0,4,0,1,3,0,4,2006
+27455,"Hiawatha, IA","Gilman, IA",1,3,0,0,3,1,1,2,1,4,2006
+27298,"Hiawatha, IA","Alton, IA",1,2,1,0,2,2,2,2,0,4,2006
+27331,"Hiawatha, IA","Blakesburg, IA",3,1,0,0,1,3,3,1,0,4,2006
+27439,"Hiawatha, IA","Ferguson, IA",1,2,1,0,1,3,1,1,2,4,2006
+27404,"Hiawatha, IA","Diagonal, IA",1,3,0,0,1,3,1,1,2,4,2006
+27345,"Hiawatha, IA","Bussey, IA",1,2,1,1,3,0,2,0,2,4,2006
+27661,"Hiawatha, IA","Preston, IA",2,2,0,1,2,1,2,2,0,4,2006
+27574,"Hiawatha, IA","McCausland, IA",1,3,0,0,1,3,1,1,2,4,2006
+27448,"Hiawatha, IA","Fruitland, IA",1,2,1,1,0,3,0,2,2,4,2006
+27290,"Hiawatha, IA","Adel, IA",1,2,1,0,4,0,2,2,0,4,2006
+27483,"Hiawatha, IA","Haverhill, IA",1,3,0,0,3,1,1,3,0,4,2006
+27727,"Hiawatha, IA","Stacyville, IA",4,0,0,0,2,2,3,0,1,4,2006
+27403,"Hiawatha, IA","Dexter, IA",1,2,1,0,0,4,3,1,0,4,2006
+27600,"Hiawatha, IA","Mount Ayr, IA",1,1,2,0,0,4,2,1,1,4,2006
+27526,"Hiawatha, IA","Lansing, IA",2,2,0,1,1,2,1,1,2,4,2006
+27514,"Hiawatha, IA","Kinross, IA",0,3,1,0,4,0,2,1,1,4,2006
+27607,"Hiawatha, IA","Nashua, IA",1,3,0,2,1,1,1,3,0,4,2006
+27467,"Hiawatha, IA","Greenfield, IA",1,3,0,1,2,1,0,1,3,4,2006
+27532,"Hiawatha, IA","Le Roy, IA",3,1,0,0,3,1,2,1,1,4,2006
+27366,"Hiawatha, IA","Cincinnati, IA",1,2,1,1,2,1,1,1,2,4,2006
+27363,"Hiawatha, IA","Charles City, IA",1,3,0,0,2,2,2,1,1,4,2006
+27768,"Hiawatha, IA","Wayland, IA",2,2,0,0,3,1,4,0,0,4,2006
+27693,"Hiawatha, IA","Runnells, IA",0,3,1,0,4,0,2,1,1,4,2006
+27794,"Hiawatha, IA","Woodward, IA",3,1,0,0,0,4,2,2,0,4,2006
+27655,"Hiawatha, IA","Pleasant Plain, IA",2,2,0,0,1,3,2,1,1,4,2006
+27377,"Hiawatha, IA","Colo, IA",1,3,0,0,2,2,3,0,1,4,2006
+27353,"Hiawatha, IA","Cascade, IA",3,1,0,0,1,3,0,4,0,4,2006
+27380,"Hiawatha, IA","Conesville, IA",2,2,0,2,2,0,2,1,1,4,2006
+27352,"Hiawatha, IA","Carter Lake, IA",3,0,1,0,3,1,2,1,1,4,2006
+27459,"Hiawatha, IA","Graf, IA",3,0,1,0,1,3,2,1,1,4,2006
+27551,"Hiawatha, IA","Luana, IA",0,3,1,2,0,2,1,2,1,4,2006
+27384,"Hiawatha, IA","Corydon, IA",2,2,0,0,2,2,0,3,1,4,2006
+27786,"Hiawatha, IA","Williams, IA",1,3,0,0,3,1,1,3,0,4,2006
+27473,"Hiawatha, IA","Guttenberg, IA",2,2,0,0,3,1,3,1,0,4,2006
+27579,"Hiawatha, IA","Melbourne, IA",2,1,1,0,3,1,2,2,0,4,2006
+27798,"Hiawatha, IA","Zearing, IA",1,2,0,0,1,2,2,1,0,3,2006
+27311,"Hiawatha, IA","Atlantic, IA",2,1,0,0,1,2,2,1,0,3,2006
+27296,"Hiawatha, IA","Algona, IA",1,2,0,0,3,0,0,2,1,3,2006
+27291,"Hiawatha, IA","Agency, IA",1,2,0,0,1,2,2,0,1,3,2006
+27640,"Hiawatha, IA","Packwood, IA",1,1,1,0,1,2,2,0,1,3,2006
+27295,"Hiawatha, IA","Alden, IA",3,0,0,0,2,1,3,0,0,3,2006
+27313,"Hiawatha, IA","Aurelia, IA",2,1,0,0,1,2,0,3,0,3,2006
+27440,"Hiawatha, IA","Floris, IA",3,0,0,0,3,0,3,0,0,3,2006
+27691,"Hiawatha, IA","Roland, IA",2,0,1,0,2,1,3,0,0,3,2006
+27390,"Hiawatha, IA","Cromwell, IA",2,1,0,0,1,2,1,2,0,3,2006
+27508,"Hiawatha, IA","Kellogg, IA",2,1,0,0,0,3,3,0,0,3,2006
+27379,"Hiawatha, IA","Colwell, IA",0,3,0,0,1,2,0,2,1,3,2006
+27715,"Hiawatha, IA","Slater, IA",1,2,0,1,1,1,1,1,1,3,2006
+27501,"Hiawatha, IA","Jefferson, IA",2,1,0,0,1,2,1,2,0,3,2006
+27582,"Hiawatha, IA","Middletown, IA",1,2,0,0,1,2,1,1,1,3,2006
+27704,"Hiawatha, IA","Shannon City, IA",2,0,1,0,1,2,2,0,1,3,2006
+27703,"Hiawatha, IA","Sergeant Bluff, IA",1,2,0,0,0,3,1,1,1,3,2006
+27761,"Hiawatha, IA","Wapello, IA",1,2,0,1,1,1,1,1,1,3,2006
+27491,"Hiawatha, IA","Houghton, IA",1,2,0,0,1,2,0,3,0,3,2006
+27488,"Hiawatha, IA","Hinton, IA",1,2,0,0,1,2,2,1,0,3,2006
+27534,"Hiawatha, IA","Leon, IA",1,2,0,1,2,0,2,0,1,3,2006
+27484,"Hiawatha, IA","Hawkeye, IA",1,2,0,0,3,0,2,1,0,3,2006
+27720,"Hiawatha, IA","Spring Hill, IA",2,1,0,0,1,2,1,1,1,3,2006
+27553,"Hiawatha, IA","Lynnville, IA",1,2,0,0,2,1,2,1,0,3,2006
+27416,"Hiawatha, IA","Eddyville, IA",3,0,0,0,2,1,2,1,0,3,2006
+27350,"Hiawatha, IA","Carroll, IA",3,0,0,0,3,0,3,0,0,3,2006
+27734,"Hiawatha, IA","Sumner, IA",1,2,0,1,0,2,0,2,1,3,2006
+27456,"Hiawatha, IA","Glenwood, IA",1,1,1,0,1,2,2,1,0,3,2006
+27453,"Hiawatha, IA","Gilbert, IA",2,1,0,0,2,1,0,3,0,3,2006
+27332,"Hiawatha, IA","Bloomfield, IA",1,2,0,0,1,2,2,0,1,3,2006
+27580,"Hiawatha, IA","Melcher-Dallas, IA",1,1,1,0,2,1,0,3,0,3,2006
+27447,"Hiawatha, IA","Frederika, IA",2,0,1,0,2,1,2,0,1,3,2006
+27730,"Hiawatha, IA","Stockton, IA",1,1,0,0,1,1,1,1,0,2,2006
+27733,"Hiawatha, IA","Sully, IA",0,2,0,0,2,0,0,0,2,2,2006
+27759,"Hiawatha, IA","Wall Lake, IA",1,0,1,0,1,1,2,0,0,2,2006
+27642,"Hiawatha, IA","Panama, IA",1,1,0,0,2,0,0,2,0,2,2006
+27751,"Hiawatha, IA","Van Meter, IA",1,1,0,0,2,0,2,0,0,2,2006
+27728,"Hiawatha, IA","Stanhope, IA",1,1,0,0,0,2,0,2,0,2,2006
+27657,"Hiawatha, IA","Pocahontas, IA",1,1,0,0,1,1,1,1,0,2,2006
+27713,"Hiawatha, IA","Sioux Center, IA",0,1,1,0,1,1,0,2,0,2,2006
+27678,"Hiawatha, IA","Remsen, IA",1,0,1,1,0,1,1,1,0,2,2006
+27653,"Hiawatha, IA","Plano, IA",2,0,0,0,1,1,2,0,0,2,2006
+27784,"Hiawatha, IA","Whittemore, IA",1,1,0,0,1,1,2,0,0,2,2006
+27663,"Hiawatha, IA","Promise City, IA",1,0,1,0,1,1,1,0,1,2,2006
+27776,"Hiawatha, IA","West Chester, IA",1,1,0,0,2,0,1,1,0,2,2006
+27674,"Hiawatha, IA","Red Oak, IA",1,1,0,1,1,0,2,0,0,2,2006
+27785,"Hiawatha, IA","Whitten, IA",0,2,0,0,2,0,0,2,0,2,2006
+27773,"Hiawatha, IA","Welton, IA",1,1,0,0,1,1,1,1,0,2,2006
+27699,"Hiawatha, IA","Salem, IA",0,2,0,1,0,1,1,0,1,2,2006
+27683,"Hiawatha, IA","Rippey, IA",1,1,0,0,2,0,2,0,0,2,2006
+27689,"Hiawatha, IA","Rockford, IA",0,1,1,0,2,0,1,1,0,2,2006
+27742,"Hiawatha, IA","Traer, IA",0,2,0,0,0,2,0,1,1,2,2006
+27697,"Hiawatha, IA","Sabula, IA",1,1,0,1,0,1,1,1,0,2,2006
+27770,"Hiawatha, IA","Webster, IA",1,1,0,0,2,0,1,1,0,2,2006
+27769,"Hiawatha, IA","Webster City, IA",0,0,2,0,2,0,1,1,0,2,2006
+27711,"Hiawatha, IA","Sigourney, IA",2,0,0,0,2,0,0,1,1,2,2006
+27288,"Hiawatha, IA","Ackley, IA",0,1,1,0,1,1,1,1,0,2,2006
+27544,"Hiawatha, IA","Lockridge, IA",0,2,0,0,2,0,1,0,1,2,2006
+27340,"Hiawatha, IA","Britt, IA",1,0,1,0,1,1,2,0,0,2,2006
+27347,"Hiawatha, IA","Cambridge, IA",1,1,0,0,0,2,0,2,0,2,2006
+27354,"Hiawatha, IA","Casey, IA",0,1,1,0,1,1,1,1,0,2,2006
+27560,"Hiawatha, IA","Manly, IA",1,1,0,0,0,2,1,0,1,2,2006
+27368,"Hiawatha, IA","Clarinda, IA",2,0,0,0,2,0,2,0,0,2,2006
+27554,"Hiawatha, IA","Macedonia, IA",0,2,0,0,1,1,1,1,0,2,2006
+27543,"Hiawatha, IA","Livermore, IA",1,1,0,0,2,0,2,0,0,2,2006
+27540,"Hiawatha, IA","Linden, IA",2,0,0,0,1,1,0,2,0,2,2006
+27539,"Hiawatha, IA","Lincoln, IA",0,1,1,0,1,1,1,0,1,2,2006
+27538,"Hiawatha, IA","Lime Springs, IA",1,1,0,2,0,0,0,2,0,2,2006
+27536,"Hiawatha, IA","Lewis, IA",0,2,0,0,1,1,1,0,1,2,2006
+27414,"Hiawatha, IA","Eagle Grove, IA",2,0,0,0,2,0,1,0,1,2,2006
+27530,"Hiawatha, IA","Le Grand, IA",0,0,2,0,2,0,0,1,1,2,2006
+27528,"Hiawatha, IA","Lawton, IA",1,1,0,0,2,0,0,2,0,2,2006
+27422,"Hiawatha, IA","Elgin, IA",0,2,0,0,1,1,1,0,1,2,2006
+27429,"Hiawatha, IA","Essex, IA",1,1,0,0,2,0,0,2,0,2,2006
+27432,"Hiawatha, IA","Exira, IA",2,0,0,1,1,0,0,1,1,2,2006
+27437,"Hiawatha, IA","Farmersburg, IA",1,0,1,0,2,0,1,0,1,2,2006
+27517,"Hiawatha, IA","Knierim, IA",0,1,1,0,1,1,0,2,0,2,2006
+27442,"Hiawatha, IA","Forest City, IA",1,1,0,0,0,2,1,0,1,2,2006
+27450,"Hiawatha, IA","Garner, IA",0,1,1,0,2,0,0,2,0,2,2006
+27511,"Hiawatha, IA","Keota, IA",0,1,1,0,0,2,1,0,1,2,2006
+27510,"Hiawatha, IA","Keosauqua, IA",1,1,0,0,1,1,1,0,1,2,2006
+27631,"Hiawatha, IA","Osage, IA",1,1,0,0,1,1,1,1,0,2,2006
+27457,"Hiawatha, IA","Glidden, IA",0,2,0,0,2,0,0,1,1,2,2006
+27497,"Hiawatha, IA","Ionia, IA",0,2,0,0,1,1,1,1,0,2,2006
+27482,"Hiawatha, IA","Havelock, IA",1,1,0,0,1,1,0,2,0,2,2006
+27478,"Hiawatha, IA","Harlan, IA",2,0,0,0,2,0,2,0,0,2,2006
+27567,"Hiawatha, IA","Marquette, IA",0,1,1,0,0,2,2,0,0,2,2006
+27386,"Hiawatha, IA","Crawfordsville, IA",0,2,0,0,2,0,1,0,1,2,2006
+27589,"Hiawatha, IA","Monona, IA",1,1,0,0,1,1,2,0,0,2,2006
+27581,"Hiawatha, IA","Merrill, IA",2,0,0,0,1,1,0,2,0,2,2006
+27630,"Hiawatha, IA","Orient, IA",1,0,1,0,1,1,2,0,0,2,2006
+27306,"Hiawatha, IA","Arlington, IA",0,1,1,0,1,1,0,0,2,2,2006
+27622,"Hiawatha, IA","Northwood, IA",1,1,0,1,0,1,0,2,0,2,2006
+27307,"Hiawatha, IA","Arthur, IA",1,1,0,0,2,0,2,0,0,2,2006
+27322,"Hiawatha, IA","Beaman, IA",1,1,0,0,1,1,1,1,0,2,2006
+27326,"Hiawatha, IA","Bennett, IA",1,0,1,1,1,0,1,1,0,2,2006
+27585,"Hiawatha, IA","Milton, IA",1,0,1,0,1,1,2,0,0,2,2006
+27583,"Hiawatha, IA","Millerton, IA",1,0,1,1,1,0,1,1,0,2,2006
+27472,"Hiawatha, IA","Guthrie Center, IA",1,1,0,0,2,0,0,1,1,2,2006
+27570,"Hiawatha, IA","Marysville, IA",0,2,0,1,0,1,1,1,0,2,2006
+27370,"Hiawatha, IA","Clearfield, IA",1,0,0,0,0,1,1,0,0,1,2006
+27452,"Hiawatha, IA","Geneva, IA",0,1,0,0,0,1,1,0,0,1,2006
+27316,"Hiawatha, IA","Bagley, IA",1,0,0,0,0,1,1,0,0,1,2006
+27441,"Hiawatha, IA","Fonda, IA",1,0,0,0,0,1,0,1,0,1,2006
+27315,"Hiawatha, IA","Avoca, IA",1,0,0,0,0,1,0,1,0,1,2006
+27745,"Hiawatha, IA","Unionville, IA",0,1,0,0,1,0,0,1,0,1,2006
+27744,"Hiawatha, IA","Underwood, IA",1,0,0,0,1,0,1,0,0,1,2006
+27743,"Hiawatha, IA","Tripoli, IA",1,0,0,0,1,0,0,0,1,1,2006
+27772,"Hiawatha, IA","Wellsburg, IA",1,0,0,0,1,0,1,0,0,1,2006
+27793,"Hiawatha, IA","Wiota, IA",1,0,0,0,0,1,0,1,0,1,2006
+27351,"Hiawatha, IA","Carson, IA",1,0,0,0,0,1,0,1,0,1,2006
+27348,"Hiawatha, IA","Cantril, IA",0,1,0,0,1,0,0,0,1,1,2006
+27454,"Hiawatha, IA","Gilbertville, IA",0,1,0,0,0,1,0,1,0,1,2006
+27382,"Hiawatha, IA","Corning, IA",0,1,0,0,1,0,0,0,1,1,2006
+27795,"Hiawatha, IA","Woolstock, IA",0,1,0,1,0,0,0,1,0,1,2006
+27738,"Hiawatha, IA","Thompson, IA",0,1,0,0,1,0,1,0,0,1,2006
+27305,"Hiawatha, IA","Anthon, IA",0,1,0,0,1,0,0,1,0,1,2006
+27458,"Hiawatha, IA","Goldfield, IA",1,0,0,0,1,0,0,1,0,1,2006
+27735,"Hiawatha, IA","Swan, IA",1,0,0,0,1,0,1,0,0,1,2006
+27460,"Hiawatha, IA","Grand Junction, IA",1,0,0,0,1,0,1,0,0,1,2006
+27303,"Hiawatha, IA","Anita, IA",0,1,0,0,0,1,0,0,1,1,2006
+27297,"Hiawatha, IA","Alta Vista, IA",0,1,0,0,1,0,0,1,0,1,2006
+27464,"Hiawatha, IA","Gray, IA",1,0,0,0,1,0,0,1,0,1,2006
+27466,"Hiawatha, IA","Greene, IA",1,0,0,0,1,0,1,0,0,1,2006
+27319,"Hiawatha, IA","Battle Creek, IA",1,0,0,0,1,0,0,1,0,1,2006
+27430,"Hiawatha, IA","Estherville, IA",1,0,0,0,0,1,0,1,0,1,2006
+27320,"Hiawatha, IA","Baxter, IA",0,0,1,0,0,1,0,1,0,1,2006
+27395,"Hiawatha, IA","Dayton, IA",0,0,1,0,1,0,1,0,0,1,2006
+27782,"Hiawatha, IA","Westside, IA",1,0,0,0,0,1,1,0,0,1,2006
+27383,"Hiawatha, IA","Corwith, IA",1,0,0,0,0,1,1,0,0,1,2006
+27764,"Hiawatha, IA","Waucoma, IA",0,1,0,0,1,0,1,0,0,1,2006
+27474,"Hiawatha, IA","Hamburg, IA",0,1,0,0,1,0,1,0,0,1,2006
+27387,"Hiawatha, IA","Crescent, IA",0,1,0,0,1,0,1,0,0,1,2006
+27329,"Hiawatha, IA","Birmingham, IA",1,0,0,0,0,1,1,0,0,1,2006
+27781,"Hiawatha, IA","Westfield, IA",0,1,0,0,1,0,1,0,0,1,2006
+27392,"Hiawatha, IA","Danbury, IA",0,1,0,0,1,0,0,1,0,1,2006
+27760,"Hiawatha, IA","Walnut, IA",0,1,0,0,0,1,0,1,0,1,2006
+27365,"Hiawatha, IA","Cherokee, IA",0,1,0,0,1,0,1,0,0,1,2006
+27364,"Hiawatha, IA","Charter Oak, IA",1,0,0,0,1,0,1,0,0,1,2006
+27426,"Hiawatha, IA","Elliott, IA",1,0,0,0,0,1,1,0,0,1,2006
+27408,"Hiawatha, IA","Dougherty, IA",1,0,0,0,0,1,0,1,0,1,2006
+27410,"Hiawatha, IA","Duncombe, IA",1,0,0,0,1,0,1,0,0,1,2006
+27334,"Hiawatha, IA","Bondurant, IA",1,0,0,0,1,0,0,0,1,1,2006
+27325,"Hiawatha, IA","Belmond, IA",0,0,1,1,0,0,0,0,1,1,2006
+27419,"Hiawatha, IA","Eldon, IA",0,1,0,0,1,0,0,0,1,1,2006
+27420,"Hiawatha, IA","Eldora, IA",0,1,0,0,0,1,0,1,0,1,2006
+27342,"Hiawatha, IA","Buck Grove, IA",0,1,0,0,0,1,0,0,1,1,2006
+27336,"Hiawatha, IA","Braddyville, IA",1,0,0,0,1,0,0,1,0,1,2006
+27753,"Hiawatha, IA","Vining, IA",1,0,0,0,1,0,1,0,0,1,2006
+27321,"Hiawatha, IA","Bayard, IA",0,1,0,0,0,1,0,0,1,1,2006
+27339,"Hiawatha, IA","Bristow, IA",1,0,0,0,0,1,0,1,0,1,2006
+27635,"Hiawatha, IA","Owasa, IA",0,1,0,0,0,1,0,1,0,1,2006
+27729,"Hiawatha, IA","Stanley, IA",0,1,0,0,1,0,0,1,0,1,2006
+27669,"Hiawatha, IA","Randolph, IA",0,1,0,0,1,0,1,0,0,1,2006
+27575,"Hiawatha, IA","McClelland, IA",0,1,0,0,1,0,0,1,0,1,2006
+27573,"Hiawatha, IA","Maxwell, IA",1,0,0,0,1,0,1,0,0,1,2006
+27572,"Hiawatha, IA","Massena, IA",0,1,0,0,0,1,1,0,0,1,2006
+27665,"Hiawatha, IA","Quimby, IA",1,0,0,0,0,1,1,0,0,1,2006
+27666,"Hiawatha, IA","Rake, IA",0,0,1,0,1,0,1,0,0,1,2006
+27668,"Hiawatha, IA","Randall, IA",0,0,1,0,1,0,1,0,0,1,2006
+27670,"Hiawatha, IA","Rathbun, IA",0,1,0,0,0,1,0,1,0,1,2006
+27679,"Hiawatha, IA","Renwick, IA",0,0,1,0,1,0,1,0,0,1,2006
+27564,"Hiawatha, IA","Marcus, IA",0,1,0,0,1,0,0,1,0,1,2006
+27563,"Hiawatha, IA","Marble Rock, IA",1,0,0,0,1,0,1,0,0,1,2006
+27561,"Hiawatha, IA","Manson, IA",0,1,0,0,1,0,1,0,0,1,2006
+27675,"Hiawatha, IA","Redding, IA",1,0,0,0,1,0,0,1,0,1,2006
+27676,"Hiawatha, IA","Redfield, IA",1,0,0,0,1,0,0,0,1,1,2006
+27558,"Hiawatha, IA","Malvern, IA",1,0,0,0,1,0,1,0,0,1,2006
+27576,"Hiawatha, IA","McIntire, IA",1,0,0,0,1,0,1,0,0,1,2006
+27659,"Hiawatha, IA","Popejoy, IA",0,1,0,0,0,1,0,0,1,1,2006
+27586,"Hiawatha, IA","Mitchell, IA",1,0,0,0,0,1,1,0,0,1,2006
+27588,"Hiawatha, IA","Mondamin, IA",0,1,0,0,1,0,1,0,0,1,2006
+27652,"Hiawatha, IA","Plainfield, IA",1,0,0,0,0,1,1,0,0,1,2006
+27651,"Hiawatha, IA","Pierson, IA",1,0,0,0,0,1,0,1,0,1,2006
+27594,"Hiawatha, IA","Moorhead, IA",0,1,0,0,1,0,0,1,0,1,2006
+27604,"Hiawatha, IA","Moville, IA",0,1,0,0,0,1,0,0,1,1,2006
+27605,"Hiawatha, IA","Murray, IA",0,0,1,0,0,1,1,0,0,1,2006
+27647,"Hiawatha, IA","Paullina, IA",0,1,0,0,0,1,0,0,1,1,2006
+27614,"Hiawatha, IA","New Market, IA",0,1,0,0,1,0,1,0,0,1,2006
+27619,"Hiawatha, IA","Nodaway, IA",1,0,0,0,1,0,1,0,0,1,2006
+27625,"Hiawatha, IA","Oakville, IA",1,0,0,0,0,1,1,0,0,1,2006
+27628,"Hiawatha, IA","Onawa, IA",1,0,0,0,1,0,1,0,0,1,2006
+27629,"Hiawatha, IA","Orange City, IA",0,1,0,0,0,1,0,1,0,1,2006
+27639,"Hiawatha, IA","Pacific Junction, IA",1,0,0,0,1,0,1,0,0,1,2006
+27638,"Hiawatha, IA","Oyens, IA",0,1,0,1,0,0,0,0,1,1,2006
+27555,"Hiawatha, IA","Macksburg, IA",0,0,1,0,0,1,0,1,0,1,2006
+27552,"Hiawatha, IA","Luther, IA",0,1,0,0,1,0,0,0,1,1,2006
+27476,"Hiawatha, IA","Hancock, IA",1,0,0,0,1,0,0,1,0,1,2006
+27716,"Hiawatha, IA","Sloan, IA",0,1,0,0,1,0,0,1,0,1,2006
+27522,"Hiawatha, IA","Lakeside, IA",0,1,0,0,0,1,0,1,0,1,2006
+27516,"Hiawatha, IA","Klemme, IA",0,1,0,1,0,0,0,1,0,1,2006
+27710,"Hiawatha, IA","Sibley, IA",1,0,0,1,0,0,0,1,0,1,2006
+27515,"Hiawatha, IA","Kirkville, IA",1,0,0,0,1,0,0,1,0,1,2006
+27712,"Hiawatha, IA","Silver City, IA",0,1,0,0,1,0,0,1,0,1,2006
+27513,"Hiawatha, IA","Kimballton, IA",0,1,0,0,0,1,0,0,1,1,2006
+27507,"Hiawatha, IA","Kellerton, IA",1,0,0,0,0,1,1,0,0,1,2006
+27548,"Hiawatha, IA","Lost Nation, IA",0,1,0,0,0,1,0,1,0,1,2006
+27506,"Hiawatha, IA","Kamrar, IA",1,0,0,0,1,0,0,1,0,1,2006
+27504,"Hiawatha, IA","Joice, IA",1,0,0,0,1,0,1,0,0,1,2006
+27492,"Hiawatha, IA","Hubbard, IA",1,0,0,0,0,1,1,0,0,1,2006
+27723,"Hiawatha, IA","St. Lucas, IA",0,0,1,0,0,1,0,1,0,1,2006
+27490,"Hiawatha, IA","Hospers, IA",0,1,0,0,0,1,1,0,0,1,2006
+27477,"Hiawatha, IA","Harcourt, IA",1,0,0,0,0,1,0,1,0,1,2006
+27706,"Hiawatha, IA","Sheldon, IA",0,0,1,0,0,1,0,0,1,1,2006
+27705,"Hiawatha, IA","Sharpsburg, IA",1,0,0,1,0,0,0,0,1,1,2006
+27523,"Hiawatha, IA","Lakota, IA",0,1,0,0,1,0,0,0,1,1,2006
+27527,"Hiawatha, IA","Laurens, IA",0,1,0,0,1,0,0,1,0,1,2006
+27702,"Hiawatha, IA","Schleswig, IA",1,0,0,0,1,0,1,0,0,1,2006
+27701,"Hiawatha, IA","Sandyville, IA",0,1,0,0,1,0,0,0,1,1,2006
+27700,"Hiawatha, IA","Sanborn, IA",0,1,0,0,0,1,0,0,1,1,2006
+27533,"Hiawatha, IA","Ledyard, IA",0,1,0,0,0,1,0,1,0,1,2006
+27535,"Hiawatha, IA","Lester, IA",1,0,0,0,0,1,0,1,0,1,2006
+27695,"Hiawatha, IA","Ruthven, IA",0,0,1,0,0,1,0,1,0,1,2006
+27537,"Hiawatha, IA","Lidderdale, IA",1,0,0,0,1,0,0,1,0,1,2006
+27692,"Hiawatha, IA","Rome, IA",0,1,0,0,0,1,0,0,1,1,2006
+27690,"Hiawatha, IA","Rockwell City, IA",1,0,0,0,1,0,0,0,1,1,2006
+27688,"Hiawatha, IA","Rock Valley, IA",1,0,0,0,1,0,0,1,0,1,2006
+27687,"Hiawatha, IA","Rock Rapids, IA",0,1,0,0,0,1,0,0,1,1,2006
+27289,"Hiawatha, IA","Ackworth, IA",1,0,0,0,1,0,0,1,0,1,2006
+27547,"Hiawatha, IA","Lorimor, IA",0,1,0,1,0,0,1,0,0,1,2006
+27718,"Hiawatha, IA","South English, IA",0,1,0,0,1,0,0,1,0,1,2006

@@ -1,0 +1,111 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+52822,"Ogden, IA","Ogden, IA",20,96,44,12,111,37,62,52,46,160,2007
+52762,"Ogden, IA","Boone, IA",12,70,15,24,42,31,17,43,37,97,2007
+52791,"Ogden, IA","Fraser, IA",9,63,11,9,59,15,33,28,22,83,2007
+52750,"Ogden, IA","Ames, IA",20,25,7,31,14,7,11,31,10,52,2007
+52838,"Ogden, IA","Stanhope, IA",6,11,7,10,8,6,8,14,2,24,2007
+52782,"Ogden, IA","Dayton, IA",3,7,3,0,12,1,8,3,2,13,2007
+52841,"Ogden, IA","Stratford, IA",4,5,1,3,7,0,6,1,3,10,2007
+52790,"Ogden, IA","Fort Dodge, IA",1,7,1,1,6,2,1,7,1,9,2007
+52824,"Ogden, IA","Otho, IA",1,4,4,1,7,1,4,2,3,9,2007
+52810,"Ogden, IA","Madrid, IA",1,5,2,2,5,1,2,4,2,8,2007
+52817,"Ogden, IA","Nevada, IA",2,5,1,7,1,0,0,3,5,8,2007
+52802,"Ogden, IA","Jefferson, IA",1,3,4,0,4,4,2,3,3,8,2007
+52805,"Ogden, IA","Lehigh, IA",1,3,2,1,5,0,1,4,1,6,2007
+52801,"Ogden, IA","Huxley, IA",4,1,0,4,1,0,3,2,0,5,2007
+52797,"Ogden, IA","Grand Junction, IA",3,2,0,0,3,2,2,3,0,5,2007
+52749,"Ogden, IA","Altoona, IA",1,3,0,4,0,0,2,2,0,4,2007
+52767,"Ogden, IA","Carroll, IA",1,3,0,0,0,4,1,1,2,4,2007
+52775,"Ogden, IA","Clive, IA",0,4,0,1,2,1,4,0,0,4,2007
+52783,"Ogden, IA","Des Moines, IA",0,3,0,2,0,1,0,2,1,3,2007
+52826,"Ogden, IA","Perry, IA",0,2,1,0,1,2,1,2,0,3,2007
+52794,"Ogden, IA","Gilbert, IA",1,2,0,3,0,0,0,3,0,3,2007
+52845,"Ogden, IA","Urbandale, IA",0,3,0,2,0,1,1,1,1,3,2007
+52803,"Ogden, IA","Knierim, IA",2,1,0,0,3,0,0,2,1,3,2007
+52752,"Ogden, IA","Ankeny, IA",0,3,0,1,1,1,2,0,1,3,2007
+52785,"Ogden, IA","Ellsworth, IA",0,3,0,1,2,0,0,0,3,3,2007
+52813,"Ogden, IA","Marshalltown, IA",1,1,1,0,1,2,0,1,2,3,2007
+52807,"Ogden, IA","Linden, IA",0,1,2,0,0,3,0,2,1,3,2007
+52809,"Ogden, IA","Luther, IA",0,2,1,2,1,0,2,1,0,3,2007
+52808,"Ogden, IA","Livermore, IA",1,0,1,0,0,2,1,0,1,2,2007
+52835,"Ogden, IA","Roland, IA",0,0,2,1,0,1,1,0,1,2,2007
+52831,"Ogden, IA","Rhodes, IA",1,1,0,1,1,0,0,2,0,2,2007
+52814,"Ogden, IA","Mason City, IA",0,2,0,0,0,2,0,0,2,2,2007
+52819,"Ogden, IA","Nodaway, IA",0,1,1,0,1,1,0,1,1,2,2007
+52844,"Ogden, IA","Urbana, IA",0,2,0,0,1,1,0,2,0,2,2007
+52823,"Ogden, IA","Oskaloosa, IA",2,0,0,1,0,1,1,1,0,2,2007
+52842,"Ogden, IA","Tama, IA",0,2,0,2,0,0,1,1,0,2,2007
+52825,"Ogden, IA","Panora, IA",0,0,2,0,0,2,0,1,1,2,2007
+52840,"Ogden, IA","Story City, IA",0,2,0,0,1,1,1,1,0,2,2007
+52827,"Ogden, IA","Pleasant Hill, IA",0,2,0,2,0,0,0,1,1,2,2007
+52849,"Ogden, IA","Waukee, IA",0,2,0,0,0,2,0,0,2,2,2007
+52856,"Ogden, IA","Zearing, IA",1,0,1,2,0,0,0,1,1,2,2007
+52757,"Ogden, IA","Baxter, IA",0,2,0,0,0,2,0,2,0,2,2007
+52781,"Ogden, IA","Dawson, IA",2,0,0,0,1,1,0,2,0,2,2007
+52763,"Ogden, IA","Boxholm, IA",1,1,0,0,1,1,1,1,0,2,2007
+52769,"Ogden, IA","Cedar Falls, IA",0,0,2,0,2,0,2,0,0,2,2007
+52773,"Ogden, IA","Clear Lake, IA",0,0,2,1,0,1,0,1,1,2,2007
+52766,"Ogden, IA","Cambridge, IA",0,1,1,2,0,0,0,2,0,2,2007
+52851,"Ogden, IA","West Des Moines, IA",0,1,0,1,0,0,1,0,0,1,2007
+52850,"Ogden, IA","Webster City, IA",1,0,0,1,0,0,0,1,0,1,2007
+52855,"Ogden, IA","Woodward, IA",1,0,0,0,0,1,1,0,0,1,2007
+52761,"Ogden, IA","Bonaparte, IA",0,0,1,0,0,1,1,0,0,1,2007
+52828,"Ogden, IA","Randall, IA",0,1,0,0,1,0,1,0,0,1,2007
+52854,"Ogden, IA","Winterset, IA",0,0,1,0,0,1,1,0,0,1,2007
+52829,"Ogden, IA","Rathbun, IA",0,1,0,0,1,0,1,0,0,1,2007
+52830,"Ogden, IA","Raymond, IA",0,1,0,0,0,1,0,0,1,1,2007
+52760,"Ogden, IA","Belle Plaine, IA",0,0,1,0,0,1,0,0,1,1,2007
+52832,"Ogden, IA","Rinard, IA",0,0,1,0,1,0,0,0,1,1,2007
+52833,"Ogden, IA","Rippey, IA",0,0,1,0,0,1,1,0,0,1,2007
+52834,"Ogden, IA","Robins, IA",0,1,0,0,0,1,0,0,1,1,2007
+52759,"Ogden, IA","Bedford, IA",0,1,0,0,0,1,1,0,0,1,2007
+52836,"Ogden, IA","Schaller, IA",0,0,1,0,0,1,0,1,0,1,2007
+52853,"Ogden, IA","Windsor Heights, IA",0,1,0,1,0,0,0,1,0,1,2007
+52837,"Ogden, IA","Sheffield, IA",0,0,1,0,0,1,1,0,0,1,2007
+52758,"Ogden, IA","Bayard, IA",1,0,0,0,0,1,1,0,0,1,2007
+52839,"Ogden, IA","Storm Lake, IA",0,0,1,0,0,1,0,0,1,1,2007
+52764,"Ogden, IA","Brighton, IA",0,1,0,0,1,0,1,0,0,1,2007
+52756,"Ogden, IA","Bancroft, IA",0,1,0,0,0,1,0,0,1,1,2007
+52755,"Ogden, IA","Balltown, IA",1,0,0,0,0,1,1,0,0,1,2007
+52843,"Ogden, IA","Toledo, IA",0,0,1,1,0,0,1,0,0,1,2007
+52754,"Ogden, IA","Bagley, IA",0,1,0,0,1,0,1,0,0,1,2007
+52753,"Ogden, IA","Audubon, IA",0,1,0,0,0,1,1,0,0,1,2007
+52846,"Ogden, IA","Walford, IA",1,0,0,1,0,0,0,1,0,1,2007
+52847,"Ogden, IA","Wall Lake, IA",0,1,0,0,0,1,0,1,0,1,2007
+52848,"Ogden, IA","Waterloo, IA",0,0,1,0,1,0,1,0,0,1,2007
+52852,"Ogden, IA","Whittemore, IA",0,1,0,0,0,1,0,1,0,1,2007
+52751,"Ogden, IA","Anita, IA",0,1,0,0,0,1,0,0,1,1,2007
+52788,"Ogden, IA","Farmington, IA",0,0,1,0,0,1,1,0,0,1,2007
+52768,"Ogden, IA","Casey, IA",0,1,0,0,0,1,0,0,1,1,2007
+52765,"Ogden, IA","Camanche, IA",1,0,0,1,0,0,1,0,0,1,2007
+52789,"Ogden, IA","Farnhamville, IA",1,0,0,0,1,0,1,0,0,1,2007
+52787,"Ogden, IA","Exira, IA",0,1,0,0,0,1,0,0,1,1,2007
+52786,"Ogden, IA","Evansdale, IA",0,1,0,0,0,1,0,0,1,1,2007
+52792,"Ogden, IA","Garner, IA",0,0,1,0,0,1,0,0,1,1,2007
+52793,"Ogden, IA","Garwin, IA",0,0,1,1,0,0,0,0,1,1,2007
+52784,"Ogden, IA","Eagle Grove, IA",0,0,1,0,1,0,1,0,0,1,2007
+52795,"Ogden, IA","Gilbertville, IA",0,0,1,0,1,0,1,0,0,1,2007
+52796,"Ogden, IA","Glenwood, IA",0,1,0,0,0,1,0,1,0,1,2007
+52798,"Ogden, IA","Granger, IA",1,0,0,0,0,1,1,0,0,1,2007
+52799,"Ogden, IA","Grant, IA",0,1,0,0,0,1,0,0,1,1,2007
+52800,"Ogden, IA","Hamburg, IA",0,1,0,0,0,1,1,0,0,1,2007
+52780,"Ogden, IA","Cromwell, IA",1,0,0,0,1,0,1,0,0,1,2007
+52748,"Ogden, IA","Albia, IA",1,0,0,1,0,0,1,0,0,1,2007
+52779,"Ogden, IA","Creston, IA",1,0,0,0,0,1,1,0,0,1,2007
+52804,"Ogden, IA","La Porte City, IA",0,1,0,0,0,1,0,0,1,1,2007
+52778,"Ogden, IA","Corwith, IA",0,1,0,0,0,1,0,0,1,1,2007
+52806,"Ogden, IA","Lewis, IA",0,1,0,0,0,1,0,0,1,1,2007
+52777,"Ogden, IA","Coon Rapids, IA",0,1,0,0,0,1,0,1,0,1,2007
+52776,"Ogden, IA","Colo, IA",1,0,0,1,0,0,0,1,0,1,2007
+52774,"Ogden, IA","Clio, IA",0,1,0,0,1,0,0,1,0,1,2007
+52811,"Ogden, IA","Manning, IA",1,0,0,0,0,1,0,1,0,1,2007
+52812,"Ogden, IA","Manson, IA",0,1,0,0,1,0,0,1,0,1,2007
+52772,"Ogden, IA","Churdan, IA",0,0,1,0,0,1,0,0,1,1,2007
+52771,"Ogden, IA","Centerville, IA",0,1,0,0,0,1,0,1,0,1,2007
+52815,"Ogden, IA","Missouri Valley, IA",1,0,0,0,0,1,0,1,0,1,2007
+52816,"Ogden, IA","Mount Auburn, IA",0,1,0,0,0,1,0,1,0,1,2007
+52770,"Ogden, IA","Center Point, IA",1,0,0,0,1,0,0,1,0,1,2007
+52818,"Ogden, IA","Newton, IA",1,0,0,1,0,0,0,1,0,1,2007
+52820,"Ogden, IA","Norway, IA",0,0,1,0,1,0,0,1,0,1,2007
+52821,"Ogden, IA","Ocheyedan, IA",1,0,0,0,0,1,1,0,0,1,2007
+52747,"Ogden, IA","Adair, IA",0,1,0,0,0,1,0,0,1,1,2007

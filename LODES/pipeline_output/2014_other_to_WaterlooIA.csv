@@ -1,0 +1,475 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+76441,"Waterloo, IA","Waterloo, IA",3082,6337,2767,2844,7474,1868,3227,4837,4122,12186,2014
+76066,"Waterloo, IA","Cedar Falls, IA",1386,3077,1166,1437,3447,745,1017,1746,2866,5629,2014
+76142,"Waterloo, IA","Evansdale, IA",401,1076,581,509,1266,283,457,711,890,2058,2014
+76134,"Waterloo, IA","Elk Run Heights, IA",197,519,218,290,523,121,185,316,433,934,2014
+76114,"Waterloo, IA","Denver, IA",151,488,172,283,439,89,137,232,442,811,2014
+76445,"Waterloo, IA","Waverly, IA",133,457,123,181,444,88,106,222,385,713,2014
+76353,"Waterloo, IA","Raymond, IA",114,339,146,182,356,61,119,213,267,599,2014
+76145,"Waterloo, IA","Fairbank, IA",103,327,111,236,250,55,81,164,296,541,2014
+76226,"Waterloo, IA","La Porte City, IA",80,318,123,147,303,71,81,194,246,521,2014
+76067,"Waterloo, IA","Cedar Rapids, IA",178,256,67,51,251,199,170,170,161,501,2014
+76214,"Waterloo, IA","Janesville, IA",78,273,100,174,226,51,66,121,264,451,2014
+76336,"Waterloo, IA","Parkersburg, IA",75,248,73,119,212,65,56,133,207,396,2014
+76216,"Waterloo, IA","Jesup, IA",89,225,78,161,178,53,53,141,198,392,2014
+76207,"Waterloo, IA","Independence, IA",79,226,42,131,170,46,44,117,186,347,2014
+76115,"Waterloo, IA","Des Moines, IA",118,165,46,105,131,93,96,82,151,329,2014
+76296,"Waterloo, IA","Mount Auburn, IA",54,200,71,104,172,49,56,112,157,325,2014
+76354,"Waterloo, IA","Readlyn, IA",57,200,66,161,135,27,40,95,188,323,2014
+76267,"Waterloo, IA","Marshalltown, IA",85,118,51,36,144,74,106,80,68,254,2014
+76358,"Waterloo, IA","Reinbeck, IA",48,132,69,71,144,34,39,84,126,249,2014
+76319,"Waterloo, IA","Oelwein, IA",54,144,50,82,126,40,25,98,125,248,2014
+76202,"Waterloo, IA","Hudson, IA",50,134,63,61,152,34,54,81,112,247,2014
+76123,"Waterloo, IA","Dunkerton, IA",39,145,50,98,115,21,38,58,138,234,2014
+76294,"Waterloo, IA","Morrison, IA",39,151,37,81,110,36,32,67,128,227,2014
+76122,"Waterloo, IA","Dubuque, IA",85,95,40,48,111,61,66,68,86,220,2014
+76106,"Waterloo, IA","Davenport, IA",84,94,34,36,109,67,71,64,77,212,2014
+76198,"Waterloo, IA","Hazleton, IA",26,135,29,86,83,21,20,52,118,190,2014
+76200,"Waterloo, IA","Hiawatha, IA",84,73,28,11,98,76,69,74,42,185,2014
+76383,"Waterloo, IA","Shell Rock, IA",33,105,45,68,84,31,29,59,95,183,2014
+76171,"Waterloo, IA","Gilbertville, IA",41,108,28,75,85,17,17,58,102,177,2014
+76013,"Waterloo, IA","Ames, IA",57,92,27,63,73,40,45,42,89,176,2014
+76305,"Waterloo, IA","New Hampton, IA",46,92,37,77,75,23,30,52,93,175,2014
+76306,"Waterloo, IA","New Hartford, IA",39,100,35,50,91,33,29,61,84,174,2014
+76270,"Waterloo, IA","Mason City, IA",67,65,33,14,104,47,64,58,43,165,2014
+76183,"Waterloo, IA","Grundy Center, IA",44,89,23,33,103,20,35,54,67,156,2014
+76125,"Waterloo, IA","Dysart, IA",32,86,35,30,111,12,21,46,86,153,2014
+76411,"Waterloo, IA","Sumner, IA",26,100,23,70,63,16,8,49,92,149,2014
+76365,"Waterloo, IA","Robins, IA",45,73,29,13,80,54,47,53,47,147,2014
+76450,"Waterloo, IA","Wellsburg, IA",27,92,27,45,82,19,20,41,85,146,2014
+76016,"Waterloo, IA","Ankeny, IA",49,71,24,62,45,37,33,29,82,144,2014
+76419,"Waterloo, IA","Traer, IA",27,85,29,41,86,14,26,51,64,141,2014
+76211,"Waterloo, IA","Iowa City, IA",52,64,22,7,80,51,42,53,43,138,2014
+76427,"Waterloo, IA","Urbana, IA",27,71,32,43,66,21,22,31,77,130,2014
+76118,"Waterloo, IA","Dike, IA",31,79,14,33,79,12,18,53,53,124,2014
+76165,"Waterloo, IA","Frederika, IA",29,65,25,48,62,9,13,37,69,119,2014
+76080,"Waterloo, IA","Clinton, IA",31,64,20,36,48,31,27,32,56,115,2014
+76343,"Waterloo, IA","Pleasant Hill, IA",32,68,15,30,46,39,28,35,52,115,2014
+76129,"Waterloo, IA","Elberon, IA",22,66,27,29,70,16,19,42,54,115,2014
+76463,"Waterloo, IA","Windsor Heights, IA",35,63,17,36,50,29,34,30,51,115,2014
+76391,"Waterloo, IA","Sioux City, IA",40,46,24,21,46,43,37,44,29,110,2014
+76245,"Waterloo, IA","Lincoln, IA",23,68,18,35,58,16,24,28,57,109,2014
+76096,"Waterloo, IA","Council Bluffs, IA",38,50,20,20,50,38,43,30,35,108,2014
+75999,"Waterloo, IA","Ackley, IA",25,59,16,31,58,11,17,37,46,100,2014
+76109,"Waterloo, IA","Decorah, IA",37,40,22,7,62,30,29,42,28,99,2014
+76443,"Waterloo, IA","Waukee, IA",30,47,20,32,41,24,27,25,45,97,2014
+76082,"Waterloo, IA","Clive, IA",24,53,16,36,36,21,20,15,58,93,2014
+76302,"Waterloo, IA","Nashua, IA",36,39,16,29,43,19,26,24,41,91,2014
+76403,"Waterloo, IA","Stanley, IA",13,59,16,43,39,6,18,20,50,88,2014
+76341,"Waterloo, IA","Plainfield, IA",11,59,18,39,44,5,9,27,52,88,2014
+76328,"Waterloo, IA","Ottumwa, IA",21,48,18,43,28,16,19,12,56,87,2014
+76042,"Waterloo, IA","Bettendorf, IA",22,47,13,14,41,27,20,25,37,82,2014
+76454,"Waterloo, IA","West Des Moines, IA",24,44,10,24,39,15,17,19,42,78,2014
+76049,"Waterloo, IA","Brandon, IA",8,48,20,20,39,17,18,22,36,76,2014
+76428,"Waterloo, IA","Urbandale, IA",30,33,13,23,29,24,18,25,33,76,2014
+76212,"Waterloo, IA","Iowa Falls, IA",23,34,16,5,37,31,26,26,21,73,2014
+76022,"Waterloo, IA","Asbury, IA",31,34,5,14,40,16,22,19,29,70,2014
+76164,"Waterloo, IA","Fredericksburg, IA",12,43,14,25,41,3,11,20,38,69,2014
+76420,"Waterloo, IA","Tripoli, IA",9,43,16,29,33,6,8,11,49,68,2014
+76218,"Waterloo, IA","Johnston, IA",21,37,8,29,24,13,14,15,37,66,2014
+76436,"Waterloo, IA","Walker, IA",5,43,16,22,28,14,6,18,40,64,2014
+76432,"Waterloo, IA","Vinton, IA",20,34,9,14,37,12,15,20,28,63,2014
+76083,"Waterloo, IA","Clutier, IA",10,35,15,14,41,5,10,18,32,60,2014
+76055,"Waterloo, IA","Burlington, IA",25,27,6,7,25,26,24,23,11,58,2014
+76316,"Waterloo, IA","Norwalk, IA",17,35,5,16,23,18,19,13,25,57,2014
+76456,"Waterloo, IA","West Union, IA",11,37,8,14,33,9,14,13,29,56,2014
+76310,"Waterloo, IA","Newton, IA",21,26,8,20,20,15,17,9,29,55,2014
+76159,"Waterloo, IA","Fort Dodge, IA",15,28,10,8,27,18,22,15,16,53,2014
+76009,"Waterloo, IA","Allison, IA",8,34,9,15,27,9,6,20,25,51,2014
+76301,"Waterloo, IA","Muscatine, IA",17,25,9,5,28,18,17,23,11,51,2014
+76466,"Waterloo, IA","Winthrop, IA",10,31,8,11,31,7,11,15,23,49,2014
+76289,"Waterloo, IA","Monticello, IA",17,21,11,7,28,14,17,15,17,49,2014
+76299,"Waterloo, IA","Mount Vernon, IA",20,22,4,3,22,21,15,17,14,46,2014
+76012,"Waterloo, IA","Altoona, IA",13,25,7,19,15,11,9,10,26,45,2014
+76041,"Waterloo, IA","Bertram, IA",14,22,7,5,20,18,12,14,17,43,2014
+76131,"Waterloo, IA","Eldora, IA",17,19,7,7,26,10,17,14,12,43,2014
+76181,"Waterloo, IA","Grimes, IA",14,23,6,16,21,6,6,16,21,43,2014
+76334,"Waterloo, IA","Palo, IA",17,15,11,5,23,15,18,13,12,43,2014
+76262,"Waterloo, IA","Maquoketa, IA",15,21,5,10,17,14,11,10,20,41,2014
+76346,"Waterloo, IA","Polk City, IA",15,22,4,11,22,8,12,13,16,41,2014
+76059,"Waterloo, IA","Carlisle, IA",9,27,5,20,14,7,7,9,25,41,2014
+76028,"Waterloo, IA","Aurora, IA",7,26,8,14,24,3,8,10,23,41,2014
+76329,"Waterloo, IA","Owasa, IA",7,26,7,13,22,5,6,16,18,40,2014
+76043,"Waterloo, IA","Blairstown, IA",9,22,9,11,22,7,17,9,14,40,2014
+76040,"Waterloo, IA","Bennett, IA",10,22,7,12,18,9,11,9,19,39,2014
+76415,"Waterloo, IA","Tiffin, IA",12,17,10,4,21,14,11,15,13,39,2014
+76418,"Waterloo, IA","Toledo, IA",11,18,9,7,25,6,12,15,11,38,2014
+76352,"Waterloo, IA","Randalia, IA",11,22,5,17,17,4,3,14,21,38,2014
+76100,"Waterloo, IA","Cresco, IA",14,13,11,2,24,12,12,15,11,38,2014
+76444,"Waterloo, IA","Waukon, IA",17,9,12,4,22,12,21,12,5,38,2014
+76208,"Waterloo, IA","Indianola, IA",14,12,10,8,14,14,10,13,13,36,2014
+76425,"Waterloo, IA","University Heights, IA",14,15,7,0,21,15,13,11,12,36,2014
+76373,"Waterloo, IA","Ryan, IA",14,16,6,5,21,10,11,12,13,36,2014
+76014,"Waterloo, IA","Anamosa, IA",16,17,3,6,22,8,12,12,12,36,2014
+76073,"Waterloo, IA","Charles City, IA",14,15,7,8,16,12,15,12,9,36,2014
+76254,"Waterloo, IA","Luana, IA",11,14,11,3,21,12,15,10,11,36,2014
+76314,"Waterloo, IA","North Liberty, IA",16,16,3,1,20,14,17,8,10,35,2014
+76046,"Waterloo, IA","Boone, IA",18,13,4,9,15,11,10,10,15,35,2014
+76440,"Waterloo, IA","Washington, IA",18,9,7,2,20,12,12,14,8,34,2014
+76092,"Waterloo, IA","Coralville, IA",16,14,4,1,19,14,17,10,7,34,2014
+76225,"Waterloo, IA","Knoxville, IA",10,11,13,13,13,8,7,4,23,34,2014
+76146,"Waterloo, IA","Fairfax, IA",13,15,5,5,17,11,7,14,12,33,2014
+76258,"Waterloo, IA","Manchester, IA",6,19,8,9,15,9,6,5,22,33,2014
+76153,"Waterloo, IA","Fayette, IA",12,13,7,10,16,6,7,14,11,32,2014
+76168,"Waterloo, IA","Garwin, IA",7,17,8,13,16,3,5,11,16,32,2014
+76107,"Waterloo, IA","De Soto, IA",10,18,3,8,15,8,8,9,14,31,2014
+76413,"Waterloo, IA","Tama, IA",7,14,10,10,16,5,5,11,15,31,2014
+76182,"Waterloo, IA","Grinnell, IA",15,7,8,7,8,15,10,16,4,30,2014
+76359,"Waterloo, IA","Rhodes, IA",9,17,4,11,12,7,7,9,14,30,2014
+76090,"Waterloo, IA","Conrad, IA",7,14,9,2,23,5,5,15,10,30,2014
+76008,"Waterloo, IA","Algona, IA",15,11,4,4,20,6,9,12,9,30,2014
+76188,"Waterloo, IA","Hampton, IA",14,12,3,5,11,13,15,7,7,29,2014
+76186,"Waterloo, IA","Guttenberg, IA",8,12,9,6,16,7,13,5,11,29,2014
+76265,"Waterloo, IA","Marion, IA",10,12,7,2,15,12,9,12,8,29,2014
+76147,"Waterloo, IA","Fairfield, IA",6,17,5,20,3,5,2,5,21,28,2014
+76364,"Waterloo, IA","Riverside, IA",10,13,4,5,14,8,8,13,6,27,2014
+76051,"Waterloo, IA","Bristow, IA",6,18,3,12,7,8,8,9,10,27,2014
+76108,"Waterloo, IA","De Witt, IA",4,17,5,4,15,7,8,3,15,26,2014
+76089,"Waterloo, IA","Colwell, IA",6,11,9,9,15,2,6,8,12,26,2014
+76410,"Waterloo, IA","Strawberry Point, IA",9,13,4,1,15,10,8,13,5,26,2014
+76426,"Waterloo, IA","University Park, IA",4,16,6,13,7,6,4,9,13,26,2014
+76355,"Waterloo, IA","Reasnor, IA",10,12,3,8,7,10,5,7,13,25,2014
+76375,"Waterloo, IA","Sageville, IA",9,14,1,7,12,5,8,6,10,24,2014
+76158,"Waterloo, IA","Fort Atkinson, IA",11,12,1,8,12,4,7,8,9,24,2014
+76351,"Waterloo, IA","Protivin, IA",9,11,4,3,14,7,5,12,7,24,2014
+76339,"Waterloo, IA","Pella, IA",7,14,3,8,13,3,6,3,15,24,2014
+76229,"Waterloo, IA","Lake Mills, IA",13,8,3,3,13,8,9,9,6,24,2014
+76236,"Waterloo, IA","Le Claire, IA",9,12,3,5,13,6,7,8,9,24,2014
+76035,"Waterloo, IA","Beaman, IA",7,11,6,5,15,4,5,8,11,24,2014
+76315,"Waterloo, IA","Northwood, IA",6,10,7,1,15,7,9,5,9,23,2014
+76435,"Waterloo, IA","Walford, IA",6,13,4,3,11,9,8,11,4,23,2014
+76101,"Waterloo, IA","Creston, IA",4,15,4,13,5,5,2,3,18,23,2014
+76237,"Waterloo, IA","Le Grand, IA",6,13,4,5,9,9,5,10,8,23,2014
+76065,"Waterloo, IA","Castalia, IA",8,8,7,4,13,6,9,9,5,23,2014
+76007,"Waterloo, IA","Alden, IA",5,8,10,3,12,8,4,10,9,23,2014
+76052,"Waterloo, IA","Britt, IA",10,7,6,1,14,8,11,9,3,23,2014
+76340,"Waterloo, IA","Perry, IA",9,9,4,3,10,9,9,5,8,22,2014
+76057,"Waterloo, IA","Camanche, IA",8,11,3,4,9,9,8,5,9,22,2014
+76063,"Waterloo, IA","Cascade, IA",5,11,6,3,11,8,6,9,7,22,2014
+76248,"Waterloo, IA","Liscomb, IA",7,11,4,1,16,5,6,7,9,22,2014
+76069,"Waterloo, IA","Center Point, IA",8,11,3,4,9,9,4,8,10,22,2014
+76401,"Waterloo, IA","Stacyville, IA",10,8,4,5,9,8,11,5,6,22,2014
+76274,"Waterloo, IA","McIntire, IA",7,10,4,2,14,5,9,7,5,21,2014
+76079,"Waterloo, IA","Clear Lake, IA",10,6,5,4,11,6,9,6,6,21,2014
+76264,"Waterloo, IA","Marengo, IA",11,7,3,1,15,5,8,7,6,21,2014
+76124,"Waterloo, IA","Dyersville, IA",4,15,2,5,12,4,6,5,10,21,2014
+76235,"Waterloo, IA","Lawler, IA",3,13,5,5,14,2,3,10,8,21,2014
+76000,"Waterloo, IA","Ackworth, IA",12,7,1,4,8,8,5,6,9,20,2014
+76138,"Waterloo, IA","Ely, IA",5,11,4,0,11,9,6,8,6,20,2014
+76037,"Waterloo, IA","Belle Plaine, IA",8,9,3,4,15,1,8,7,5,20,2014
+76157,"Waterloo, IA","Forest City, IA",7,10,3,3,12,5,9,4,7,20,2014
+76285,"Waterloo, IA","Mitchellville, IA",8,7,5,5,10,5,8,5,7,20,2014
+76015,"Waterloo, IA","Andover, IA",9,6,5,8,7,5,5,3,12,20,2014
+76010,"Waterloo, IA","Alta Vista, IA",6,9,5,5,15,0,7,4,9,20,2014
+76160,"Waterloo, IA","Fort Madison, IA",6,9,5,1,13,6,7,7,6,20,2014
+76252,"Waterloo, IA","Lone Tree, IA",8,7,4,3,6,10,5,6,8,19,2014
+76113,"Waterloo, IA","Denison, IA",6,9,4,2,8,9,4,10,5,19,2014
+76385,"Waterloo, IA","Shueyville, IA",5,12,2,0,12,7,6,6,7,19,2014
+76006,"Waterloo, IA","Albion, IA",5,11,3,4,10,5,8,3,8,19,2014
+76156,"Waterloo, IA","Floyd, IA",11,5,3,2,13,4,9,8,2,19,2014
+76350,"Waterloo, IA","Preston, IA",2,14,3,4,8,7,5,3,11,19,2014
+76071,"Waterloo, IA","Central City, IA",3,13,2,1,10,7,9,3,6,18,2014
+76167,"Waterloo, IA","Garner, IA",5,10,3,4,7,7,7,2,9,18,2014
+76032,"Waterloo, IA","Balltown, IA",8,9,1,4,10,4,9,2,7,18,2014
+76457,"Waterloo, IA","Wheatland, IA",5,10,3,1,11,6,8,4,6,18,2014
+76172,"Waterloo, IA","Gilman, IA",8,6,4,4,8,6,6,7,5,18,2014
+76396,"Waterloo, IA","Springbrook, IA",9,6,3,2,9,7,6,7,5,18,2014
+76293,"Waterloo, IA","Morley, IA",7,6,5,3,10,5,5,9,4,18,2014
+76297,"Waterloo, IA","Mount Pleasant, IA",8,7,3,2,11,5,5,9,4,18,2014
+76408,"Waterloo, IA","Story City, IA",5,10,2,8,6,3,4,4,9,17,2014
+76060,"Waterloo, IA","Carroll, IA",3,8,6,5,7,5,5,3,9,17,2014
+76308,"Waterloo, IA","New Sharon, IA",1,11,5,11,5,1,2,2,13,17,2014
+76050,"Waterloo, IA","Brighton, IA",3,9,5,4,10,3,3,4,10,17,2014
+76210,"Waterloo, IA","Ionia, IA",5,8,4,2,12,3,5,6,6,17,2014
+76414,"Waterloo, IA","Thompson, IA",7,6,4,2,9,6,9,3,5,17,2014
+76238,"Waterloo, IA","Le Mars, IA",6,9,2,2,6,9,11,4,2,17,2014
+76255,"Waterloo, IA","Lynnville, IA",5,7,5,5,10,2,7,4,6,17,2014
+76277,"Waterloo, IA","Melcher-Dallas, IA",6,11,0,8,7,2,4,2,11,17,2014
+76253,"Waterloo, IA","Long Grove, IA",5,10,2,1,11,5,4,8,5,17,2014
+76072,"Waterloo, IA","Chariton, IA",1,11,4,10,2,4,3,2,11,16,2014
+76433,"Waterloo, IA","Wadena, IA",3,11,2,2,13,1,2,8,6,16,2014
+76150,"Waterloo, IA","Farmington, IA",2,12,2,10,3,3,2,2,12,16,2014
+76068,"Waterloo, IA","Center Junction, IA",7,6,3,0,14,2,10,4,2,16,2014
+76148,"Waterloo, IA","Farley, IA",6,4,6,3,7,6,6,5,5,16,2014
+76324,"Waterloo, IA","Osage, IA",6,6,4,3,10,3,9,3,4,16,2014
+76197,"Waterloo, IA","Hawkeye, IA",5,8,3,4,7,5,4,2,10,16,2014
+76290,"Waterloo, IA","Montour, IA",4,12,0,4,9,3,4,7,5,16,2014
+76406,"Waterloo, IA","Steamboat Rock, IA",3,7,6,4,9,3,5,4,7,16,2014
+76412,"Waterloo, IA","Swea City, IA",3,8,5,2,7,7,7,4,5,16,2014
+76087,"Waterloo, IA","Colo, IA",2,12,2,5,3,8,2,3,11,16,2014
+76220,"Waterloo, IA","Keokuk, IA",5,7,4,1,10,5,5,7,4,16,2014
+76175,"Waterloo, IA","Grand Mound, IA",7,6,3,7,6,3,5,2,9,16,2014
+76407,"Waterloo, IA","Storm Lake, IA",4,6,5,2,5,8,7,6,2,15,2014
+76275,"Waterloo, IA","Mechanicsville, IA",3,5,7,4,6,5,3,6,6,15,2014
+76086,"Waterloo, IA","Colfax, IA",3,7,5,6,5,4,5,3,7,15,2014
+76247,"Waterloo, IA","Lineville, IA",3,8,4,7,3,5,4,5,6,15,2014
+76154,"Waterloo, IA","Ferguson, IA",5,7,3,0,11,4,6,4,5,15,2014
+76179,"Waterloo, IA","Greene, IA",3,10,2,8,4,3,3,1,11,15,2014
+76111,"Waterloo, IA","Delaware, IA",4,6,5,4,7,4,3,6,6,15,2014
+76136,"Waterloo, IA","Elkport, IA",5,8,2,5,4,6,6,0,9,15,2014
+76062,"Waterloo, IA","Carter Lake, IA",3,9,3,4,8,3,9,2,4,15,2014
+76390,"Waterloo, IA","Sioux Center, IA",8,4,3,4,5,6,6,4,5,15,2014
+76058,"Waterloo, IA","Cambridge, IA",5,8,2,3,9,3,6,3,6,15,2014
+76053,"Waterloo, IA","Brooklyn, IA",7,7,1,2,8,5,6,2,7,15,2014
+76363,"Waterloo, IA","Riverdale, IA",7,5,3,1,8,6,8,4,3,15,2014
+76368,"Waterloo, IA","Rockwell, IA",7,5,3,1,12,2,6,4,5,15,2014
+76024,"Waterloo, IA","Atkins, IA",2,10,3,3,5,7,5,3,7,15,2014
+76295,"Waterloo, IA","Moulton, IA",3,9,2,9,4,1,2,2,10,14,2014
+76398,"Waterloo, IA","St. Lucas, IA",4,8,2,4,8,2,2,2,10,14,2014
+76465,"Waterloo, IA","Winterset, IA",4,8,2,4,6,4,6,0,8,14,2014
+76282,"Waterloo, IA","Minburn, IA",3,10,1,5,6,3,5,2,7,14,2014
+76078,"Waterloo, IA","Clarksville, IA",2,9,3,5,6,3,3,3,8,14,2014
+76140,"Waterloo, IA","Epworth, IA",4,7,3,2,11,1,5,3,6,14,2014
+76468,"Waterloo, IA","Woodward, IA",0,7,7,5,4,5,1,5,8,14,2014
+76356,"Waterloo, IA","Red Oak, IA",4,8,2,3,4,7,4,6,4,14,2014
+76304,"Waterloo, IA","New Albin, IA",7,6,1,3,6,5,5,6,3,14,2014
+76190,"Waterloo, IA","Harpers Ferry, IA",4,9,1,1,12,1,3,5,6,14,2014
+76221,"Waterloo, IA","Keosauqua, IA",7,4,3,3,1,10,5,4,5,14,2014
+76204,"Waterloo, IA","Huxley, IA",4,6,4,5,4,5,2,4,8,14,2014
+76005,"Waterloo, IA","Albia, IA",3,8,2,9,3,1,2,1,10,13,2014
+76303,"Waterloo, IA","Nevada, IA",1,7,5,7,5,1,3,1,9,13,2014
+76001,"Waterloo, IA","Adel, IA",4,8,1,6,5,2,2,2,9,13,2014
+76130,"Waterloo, IA","Eldon, IA",4,9,0,6,5,2,3,3,7,13,2014
+76257,"Waterloo, IA","Malcom, IA",5,6,2,3,8,2,3,3,7,13,2014
+76379,"Waterloo, IA","Sergeant Bluff, IA",2,9,2,3,6,4,5,6,2,13,2014
+76120,"Waterloo, IA","Donnellson, IA",2,8,3,3,6,4,4,5,4,13,2014
+76132,"Waterloo, IA","Eldridge, IA",3,9,1,1,4,8,5,4,4,13,2014
+76307,"Waterloo, IA","New London, IA",3,6,4,2,6,5,6,5,2,13,2014
+76070,"Waterloo, IA","Centerville, IA",3,6,4,4,6,3,3,3,7,13,2014
+76244,"Waterloo, IA","Lime Springs, IA",4,7,1,1,8,3,5,3,4,12,2014
+76322,"Waterloo, IA","Orange City, IA",9,3,0,4,6,2,2,4,6,12,2014
+76447,"Waterloo, IA","Webster City, IA",5,6,1,2,8,2,1,7,4,12,2014
+76393,"Waterloo, IA","Spencer, IA",4,6,2,5,2,5,4,5,3,12,2014
+76231,"Waterloo, IA","Lamoni, IA",5,6,1,5,6,1,2,2,8,12,2014
+76437,"Waterloo, IA","Wall Lake, IA",4,5,3,1,6,5,5,3,4,12,2014
+76128,"Waterloo, IA","Eddyville, IA",7,4,1,4,7,1,4,4,4,12,2014
+76395,"Waterloo, IA","Spring Hill, IA",1,5,6,6,2,4,1,4,7,12,2014
+76121,"Waterloo, IA","Dougherty, IA",0,10,2,4,7,1,2,1,9,12,2014
+76349,"Waterloo, IA","Postville, IA",6,4,1,1,8,2,5,3,3,11,2014
+76031,"Waterloo, IA","Baldwin, IA",3,8,0,1,6,4,2,1,8,11,2014
+76272,"Waterloo, IA","McCausland, IA",7,4,0,3,5,3,4,2,5,11,2014
+76075,"Waterloo, IA","Chester, IA",2,7,2,1,8,2,4,3,4,11,2014
+76405,"Waterloo, IA","State Center, IA",6,4,1,1,8,2,5,2,4,11,2014
+76461,"Waterloo, IA","Williamsburg, IA",8,3,0,0,8,3,8,1,2,11,2014
+76292,"Waterloo, IA","Moravia, IA",2,6,3,7,3,1,3,0,8,11,2014
+76076,"Waterloo, IA","Clarinda, IA",5,3,3,1,6,4,8,1,2,11,2014
+76180,"Waterloo, IA","Greenfield, IA",3,8,0,7,2,2,5,1,5,11,2014
+76261,"Waterloo, IA","Manson, IA",3,6,2,3,5,3,3,5,3,11,2014
+76399,"Waterloo, IA","St. Marys, IA",3,6,2,6,2,3,2,3,6,11,2014
+76397,"Waterloo, IA","Springville, IA",5,4,2,0,7,4,2,7,2,11,2014
+76312,"Waterloo, IA","Nora Springs, IA",2,6,3,2,7,2,4,3,4,11,2014
+76326,"Waterloo, IA","Oskaloosa, IA",0,8,3,8,0,3,0,2,9,11,2014
+76166,"Waterloo, IA","Garnavillo, IA",3,7,1,0,9,2,4,4,3,11,2014
+76127,"Waterloo, IA","East Peru, IA",2,6,3,5,5,1,1,2,8,11,2014
+76246,"Waterloo, IA","Linden, IA",3,4,4,2,6,3,5,2,4,11,2014
+76259,"Waterloo, IA","Manly, IA",4,5,2,1,7,3,4,2,5,11,2014
+76189,"Waterloo, IA","Harlan, IA",2,6,3,0,5,6,4,5,2,11,2014
+76233,"Waterloo, IA","Larrabee, IA",6,4,1,2,7,2,4,3,4,11,2014
+76276,"Waterloo, IA","Melbourne, IA",3,2,5,4,3,3,3,3,4,10,2014
+76337,"Waterloo, IA","Parnell, IA",3,5,2,0,6,4,3,4,3,10,2014
+76219,"Waterloo, IA","Kalona, IA",3,5,2,2,6,2,7,2,1,10,2014
+76242,"Waterloo, IA","Lewis, IA",2,7,1,2,4,4,1,4,5,10,2014
+76240,"Waterloo, IA","Lenox, IA",3,5,2,2,7,1,4,2,4,10,2014
+76239,"Waterloo, IA","Le Roy, IA",5,4,1,2,6,2,4,1,5,10,2014
+76203,"Waterloo, IA","Humboldt, IA",1,8,1,1,5,4,2,4,4,10,2014
+76423,"Waterloo, IA","Union, IA",3,4,3,1,4,5,2,3,5,10,2014
+76360,"Waterloo, IA","Richland, IA",5,3,2,4,5,1,3,2,5,10,2014
+76439,"Waterloo, IA","Wapello, IA",2,6,2,1,5,4,2,5,3,10,2014
+76230,"Waterloo, IA","Lambs Grove, IA",5,4,1,5,3,2,3,2,5,10,2014
+76045,"Waterloo, IA","Blue Grass, IA",3,3,4,0,6,4,4,2,4,10,2014
+76256,"Waterloo, IA","Madrid, IA",5,5,0,3,4,3,2,1,7,10,2014
+76424,"Waterloo, IA","Unionville, IA",3,4,3,6,3,1,1,2,7,10,2014
+76287,"Waterloo, IA","Monona, IA",3,6,1,1,3,6,2,1,7,10,2014
+76143,"Waterloo, IA","Exira, IA",2,6,1,3,5,1,2,2,5,9,2014
+76201,"Waterloo, IA","Hubbard, IA",2,6,1,0,4,5,2,4,3,9,2014
+76313,"Waterloo, IA","North English, IA",3,3,3,3,2,4,3,4,2,9,2014
+76376,"Waterloo, IA","Sanborn, IA",3,3,3,2,6,1,3,3,3,9,2014
+76317,"Waterloo, IA","Norway, IA",5,4,0,0,9,0,4,4,1,9,2014
+76227,"Waterloo, IA","Lacona, IA",2,6,1,4,2,3,2,1,6,9,2014
+76155,"Waterloo, IA","Floris, IA",1,6,2,6,2,1,0,2,7,9,2014
+76093,"Waterloo, IA","Corning, IA",2,3,4,3,5,1,2,2,5,9,2014
+76416,"Waterloo, IA","Tipton, IA",2,5,2,1,5,3,3,4,2,9,2014
+76442,"Waterloo, IA","Waucoma, IA",3,6,0,4,5,0,2,1,6,9,2014
+76173,"Waterloo, IA","Glenwood, IA",2,4,3,5,2,2,1,3,5,9,2014
+76429,"Waterloo, IA","Van Horne, IA",3,5,1,0,7,2,3,3,3,9,2014
+76003,"Waterloo, IA","Agency, IA",3,1,5,3,3,3,2,3,4,9,2014
+76271,"Waterloo, IA","Maxwell, IA",4,4,1,0,5,4,3,3,3,9,2014
+76430,"Waterloo, IA","Victor, IA",3,4,2,0,6,3,5,4,0,9,2014
+76133,"Waterloo, IA","Elgin, IA",3,3,3,1,5,3,5,3,1,9,2014
+76417,"Waterloo, IA","Titonka, IA",2,3,4,1,4,4,6,1,2,9,2014
+76263,"Waterloo, IA","Marble Rock, IA",1,5,3,1,6,2,3,5,1,9,2014
+76184,"Waterloo, IA","Guernsey, IA",4,2,2,0,2,6,3,4,1,8,2014
+76449,"Waterloo, IA","Wellman, IA",4,3,1,4,2,2,3,3,2,8,2014
+76064,"Waterloo, IA","Casey, IA",2,5,1,2,2,4,1,4,3,8,2014
+76228,"Waterloo, IA","Ladora, IA",2,4,2,1,5,2,1,2,5,8,2014
+76448,"Waterloo, IA","Webster, IA",3,3,2,3,2,3,3,2,3,8,2014
+76017,"Waterloo, IA","Anthon, IA",5,2,1,2,2,4,2,3,3,8,2014
+76325,"Waterloo, IA","Osceola, IA",1,5,2,6,1,1,1,2,5,8,2014
+76361,"Waterloo, IA","Ridgeway, IA",7,0,1,2,4,2,2,4,2,8,2014
+76286,"Waterloo, IA","Mondamin, IA",3,4,1,1,6,1,3,4,1,8,2014
+76176,"Waterloo, IA","Grandview, IA",2,5,1,1,4,3,2,3,3,8,2014
+76452,"Waterloo, IA","West Burlington, IA",1,3,4,1,6,1,1,4,3,8,2014
+76094,"Waterloo, IA","Corwith, IA",2,5,1,1,6,1,3,3,2,8,2014
+76027,"Waterloo, IA","Aurelia, IA",1,6,1,1,5,2,2,3,3,8,2014
+76034,"Waterloo, IA","Battle Creek, IA",5,2,0,1,1,5,3,3,1,7,2014
+76366,"Waterloo, IA","Rock Rapids, IA",5,1,1,0,4,3,6,0,1,7,2014
+76384,"Waterloo, IA","Shenandoah, IA",2,5,0,1,4,2,1,2,4,7,2014
+76038,"Waterloo, IA","Bellevue, IA",2,5,0,0,5,2,1,4,2,7,2014
+76033,"Waterloo, IA","Batavia, IA",3,3,1,2,3,2,3,1,3,7,2014
+76347,"Waterloo, IA","Pomeroy, IA",3,3,1,1,5,1,2,0,5,7,2014
+76116,"Waterloo, IA","Diagonal, IA",0,4,3,4,1,2,1,1,5,7,2014
+76331,"Waterloo, IA","Oxford, IA",2,4,1,1,6,0,2,4,1,7,2014
+76342,"Waterloo, IA","Plano, IA",3,3,1,4,3,0,2,0,5,7,2014
+76335,"Waterloo, IA","Panama, IA",5,0,2,0,5,2,4,2,1,7,2014
+76056,"Waterloo, IA","Bussey, IA",2,2,3,4,2,1,1,0,6,7,2014
+76196,"Waterloo, IA","Hawarden, IA",2,3,2,3,3,1,2,3,2,7,2014
+76162,"Waterloo, IA","Franklin, IA",3,3,1,0,7,0,3,1,3,7,2014
+76025,"Waterloo, IA","Atlantic, IA",1,5,1,1,5,1,1,2,4,7,2014
+76320,"Waterloo, IA","Ogden, IA",3,4,0,4,2,1,1,2,4,7,2014
+76103,"Waterloo, IA","Dakota City, IA",2,4,1,0,5,2,2,3,2,7,2014
+76163,"Waterloo, IA","Fraser, IA",4,2,1,1,3,3,2,2,3,7,2014
+76462,"Waterloo, IA","Wilton, IA",2,3,2,1,3,3,2,2,3,7,2014
+76279,"Waterloo, IA","Merrill, IA",2,5,0,1,3,3,2,2,3,7,2014
+76371,"Waterloo, IA","Russell, IA",3,4,0,1,4,2,4,1,2,7,2014
+76288,"Waterloo, IA","Montezuma, IA",2,2,3,1,5,1,1,4,2,7,2014
+76250,"Waterloo, IA","Livermore, IA",2,3,2,2,2,3,4,1,2,7,2014
+76357,"Waterloo, IA","Redding, IA",1,3,2,4,1,1,0,1,5,6,2014
+76459,"Waterloo, IA","Whitten, IA",3,2,1,0,4,2,2,1,3,6,2014
+76217,"Waterloo, IA","Jewell Junction, IA",1,3,2,0,3,3,1,1,4,6,2014
+76251,"Waterloo, IA","Lockridge, IA",2,2,2,0,3,3,5,1,0,6,2014
+76215,"Waterloo, IA","Jefferson, IA",2,2,2,0,3,3,4,2,0,6,2014
+76039,"Waterloo, IA","Belmond, IA",0,3,3,0,0,6,2,2,2,6,2014
+76268,"Waterloo, IA","Martelle, IA",2,3,1,0,3,3,2,1,3,6,2014
+76241,"Waterloo, IA","Leon, IA",1,5,0,4,1,1,2,0,4,6,2014
+76019,"Waterloo, IA","Armstrong, IA",0,4,2,2,2,2,3,1,2,6,2014
+76232,"Waterloo, IA","Lansing, IA",1,4,1,1,2,3,2,1,3,6,2014
+76367,"Waterloo, IA","Rock Valley, IA",1,4,1,2,2,2,2,1,3,6,2014
+76185,"Waterloo, IA","Guthrie Center, IA",3,2,1,1,3,2,1,2,3,6,2014
+76088,"Waterloo, IA","Columbus Junction, IA",2,4,0,1,4,1,2,2,2,6,2014
+76095,"Waterloo, IA","Corydon, IA",2,3,1,3,0,3,1,2,3,6,2014
+76223,"Waterloo, IA","Keystone, IA",1,4,1,0,3,3,0,2,4,6,2014
+76402,"Waterloo, IA","Stanhope, IA",4,2,0,2,3,1,3,2,1,6,2014
+76023,"Waterloo, IA","Ashton, IA",3,2,1,4,1,1,1,2,3,6,2014
+76205,"Waterloo, IA","Ida Grove, IA",1,2,3,1,2,3,3,0,3,6,2014
+76018,"Waterloo, IA","Arlington, IA",1,5,0,0,4,2,1,2,3,6,2014
+76126,"Waterloo, IA","Eagle Grove, IA",4,2,0,0,3,3,4,2,0,6,2014
+76144,"Waterloo, IA","Exline, IA",2,3,1,1,3,2,1,1,4,6,2014
+76333,"Waterloo, IA","Pacific Junction, IA",1,5,0,1,1,4,3,1,2,6,2014
+76321,"Waterloo, IA","Onawa, IA",0,4,2,1,2,3,0,1,5,6,2014
+76011,"Waterloo, IA","Alton, IA",2,4,0,1,2,3,4,1,1,6,2014
+76209,"Waterloo, IA","Inwood, IA",1,3,2,1,2,3,3,1,2,6,2014
+76002,"Waterloo, IA","Afton, IA",0,4,1,2,2,1,0,1,4,5,2014
+76400,"Waterloo, IA","St. Olaf, IA",1,3,1,1,4,0,3,0,2,5,2014
+76388,"Waterloo, IA","Sigourney, IA",1,4,0,3,2,0,1,2,2,5,2014
+76470,"Waterloo, IA","Wyoming, IA",0,5,0,0,5,0,2,2,1,5,2014
+76382,"Waterloo, IA","Sheldon, IA",1,3,1,4,0,1,1,0,4,5,2014
+76377,"Waterloo, IA","Schaller, IA",1,2,2,1,1,3,1,1,3,5,2014
+76378,"Waterloo, IA","Schleswig, IA",2,3,0,1,1,3,2,1,2,5,2014
+76386,"Waterloo, IA","Sibley, IA",1,3,1,2,1,2,1,0,4,5,2014
+76380,"Waterloo, IA","Seymour, IA",1,2,2,2,2,1,2,1,2,5,2014
+76458,"Waterloo, IA","Whittemore, IA",2,2,1,2,1,2,2,1,2,5,2014
+76431,"Waterloo, IA","Vining, IA",1,2,2,2,1,2,2,0,3,5,2014
+76409,"Waterloo, IA","Stratford, IA",2,3,0,0,4,1,3,0,2,5,2014
+76394,"Waterloo, IA","Spirit Lake, IA",2,2,1,3,2,0,2,2,1,5,2014
+76135,"Waterloo, IA","Elkader, IA",3,1,1,0,3,2,2,3,0,5,2014
+76472,"Waterloo, IA","Zearing, IA",3,2,0,0,4,1,2,1,2,5,2014
+76117,"Waterloo, IA","Dickens, IA",3,2,0,1,2,2,1,2,2,5,2014
+76081,"Waterloo, IA","Clio, IA",1,3,1,2,2,1,1,1,3,5,2014
+76085,"Waterloo, IA","Coggon, IA",2,3,0,0,5,0,2,1,2,5,2014
+76243,"Waterloo, IA","Lidderdale, IA",0,4,1,2,1,2,0,3,2,5,2014
+76098,"Waterloo, IA","Crawfordsville, IA",2,3,0,1,3,1,3,2,0,5,2014
+76199,"Waterloo, IA","Henderson, IA",4,1,0,1,3,1,3,1,1,5,2014
+76105,"Waterloo, IA","Danville, IA",4,1,0,1,1,3,1,2,2,5,2014
+76192,"Waterloo, IA","Hartley, IA",2,2,1,3,2,0,2,1,2,5,2014
+76332,"Waterloo, IA","Oyens, IA",3,1,1,1,3,1,1,3,1,5,2014
+76177,"Waterloo, IA","Grant, IA",3,2,0,0,3,2,3,2,0,5,2014
+76112,"Waterloo, IA","Deloit, IA",2,0,3,0,4,1,2,1,2,5,2014
+76149,"Waterloo, IA","Farmersburg, IA",3,2,0,0,4,1,4,1,0,5,2014
+76047,"Waterloo, IA","Boxholm, IA",2,3,0,1,3,1,1,1,3,5,2014
+76370,"Waterloo, IA","Roland, IA",1,4,0,0,1,4,1,2,2,5,2014
+76151,"Waterloo, IA","Farnhamville, IA",2,3,0,2,3,0,2,1,2,5,2014
+76281,"Waterloo, IA","Millville, IA",1,4,0,1,3,1,1,1,3,5,2014
+76119,"Waterloo, IA","Dixon, IA",3,2,0,0,5,0,3,1,1,5,2014
+76280,"Waterloo, IA","Milford, IA",1,1,2,1,0,3,1,2,1,4,2014
+76249,"Waterloo, IA","Little Sioux, IA",1,2,1,1,1,2,2,1,1,4,2014
+76273,"Waterloo, IA","McClelland, IA",1,1,2,1,2,1,1,1,2,4,2014
+76269,"Waterloo, IA","Marysville, IA",1,3,0,1,2,1,1,1,2,4,2014
+76266,"Waterloo, IA","Marquette, IA",2,2,0,0,2,2,2,2,0,4,2014
+76471,"Waterloo, IA","Yetter, IA",0,2,2,1,2,1,0,0,4,4,2014
+76084,"Waterloo, IA","Coburg, IA",1,2,1,0,3,1,1,1,2,4,2014
+76170,"Waterloo, IA","George, IA",0,2,2,0,0,4,1,2,1,4,2014
+76469,"Waterloo, IA","Woolstock, IA",1,3,0,1,0,3,2,1,1,4,2014
+76152,"Waterloo, IA","Farragut, IA",2,0,2,0,2,2,2,2,0,4,2014
+76091,"Waterloo, IA","Coon Rapids, IA",0,3,1,1,3,0,3,0,1,4,2014
+76020,"Waterloo, IA","Arnolds Park, IA",2,2,0,3,1,0,0,2,2,4,2014
+76004,"Waterloo, IA","Ainsworth, IA",3,1,0,0,4,0,1,3,0,4,2014
+76434,"Waterloo, IA","Walcott, IA",3,1,0,2,1,1,2,0,2,4,2014
+76178,"Waterloo, IA","Gravity, IA",1,2,1,2,1,1,0,1,3,4,2014
+76195,"Waterloo, IA","Haverhill, IA",0,2,2,1,1,2,1,2,1,4,2014
+76455,"Waterloo, IA","West Liberty, IA",2,2,0,0,2,2,0,3,1,4,2014
+76422,"Waterloo, IA","Underwood, IA",2,1,1,1,2,1,1,2,1,4,2014
+76387,"Waterloo, IA","Sidney, IA",2,1,1,2,1,1,1,2,1,4,2014
+76298,"Waterloo, IA","Mount Union, IA",1,2,1,1,0,3,3,0,1,4,2014
+76323,"Waterloo, IA","Orient, IA",3,1,0,2,2,0,1,1,2,4,2014
+76283,"Waterloo, IA","Minden, IA",2,2,0,1,2,1,2,1,1,4,2014
+76374,"Waterloo, IA","Sac City, IA",2,2,0,0,2,2,2,0,2,4,2014
+76300,"Waterloo, IA","Moville, IA",2,1,1,0,3,1,2,2,0,4,2014
+76318,"Waterloo, IA","Oakland, IA",1,3,0,0,3,1,2,2,0,4,2014
+76344,"Waterloo, IA","Pleasant Plain, IA",2,2,0,0,3,1,2,1,1,4,2014
+76330,"Waterloo, IA","Oxford Junction, IA",0,3,1,0,4,0,0,0,4,4,2014
+76291,"Waterloo, IA","Montrose, IA",1,2,1,0,2,2,1,1,2,4,2014
+76077,"Waterloo, IA","Clarion, IA",2,2,0,0,3,1,2,0,2,4,2014
+76369,"Waterloo, IA","Rodney, IA",1,2,1,1,2,1,2,1,1,4,2014
+76284,"Waterloo, IA","Missouri Valley, IA",2,1,1,2,0,2,1,1,2,4,2014
+76338,"Waterloo, IA","Paullina, IA",0,4,0,0,2,2,1,1,2,4,2014
+76404,"Waterloo, IA","Stanton, IA",2,1,1,0,2,2,2,1,1,4,2014
+76054,"Waterloo, IA","Buffalo, IA",3,1,0,1,2,1,1,1,2,4,2014
+76453,"Waterloo, IA","West Chester, IA",0,2,1,0,1,2,2,1,0,3,2014
+76194,"Waterloo, IA","Havelock, IA",2,1,0,0,1,2,1,1,1,3,2014
+76467,"Waterloo, IA","Wiota, IA",1,1,1,0,0,3,2,1,0,3,2014
+76438,"Waterloo, IA","Wallingford, IA",1,2,0,2,0,1,1,0,2,3,2014
+76193,"Waterloo, IA","Hartwick, IA",3,0,0,0,3,0,2,1,0,3,2014
+76451,"Waterloo, IA","West Bend, IA",1,1,1,1,2,0,0,1,2,3,2014
+76099,"Waterloo, IA","Crescent, IA",3,0,0,0,3,0,2,1,0,3,2014
+76278,"Waterloo, IA","Meriden, IA",1,2,0,0,1,2,2,0,1,3,2014
+76139,"Waterloo, IA","Emmetsburg, IA",0,1,2,2,0,1,0,1,2,3,2014
+76222,"Waterloo, IA","Keota, IA",0,3,0,1,2,0,0,1,2,3,2014
+76389,"Waterloo, IA","Silver City, IA",0,2,1,0,2,1,0,2,1,3,2014
+76137,"Waterloo, IA","Elma, IA",1,1,1,0,3,0,0,3,0,3,2014
+76309,"Waterloo, IA","Newell, IA",1,2,0,1,1,1,0,2,1,3,2014
+76464,"Waterloo, IA","Winfield, IA",2,0,1,0,1,2,0,3,0,3,2014
+76036,"Waterloo, IA","Bedford, IA",1,2,0,2,0,1,0,1,2,3,2014
+76381,"Waterloo, IA","Shannon City, IA",0,2,1,1,0,2,0,1,2,3,2014
+76026,"Waterloo, IA","Audubon, IA",1,1,1,0,1,2,2,0,1,3,2014
+76029,"Waterloo, IA","Avoca, IA",1,1,1,0,2,1,0,2,1,3,2014
+76030,"Waterloo, IA","Bagley, IA",0,3,0,1,2,0,1,1,1,3,2014
+76348,"Waterloo, IA","Popejoy, IA",0,2,0,0,1,1,0,0,2,2,2014
+76174,"Waterloo, IA","Graettinger, IA",1,1,0,2,0,0,0,1,1,2,2014
+76460,"Waterloo, IA","Williams, IA",2,0,0,0,2,0,2,0,0,2,2014
+76345,"Waterloo, IA","Pocahontas, IA",1,0,1,0,1,1,1,0,1,2,2014
+76206,"Waterloo, IA","Imogene, IA",0,2,0,2,0,0,0,1,1,2,2014
+76446,"Waterloo, IA","Webb, IA",1,1,0,1,0,1,0,2,0,2,2014
+76110,"Waterloo, IA","Dedham, IA",0,1,1,0,1,1,2,0,0,2,2014
+76191,"Waterloo, IA","Harris, IA",1,0,1,0,1,1,0,1,1,2,2014
+76141,"Waterloo, IA","Estherville, IA",1,0,1,1,0,1,1,0,1,2,2014
+76104,"Waterloo, IA","Danbury, IA",0,1,1,0,1,1,1,0,1,2,2014
+76048,"Waterloo, IA","Boyden, IA",1,1,0,0,2,0,1,0,1,2,2014
+76102,"Waterloo, IA","Cushing, IA",0,1,1,0,2,0,1,0,1,2,2014
+76311,"Waterloo, IA","Nichols, IA",0,2,0,0,1,1,0,2,0,2,2014
+76021,"Waterloo, IA","Arthur, IA",0,2,0,1,0,1,1,1,0,2,2014
+76234,"Waterloo, IA","Laurens, IA",1,1,0,0,2,0,1,0,1,2,2014
+76074,"Waterloo, IA","Charter Oak, IA",1,1,0,0,1,1,1,0,1,2,2014
+76260,"Waterloo, IA","Manning, IA",0,2,0,1,1,0,0,0,2,2,2014
+76362,"Waterloo, IA","Rinard, IA",1,0,0,0,0,1,1,0,0,1,2014
+76044,"Waterloo, IA","Blanchard, IA",0,0,1,0,1,0,0,1,0,1,2014
+76061,"Waterloo, IA","Carson, IA",0,1,0,1,0,0,0,1,0,1,2014
+76161,"Waterloo, IA","Fostoria, IA",0,1,0,0,0,1,0,0,1,1,2014
+76169,"Waterloo, IA","Geneva, IA",1,0,0,1,0,0,1,0,0,1,2014
+76187,"Waterloo, IA","Hamburg, IA",0,1,0,0,1,0,0,0,1,1,2014
+76392,"Waterloo, IA","Soldier, IA",1,0,0,0,1,0,1,0,0,1,2014
+76327,"Waterloo, IA","Otho, IA",0,1,0,1,0,0,0,1,0,1,2014
+76213,"Waterloo, IA","Irwin, IA",1,0,0,0,1,0,1,0,0,1,2014
+76097,"Waterloo, IA","Craig, IA",1,0,0,0,0,1,1,0,0,1,2014
+76224,"Waterloo, IA","Kinross, IA",0,1,0,1,0,0,0,0,1,1,2014
+76421,"Waterloo, IA","Truesdale, IA",1,0,0,0,0,1,0,1,0,1,2014
+76372,"Waterloo, IA","Ruthven, IA",0,0,1,1,0,0,0,0,1,1,2014

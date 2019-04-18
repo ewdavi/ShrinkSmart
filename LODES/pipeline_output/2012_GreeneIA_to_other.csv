@@ -1,0 +1,68 @@
+,home city,work city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+30002,"Greene, IA","Allison, IA",9,19,23,8,34,9,13,27,11,51,2012
+30064,"Greene, IA","Waterloo, IA",13,17,11,8,27,6,9,21,11,41,2012
+30065,"Greene, IA","Waverly, IA",3,26,7,9,25,2,4,21,11,36,2012
+30011,"Greene, IA","Clarksville, IA",7,19,9,7,22,6,10,10,15,35,2012
+30008,"Greene, IA","Cedar Falls, IA",2,14,3,6,10,3,3,4,12,19,2012
+30035,"Greene, IA","Janesville, IA",8,2,1,11,0,0,1,4,6,11,2012
+30023,"Greene, IA","Evansdale, IA",3,3,4,5,5,0,0,10,0,10,2012
+30052,"Greene, IA","Parkersburg, IA",1,7,2,2,6,2,4,4,2,10,2012
+30010,"Greene, IA","Charles City, IA",0,8,1,2,6,1,2,4,3,9,2012
+30042,"Greene, IA","Mason City, IA",3,4,2,0,5,4,4,3,2,9,2012
+30027,"Greene, IA","Greene, IA",0,6,3,1,2,6,1,5,3,9,2012
+30058,"Greene, IA","Shell Rock, IA",2,5,1,2,5,1,0,7,1,8,2012
+30006,"Greene, IA","Bristow, IA",2,5,1,0,5,3,2,2,4,8,2012
+30030,"Greene, IA","Hampton, IA",2,3,0,1,4,0,0,3,2,5,2012
+30009,"Greene, IA","Cedar Rapids, IA",1,2,1,1,2,1,2,0,2,4,2012
+30045,"Greene, IA","Nashua, IA",0,0,4,3,1,0,0,0,4,4,2012
+30032,"Greene, IA","Hiawatha, IA",1,3,0,3,1,0,0,1,3,4,2012
+30049,"Greene, IA","Oelwein, IA",1,1,2,1,2,1,2,0,2,4,2012
+30054,"Greene, IA","Readlyn, IA",0,2,2,0,3,1,3,1,0,4,2012
+30057,"Greene, IA","Sheffield, IA",0,2,2,3,1,0,0,2,2,4,2012
+30021,"Greene, IA","Eldora, IA",2,1,0,1,1,1,2,1,0,3,2012
+30040,"Greene, IA","Marble Rock, IA",0,3,0,1,2,0,0,0,3,3,2012
+30038,"Greene, IA","Manchester, IA",1,1,1,1,1,1,1,0,2,3,2012
+30063,"Greene, IA","Tripoli, IA",0,3,0,3,0,0,0,0,3,3,2012
+30046,"Greene, IA","New Hampton, IA",0,3,0,1,2,0,0,3,0,3,2012
+30033,"Greene, IA","Hudson, IA",0,0,2,0,2,0,1,0,1,2,2012
+30034,"Greene, IA","Iowa Falls, IA",1,1,0,0,1,1,0,1,1,2,2012
+30047,"Greene, IA","New Hartford, IA",0,1,1,1,1,0,0,0,2,2,2012
+30050,"Greene, IA","Osage, IA",0,2,0,2,0,0,0,1,1,2,2012
+30067,"Greene, IA","West Union, IA",0,1,1,1,0,1,0,0,2,2,2012
+30028,"Greene, IA","Grundy Center, IA",0,1,1,0,2,0,0,1,1,2,2012
+30026,"Greene, IA","Floyd, IA",0,2,0,2,0,0,0,0,2,2,2012
+30003,"Greene, IA","Alta Vista, IA",0,2,0,0,2,0,2,0,0,2,2012
+30022,"Greene, IA","Elk Run Heights, IA",0,1,1,1,0,1,0,0,2,2,2012
+30007,"Greene, IA","Castalia, IA",0,1,1,2,0,0,1,0,1,2,2012
+30031,"Greene, IA","Hazleton, IA",1,0,0,0,0,1,0,1,0,1,2012
+30059,"Greene, IA","Stanley, IA",0,1,0,0,1,0,1,0,0,1,2012
+30053,"Greene, IA","Randalia, IA",0,0,1,0,1,0,0,0,1,1,2012
+30013,"Greene, IA","Colwell, IA",1,0,0,0,0,1,0,1,0,1,2012
+30055,"Greene, IA","Robins, IA",0,1,0,0,0,1,1,0,0,1,2012
+30056,"Greene, IA","Rockford, IA",0,1,0,0,0,1,1,0,0,1,2012
+30012,"Greene, IA","Clear Lake, IA",1,0,0,0,1,0,1,0,0,1,2012
+30061,"Greene, IA","Sumner, IA",1,0,0,0,0,1,1,0,0,1,2012
+30060,"Greene, IA","Strawberry Point, IA",0,1,0,0,1,0,1,0,0,1,2012
+30051,"Greene, IA","Owasa, IA",0,0,1,0,1,0,0,1,0,1,2012
+30062,"Greene, IA","Toledo, IA",0,1,0,0,1,0,0,1,0,1,2012
+30005,"Greene, IA","Beaman, IA",0,0,1,1,0,0,0,0,1,1,2012
+30004,"Greene, IA","Aredale, IA",0,0,1,1,0,0,0,0,1,1,2012
+30066,"Greene, IA","Wellsburg, IA",0,0,1,0,0,1,0,0,1,1,2012
+30014,"Greene, IA","Conrad, IA",0,0,1,0,1,0,1,0,0,1,2012
+30016,"Greene, IA","Crystal Lake, IA",0,0,1,1,0,0,0,0,1,1,2012
+30015,"Greene, IA","Cresco, IA",0,0,1,1,0,0,0,1,0,1,2012
+30029,"Greene, IA","Guttenberg, IA",0,1,0,0,1,0,0,1,0,1,2012
+30048,"Greene, IA","Nora Springs, IA",0,0,1,0,1,0,1,0,0,1,2012
+30017,"Greene, IA","Decorah, IA",0,1,0,0,0,1,0,1,0,1,2012
+30018,"Greene, IA","Denver, IA",0,1,0,0,0,1,0,1,0,1,2012
+30019,"Greene, IA","Dubuque, IA",0,0,1,1,0,0,0,0,1,1,2012
+30044,"Greene, IA","Mount Auburn, IA",0,1,0,0,0,1,1,0,0,1,2012
+30043,"Greene, IA","Morrison, IA",0,0,1,0,1,0,0,1,0,1,2012
+30020,"Greene, IA","Elberon, IA",1,0,0,1,0,0,0,0,1,1,2012
+30041,"Greene, IA","Marion, IA",1,0,0,0,0,1,0,0,1,1,2012
+30039,"Greene, IA","Manly, IA",0,1,0,0,1,0,0,1,0,1,2012
+30024,"Greene, IA","Fairfax, IA",1,0,0,0,0,1,1,0,0,1,2012
+30037,"Greene, IA","Luana, IA",0,1,0,1,0,0,1,0,0,1,2012
+30036,"Greene, IA","Liscomb, IA",0,1,0,0,1,0,1,0,0,1,2012
+30025,"Greene, IA","Ferguson, IA",0,1,0,0,1,0,1,0,0,1,2012
+30001,"Greene, IA","Ackley, IA",0,0,1,0,1,0,0,1,0,1,2012

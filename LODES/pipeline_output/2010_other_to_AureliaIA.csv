@@ -1,0 +1,103 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+5121,"Aurelia, IA","Aurelia, IA",32,123,58,33,144,36,65,77,71,213,2010
+5190,"Aurelia, IA","Schaller, IA",14,47,17,14,54,10,27,21,30,78,2010
+5182,"Aurelia, IA","Quimby, IA",16,38,21,13,55,7,21,30,24,75,2010
+5127,"Aurelia, IA","Cherokee, IA",12,25,8,15,18,12,10,14,21,45,2010
+5164,"Aurelia, IA","Marcus, IA",9,29,4,14,18,10,7,21,14,42,2010
+5201,"Aurelia, IA","Storm Lake, IA",2,27,10,7,23,9,17,6,16,39,2010
+5166,"Aurelia, IA","Meriden, IA",2,14,4,6,7,7,5,6,9,20,2010
+5203,"Aurelia, IA","Truesdale, IA",2,12,5,5,8,6,7,9,3,19,2010
+5196,"Aurelia, IA","Sioux Rapids, IA",0,10,5,4,8,3,5,6,4,15,2010
+5195,"Aurelia, IA","Sioux City, IA",6,3,2,2,7,2,6,3,2,11,2010
+5144,"Aurelia, IA","Fort Dodge, IA",2,6,2,2,6,2,3,4,3,10,2010
+5130,"Aurelia, IA","Cushing, IA",1,8,1,1,6,3,2,4,4,10,2010
+5170,"Aurelia, IA","Newell, IA",0,8,1,6,1,2,1,3,5,9,2010
+5207,"Aurelia, IA","Webb, IA",2,4,3,2,2,5,1,1,7,9,2010
+5160,"Aurelia, IA","Larrabee, IA",4,3,1,0,3,5,1,2,5,8,2010
+5139,"Aurelia, IA","Early, IA",2,5,1,3,3,2,2,1,5,8,2010
+5119,"Aurelia, IA","Arthur, IA",4,3,0,1,4,2,2,1,4,7,2010
+5114,"Aurelia, IA","Alton, IA",3,1,2,3,3,0,2,3,1,6,2010
+5175,"Aurelia, IA","Paullina, IA",1,2,2,2,0,3,1,2,2,5,2010
+5163,"Aurelia, IA","Le Mars, IA",1,4,0,2,2,1,3,1,1,5,2010
+5124,"Aurelia, IA","Carroll, IA",3,1,0,0,0,4,4,0,0,4,2010
+5174,"Aurelia, IA","Orange City, IA",1,2,1,2,0,2,0,2,2,4,2010
+5183,"Aurelia, IA","Remsen, IA",0,3,1,1,1,2,1,1,2,4,2010
+5134,"Aurelia, IA","Des Moines, IA",1,3,0,3,0,1,0,1,3,4,2010
+5159,"Aurelia, IA","Lakeside, IA",0,2,1,0,3,0,0,2,1,3,2010
+5187,"Aurelia, IA","Ruthven, IA",1,2,0,1,2,0,2,0,1,3,2010
+5193,"Aurelia, IA","Sheldon, IA",2,1,0,1,0,2,0,0,3,3,2010
+5181,"Aurelia, IA","Primghar, IA",0,1,2,0,1,2,0,1,2,3,2010
+5147,"Aurelia, IA","Hartley, IA",0,3,0,0,3,0,0,0,3,3,2010
+5113,"Aurelia, IA","Albert City, IA",0,3,0,1,1,1,1,0,2,3,2010
+5214,"Aurelia, IA","Yetter, IA",0,2,0,1,0,1,0,1,1,2,2010
+5205,"Aurelia, IA","Wall Lake, IA",0,2,0,0,0,2,0,1,1,2,2010
+5185,"Aurelia, IA","Rock Rapids, IA",0,2,0,0,2,0,0,0,2,2,2010
+5178,"Aurelia, IA","Pleasant Hill, IA",0,1,1,2,0,0,1,0,1,2,2010
+5186,"Aurelia, IA","Royal, IA",0,2,0,0,1,1,1,0,1,2,2010
+5173,"Aurelia, IA","Odebolt, IA",0,2,0,1,0,1,0,1,1,2,2010
+5194,"Aurelia, IA","Sibley, IA",0,2,0,0,2,0,2,0,0,2,2010
+5135,"Aurelia, IA","Dexter, IA",0,2,0,1,0,1,2,0,0,2,2010
+5118,"Aurelia, IA","Armstrong, IA",0,2,0,2,0,0,0,0,2,2,2010
+5128,"Aurelia, IA","Clinton, IA",0,1,1,1,1,0,1,0,1,2,2010
+5157,"Aurelia, IA","Kiron, IA",0,2,0,0,1,1,0,0,2,2,2010
+5204,"Aurelia, IA","Urbandale, IA",0,2,0,0,0,2,0,1,1,2,2010
+5199,"Aurelia, IA","Spirit Lake, IA",0,2,0,1,1,0,0,1,1,2,2010
+5126,"Aurelia, IA","Charter Oak, IA",1,1,0,0,1,1,0,0,2,2,2010
+5115,"Aurelia, IA","Altoona, IA",0,2,0,2,0,0,0,0,2,2,2010
+5146,"Aurelia, IA","Greenville, IA",0,2,0,2,0,0,2,0,0,2,2010
+5141,"Aurelia, IA","Emmetsburg, IA",1,1,0,0,0,2,0,1,1,2,2010
+5184,"Aurelia, IA","Renwick, IA",1,0,0,0,1,0,0,0,1,1,2010
+5213,"Aurelia, IA","Woolstock, IA",0,1,0,0,1,0,1,0,0,1,2010
+5125,"Aurelia, IA","Cedar Rapids, IA",0,1,0,0,0,1,0,0,1,1,2010
+5188,"Aurelia, IA","Sac City, IA",0,1,0,0,0,1,0,1,0,1,2010
+5189,"Aurelia, IA","Sanborn, IA",0,1,0,0,0,1,0,0,1,1,2010
+5212,"Aurelia, IA","Windsor Heights, IA",0,1,0,1,0,0,0,0,1,1,2010
+5123,"Aurelia, IA","Boyden, IA",0,1,0,0,0,1,0,0,1,1,2010
+5191,"Aurelia, IA","Schleswig, IA",0,1,0,0,1,0,0,1,0,1,2010
+5192,"Aurelia, IA","Sergeant Bluff, IA",0,1,0,0,1,0,0,0,1,1,2010
+5206,"Aurelia, IA","Waterloo, IA",1,0,0,0,0,1,0,0,1,1,2010
+5211,"Aurelia, IA","Willey, IA",0,0,1,0,1,0,0,1,0,1,2010
+5120,"Aurelia, IA","Audubon, IA",0,1,0,1,0,0,0,0,1,1,2010
+5210,"Aurelia, IA","West Okoboji, IA",1,0,0,0,0,1,0,1,0,1,2010
+5209,"Aurelia, IA","West Des Moines, IA",0,1,0,1,0,0,0,0,1,1,2010
+5197,"Aurelia, IA","Slater, IA",1,0,0,1,0,0,0,0,1,1,2010
+5198,"Aurelia, IA","Spencer, IA",0,1,0,0,0,1,0,0,1,1,2010
+5208,"Aurelia, IA","Webster City, IA",0,1,0,0,0,1,1,0,0,1,2010
+5200,"Aurelia, IA","Spring Hill, IA",1,0,0,1,0,0,0,0,1,1,2010
+5117,"Aurelia, IA","Ankeny, IA",0,1,0,1,0,0,0,0,1,1,2010
+5202,"Aurelia, IA","Traer, IA",0,1,0,0,0,1,0,1,0,1,2010
+5116,"Aurelia, IA","Ames, IA",0,1,0,1,0,0,0,0,1,1,2010
+5122,"Aurelia, IA","Boone, IA",1,0,0,1,0,0,0,0,1,1,2010
+5143,"Aurelia, IA","Farnhamville, IA",0,0,1,0,1,0,0,1,0,1,2010
+5129,"Aurelia, IA","Colo, IA",0,1,0,0,0,1,0,1,0,1,2010
+5180,"Aurelia, IA","Pomeroy, IA",0,1,0,0,0,1,0,0,1,1,2010
+5145,"Aurelia, IA","Fostoria, IA",0,1,0,0,0,1,0,1,0,1,2010
+5148,"Aurelia, IA","Hawarden, IA",0,0,1,0,1,0,0,1,0,1,2010
+5149,"Aurelia, IA","Hinton, IA",1,0,0,0,0,1,1,0,0,1,2010
+5150,"Aurelia, IA","Hospers, IA",0,1,0,1,0,0,0,1,0,1,2010
+5151,"Aurelia, IA","Humboldt, IA",0,1,0,0,1,0,0,0,1,1,2010
+5152,"Aurelia, IA","Indianola, IA",0,0,1,1,0,0,0,1,0,1,2010
+5153,"Aurelia, IA","Iowa City, IA",1,0,0,0,0,1,0,1,0,1,2010
+5154,"Aurelia, IA","Jefferson, IA",0,1,0,0,0,1,0,1,0,1,2010
+5155,"Aurelia, IA","Johnston, IA",1,0,0,1,0,0,0,0,1,1,2010
+5156,"Aurelia, IA","Kingsley, IA",1,0,0,0,0,1,0,1,0,1,2010
+5158,"Aurelia, IA","Lake View, IA",0,0,1,0,0,1,0,0,1,1,2010
+5140,"Aurelia, IA","Elk Run Heights, IA",1,0,0,1,0,0,0,0,1,1,2010
+5138,"Aurelia, IA","Dubuque, IA",0,1,0,1,0,0,0,0,1,1,2010
+5161,"Aurelia, IA","Laurens, IA",0,1,0,0,1,0,0,0,1,1,2010
+5162,"Aurelia, IA","Le Grand, IA",0,1,0,0,0,1,1,0,0,1,2010
+5137,"Aurelia, IA","Dolliver, IA",0,0,1,0,1,0,1,0,0,1,2010
+5136,"Aurelia, IA","Dickens, IA",0,0,1,0,0,1,1,0,0,1,2010
+5165,"Aurelia, IA","Marysville, IA",1,0,0,1,0,0,0,1,0,1,2010
+5167,"Aurelia, IA","Merrill, IA",1,0,0,0,1,0,0,1,0,1,2010
+5168,"Aurelia, IA","Milford, IA",0,1,0,0,1,0,0,0,1,1,2010
+5169,"Aurelia, IA","Nevada, IA",0,1,0,1,0,0,0,0,1,1,2010
+5133,"Aurelia, IA","Denison, IA",0,1,0,0,1,0,0,0,1,1,2010
+5171,"Aurelia, IA","Newton, IA",0,1,0,1,0,0,0,0,1,1,2010
+5172,"Aurelia, IA","Norwalk, IA",0,1,0,1,0,0,0,0,1,1,2010
+5132,"Aurelia, IA","Danbury, IA",0,1,0,0,0,1,0,1,0,1,2010
+5131,"Aurelia, IA","Dakota City, IA",1,0,0,0,0,1,0,0,1,1,2010
+5176,"Aurelia, IA","Peterson, IA",0,0,1,0,0,1,1,0,0,1,2010
+5177,"Aurelia, IA","Pierson, IA",0,1,0,0,1,0,1,0,0,1,2010
+5142,"Aurelia, IA","Exira, IA",0,0,1,0,1,0,0,1,0,1,2010
+5179,"Aurelia, IA","Pleasantville, IA",1,0,0,1,0,0,0,0,1,1,2010

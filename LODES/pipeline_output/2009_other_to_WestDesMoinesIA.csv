@@ -1,0 +1,535 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+77162,"West Des Moines, IA","Des Moines, IA",1139,2265,580,824,2380,780,826,2036,1122,3984,2009
+77132,"West Des Moines, IA","Clive, IA",425,1080,317,254,1302,266,367,485,970,1822,2009
+77546,"West Des Moines, IA","West Des Moines, IA",504,930,343,293,1186,298,449,613,715,1777,2009
+77556,"West Des Moines, IA","Windsor Heights, IA",383,834,244,196,1006,259,267,560,634,1461,2009
+77523,"West Des Moines, IA","Urbandale, IA",264,691,172,156,791,180,180,344,603,1127,2009
+77428,"West Des Moines, IA","Pleasant Hill, IA",234,633,158,226,594,205,171,496,358,1025,2009
+77053,"West Des Moines, IA","Ankeny, IA",243,612,129,154,666,164,125,316,543,984,2009
+77396,"West Des Moines, IA","Norwalk, IA",217,492,141,175,470,205,131,378,341,850,2009
+77536,"West Des Moines, IA","Waukee, IA",134,368,67,75,398,96,82,151,336,569,2009
+77269,"West Des Moines, IA","Johnston, IA",155,332,76,102,363,98,87,211,265,563,2009
+77047,"West Des Moines, IA","Altoona, IA",124,255,73,84,289,79,48,193,211,452,2009
+77105,"West Des Moines, IA","Carlisle, IA",80,275,75,118,224,88,67,167,196,430,2009
+77261,"West Des Moines, IA","Indianola, IA",81,257,60,78,236,84,54,142,202,398,2009
+77048,"West Des Moines, IA","Ames, IA",94,108,16,40,138,40,40,75,103,218,2009
+77155,"West Des Moines, IA","De Soto, IA",36,117,29,24,125,33,20,61,101,182,2009
+77234,"West Des Moines, IA","Grimes, IA",29,98,17,24,103,17,12,43,89,144,2009
+77535,"West Des Moines, IA","Waterloo, IA",35,67,23,3,104,18,59,40,26,125,2009
+77431,"West Des Moines, IA","Polk City, IA",19,81,20,21,81,18,11,30,79,120,2009
+77557,"West Des Moines, IA","Winterset, IA",22,71,22,25,67,23,15,43,57,115,2009
+77358,"West Des Moines, IA","Mitchellville, IA",27,72,12,28,64,19,15,43,53,111,2009
+77283,"West Des Moines, IA","Knoxville, IA",28,60,15,18,63,22,29,49,25,103,2009
+77425,"West Des Moines, IA","Perry, IA",25,69,5,21,62,16,19,27,53,99,2009
+77114,"West Des Moines, IA","Cedar Rapids, IA",24,48,15,7,44,36,28,35,24,87,2009
+77036,"West Des Moines, IA","Adel, IA",30,44,12,8,62,16,9,44,33,86,2009
+77337,"West Des Moines, IA","Marshalltown, IA",28,42,15,11,52,22,29,38,18,85,2009
+77163,"West Des Moines, IA","Dexter, IA",15,59,11,34,35,16,11,32,42,85,2009
+77088,"West Des Moines, IA","Boone, IA",18,49,15,19,49,14,23,27,32,82,2009
+77525,"West Des Moines, IA","Van Meter, IA",16,54,11,12,52,17,12,18,51,81,2009
+77495,"West Des Moines, IA","Spring Hill, IA",15,52,13,19,41,20,11,20,49,80,2009
+77422,"West Des Moines, IA","Patterson, IA",14,48,17,20,35,24,8,37,34,79,2009
+77228,"West Des Moines, IA","Granger, IA",17,52,7,13,49,14,6,21,49,76,2009
+77153,"West Des Moines, IA","Davenport, IA",12,49,12,14,44,15,22,26,25,73,2009
+77405,"West Des Moines, IA","Osceola, IA",22,37,11,28,28,14,13,26,31,70,2009
+77389,"West Des Moines, IA","Newton, IA",20,42,6,11,32,25,14,34,20,68,2009
+77113,"West Des Moines, IA","Cedar Falls, IA",17,30,16,1,51,11,29,21,13,63,2009
+77488,"West Des Moines, IA","Sioux City, IA",17,36,9,3,42,17,25,15,22,62,2009
+77324,"West Des Moines, IA","Madrid, IA",12,39,10,15,33,13,4,19,38,61,2009
+77409,"West Des Moines, IA","Ottumwa, IA",18,27,15,5,39,16,30,16,14,60,2009
+77119,"West Des Moines, IA","Chariton, IA",15,36,6,14,16,27,10,24,23,57,2009
+77174,"West Des Moines, IA","East Peru, IA",15,34,7,12,26,18,3,21,32,56,2009
+77510,"West Des Moines, IA","Swan, IA",8,42,4,9,33,12,3,20,31,54,2009
+77258,"West Des Moines, IA","Huxley, IA",13,38,3,13,36,5,4,16,34,54,2009
+77135,"West Des Moines, IA","Colfax, IA",13,36,3,11,29,12,5,21,26,52,2009
+77263,"West Des Moines, IA","Iowa City, IA",17,28,6,0,31,20,19,15,17,51,2009
+77034,"West Des Moines, IA","Ackworth, IA",7,37,5,15,20,14,3,21,25,49,2009
+77087,"West Des Moines, IA","Bondurant, IA",10,28,9,4,30,13,5,15,27,47,2009
+77143,"West Des Moines, IA","Council Bluffs, IA",13,24,7,1,24,19,20,16,8,44,2009
+77434,"West Des Moines, IA","Prairie City, IA",8,25,7,14,21,5,2,15,23,40,2009
+77080,"West Des Moines, IA","Bettendorf, IA",12,23,5,6,28,6,12,16,12,40,2009
+77465,"West Des Moines, IA","Runnells, IA",4,30,5,11,19,9,7,11,21,39,2009
+77354,"West Des Moines, IA","Minburn, IA",9,21,8,7,23,8,7,14,17,38,2009
+77306,"West Des Moines, IA","Leon, IA",5,30,3,17,16,5,3,15,20,38,2009
+77423,"West Des Moines, IA","Pella, IA",10,23,3,7,17,12,8,13,15,36,2009
+77346,"West Des Moines, IA","Melcher-Dallas, IA",4,27,4,7,19,9,3,19,13,35,2009
+77360,"West Des Moines, IA","Monroe, IA",8,24,2,12,18,4,2,17,15,34,2009
+77207,"West Des Moines, IA","Fort Dodge, IA",11,15,8,5,13,16,10,14,10,34,2009
+77498,"West Des Moines, IA","St. Marys, IA",8,18,8,12,20,2,1,15,18,34,2009
+77072,"West Des Moines, IA","Baxter, IA",8,22,3,9,21,3,5,11,17,33,2009
+77380,"West Des Moines, IA","Nevada, IA",6,20,5,12,14,5,10,8,13,31,2009
+77430,"West Des Moines, IA","Pleasantville, IA",5,21,2,8,17,3,6,7,15,28,2009
+77340,"West Des Moines, IA","Mason City, IA",9,12,5,0,12,14,12,11,3,26,2009
+77323,"West Des Moines, IA","Macksburg, IA",3,19,3,8,11,6,2,9,14,25,2009
+77167,"West Des Moines, IA","Dubuque, IA",3,13,9,0,17,8,7,8,10,25,2009
+77100,"West Des Moines, IA","Burlington, IA",10,14,1,2,12,11,16,7,2,25,2009
+77104,"West Des Moines, IA","Cambridge, IA",5,17,1,3,16,4,3,9,11,23,2009
+77446,"West Des Moines, IA","Reasnor, IA",8,14,1,11,11,1,4,8,11,23,2009
+77449,"West Des Moines, IA","Redfield, IA",12,8,3,3,15,5,5,12,6,23,2009
+77245,"West Des Moines, IA","Harvey, IA",4,18,1,5,15,3,2,6,15,23,2009
+77251,"West Des Moines, IA","Hiawatha, IA",4,16,3,1,16,6,9,5,9,23,2009
+77460,"West Des Moines, IA","Robins, IA",3,15,4,3,11,8,4,11,7,22,2009
+77150,"West Des Moines, IA","Dallas Center, IA",1,16,5,7,10,5,4,8,10,22,2009
+77146,"West Des Moines, IA","Creston, IA",3,13,5,3,11,7,13,5,3,21,2009
+77489,"West Des Moines, IA","Slater, IA",9,10,2,9,11,1,4,4,13,21,2009
+77217,"West Des Moines, IA","Gilbert, IA",6,14,1,2,16,3,2,5,14,21,2009
+77110,"West Des Moines, IA","Casey, IA",10,7,3,2,15,3,3,8,9,20,2009
+77160,"West Des Moines, IA","Denison, IA",3,14,3,6,12,2,5,8,7,20,2009
+77300,"West Des Moines, IA","Le Mars, IA",8,9,3,5,11,4,5,12,3,20,2009
+77106,"West Des Moines, IA","Carroll, IA",4,11,5,6,10,4,5,11,4,20,2009
+77136,"West Des Moines, IA","Colo, IA",9,6,4,6,11,2,2,10,7,19,2009
+77562,"West Des Moines, IA","Woodward, IA",6,9,4,3,12,4,4,3,12,19,2009
+77235,"West Des Moines, IA","Grinnell, IA",3,12,4,3,10,6,6,4,9,19,2009
+77406,"West Des Moines, IA","Oskaloosa, IA",3,12,3,3,7,8,4,5,9,18,2009
+77190,"West Des Moines, IA","Evansdale, IA",5,11,2,0,17,1,5,7,6,18,2009
+77394,"West Des Moines, IA","North Liberty, IA",11,4,3,1,13,4,10,6,2,18,2009
+77321,"West Des Moines, IA","Luther, IA",6,11,0,3,10,4,2,9,6,17,2009
+77131,"West Des Moines, IA","Clio, IA",8,6,2,7,3,6,3,3,10,16,2009
+77341,"West Des Moines, IA","Maxwell, IA",5,9,2,3,12,1,1,4,11,16,2009
+77453,"West Des Moines, IA","Rhodes, IA",4,8,3,5,6,4,3,0,12,15,2009
+77232,"West Des Moines, IA","Greenfield, IA",1,10,4,4,11,0,1,5,9,15,2009
+77403,"West Des Moines, IA","Orient, IA",0,14,1,5,5,5,0,3,12,15,2009
+77264,"West Des Moines, IA","Iowa Falls, IA",2,10,2,0,10,4,4,7,3,14,2009
+77141,"West Des Moines, IA","Coralville, IA",6,6,2,0,5,9,6,4,4,14,2009
+77386,"West Des Moines, IA","New Sharon, IA",0,7,7,5,7,2,6,1,7,14,2009
+77520,"West Des Moines, IA","University Heights, IA",1,11,2,1,8,5,3,6,5,14,2009
+77117,"West Des Moines, IA","Centerville, IA",3,10,1,2,7,5,2,6,6,14,2009
+77291,"West Des Moines, IA","Lambs Grove, IA",4,9,1,3,9,2,4,6,4,14,2009
+77400,"West Des Moines, IA","Ogden, IA",4,7,3,5,7,2,4,3,7,14,2009
+77499,"West Des Moines, IA","Stanhope, IA",4,6,3,0,10,3,2,3,8,13,2009
+77064,"West Des Moines, IA","Audubon, IA",2,7,4,6,3,4,2,7,4,13,2009
+77076,"West Des Moines, IA","Belle Plaine, IA",6,7,0,2,6,5,6,2,5,13,2009
+77313,"West Des Moines, IA","Liscomb, IA",3,6,4,1,7,5,4,4,5,13,2009
+77539,"West Des Moines, IA","Webster City, IA",3,9,1,1,5,7,5,3,5,13,2009
+77521,"West Des Moines, IA","University Park, IA",5,8,0,1,8,4,4,3,6,13,2009
+77040,"West Des Moines, IA","Albia, IA",2,8,2,1,5,6,5,3,4,12,2009
+77063,"West Des Moines, IA","Atlantic, IA",0,5,7,4,1,7,4,3,5,12,2009
+77052,"West Des Moines, IA","Anita, IA",5,5,2,1,9,2,3,3,6,12,2009
+77208,"West Des Moines, IA","Fort Madison, IA",4,5,3,0,9,3,8,1,3,12,2009
+77122,"West Des Moines, IA","Cherokee, IA",6,5,1,4,8,0,2,7,3,12,2009
+77472,"West Des Moines, IA","Sandyville, IA",4,7,1,1,7,4,0,7,5,12,2009
+77260,"West Des Moines, IA","Independence, IA",2,7,2,0,8,3,4,2,5,11,2009
+77259,"West Des Moines, IA","Ida Grove, IA",1,5,5,4,4,3,3,2,6,11,2009
+77311,"West Des Moines, IA","Linden, IA",3,5,3,3,4,4,2,4,5,11,2009
+77194,"West Des Moines, IA","Fairfield, IA",3,6,2,1,3,7,7,2,2,11,2009
+77377,"West Des Moines, IA","Muscatine, IA",4,3,3,1,8,1,7,2,1,10,2009
+77538,"West Des Moines, IA","Waverly, IA",3,5,2,0,8,2,5,1,4,10,2009
+77534,"West Des Moines, IA","Washington, IA",0,4,6,0,7,3,4,2,4,10,2009
+77151,"West Des Moines, IA","Danbury, IA",3,6,1,2,7,1,1,5,4,10,2009
+77320,"West Des Moines, IA","Luana, IA",1,7,1,0,4,5,3,1,5,9,2009
+77401,"West Des Moines, IA","Onawa, IA",3,5,1,3,3,3,3,4,2,9,2009
+77345,"West Des Moines, IA","Melbourne, IA",1,6,2,0,3,6,3,3,3,9,2009
+77458,"West Des Moines, IA","Riverside, IA",2,6,1,1,7,1,4,5,0,9,2009
+77182,"West Des Moines, IA","Elk Run Heights, IA",2,5,2,0,7,2,1,4,4,9,2009
+77322,"West Des Moines, IA","Lynnville, IA",4,5,0,1,6,2,2,4,3,9,2009
+77272,"West Des Moines, IA","Kellogg, IA",1,8,0,4,3,2,1,2,6,9,2009
+77253,"West Des Moines, IA","Hinton, IA",2,5,2,2,6,1,2,3,4,9,2009
+77274,"West Des Moines, IA","Keokuk, IA",2,6,1,0,7,2,5,2,2,9,2009
+77179,"West Des Moines, IA","Eldora, IA",1,8,0,3,5,1,1,4,4,9,2009
+77180,"West Des Moines, IA","Eldridge, IA",2,7,0,0,8,1,5,4,0,9,2009
+77301,"West Des Moines, IA","Le Roy, IA",1,8,0,3,4,2,1,3,5,9,2009
+77175,"West Des Moines, IA","Eddyville, IA",1,6,2,1,4,4,3,1,5,9,2009
+77157,"West Des Moines, IA","Decorah, IA",3,4,2,1,6,2,3,1,5,9,2009
+77145,"West Des Moines, IA","Cresco, IA",2,5,1,1,4,3,2,4,2,8,2009
+77412,"West Des Moines, IA","Oxford, IA",3,3,2,0,5,3,2,3,3,8,2009
+77035,"West Des Moines, IA","Adair, IA",1,6,1,3,3,2,1,5,2,8,2009
+77522,"West Des Moines, IA","Urbana, IA",2,4,2,4,3,1,0,3,5,8,2009
+77376,"West Des Moines, IA","Murray, IA",4,4,0,3,5,0,1,2,5,8,2009
+77128,"West Des Moines, IA","Clear Lake, IA",2,6,0,1,4,3,1,4,3,8,2009
+77369,"West Des Moines, IA","Moulton, IA",1,6,1,1,4,3,1,4,3,8,2009
+77466,"West Des Moines, IA","Russell, IA",4,1,2,3,1,3,2,2,3,7,2009
+77336,"West Des Moines, IA","Marion, IA",3,3,1,1,4,2,3,1,3,7,2009
+77348,"West Des Moines, IA","Merrill, IA",2,5,0,2,4,1,1,3,3,7,2009
+77512,"West Des Moines, IA","Tama, IA",3,3,1,2,5,0,3,1,3,7,2009
+77060,"West Des Moines, IA","Asbury, IA",1,4,2,0,4,3,2,1,4,7,2009
+77419,"West Des Moines, IA","Panorama Park, IA",3,3,1,2,3,2,2,2,3,7,2009
+77285,"West Des Moines, IA","Lacona, IA",1,5,1,1,6,0,0,5,2,7,2009
+77130,"West Des Moines, IA","Clinton, IA",3,3,1,0,4,3,5,2,0,7,2009
+77084,"West Des Moines, IA","Bloomfield, IA",1,5,1,2,5,0,3,1,3,7,2009
+77172,"West Des Moines, IA","Eagle Grove, IA",1,5,1,2,4,1,2,2,3,7,2009
+77410,"West Des Moines, IA","Owasa, IA",2,1,3,1,3,2,1,3,2,6,2009
+77161,"West Des Moines, IA","Denver, IA",1,5,0,0,3,3,1,1,4,6,2009
+77370,"West Des Moines, IA","Mount Auburn, IA",1,5,0,0,3,3,0,5,1,6,2009
+77210,"West Des Moines, IA","Fraser, IA",2,4,0,4,2,0,1,1,4,6,2009
+77537,"West Des Moines, IA","Waukon, IA",1,5,0,1,4,1,2,3,1,6,2009
+77126,"West Des Moines, IA","Clarinda, IA",2,3,1,1,2,3,3,2,1,6,2009
+77219,"West Des Moines, IA","Gilman, IA",1,4,1,3,2,1,2,1,3,6,2009
+77399,"West Des Moines, IA","Oelwein, IA",2,4,0,0,3,3,3,3,0,6,2009
+77282,"West Des Moines, IA","Knierim, IA",0,5,1,0,3,3,1,1,4,6,2009
+77353,"West Des Moines, IA","Milton, IA",2,4,0,1,3,2,4,2,0,6,2009
+77120,"West Des Moines, IA","Charles City, IA",2,3,1,0,2,4,1,5,0,6,2009
+77496,"West Des Moines, IA","Springville, IA",0,5,1,0,3,3,1,2,3,6,2009
+77505,"West Des Moines, IA","Story City, IA",2,3,1,0,6,0,1,2,3,6,2009
+77366,"West Des Moines, IA","Moravia, IA",4,1,1,0,5,1,0,4,2,6,2009
+77243,"West Des Moines, IA","Harlan, IA",2,4,0,0,3,3,2,3,1,6,2009
+77075,"West Des Moines, IA","Bedford, IA",3,2,1,0,3,3,1,3,2,6,2009
+77247,"West Des Moines, IA","Haverhill, IA",0,1,5,4,2,0,0,0,6,6,2009
+77526,"West Des Moines, IA","Victor, IA",1,5,0,0,4,2,2,2,2,6,2009
+77372,"West Des Moines, IA","Mount Pleasant, IA",3,3,0,0,2,4,4,2,0,6,2009
+77257,"West Des Moines, IA","Humboldt, IA",1,3,2,2,2,2,3,0,3,6,2009
+77490,"West Des Moines, IA","Sloan, IA",2,2,2,0,5,1,2,4,0,6,2009
+77082,"West Des Moines, IA","Blakesburg, IA",3,3,0,0,3,3,1,4,1,6,2009
+77043,"West Des Moines, IA","Algona, IA",1,4,1,0,4,2,3,2,1,6,2009
+77339,"West Des Moines, IA","Marysville, IA",1,1,4,0,5,1,0,1,5,6,2009
+77332,"West Des Moines, IA","Maquoketa, IA",2,4,0,2,3,1,3,0,3,6,2009
+77041,"West Des Moines, IA","Albion, IA",1,4,1,1,3,2,0,3,3,6,2009
+77450,"West Des Moines, IA","Reinbeck, IA",1,5,0,2,1,3,0,2,4,6,2009
+77299,"West Des Moines, IA","Le Grand, IA",3,3,0,2,3,1,1,3,2,6,2009
+77298,"West Des Moines, IA","Le Claire, IA",1,3,2,0,5,1,2,3,1,6,2009
+77444,"West Des Moines, IA","Raymond, IA",0,5,1,0,3,3,3,3,0,6,2009
+77334,"West Des Moines, IA","Marcus, IA",3,3,0,1,5,0,2,1,3,6,2009
+77482,"West Des Moines, IA","Shenandoah, IA",2,4,0,0,5,1,1,2,3,6,2009
+77451,"West Des Moines, IA","Remsen, IA",0,5,1,5,1,0,1,4,1,6,2009
+77469,"West Des Moines, IA","Sac City, IA",1,2,3,3,2,1,2,3,1,6,2009
+77037,"West Des Moines, IA","Afton, IA",0,4,2,0,4,2,0,4,2,6,2009
+77485,"West Des Moines, IA","Sigourney, IA",2,4,0,0,5,1,4,2,0,6,2009
+77292,"West Des Moines, IA","Lamoni, IA",3,2,0,2,1,2,1,3,1,5,2009
+77531,"West Des Moines, IA","Walford, IA",1,4,0,2,2,1,0,2,3,5,2009
+77362,"West Des Moines, IA","Monticello, IA",1,1,3,0,4,1,5,0,0,5,2009
+77359,"West Des Moines, IA","Mondamin, IA",1,4,0,2,1,2,2,1,2,5,2009
+77414,"West Des Moines, IA","Pacific Junction, IA",3,2,0,0,2,3,1,4,0,5,2009
+77514,"West Des Moines, IA","Tiffin, IA",1,4,0,0,5,0,2,2,1,5,2009
+77271,"West Des Moines, IA","Kalona, IA",2,1,2,0,4,1,2,3,0,5,2009
+77390,"West Des Moines, IA","Nichols, IA",3,1,1,1,4,0,1,3,1,5,2009
+77266,"West Des Moines, IA","Jefferson, IA",3,0,2,2,2,1,1,3,1,5,2009
+77049,"West Des Moines, IA","Anamosa, IA",0,4,1,0,2,3,1,2,2,5,2009
+77388,"West Des Moines, IA","Newell, IA",2,3,0,1,3,1,2,2,1,5,2009
+77095,"West Des Moines, IA","Britt, IA",0,3,2,0,4,1,1,1,3,5,2009
+77177,"West Des Moines, IA","Elberon, IA",2,3,0,3,1,1,0,4,1,5,2009
+77475,"West Des Moines, IA","Sergeant Bluff, IA",0,5,0,1,4,0,2,1,2,5,2009
+77079,"West Des Moines, IA","Bertram, IA",3,2,0,0,2,3,2,0,3,5,2009
+77108,"West Des Moines, IA","Carter Lake, IA",1,1,3,0,4,1,4,1,0,5,2009
+77504,"West Des Moines, IA","Storm Lake, IA",1,4,0,0,3,2,1,1,3,5,2009
+77404,"West Des Moines, IA","Osage, IA",2,2,1,0,4,1,1,3,1,5,2009
+77443,"West Des Moines, IA","Rathbun, IA",1,4,0,1,3,1,1,2,2,5,2009
+77335,"West Des Moines, IA","Marengo, IA",1,4,0,1,3,1,2,1,2,5,2009
+77189,"West Des Moines, IA","Estherville, IA",0,5,0,0,2,3,0,1,4,5,2009
+77121,"West Des Moines, IA","Charter Oak, IA",1,3,1,1,1,3,3,1,1,5,2009
+77550,"West Des Moines, IA","What Cheer, IA",1,3,1,0,3,2,0,4,1,5,2009
+77085,"West Des Moines, IA","Blue Grass, IA",1,2,2,1,4,0,2,2,1,5,2009
+77347,"West Des Moines, IA","Meriden, IA",1,4,0,1,4,0,0,2,3,5,2009
+77492,"West Des Moines, IA","Solon, IA",2,2,1,0,5,0,3,1,1,5,2009
+77317,"West Des Moines, IA","Long Grove, IA",3,2,0,0,3,2,3,0,2,5,2009
+77268,"West Des Moines, IA","Jewell Junction, IA",0,3,1,0,4,0,1,1,2,4,2009
+77265,"West Des Moines, IA","Janesville, IA",2,1,1,0,3,1,2,2,0,4,2009
+77312,"West Des Moines, IA","Lisbon, IA",2,2,0,0,2,2,1,2,1,4,2009
+77039,"West Des Moines, IA","Akron, IA",2,2,0,0,4,0,2,0,2,4,2009
+77542,"West Des Moines, IA","Wellsburg, IA",1,2,1,0,2,2,2,0,2,4,2009
+77555,"West Des Moines, IA","Wilton, IA",1,1,2,0,3,1,3,1,0,4,2009
+77307,"West Des Moines, IA","Lewis, IA",0,3,1,0,2,2,0,2,2,4,2009
+77528,"West Des Moines, IA","Vinton, IA",0,3,1,0,2,2,1,3,0,4,2009
+77530,"West Des Moines, IA","Walcott, IA",2,1,1,0,1,3,2,1,1,4,2009
+77329,"West Des Moines, IA","Manning, IA",2,1,1,1,2,1,1,2,1,4,2009
+77356,"West Des Moines, IA","Missouri Valley, IA",1,2,1,1,1,2,2,1,1,4,2009
+77066,"West Des Moines, IA","Aurora, IA",1,3,0,1,3,0,1,2,1,4,2009
+77284,"West Des Moines, IA","La Porte City, IA",1,1,2,0,3,1,1,2,1,4,2009
+77349,"West Des Moines, IA","Middletown, IA",1,3,0,0,2,2,2,2,0,4,2009
+77549,"West Des Moines, IA","Westside, IA",2,2,0,4,0,0,0,3,1,4,2009
+77062,"West Des Moines, IA","Atkins, IA",0,4,0,2,0,2,0,2,2,4,2009
+77544,"West Des Moines, IA","West Burlington, IA",2,2,0,0,3,1,2,2,0,4,2009
+77532,"West Des Moines, IA","Wall Lake, IA",0,3,1,0,3,1,1,2,1,4,2009
+77240,"West Des Moines, IA","Hamburg, IA",1,2,1,0,2,2,1,2,1,4,2009
+77418,"West Des Moines, IA","Panora, IA",1,3,0,1,3,0,0,1,3,4,2009
+77427,"West Des Moines, IA","Plano, IA",1,2,1,2,2,0,0,3,1,4,2009
+77220,"West Des Moines, IA","Glenwood, IA",0,2,2,0,1,3,2,1,1,4,2009
+77408,"West Des Moines, IA","Ottosen, IA",1,2,1,0,3,1,2,0,2,4,2009
+77493,"West Des Moines, IA","Spencer, IA",2,1,1,0,1,3,2,1,1,4,2009
+77215,"West Des Moines, IA","Garwin, IA",0,3,1,0,3,1,0,0,4,4,2009
+77416,"West Des Moines, IA","Palo, IA",1,1,2,1,3,0,1,2,1,4,2009
+77491,"West Des Moines, IA","Soldier, IA",0,3,1,3,1,0,0,3,1,4,2009
+77486,"West Des Moines, IA","Silver City, IA",1,3,0,1,1,2,2,0,2,4,2009
+77225,"West Des Moines, IA","Grand Junction, IA",2,2,0,2,2,0,0,2,2,4,2009
+77432,"West Des Moines, IA","Pomeroy, IA",1,2,1,1,1,2,1,2,1,4,2009
+77144,"West Des Moines, IA","Crescent, IA",0,3,1,0,2,2,1,2,1,4,2009
+77447,"West Des Moines, IA","Red Oak, IA",1,3,0,1,3,0,1,2,1,4,2009
+77193,"West Des Moines, IA","Fairfax, IA",1,3,0,0,4,0,0,3,1,4,2009
+77142,"West Des Moines, IA","Corydon, IA",2,1,1,1,1,2,1,2,1,4,2009
+77191,"West Des Moines, IA","Exira, IA",0,4,0,2,1,1,0,4,0,4,2009
+77173,"West Des Moines, IA","Early, IA",0,3,1,0,3,1,1,0,3,4,2009
+77221,"West Des Moines, IA","Glidden, IA",2,2,0,1,3,0,2,1,1,4,2009
+77237,"West Des Moines, IA","Guernsey, IA",1,2,1,2,2,0,1,1,2,4,2009
+77452,"West Des Moines, IA","Renwick, IA",2,2,0,0,2,2,1,1,2,4,2009
+77517,"West Des Moines, IA","Traer, IA",1,3,0,3,1,0,0,1,3,4,2009
+77513,"West Des Moines, IA","Tennant, IA",1,2,1,1,2,1,2,1,1,4,2009
+77382,"West Des Moines, IA","New Hampton, IA",2,1,1,0,1,3,2,2,0,4,2009
+77156,"West Des Moines, IA","De Witt, IA",1,3,0,0,1,3,2,1,1,4,2009
+77473,"West Des Moines, IA","Schaller, IA",2,1,1,1,2,1,0,3,1,4,2009
+77140,"West Des Moines, IA","Coon Rapids, IA",0,3,1,2,2,0,0,3,1,4,2009
+77098,"West Des Moines, IA","Buffalo Center, IA",2,1,1,0,2,2,2,1,1,4,2009
+77507,"West Des Moines, IA","Stuart, IA",1,1,2,0,1,3,1,1,2,4,2009
+77101,"West Des Moines, IA","Bussey, IA",0,3,1,0,1,3,2,2,0,4,2009
+77506,"West Des Moines, IA","Stratford, IA",3,1,0,2,0,2,1,0,3,4,2009
+77103,"West Des Moines, IA","Camanche, IA",2,2,0,1,2,1,2,1,1,4,2009
+77477,"West Des Moines, IA","Shannon City, IA",1,2,0,1,1,1,1,1,1,3,2009
+77442,"West Des Moines, IA","Randolph, IA",0,2,1,1,1,1,2,0,1,3,2009
+77476,"West Des Moines, IA","Seymour, IA",1,2,0,3,0,0,0,1,2,3,2009
+77463,"West Des Moines, IA","Roland, IA",2,1,0,0,2,1,0,2,1,3,2009
+77448,"West Des Moines, IA","Redding, IA",1,1,1,0,3,0,0,0,3,3,2009
+77467,"West Des Moines, IA","Ruthven, IA",1,2,0,0,1,2,1,1,1,3,2009
+77559,"West Des Moines, IA","Wiota, IA",0,2,1,1,1,1,2,1,0,3,2009
+77374,"West Des Moines, IA","Mount Vernon, IA",0,3,0,0,2,1,1,1,1,3,2009
+77554,"West Des Moines, IA","Williamsburg, IA",0,3,0,0,1,2,0,1,2,3,2009
+77438,"West Des Moines, IA","Promise City, IA",3,0,0,0,2,1,0,3,0,3,2009
+77481,"West Des Moines, IA","Shell Rock, IA",2,1,0,0,3,0,0,3,0,3,2009
+77437,"West Des Moines, IA","Princeton, IA",2,1,0,1,0,2,0,2,1,3,2009
+77547,"West Des Moines, IA","West Union, IA",1,2,0,0,2,1,0,1,2,3,2009
+77519,"West Des Moines, IA","Unionville, IA",0,2,1,0,2,1,1,1,1,3,2009
+77415,"West Des Moines, IA","Packwood, IA",2,1,0,0,1,2,1,1,1,3,2009
+77407,"West Des Moines, IA","Otho, IA",1,2,0,1,1,1,0,2,1,3,2009
+77501,"West Des Moines, IA","State Center, IA",0,1,2,1,2,0,0,1,2,3,2009
+77364,"West Des Moines, IA","Montrose, IA",2,1,0,0,2,1,3,0,0,3,2009
+77391,"West Des Moines, IA","Nodaway, IA",0,3,0,0,0,3,0,2,1,3,2009
+77508,"West Des Moines, IA","Sully, IA",1,1,1,1,2,0,0,2,1,3,2009
+77383,"West Des Moines, IA","New Hartford, IA",2,0,1,0,3,0,0,3,0,3,2009
+77381,"West Des Moines, IA","New Albin, IA",0,2,1,0,0,3,0,1,2,3,2009
+77318,"West Des Moines, IA","Lorimor, IA",1,1,1,0,3,0,0,2,1,3,2009
+77033,"West Des Moines, IA","Ackley, IA",0,1,2,0,2,1,1,2,0,3,2009
+77178,"West Des Moines, IA","Eldon, IA",1,2,0,0,2,1,1,0,2,3,2009
+77242,"West Des Moines, IA","Harcourt, IA",1,1,1,2,0,1,1,1,1,3,2009
+77070,"West Des Moines, IA","Batavia, IA",2,1,0,0,3,0,2,1,0,3,2009
+77096,"West Des Moines, IA","Brooklyn, IA",1,2,0,2,0,1,0,1,2,3,2009
+77097,"West Des Moines, IA","Buck Grove, IA",0,2,1,3,0,0,0,3,0,3,2009
+77099,"West Des Moines, IA","Buffalo, IA",0,3,0,0,2,1,1,0,2,3,2009
+77171,"West Des Moines, IA","Dysart, IA",1,2,0,0,3,0,2,1,0,3,2009
+77046,"West Des Moines, IA","Alton, IA",0,3,0,1,2,0,1,0,2,3,2009
+77069,"West Des Moines, IA","Baldwin, IA",0,3,0,0,2,1,2,0,1,3,2009
+77286,"West Des Moines, IA","Lake City, IA",0,2,1,2,1,0,0,1,2,3,2009
+77227,"West Des Moines, IA","Grandview, IA",2,0,1,0,2,1,1,1,1,3,2009
+77054,"West Des Moines, IA","Anthon, IA",1,1,1,0,2,1,2,0,1,3,2009
+77186,"West Des Moines, IA","Ely, IA",2,1,0,1,1,1,2,1,0,3,2009
+77042,"West Des Moines, IA","Alden, IA",0,3,0,0,2,1,1,1,1,3,2009
+77165,"West Des Moines, IA","Dixon, IA",1,1,1,1,1,1,3,0,0,3,2009
+77211,"West Des Moines, IA","Fredericksburg, IA",1,1,1,0,2,1,1,2,0,3,2009
+77038,"West Des Moines, IA","Agency, IA",1,2,0,0,2,1,1,0,2,3,2009
+77249,"West Des Moines, IA","Hazleton, IA",0,2,1,0,2,1,0,0,3,3,2009
+77209,"West Des Moines, IA","Franklin, IA",2,1,0,0,1,2,2,0,1,3,2009
+77205,"West Des Moines, IA","Forest City, IA",0,2,1,1,0,2,1,1,1,3,2009
+77239,"West Des Moines, IA","Guttenberg, IA",1,2,0,0,3,0,1,0,2,3,2009
+77315,"West Des Moines, IA","Logan, IA",1,2,0,2,0,1,2,0,1,3,2009
+77213,"West Des Moines, IA","Fremont, IA",1,1,0,0,2,0,1,0,1,2,2009
+77417,"West Des Moines, IA","Panama, IA",0,0,2,0,0,2,1,1,0,2,2009
+77509,"West Des Moines, IA","Sumner, IA",0,2,0,0,2,0,0,0,2,2,2009
+77107,"West Des Moines, IA","Carson, IA",1,1,0,0,1,1,1,1,0,2,2009
+77566,"West Des Moines, IA","Zwingle, IA",1,0,1,1,1,0,0,2,0,2,2009
+77222,"West Des Moines, IA","Goldfield, IA",0,2,0,0,2,0,0,1,1,2,2009
+77223,"West Des Moines, IA","Graettinger, IA",0,2,0,0,2,0,0,0,2,2,2009
+77111,"West Des Moines, IA","Castalia, IA",2,0,0,0,2,0,1,0,1,2,2009
+77511,"West Des Moines, IA","Swea City, IA",1,1,0,0,2,0,0,1,1,2,2009
+77226,"West Des Moines, IA","Grand River, IA",2,0,0,0,1,1,2,0,0,2,2009
+77402,"West Des Moines, IA","Orange City, IA",2,0,0,0,1,1,1,1,0,2,2009
+77229,"West Des Moines, IA","Grant, IA",1,1,0,0,0,2,0,0,2,2,2009
+77093,"West Des Moines, IA","Brighton, IA",1,1,0,0,1,1,1,0,1,2,2009
+77515,"West Des Moines, IA","Tipton, IA",0,2,0,0,2,0,1,0,1,2,2009
+77516,"West Des Moines, IA","Toledo, IA",1,1,0,1,0,1,2,0,0,2,2009
+77152,"West Des Moines, IA","Danville, IA",0,0,2,0,1,1,1,0,1,2,2009
+77392,"West Des Moines, IA","Nora Springs, IA",0,2,0,0,1,1,1,0,1,2,2009
+77502,"West Des Moines, IA","Steamboat Rock, IA",0,2,0,1,1,0,0,1,1,2,2009
+77118,"West Des Moines, IA","Central City, IA",0,2,0,0,2,0,1,0,1,2,2009
+77203,"West Des Moines, IA","Floyd, IA",0,1,1,0,1,1,0,2,0,2,2009
+77424,"West Des Moines, IA","Peosta, IA",0,2,0,0,1,1,1,1,0,2,2009
+77474,"West Des Moines, IA","Schleswig, IA",0,2,0,1,1,0,0,1,1,2,2009
+77470,"West Des Moines, IA","Sageville, IA",1,1,0,0,1,1,0,1,1,2,2009
+77149,"West Des Moines, IA","Cushing, IA",0,0,2,1,0,1,0,2,0,2,2009
+77148,"West Des Moines, IA","Crystal Lake, IA",1,0,1,0,1,1,0,1,1,2,2009
+77159,"West Des Moines, IA","Deloit, IA",0,2,0,2,0,0,0,0,2,2,2009
+77147,"West Des Moines, IA","Cromwell, IA",1,1,0,1,1,0,1,1,0,2,2009
+77166,"West Des Moines, IA","Donnellson, IA",1,1,0,1,1,0,0,2,0,2,2009
+77462,"West Des Moines, IA","Rockwell City, IA",0,2,0,0,1,1,1,0,1,2,2009
+77168,"West Des Moines, IA","Duncombe, IA",0,2,0,0,1,1,1,1,0,2,2009
+77455,"West Des Moines, IA","Ridgeway, IA",1,1,0,0,1,1,2,0,0,2,2009
+77454,"West Des Moines, IA","Richland, IA",2,0,0,0,2,0,1,0,1,2,2009
+77170,"West Des Moines, IA","Dyersville, IA",0,2,0,1,1,0,1,1,0,2,2009
+77137,"West Des Moines, IA","Columbus Junction, IA",1,0,1,0,0,2,1,1,0,2,2009
+77183,"West Des Moines, IA","Elkport, IA",1,0,1,0,2,0,1,1,0,2,2009
+77185,"West Des Moines, IA","Ellsworth, IA",0,2,0,0,0,2,1,0,1,2,2009
+77445,"West Des Moines, IA","Readlyn, IA",1,1,0,1,1,0,0,1,1,2,2009
+77487,"West Des Moines, IA","Sioux Center, IA",1,0,1,0,0,2,1,1,0,2,2009
+77125,"West Des Moines, IA","Clarence, IA",0,2,0,0,0,2,0,1,1,2,2009
+77192,"West Des Moines, IA","Fairbank, IA",1,0,1,0,2,0,2,0,0,2,2009
+77195,"West Des Moines, IA","Farley, IA",1,0,1,1,1,0,1,0,1,2,2009
+77436,"West Des Moines, IA","Primghar, IA",0,0,2,0,2,0,1,1,0,2,2009
+77435,"West Des Moines, IA","Prairieburg, IA",1,1,0,0,2,0,0,1,1,2,2009
+77116,"West Des Moines, IA","Center Point, IA",0,2,0,1,1,0,1,0,1,2,2009
+77201,"West Des Moines, IA","Ferguson, IA",1,0,1,2,0,0,1,1,0,2,2009
+77500,"West Des Moines, IA","Stanton, IA",1,1,0,1,1,0,2,0,0,2,2009
+77086,"West Des Moines, IA","Bonaparte, IA",1,1,0,1,1,0,1,0,1,2,2009
+77154,"West Des Moines, IA","Dawson, IA",0,2,0,0,1,1,0,1,1,2,2009
+77363,"West Des Moines, IA","Montour, IA",0,0,2,0,1,1,0,2,0,2,2009
+77058,"West Des Moines, IA","Arnolds Park, IA",0,2,0,0,2,0,0,1,1,2,2009
+77365,"West Des Moines, IA","Moorhead, IA",2,0,0,0,2,0,0,2,0,2,2009
+77068,"West Des Moines, IA","Bagley, IA",0,2,0,1,1,0,0,1,1,2,2009
+77304,"West Des Moines, IA","Leland, IA",0,2,0,0,2,0,0,0,2,2,2009
+77276,"West Des Moines, IA","Kimballton, IA",0,1,1,0,2,0,0,1,1,2,2009
+77059,"West Des Moines, IA","Arthur, IA",0,2,0,0,2,0,0,0,2,2,2009
+77540,"West Des Moines, IA","Webster, IA",0,1,1,1,1,0,0,2,0,2,2009
+77355,"West Des Moines, IA","Minden, IA",0,1,1,1,0,1,1,0,1,2,2009
+77303,"West Des Moines, IA","Lehigh, IA",1,1,0,0,2,0,1,0,1,2,2009
+77338,"West Des Moines, IA","Martelle, IA",1,1,0,1,1,0,0,1,1,2,2009
+77558,"West Des Moines, IA","Winthrop, IA",1,1,0,0,2,0,1,0,1,2,2009
+77553,"West Des Moines, IA","Williams, IA",1,1,0,0,1,1,1,0,1,2,2009
+77294,"West Des Moines, IA","Larrabee, IA",2,0,0,0,1,1,0,1,1,2,2009
+77351,"West Des Moines, IA","Millerton, IA",0,0,2,1,1,0,2,0,0,2,2009
+77552,"West Des Moines, IA","Willey, IA",1,1,0,0,1,1,1,1,0,2,2009
+77287,"West Des Moines, IA","Lake Mills, IA",1,1,0,0,0,2,1,1,0,2,2009
+77056,"West Des Moines, IA","Arlington, IA",0,2,0,1,1,0,1,0,1,2,2009
+77551,"West Des Moines, IA","Whitten, IA",0,2,0,0,0,2,0,1,1,2,2009
+77051,"West Des Moines, IA","Andrew, IA",1,1,0,0,2,0,2,0,0,2,2009
+77367,"West Des Moines, IA","Morley, IA",0,2,0,1,0,1,0,1,1,2,2009
+77548,"West Des Moines, IA","Westfield, IA",0,1,1,1,1,0,0,1,1,2,2009
+77267,"West Des Moines, IA","Jesup, IA",1,1,0,0,2,0,0,1,1,2,2009
+77246,"West Des Moines, IA","Havelock, IA",1,1,0,0,1,1,1,0,1,2,2009
+77077,"West Des Moines, IA","Bellevue, IA",0,2,0,0,1,1,0,1,1,2,2009
+77330,"West Des Moines, IA","Manson, IA",0,1,1,0,2,0,1,0,1,2,2009
+77378,"West Des Moines, IA","Mystic, IA",1,1,0,1,1,0,1,0,1,2,2009
+77078,"West Des Moines, IA","Belmond, IA",0,2,0,0,1,1,1,0,1,2,2009
+77252,"West Des Moines, IA","Hills, IA",1,1,0,0,1,1,1,0,1,2,2009
+77248,"West Des Moines, IA","Hawarden, IA",0,2,0,0,2,0,0,2,0,2,2009
+77074,"West Des Moines, IA","Beaman, IA",1,0,1,0,1,1,1,0,1,2,2009
+77308,"West Des Moines, IA","Lidderdale, IA",0,2,0,0,1,1,0,0,2,2,2009
+77255,"West Des Moines, IA","Hospers, IA",0,1,1,0,1,1,0,0,2,2,2009
+77529,"West Des Moines, IA","Wadena, IA",0,2,0,0,2,0,1,0,1,2,2009
+77565,"West Des Moines, IA","Zearing, IA",0,1,1,0,2,0,0,2,0,2,2009
+77385,"West Des Moines, IA","New Market, IA",0,1,1,0,1,1,1,1,0,2,2009
+77325,"West Des Moines, IA","Magnolia, IA",1,1,0,1,0,1,0,1,1,2,2009
+77484,"West Des Moines, IA","Sibley, IA",0,1,0,0,1,0,0,0,1,1,2009
+77134,"West Des Moines, IA","Coburg, IA",0,0,1,0,1,0,1,0,0,1,2009
+77563,"West Des Moines, IA","Wyoming, IA",1,0,0,0,1,0,0,1,0,1,2009
+77564,"West Des Moines, IA","Yetter, IA",0,1,0,1,0,0,0,1,0,1,2009
+77561,"West Des Moines, IA","Woodbine, IA",1,0,0,0,0,1,1,0,0,1,2009
+77050,"West Des Moines, IA","Andover, IA",0,1,0,0,0,1,0,1,0,1,2009
+77045,"West Des Moines, IA","Alta Vista, IA",0,1,0,0,1,0,0,1,0,1,2009
+77044,"West Des Moines, IA","Allison, IA",1,0,0,0,0,1,0,1,0,1,2009
+77560,"West Des Moines, IA","Woden, IA",0,1,0,0,1,0,0,1,0,1,2009
+77483,"West Des Moines, IA","Shueyville, IA",1,0,0,0,1,0,1,0,0,1,2009
+77138,"West Des Moines, IA","Colwell, IA",1,0,0,0,1,0,1,0,0,1,2009
+77139,"West Des Moines, IA","Conrad, IA",0,1,0,0,1,0,1,0,0,1,2009
+77480,"West Des Moines, IA","Sheldon, IA",0,0,1,1,0,0,0,0,1,1,2009
+77133,"West Des Moines, IA","Clutier, IA",0,1,0,0,1,0,0,0,1,1,2009
+77479,"West Des Moines, IA","Shelby, IA",0,1,0,0,0,1,0,0,1,1,2009
+77478,"West Des Moines, IA","Sheffield, IA",1,0,0,0,1,0,1,0,0,1,2009
+77083,"West Des Moines, IA","Blanchard, IA",0,1,0,0,0,1,1,0,0,1,2009
+77543,"West Des Moines, IA","West Branch, IA",1,0,0,0,0,1,1,0,0,1,2009
+77129,"West Des Moines, IA","Clearfield, IA",0,1,0,0,1,0,0,1,0,1,2009
+77127,"West Des Moines, IA","Clarion, IA",1,0,0,0,0,1,1,0,0,1,2009
+77089,"West Des Moines, IA","Boxholm, IA",0,1,0,1,0,0,0,1,0,1,2009
+77524,"West Des Moines, IA","Van Horne, IA",0,1,0,0,0,1,0,1,0,1,2009
+77090,"West Des Moines, IA","Boyden, IA",0,1,0,0,0,1,1,0,0,1,2009
+77518,"West Des Moines, IA","Truesdale, IA",1,0,0,0,0,1,0,1,0,1,2009
+77092,"West Des Moines, IA","Brayton, IA",0,1,0,0,1,0,0,1,0,1,2009
+77094,"West Des Moines, IA","Bristow, IA",0,0,1,0,1,0,1,0,0,1,2009
+77527,"West Des Moines, IA","Vining, IA",0,1,0,1,0,0,0,0,1,1,2009
+77073,"West Des Moines, IA","Bayard, IA",0,1,0,1,0,0,0,1,0,1,2009
+77071,"West Des Moines, IA","Battle Creek, IA",1,0,0,0,0,1,1,0,0,1,2009
+77533,"West Des Moines, IA","Wapello, IA",0,1,0,0,1,0,0,0,1,1,2009
+77102,"West Des Moines, IA","Callender, IA",0,0,1,0,1,0,0,1,0,1,2009
+77067,"West Des Moines, IA","Avoca, IA",1,0,0,0,0,1,1,0,0,1,2009
+77065,"West Des Moines, IA","Aurelia, IA",0,1,0,0,1,0,0,1,0,1,2009
+77109,"West Des Moines, IA","Cascade, IA",0,1,0,0,0,1,0,1,0,1,2009
+77503,"West Des Moines, IA","Stockton, IA",0,0,1,0,0,1,0,0,1,1,2009
+77061,"West Des Moines, IA","Ashton, IA",0,1,0,0,0,1,0,1,0,1,2009
+77541,"West Des Moines, IA","Wellman, IA",1,0,0,0,1,0,0,1,0,1,2009
+77112,"West Des Moines, IA","Castana, IA",0,1,0,0,0,1,0,0,1,1,2009
+77115,"West Des Moines, IA","Center Junction, IA",1,0,0,0,0,1,1,0,0,1,2009
+77497,"West Des Moines, IA","St. Lucas, IA",0,1,0,0,1,0,0,0,1,1,2009
+77081,"West Des Moines, IA","Blairstown, IA",0,0,1,0,1,0,0,1,0,1,2009
+77057,"West Des Moines, IA","Armstrong, IA",0,1,0,0,0,1,0,1,0,1,2009
+77494,"West Des Moines, IA","Spirit Lake, IA",0,1,0,0,1,0,0,0,1,1,2009
+77123,"West Des Moines, IA","Churdan, IA",0,1,0,0,1,0,0,1,0,1,2009
+77124,"West Des Moines, IA","Cincinnati, IA",0,1,0,0,0,1,1,0,0,1,2009
+77545,"West Des Moines, IA","West Chester, IA",0,1,0,0,1,0,1,0,0,1,2009
+77055,"West Des Moines, IA","Arcadia, IA",0,1,0,0,1,0,0,0,1,1,2009
+77091,"West Des Moines, IA","Brandon, IA",0,1,0,0,0,1,0,1,0,1,2009
+77316,"West Des Moines, IA","Lone Tree, IA",1,0,0,0,1,0,1,0,0,1,2009
+77471,"West Des Moines, IA","Salem, IA",1,0,0,0,1,0,0,1,0,1,2009
+77368,"West Des Moines, IA","Morrison, IA",1,0,0,0,1,0,0,1,0,1,2009
+77280,"West Des Moines, IA","Kirkville, IA",0,1,0,0,1,0,0,0,1,1,2009
+77279,"West Des Moines, IA","Kirkman, IA",1,0,0,0,0,1,1,0,0,1,2009
+77357,"West Des Moines, IA","Mitchell, IA",0,1,0,0,0,1,0,1,0,1,2009
+77278,"West Des Moines, IA","Kinross, IA",1,0,0,0,0,1,1,0,0,1,2009
+77277,"West Des Moines, IA","Kingsley, IA",0,0,1,0,1,0,0,1,0,1,2009
+77361,"West Des Moines, IA","Montezuma, IA",0,1,0,1,0,0,0,1,0,1,2009
+77275,"West Des Moines, IA","Keystone, IA",0,1,0,0,0,1,1,0,0,1,2009
+77273,"West Des Moines, IA","Kensett, IA",0,1,0,0,0,1,0,0,1,1,2009
+77270,"West Des Moines, IA","Joice, IA",0,1,0,0,0,1,0,1,0,1,2009
+77262,"West Des Moines, IA","Ionia, IA",0,1,0,0,1,0,0,0,1,1,2009
+77241,"West Des Moines, IA","Hancock, IA",0,1,0,1,0,0,1,0,0,1,2009
+77371,"West Des Moines, IA","Mount Ayr, IA",1,0,0,0,0,1,1,0,0,1,2009
+77256,"West Des Moines, IA","Hubbard, IA",0,1,0,0,0,1,0,0,1,1,2009
+77373,"West Des Moines, IA","Mount Union, IA",0,1,0,0,0,1,0,1,0,1,2009
+77375,"West Des Moines, IA","Moville, IA",0,1,0,0,1,0,0,0,1,1,2009
+77254,"West Des Moines, IA","Hopkinton, IA",0,1,0,0,1,0,0,0,1,1,2009
+77379,"West Des Moines, IA","Nashua, IA",0,1,0,0,0,1,0,0,1,1,2009
+77250,"West Des Moines, IA","Henderson, IA",1,0,0,0,1,0,1,0,0,1,2009
+77384,"West Des Moines, IA","New Liberty, IA",0,1,0,0,0,1,0,0,1,1,2009
+77244,"West Des Moines, IA","Harpers Ferry, IA",0,1,0,0,0,1,0,0,1,1,2009
+77281,"West Des Moines, IA","Kiron, IA",0,1,0,0,1,0,0,0,1,1,2009
+77352,"West Des Moines, IA","Millville, IA",0,1,0,1,0,0,0,0,1,1,2009
+77350,"West Des Moines, IA","Milford, IA",0,1,0,0,0,1,0,1,0,1,2009
+77288,"West Des Moines, IA","Lake Park, IA",0,0,1,0,1,0,0,1,0,1,2009
+77314,"West Des Moines, IA","Lockridge, IA",0,1,0,0,1,0,0,0,1,1,2009
+77310,"West Des Moines, IA","Lincoln, IA",0,1,0,0,1,0,1,0,0,1,2009
+77309,"West Des Moines, IA","Lime Springs, IA",0,1,0,0,0,1,1,0,0,1,2009
+77326,"West Des Moines, IA","Malcom, IA",0,1,0,1,0,0,0,1,0,1,2009
+77327,"West Des Moines, IA","Manchester, IA",0,0,1,0,0,1,1,0,0,1,2009
+77328,"West Des Moines, IA","Manly, IA",0,1,0,0,1,0,0,0,1,1,2009
+77305,"West Des Moines, IA","Lenox, IA",0,1,0,0,1,0,1,0,0,1,2009
+77331,"West Des Moines, IA","Mapleton, IA",1,0,0,0,1,0,0,0,1,1,2009
+77333,"West Des Moines, IA","Marble Rock, IA",1,0,0,0,1,0,0,1,0,1,2009
+77302,"West Des Moines, IA","Ledyard, IA",0,1,0,0,1,0,0,1,0,1,2009
+77297,"West Des Moines, IA","Lawton, IA",0,1,0,0,1,0,0,1,0,1,2009
+77296,"West Des Moines, IA","Lawler, IA",1,0,0,0,1,0,0,1,0,1,2009
+77295,"West Des Moines, IA","Laurens, IA",0,1,0,0,1,0,0,0,1,1,2009
+77293,"West Des Moines, IA","Larchwood, IA",0,1,0,0,1,0,0,1,0,1,2009
+77342,"West Des Moines, IA","McClelland, IA",0,1,0,0,1,0,0,1,0,1,2009
+77343,"West Des Moines, IA","McIntire, IA",1,0,0,0,1,0,0,1,0,1,2009
+77344,"West Des Moines, IA","Mechanicsville, IA",0,0,1,0,1,0,1,0,0,1,2009
+77290,"West Des Moines, IA","Lakota, IA",0,1,0,0,0,1,1,0,0,1,2009
+77289,"West Des Moines, IA","Lakeside, IA",1,0,0,0,0,1,1,0,0,1,2009
+77387,"West Des Moines, IA","New Vienna, IA",0,0,1,0,1,0,0,1,0,1,2009
+77238,"West Des Moines, IA","Guthrie Center, IA",1,0,0,0,1,0,0,1,0,1,2009
+77158,"West Des Moines, IA","Defiance, IA",0,1,0,0,1,0,0,1,0,1,2009
+77184,"West Des Moines, IA","Elliott, IA",0,1,0,0,0,1,0,0,1,1,2009
+77198,"West Des Moines, IA","Farnhamville, IA",0,1,0,1,0,0,0,0,1,1,2009
+77197,"West Des Moines, IA","Farmington, IA",0,1,0,0,0,1,1,0,0,1,2009
+77433,"West Des Moines, IA","Postville, IA",1,0,0,0,1,0,1,0,0,1,2009
+77196,"West Des Moines, IA","Farmersburg, IA",1,0,0,0,1,0,0,1,0,1,2009
+77439,"West Des Moines, IA","Quimby, IA",1,0,0,0,1,0,1,0,0,1,2009
+77440,"West Des Moines, IA","Rake, IA",0,1,0,0,0,1,0,1,0,1,2009
+77441,"West Des Moines, IA","Randalia, IA",0,1,0,0,1,0,0,0,1,1,2009
+77319,"West Des Moines, IA","Low Moor, IA",1,0,0,0,1,0,1,0,0,1,2009
+77187,"West Des Moines, IA","Emmetsburg, IA",0,1,0,0,1,0,0,0,1,1,2009
+77181,"West Des Moines, IA","Elgin, IA",1,0,0,0,1,0,0,1,0,1,2009
+77393,"West Des Moines, IA","North English, IA",0,1,0,0,1,0,0,0,1,1,2009
+77176,"West Des Moines, IA","Edgewood, IA",1,0,0,0,1,0,0,0,1,1,2009
+77456,"West Des Moines, IA","Rippey, IA",1,0,0,1,0,0,0,1,0,1,2009
+77457,"West Des Moines, IA","Riverdale, IA",1,0,0,0,1,0,0,1,0,1,2009
+77169,"West Des Moines, IA","Dunkerton, IA",0,1,0,0,1,0,0,1,0,1,2009
+77459,"West Des Moines, IA","Riverton, IA",1,0,0,0,0,1,0,1,0,1,2009
+77461,"West Des Moines, IA","Rock Rapids, IA",0,1,0,0,1,0,0,0,1,1,2009
+77464,"West Des Moines, IA","Rome, IA",0,1,0,0,0,1,0,1,0,1,2009
+77164,"West Des Moines, IA","Diagonal, IA",0,0,1,1,0,0,0,1,0,1,2009
+77468,"West Des Moines, IA","Sabula, IA",1,0,0,0,1,0,0,0,1,1,2009
+77199,"West Des Moines, IA","Farragut, IA",0,1,0,0,0,1,1,0,0,1,2009
+77429,"West Des Moines, IA","Pleasanton, IA",1,0,0,0,0,1,0,1,0,1,2009
+77200,"West Des Moines, IA","Fayette, IA",0,1,0,1,0,0,0,1,0,1,2009
+77426,"West Des Moines, IA","Pierson, IA",1,0,0,0,1,0,0,0,1,1,2009
+77236,"West Des Moines, IA","Grundy Center, IA",0,1,0,0,1,0,1,0,0,1,2009
+77395,"West Des Moines, IA","Northwood, IA",0,1,0,0,1,0,0,1,0,1,2009
+77233,"West Des Moines, IA","Greenville, IA",0,0,1,0,1,0,0,0,1,1,2009
+77397,"West Des Moines, IA","Norway, IA",0,1,0,1,0,0,0,0,1,1,2009
+77398,"West Des Moines, IA","Odebolt, IA",0,0,1,1,0,0,0,1,0,1,2009
+77231,"West Des Moines, IA","Greeley, IA",0,1,0,0,1,0,1,0,0,1,2009
+77230,"West Des Moines, IA","Gravity, IA",0,1,0,0,0,1,0,1,0,1,2009
+77224,"West Des Moines, IA","Graf, IA",0,1,0,0,0,1,0,1,0,1,2009
+77218,"West Des Moines, IA","Gilbertville, IA",1,0,0,0,1,0,1,0,0,1,2009
+77216,"West Des Moines, IA","Gibson, IA",0,1,0,0,0,1,1,0,0,1,2009
+77214,"West Des Moines, IA","Garnavillo, IA",0,0,1,0,1,0,0,0,1,1,2009
+77411,"West Des Moines, IA","Oxford Junction, IA",0,0,1,0,0,1,0,1,0,1,2009
+77413,"West Des Moines, IA","Oyens, IA",0,1,0,1,0,0,0,0,1,1,2009
+77212,"West Des Moines, IA","Frederika, IA",1,0,0,0,0,1,0,1,0,1,2009
+77206,"West Des Moines, IA","Fort Atkinson, IA",0,1,0,0,1,0,1,0,0,1,2009
+77420,"West Des Moines, IA","Parkersburg, IA",0,0,1,0,1,0,1,0,0,1,2009
+77421,"West Des Moines, IA","Parnell, IA",0,1,0,0,0,1,0,0,1,1,2009
+77204,"West Des Moines, IA","Fonda, IA",0,0,1,0,0,1,1,0,0,1,2009
+77202,"West Des Moines, IA","Floris, IA",1,0,0,1,0,0,0,1,0,1,2009
+77188,"West Des Moines, IA","Essex, IA",1,0,0,0,0,1,0,1,0,1,2009

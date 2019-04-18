@@ -1,0 +1,85 @@
+,home city,work city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+29618,"Lewis, IA","Atlantic, IA",38,108,36,39,120,23,61,100,21,182,2004
+29659,"Lewis, IA","Lewis, IA",19,48,15,55,13,14,25,45,12,82,2004
+29632,"Lewis, IA","Council Bluffs, IA",15,53,10,14,53,11,20,48,10,78,2004
+29635,"Lewis, IA","Cumberland, IA",10,31,20,4,41,16,21,31,9,61,2004
+29662,"Lewis, IA","Massena, IA",12,22,15,10,32,7,27,15,7,49,2004
+29682,"Lewis, IA","Red Oak, IA",5,28,7,15,20,5,10,17,13,40,2004
+29645,"Lewis, IA","Grant, IA",6,18,7,2,16,13,18,9,4,31,2004
+29646,"Lewis, IA","Greenfield, IA",6,23,1,14,15,1,7,16,7,30,2004
+29622,"Lewis, IA","Carson, IA",7,12,4,1,11,11,8,8,7,23,2004
+29638,"Lewis, IA","Des Moines, IA",8,7,3,1,14,3,6,6,6,18,2004
+29674,"Lewis, IA","Oakland, IA",4,11,3,0,18,0,7,10,1,18,2004
+29648,"Lewis, IA","Hancock, IA",5,4,5,0,10,4,4,8,2,14,2004
+29696,"Lewis, IA","Wiota, IA",4,8,1,4,6,3,5,6,2,13,2004
+29634,"Lewis, IA","Creston, IA",5,4,1,1,6,3,6,4,0,10,2004
+29687,"Lewis, IA","Sioux City, IA",6,4,0,0,5,5,5,5,0,10,2004
+29619,"Lewis, IA","Audubon, IA",0,9,0,6,0,3,0,9,0,9,2004
+29631,"Lewis, IA","Corning, IA",2,7,0,2,7,0,1,7,1,9,2004
+29624,"Lewis, IA","Casey, IA",1,6,0,5,2,0,0,7,0,7,2004
+29677,"Lewis, IA","Osceola, IA",3,4,0,0,6,1,3,2,2,7,2004
+29629,"Lewis, IA","Clive, IA",3,4,0,1,5,1,3,3,1,7,2004
+29652,"Lewis, IA","Iowa City, IA",6,0,0,0,5,1,4,2,0,6,2004
+29676,"Lewis, IA","Orient, IA",0,5,1,0,6,0,2,4,0,6,2004
+29660,"Lewis, IA","Macedonia, IA",0,4,2,3,2,1,0,2,4,6,2004
+29614,"Lewis, IA","Ames, IA",3,1,0,0,3,1,2,1,1,4,2004
+29657,"Lewis, IA","Lenox, IA",0,2,2,1,1,2,3,1,0,4,2004
+29693,"Lewis, IA","Waterloo, IA",0,4,0,1,0,3,0,3,1,4,2004
+29694,"Lewis, IA","Windsor Heights, IA",2,2,0,0,1,3,2,2,0,4,2004
+29647,"Lewis, IA","Hamburg, IA",0,4,0,2,1,1,0,4,0,4,2004
+29666,"Lewis, IA","Missouri Valley, IA",2,2,0,0,4,0,1,3,0,4,2004
+29670,"Lewis, IA","Newton, IA",1,1,1,0,2,1,2,1,0,3,2004
+29649,"Lewis, IA","Harlan, IA",2,0,1,0,3,0,3,0,0,3,2004
+29642,"Lewis, IA","Farragut, IA",0,0,3,3,0,0,0,0,3,3,2004
+29671,"Lewis, IA","Nodaway, IA",3,0,0,2,1,0,3,0,0,3,2004
+29685,"Lewis, IA","Shenandoah, IA",0,3,0,1,1,1,0,2,1,3,2004
+29616,"Lewis, IA","Ankeny, IA",3,0,0,0,1,2,3,0,0,3,2004
+29621,"Lewis, IA","Bedford, IA",1,2,0,1,2,0,0,3,0,3,2004
+29626,"Lewis, IA","Cedar Rapids, IA",0,3,0,0,1,2,0,3,0,3,2004
+29628,"Lewis, IA","Clarinda, IA",2,1,0,0,2,1,2,1,0,3,2004
+29691,"Lewis, IA","Urbandale, IA",1,2,0,0,1,2,1,1,1,3,2004
+29615,"Lewis, IA","Anita, IA",0,2,0,1,1,0,0,2,0,2,2004
+29675,"Lewis, IA","Onawa, IA",0,1,1,0,2,0,2,0,0,2,2004
+29665,"Lewis, IA","Minden, IA",0,2,0,0,2,0,0,2,0,2,2004
+29664,"Lewis, IA","Melcher-Dallas, IA",0,2,0,2,0,0,0,1,1,2,2004
+29663,"Lewis, IA","McClelland, IA",1,0,1,1,0,1,1,0,1,2,2004
+29623,"Lewis, IA","Carter Lake, IA",0,2,0,2,0,0,0,1,1,2,2004
+29684,"Lewis, IA","Shelby, IA",0,2,0,0,1,1,0,2,0,2,2004
+29681,"Lewis, IA","Pleasant Hill, IA",0,2,0,0,1,1,1,0,1,2,2004
+29637,"Lewis, IA","Denison, IA",1,1,0,0,2,0,1,1,0,2,2004
+29686,"Lewis, IA","Silver City, IA",0,2,0,0,2,0,1,1,0,2,2004
+29679,"Lewis, IA","Pacific Junction, IA",0,1,0,1,0,0,0,1,0,1,2004
+29692,"Lewis, IA","Walnut, IA",0,0,1,0,0,1,0,1,0,1,2004
+29690,"Lewis, IA","Tennant, IA",0,1,0,0,1,0,1,0,0,1,2004
+29680,"Lewis, IA","Panama, IA",0,1,0,0,1,0,0,1,0,1,2004
+29689,"Lewis, IA","Story City, IA",0,0,1,0,1,0,1,0,0,1,2004
+29683,"Lewis, IA","Sanborn, IA",0,1,0,0,1,0,0,1,0,1,2004
+29695,"Lewis, IA","Winterset, IA",1,0,0,0,1,0,1,0,0,1,2004
+29688,"Lewis, IA","Stanton, IA",0,1,0,0,0,1,1,0,0,1,2004
+29673,"Lewis, IA","Norwalk, IA",1,0,0,0,0,1,1,0,0,1,2004
+29678,"Lewis, IA","Ottumwa, IA",1,0,0,0,1,0,1,0,0,1,2004
+29613,"Lewis, IA","Adair, IA",0,1,0,1,0,0,0,1,0,1,2004
+29672,"Lewis, IA","North Liberty, IA",0,1,0,0,0,1,0,0,1,1,2004
+29669,"Lewis, IA","Mount Vernon, IA",0,1,0,0,0,1,1,0,0,1,2004
+29617,"Lewis, IA","Arcadia, IA",0,1,0,0,1,0,1,0,0,1,2004
+29620,"Lewis, IA","Avoca, IA",0,1,0,0,1,0,0,1,0,1,2004
+29625,"Lewis, IA","Cedar Falls, IA",1,0,0,0,1,0,1,0,0,1,2004
+29627,"Lewis, IA","Chariton, IA",1,0,0,0,0,1,1,0,0,1,2004
+29630,"Lewis, IA","Coralville, IA",0,0,1,0,0,1,1,0,0,1,2004
+29633,"Lewis, IA","Crescent, IA",0,1,0,1,0,0,0,1,0,1,2004
+29636,"Lewis, IA","Danbury, IA",0,0,1,0,1,0,0,1,0,1,2004
+29639,"Lewis, IA","East Peru, IA",1,0,0,0,1,0,0,0,1,1,2004
+29640,"Lewis, IA","Elliott, IA",0,1,0,0,1,0,1,0,0,1,2004
+29641,"Lewis, IA","Exira, IA",0,1,0,0,0,1,0,1,0,1,2004
+29643,"Lewis, IA","Fort Dodge, IA",0,1,0,0,0,1,0,1,0,1,2004
+29644,"Lewis, IA","Glenwood, IA",1,0,0,0,0,1,1,0,0,1,2004
+29650,"Lewis, IA","Henderson, IA",0,1,0,0,1,0,1,0,0,1,2004
+29651,"Lewis, IA","Hiawatha, IA",0,1,0,0,0,1,1,0,0,1,2004
+29653,"Lewis, IA","Iowa Falls, IA",1,0,0,1,0,0,0,0,1,1,2004
+29654,"Lewis, IA","Knoxville, IA",0,1,0,0,0,1,0,1,0,1,2004
+29656,"Lewis, IA","Lehigh, IA",0,0,1,0,1,0,0,0,1,1,2004
+29658,"Lewis, IA","Leon, IA",1,0,0,0,0,1,0,1,0,1,2004
+29661,"Lewis, IA","Malvern, IA",0,0,1,0,1,0,1,0,0,1,2004
+29667,"Lewis, IA","Mondamin, IA",0,1,0,1,0,0,0,1,0,1,2004
+29668,"Lewis, IA","Mount Ayr, IA",0,1,0,0,0,1,1,0,0,1,2004
+29655,"Lewis, IA","Le Grand, IA",0,0,1,0,1,0,0,0,1,1,2004

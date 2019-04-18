@@ -1,0 +1,100 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+8350,"Boyden, IA","Sheldon, IA",28,71,30,116,6,7,12,58,59,129,2014
+8311,"Boyden, IA","Hospers, IA",20,65,22,75,13,19,27,43,37,107,2014
+8281,"Boyden, IA","Boyden, IA",22,45,36,75,7,21,21,46,36,103,2014
+8333,"Boyden, IA","Orange City, IA",11,26,13,39,4,7,10,17,23,50,2014
+8275,"Boyden, IA","Ashton, IA",4,16,10,23,2,5,6,13,11,30,2014
+8272,"Boyden, IA","Alton, IA",7,10,6,22,1,0,7,11,5,23,2014
+8346,"Boyden, IA","Rock Rapids, IA",5,14,3,19,0,3,2,17,3,22,2014
+8353,"Boyden, IA","Sioux Center, IA",10,9,1,19,0,1,4,9,7,20,2014
+8342,"Boyden, IA","Primghar, IA",7,8,1,16,0,0,2,8,6,16,2014
+8356,"Boyden, IA","Spencer, IA",4,9,2,15,0,0,2,10,3,15,2014
+8308,"Boyden, IA","Hartley, IA",2,10,2,13,0,1,1,4,9,14,2014
+8349,"Boyden, IA","Sanborn, IA",3,4,7,11,0,3,0,10,4,14,2014
+8322,"Boyden, IA","Le Mars, IA",5,8,1,12,0,2,3,5,6,14,2014
+8304,"Boyden, IA","George, IA",5,6,2,11,0,2,0,7,6,13,2014
+8301,"Boyden, IA","Estherville, IA",1,7,4,12,0,0,4,4,4,12,2014
+8312,"Boyden, IA","Hull, IA",5,5,2,11,1,0,3,6,3,12,2014
+8307,"Boyden, IA","Harris, IA",5,6,0,11,0,0,2,7,2,11,2014
+8354,"Boyden, IA","Sioux City, IA",2,4,4,9,0,1,1,6,3,10,2014
+8351,"Boyden, IA","Sibley, IA",1,5,2,8,0,0,2,0,6,8,2014
+8347,"Boyden, IA","Rock Valley, IA",2,4,2,6,0,2,1,4,3,8,2014
+8325,"Boyden, IA","Marcus, IA",3,1,3,7,0,0,1,5,1,7,2014
+8338,"Boyden, IA","Paullina, IA",2,4,0,6,0,0,0,4,2,6,2014
+8360,"Boyden, IA","Sutherland, IA",3,3,0,6,0,0,0,2,4,6,2014
+8298,"Boyden, IA","Doon, IA",1,4,1,4,0,2,4,2,0,6,2014
+8339,"Boyden, IA","Peterson, IA",2,3,0,4,0,1,0,2,3,5,2014
+8357,"Boyden, IA","Spirit Lake, IA",2,2,1,4,0,1,0,2,3,5,2014
+8323,"Boyden, IA","Little Rock, IA",1,2,2,5,0,0,1,0,4,5,2014
+8309,"Boyden, IA","Hawarden, IA",1,2,1,2,1,1,2,1,1,4,2014
+8332,"Boyden, IA","Ocheyedan, IA",1,2,1,3,1,0,1,2,1,4,2014
+8344,"Boyden, IA","Remsen, IA",1,2,1,4,0,0,2,1,1,4,2014
+8302,"Boyden, IA","Everly, IA",1,2,1,4,0,0,0,3,1,4,2014
+8315,"Boyden, IA","Ireton, IA",1,2,1,4,0,0,1,3,0,4,2014
+8313,"Boyden, IA","Inwood, IA",1,2,0,1,0,2,2,0,1,3,2014
+8320,"Boyden, IA","Lake Park, IA",1,2,0,3,0,0,0,3,0,3,2014
+8283,"Boyden, IA","Cedar Rapids, IA",2,1,0,2,0,1,1,1,1,3,2014
+8358,"Boyden, IA","Storm Lake, IA",2,1,0,2,0,1,1,1,1,3,2014
+8282,"Boyden, IA","Carroll, IA",0,3,0,3,0,0,0,3,0,3,2014
+8359,"Boyden, IA","Superior, IA",1,1,1,3,0,0,0,1,2,3,2014
+8337,"Boyden, IA","Oyens, IA",1,1,1,2,0,1,1,0,2,3,2014
+8348,"Boyden, IA","Ruthven, IA",0,2,0,1,1,0,0,1,1,2,2014
+8318,"Boyden, IA","Kingsley, IA",0,2,0,2,0,0,0,2,0,2,2014
+8328,"Boyden, IA","Milford, IA",0,1,1,2,0,0,0,0,2,2,2014
+8327,"Boyden, IA","Merrill, IA",2,0,0,2,0,0,0,1,1,2,2014
+8362,"Boyden, IA","Wahpeton, IA",0,2,0,2,0,0,0,2,0,2,2014
+8293,"Boyden, IA","Davenport, IA",2,0,0,1,0,1,0,2,0,2,2014
+8361,"Boyden, IA","Terril, IA",0,2,0,2,0,0,0,1,1,2,2014
+8299,"Boyden, IA","Dubuque, IA",0,2,0,2,0,0,1,1,0,2,2014
+8345,"Boyden, IA","Robins, IA",0,1,1,2,0,0,2,0,0,2,2014
+8296,"Boyden, IA","Dickens, IA",0,2,0,2,0,0,0,2,0,2,2014
+8290,"Boyden, IA","Craig, IA",0,0,2,0,0,2,2,0,0,2,2014
+8289,"Boyden, IA","Council Bluffs, IA",0,1,1,1,1,0,1,1,0,2,2014
+8305,"Boyden, IA","Graettinger, IA",1,1,0,2,0,0,0,2,0,2,2014
+8343,"Boyden, IA","Reasnor, IA",0,0,1,1,0,0,0,0,1,1,2014
+8363,"Boyden, IA","Wall Lake, IA",0,0,1,0,1,0,0,0,1,1,2014
+8364,"Boyden, IA","Waterloo, IA",0,1,0,1,0,0,1,0,0,1,2014
+8352,"Boyden, IA","Silver City, IA",0,1,0,0,0,1,0,1,0,1,2014
+8336,"Boyden, IA","Ottumwa, IA",0,0,1,0,1,0,1,0,0,1,2014
+8355,"Boyden, IA","Sloan, IA",0,0,1,0,1,0,1,0,0,1,2014
+8340,"Boyden, IA","Plainfield, IA",1,0,0,1,0,0,0,1,0,1,2014
+8365,"Boyden, IA","Webster City, IA",1,0,0,1,0,0,1,0,0,1,2014
+8366,"Boyden, IA","Westfield, IA",0,1,0,0,0,1,0,0,1,1,2014
+8367,"Boyden, IA","Westside, IA",0,1,0,1,0,0,0,0,1,1,2014
+8368,"Boyden, IA","Woolstock, IA",0,0,1,1,0,0,0,1,0,1,2014
+8341,"Boyden, IA","Pleasant Hill, IA",0,0,1,1,0,0,0,1,0,1,2014
+8271,"Boyden, IA","Albia, IA",1,0,0,0,0,1,0,0,1,1,2014
+8335,"Boyden, IA","Oskaloosa, IA",1,0,0,1,0,0,0,1,0,1,2014
+8284,"Boyden, IA","Centerville, IA",0,0,1,1,0,0,0,0,1,1,2014
+8292,"Boyden, IA","Danbury, IA",0,1,0,1,0,0,0,0,1,1,2014
+8291,"Boyden, IA","Dakota City, IA",0,1,0,0,1,0,0,0,1,1,2014
+8288,"Boyden, IA","Clear Lake, IA",0,1,0,0,1,0,0,0,1,1,2014
+8287,"Boyden, IA","Churdan, IA",0,1,0,0,1,0,1,0,0,1,2014
+8286,"Boyden, IA","Cherokee, IA",0,1,0,1,0,0,0,1,0,1,2014
+8285,"Boyden, IA","Central City, IA",1,0,0,1,0,0,1,0,0,1,2014
+8280,"Boyden, IA","Blanchard, IA",0,1,0,1,0,0,0,1,0,1,2014
+8334,"Boyden, IA","Osage, IA",0,1,0,0,0,1,0,0,1,1,2014
+8279,"Boyden, IA","Belmond, IA",0,0,1,0,1,0,1,0,0,1,2014
+8278,"Boyden, IA","Aurelia, IA",0,1,0,1,0,0,0,0,1,1,2014
+8277,"Boyden, IA","Audubon, IA",0,1,0,0,1,0,0,1,0,1,2014
+8276,"Boyden, IA","Atlantic, IA",1,0,0,0,1,0,1,0,0,1,2014
+8274,"Boyden, IA","Arnolds Park, IA",0,1,0,1,0,0,0,1,0,1,2014
+8273,"Boyden, IA","Arcadia, IA",0,1,0,0,0,1,0,1,0,1,2014
+8294,"Boyden, IA","Denison, IA",0,1,0,1,0,0,0,1,0,1,2014
+8295,"Boyden, IA","Des Moines, IA",0,1,0,1,0,0,1,0,0,1,2014
+8297,"Boyden, IA","Dolliver, IA",0,1,0,1,0,0,0,0,1,1,2014
+8300,"Boyden, IA","Early, IA",0,1,0,0,0,1,1,0,0,1,2014
+8303,"Boyden, IA","Fort Atkinson, IA",0,1,0,0,1,0,1,0,0,1,2014
+8306,"Boyden, IA","Greenville, IA",1,0,0,1,0,0,0,0,1,1,2014
+8310,"Boyden, IA","Hinton, IA",1,0,0,1,0,0,0,1,0,1,2014
+8314,"Boyden, IA","Iowa City, IA",0,1,0,1,0,0,0,0,1,1,2014
+8316,"Boyden, IA","Irwin, IA",0,0,1,0,1,0,1,0,0,1,2014
+8317,"Boyden, IA","Jewell Junction, IA",1,0,0,0,1,0,0,0,1,1,2014
+8319,"Boyden, IA","Knoxville, IA",0,1,0,1,0,0,1,0,0,1,2014
+8321,"Boyden, IA","Larchwood, IA",0,0,1,1,0,0,0,0,1,1,2014
+8324,"Boyden, IA","Livermore, IA",0,0,1,0,1,0,1,0,0,1,2014
+8326,"Boyden, IA","Maurice, IA",0,1,0,1,0,0,0,1,0,1,2014
+8329,"Boyden, IA","Missouri Valley, IA",1,0,0,0,1,0,0,0,1,1,2014
+8330,"Boyden, IA","Moville, IA",0,1,0,1,0,0,0,0,1,1,2014
+8331,"Boyden, IA","Newell, IA",0,0,1,1,0,0,0,1,0,1,2014
+8369,"Boyden, IA","Yetter, IA",0,1,0,1,0,0,0,1,0,1,2014

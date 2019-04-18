@@ -1,0 +1,558 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+22689,"Fort Dodge, IA","Fort Dodge, IA",2307,5169,1888,1854,5899,1611,2808,4019,2537,9364,2006
+22892,"Fort Dodge, IA","Otho, IA",111,311,100,137,294,91,135,244,143,522,2006
+23041,"Fort Dodge, IA","Webster City, IA",85,237,89,47,289,75,139,160,112,411,2006
+22822,"Fort Dodge, IA","Manson, IA",80,221,72,93,201,79,72,171,130,373,2006
+22747,"Fort Dodge, IA","Humboldt, IA",74,185,48,66,186,55,70,123,114,307,2006
+22643,"Fort Dodge, IA","Des Moines, IA",79,121,14,13,76,125,85,87,42,214,2006
+22681,"Fort Dodge, IA","Farnhamville, IA",40,112,34,45,115,26,37,90,59,186,2006
+22634,"Fort Dodge, IA","Dayton, IA",37,104,31,56,95,21,43,85,44,172,2006
+22832,"Fort Dodge, IA","Mason City, IA",74,67,25,17,68,81,62,67,37,166,2006
+22651,"Fort Dodge, IA","Duncombe, IA",38,90,37,41,101,23,47,70,48,165,2006
+22792,"Fort Dodge, IA","Lehigh, IA",30,108,26,57,82,25,28,88,48,164,2006
+22656,"Fort Dodge, IA","Eagle Grove, IA",31,97,33,15,77,69,54,65,42,161,2006
+22629,"Fort Dodge, IA","Dakota City, IA",45,87,21,30,80,43,49,54,50,153,2006
+22923,"Fort Dodge, IA","Pomeroy, IA",30,102,20,33,79,40,30,73,49,152,2006
+22527,"Fort Dodge, IA","Ames, IA",55,70,21,18,69,59,50,52,44,146,2006
+22773,"Fort Dodge, IA","Knierim, IA",36,81,28,25,81,39,26,74,45,145,2006
+22576,"Fort Dodge, IA","Callender, IA",27,75,30,28,81,23,36,49,47,132,2006
+22952,"Fort Dodge, IA","Rockwell City, IA",27,74,26,18,84,25,35,51,41,127,2006
+23001,"Fort Dodge, IA","Stratford, IA",31,75,17,37,68,18,30,62,31,123,2006
+23036,"Fort Dodge, IA","Waterloo, IA",60,34,9,11,32,60,48,37,18,103,2006
+22727,"Fort Dodge, IA","Harcourt, IA",23,57,19,18,70,11,24,49,26,99,2006
+22531,"Fort Dodge, IA","Ankeny, IA",35,35,17,13,34,40,28,32,27,87,2006
+22586,"Fort Dodge, IA","Cedar Rapids, IA",32,37,12,8,29,44,30,34,17,81,2006
+22707,"Fort Dodge, IA","Goldfield, IA",21,44,13,13,40,25,24,34,20,78,2006
+23023,"Fort Dodge, IA","Urbandale, IA",31,35,11,10,33,34,20,21,36,77,2006
+22962,"Fort Dodge, IA","Sac City, IA",12,33,23,10,36,22,17,18,33,68,2006
+22604,"Fort Dodge, IA","Clive, IA",24,30,13,9,24,34,27,21,19,67,2006
+22804,"Fort Dodge, IA","Livermore, IA",17,40,10,14,31,22,16,39,12,67,2006
+23059,"Fort Dodge, IA","Windsor Heights, IA",27,28,8,4,25,34,19,29,15,63,2006
+23049,"Fort Dodge, IA","West Des Moines, IA",18,38,7,8,26,29,23,21,19,63,2006
+22982,"Fort Dodge, IA","Sioux City, IA",13,40,9,6,10,46,14,27,21,62,2006
+22893,"Fort Dodge, IA","Ottosen, IA",9,38,10,17,33,7,13,28,16,57,2006
+22592,"Fort Dodge, IA","Charles City, IA",7,40,10,49,1,7,3,24,30,57,2006
+23056,"Fort Dodge, IA","Williams, IA",15,30,11,3,41,12,18,24,14,56,2006
+22728,"Fort Dodge, IA","Hardy, IA",14,36,4,9,26,19,14,30,10,54,2006
+22524,"Fort Dodge, IA","Algona, IA",11,32,11,1,36,17,19,23,12,54,2006
+22944,"Fort Dodge, IA","Rinard, IA",12,25,13,10,29,11,9,25,16,50,2006
+22585,"Fort Dodge, IA","Cedar Falls, IA",23,21,4,3,20,25,19,16,13,48,2006
+22916,"Fort Dodge, IA","Pleasant Hill, IA",20,21,5,2,20,24,19,16,11,46,2006
+22632,"Fort Dodge, IA","Davenport, IA",18,20,6,5,12,27,26,11,7,44,2006
+22618,"Fort Dodge, IA","Council Bluffs, IA",16,20,7,2,9,32,17,18,8,43,2006
+22526,"Fort Dodge, IA","Altoona, IA",19,14,9,2,16,24,15,21,6,42,2006
+22650,"Fort Dodge, IA","Dubuque, IA",22,14,6,6,12,24,20,16,6,42,2006
+22960,"Fort Dodge, IA","Rutland, IA",3,31,8,6,30,6,7,23,12,42,2006
+22989,"Fort Dodge, IA","Spencer, IA",14,23,4,2,18,21,18,20,3,41,2006
+22563,"Fort Dodge, IA","Boone, IA",17,18,6,3,21,17,16,16,9,41,2006
+22641,"Fort Dodge, IA","Denison, IA",14,15,11,4,17,19,20,12,8,40,2006
+22599,"Fort Dodge, IA","Clarion, IA",12,20,7,3,27,9,13,17,9,39,2006
+22761,"Fort Dodge, IA","Johnston, IA",18,15,3,1,17,18,14,12,10,36,2006
+22753,"Fort Dodge, IA","Iowa City, IA",14,14,7,1,11,23,16,11,8,35,2006
+22999,"Fort Dodge, IA","Storm Lake, IA",12,14,8,2,19,13,17,11,6,34,2006
+22887,"Fort Dodge, IA","Orange City, IA",13,17,4,1,23,10,16,14,4,34,2006
+22741,"Fort Dodge, IA","Hiawatha, IA",12,17,4,5,10,18,11,10,12,33,2006
+22924,"Fort Dodge, IA","Popejoy, IA",8,15,10,13,14,6,7,14,12,33,2006
+22580,"Fort Dodge, IA","Carroll, IA",15,11,5,0,12,19,14,12,5,31,2006
+23037,"Fort Dodge, IA","Waukee, IA",16,11,3,3,9,18,13,9,8,30,2006
+22734,"Fort Dodge, IA","Havelock, IA",3,20,4,6,17,4,7,7,13,27,2006
+22900,"Fort Dodge, IA","Palmer, IA",2,21,2,4,17,4,2,15,8,25,2006
+22686,"Fort Dodge, IA","Fonda, IA",6,14,5,5,15,5,3,16,6,25,2006
+22985,"Fort Dodge, IA","Sloan, IA",6,14,5,6,7,12,9,8,8,25,2006
+22866,"Fort Dodge, IA","Nevada, IA",12,10,3,2,10,13,10,8,7,25,2006
+22877,"Fort Dodge, IA","Nora Springs, IA",9,11,4,7,9,8,9,6,9,24,2006
+23068,"Fort Dodge, IA","Yetter, IA",4,12,8,2,5,17,4,11,9,24,2006
+22758,"Fort Dodge, IA","Jefferson, IA",3,16,4,7,11,5,3,12,8,23,2006
+22911,"Fort Dodge, IA","Perry, IA",11,10,2,1,11,11,11,9,3,23,2006
+22777,"Fort Dodge, IA","Lake City, IA",4,14,4,2,10,10,3,9,10,22,2006
+22973,"Fort Dodge, IA","Sheldon, IA",8,13,1,0,10,12,10,10,2,22,2006
+22602,"Fort Dodge, IA","Clinton, IA",9,10,2,3,5,13,4,11,6,21,2006
+22556,"Fort Dodge, IA","Bettendorf, IA",9,9,3,6,2,13,7,6,8,21,2006
+23066,"Fort Dodge, IA","Woolstock, IA",2,14,4,4,7,9,4,10,6,20,2006
+22948,"Fort Dodge, IA","Robins, IA",5,15,0,2,5,13,7,7,6,20,2006
+22543,"Fort Dodge, IA","Aurelia, IA",3,16,1,2,12,6,6,11,3,20,2006
+22612,"Fort Dodge, IA","Coon Rapids, IA",4,13,2,2,10,7,6,7,6,19,2006
+22881,"Fort Dodge, IA","Norwalk, IA",7,10,2,2,10,7,8,7,4,19,2006
+22725,"Fort Dodge, IA","Hampton, IA",5,11,3,9,1,9,3,11,5,19,2006
+22774,"Fort Dodge, IA","Knoxville, IA",7,8,4,1,5,13,6,11,2,19,2006
+22830,"Fort Dodge, IA","Marshalltown, IA",9,8,2,2,7,10,6,9,4,19,2006
+22553,"Fort Dodge, IA","Belmond, IA",4,14,1,0,9,10,6,8,5,19,2006
+22672,"Fort Dodge, IA","Evansdale, IA",6,7,5,1,6,11,7,7,4,18,2006
+22787,"Fort Dodge, IA","Laurens, IA",1,10,6,2,9,6,5,6,6,17,2006
+22600,"Fort Dodge, IA","Clear Lake, IA",7,8,2,0,10,7,5,8,4,17,2006
+22932,"Fort Dodge, IA","Randall, IA",5,10,2,4,9,4,6,7,4,17,2006
+22920,"Fort Dodge, IA","Plymouth, IA",3,9,5,5,7,5,4,8,5,17,2006
+22751,"Fort Dodge, IA","Indianola, IA",7,8,2,2,4,11,10,5,2,17,2006
+22921,"Fort Dodge, IA","Pocahontas, IA",3,11,3,3,11,3,5,9,3,17,2006
+22671,"Fort Dodge, IA","Estherville, IA",5,9,3,1,8,8,11,6,0,17,2006
+22945,"Fort Dodge, IA","Rippey, IA",7,7,2,5,5,6,4,5,7,16,2006
+22894,"Fort Dodge, IA","Ottumwa, IA",7,7,2,2,7,7,5,10,1,16,2006
+23063,"Fort Dodge, IA","Woden, IA",1,10,5,3,8,5,3,6,7,16,2006
+22941,"Fort Dodge, IA","Renwick, IA",2,6,6,1,6,7,1,8,5,14,2006
+22710,"Fort Dodge, IA","Grand Junction, IA",4,9,1,3,9,2,7,4,3,14,2006
+22685,"Fort Dodge, IA","Floyd, IA",1,11,2,9,2,3,1,3,10,14,2006
+22873,"Fort Dodge, IA","Newell, IA",6,6,2,1,9,4,8,6,0,14,2006
+22922,"Fort Dodge, IA","Polk City, IA",8,5,1,3,5,6,6,6,2,14,2006
+22950,"Fort Dodge, IA","Rock Valley, IA",6,5,2,0,10,3,9,3,1,13,2006
+22852,"Fort Dodge, IA","Monticello, IA",7,5,1,1,3,9,6,5,2,13,2006
+22635,"Fort Dodge, IA","De Soto, IA",7,4,1,3,4,5,5,2,5,12,2006
+22996,"Fort Dodge, IA","Stanhope, IA",0,8,4,4,5,3,1,9,2,12,2006
+22909,"Fort Dodge, IA","Pella, IA",5,7,0,0,2,10,5,4,3,12,2006
+22719,"Fort Dodge, IA","Grimes, IA",4,8,0,1,6,5,1,5,6,12,2006
+22889,"Fort Dodge, IA","Osage, IA",1,7,4,8,0,4,0,4,8,12,2006
+22525,"Fort Dodge, IA","Alton, IA",7,4,0,0,6,5,4,5,2,11,2006
+22949,"Fort Dodge, IA","Rock Rapids, IA",2,7,2,1,9,1,4,5,2,11,2006
+22815,"Fort Dodge, IA","Madrid, IA",4,3,4,0,3,8,4,2,5,11,2006
+23054,"Fort Dodge, IA","Whittemore, IA",2,8,1,2,5,4,3,7,1,11,2006
+22990,"Fort Dodge, IA","Spirit Lake, IA",3,4,4,0,6,5,7,3,1,11,2006
+22669,"Fort Dodge, IA","Emmetsburg, IA",3,7,1,0,4,7,2,7,2,11,2006
+22847,"Fort Dodge, IA","Mitchellville, IA",3,6,2,1,4,6,2,4,5,11,2006
+22593,"Fort Dodge, IA","Charter Oak, IA",2,5,4,4,3,4,4,1,6,11,2006
+22712,"Fort Dodge, IA","Granger, IA",3,4,3,0,5,5,4,1,5,10,2006
+23000,"Fort Dodge, IA","Story City, IA",4,4,2,3,1,6,4,4,2,10,2006
+22748,"Fort Dodge, IA","Huxley, IA",4,5,1,2,3,5,5,2,3,10,2006
+22879,"Fort Dodge, IA","North Liberty, IA",3,6,1,3,1,6,3,5,2,10,2006
+22613,"Fort Dodge, IA","Coralville, IA",3,3,4,0,3,7,3,3,4,10,2006
+22752,"Fort Dodge, IA","Inwood, IA",4,4,2,0,7,3,2,8,0,10,2006
+22826,"Fort Dodge, IA","Marcus, IA",4,5,1,4,0,6,4,3,3,10,2006
+22874,"Fort Dodge, IA","Newton, IA",3,6,1,3,1,6,3,2,5,10,2006
+22781,"Fort Dodge, IA","Lakeside, IA",5,3,2,1,7,2,5,3,2,10,2006
+22579,"Fort Dodge, IA","Carlisle, IA",2,8,0,0,4,6,7,1,2,10,2006
+22798,"Fort Dodge, IA","Lidderdale, IA",4,4,2,1,6,3,3,7,0,10,2006
+22722,"Fort Dodge, IA","Guthrie Center, IA",4,3,3,3,1,6,2,3,5,10,2006
+22880,"Fort Dodge, IA","Northwood, IA",2,4,3,2,5,2,2,2,5,9,2006
+22967,"Fort Dodge, IA","Schleswig, IA",2,6,1,3,5,1,4,3,2,9,2006
+22959,"Fort Dodge, IA","Ruthven, IA",2,6,1,0,7,2,4,3,2,9,2006
+22981,"Fort Dodge, IA","Sioux Center, IA",1,8,0,1,4,4,1,5,3,9,2006
+23014,"Fort Dodge, IA","Titonka, IA",2,6,1,2,4,3,2,2,5,9,2006
+22564,"Fort Dodge, IA","Boxholm, IA",1,5,3,1,6,2,4,4,1,9,2006
+22749,"Fort Dodge, IA","Ida Grove, IA",2,6,1,2,4,3,2,5,2,9,2006
+22801,"Fort Dodge, IA","Lisbon, IA",4,3,2,1,1,7,5,2,2,9,2006
+22951,"Fort Dodge, IA","Rockford, IA",3,6,0,5,2,2,2,5,2,9,2006
+22535,"Fort Dodge, IA","Arnolds Park, IA",6,3,0,0,5,4,5,2,2,9,2006
+22790,"Fort Dodge, IA","Le Mars, IA",3,4,2,2,0,7,2,3,4,9,2006
+22541,"Fort Dodge, IA","Atlantic, IA",3,4,2,0,0,9,5,1,3,9,2006
+22596,"Fort Dodge, IA","Churdan, IA",2,6,1,1,5,3,4,3,2,9,2006
+23020,"Fort Dodge, IA","University Heights, IA",5,4,0,1,4,4,2,5,2,9,2006
+23035,"Fort Dodge, IA","Washington, IA",5,2,2,1,5,3,6,3,0,9,2006
+22608,"Fort Dodge, IA","Colo, IA",2,5,2,1,3,5,2,3,4,9,2006
+22977,"Fort Dodge, IA","Sibley, IA",4,4,0,0,4,4,4,3,1,8,2006
+22665,"Fort Dodge, IA","Elk Run Heights, IA",5,2,1,0,3,5,4,3,1,8,2006
+22720,"Fort Dodge, IA","Grinnell, IA",2,5,1,0,3,5,3,5,0,8,2006
+22825,"Fort Dodge, IA","Marble Rock, IA",0,8,0,7,1,0,0,4,4,8,2006
+22818,"Fort Dodge, IA","Manchester, IA",4,3,1,0,3,5,5,1,2,8,2006
+22574,"Fort Dodge, IA","Burlington, IA",3,5,0,2,4,2,3,2,3,8,2006
+22908,"Fort Dodge, IA","Paullina, IA",5,3,0,0,5,3,4,3,1,8,2006
+22678,"Fort Dodge, IA","Fairfield, IA",3,4,1,0,2,6,3,4,1,8,2006
+22562,"Fort Dodge, IA","Bondurant, IA",2,4,2,1,4,3,1,3,4,8,2006
+23021,"Fort Dodge, IA","University Park, IA",5,2,1,1,2,5,4,3,1,8,2006
+22637,"Fort Dodge, IA","Decorah, IA",2,5,1,2,2,4,1,3,4,8,2006
+22886,"Fort Dodge, IA","Onawa, IA",3,4,1,0,6,2,6,1,1,8,2006
+22966,"Fort Dodge, IA","Schaller, IA",1,3,4,1,4,3,3,3,2,8,2006
+22698,"Fort Dodge, IA","Garner, IA",3,2,3,2,2,4,3,3,2,8,2006
+22702,"Fort Dodge, IA","Gilbert, IA",2,6,0,2,3,3,1,3,4,8,2006
+22968,"Fort Dodge, IA","Sergeant Bluff, IA",1,6,0,0,0,7,0,3,4,7,2006
+22947,"Fort Dodge, IA","Riverside, IA",3,2,2,0,1,6,2,3,2,7,2006
+22901,"Fort Dodge, IA","Palo, IA",1,5,1,0,2,5,0,4,3,7,2006
+22736,"Fort Dodge, IA","Hawarden, IA",4,2,1,0,5,2,4,3,0,7,2006
+22779,"Fort Dodge, IA","Lake Park, IA",1,3,3,0,6,1,2,4,1,7,2006
+22819,"Fort Dodge, IA","Manilla, IA",2,3,2,0,4,3,2,1,4,7,2006
+22755,"Fort Dodge, IA","Ireton, IA",0,4,3,0,3,4,4,2,1,7,2006
+22864,"Fort Dodge, IA","Muscatine, IA",1,3,3,2,2,3,2,1,4,7,2006
+22757,"Fort Dodge, IA","Janesville, IA",5,2,0,0,3,4,3,4,0,7,2006
+22885,"Fort Dodge, IA","Ogden, IA",4,2,1,0,5,2,4,3,0,7,2006
+22760,"Fort Dodge, IA","Jewell Junction, IA",0,4,3,0,5,2,3,3,1,7,2006
+22975,"Fort Dodge, IA","Shenandoah, IA",3,3,1,0,1,6,3,2,2,7,2006
+22630,"Fort Dodge, IA","Dallas Center, IA",3,2,2,1,3,3,3,3,1,7,2006
+22578,"Fort Dodge, IA","Cambridge, IA",1,6,0,3,3,1,1,4,2,7,2006
+22572,"Fort Dodge, IA","Buck Grove, IA",3,0,4,3,2,2,2,1,4,7,2006
+22991,"Fort Dodge, IA","Spring Hill, IA",1,5,1,0,4,3,2,4,1,7,2006
+22560,"Fort Dodge, IA","Bloomfield, IA",4,3,0,0,4,3,5,2,0,7,2006
+23006,"Fort Dodge, IA","Swea City, IA",1,2,4,0,7,0,3,2,2,7,2006
+22607,"Fort Dodge, IA","Colfax, IA",2,5,0,0,2,5,2,3,2,7,2006
+22538,"Fort Dodge, IA","Ashton, IA",2,3,2,0,6,1,3,2,2,7,2006
+22706,"Fort Dodge, IA","Glidden, IA",1,5,0,0,3,3,1,2,3,6,2006
+22942,"Fort Dodge, IA","Rhodes, IA",2,3,1,1,3,2,2,1,3,6,2006
+22648,"Fort Dodge, IA","Dolliver, IA",3,2,1,1,2,3,2,3,1,6,2006
+22805,"Fort Dodge, IA","Logan, IA",0,4,2,2,0,4,1,3,2,6,2006
+22840,"Fort Dodge, IA","Milford, IA",1,4,1,0,5,1,4,1,1,6,2006
+22824,"Fort Dodge, IA","Maquoketa, IA",2,4,0,1,1,4,3,2,1,6,2006
+22891,"Fort Dodge, IA","Oskaloosa, IA",0,4,2,0,3,3,1,3,2,6,2006
+22623,"Fort Dodge, IA","Creston, IA",4,1,1,0,3,3,2,4,0,6,2006
+22625,"Fort Dodge, IA","Crystal Lake, IA",3,3,0,0,0,6,2,3,1,6,2006
+22732,"Fort Dodge, IA","Hartley, IA",3,3,0,0,4,2,4,2,0,6,2006
+22775,"Fort Dodge, IA","La Porte City, IA",3,3,0,0,1,5,2,4,0,6,2006
+22927,"Fort Dodge, IA","Primghar, IA",3,2,1,0,2,4,5,1,0,6,2006
+22633,"Fort Dodge, IA","Dawson, IA",3,3,0,0,3,3,2,3,1,6,2006
+23055,"Fort Dodge, IA","Willey, IA",4,0,2,1,1,4,4,2,0,6,2006
+22594,"Fort Dodge, IA","Cherokee, IA",3,1,2,0,2,4,3,2,1,6,2006
+23060,"Fort Dodge, IA","Winterset, IA",3,3,0,0,2,4,4,1,1,6,2006
+23003,"Fort Dodge, IA","Superior, IA",1,3,2,0,4,2,3,2,1,6,2006
+23025,"Fort Dodge, IA","Van Meter, IA",2,3,1,2,4,0,1,4,1,6,2006
+22984,"Fort Dodge, IA","Slater, IA",3,3,0,2,2,2,3,0,3,6,2006
+22764,"Fort Dodge, IA","Kamrar, IA",0,3,3,0,3,3,1,1,4,6,2006
+22807,"Fort Dodge, IA","Long Grove, IA",0,4,2,1,2,3,0,4,2,6,2006
+22516,"Fort Dodge, IA","Adel, IA",2,2,2,1,1,4,2,2,2,6,2006
+22936,"Fort Dodge, IA","Reasnor, IA",1,5,0,0,1,5,2,4,0,6,2006
+22865,"Fort Dodge, IA","Nashua, IA",0,6,0,4,0,2,0,2,4,6,2006
+22754,"Fort Dodge, IA","Iowa Falls, IA",2,3,1,0,1,5,4,2,0,6,2006
+22690,"Fort Dodge, IA","Fort Madison, IA",2,3,1,2,3,1,1,4,1,6,2006
+23022,"Fort Dodge, IA","Urbana, IA",2,2,2,0,3,3,1,2,3,6,2006
+22897,"Fort Dodge, IA","Oxford, IA",3,1,2,0,2,4,3,2,1,6,2006
+22610,"Fort Dodge, IA","Colwell, IA",1,5,0,5,0,1,1,0,5,6,2006
+22615,"Fort Dodge, IA","Corwith, IA",2,2,2,0,5,1,2,1,3,6,2006
+22528,"Fort Dodge, IA","Anamosa, IA",1,4,1,1,3,2,1,2,3,6,2006
+22943,"Fort Dodge, IA","Richland, IA",1,4,0,0,0,5,1,3,1,5,2006
+23033,"Fort Dodge, IA","Wall Lake, IA",1,2,2,1,2,2,1,3,1,5,2006
+22603,"Fort Dodge, IA","Clio, IA",1,4,0,1,0,4,3,1,1,5,2006
+22928,"Fort Dodge, IA","Princeton, IA",2,3,0,2,1,2,2,1,2,5,2006
+22542,"Fort Dodge, IA","Audubon, IA",0,3,2,0,0,5,0,1,4,5,2006
+22591,"Fort Dodge, IA","Chariton, IA",1,2,2,3,0,2,1,2,2,5,2006
+22930,"Fort Dodge, IA","Quimby, IA",2,3,0,0,2,3,0,3,2,5,2006
+22833,"Fort Dodge, IA","Maurice, IA",0,4,1,0,5,0,1,2,2,5,2006
+22938,"Fort Dodge, IA","Redfield, IA",0,5,0,1,4,0,2,3,0,5,2006
+22627,"Fort Dodge, IA","Curlew, IA",2,3,0,0,2,3,2,1,2,5,2006
+22745,"Fort Dodge, IA","Hospers, IA",2,2,1,1,3,1,3,1,1,5,2006
+22565,"Fort Dodge, IA","Boyden, IA",2,1,2,1,3,1,2,2,1,5,2006
+22631,"Fort Dodge, IA","Danbury, IA",2,2,1,2,1,2,2,2,1,5,2006
+22961,"Fort Dodge, IA","Ryan, IA",3,2,0,1,2,2,1,3,1,5,2006
+22868,"Fort Dodge, IA","New Hampton, IA",2,2,1,1,1,3,1,2,2,5,2006
+22904,"Fort Dodge, IA","Panorama Park, IA",4,1,0,1,2,2,1,4,0,5,2006
+22557,"Fort Dodge, IA","Blairstown, IA",2,1,2,1,1,3,3,1,1,5,2006
+22569,"Fort Dodge, IA","Britt, IA",4,1,0,0,0,5,3,2,0,5,2006
+22555,"Fort Dodge, IA","Bertram, IA",1,4,0,0,2,3,2,1,2,5,2006
+23065,"Fort Dodge, IA","Woodward, IA",2,3,0,1,3,1,2,2,1,5,2006
+22856,"Fort Dodge, IA","Morley, IA",1,4,0,1,2,2,2,1,2,5,2006
+22705,"Fort Dodge, IA","Glenwood, IA",3,1,1,0,2,3,3,2,0,5,2006
+23064,"Fort Dodge, IA","Woodbine, IA",1,4,0,0,0,5,3,1,1,5,2006
+22640,"Fort Dodge, IA","Deloit, IA",3,1,1,2,1,2,3,0,2,5,2006
+22536,"Fort Dodge, IA","Arthur, IA",0,4,1,3,1,1,1,1,3,5,2006
+22884,"Fort Dodge, IA","Oelwein, IA",0,4,1,1,1,3,1,2,2,5,2006
+22821,"Fort Dodge, IA","Manning, IA",2,0,3,0,2,3,3,0,2,5,2006
+22534,"Fort Dodge, IA","Armstrong, IA",2,2,1,0,5,0,4,0,1,5,2006
+22639,"Fort Dodge, IA","Delaware, IA",2,2,1,0,1,4,3,2,0,5,2006
+22955,"Fort Dodge, IA","Roland, IA",1,2,2,0,3,2,1,3,1,5,2006
+22642,"Fort Dodge, IA","Denver, IA",3,2,0,0,0,5,3,0,2,5,2006
+22783,"Fort Dodge, IA","Lambs Grove, IA",1,3,0,0,1,3,1,2,1,4,2006
+22796,"Fort Dodge, IA","Lester, IA",2,1,1,0,3,1,2,2,0,4,2006
+23047,"Fort Dodge, IA","West Branch, IA",2,1,1,1,2,1,1,0,3,4,2006
+22765,"Fort Dodge, IA","Kellogg, IA",1,1,2,0,1,3,1,3,0,4,2006
+22905,"Fort Dodge, IA","Parkersburg, IA",3,0,1,0,1,3,3,0,1,4,2006
+22935,"Fort Dodge, IA","Readlyn, IA",1,2,1,1,1,2,2,1,1,4,2006
+22515,"Fort Dodge, IA","Adair, IA",0,4,0,0,1,3,0,2,2,4,2006
+22828,"Fort Dodge, IA","Marion, IA",0,3,1,1,2,1,2,2,0,4,2006
+22767,"Fort Dodge, IA","Keokuk, IA",1,3,0,1,2,1,1,2,1,4,2006
+22554,"Fort Dodge, IA","Bennett, IA",1,3,0,1,0,3,0,3,1,4,2006
+23039,"Fort Dodge, IA","Waverly, IA",3,1,0,0,0,4,2,1,1,4,2006
+23053,"Fort Dodge, IA","Westside, IA",2,2,0,1,2,1,0,4,0,4,2006
+22820,"Fort Dodge, IA","Manly, IA",0,3,1,3,1,0,0,4,0,4,2006
+22785,"Fort Dodge, IA","Larchwood, IA",1,2,1,1,0,3,1,2,1,4,2006
+22677,"Fort Dodge, IA","Fairfax, IA",2,2,0,1,2,1,2,1,1,4,2006
+22838,"Fort Dodge, IA","Meriden, IA",0,3,1,1,2,1,2,2,0,4,2006
+22520,"Fort Dodge, IA","Albert City, IA",2,2,0,0,1,3,2,0,2,4,2006
+22693,"Fort Dodge, IA","Fraser, IA",2,2,0,1,0,3,1,0,3,4,2006
+22858,"Fort Dodge, IA","Moulton, IA",3,0,1,0,0,4,3,0,1,4,2006
+22523,"Fort Dodge, IA","Alden, IA",3,0,1,0,0,4,2,2,0,4,2006
+23067,"Fort Dodge, IA","Worthington, IA",2,1,1,0,1,3,2,2,0,4,2006
+23004,"Fort Dodge, IA","Sutherland, IA",2,2,0,0,2,2,2,0,2,4,2006
+22704,"Fort Dodge, IA","Gilman, IA",1,2,1,0,1,3,2,0,2,4,2006
+23027,"Fort Dodge, IA","Vinton, IA",2,1,1,1,2,1,1,2,1,4,2006
+22993,"Fort Dodge, IA","Springville, IA",1,2,1,0,1,3,1,3,0,4,2006
+22533,"Fort Dodge, IA","Arcadia, IA",2,2,0,0,1,3,1,2,1,4,2006
+22957,"Fort Dodge, IA","Runnells, IA",2,1,1,0,2,2,0,3,1,4,2006
+22848,"Fort Dodge, IA","Mondamin, IA",0,3,1,1,2,1,0,3,1,4,2006
+22636,"Fort Dodge, IA","De Witt, IA",4,0,0,0,3,1,4,0,0,4,2006
+22845,"Fort Dodge, IA","Missouri Valley, IA",2,1,1,0,1,3,1,3,0,4,2006
+22537,"Fort Dodge, IA","Asbury, IA",0,4,0,1,2,1,0,0,4,4,2006
+22731,"Fort Dodge, IA","Harris, IA",1,2,1,1,0,3,0,2,2,4,2006
+22888,"Fort Dodge, IA","Orient, IA",1,2,1,1,3,0,1,1,2,4,2006
+23012,"Fort Dodge, IA","Tiffin, IA",2,1,1,1,2,1,1,3,0,4,2006
+22687,"Fort Dodge, IA","Forest City, IA",2,2,0,0,2,2,3,1,0,4,2006
+22667,"Fort Dodge, IA","Ellsworth, IA",0,3,1,0,2,2,1,2,1,4,2006
+22937,"Fort Dodge, IA","Red Oak, IA",1,2,1,0,0,4,1,2,1,4,2006
+22673,"Fort Dodge, IA","Everly, IA",4,0,0,0,2,2,4,0,0,4,2006
+22983,"Fort Dodge, IA","Sioux Rapids, IA",2,1,1,0,3,1,3,0,1,4,2006
+23026,"Fort Dodge, IA","Victor, IA",2,2,0,1,2,1,2,0,2,4,2006
+22598,"Fort Dodge, IA","Clarinda, IA",3,1,0,0,1,3,3,1,0,4,2006
+22861,"Fort Dodge, IA","Mount Vernon, IA",4,0,0,1,2,1,4,0,0,4,2006
+22559,"Fort Dodge, IA","Blanchard, IA",1,0,2,1,0,2,2,0,1,3,2006
+23069,"Fort Dodge, IA","Zearing, IA",0,2,1,1,2,0,0,1,2,3,2006
+22899,"Fort Dodge, IA","Packwood, IA",3,0,0,0,2,1,2,1,0,3,2006
+22831,"Fort Dodge, IA","Martelle, IA",2,0,1,1,0,2,2,0,1,3,2006
+22876,"Fort Dodge, IA","Nodaway, IA",0,3,0,0,2,1,1,1,1,3,2006
+22896,"Fort Dodge, IA","Oxford Junction, IA",2,1,0,1,0,2,1,1,1,3,2006
+22552,"Fort Dodge, IA","Bellevue, IA",1,2,0,0,1,2,0,2,1,3,2006
+22883,"Fort Dodge, IA","Odebolt, IA",0,2,1,0,3,0,0,2,1,3,2006
+22843,"Fort Dodge, IA","Minburn, IA",1,2,0,1,0,2,0,2,1,3,2006
+22547,"Fort Dodge, IA","Balltown, IA",1,2,0,1,1,1,0,2,1,3,2006
+22839,"Fort Dodge, IA","Merrill, IA",1,2,0,0,1,2,2,1,0,3,2006
+22890,"Fort Dodge, IA","Osceola, IA",1,1,1,1,1,1,2,1,0,3,2006
+23057,"Fort Dodge, IA","Williamsburg, IA",1,2,0,0,0,3,1,2,0,3,2006
+22835,"Fort Dodge, IA","McIntire, IA",1,2,0,0,0,3,2,1,0,3,2006
+22529,"Fort Dodge, IA","Andover, IA",1,1,1,0,2,1,1,1,1,3,2006
+23031,"Fort Dodge, IA","Walford, IA",0,3,0,1,1,1,0,2,1,3,2006
+23015,"Fort Dodge, IA","Toledo, IA",1,2,0,1,1,1,2,1,0,3,2006
+22699,"Fort Dodge, IA","Garwin, IA",1,0,2,0,0,3,2,0,1,3,2006
+23005,"Fort Dodge, IA","Swan, IA",2,1,0,0,0,3,1,2,0,3,2006
+22759,"Fort Dodge, IA","Jesup, IA",1,1,1,0,0,3,1,1,1,3,2006
+22750,"Fort Dodge, IA","Independence, IA",0,3,0,1,0,2,0,1,2,3,2006
+22616,"Fort Dodge, IA","Corydon, IA",1,2,0,0,1,2,1,0,2,3,2006
+22617,"Fort Dodge, IA","Coulter, IA",1,2,0,2,0,1,2,1,0,3,2006
+22649,"Fort Dodge, IA","Doon, IA",1,1,1,0,3,0,1,2,0,3,2006
+22621,"Fort Dodge, IA","Crescent, IA",1,2,0,1,1,1,1,1,1,3,2006
+23013,"Fort Dodge, IA","Tipton, IA",1,2,0,0,2,1,1,0,2,3,2006
+22946,"Fort Dodge, IA","Riverdale, IA",0,2,1,0,0,3,0,1,2,3,2006
+22733,"Fort Dodge, IA","Harvey, IA",1,2,0,0,0,3,1,2,0,3,2006
+23011,"Fort Dodge, IA","Thornton, IA",1,1,1,0,0,3,2,0,1,3,2006
+23010,"Fort Dodge, IA","Terril, IA",2,0,1,0,2,1,2,1,0,3,2006
+22726,"Fort Dodge, IA","Hancock, IA",1,0,2,0,0,3,0,2,1,3,2006
+22638,"Fort Dodge, IA","Dedham, IA",1,2,0,2,0,1,0,3,0,3,2006
+22956,"Fort Dodge, IA","Royal, IA",0,3,0,0,2,1,2,1,0,3,2006
+22716,"Fort Dodge, IA","Greeley, IA",1,1,1,1,1,1,1,1,1,3,2006
+23008,"Fort Dodge, IA","Tama, IA",2,1,0,1,0,2,1,0,2,3,2006
+23007,"Fort Dodge, IA","Swisher, IA",2,1,0,0,2,1,2,0,1,3,2006
+22646,"Fort Dodge, IA","Dickens, IA",1,2,0,0,1,2,0,2,1,3,2006
+22762,"Fort Dodge, IA","Joice, IA",0,1,2,2,1,0,0,0,3,3,2006
+22997,"Fort Dodge, IA","Stanton, IA",2,1,0,0,1,2,2,0,1,3,2006
+22789,"Fort Dodge, IA","Le Grand, IA",1,2,0,0,0,3,1,2,0,3,2006
+23040,"Fort Dodge, IA","Webb, IA",0,1,2,1,1,1,0,1,2,3,2006
+22674,"Fort Dodge, IA","Exira, IA",1,2,0,0,2,1,0,3,0,3,2006
+22994,"Fort Dodge, IA","St. Ansgar, IA",1,1,1,1,2,0,2,0,1,3,2006
+23043,"Fort Dodge, IA","Wellman, IA",1,2,0,0,0,3,0,3,0,3,2006
+22915,"Fort Dodge, IA","Plano, IA",0,2,1,0,2,1,0,3,0,3,2006
+22795,"Fort Dodge, IA","Leon, IA",0,3,0,1,0,2,0,1,2,3,2006
+22793,"Fort Dodge, IA","Leland, IA",2,1,0,1,2,0,1,1,1,3,2006
+22871,"Fort Dodge, IA","New Sharon, IA",0,3,0,1,0,2,1,0,2,3,2006
+22661,"Fort Dodge, IA","Eldon, IA",1,0,2,0,1,2,1,2,0,3,2006
+22660,"Fort Dodge, IA","Elberon, IA",1,2,0,0,0,3,2,1,0,3,2006
+22963,"Fort Dodge, IA","Sageville, IA",0,2,1,0,1,2,0,1,2,3,2006
+22577,"Fort Dodge, IA","Camanche, IA",0,2,1,0,3,0,1,0,2,3,2006
+22780,"Fort Dodge, IA","Lake View, IA",0,0,3,0,2,1,0,2,1,3,2006
+23034,"Fort Dodge, IA","Wallingford, IA",0,3,0,0,1,2,2,1,0,3,2006
+22588,"Fort Dodge, IA","Center Point, IA",0,3,0,0,1,2,0,2,1,3,2006
+22676,"Fort Dodge, IA","Fairbank, IA",1,2,0,0,1,2,1,1,1,3,2006
+22875,"Fort Dodge, IA","Nichols, IA",2,0,0,0,0,2,2,0,0,2,2006
+22970,"Fort Dodge, IA","Sharpsburg, IA",0,2,0,1,0,1,0,0,2,2,2006
+22969,"Fort Dodge, IA","Shannon City, IA",0,2,0,0,0,2,0,2,0,2,2006
+22964,"Fort Dodge, IA","Sanborn, IA",1,0,1,0,1,1,2,0,0,2,2006
+22979,"Fort Dodge, IA","Sigourney, IA",0,1,1,0,0,2,1,1,0,2,2006
+22992,"Fort Dodge, IA","Springbrook, IA",0,1,1,0,0,2,0,2,0,2,2006
+22882,"Fort Dodge, IA","Oakland, IA",0,1,1,0,0,2,1,0,1,2,2006
+22910,"Fort Dodge, IA","Peosta, IA",1,1,0,0,1,1,1,1,0,2,2006
+23046,"Fort Dodge, IA","West Bend, IA",0,1,1,0,2,0,0,2,0,2,2006
+23062,"Fort Dodge, IA","Wiota, IA",2,0,0,0,0,2,1,1,0,2,2006
+23029,"Fort Dodge, IA","Wahpeton, IA",1,1,0,1,1,0,1,0,1,2,2006
+22934,"Fort Dodge, IA","Raymond, IA",2,0,0,0,0,2,1,0,1,2,2006
+22933,"Fort Dodge, IA","Randolph, IA",1,0,1,0,0,2,1,1,0,2,2006
+22929,"Fort Dodge, IA","Protivin, IA",0,0,2,0,0,2,0,0,2,2,2006
+22895,"Fort Dodge, IA","Owasa, IA",0,1,1,0,1,1,1,1,0,2,2006
+23050,"Fort Dodge, IA","West Liberty, IA",1,0,1,0,1,1,1,1,0,2,2006
+23038,"Fort Dodge, IA","Waukon, IA",1,1,0,0,0,2,1,1,0,2,2006
+23042,"Fort Dodge, IA","Webster, IA",0,2,0,0,0,2,1,1,0,2,2006
+22917,"Fort Dodge, IA","Pleasant Plain, IA",1,0,1,0,0,2,0,2,0,2,2006
+22913,"Fort Dodge, IA","Pierson, IA",2,0,0,0,1,1,1,1,0,2,2006
+22912,"Fort Dodge, IA","Peterson, IA",0,1,1,0,1,1,1,1,0,2,2006
+22907,"Fort Dodge, IA","Patterson, IA",0,2,0,0,0,2,1,1,0,2,2006
+23044,"Fort Dodge, IA","Wellsburg, IA",0,2,0,0,0,2,1,0,1,2,2006
+22872,"Fort Dodge, IA","New Vienna, IA",0,2,0,0,1,1,1,1,0,2,2006
+22514,"Fort Dodge, IA","Ackley, IA",1,1,0,1,1,0,1,0,1,2,2006
+22770,"Fort Dodge, IA","Kimballton, IA",0,2,0,0,0,2,0,2,0,2,2006
+22573,"Fort Dodge, IA","Buffalo Center, IA",2,0,0,0,0,2,1,1,0,2,2006
+22703,"Fort Dodge, IA","Gilbertville, IA",0,2,0,0,0,2,0,1,1,2,2006
+22628,"Fort Dodge, IA","Cushing, IA",2,0,0,0,0,2,1,1,0,2,2006
+22701,"Fort Dodge, IA","Gibson, IA",1,1,0,0,2,0,1,0,1,2,2006
+22581,"Fort Dodge, IA","Carter Lake, IA",1,1,0,0,0,2,1,1,0,2,2006
+22788,"Fort Dodge, IA","Lawton, IA",1,1,0,0,0,2,1,1,0,2,2006
+22575,"Fort Dodge, IA","Bussey, IA",0,2,0,1,0,1,1,1,0,2,2006
+22644,"Fort Dodge, IA","Dexter, IA",0,1,1,0,0,2,1,0,1,2,2006
+22652,"Fort Dodge, IA","Dunkerton, IA",1,1,0,1,0,1,0,0,2,2,2006
+22794,"Fort Dodge, IA","Lenox, IA",2,0,0,0,1,1,1,1,0,2,2006
+22568,"Fort Dodge, IA","Bristow, IA",1,1,0,0,2,0,2,0,0,2,2006
+22647,"Fort Dodge, IA","Dixon, IA",0,2,0,0,1,1,1,0,1,2,2006
+22869,"Fort Dodge, IA","New Hartford, IA",1,0,1,1,0,1,1,0,1,2,2006
+22802,"Fort Dodge, IA","Liscomb, IA",0,2,0,0,0,2,0,1,1,2,2006
+22806,"Fort Dodge, IA","Lone Rock, IA",1,1,0,0,1,1,1,0,1,2,2006
+22589,"Fort Dodge, IA","Centerville, IA",1,1,0,0,0,2,1,0,1,2,2006
+22708,"Fort Dodge, IA","Graettinger, IA",1,1,0,1,1,0,2,0,0,2,2006
+22771,"Fort Dodge, IA","Kingsley, IA",0,2,0,0,0,2,1,0,1,2,2006
+22668,"Fort Dodge, IA","Ely, IA",1,1,0,0,1,1,1,0,1,2,2006
+22713,"Fort Dodge, IA","Grant, IA",2,0,0,0,0,2,1,0,1,2,2006
+22714,"Fort Dodge, IA","Gravity, IA",1,1,0,0,2,0,0,1,1,2,2006
+22622,"Fort Dodge, IA","Cresco, IA",1,1,0,0,0,2,1,1,0,2,2006
+22763,"Fort Dodge, IA","Kalona, IA",0,2,0,1,0,1,0,2,0,2,2006
+22715,"Fort Dodge, IA","Gray, IA",1,1,0,1,0,1,0,1,1,2,2006
+22746,"Fort Dodge, IA","Hudson, IA",2,0,0,0,0,2,2,0,0,2,2006
+22744,"Fort Dodge, IA","Hopkinton, IA",1,1,0,1,0,1,0,2,0,2,2006
+22620,"Fort Dodge, IA","Crawfordsville, IA",2,0,0,0,0,2,1,1,0,2,2006
+22743,"Fort Dodge, IA","Hinton, IA",0,2,0,0,1,1,1,0,1,2,2006
+22721,"Fort Dodge, IA","Guernsey, IA",0,1,1,0,0,2,0,1,1,2,2006
+22738,"Fort Dodge, IA","Hazleton, IA",1,1,0,2,0,0,0,1,1,2,2006
+22723,"Fort Dodge, IA","Guttenberg, IA",2,0,0,0,0,2,1,0,1,2,2006
+22724,"Fort Dodge, IA","Hamburg, IA",1,1,0,0,0,2,2,0,0,2,2006
+22808,"Fort Dodge, IA","Lorimor, IA",1,1,0,0,1,1,0,1,1,2,2006
+22803,"Fort Dodge, IA","Little Rock, IA",0,1,1,0,1,1,0,1,1,2,2006
+22842,"Fort Dodge, IA","Milton, IA",2,0,0,0,1,1,0,2,0,2,2006
+22834,"Fort Dodge, IA","McClelland, IA",1,1,0,0,0,2,0,2,0,2,2006
+22663,"Fort Dodge, IA","Eldridge, IA",1,1,0,0,1,1,2,0,0,2,2006
+22859,"Fort Dodge, IA","Mount Auburn, IA",0,2,0,0,1,1,0,1,1,2,2006
+22522,"Fort Dodge, IA","Albion, IA",0,1,1,0,0,2,1,1,0,2,2006
+22530,"Fort Dodge, IA","Anita, IA",1,1,0,0,1,1,1,0,1,2,2006
+22855,"Fort Dodge, IA","Moravia, IA",2,0,0,0,0,2,1,1,0,2,2006
+22854,"Fort Dodge, IA","Moorhead, IA",0,1,1,0,1,1,1,1,0,2,2006
+22680,"Fort Dodge, IA","Farmington, IA",1,1,0,0,2,0,0,2,0,2,2006
+22850,"Fort Dodge, IA","Monroe, IA",1,1,0,1,0,1,1,0,1,2,2006
+22846,"Fort Dodge, IA","Mitchell, IA",1,1,0,0,1,1,0,1,1,2,2006
+22540,"Fort Dodge, IA","Atkins, IA",1,0,1,0,0,2,2,0,0,2,2006
+22810,"Fort Dodge, IA","Luana, IA",1,1,0,0,0,2,1,1,0,2,2006
+22684,"Fort Dodge, IA","Floris, IA",1,1,0,0,0,2,1,1,0,2,2006
+22658,"Fort Dodge, IA","Eddyville, IA",0,1,1,0,0,2,1,0,1,2,2006
+22836,"Fort Dodge, IA","Mechanicsville, IA",1,0,1,0,2,0,0,2,0,2,2006
+22730,"Fort Dodge, IA","Harpers Ferry, IA",0,2,0,1,0,1,0,1,1,2,2006
+22655,"Fort Dodge, IA","Dysart, IA",0,1,1,1,0,1,0,1,1,2,2006
+22550,"Fort Dodge, IA","Bedford, IA",0,1,1,0,0,2,0,2,0,2,2006
+22812,"Fort Dodge, IA","Lynnville, IA",1,0,1,0,0,2,1,0,1,2,2006
+22545,"Fort Dodge, IA","Bagley, IA",0,0,2,0,2,0,2,0,0,2,2006
+22691,"Fort Dodge, IA","Fostoria, IA",2,0,0,0,0,2,2,0,0,2,2006
+22657,"Fort Dodge, IA","Early, IA",0,2,0,0,2,0,0,1,1,2,2006
+22811,"Fort Dodge, IA","Luther, IA",1,0,1,0,2,0,1,1,0,2,2006
+22688,"Fort Dodge, IA","Fort Atkinson, IA",1,1,0,0,1,1,0,2,0,2,2006
+22548,"Fort Dodge, IA","Bancroft, IA",0,1,1,0,2,0,1,1,0,2,2006
+22546,"Fort Dodge, IA","Baldwin, IA",0,2,0,1,0,1,0,1,1,2,2006
+22654,"Fort Dodge, IA","Dyersville, IA",1,0,1,0,1,1,0,1,1,2,2006
+22664,"Fort Dodge, IA","Elgin, IA",1,0,0,0,0,1,1,0,0,1,2006
+22619,"Fort Dodge, IA","Craig, IA",0,1,0,1,0,0,1,0,0,1,2006
+22995,"Fort Dodge, IA","Stacyville, IA",1,0,0,0,0,1,0,1,0,1,2006
+22662,"Fort Dodge, IA","Eldora, IA",1,0,0,0,1,0,1,0,0,1,2006
+23017,"Fort Dodge, IA","Truesdale, IA",0,0,1,0,1,0,0,1,0,1,2006
+23016,"Fort Dodge, IA","Traer, IA",0,1,0,0,1,0,0,1,0,1,2006
+23009,"Fort Dodge, IA","Tennant, IA",1,0,0,0,0,1,0,1,0,1,2006
+23018,"Fort Dodge, IA","Underwood, IA",0,1,0,0,0,1,0,1,0,1,2006
+23002,"Fort Dodge, IA","Strawberry Point, IA",1,0,0,0,0,1,0,1,0,1,2006
+22659,"Fort Dodge, IA","Edgewood, IA",0,1,0,0,0,1,0,1,0,1,2006
+22645,"Fort Dodge, IA","Diagonal, IA",0,1,0,0,0,1,0,1,0,1,2006
+22998,"Fort Dodge, IA","State Center, IA",1,0,0,0,0,1,1,0,0,1,2006
+22624,"Fort Dodge, IA","Cromwell, IA",0,1,0,0,1,0,1,0,0,1,2006
+22626,"Fort Dodge, IA","Cumberland, IA",1,0,0,0,1,0,1,0,0,1,2006
+22653,"Fort Dodge, IA","Dunlap, IA",1,0,0,0,0,1,1,0,0,1,2006
+22870,"Fort Dodge, IA","New London, IA",0,1,0,0,1,0,0,0,1,1,2006
+23019,"Fort Dodge, IA","Unionville, IA",0,1,0,0,0,1,1,0,0,1,2006
+22614,"Fort Dodge, IA","Corning, IA",0,1,0,0,0,1,0,0,1,1,2006
+22566,"Fort Dodge, IA","Brandon, IA",1,0,0,0,0,1,0,1,0,1,2006
+22561,"Fort Dodge, IA","Bonaparte, IA",0,1,0,0,1,0,0,1,0,1,2006
+23048,"Fort Dodge, IA","West Chester, IA",0,1,0,0,1,0,0,0,1,1,2006
+22558,"Fort Dodge, IA","Blakesburg, IA",0,1,0,0,0,1,0,1,0,1,2006
+22551,"Fort Dodge, IA","Belle Plaine, IA",0,1,0,0,0,1,0,0,1,1,2006
+23051,"Fort Dodge, IA","West Point, IA",0,1,0,0,1,0,0,1,0,1,2006
+23052,"Fort Dodge, IA","West Union, IA",0,1,0,0,0,1,0,1,0,1,2006
+22549,"Fort Dodge, IA","Batavia, IA",1,0,0,0,0,1,1,0,0,1,2006
+23058,"Fort Dodge, IA","Wilton, IA",0,1,0,0,0,1,0,1,0,1,2006
+22544,"Fort Dodge, IA","Aurora, IA",1,0,0,0,1,0,1,0,0,1,2006
+23061,"Fort Dodge, IA","Winthrop, IA",0,1,0,0,0,1,1,0,0,1,2006
+22539,"Fort Dodge, IA","Atalissa, IA",1,0,0,0,0,1,0,1,0,1,2006
+22532,"Fort Dodge, IA","Anthon, IA",1,0,0,0,0,1,1,0,0,1,2006
+22521,"Fort Dodge, IA","Albia, IA",0,0,1,0,1,0,0,1,0,1,2006
+22519,"Fort Dodge, IA","Akron, IA",0,1,0,0,0,1,0,0,1,1,2006
+22518,"Fort Dodge, IA","Ainsworth, IA",0,1,0,0,0,1,0,1,0,1,2006
+22517,"Fort Dodge, IA","Agency, IA",0,1,0,0,0,1,0,0,1,1,2006
+23045,"Fort Dodge, IA","Welton, IA",0,0,1,1,0,0,0,0,1,1,2006
+22567,"Fort Dodge, IA","Brayton, IA",0,1,0,0,0,1,0,1,0,1,2006
+22570,"Fort Dodge, IA","Bronson, IA",0,1,0,0,0,1,0,0,1,1,2006
+23028,"Fort Dodge, IA","Wadena, IA",1,0,0,0,0,1,1,0,0,1,2006
+22611,"Fort Dodge, IA","Conrad, IA",1,0,0,0,0,1,1,0,0,1,2006
+22609,"Fort Dodge, IA","Columbus Junction, IA",0,1,0,0,0,1,1,0,0,1,2006
+22606,"Fort Dodge, IA","Coggon, IA",1,0,0,0,0,1,1,0,0,1,2006
+23024,"Fort Dodge, IA","Van Horne, IA",0,1,0,0,0,1,0,1,0,1,2006
+22605,"Fort Dodge, IA","Coburg, IA",0,1,0,0,1,0,0,1,0,1,2006
+22601,"Fort Dodge, IA","Clearfield, IA",0,0,1,0,0,1,0,0,1,1,2006
+22597,"Fort Dodge, IA","Clarence, IA",0,0,1,0,0,1,0,1,0,1,2006
+22595,"Fort Dodge, IA","Chester, IA",0,1,0,0,0,1,0,0,1,1,2006
+22571,"Fort Dodge, IA","Brooklyn, IA",1,0,0,0,0,1,1,0,0,1,2006
+23030,"Fort Dodge, IA","Walcott, IA",0,1,0,0,1,0,0,1,0,1,2006
+22590,"Fort Dodge, IA","Central City, IA",0,1,0,0,1,0,0,0,1,1,2006
+23032,"Fort Dodge, IA","Walker, IA",1,0,0,0,1,0,0,1,0,1,2006
+22587,"Fort Dodge, IA","Center Junction, IA",0,0,1,0,0,1,1,0,0,1,2006
+22584,"Fort Dodge, IA","Castana, IA",0,1,0,0,0,1,0,1,0,1,2006
+22583,"Fort Dodge, IA","Castalia, IA",0,0,1,0,0,1,1,0,0,1,2006
+22582,"Fort Dodge, IA","Casey, IA",0,1,0,0,1,0,0,0,1,1,2006
+22666,"Fort Dodge, IA","Elkader, IA",1,0,0,1,0,0,0,1,0,1,2006
+22971,"Fort Dodge, IA","Sheffield, IA",0,1,0,0,1,0,0,1,0,1,2006
+22670,"Fort Dodge, IA","Epworth, IA",1,0,0,0,1,0,1,0,0,1,2006
+22675,"Fort Dodge, IA","Exline, IA",1,0,0,0,1,0,0,1,0,1,2006
+22902,"Fort Dodge, IA","Panama, IA",1,0,0,0,0,1,0,0,1,1,2006
+22903,"Fort Dodge, IA","Panora, IA",0,0,1,0,0,1,1,0,0,1,2006
+22906,"Fort Dodge, IA","Parnell, IA",0,1,0,0,0,1,0,1,0,1,2006
+22809,"Fort Dodge, IA","Low Moor, IA",0,1,0,0,0,1,1,0,0,1,2006
+22800,"Fort Dodge, IA","Lineville, IA",0,1,0,0,0,1,0,1,0,1,2006
+22799,"Fort Dodge, IA","Linden, IA",1,0,0,0,0,1,1,0,0,1,2006
+22914,"Fort Dodge, IA","Plainfield, IA",0,1,0,0,0,1,0,1,0,1,2006
+22797,"Fort Dodge, IA","Lewis, IA",0,1,0,0,0,1,0,0,1,1,2006
+22791,"Fort Dodge, IA","Ledyard, IA",0,0,1,1,0,0,0,1,0,1,2006
+22918,"Fort Dodge, IA","Pleasanton, IA",0,0,1,0,1,0,1,0,0,1,2006
+22919,"Fort Dodge, IA","Pleasantville, IA",0,1,0,0,0,1,0,1,0,1,2006
+22786,"Fort Dodge, IA","Larrabee, IA",0,0,1,0,0,1,0,1,0,1,2006
+22784,"Fort Dodge, IA","Lamoni, IA",1,0,0,0,0,1,1,0,0,1,2006
+22782,"Fort Dodge, IA","Lakota, IA",0,0,1,0,1,0,0,1,0,1,2006
+22778,"Fort Dodge, IA","Lake Mills, IA",0,1,0,0,0,1,1,0,0,1,2006
+22925,"Fort Dodge, IA","Prairieburg, IA",0,0,1,0,1,0,0,0,1,1,2006
+22926,"Fort Dodge, IA","Preston, IA",1,0,0,0,0,1,0,1,0,1,2006
+22813,"Fort Dodge, IA","Macedonia, IA",0,1,0,0,0,1,0,1,0,1,2006
+22814,"Fort Dodge, IA","Macksburg, IA",0,1,0,0,0,1,0,1,0,1,2006
+22898,"Fort Dodge, IA","Pacific Junction, IA",1,0,0,0,0,1,0,1,0,1,2006
+22851,"Fort Dodge, IA","Montezuma, IA",0,1,0,0,0,1,0,0,1,1,2006
+22867,"Fort Dodge, IA","New Albin, IA",0,1,0,0,0,1,0,0,1,1,2006
+22863,"Fort Dodge, IA","Murray, IA",1,0,0,0,0,1,1,0,0,1,2006
+22862,"Fort Dodge, IA","Moville, IA",0,1,0,0,0,1,0,1,0,1,2006
+22860,"Fort Dodge, IA","Mount Union, IA",1,0,0,0,1,0,1,0,0,1,2006
+22878,"Fort Dodge, IA","North English, IA",1,0,0,0,0,1,1,0,0,1,2006
+22857,"Fort Dodge, IA","Morrison, IA",0,1,0,0,0,1,0,1,0,1,2006
+22853,"Fort Dodge, IA","Montrose, IA",0,1,0,0,0,1,1,0,0,1,2006
+22849,"Fort Dodge, IA","Monona, IA",0,1,0,0,0,1,0,0,1,1,2006
+22816,"Fort Dodge, IA","Malcom, IA",0,0,1,0,1,0,1,0,0,1,2006
+22844,"Fort Dodge, IA","Minden, IA",0,1,0,0,0,1,0,1,0,1,2006
+22841,"Fort Dodge, IA","Millerton, IA",0,0,1,0,0,1,0,1,0,1,2006
+22837,"Fort Dodge, IA","Melcher-Dallas, IA",1,0,0,0,0,1,0,0,1,1,2006
+22829,"Fort Dodge, IA","Marquette, IA",0,1,0,0,1,0,1,0,0,1,2006
+22827,"Fort Dodge, IA","Marengo, IA",1,0,0,0,0,1,1,0,0,1,2006
+22823,"Fort Dodge, IA","Mapleton, IA",0,1,0,0,0,1,0,1,0,1,2006
+22817,"Fort Dodge, IA","Malvern, IA",0,1,0,0,0,1,0,1,0,1,2006
+22776,"Fort Dodge, IA","Ladora, IA",0,1,0,0,0,1,0,1,0,1,2006
+22772,"Fort Dodge, IA","Kiron, IA",0,1,0,0,0,1,1,0,0,1,2006
+22931,"Fort Dodge, IA","Randalia, IA",1,0,0,0,0,1,0,1,0,1,2006
+22976,"Fort Dodge, IA","Shueyville, IA",0,1,0,0,0,1,0,1,0,1,2006
+22697,"Fort Dodge, IA","Garnavillo, IA",0,1,0,0,0,1,0,1,0,1,2006
+22696,"Fort Dodge, IA","Garden Grove, IA",1,0,0,0,0,1,0,1,0,1,2006
+22695,"Fort Dodge, IA","Fremont, IA",0,1,0,0,1,0,0,0,1,1,2006
+22972,"Fort Dodge, IA","Shelby, IA",0,0,1,0,0,1,0,0,1,1,2006
+22694,"Fort Dodge, IA","Fredericksburg, IA",0,1,0,0,0,1,0,1,0,1,2006
+22974,"Fort Dodge, IA","Shell Rock, IA",1,0,0,0,1,0,1,0,0,1,2006
+22692,"Fort Dodge, IA","Franklin, IA",0,0,1,0,0,1,0,0,1,1,2006
+22978,"Fort Dodge, IA","Sidney, IA",1,0,0,0,0,1,1,0,0,1,2006
+22965,"Fort Dodge, IA","Sandyville, IA",1,0,0,0,1,0,1,0,0,1,2006
+22980,"Fort Dodge, IA","Silver City, IA",0,0,1,0,1,0,0,0,1,1,2006
+22683,"Fort Dodge, IA","Ferguson, IA",0,1,0,0,0,1,1,0,0,1,2006
+22682,"Fort Dodge, IA","Fenton, IA",0,1,0,0,0,1,0,1,0,1,2006
+22679,"Fort Dodge, IA","Farmersburg, IA",0,1,0,0,1,0,1,0,0,1,2006
+22986,"Fort Dodge, IA","Soldier, IA",1,0,0,0,0,1,1,0,0,1,2006
+22987,"Fort Dodge, IA","Solon, IA",0,1,0,0,1,0,0,1,0,1,2006
+22988,"Fort Dodge, IA","South English, IA",0,1,0,0,0,1,0,1,0,1,2006
+22700,"Fort Dodge, IA","George, IA",0,0,1,0,1,0,1,0,0,1,2006
+22709,"Fort Dodge, IA","Graf, IA",0,1,0,0,1,0,0,0,1,1,2006
+22769,"Fort Dodge, IA","Keota, IA",0,1,0,0,1,0,0,0,1,1,2006
+22739,"Fort Dodge, IA","Hedrick, IA",0,1,0,0,0,1,0,1,0,1,2006
+22768,"Fort Dodge, IA","Keosauqua, IA",0,0,1,0,0,1,0,1,0,1,2006
+22766,"Fort Dodge, IA","Kensett, IA",1,0,0,0,0,1,0,1,0,1,2006
+22756,"Fort Dodge, IA","Irwin, IA",0,1,0,0,0,1,1,0,0,1,2006
+22939,"Fort Dodge, IA","Reinbeck, IA",1,0,0,0,0,1,1,0,0,1,2006
+22940,"Fort Dodge, IA","Remsen, IA",0,1,0,0,0,1,1,0,0,1,2006
+22742,"Fort Dodge, IA","Hills, IA",0,1,0,0,1,0,0,1,0,1,2006
+22740,"Fort Dodge, IA","Henderson, IA",0,1,0,1,0,0,0,1,0,1,2006
+22737,"Fort Dodge, IA","Hawkeye, IA",0,0,1,0,0,1,0,0,1,1,2006
+22711,"Fort Dodge, IA","Grandview, IA",0,0,1,0,1,0,0,0,1,1,2006
+22735,"Fort Dodge, IA","Haverhill, IA",0,0,1,0,0,1,1,0,0,1,2006
+22729,"Fort Dodge, IA","Harlan, IA",0,1,0,0,1,0,0,1,0,1,2006
+22953,"Fort Dodge, IA","Rockwell, IA",0,1,0,1,0,0,0,0,1,1,2006
+22954,"Fort Dodge, IA","Rodney, IA",0,1,0,0,0,1,0,1,0,1,2006
+22718,"Fort Dodge, IA","Greenville, IA",0,1,0,0,0,1,1,0,0,1,2006
+22717,"Fort Dodge, IA","Greenfield, IA",1,0,0,0,0,1,1,0,0,1,2006
+22958,"Fort Dodge, IA","Russell, IA",0,1,0,0,0,1,1,0,0,1,2006
+23070,"Fort Dodge, IA","Zwingle, IA",1,0,0,0,0,1,0,1,0,1,2006

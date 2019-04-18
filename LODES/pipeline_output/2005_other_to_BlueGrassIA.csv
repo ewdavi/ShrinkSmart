@@ -1,0 +1,85 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+6037,"Blue Grass, IA","Davenport, IA",83,204,27,184,77,53,59,109,146,314,2005
+6063,"Blue Grass, IA","Muscatine, IA",61,113,17,146,12,33,26,79,86,191,2005
+6022,"Blue Grass, IA","Blue Grass, IA",15,68,15,58,24,16,29,30,39,98,2005
+6025,"Blue Grass, IA","Buffalo, IA",18,54,24,46,30,20,29,28,39,96,2005
+6021,"Blue Grass, IA","Bettendorf, IA",9,45,15,50,14,5,11,12,46,69,2005
+6086,"Blue Grass, IA","Walcott, IA",12,20,7,20,11,8,13,7,19,39,2005
+6098,"Blue Grass, IA","Wilton, IA",5,24,1,24,4,2,3,13,14,30,2005
+6045,"Blue Grass, IA","Eldridge, IA",2,18,0,17,0,3,3,5,12,20,2005
+6041,"Blue Grass, IA","Dixon, IA",6,13,1,11,5,4,9,4,7,20,2005
+6080,"Blue Grass, IA","Stockton, IA",5,9,3,9,3,5,4,6,7,17,2005
+6020,"Blue Grass, IA","Bennett, IA",2,10,4,8,1,7,6,5,5,16,2005
+6058,"Blue Grass, IA","Long Grove, IA",6,5,2,8,3,2,4,6,3,13,2005
+6050,"Blue Grass, IA","Grandview, IA",4,8,1,10,2,1,4,5,4,13,2005
+6043,"Blue Grass, IA","Durant, IA",0,11,2,8,3,2,1,9,3,13,2005
+6075,"Blue Grass, IA","Riverdale, IA",1,12,0,13,0,0,0,3,10,13,2005
+6081,"Blue Grass, IA","Tipton, IA",6,7,0,6,3,4,8,1,4,13,2005
+6064,"Blue Grass, IA","Nichols, IA",2,10,0,9,1,2,1,6,5,12,2005
+6068,"Blue Grass, IA","Panorama Park, IA",2,8,1,8,2,1,2,0,9,11,2005
+6038,"Blue Grass, IA","De Witt, IA",2,6,2,7,3,0,0,3,7,10,2005
+6033,"Blue Grass, IA","Clinton, IA",1,8,0,7,0,2,0,1,8,9,2005
+6085,"Blue Grass, IA","Urbana, IA",5,1,2,7,0,1,3,0,5,8,2005
+6097,"Blue Grass, IA","Wheatland, IA",2,3,1,2,0,4,2,2,2,6,2005
+6047,"Blue Grass, IA","Fruitland, IA",2,4,0,6,0,0,1,1,4,6,2005
+6095,"Blue Grass, IA","West Liberty, IA",1,5,0,6,0,0,0,4,2,6,2005
+6057,"Blue Grass, IA","Le Claire, IA",2,2,2,4,0,2,1,2,3,6,2005
+6017,"Blue Grass, IA","Atalissa, IA",1,3,1,5,0,0,1,1,3,5,2005
+6072,"Blue Grass, IA","Princeton, IA",3,1,0,0,2,2,0,4,0,4,2005
+6026,"Blue Grass, IA","Burlington, IA",0,3,1,1,0,3,1,1,2,4,2005
+6062,"Blue Grass, IA","Morning Sun, IA",0,2,2,4,0,0,0,2,2,4,2005
+6029,"Blue Grass, IA","Cedar Rapids, IA",1,2,1,0,3,1,2,2,0,4,2005
+6049,"Blue Grass, IA","Grand Mound, IA",0,4,0,3,1,0,1,1,2,4,2005
+6052,"Blue Grass, IA","Iowa City, IA",0,4,0,2,2,0,2,1,1,4,2005
+6084,"Blue Grass, IA","University Heights, IA",2,2,0,3,0,1,0,1,3,4,2005
+6089,"Blue Grass, IA","Washington, IA",0,2,1,3,0,0,0,1,2,3,2005
+6093,"Blue Grass, IA","West Branch, IA",0,3,0,3,0,0,0,0,3,3,2005
+6088,"Blue Grass, IA","Wapello, IA",1,1,1,3,0,0,0,2,1,3,2005
+6016,"Blue Grass, IA","Andover, IA",1,2,0,1,1,1,2,0,1,3,2005
+6099,"Blue Grass, IA","Winfield, IA",2,1,0,2,1,0,0,2,1,3,2005
+6018,"Blue Grass, IA","Baldwin, IA",0,3,0,1,0,2,0,1,2,3,2005
+6034,"Blue Grass, IA","Columbus Junction, IA",2,0,1,3,0,0,0,1,2,3,2005
+6027,"Blue Grass, IA","Camanche, IA",0,3,0,3,0,0,0,0,3,3,2005
+6094,"Blue Grass, IA","West Burlington, IA",2,0,0,2,0,0,2,0,0,2,2005
+6032,"Blue Grass, IA","Clarence, IA",0,2,0,0,0,2,0,1,1,2,2005
+6046,"Blue Grass, IA","Fort Madison, IA",0,2,0,2,0,0,0,2,0,2,2005
+6065,"Blue Grass, IA","North Liberty, IA",1,1,0,1,0,1,0,1,1,2,2005
+6060,"Blue Grass, IA","Maquoketa, IA",0,2,0,2,0,0,0,0,2,2,2005
+6059,"Blue Grass, IA","Lowden, IA",0,2,0,1,0,1,1,0,1,2,2005
+6035,"Blue Grass, IA","Coralville, IA",0,0,2,1,1,0,1,0,1,2,2005
+6092,"Blue Grass, IA","Webster, IA",0,1,0,1,0,0,0,1,0,1,2005
+6079,"Blue Grass, IA","Springbrook, IA",0,0,1,1,0,0,0,0,1,1,2005
+6091,"Blue Grass, IA","Waukon, IA",0,0,1,0,0,1,0,0,1,1,2005
+6090,"Blue Grass, IA","Waterloo, IA",0,1,0,0,1,0,0,1,0,1,2005
+6023,"Blue Grass, IA","Bonaparte, IA",1,0,0,1,0,0,0,0,1,1,2005
+6024,"Blue Grass, IA","Brighton, IA",0,1,0,1,0,0,0,1,0,1,2005
+6087,"Blue Grass, IA","Walford, IA",0,1,0,1,0,0,0,0,1,1,2005
+6030,"Blue Grass, IA","Centerville, IA",0,1,0,1,0,0,0,1,0,1,2005
+6031,"Blue Grass, IA","Charles City, IA",0,1,0,1,0,0,0,1,0,1,2005
+6096,"Blue Grass, IA","West Point, IA",0,0,1,0,0,1,0,0,1,1,2005
+6083,"Blue Grass, IA","Toledo, IA",0,1,0,1,0,0,0,0,1,1,2005
+6082,"Blue Grass, IA","Titonka, IA",0,1,0,1,0,0,0,0,1,1,2005
+6019,"Blue Grass, IA","Bellevue, IA",0,1,0,1,0,0,0,0,1,1,2005
+6028,"Blue Grass, IA","Cedar Falls, IA",1,0,0,1,0,0,0,1,0,1,2005
+6053,"Blue Grass, IA","Iowa Falls, IA",0,1,0,1,0,0,0,0,1,1,2005
+6078,"Blue Grass, IA","Shueyville, IA",1,0,0,1,0,0,0,0,1,1,2005
+6067,"Blue Grass, IA","Ottumwa, IA",1,0,0,1,0,0,0,0,1,1,2005
+6055,"Blue Grass, IA","Keosauqua, IA",0,1,0,1,0,0,0,1,0,1,2005
+6056,"Blue Grass, IA","Lacona, IA",0,1,0,1,0,0,0,1,0,1,2005
+6051,"Blue Grass, IA","Independence, IA",1,0,0,0,1,0,0,1,0,1,2005
+6048,"Blue Grass, IA","Gibson, IA",0,0,1,0,0,1,0,1,0,1,2005
+6061,"Blue Grass, IA","McCausland, IA",1,0,0,0,1,0,0,1,0,1,2005
+6044,"Blue Grass, IA","Eldon, IA",0,1,0,1,0,0,0,1,0,1,2005
+6042,"Blue Grass, IA","Dubuque, IA",0,1,0,0,0,1,1,0,0,1,2005
+6066,"Blue Grass, IA","Orient, IA",0,1,0,1,0,0,0,1,0,1,2005
+6040,"Blue Grass, IA","Diagonal, IA",0,1,0,0,0,1,0,0,1,1,2005
+6077,"Blue Grass, IA","Rock Rapids, IA",0,1,0,0,0,1,1,0,0,1,2005
+6069,"Blue Grass, IA","Pleasant Plain, IA",0,1,0,1,0,0,0,0,1,1,2005
+6070,"Blue Grass, IA","Postville, IA",0,1,0,0,0,1,1,0,0,1,2005
+6071,"Blue Grass, IA","Preston, IA",1,0,0,0,1,0,0,1,0,1,2005
+6039,"Blue Grass, IA","Decorah, IA",1,0,0,1,0,0,0,1,0,1,2005
+6073,"Blue Grass, IA","Rathbun, IA",0,1,0,1,0,0,0,1,0,1,2005
+6074,"Blue Grass, IA","Reinbeck, IA",1,0,0,0,0,1,1,0,0,1,2005
+6036,"Blue Grass, IA","Danville, IA",0,1,0,0,1,0,0,1,0,1,2005
+6054,"Blue Grass, IA","Keokuk, IA",0,1,0,1,0,0,0,1,0,1,2005
+6076,"Blue Grass, IA","Robins, IA",0,0,1,0,1,0,0,0,1,1,2005

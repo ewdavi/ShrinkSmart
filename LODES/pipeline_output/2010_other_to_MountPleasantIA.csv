@@ -1,0 +1,376 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+50643,"Mount Pleasant, IA","Mount Pleasant, IA",358,981,447,397,1132,257,537,789,460,1786,2010
+50457,"Mount Pleasant, IA","Burlington, IA",74,220,61,76,165,114,81,171,103,355,2010
+50652,"Mount Pleasant, IA","New London, IA",50,192,72,99,157,58,74,144,96,314,2010
+50714,"Mount Pleasant, IA","Salem, IA",40,153,47,50,158,32,68,90,82,240,2010
+50600,"Mount Pleasant, IA","Lockridge, IA",38,138,37,51,132,30,51,97,65,213,2010
+50734,"Mount Pleasant, IA","St. Paul, IA",41,124,29,59,96,39,37,92,65,194,2010
+50709,"Mount Pleasant, IA","Rome, IA",22,77,40,31,94,14,35,49,55,139,2010
+50644,"Mount Pleasant, IA","Mount Union, IA",25,84,29,38,69,31,34,51,53,138,2010
+50767,"Mount Pleasant, IA","Wayland, IA",20,78,35,39,79,15,34,56,43,133,2010
+50509,"Mount Pleasant, IA","Donnellson, IA",21,84,14,38,49,32,18,49,52,119,2010
+50527,"Mount Pleasant, IA","Fairfield, IA",24,65,27,19,69,28,38,49,29,116,2010
+50670,"Mount Pleasant, IA","Ottumwa, IA",25,57,20,7,43,52,40,45,17,102,2010
+50647,"Mount Pleasant, IA","Muscatine, IA",29,49,24,3,41,58,39,47,16,102,2010
+50784,"Mount Pleasant, IA","Winfield, IA",19,62,18,24,54,21,28,46,25,99,2010
+50536,"Mount Pleasant, IA","Fort Madison, IA",20,53,18,18,47,26,19,44,28,91,2010
+50582,"Mount Pleasant, IA","Keokuk, IA",18,48,23,15,30,44,27,47,15,89,2010
+50772,"Mount Pleasant, IA","West Burlington, IA",9,61,12,23,43,16,15,42,25,82,2010
+50467,"Mount Pleasant, IA","Cedar Rapids, IA",26,33,17,3,15,58,22,47,7,76,2010
+50762,"Mount Pleasant, IA","Washington, IA",16,41,15,3,40,29,21,36,15,72,2010
+50506,"Mount Pleasant, IA","Des Moines, IA",24,45,2,9,27,35,19,32,20,71,2010
+50499,"Mount Pleasant, IA","Davenport, IA",16,29,14,6,13,40,18,32,9,59,2010
+50575,"Mount Pleasant, IA","Iowa City, IA",12,21,16,0,25,24,8,23,18,49,2010
+50668,"Mount Pleasant, IA","Oskaloosa, IA",8,23,11,6,11,25,9,25,8,42,2010
+50625,"Mount Pleasant, IA","Middletown, IA",5,28,8,12,22,7,2,18,21,41,2010
+50453,"Mount Pleasant, IA","Brighton, IA",5,18,15,8,23,7,9,17,12,38,2010
+50636,"Mount Pleasant, IA","Montrose, IA",6,23,7,3,10,23,12,18,6,36,2010
+50703,"Mount Pleasant, IA","Riverside, IA",6,20,9,8,12,15,7,15,13,35,2010
+50537,"Mount Pleasant, IA","Franklin, IA",5,17,12,14,19,1,6,14,14,34,2010
+50498,"Mount Pleasant, IA","Danville, IA",3,24,4,8,15,8,5,14,12,31,2010
+50569,"Mount Pleasant, IA","Houghton, IA",5,21,4,10,15,5,1,20,9,30,2010
+50444,"Mount Pleasant, IA","Bettendorf, IA",9,15,6,0,6,24,9,16,5,30,2010
+50761,"Mount Pleasant, IA","Wapello, IA",3,21,5,11,11,7,1,16,12,29,2010
+50450,"Mount Pleasant, IA","Bonaparte, IA",2,19,7,6,15,7,6,12,10,28,2010
+50426,"Mount Pleasant, IA","Ames, IA",8,15,3,4,9,13,10,12,4,26,2010
+50510,"Mount Pleasant, IA","Dubuque, IA",4,16,5,1,5,19,2,16,7,25,2010
+50617,"Mount Pleasant, IA","Marshalltown, IA",10,9,5,0,9,15,10,12,2,24,2010
+50621,"Mount Pleasant, IA","Mediapolis, IA",3,21,0,10,9,5,3,13,8,24,2010
+50763,"Mount Pleasant, IA","Waterloo, IA",7,8,8,0,2,21,6,9,8,23,2010
+50485,"Mount Pleasant, IA","Columbus Junction, IA",6,12,3,5,6,10,6,10,5,21,2010
+50724,"Mount Pleasant, IA","Sioux City, IA",7,10,4,2,10,9,7,12,2,21,2010
+50470,"Mount Pleasant, IA","Centerville, IA",5,11,5,4,3,14,3,14,4,21,2010
+50516,"Mount Pleasant, IA","Eldon, IA",4,10,7,3,8,10,5,9,7,21,2010
+50783,"Mount Pleasant, IA","Windsor Heights, IA",7,8,5,2,7,11,7,9,4,20,2010
+50627,"Mount Pleasant, IA","Milton, IA",6,10,3,6,9,4,5,7,7,19,2010
+50704,"Mount Pleasant, IA","Robins, IA",7,7,4,1,5,12,4,12,2,18,2010
+50583,"Mount Pleasant, IA","Keosauqua, IA",5,7,6,3,9,6,5,6,7,18,2010
+50480,"Mount Pleasant, IA","Clinton, IA",5,8,4,1,5,11,8,7,2,17,2010
+50754,"Mount Pleasant, IA","University Park, IA",5,5,7,2,6,9,6,7,4,17,2010
+50566,"Mount Pleasant, IA","Hillsboro, IA",4,12,1,4,6,7,6,4,7,17,2010
+50753,"Mount Pleasant, IA","University Heights, IA",6,5,6,0,8,9,6,3,8,17,2010
+50565,"Mount Pleasant, IA","Hiawatha, IA",6,8,2,2,1,13,5,9,2,16,2010
+50529,"Mount Pleasant, IA","Farmington, IA",1,11,4,5,8,3,3,7,6,16,2010
+50654,"Mount Pleasant, IA","Newton, IA",4,9,3,4,4,8,2,6,8,16,2010
+50482,"Mount Pleasant, IA","Clive, IA",3,11,2,4,3,9,4,6,6,16,2010
+50472,"Mount Pleasant, IA","Chariton, IA",2,9,4,3,4,8,3,7,5,15,2010
+50466,"Mount Pleasant, IA","Cedar Falls, IA",4,5,6,0,6,9,4,7,4,15,2010
+50776,"Mount Pleasant, IA","West Point, IA",3,11,1,2,5,8,2,8,5,15,2010
+50447,"Mount Pleasant, IA","Blakesburg, IA",3,5,7,1,5,9,3,9,3,15,2010
+50756,"Mount Pleasant, IA","Urbandale, IA",6,8,0,2,5,7,4,5,5,14,2010
+50549,"Mount Pleasant, IA","Grandview, IA",2,9,3,2,5,7,3,8,3,14,2010
+50445,"Mount Pleasant, IA","Birmingham, IA",3,8,3,4,7,3,3,7,4,14,2010
+50722,"Mount Pleasant, IA","Sigourney, IA",2,9,2,2,8,3,5,3,5,13,2010
+50422,"Mount Pleasant, IA","Albia, IA",1,9,3,1,3,9,3,6,4,13,2010
+50420,"Mount Pleasant, IA","Ainsworth, IA",1,8,4,3,7,3,3,5,5,13,2010
+50770,"Mount Pleasant, IA","Wellman, IA",4,6,3,2,3,8,5,6,2,13,2010
+50674,"Mount Pleasant, IA","Packwood, IA",4,5,3,1,4,7,7,2,3,12,2010
+50701,"Mount Pleasant, IA","Richland, IA",2,7,3,2,8,2,3,5,4,12,2010
+50639,"Mount Pleasant, IA","Morning Sun, IA",3,6,3,4,7,1,2,7,3,12,2010
+50493,"Mount Pleasant, IA","Crawfordsville, IA",0,10,2,7,4,1,1,5,6,12,2010
+50658,"Mount Pleasant, IA","North Liberty, IA",4,6,1,0,4,7,3,6,2,11,2010
+50514,"Mount Pleasant, IA","Eddyville, IA",0,10,1,1,5,5,3,6,2,11,2010
+50489,"Mount Pleasant, IA","Coralville, IA",8,3,0,0,3,8,6,5,0,11,2010
+50452,"Mount Pleasant, IA","Boone, IA",5,5,1,1,3,7,3,7,1,11,2010
+50686,"Mount Pleasant, IA","Pleasant Hill, IA",2,8,1,1,4,6,7,2,2,11,2010
+50655,"Mount Pleasant, IA","Nichols, IA",2,5,3,0,4,6,5,4,1,10,2010
+50774,"Mount Pleasant, IA","West Des Moines, IA",3,7,0,2,2,6,2,5,3,10,2010
+50462,"Mount Pleasant, IA","Cantril, IA",0,8,2,4,5,1,3,1,6,10,2010
+50431,"Mount Pleasant, IA","Ankeny, IA",2,6,1,0,2,7,0,7,2,9,2010
+50573,"Mount Pleasant, IA","Indianola, IA",0,5,4,1,4,4,2,4,3,9,2010
+50481,"Mount Pleasant, IA","Clio, IA",4,5,0,0,2,7,4,3,2,9,2010
+50580,"Mount Pleasant, IA","Johnston, IA",4,2,3,1,3,5,1,4,4,9,2010
+50427,"Mount Pleasant, IA","Anamosa, IA",4,3,2,1,3,5,2,6,1,9,2010
+50496,"Mount Pleasant, IA","Creston, IA",3,5,1,1,2,6,2,5,2,9,2010
+50660,"Mount Pleasant, IA","Norwalk, IA",3,4,2,2,2,5,2,5,2,9,2010
+50782,"Mount Pleasant, IA","Wilton, IA",1,5,3,1,6,2,1,5,3,9,2010
+50764,"Mount Pleasant, IA","Waukee, IA",3,5,0,0,1,7,2,4,2,8,2010
+50492,"Mount Pleasant, IA","Council Bluffs, IA",2,4,2,0,2,6,2,6,0,8,2010
+50640,"Mount Pleasant, IA","Moulton, IA",1,5,2,1,5,2,1,5,2,8,2010
+50773,"Mount Pleasant, IA","West Chester, IA",4,3,1,2,3,3,3,5,0,8,2010
+50449,"Mount Pleasant, IA","Blue Grass, IA",2,5,1,0,2,6,3,3,2,8,2010
+50757,"Mount Pleasant, IA","Vinton, IA",1,5,2,2,0,6,2,3,3,8,2010
+50602,"Mount Pleasant, IA","Long Grove, IA",4,4,0,0,3,5,2,6,0,8,2010
+50586,"Mount Pleasant, IA","Kinross, IA",2,4,1,3,2,2,2,3,2,7,2010
+50634,"Mount Pleasant, IA","Monticello, IA",0,7,0,0,1,6,0,4,3,7,2010
+50687,"Mount Pleasant, IA","Pleasant Plain, IA",0,5,1,2,2,2,2,1,3,6,2010
+50667,"Mount Pleasant, IA","Osceola, IA",3,2,1,0,2,4,1,4,1,6,2010
+50432,"Mount Pleasant, IA","Asbury, IA",0,4,2,0,2,4,2,2,2,6,2010
+50539,"Mount Pleasant, IA","Fremont, IA",1,3,2,2,1,3,0,4,2,6,2010
+50531,"Mount Pleasant, IA","Ferguson, IA",3,2,1,1,0,5,1,5,0,6,2010
+50487,"Mount Pleasant, IA","Conesville, IA",1,4,1,2,3,1,1,2,3,6,2010
+50755,"Mount Pleasant, IA","Urbana, IA",2,3,1,0,0,6,2,3,1,6,2010
+50599,"Mount Pleasant, IA","Lisbon, IA",2,1,3,0,1,5,2,3,1,6,2010
+50553,"Mount Pleasant, IA","Grinnell, IA",1,4,1,1,0,5,1,4,1,6,2010
+50440,"Mount Pleasant, IA","Belle Plaine, IA",2,4,0,1,3,2,1,4,1,6,2010
+50662,"Mount Pleasant, IA","Oakville, IA",2,4,0,1,2,3,2,4,0,6,2010
+50433,"Mount Pleasant, IA","Atalissa, IA",2,2,2,1,0,5,2,2,2,6,2010
+50615,"Mount Pleasant, IA","Marion, IA",4,2,0,0,1,5,4,2,0,6,2010
+50589,"Mount Pleasant, IA","Lacona, IA",1,1,4,0,1,5,0,3,3,6,2010
+50518,"Mount Pleasant, IA","Eldridge, IA",2,3,1,0,2,4,2,3,1,6,2010
+50419,"Mount Pleasant, IA","Agency, IA",3,1,2,0,5,1,2,3,1,6,2010
+50448,"Mount Pleasant, IA","Bloomfield, IA",2,2,2,0,4,2,1,4,1,6,2010
+50729,"Mount Pleasant, IA","South English, IA",0,6,0,2,3,1,1,5,0,6,2010
+50588,"Mount Pleasant, IA","Knoxville, IA",1,4,0,1,3,1,0,4,1,5,2010
+50775,"Mount Pleasant, IA","West Liberty, IA",0,3,2,0,2,3,3,2,0,5,2010
+50468,"Mount Pleasant, IA","Center Junction, IA",1,3,1,0,2,3,2,2,1,5,2010
+50697,"Mount Pleasant, IA","Rathbun, IA",2,2,1,0,2,3,2,1,2,5,2010
+50587,"Mount Pleasant, IA","Kirkville, IA",2,1,2,0,2,3,3,0,2,5,2010
+50678,"Mount Pleasant, IA","Parkersburg, IA",1,1,3,0,0,5,0,5,0,5,2010
+50653,"Mount Pleasant, IA","New Sharon, IA",0,3,2,0,2,3,1,2,2,5,2010
+50576,"Mount Pleasant, IA","Iowa Falls, IA",1,2,2,0,2,3,3,1,1,5,2010
+50572,"Mount Pleasant, IA","Independence, IA",0,3,2,0,1,4,2,3,0,5,2010
+50458,"Mount Pleasant, IA","Bussey, IA",1,3,1,0,3,2,0,3,2,5,2010
+50501,"Mount Pleasant, IA","De Witt, IA",1,2,2,0,0,5,2,2,1,5,2010
+50520,"Mount Pleasant, IA","Ely, IA",2,1,2,0,3,2,4,0,1,5,2010
+50502,"Mount Pleasant, IA","Decorah, IA",1,1,3,1,0,4,1,3,1,5,2010
+50614,"Mount Pleasant, IA","Marengo, IA",0,4,1,0,1,4,1,3,1,5,2010
+50638,"Mount Pleasant, IA","Morley, IA",0,3,1,1,2,1,3,0,1,4,2010
+50519,"Mount Pleasant, IA","Elk Run Heights, IA",0,2,2,0,3,1,1,1,2,4,2010
+50564,"Mount Pleasant, IA","Hedrick, IA",2,2,0,1,3,0,3,1,0,4,2010
+50685,"Mount Pleasant, IA","Plano, IA",0,3,1,0,1,3,0,3,1,4,2010
+50475,"Mount Pleasant, IA","Cincinnati, IA",0,4,0,0,2,2,1,3,0,4,2010
+50441,"Mount Pleasant, IA","Bellevue, IA",0,2,2,0,1,3,2,2,0,4,2010
+50443,"Mount Pleasant, IA","Bertram, IA",1,2,1,0,1,3,1,3,0,4,2010
+50692,"Mount Pleasant, IA","Princeton, IA",4,0,0,1,0,3,3,1,0,4,2010
+50693,"Mount Pleasant, IA","Promise City, IA",4,0,0,0,2,2,2,2,0,4,2010
+50513,"Mount Pleasant, IA","Dysart, IA",3,0,1,1,0,3,2,1,1,4,2010
+50526,"Mount Pleasant, IA","Fairfax, IA",1,1,2,0,0,4,1,3,0,4,2010
+50425,"Mount Pleasant, IA","Altoona, IA",0,4,0,0,2,2,0,1,3,4,2010
+50766,"Mount Pleasant, IA","Waverly, IA",1,2,1,0,1,3,0,4,0,4,2010
+50749,"Mount Pleasant, IA","Toledo, IA",0,4,0,2,1,1,0,2,2,4,2010
+50460,"Mount Pleasant, IA","Camanche, IA",2,1,1,2,0,2,1,2,1,4,2010
+50484,"Mount Pleasant, IA","Colo, IA",2,2,0,1,1,2,1,1,2,4,2010
+50619,"Mount Pleasant, IA","Mason City, IA",1,3,0,1,1,2,0,3,1,4,2010
+50416,"Mount Pleasant, IA","Ackworth, IA",0,3,1,1,1,2,0,1,3,4,2010
+50456,"Mount Pleasant, IA","Buffalo, IA",0,4,0,0,0,4,1,3,0,4,2010
+50656,"Mount Pleasant, IA","Nodaway, IA",2,1,1,1,2,1,2,1,1,4,2010
+50618,"Mount Pleasant, IA","Martelle, IA",2,1,1,0,1,3,3,1,0,4,2010
+50581,"Mount Pleasant, IA","Kalona, IA",0,3,1,0,3,1,2,1,1,4,2010
+50781,"Mount Pleasant, IA","Williamsburg, IA",2,1,1,0,2,2,2,1,1,4,2010
+50785,"Mount Pleasant, IA","Winterset, IA",1,1,2,0,0,4,3,0,1,4,2010
+50771,"Mount Pleasant, IA","West Branch, IA",0,1,2,0,1,2,1,1,1,3,2010
+50637,"Mount Pleasant, IA","Moravia, IA",1,2,0,1,2,0,0,3,0,3,2010
+50613,"Mount Pleasant, IA","Maquoketa, IA",0,2,1,0,2,1,0,3,0,3,2010
+50630,"Mount Pleasant, IA","Mitchellville, IA",1,2,0,0,3,0,1,1,1,3,2010
+50423,"Mount Pleasant, IA","Albion, IA",1,0,2,1,1,1,0,3,0,3,2010
+50623,"Mount Pleasant, IA","Melcher-Dallas, IA",1,2,0,1,1,1,1,1,1,3,2010
+50622,"Mount Pleasant, IA","Melbourne, IA",2,1,0,0,2,1,1,2,0,3,2010
+50620,"Mount Pleasant, IA","Maxwell, IA",1,2,0,1,2,0,1,0,2,3,2010
+50438,"Mount Pleasant, IA","Batavia, IA",0,2,1,0,1,2,0,1,2,3,2010
+50601,"Mount Pleasant, IA","Lone Tree, IA",1,2,0,0,2,1,3,0,0,3,2010
+50671,"Mount Pleasant, IA","Owasa, IA",1,1,1,0,0,3,2,1,0,3,2010
+50606,"Mount Pleasant, IA","Luther, IA",0,3,0,1,2,0,0,1,2,3,2010
+50649,"Mount Pleasant, IA","Nashua, IA",0,3,0,1,0,2,0,2,1,3,2010
+50657,"Mount Pleasant, IA","North English, IA",0,1,2,0,1,2,1,2,0,3,2010
+50741,"Mount Pleasant, IA","Story City, IA",1,1,1,1,0,2,0,2,1,3,2010
+50721,"Mount Pleasant, IA","Shueyville, IA",1,2,0,0,1,2,1,2,0,3,2010
+50691,"Mount Pleasant, IA","Preston, IA",1,0,2,1,0,2,2,1,0,3,2010
+50491,"Mount Pleasant, IA","Corydon, IA",0,3,0,0,1,2,0,0,3,3,2010
+50713,"Mount Pleasant, IA","Sac City, IA",0,2,1,0,1,2,0,2,1,3,2010
+50540,"Mount Pleasant, IA","Fruitland, IA",0,2,1,0,1,2,2,0,1,3,2010
+50532,"Mount Pleasant, IA","Floris, IA",0,3,0,0,1,2,1,1,1,3,2010
+50673,"Mount Pleasant, IA","Oxford, IA",0,2,1,0,0,3,0,1,2,3,2010
+50500,"Mount Pleasant, IA","De Soto, IA",1,1,1,1,0,2,0,3,0,3,2010
+50752,"Mount Pleasant, IA","Unionville, IA",1,2,0,0,1,2,0,3,0,3,2010
+50524,"Mount Pleasant, IA","Exline, IA",2,0,1,0,2,1,2,1,0,3,2010
+50522,"Mount Pleasant, IA","Evansdale, IA",1,2,0,0,0,3,0,3,0,3,2010
+50702,"Mount Pleasant, IA","Riverdale, IA",1,0,2,0,1,2,3,0,0,3,2010
+50758,"Mount Pleasant, IA","Walcott, IA",1,2,0,0,2,1,0,1,2,3,2010
+50725,"Mount Pleasant, IA","Slater, IA",0,2,1,0,1,2,3,0,0,3,2010
+50750,"Mount Pleasant, IA","Traer, IA",1,2,0,0,3,0,0,3,0,3,2010
+50535,"Mount Pleasant, IA","Fort Dodge, IA",1,0,2,0,2,1,0,1,2,3,2010
+50677,"Mount Pleasant, IA","Panorama Park, IA",0,2,1,0,1,2,1,1,1,3,2010
+50689,"Mount Pleasant, IA","Polk City, IA",0,1,2,0,2,1,1,1,1,3,2010
+50769,"Mount Pleasant, IA","Webster, IA",0,2,1,1,1,1,0,1,2,3,2010
+50515,"Mount Pleasant, IA","Elberon, IA",0,2,1,0,1,2,0,2,1,3,2010
+50560,"Mount Pleasant, IA","Harvey, IA",2,1,0,0,1,2,2,1,0,3,2010
+50681,"Mount Pleasant, IA","Pella, IA",0,3,0,2,1,0,0,0,3,3,2010
+50504,"Mount Pleasant, IA","Delaware, IA",1,2,0,0,2,1,0,2,1,3,2010
+50733,"Mount Pleasant, IA","Springville, IA",0,3,0,0,1,2,0,3,0,3,2010
+50505,"Mount Pleasant, IA","Delta, IA",1,1,1,0,1,2,1,2,0,3,2010
+50765,"Mount Pleasant, IA","Waukon, IA",0,2,1,0,0,3,0,3,0,3,2010
+50675,"Mount Pleasant, IA","Palo, IA",0,3,0,0,0,3,1,2,0,3,2010
+50641,"Mount Pleasant, IA","Mount Auburn, IA",0,0,2,0,1,1,0,2,0,2,2010
+50716,"Mount Pleasant, IA","Sergeant Bluff, IA",1,1,0,0,0,2,1,1,0,2,2010
+50748,"Mount Pleasant, IA","Tipton, IA",0,2,0,0,2,0,0,2,0,2,2010
+50717,"Mount Pleasant, IA","Seymour, IA",0,1,1,0,1,1,1,0,1,2,2010
+50720,"Mount Pleasant, IA","Shenandoah, IA",2,0,0,0,2,0,1,1,0,2,2010
+50744,"Mount Pleasant, IA","Superior, IA",0,2,0,0,2,0,0,1,1,2,2010
+50787,"Mount Pleasant, IA","Worthington, IA",0,2,0,0,0,2,0,1,1,2,2010
+50786,"Mount Pleasant, IA","Woolstock, IA",1,1,0,1,0,1,1,1,0,2,2010
+50642,"Mount Pleasant, IA","Mount Ayr, IA",0,0,2,0,1,1,0,2,0,2,2010
+50672,"Mount Pleasant, IA","Oxford Junction, IA",0,1,1,1,0,1,0,1,1,2,2010
+50751,"Mount Pleasant, IA","Tripoli, IA",1,0,1,0,1,1,0,2,0,2,2010
+50650,"Mount Pleasant, IA","Nevada, IA",1,1,0,1,0,1,0,0,2,2,2010
+50680,"Mount Pleasant, IA","Patterson, IA",0,1,1,0,1,1,0,1,1,2,2010
+50759,"Mount Pleasant, IA","Walford, IA",1,1,0,0,0,2,2,0,0,2,2010
+50666,"Mount Pleasant, IA","Osage, IA",1,1,0,1,0,1,0,0,2,2,2010
+50664,"Mount Pleasant, IA","Ogden, IA",0,1,1,0,0,2,0,2,0,2,2010
+50663,"Mount Pleasant, IA","Oelwein, IA",1,1,0,0,0,2,1,1,0,2,2010
+50661,"Mount Pleasant, IA","Norway, IA",1,1,0,1,1,0,1,0,1,2,2010
+50659,"Mount Pleasant, IA","Northwood, IA",1,1,0,0,1,1,0,1,1,2,2010
+50696,"Mount Pleasant, IA","Randalia, IA",1,1,0,0,0,2,1,1,0,2,2010
+50699,"Mount Pleasant, IA","Reinbeck, IA",1,1,0,0,0,2,0,1,1,2,2010
+50707,"Mount Pleasant, IA","Rockwell, IA",1,0,1,0,0,2,0,2,0,2,2010
+50708,"Mount Pleasant, IA","Roland, IA",0,2,0,0,1,1,0,1,1,2,2010
+50777,"Mount Pleasant, IA","West Union, IA",1,1,0,0,1,1,1,1,0,2,2010
+50710,"Mount Pleasant, IA","Runnells, IA",2,0,0,0,1,1,2,0,0,2,2010
+50711,"Mount Pleasant, IA","Russell, IA",2,0,0,0,0,2,1,1,0,2,2010
+50779,"Mount Pleasant, IA","Willey, IA",0,1,1,0,1,1,1,1,0,2,2010
+50778,"Mount Pleasant, IA","Wheatland, IA",0,0,2,1,0,1,0,1,1,2,2010
+50415,"Mount Pleasant, IA","Ackley, IA",1,1,0,0,1,1,1,1,0,2,2010
+50593,"Mount Pleasant, IA","Le Claire, IA",0,2,0,0,0,2,0,1,1,2,2010
+50594,"Mount Pleasant, IA","Le Grand, IA",0,0,2,0,0,2,0,2,0,2,2010
+50604,"Mount Pleasant, IA","Low Moor, IA",0,1,1,1,0,1,0,1,1,2,2010
+50545,"Mount Pleasant, IA","Gilman, IA",1,1,0,0,1,1,1,1,0,2,2010
+50598,"Mount Pleasant, IA","Linden, IA",0,1,1,0,1,1,1,1,0,2,2010
+50446,"Mount Pleasant, IA","Blairstown, IA",1,0,1,0,1,1,1,1,0,2,2010
+50451,"Mount Pleasant, IA","Bondurant, IA",0,2,0,1,0,1,2,0,0,2,2010
+50567,"Mount Pleasant, IA","Hopkinton, IA",0,1,1,0,0,2,0,2,0,2,2010
+50455,"Mount Pleasant, IA","Brooklyn, IA",1,0,1,0,1,1,1,1,0,2,2010
+50542,"Mount Pleasant, IA","Garwin, IA",0,2,0,0,1,1,0,2,0,2,2010
+50591,"Mount Pleasant, IA","Lamoni, IA",0,2,0,1,1,0,0,2,0,2,2010
+50570,"Mount Pleasant, IA","Hudson, IA",0,2,0,0,0,2,0,1,1,2,2010
+50461,"Mount Pleasant, IA","Cambridge, IA",0,1,1,0,2,0,0,0,2,2,2010
+50463,"Mount Pleasant, IA","Carlisle, IA",1,1,0,0,0,2,0,1,1,2,2010
+50465,"Mount Pleasant, IA","Casey, IA",1,0,1,0,1,1,1,1,0,2,2010
+50578,"Mount Pleasant, IA","Jefferson, IA",0,2,0,0,2,0,0,1,1,2,2010
+50550,"Mount Pleasant, IA","Grant, IA",0,0,2,0,2,0,2,0,0,2,2010
+50544,"Mount Pleasant, IA","Gilbert, IA",0,2,0,0,0,2,0,2,0,2,2010
+50616,"Mount Pleasant, IA","Marquette, IA",1,0,1,0,0,2,1,1,0,2,2010
+50559,"Mount Pleasant, IA","Hartwick, IA",0,2,0,0,0,2,0,2,0,2,2010
+50517,"Mount Pleasant, IA","Eldora, IA",2,0,0,0,1,1,2,0,0,2,2010
+50417,"Mount Pleasant, IA","Adair, IA",1,0,1,0,1,1,1,0,1,2,2010
+50629,"Mount Pleasant, IA","Mitchell, IA",2,0,0,0,1,1,2,0,0,2,2010
+50624,"Mount Pleasant, IA","Merrill, IA",0,1,1,1,0,1,0,1,1,2,2010
+50609,"Mount Pleasant, IA","Malcom, IA",2,0,0,0,0,2,0,2,0,2,2010
+50469,"Mount Pleasant, IA","Center Point, IA",0,1,1,0,1,1,0,2,0,2,2010
+50561,"Mount Pleasant, IA","Haverhill, IA",0,1,1,0,0,2,0,1,1,2,2010
+50486,"Mount Pleasant, IA","Colwell, IA",0,2,0,0,1,1,0,2,0,2,2010
+50483,"Mount Pleasant, IA","Colfax, IA",1,0,1,0,1,1,0,2,0,2,2010
+50633,"Mount Pleasant, IA","Montezuma, IA",1,1,0,0,1,1,1,1,0,2,2010
+50742,"Mount Pleasant, IA","Sully, IA",0,1,0,0,0,1,0,1,0,1,2010
+50507,"Mount Pleasant, IA","Dickens, IA",0,0,1,0,1,0,1,0,0,1,2010
+50746,"Mount Pleasant, IA","Tama, IA",0,0,1,0,0,1,0,1,0,1,2010
+50747,"Mount Pleasant, IA","Tiffin, IA",0,0,1,0,0,1,0,1,0,1,2010
+50740,"Mount Pleasant, IA","Storm Lake, IA",1,0,0,0,0,1,1,0,0,1,2010
+50745,"Mount Pleasant, IA","Swan, IA",0,1,0,0,0,1,1,0,0,1,2010
+50503,"Mount Pleasant, IA","Dedham, IA",1,0,0,0,0,1,0,1,0,1,2010
+50743,"Mount Pleasant, IA","Sumner, IA",0,1,0,0,0,1,0,0,1,1,2010
+50635,"Mount Pleasant, IA","Montour, IA",0,0,1,0,0,1,0,1,0,1,2010
+50739,"Mount Pleasant, IA","Stockton, IA",1,0,0,0,0,1,1,0,0,1,2010
+50738,"Mount Pleasant, IA","Steamboat Rock, IA",1,0,0,0,1,0,1,0,0,1,2010
+50737,"Mount Pleasant, IA","State Center, IA",1,0,0,0,1,0,1,0,0,1,2010
+50736,"Mount Pleasant, IA","Stanton, IA",1,0,0,0,0,1,0,1,0,1,2010
+50495,"Mount Pleasant, IA","Cresco, IA",0,1,0,0,1,0,0,1,0,1,2010
+50735,"Mount Pleasant, IA","Stacyville, IA",0,0,1,0,0,1,0,1,0,1,2010
+50508,"Mount Pleasant, IA","Dixon, IA",0,1,0,0,0,1,0,0,1,1,2010
+50511,"Mount Pleasant, IA","Duncombe, IA",1,0,0,0,0,1,1,0,0,1,2010
+50732,"Mount Pleasant, IA","Springbrook, IA",0,1,0,1,0,0,0,1,0,1,2010
+50731,"Mount Pleasant, IA","Spring Hill, IA",0,0,1,0,1,0,0,0,1,1,2010
+50730,"Mount Pleasant, IA","Spencer, IA",0,1,0,0,1,0,0,0,1,1,2010
+50512,"Mount Pleasant, IA","Dyersville, IA",0,1,0,0,0,1,0,1,0,1,2010
+50728,"Mount Pleasant, IA","Solon, IA",1,0,0,0,1,0,0,1,0,1,2010
+50727,"Mount Pleasant, IA","Soldier, IA",0,1,0,0,0,1,0,1,0,1,2010
+50726,"Mount Pleasant, IA","Sloan, IA",0,1,0,0,0,1,1,0,0,1,2010
+50497,"Mount Pleasant, IA","Cromwell, IA",0,0,1,1,0,0,0,0,1,1,2010
+50476,"Mount Pleasant, IA","Clarinda, IA",0,0,1,0,0,1,0,1,0,1,2010
+50494,"Mount Pleasant, IA","Crescent, IA",0,1,0,1,0,0,0,0,1,1,2010
+50490,"Mount Pleasant, IA","Corning, IA",0,1,0,0,0,1,0,1,0,1,2010
+50788,"Mount Pleasant, IA","Wyoming, IA",0,1,0,0,0,1,0,1,0,1,2010
+50418,"Mount Pleasant, IA","Adel, IA",0,0,1,0,0,1,1,0,0,1,2010
+50421,"Mount Pleasant, IA","Akron, IA",0,0,1,0,1,0,0,1,0,1,2010
+50424,"Mount Pleasant, IA","Alden, IA",0,0,1,0,0,1,0,1,0,1,2010
+50428,"Mount Pleasant, IA","Andover, IA",0,1,0,0,0,1,0,1,0,1,2010
+50429,"Mount Pleasant, IA","Andrew, IA",0,1,0,0,0,1,0,1,0,1,2010
+50430,"Mount Pleasant, IA","Anita, IA",0,0,1,0,0,1,0,0,1,1,2010
+50780,"Mount Pleasant, IA","Williams, IA",0,1,0,0,1,0,0,1,0,1,2010
+50434,"Mount Pleasant, IA","Atlantic, IA",0,0,1,0,1,0,0,0,1,1,2010
+50435,"Mount Pleasant, IA","Audubon, IA",0,0,1,0,1,0,0,0,1,1,2010
+50436,"Mount Pleasant, IA","Aurelia, IA",0,1,0,0,1,0,1,0,0,1,2010
+50437,"Mount Pleasant, IA","Balltown, IA",0,1,0,0,0,1,0,1,0,1,2010
+50439,"Mount Pleasant, IA","Baxter, IA",0,1,0,0,0,1,0,0,1,1,2010
+50442,"Mount Pleasant, IA","Bennett, IA",0,0,1,0,0,1,0,0,1,1,2010
+50454,"Mount Pleasant, IA","Britt, IA",0,1,0,1,0,0,0,0,1,1,2010
+50459,"Mount Pleasant, IA","Callender, IA",0,0,1,0,0,1,0,1,0,1,2010
+50768,"Mount Pleasant, IA","Webster City, IA",0,1,0,0,1,0,1,0,0,1,2010
+50464,"Mount Pleasant, IA","Carroll, IA",0,1,0,0,0,1,0,1,0,1,2010
+50471,"Mount Pleasant, IA","Central City, IA",0,1,0,0,0,1,0,1,0,1,2010
+50473,"Mount Pleasant, IA","Charter Oak, IA",0,1,0,0,0,1,0,1,0,1,2010
+50760,"Mount Pleasant, IA","Wall Lake, IA",0,0,1,0,0,1,0,1,0,1,2010
+50474,"Mount Pleasant, IA","Chester, IA",0,1,0,0,1,0,0,0,1,1,2010
+50723,"Mount Pleasant, IA","Sioux Center, IA",0,1,0,0,1,0,0,0,1,1,2010
+50477,"Mount Pleasant, IA","Clarion, IA",0,1,0,0,0,1,1,0,0,1,2010
+50478,"Mount Pleasant, IA","Clarksville, IA",0,1,0,1,0,0,0,0,1,1,2010
+50479,"Mount Pleasant, IA","Clearfield, IA",1,0,0,0,1,0,0,0,1,1,2010
+50488,"Mount Pleasant, IA","Coon Rapids, IA",0,1,0,0,1,0,0,1,0,1,2010
+50521,"Mount Pleasant, IA","Epworth, IA",1,0,0,0,0,1,1,0,0,1,2010
+50538,"Mount Pleasant, IA","Fredericksburg, IA",0,0,1,0,0,1,0,1,0,1,2010
+50523,"Mount Pleasant, IA","Exira, IA",0,1,0,1,0,0,0,1,0,1,2010
+50597,"Mount Pleasant, IA","Lincoln, IA",0,0,1,0,0,1,0,1,0,1,2010
+50568,"Mount Pleasant, IA","Hospers, IA",0,1,0,0,1,0,0,1,0,1,2010
+50676,"Mount Pleasant, IA","Panama, IA",1,0,0,0,0,1,1,0,0,1,2010
+50571,"Mount Pleasant, IA","Hull, IA",0,1,0,0,1,0,0,0,1,1,2010
+50574,"Mount Pleasant, IA","Inwood, IA",0,1,0,0,0,1,1,0,0,1,2010
+50577,"Mount Pleasant, IA","Irwin, IA",0,0,1,0,1,0,0,1,0,1,2010
+50579,"Mount Pleasant, IA","Jewell Junction, IA",0,0,1,0,0,1,1,0,0,1,2010
+50584,"Mount Pleasant, IA","Keota, IA",0,1,0,1,0,0,0,0,1,1,2010
+50669,"Mount Pleasant, IA","Otho, IA",0,1,0,0,1,0,0,0,1,1,2010
+50585,"Mount Pleasant, IA","Keystone, IA",0,1,0,0,1,0,0,1,0,1,2010
+50590,"Mount Pleasant, IA","Lake Mills, IA",0,0,1,0,0,1,0,1,0,1,2010
+50665,"Mount Pleasant, IA","Onawa, IA",0,0,1,0,1,0,0,0,1,1,2010
+50592,"Mount Pleasant, IA","Laurens, IA",0,1,0,0,0,1,0,1,0,1,2010
+50595,"Mount Pleasant, IA","Lenox, IA",0,1,0,0,0,1,0,1,0,1,2010
+50596,"Mount Pleasant, IA","Leon, IA",0,0,1,1,0,0,0,1,0,1,2010
+50603,"Mount Pleasant, IA","Lorimor, IA",0,0,1,0,0,1,1,0,0,1,2010
+50563,"Mount Pleasant, IA","Hazleton, IA",0,0,1,0,0,1,1,0,0,1,2010
+50605,"Mount Pleasant, IA","Luana, IA",1,0,0,0,0,1,0,1,0,1,2010
+50607,"Mount Pleasant, IA","Macedonia, IA",0,1,0,0,1,0,1,0,0,1,2010
+50608,"Mount Pleasant, IA","Madrid, IA",0,0,1,1,0,0,0,0,1,1,2010
+50651,"Mount Pleasant, IA","New Hampton, IA",1,0,0,0,0,1,1,0,0,1,2010
+50610,"Mount Pleasant, IA","Manchester, IA",0,1,0,0,0,1,1,0,0,1,2010
+50611,"Mount Pleasant, IA","Manning, IA",1,0,0,0,0,1,1,0,0,1,2010
+50648,"Mount Pleasant, IA","Mystic, IA",0,1,0,0,0,1,0,1,0,1,2010
+50612,"Mount Pleasant, IA","Manson, IA",0,1,0,0,0,1,0,0,1,1,2010
+50646,"Mount Pleasant, IA","Murray, IA",0,1,0,0,0,1,0,1,0,1,2010
+50645,"Mount Pleasant, IA","Mount Vernon, IA",0,1,0,0,0,1,0,1,0,1,2010
+50626,"Mount Pleasant, IA","Millerton, IA",0,1,0,0,1,0,0,1,0,1,2010
+50628,"Mount Pleasant, IA","Missouri Valley, IA",0,0,1,0,0,1,0,1,0,1,2010
+50631,"Mount Pleasant, IA","Monona, IA",0,0,1,0,0,1,0,1,0,1,2010
+50632,"Mount Pleasant, IA","Monroe, IA",0,1,0,0,1,0,1,0,0,1,2010
+50679,"Mount Pleasant, IA","Parnell, IA",0,1,0,0,0,1,0,0,1,1,2010
+50682,"Mount Pleasant, IA","Peosta, IA",1,0,0,0,1,0,0,0,1,1,2010
+50525,"Mount Pleasant, IA","Fairbank, IA",0,1,0,0,0,1,0,1,0,1,2010
+50548,"Mount Pleasant, IA","Grand River, IA",0,0,1,1,0,0,0,1,0,1,2010
+50528,"Mount Pleasant, IA","Farley, IA",0,0,1,0,0,1,0,0,1,1,2010
+50719,"Mount Pleasant, IA","Shell Rock, IA",0,0,1,0,0,1,0,1,0,1,2010
+50718,"Mount Pleasant, IA","Sheldon, IA",1,0,0,0,1,0,0,1,0,1,2010
+50530,"Mount Pleasant, IA","Farragut, IA",0,0,1,0,1,0,0,0,1,1,2010
+50533,"Mount Pleasant, IA","Floyd, IA",0,1,0,0,0,1,0,0,1,1,2010
+50715,"Mount Pleasant, IA","Schaller, IA",0,0,1,0,1,0,0,0,1,1,2010
+50534,"Mount Pleasant, IA","Forest City, IA",0,0,1,0,0,1,0,1,0,1,2010
+50712,"Mount Pleasant, IA","Ryan, IA",0,0,1,0,0,1,1,0,0,1,2010
+50541,"Mount Pleasant, IA","Garner, IA",0,0,1,0,0,1,0,0,1,1,2010
+50543,"Mount Pleasant, IA","Gibson, IA",0,0,1,0,0,1,0,1,0,1,2010
+50706,"Mount Pleasant, IA","Rockwell City, IA",0,0,1,0,0,1,0,1,0,1,2010
+50705,"Mount Pleasant, IA","Rock Rapids, IA",0,1,0,0,1,0,1,0,0,1,2010
+50546,"Mount Pleasant, IA","Glidden, IA",0,0,1,0,1,0,0,1,0,1,2010
+50547,"Mount Pleasant, IA","Grand Junction, IA",1,0,0,0,0,1,1,0,0,1,2010
+50700,"Mount Pleasant, IA","Rhodes, IA",0,1,0,0,0,1,0,1,0,1,2010
+50683,"Mount Pleasant, IA","Perry, IA",0,1,0,1,0,0,0,0,1,1,2010
+50551,"Mount Pleasant, IA","Gravity, IA",0,0,1,1,0,0,0,1,0,1,2010
+50698,"Mount Pleasant, IA","Red Oak, IA",0,1,0,0,0,1,1,0,0,1,2010
+50552,"Mount Pleasant, IA","Grimes, IA",1,0,0,0,1,0,0,0,1,1,2010
+50554,"Mount Pleasant, IA","Grundy Center, IA",1,0,0,0,0,1,1,0,0,1,2010
+50695,"Mount Pleasant, IA","Quimby, IA",0,1,0,0,0,1,0,1,0,1,2010
+50694,"Mount Pleasant, IA","Protivin, IA",0,1,0,0,1,0,1,0,0,1,2010
+50555,"Mount Pleasant, IA","Guernsey, IA",1,0,0,0,0,1,1,0,0,1,2010
+50556,"Mount Pleasant, IA","Hampton, IA",0,0,1,0,0,1,0,1,0,1,2010
+50557,"Mount Pleasant, IA","Hancock, IA",0,1,0,1,0,0,0,1,0,1,2010
+50690,"Mount Pleasant, IA","Postville, IA",0,1,0,0,0,1,1,0,0,1,2010
+50558,"Mount Pleasant, IA","Hartley, IA",1,0,0,0,1,0,0,1,0,1,2010
+50688,"Mount Pleasant, IA","Pleasantville, IA",0,0,1,0,0,1,0,1,0,1,2010
+50562,"Mount Pleasant, IA","Hawkeye, IA",0,1,0,0,1,0,0,0,1,1,2010
+50684,"Mount Pleasant, IA","Pierson, IA",1,0,0,0,0,1,0,1,0,1,2010
+50789,"Mount Pleasant, IA","Zwingle, IA",0,0,1,0,1,0,0,1,0,1,2010

@@ -1,0 +1,85 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+30682,"Kalona, IA","Riverside, IA",95,142,73,60,170,80,166,110,34,310,2005
+30659,"Kalona, IA","Kalona, IA",91,126,69,77,145,64,123,123,40,286,2005
+30702,"Kalona, IA","Washington, IA",11,43,15,30,28,11,14,46,9,69,2005
+30658,"Kalona, IA","Iowa City, IA",16,30,15,14,32,15,19,24,18,61,2005
+30706,"Kalona, IA","Wellman, IA",8,25,9,13,21,8,11,23,8,42,2005
+30677,"Kalona, IA","Oxford, IA",20,13,4,4,22,11,19,17,1,37,2005
+30661,"Kalona, IA","Kinross, IA",10,14,8,7,18,7,14,13,5,32,2005
+30708,"Kalona, IA","West Chester, IA",5,15,9,10,12,7,14,10,5,29,2005
+30634,"Kalona, IA","Brighton, IA",8,6,6,5,11,4,13,6,1,20,2005
+30680,"Kalona, IA","Pleasant Plain, IA",7,8,4,5,7,7,9,8,2,19,2005
+30673,"Kalona, IA","North Liberty, IA",5,14,0,15,4,0,2,13,4,19,2005
+30694,"Kalona, IA","University Heights, IA",1,12,2,7,8,0,4,6,5,15,2005
+30660,"Kalona, IA","Keota, IA",3,10,1,7,4,3,3,9,2,14,2005
+30641,"Kalona, IA","Coralville, IA",6,5,0,6,4,1,3,6,2,11,2005
+30711,"Kalona, IA","Williamsburg, IA",1,7,3,4,6,1,3,4,4,11,2005
+30705,"Kalona, IA","Webster, IA",4,7,0,6,4,1,3,7,1,11,2005
+30687,"Kalona, IA","South English, IA",0,8,2,5,3,2,2,8,0,10,2005
+30630,"Kalona, IA","Anamosa, IA",1,8,0,0,0,9,3,3,3,9,2005
+30643,"Kalona, IA","Crawfordsville, IA",2,4,2,2,4,2,2,5,1,8,2005
+30636,"Kalona, IA","Cedar Rapids, IA",3,4,1,5,2,1,0,5,3,8,2005
+30639,"Kalona, IA","Columbus Junction, IA",1,6,1,4,0,4,3,3,2,8,2005
+30640,"Kalona, IA","Conesville, IA",1,5,1,2,1,4,2,5,0,7,2005
+30652,"Kalona, IA","Grandview, IA",0,7,0,1,4,2,2,4,1,7,2005
+30712,"Kalona, IA","Winfield, IA",2,5,0,3,4,0,1,3,3,7,2005
+30656,"Kalona, IA","Hills, IA",0,6,0,3,3,0,2,2,2,6,2005
+30697,"Kalona, IA","Victor, IA",1,5,0,5,0,1,1,2,3,6,2005
+30691,"Kalona, IA","Tiffin, IA",2,4,0,4,1,1,1,3,2,6,2005
+30647,"Kalona, IA","Dubuque, IA",1,1,3,1,2,2,1,3,1,5,2005
+30653,"Kalona, IA","Grinnell, IA",1,4,0,5,0,0,0,5,0,5,2005
+30692,"Kalona, IA","Tipton, IA",0,3,2,0,2,3,0,5,0,5,2005
+30669,"Kalona, IA","Mount Union, IA",4,0,1,1,4,0,0,5,0,5,2005
+30679,"Kalona, IA","Parnell, IA",1,3,0,1,3,0,3,0,1,4,2005
+30685,"Kalona, IA","Sigourney, IA",0,4,0,0,4,0,0,4,0,4,2005
+30668,"Kalona, IA","Mount Pleasant, IA",0,4,0,0,4,0,4,0,0,4,2005
+30704,"Kalona, IA","Wayland, IA",0,2,2,4,0,0,0,4,0,4,2005
+30709,"Kalona, IA","West Liberty, IA",1,1,2,1,0,3,1,1,2,4,2005
+30629,"Kalona, IA","Ainsworth, IA",2,1,1,2,1,1,1,3,0,4,2005
+30637,"Kalona, IA","Chariton, IA",2,2,0,1,3,0,2,2,0,4,2005
+30638,"Kalona, IA","Clio, IA",2,1,1,1,1,2,1,1,2,4,2005
+30666,"Kalona, IA","Montrose, IA",0,3,0,1,2,0,1,0,2,3,2005
+30675,"Kalona, IA","Oskaloosa, IA",0,3,0,3,0,0,0,3,0,3,2005
+30667,"Kalona, IA","Morley, IA",1,2,0,0,0,3,2,1,0,3,2005
+30683,"Kalona, IA","Robins, IA",2,0,1,2,1,0,1,2,0,3,2005
+30655,"Kalona, IA","Hiawatha, IA",2,1,0,3,0,0,0,3,0,3,2005
+30678,"Kalona, IA","Palo, IA",0,3,0,3,0,0,0,2,1,3,2005
+30671,"Kalona, IA","Nodaway, IA",0,0,3,1,0,2,1,0,2,3,2005
+30696,"Kalona, IA","Van Horne, IA",0,2,0,2,0,0,0,0,2,2,2005
+30699,"Kalona, IA","Walford, IA",1,1,0,1,0,1,1,0,1,2,2005
+30690,"Kalona, IA","Tama, IA",0,2,0,2,0,0,0,2,0,2,2005
+30701,"Kalona, IA","Wapello, IA",1,1,0,1,0,1,0,0,2,2,2005
+30686,"Kalona, IA","Solon, IA",1,1,0,1,1,0,0,1,1,2,2005
+30695,"Kalona, IA","Urbana, IA",1,0,0,1,0,0,1,0,0,1,2005
+30644,"Kalona, IA","Davenport, IA",1,0,0,0,0,1,0,0,1,1,2005
+30698,"Kalona, IA","Vinton, IA",0,1,0,0,0,1,0,1,0,1,2005
+30700,"Kalona, IA","Walker, IA",1,0,0,0,0,1,1,0,0,1,2005
+30642,"Kalona, IA","Corning, IA",0,1,0,0,0,1,0,1,0,1,2005
+30674,"Kalona, IA","Oakville, IA",0,0,1,0,1,0,0,1,0,1,2005
+30664,"Kalona, IA","Marengo, IA",0,1,0,0,1,0,1,0,0,1,2005
+30665,"Kalona, IA","McCausland, IA",1,0,0,0,0,1,1,0,0,1,2005
+30635,"Kalona, IA","Brooklyn, IA",0,1,0,1,0,0,0,1,0,1,2005
+30707,"Kalona, IA","West Branch, IA",1,0,0,1,0,0,0,1,0,1,2005
+30633,"Kalona, IA","Bettendorf, IA",0,1,0,0,0,1,0,1,0,1,2005
+30632,"Kalona, IA","Bertram, IA",0,1,0,0,0,1,0,0,1,1,2005
+30710,"Kalona, IA","What Cheer, IA",1,0,0,1,0,0,0,1,0,1,2005
+30631,"Kalona, IA","Belle Plaine, IA",1,0,0,1,0,0,0,1,0,1,2005
+30703,"Kalona, IA","Waterloo, IA",0,1,0,0,0,1,1,0,0,1,2005
+30645,"Kalona, IA","Decorah, IA",1,0,0,0,0,1,1,0,0,1,2005
+30676,"Kalona, IA","Ottumwa, IA",0,1,0,0,0,1,1,0,0,1,2005
+30663,"Kalona, IA","Lone Tree, IA",0,0,1,1,0,0,0,1,0,1,2005
+30657,"Kalona, IA","Independence, IA",0,1,0,0,0,1,1,0,0,1,2005
+30662,"Kalona, IA","Ladora, IA",1,0,0,1,0,0,0,1,0,1,2005
+30672,"Kalona, IA","North English, IA",0,1,0,1,0,0,0,0,1,1,2005
+30654,"Kalona, IA","Hedrick, IA",1,0,0,0,1,0,1,0,0,1,2005
+30681,"Kalona, IA","Richland, IA",1,0,0,0,1,0,0,1,0,1,2005
+30651,"Kalona, IA","Floyd, IA",1,0,0,0,1,0,1,0,0,1,2005
+30684,"Kalona, IA","Shueyville, IA",0,1,0,1,0,0,0,0,1,1,2005
+30693,"Kalona, IA","Toledo, IA",0,1,0,0,0,1,0,1,0,1,2005
+30650,"Kalona, IA","Fairfax, IA",0,1,0,0,0,1,1,0,0,1,2005
+30649,"Kalona, IA","Fairbank, IA",1,0,0,0,0,1,1,0,0,1,2005
+30688,"Kalona, IA","St. Paul, IA",0,1,0,1,0,0,0,0,1,1,2005
+30670,"Kalona, IA","New Vienna, IA",1,0,0,1,0,0,0,1,0,1,2005
+30648,"Kalona, IA","Elberon, IA",0,1,0,1,0,0,0,0,1,1,2005
+30646,"Kalona, IA","Delta, IA",1,0,0,0,1,0,0,1,0,1,2005
+30689,"Kalona, IA","Swisher, IA",0,1,0,1,0,0,0,0,1,1,2005

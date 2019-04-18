@@ -1,0 +1,383 @@
+,home city,work city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+3222,"Ankeny, IA","Des Moines, IA",1667,5932,1713,854,7385,1073,1127,2116,6069,9312,2014
+3145,"Ankeny, IA","Ankeny, IA",1773,3475,1233,759,4337,1385,2010,1740,2731,6481,2014
+3195,"Ankeny, IA","Clive, IA",684,1636,367,48,2218,421,509,749,1429,2687,2014
+3481,"Ankeny, IA","Urbandale, IA",429,1219,324,160,1359,453,366,496,1110,1972,2014
+3300,"Ankeny, IA","Johnston, IA",221,696,222,68,602,469,199,217,723,1139,2014
+3143,"Ankeny, IA","Ames, IA",297,522,150,283,550,136,164,195,610,969,2014
+3502,"Ankeny, IA","West Des Moines, IA",157,473,136,186,399,181,142,171,453,766,2014
+3509,"Ankeny, IA","Windsor Heights, IA",209,396,132,40,535,162,212,216,309,737,2014
+3142,"Ankeny, IA","Altoona, IA",196,374,107,92,394,191,190,235,252,677,2014
+3492,"Ankeny, IA","Waukee, IA",167,419,79,34,523,108,127,179,359,665,2014
+3405,"Ankeny, IA","Pleasant Hill, IA",126,227,72,101,186,138,118,140,167,425,2014
+3270,"Ankeny, IA","Grimes, IA",61,156,57,89,77,108,44,77,153,274,2014
+3382,"Ankeny, IA","Norwalk, IA",66,155,39,31,185,44,70,78,112,260,2014
+3289,"Ankeny, IA","Huxley, IA",36,88,32,33,99,24,36,46,74,156,2014
+3491,"Ankeny, IA","Waterloo, IA",49,71,24,62,45,37,33,29,82,144,2014
+3184,"Ankeny, IA","Cedar Falls, IA",53,70,15,41,53,44,42,22,74,138,2014
+3185,"Ankeny, IA","Cedar Rapids, IA",51,65,20,14,66,56,30,33,73,136,2014
+3166,"Ankeny, IA","Bondurant, IA",25,81,29,5,108,22,39,36,60,135,2014
+3292,"Ankeny, IA","Indianola, IA",50,49,17,17,60,39,46,33,37,116,2014
+3294,"Ankeny, IA","Iowa City, IA",49,41,21,1,84,26,43,39,29,111,2014
+3346,"Ankeny, IA","Marshalltown, IA",25,62,21,26,57,25,24,25,59,108,2014
+3410,"Ankeny, IA","Polk City, IA",27,57,19,10,86,7,24,29,50,103,2014
+3282,"Ankeny, IA","Hiawatha, IA",36,48,17,5,62,34,34,37,30,101,2014
+3214,"Ankeny, IA","Davenport, IA",31,57,11,2,56,41,36,29,34,99,2014
+3206,"Ankeny, IA","Council Bluffs, IA",30,42,11,5,36,42,34,24,25,83,2014
+3378,"Ankeny, IA","Newton, IA",19,45,15,28,39,12,15,13,51,79,2014
+3250,"Ankeny, IA","Fort Dodge, IA",22,39,17,11,36,31,16,15,47,78,2014
+3167,"Ankeny, IA","Boone, IA",30,31,17,3,58,17,30,19,29,78,2014
+3452,"Ankeny, IA","Sioux City, IA",30,30,16,1,35,40,30,32,14,76,2014
+3360,"Ankeny, IA","Mitchellville, IA",9,49,14,6,66,0,10,11,51,72,2014
+3348,"Ankeny, IA","Mason City, IA",18,32,13,4,32,27,22,19,22,63,2014
+3374,"Ankeny, IA","Nevada, IA",10,36,14,15,39,6,11,9,40,60,2014
+3226,"Ankeny, IA","Dubuque, IA",28,25,5,5,27,26,15,24,19,58,2014
+3336,"Ankeny, IA","Madrid, IA",16,31,10,12,40,5,29,9,19,57,2014
+3177,"Ankeny, IA","Carlisle, IA",11,39,5,12,32,11,14,14,27,55,2014
+3202,"Ankeny, IA","Coralville, IA",30,13,5,1,31,16,25,14,9,48,2014
+3401,"Ankeny, IA","Pella, IA",18,20,10,18,28,2,8,15,25,48,2014
+3392,"Ankeny, IA","Ottumwa, IA",15,23,9,17,8,22,10,13,24,47,2014
+3163,"Ankeny, IA","Bettendorf, IA",17,20,9,2,26,18,21,12,13,46,2014
+3212,"Ankeny, IA","Dallas Center, IA",8,26,10,2,13,29,4,11,29,44,2014
+3267,"Ankeny, IA","Granger, IA",14,19,6,10,14,15,12,10,17,39,2014
+3178,"Ankeny, IA","Carroll, IA",6,19,12,7,16,14,12,5,20,37,2014
+3187,"Ankeny, IA","Chariton, IA",11,18,7,2,9,25,16,9,11,36,2014
+3453,"Ankeny, IA","Slater, IA",13,18,4,2,29,4,2,5,28,35,2014
+3176,"Ankeny, IA","Cambridge, IA",9,15,11,11,9,15,3,16,16,35,2014
+3403,"Ankeny, IA","Perry, IA",12,16,1,6,19,4,4,11,14,29,2014
+3207,"Ankeny, IA","Creston, IA",10,17,2,4,14,11,9,8,12,29,2014
+3234,"Ankeny, IA","Eldridge, IA",8,17,3,8,10,10,4,5,19,28,2014
+3381,"Ankeny, IA","North Liberty, IA",8,13,6,3,19,5,4,8,15,27,2014
+3134,"Ankeny, IA","Adel, IA",4,14,7,5,14,6,6,8,11,25,2014
+3389,"Ankeny, IA","Oskaloosa, IA",5,11,8,2,11,11,9,6,9,24,2014
+3344,"Ankeny, IA","Marengo, IA",6,12,6,13,3,8,7,4,13,24,2014
+3308,"Ankeny, IA","Knoxville, IA",4,17,3,4,10,10,8,5,11,24,2014
+3443,"Ankeny, IA","Sergeant Bluff, IA",9,13,1,5,7,11,8,9,6,23,2014
+3456,"Ankeny, IA","Spencer, IA",10,9,3,1,8,13,8,6,8,22,2014
+3388,"Ankeny, IA","Osceola, IA",6,11,5,2,13,7,4,6,12,22,2014
+3280,"Ankeny, IA","Harvey, IA",11,6,5,6,10,6,14,4,4,22,2014
+3358,"Ankeny, IA","Minburn, IA",4,12,5,1,4,16,4,4,13,21,2014
+3353,"Ankeny, IA","Melcher-Dallas, IA",6,10,5,12,7,2,5,4,12,21,2014
+3510,"Ankeny, IA","Winterset, IA",5,9,6,3,8,9,3,8,9,20,2014
+3373,"Ankeny, IA","Muscatine, IA",4,13,3,5,5,10,5,3,12,20,2014
+3217,"Ankeny, IA","De Soto, IA",5,13,2,1,11,8,7,3,10,20,2014
+3258,"Ankeny, IA","Gilbert, IA",3,16,1,5,11,4,2,6,12,20,2014
+3478,"Ankeny, IA","University Heights, IA",10,6,3,0,14,5,7,3,9,19,2014
+3245,"Ankeny, IA","Fairfax, IA",5,10,4,4,9,6,5,5,9,19,2014
+3465,"Ankeny, IA","Story City, IA",4,10,4,6,8,4,6,2,10,18,2014
+3148,"Ankeny, IA","Asbury, IA",9,7,2,2,7,9,7,4,7,18,2014
+3432,"Ankeny, IA","Robins, IA",7,7,4,1,9,8,11,3,4,18,2014
+3246,"Ankeny, IA","Fairfield, IA",4,12,1,1,9,7,2,4,11,17,2014
+3173,"Ankeny, IA","Burlington, IA",4,9,4,4,8,5,4,8,5,17,2014
+3370,"Ankeny, IA","Mount Pleasant, IA",7,6,4,2,6,9,5,6,6,17,2014
+3271,"Ankeny, IA","Grinnell, IA",8,5,3,4,6,6,4,6,6,16,2014
+3150,"Ankeny, IA","Atlantic, IA",5,8,3,1,11,4,3,6,7,16,2014
+3420,"Ankeny, IA","Reasnor, IA",5,9,2,0,13,3,3,1,12,16,2014
+3333,"Ankeny, IA","Lynnville, IA",3,6,6,0,13,2,1,2,12,15,2014
+3243,"Ankeny, IA","Evansdale, IA",7,7,1,0,8,7,5,4,6,15,2014
+3496,"Ankeny, IA","Webster City, IA",3,9,3,0,8,7,3,5,7,15,2014
+3318,"Ankeny, IA","Le Mars, IA",2,10,2,3,2,9,2,5,7,14,2014
+3256,"Ankeny, IA","Garden Grove, IA",1,2,11,0,1,13,7,6,1,14,2014
+3468,"Ankeny, IA","Swan, IA",9,4,1,10,1,3,1,9,4,14,2014
+3500,"Ankeny, IA","West Burlington, IA",5,5,4,0,2,12,6,3,5,14,2014
+3324,"Ankeny, IA","Linden, IA",5,7,1,3,1,9,6,2,5,13,2014
+3220,"Ankeny, IA","Denison, IA",4,6,3,3,5,5,6,3,4,13,2014
+3472,"Ankeny, IA","Tiffin, IA",3,8,2,1,4,8,3,3,7,13,2014
+3458,"Ankeny, IA","Spring Hill, IA",3,8,2,3,8,2,2,4,7,13,2014
+3197,"Ankeny, IA","Colo, IA",7,6,0,0,10,3,1,2,10,13,2014
+3332,"Ankeny, IA","Luther, IA",4,7,2,11,0,2,3,1,9,13,2014
+3494,"Ankeny, IA","Waverly, IA",4,7,2,3,6,4,1,8,4,13,2014
+3236,"Ankeny, IA","Elk Run Heights, IA",1,5,6,10,2,0,2,6,4,12,2014
+3490,"Ankeny, IA","Washington, IA",6,4,2,0,6,6,4,6,2,12,2014
+3438,"Ankeny, IA","Sageville, IA",7,3,1,3,6,2,5,1,5,11,2014
+3413,"Ankeny, IA","Prairie City, IA",4,5,2,0,8,3,1,8,2,11,2014
+3447,"Ankeny, IA","Shueyville, IA",3,7,1,1,4,6,1,3,7,11,2014
+3251,"Ankeny, IA","Fort Madison, IA",1,6,4,2,9,0,2,4,5,11,2014
+3464,"Ankeny, IA","Storm Lake, IA",5,5,1,0,6,5,5,3,3,11,2014
+3192,"Ankeny, IA","Clear Lake, IA",3,5,3,3,6,2,3,4,4,11,2014
+3474,"Ankeny, IA","Toledo, IA",4,6,1,1,4,6,4,4,3,11,2014
+3461,"Ankeny, IA","Stanhope, IA",5,3,2,7,1,2,2,4,4,10,2014
+3507,"Ankeny, IA","Williamsburg, IA",3,3,4,2,6,2,1,4,5,10,2014
+3194,"Ankeny, IA","Clinton, IA",4,6,0,4,4,2,5,1,4,10,2014
+3471,"Ankeny, IA","Tennant, IA",4,4,2,0,2,8,3,4,3,10,2014
+3157,"Ankeny, IA","Baxter, IA",3,6,1,0,6,4,2,4,4,10,2014
+3291,"Ankeny, IA","Independence, IA",0,6,3,0,4,5,2,1,6,9,2014
+3385,"Ankeny, IA","Ogden, IA",1,5,3,2,4,3,3,2,4,9,2014
+3295,"Ankeny, IA","Iowa Falls, IA",2,6,1,0,4,5,3,2,4,9,2014
+3269,"Ankeny, IA","Greenfield, IA",4,5,0,1,5,3,2,1,6,9,2014
+3196,"Ankeny, IA","Colfax, IA",3,4,2,3,5,1,1,6,2,9,2014
+3311,"Ankeny, IA","Lakeside, IA",0,6,3,7,2,0,2,6,1,9,2014
+3304,"Ankeny, IA","Keokuk, IA",2,4,3,2,1,6,2,5,2,9,2014
+3139,"Ankeny, IA","Algona, IA",2,6,1,2,5,2,2,1,6,9,2014
+3186,"Ankeny, IA","Centerville, IA",1,5,2,2,3,3,1,4,3,8,2014
+3339,"Ankeny, IA","Manchester, IA",2,6,0,2,0,6,2,5,1,8,2014
+3223,"Ankeny, IA","Dexter, IA",1,6,1,2,1,5,1,3,4,8,2014
+3136,"Ankeny, IA","Albia, IA",1,5,2,1,2,5,0,3,5,8,2014
+3228,"Ankeny, IA","Dyersville, IA",2,4,2,4,4,0,2,4,2,8,2014
+3407,"Ankeny, IA","Pleasantville, IA",5,1,1,1,5,1,5,0,2,7,2014
+3367,"Ankeny, IA","Morrison, IA",2,5,0,5,0,2,0,1,6,7,2014
+3512,"Ankeny, IA","Woodward, IA",3,3,1,0,7,0,2,5,0,7,2014
+3242,"Ankeny, IA","Estherville, IA",3,3,1,0,3,4,3,3,1,7,2014
+3218,"Ankeny, IA","Decorah, IA",2,3,2,2,4,1,1,2,4,7,2014
+3457,"Ankeny, IA","Spirit Lake, IA",3,4,0,0,3,4,2,2,3,7,2014
+3191,"Ankeny, IA","Clarion, IA",0,4,3,2,5,0,0,3,4,7,2014
+3483,"Ankeny, IA","Van Meter, IA",0,2,4,2,2,2,1,1,4,6,2014
+3362,"Ankeny, IA","Monroe, IA",2,3,1,1,3,2,1,1,4,6,2014
+3273,"Ankeny, IA","Guthrie Center, IA",0,6,0,0,3,3,1,2,3,6,2014
+3426,"Ankeny, IA","Rhodes, IA",4,2,0,0,5,1,0,1,5,6,2014
+3398,"Ankeny, IA","Panora, IA",2,3,1,0,5,1,0,1,5,6,2014
+3209,"Ankeny, IA","Crystal Lake, IA",3,3,0,4,2,0,0,3,3,6,2014
+3154,"Ankeny, IA","Bagley, IA",0,3,3,0,4,2,2,0,4,6,2014
+3376,"Ankeny, IA","New Sharon, IA",3,2,1,4,1,1,4,0,2,6,2014
+3334,"Ankeny, IA","Macedonia, IA",0,6,0,0,5,1,0,1,5,6,2014
+3180,"Ankeny, IA","Carter Lake, IA",1,4,1,1,1,4,4,2,0,6,2014
+3345,"Ankeny, IA","Marion, IA",0,5,0,1,4,0,1,1,3,5,2014
+3288,"Ankeny, IA","Humboldt, IA",1,2,2,0,4,1,4,0,1,5,2014
+3276,"Ankeny, IA","Hampton, IA",3,2,0,0,2,3,1,3,1,5,2014
+3325,"Ankeny, IA","Lisbon, IA",0,3,2,0,3,2,2,2,1,5,2014
+3272,"Ankeny, IA","Grundy Center, IA",3,2,0,0,5,0,4,1,0,5,2014
+3315,"Ankeny, IA","Larrabee, IA",1,3,1,0,2,3,1,0,4,5,2014
+3372,"Ankeny, IA","Murray, IA",1,2,2,0,4,1,0,3,2,5,2014
+3323,"Ankeny, IA","Lidderdale, IA",2,2,1,1,1,3,2,0,3,5,2014
+3484,"Ankeny, IA","Vinton, IA",1,3,1,2,3,0,1,1,3,5,2014
+3460,"Ankeny, IA","St. Marys, IA",3,2,0,1,2,2,2,2,1,5,2014
+3146,"Ankeny, IA","Arnolds Park, IA",0,5,0,0,1,4,1,1,3,5,2014
+3463,"Ankeny, IA","Steamboat Rock, IA",0,3,2,0,0,5,0,2,3,5,2014
+3430,"Ankeny, IA","Riverside, IA",0,4,1,1,2,2,0,4,1,5,2014
+3445,"Ankeny, IA","Sheldon, IA",1,4,0,0,1,4,2,1,2,5,2014
+3259,"Ankeny, IA","Gilman, IA",2,1,2,4,1,0,0,1,4,5,2014
+3233,"Ankeny, IA","Eldora, IA",0,3,1,0,1,3,0,1,3,4,2014
+3239,"Ankeny, IA","Ely, IA",0,3,1,0,3,1,0,0,4,4,2014
+3479,"Ankeny, IA","University Park, IA",1,3,0,2,1,1,0,0,4,4,2014
+3400,"Ankeny, IA","Patterson, IA",2,2,0,0,0,4,0,1,3,4,2014
+3330,"Ankeny, IA","Low Moor, IA",1,3,0,0,1,3,1,3,0,4,2014
+3175,"Ankeny, IA","Camanche, IA",0,3,1,0,1,3,2,1,1,4,2014
+3421,"Ankeny, IA","Red Oak, IA",2,1,1,0,3,1,1,3,0,4,2014
+3188,"Ankeny, IA","Charles City, IA",1,1,2,1,1,2,2,0,2,4,2014
+3454,"Ankeny, IA","Sloan, IA",1,2,1,4,0,0,1,0,3,4,2014
+3199,"Ankeny, IA","Conesville, IA",0,4,0,4,0,0,0,4,0,4,2014
+3204,"Ankeny, IA","Corydon, IA",3,1,0,1,2,1,2,1,1,4,2014
+3221,"Ankeny, IA","Denver, IA",0,3,1,0,1,3,2,0,2,4,2014
+3229,"Ankeny, IA","Eagle Grove, IA",1,2,1,0,0,4,2,0,2,4,2014
+3170,"Ankeny, IA","Britt, IA",2,1,1,0,1,3,1,1,2,4,2014
+3313,"Ankeny, IA","Lambs Grove, IA",1,3,0,1,2,1,1,1,2,4,2014
+3247,"Ankeny, IA","Farley, IA",1,3,0,4,0,0,0,3,1,4,2014
+3436,"Ankeny, IA","Russell, IA",1,3,0,1,1,2,1,1,2,4,2014
+3337,"Ankeny, IA","Malcom, IA",0,4,0,0,1,3,4,0,0,4,2014
+3365,"Ankeny, IA","Montrose, IA",0,3,1,0,0,4,0,1,3,4,2014
+3342,"Ankeny, IA","Maquoketa, IA",0,1,3,0,2,2,2,1,1,4,2014
+3363,"Ankeny, IA","Montezuma, IA",0,4,0,2,0,2,0,0,4,4,2014
+3278,"Ankeny, IA","Harlan, IA",1,0,3,0,4,0,0,2,2,4,2014
+3281,"Ankeny, IA","Havelock, IA",0,3,1,3,1,0,1,0,3,4,2014
+3151,"Ankeny, IA","Audubon, IA",2,1,0,0,2,1,0,2,1,3,2014
+3383,"Ankeny, IA","Norway, IA",1,2,0,1,1,1,1,0,2,3,2014
+3356,"Ankeny, IA","Milford, IA",1,1,1,0,2,1,0,0,3,3,2014
+3511,"Ankeny, IA","Wiota, IA",1,1,1,0,3,0,1,0,2,3,2014
+3144,"Ankeny, IA","Anamosa, IA",1,2,0,0,3,0,1,2,0,3,2014
+3459,"Ankeny, IA","St. Ansgar, IA",0,1,2,0,3,0,0,0,3,3,2014
+3466,"Ankeny, IA","Strawberry Point, IA",0,2,1,3,0,0,0,0,3,3,2014
+3369,"Ankeny, IA","Mount Ayr, IA",2,1,0,0,0,3,2,0,1,3,2014
+3327,"Ankeny, IA","Logan, IA",1,1,1,0,1,2,0,1,2,3,2014
+3364,"Ankeny, IA","Monticello, IA",3,0,0,0,2,1,0,3,0,3,2014
+3328,"Ankeny, IA","Lone Tree, IA",0,0,3,0,3,0,0,2,1,3,2014
+3190,"Ankeny, IA","Clarinda, IA",3,0,0,0,1,2,2,0,1,3,2014
+3215,"Ankeny, IA","Dawson, IA",1,1,1,0,0,3,2,0,1,3,2014
+3444,"Ankeny, IA","Shelby, IA",0,3,0,0,0,3,0,0,3,3,2014
+3301,"Ankeny, IA","Kalona, IA",0,3,0,2,1,0,0,2,1,3,2014
+3428,"Ankeny, IA","Rinard, IA",1,2,0,0,0,3,1,1,1,3,2014
+3260,"Ankeny, IA","Glenwood, IA",0,2,1,0,1,2,3,0,0,3,2014
+3409,"Ankeny, IA","Pocahontas, IA",2,0,1,0,2,1,1,0,2,3,2014
+3257,"Ankeny, IA","Garner, IA",1,2,0,0,1,2,1,1,1,3,2014
+3290,"Ankeny, IA","Ida Grove, IA",2,1,0,0,1,2,1,1,1,3,2014
+3446,"Ankeny, IA","Shenandoah, IA",1,2,0,0,1,2,2,1,0,3,2014
+3399,"Ankeny, IA","Panorama Park, IA",0,1,2,1,0,2,0,1,2,3,2014
+3298,"Ankeny, IA","Jefferson, IA",1,1,1,0,3,0,0,3,0,3,2014
+3451,"Ankeny, IA","Sioux Center, IA",2,1,0,0,1,2,2,0,1,3,2014
+3354,"Ankeny, IA","Meriden, IA",1,1,1,0,1,2,1,1,1,3,2014
+3231,"Ankeny, IA","Eddyville, IA",0,3,0,2,0,1,0,3,0,3,2014
+3386,"Ankeny, IA","Orange City, IA",1,2,0,1,0,2,1,0,2,3,2014
+3225,"Ankeny, IA","Donnellson, IA",1,2,0,3,0,0,0,0,3,3,2014
+3473,"Ankeny, IA","Tipton, IA",0,1,1,0,2,0,2,0,0,2,2014
+3455,"Ankeny, IA","Solon, IA",0,1,1,0,0,2,0,0,2,2,2014
+3418,"Ankeny, IA","Rathbun, IA",1,0,1,0,2,0,0,0,2,2,2014
+3416,"Ankeny, IA","Randalia, IA",0,2,0,0,2,0,2,0,0,2,2014
+3429,"Ankeny, IA","Riverdale, IA",1,1,0,1,0,1,0,1,1,2,2014
+3506,"Ankeny, IA","Williams, IA",0,1,1,2,0,0,0,1,1,2,2014
+3411,"Ankeny, IA","Pomeroy, IA",0,2,0,0,1,1,0,0,2,2,2014
+3501,"Ankeny, IA","West Chester, IA",1,1,0,0,0,2,1,1,0,2,2014
+3497,"Ankeny, IA","Wellsburg, IA",0,2,0,0,0,2,0,0,2,2,2014
+3462,"Ankeny, IA","State Center, IA",2,0,0,0,2,0,0,2,0,2,2014
+3387,"Ankeny, IA","Osage, IA",0,2,0,1,0,1,0,1,1,2,2014
+3434,"Ankeny, IA","Rome, IA",0,2,0,0,2,0,0,1,1,2,2014
+3394,"Ankeny, IA","Oxford, IA",0,1,1,0,1,1,0,1,1,2,2014
+3489,"Ankeny, IA","Wapello, IA",1,1,0,0,1,1,1,0,1,2,2014
+3487,"Ankeny, IA","Wall Lake, IA",0,1,1,1,0,1,0,0,2,2,2014
+3435,"Ankeny, IA","Runnells, IA",1,1,0,1,0,1,1,1,0,2,2014
+3485,"Ankeny, IA","Walcott, IA",1,1,0,0,1,1,1,0,1,2,2014
+3423,"Ankeny, IA","Reinbeck, IA",0,2,0,2,0,0,0,0,2,2,2014
+3375,"Ankeny, IA","New Hampton, IA",1,1,0,0,0,2,1,0,1,2,2014
+3480,"Ankeny, IA","Urbana, IA",0,2,0,0,1,1,0,0,2,2,2014
+3449,"Ankeny, IA","Sigourney, IA",0,1,1,0,2,0,1,0,1,2,2014
+3390,"Ankeny, IA","Otho, IA",1,1,0,1,1,0,0,1,1,2,2014
+3384,"Ankeny, IA","Oelwein, IA",0,1,1,0,2,0,0,1,1,2,2014
+3513,"Ankeny, IA","Yetter, IA",0,1,1,0,0,2,0,0,2,2,2014
+3299,"Ankeny, IA","Jewell Junction, IA",0,2,0,1,1,0,0,1,1,2,2014
+3274,"Ankeny, IA","Guttenberg, IA",1,1,0,1,0,1,1,1,0,2,2014
+3159,"Ankeny, IA","Bellevue, IA",1,0,1,0,1,1,0,1,1,2,2014
+3160,"Ankeny, IA","Belmond, IA",1,1,0,0,2,0,1,0,1,2,2014
+3285,"Ankeny, IA","Hopkinton, IA",1,1,0,0,2,0,1,1,0,2,2014
+3162,"Ankeny, IA","Bertram, IA",0,2,0,0,1,1,1,0,1,2,2014
+3216,"Ankeny, IA","Dayton, IA",1,1,0,0,1,1,0,2,0,2,2014
+3266,"Ankeny, IA","Grandview, IA",1,1,0,0,0,2,0,0,2,2,2014
+3310,"Ankeny, IA","Lake City, IA",1,0,1,0,1,1,1,0,1,2,2014
+3172,"Ankeny, IA","Brooklyn, IA",0,2,0,1,1,0,1,0,1,2,2014
+3224,"Ankeny, IA","Diagonal, IA",0,2,0,0,2,0,2,0,0,2,2014
+3303,"Ankeny, IA","Kellogg, IA",1,1,0,0,2,0,1,1,0,2,2014
+3200,"Ankeny, IA","Conrad, IA",0,0,2,1,0,1,1,1,0,2,2014
+3297,"Ankeny, IA","Janesville, IA",0,2,0,0,1,1,1,1,0,2,2014
+3296,"Ankeny, IA","Ireton, IA",1,0,1,1,1,0,1,0,1,2,2014
+3293,"Ankeny, IA","Inwood, IA",0,0,2,1,1,0,0,1,1,2,2014
+3283,"Ankeny, IA","Hills, IA",2,0,0,0,2,0,0,2,0,2,2014
+3284,"Ankeny, IA","Hinton, IA",0,2,0,1,0,1,0,1,1,2,2014
+3321,"Ankeny, IA","Leon, IA",0,2,0,0,1,1,0,2,0,2,2014
+3161,"Ankeny, IA","Bennett, IA",2,0,0,2,0,0,0,0,2,2,2014
+3189,"Ankeny, IA","Cherokee, IA",2,0,0,1,1,0,1,1,0,2,2014
+3263,"Ankeny, IA","Graettinger, IA",1,1,0,2,0,0,1,0,1,2,2014
+3262,"Ankeny, IA","Goldfield, IA",2,0,0,1,0,1,2,0,0,2,2014
+3261,"Ankeny, IA","Glidden, IA",1,1,0,1,1,0,2,0,0,2,2014
+3335,"Ankeny, IA","Macksburg, IA",0,1,1,1,1,0,1,0,1,2,2014
+3230,"Ankeny, IA","East Peru, IA",0,2,0,0,1,1,0,0,2,2,2014
+3152,"Ankeny, IA","Aurelia, IA",1,0,1,1,1,0,0,2,0,2,2014
+3156,"Ankeny, IA","Battle Creek, IA",0,0,2,0,2,0,1,1,0,2,2014
+3149,"Ankeny, IA","Atalissa, IA",0,2,0,1,0,1,0,2,0,2,2014
+3232,"Ankeny, IA","Eldon, IA",0,1,1,0,1,1,0,0,2,2,2014
+3138,"Ankeny, IA","Alden, IA",0,2,0,0,0,2,0,0,2,2,2014
+3249,"Ankeny, IA","Forest City, IA",0,2,0,0,1,1,1,0,1,2,2014
+3238,"Ankeny, IA","Ellsworth, IA",0,1,0,0,1,0,0,0,1,1,2014
+3467,"Ankeny, IA","Superior, IA",0,1,0,1,0,0,0,0,1,1,2014
+3193,"Ankeny, IA","Clearfield, IA",0,0,1,0,1,0,0,1,0,1,2014
+3240,"Ankeny, IA","Emmetsburg, IA",0,1,0,0,1,0,0,0,1,1,2014
+3448,"Ankeny, IA","Sidney, IA",1,0,0,1,0,0,0,1,0,1,2014
+3241,"Ankeny, IA","Epworth, IA",1,0,0,1,0,0,0,0,1,1,2014
+3469,"Ankeny, IA","Swisher, IA",0,1,0,0,0,1,0,0,1,1,2014
+3198,"Ankeny, IA","Columbus Junction, IA",0,1,0,0,1,0,0,1,0,1,2014
+3227,"Ankeny, IA","Duncombe, IA",0,1,0,0,0,1,0,0,1,1,2014
+3201,"Ankeny, IA","Coon Rapids, IA",0,1,0,0,0,1,0,0,1,1,2014
+3203,"Ankeny, IA","Corwith, IA",0,1,0,0,1,0,0,1,0,1,2014
+3237,"Ankeny, IA","Elkader, IA",0,0,1,0,0,1,0,1,0,1,2014
+3450,"Ankeny, IA","Silver City, IA",0,1,0,0,1,0,0,0,1,1,2014
+3235,"Ankeny, IA","Elgin, IA",0,1,0,0,1,0,0,0,1,1,2014
+3208,"Ankeny, IA","Cromwell, IA",0,1,0,0,0,1,0,0,1,1,2014
+3210,"Ankeny, IA","Cushing, IA",1,0,0,0,0,1,1,0,0,1,2014
+3211,"Ankeny, IA","Dakota City, IA",1,0,0,0,1,0,0,0,1,1,2014
+3213,"Ankeny, IA","Danbury, IA",1,0,0,0,1,0,0,1,0,1,2014
+3219,"Ankeny, IA","Delaware, IA",1,0,0,0,1,0,0,0,1,1,2014
+3205,"Ankeny, IA","Coulter, IA",0,0,1,0,0,1,0,0,1,1,2014
+3352,"Ankeny, IA","Mediapolis, IA",0,1,0,0,1,0,0,1,0,1,2014
+3470,"Ankeny, IA","Tama, IA",1,0,0,1,0,0,1,0,0,1,2014
+3504,"Ankeny, IA","Westside, IA",0,0,1,0,0,1,0,1,0,1,2014
+3495,"Ankeny, IA","Webb, IA",1,0,0,1,0,0,0,0,1,1,2014
+3155,"Ankeny, IA","Batavia, IA",0,1,0,0,1,0,1,0,0,1,2014
+3498,"Ankeny, IA","West Bend, IA",0,1,0,1,0,0,0,0,1,1,2014
+3499,"Ankeny, IA","West Branch, IA",0,1,0,0,0,1,0,0,1,1,2014
+3153,"Ankeny, IA","Avoca, IA",1,0,0,0,0,1,1,0,0,1,2014
+3503,"Ankeny, IA","West Liberty, IA",0,1,0,1,0,0,0,0,1,1,2014
+3505,"Ankeny, IA","Whitten, IA",1,0,0,0,1,0,0,1,0,1,2014
+3493,"Ankeny, IA","Waukon, IA",0,1,0,0,1,0,0,0,1,1,2014
+3147,"Ankeny, IA","Arthur, IA",0,1,0,0,0,1,0,0,1,1,2014
+3141,"Ankeny, IA","Alton, IA",0,0,1,1,0,0,0,1,0,1,2014
+3508,"Ankeny, IA","Wilton, IA",0,1,0,0,0,1,0,1,0,1,2014
+3140,"Ankeny, IA","Allison, IA",0,1,0,0,1,0,0,0,1,1,2014
+3137,"Ankeny, IA","Albion, IA",0,0,1,0,0,1,1,0,0,1,2014
+3135,"Ankeny, IA","Ainsworth, IA",1,0,0,0,1,0,0,0,1,1,2014
+3158,"Ankeny, IA","Beaman, IA",1,0,0,0,1,0,0,0,1,1,2014
+3488,"Ankeny, IA","Walnut, IA",1,0,0,0,1,0,1,0,0,1,2014
+3183,"Ankeny, IA","Castalia, IA",0,1,0,1,0,0,0,0,1,1,2014
+3179,"Ankeny, IA","Carson, IA",0,1,0,0,0,1,0,0,1,1,2014
+3182,"Ankeny, IA","Casey, IA",1,0,0,0,1,0,1,0,0,1,2014
+3181,"Ankeny, IA","Cascade, IA",0,0,1,0,1,0,0,1,0,1,2014
+3248,"Ankeny, IA","Floyd, IA",0,1,0,0,1,0,0,0,1,1,2014
+3475,"Ankeny, IA","Traer, IA",1,0,0,0,1,0,0,0,1,1,2014
+3476,"Ankeny, IA","Truesdale, IA",0,1,0,0,0,1,0,1,0,1,2014
+3477,"Ankeny, IA","Underwood, IA",0,1,0,0,1,0,0,0,1,1,2014
+3174,"Ankeny, IA","Bussey, IA",0,0,1,1,0,0,0,0,1,1,2014
+3164,"Ankeny, IA","Bloomfield, IA",0,1,0,0,1,0,0,1,0,1,2014
+3171,"Ankeny, IA","Bronson, IA",1,0,0,1,0,0,0,1,0,1,2014
+3482,"Ankeny, IA","Van Horne, IA",0,1,0,0,0,1,0,1,0,1,2014
+3169,"Ankeny, IA","Brayton, IA",0,1,0,0,0,1,0,0,1,1,2014
+3168,"Ankeny, IA","Boxholm, IA",1,0,0,0,0,1,0,0,1,1,2014
+3165,"Ankeny, IA","Blue Grass, IA",1,0,0,0,0,1,0,1,0,1,2014
+3486,"Ankeny, IA","Walford, IA",0,1,0,0,1,0,0,1,0,1,2014
+3244,"Ankeny, IA","Exira, IA",0,1,0,0,1,0,0,1,0,1,2014
+3254,"Ankeny, IA","Fremont, IA",0,1,0,1,0,0,0,0,1,1,2014
+3442,"Ankeny, IA","Schleswig, IA",1,0,0,0,1,0,1,0,0,1,2014
+3317,"Ankeny, IA","Le Grand, IA",1,0,0,0,1,0,0,1,0,1,2014
+3322,"Ankeny, IA","Lewis, IA",1,0,0,0,1,0,1,0,0,1,2014
+3377,"Ankeny, IA","Newell, IA",0,1,0,0,0,1,0,0,1,1,2014
+3320,"Ankeny, IA","Lenox, IA",0,1,0,1,0,0,0,1,0,1,2014
+3379,"Ankeny, IA","Nichols, IA",0,0,1,1,0,0,0,1,0,1,2014
+3380,"Ankeny, IA","Nora Springs, IA",0,1,0,0,1,0,0,0,1,1,2014
+3319,"Ankeny, IA","Lehigh, IA",0,0,1,1,0,0,0,0,1,1,2014
+3316,"Ankeny, IA","Lawler, IA",0,1,0,1,0,0,0,1,0,1,2014
+3326,"Ankeny, IA","Little Rock, IA",0,1,0,1,0,0,0,0,1,1,2014
+3314,"Ankeny, IA","Lamoni, IA",0,1,0,0,1,0,1,0,0,1,2014
+3312,"Ankeny, IA","Lakota, IA",0,1,0,1,0,0,0,1,0,1,2014
+3309,"Ankeny, IA","Lacona, IA",0,1,0,0,1,0,0,0,1,1,2014
+3307,"Ankeny, IA","Knierim, IA",0,1,0,0,0,1,0,0,1,1,2014
+3306,"Ankeny, IA","Kirkman, IA",0,1,0,0,0,1,0,0,1,1,2014
+3305,"Ankeny, IA","Keosauqua, IA",0,1,0,0,1,0,0,0,1,1,2014
+3133,"Ankeny, IA","Adair, IA",0,1,0,0,1,0,1,0,0,1,2014
+3329,"Ankeny, IA","Lorimor, IA",0,1,0,0,0,1,1,0,0,1,2014
+3393,"Ankeny, IA","Owasa, IA",0,1,0,0,0,1,0,0,1,1,2014
+3347,"Ankeny, IA","Martelle, IA",1,0,0,0,1,0,1,0,0,1,2014
+3351,"Ankeny, IA","Mechanicsville, IA",0,1,0,0,0,1,0,1,0,1,2014
+3357,"Ankeny, IA","Milton, IA",0,1,0,0,1,0,0,0,1,1,2014
+3350,"Ankeny, IA","Maxwell, IA",0,1,0,0,1,0,0,1,0,1,2014
+3359,"Ankeny, IA","Minden, IA",1,0,0,0,1,0,0,0,1,1,2014
+3349,"Ankeny, IA","Massena, IA",0,1,0,0,1,0,0,0,1,1,2014
+3361,"Ankeny, IA","Mondamin, IA",0,0,1,0,0,1,0,1,0,1,2014
+3343,"Ankeny, IA","Marcus, IA",0,0,1,0,0,1,0,0,1,1,2014
+3371,"Ankeny, IA","Mount Union, IA",0,1,0,0,0,1,0,0,1,1,2014
+3341,"Ankeny, IA","Manson, IA",0,1,0,0,1,0,0,0,1,1,2014
+3340,"Ankeny, IA","Manning, IA",1,0,0,0,0,1,0,1,0,1,2014
+3366,"Ankeny, IA","Morley, IA",1,0,0,0,0,1,0,1,0,1,2014
+3338,"Ankeny, IA","Malvern, IA",0,1,0,0,1,0,0,0,1,1,2014
+3368,"Ankeny, IA","Mount Auburn, IA",0,1,0,0,0,1,1,0,0,1,2014
+3331,"Ankeny, IA","Luana, IA",0,1,0,0,1,0,0,0,1,1,2014
+3391,"Ankeny, IA","Ottosen, IA",0,1,0,0,0,1,0,0,1,1,2014
+3302,"Ankeny, IA","Kamrar, IA",0,0,1,0,0,1,0,1,0,1,2014
+3441,"Ankeny, IA","Schaller, IA",0,0,1,0,1,0,1,0,0,1,2014
+3255,"Ankeny, IA","Fruitland, IA",0,0,1,0,1,0,0,0,1,1,2014
+3265,"Ankeny, IA","Grand River, IA",0,1,0,0,1,0,0,0,1,1,2014
+3424,"Ankeny, IA","Remsen, IA",0,0,1,0,0,1,0,0,1,1,2014
+3425,"Ankeny, IA","Renwick, IA",0,0,1,0,0,1,0,1,0,1,2014
+3264,"Ankeny, IA","Grand Mound, IA",0,0,1,0,0,1,0,1,0,1,2014
+3427,"Ankeny, IA","Richland, IA",0,1,0,0,0,1,0,0,1,1,2014
+3431,"Ankeny, IA","Riverton, IA",1,0,0,0,0,1,0,1,0,1,2014
+3433,"Ankeny, IA","Rockwell City, IA",1,0,0,1,0,0,0,0,1,1,2014
+3268,"Ankeny, IA","Greene, IA",1,0,0,0,1,0,1,0,0,1,2014
+3355,"Ankeny, IA","Middletown, IA",0,1,0,1,0,0,0,0,1,1,2014
+3253,"Ankeny, IA","Fraser, IA",0,1,0,0,0,1,0,0,1,1,2014
+3252,"Ankeny, IA","Fostoria, IA",1,0,0,0,0,1,0,1,0,1,2014
+3437,"Ankeny, IA","Sac City, IA",1,0,0,0,1,0,0,1,0,1,2014
+3439,"Ankeny, IA","Sandyville, IA",1,0,0,0,1,0,1,0,0,1,2014
+3440,"Ankeny, IA","Scarville, IA",0,0,1,0,0,1,0,1,0,1,2014
+3422,"Ankeny, IA","Redfield, IA",0,0,1,0,1,0,1,0,0,1,2014
+3419,"Ankeny, IA","Raymond, IA",0,1,0,0,1,0,0,1,0,1,2014
+3395,"Ankeny, IA","Pacific Junction, IA",1,0,0,0,0,1,1,0,0,1,2014
+3406,"Ankeny, IA","Pleasanton, IA",1,0,0,0,0,1,0,1,0,1,2014
+3396,"Ankeny, IA","Palo, IA",0,0,1,0,1,0,1,0,0,1,2014
+3397,"Ankeny, IA","Panama, IA",1,0,0,0,0,1,0,0,1,1,2014
+3402,"Ankeny, IA","Peosta, IA",0,1,0,1,0,0,0,0,1,1,2014
+3287,"Ankeny, IA","Hudson, IA",0,1,0,0,1,0,0,0,1,1,2014
+3404,"Ankeny, IA","Plainfield, IA",0,1,0,0,0,1,0,0,1,1,2014
+3286,"Ankeny, IA","Houghton, IA",0,0,1,0,1,0,0,0,1,1,2014
+3408,"Ankeny, IA","Plymouth, IA",0,1,0,0,0,1,0,0,1,1,2014
+3417,"Ankeny, IA","Randolph, IA",0,1,0,1,0,0,0,1,0,1,2014
+3279,"Ankeny, IA","Hartley, IA",0,1,0,1,0,0,0,0,1,1,2014
+3412,"Ankeny, IA","Postville, IA",0,1,0,0,1,0,0,0,1,1,2014
+3277,"Ankeny, IA","Harcourt, IA",1,0,0,1,0,0,1,0,0,1,2014
+3414,"Ankeny, IA","Preston, IA",1,0,0,0,0,1,0,1,0,1,2014
+3415,"Ankeny, IA","Primghar, IA",0,0,1,0,1,0,0,0,1,1,2014
+3275,"Ankeny, IA","Hamburg, IA",0,1,0,0,1,0,0,0,1,1,2014
+3132,"Ankeny, IA","Ackley, IA",0,0,1,1,0,0,0,1,0,1,2014

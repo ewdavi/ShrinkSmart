@@ -1,0 +1,65 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+35218,"Houghton, IA","Franklin, IA",13,30,16,21,15,23,14,17,28,59,2014
+35211,"Houghton, IA","Donnellson, IA",14,34,11,9,29,21,7,28,24,59,2014
+35245,"Houghton, IA","St. Paul, IA",9,26,21,11,17,28,17,11,28,56,2014
+35222,"Houghton, IA","Houghton, IA",12,24,17,13,21,19,20,15,18,53,2014
+35217,"Houghton, IA","Fort Madison, IA",11,28,12,12,22,17,7,21,23,51,2014
+35203,"Houghton, IA","Burlington, IA",5,6,10,2,7,12,6,5,10,21,2014
+35225,"Houghton, IA","Lockridge, IA",4,6,7,4,3,10,2,4,11,17,2014
+35231,"Houghton, IA","Montrose, IA",4,7,3,5,4,5,5,4,5,14,2014
+35244,"Houghton, IA","Salem, IA",3,6,2,2,2,7,1,5,5,11,2014
+35232,"Houghton, IA","Mount Pleasant, IA",1,6,3,5,1,4,1,4,5,10,2014
+35216,"Houghton, IA","Farmington, IA",1,8,1,7,1,2,2,6,2,10,2014
+35243,"Houghton, IA","Rome, IA",3,4,2,6,0,3,1,3,5,9,2014
+35235,"Houghton, IA","New London, IA",1,6,1,4,0,4,1,2,5,8,2014
+35201,"Houghton, IA","Bonaparte, IA",0,2,4,3,0,3,0,3,3,6,2014
+35224,"Houghton, IA","Keosauqua, IA",1,4,1,2,0,4,0,4,2,6,2014
+35223,"Houghton, IA","Keokuk, IA",0,6,0,2,2,2,0,4,2,6,2014
+35255,"Houghton, IA","West Point, IA",2,3,1,0,2,4,1,2,3,6,2014
+35230,"Houghton, IA","Milton, IA",0,1,2,1,0,2,0,1,2,3,2014
+35199,"Houghton, IA","Birmingham, IA",1,1,1,0,1,2,0,2,1,3,2014
+35219,"Houghton, IA","Grandview, IA",0,0,3,3,0,0,0,3,0,3,2014
+35221,"Houghton, IA","Hillsboro, IA",0,1,1,2,0,0,0,1,1,2,2014
+35233,"Houghton, IA","Mount Union, IA",0,1,1,0,1,1,0,2,0,2,2014
+35239,"Houghton, IA","Packwood, IA",0,2,0,0,1,1,1,0,1,2,2014
+35240,"Houghton, IA","Pleasant Hill, IA",2,0,0,0,2,0,2,0,0,2,2014
+35251,"Houghton, IA","Webster, IA",0,1,1,0,0,2,0,1,1,2,2014
+35256,"Houghton, IA","Williamsburg, IA",0,1,1,0,1,1,1,0,1,2,2014
+35194,"Houghton, IA","Agency, IA",0,1,1,0,1,1,1,0,1,2,2014
+35226,"Houghton, IA","Lone Tree, IA",0,2,0,0,2,0,1,0,1,2,2014
+35209,"Houghton, IA","Columbus Junction, IA",0,1,1,0,1,1,1,0,1,2,2014
+35215,"Houghton, IA","Fairfield, IA",0,2,0,0,0,2,0,0,2,2,2014
+35206,"Houghton, IA","Cedar Rapids, IA",0,2,0,2,0,0,0,0,2,2,2014
+35202,"Houghton, IA","Brighton, IA",0,2,0,1,0,1,0,2,0,2,2014
+35212,"Houghton, IA","Eldon, IA",0,2,0,1,0,1,0,2,0,2,2014
+35249,"Houghton, IA","Waukee, IA",0,1,0,1,0,0,0,0,1,1,2014
+35200,"Houghton, IA","Bloomfield, IA",0,1,0,0,0,1,0,1,0,1,2014
+35246,"Houghton, IA","Victor, IA",1,0,0,0,0,1,0,0,1,1,2014
+35247,"Houghton, IA","Wapello, IA",0,1,0,0,0,1,0,0,1,1,2014
+35248,"Houghton, IA","Washington, IA",0,1,0,0,0,1,0,0,1,1,2014
+35220,"Houghton, IA","Guernsey, IA",0,1,0,1,0,0,0,0,1,1,2014
+35242,"Houghton, IA","Richland, IA",0,1,0,0,1,0,0,0,1,1,2014
+35250,"Houghton, IA","Wayland, IA",0,1,0,0,0,1,0,0,1,1,2014
+35198,"Houghton, IA","Bedford, IA",0,1,0,0,1,0,0,1,0,1,2014
+35252,"Houghton, IA","Wellman, IA",0,0,1,0,0,1,1,0,0,1,2014
+35253,"Houghton, IA","West Burlington, IA",1,0,0,0,1,0,1,0,0,1,2014
+35254,"Houghton, IA","West Chester, IA",1,0,0,0,0,1,0,0,1,1,2014
+35197,"Houghton, IA","Batavia, IA",0,1,0,0,0,1,0,0,1,1,2014
+35196,"Houghton, IA","Ankeny, IA",0,0,1,0,1,0,0,0,1,1,2014
+35204,"Houghton, IA","Cambridge, IA",0,1,0,0,0,1,0,0,1,1,2014
+35205,"Houghton, IA","Cantril, IA",0,1,0,1,0,0,0,1,0,1,2014
+35241,"Houghton, IA","Rhodes, IA",0,0,1,0,0,1,0,1,0,1,2014
+35238,"Houghton, IA","Oskaloosa, IA",1,0,0,0,1,0,0,1,0,1,2014
+35237,"Houghton, IA","Newton, IA",1,0,0,0,0,1,0,0,1,1,2014
+35236,"Houghton, IA","New Sharon, IA",0,1,0,0,1,0,1,0,0,1,2014
+35207,"Houghton, IA","Centerville, IA",0,0,1,0,0,1,0,1,0,1,2014
+35234,"Houghton, IA","Muscatine, IA",0,1,0,0,0,1,0,0,1,1,2014
+35208,"Houghton, IA","Cincinnati, IA",0,1,0,0,0,1,0,0,1,1,2014
+35210,"Houghton, IA","Danville, IA",0,0,1,0,0,1,0,0,1,1,2014
+35229,"Houghton, IA","Marshalltown, IA",0,1,0,1,0,0,0,0,1,1,2014
+35228,"Houghton, IA","Marengo, IA",0,1,0,1,0,0,1,0,0,1,2014
+35227,"Houghton, IA","Malcom, IA",0,0,1,0,0,1,0,1,0,1,2014
+35195,"Houghton, IA","Ainsworth, IA",0,1,0,0,0,1,0,0,1,1,2014
+35213,"Houghton, IA","Eldora, IA",0,1,0,0,1,0,0,0,1,1,2014
+35214,"Houghton, IA","Fairfax, IA",0,1,0,1,0,0,0,0,1,1,2014
+35257,"Houghton, IA","Winfield, IA",1,0,0,0,1,0,1,0,0,1,2014

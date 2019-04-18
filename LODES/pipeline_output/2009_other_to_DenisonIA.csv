@@ -1,0 +1,364 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+20269,"Denison, IA","Denison, IA",535,1403,505,1117,1068,258,547,1251,645,2443,2009
+20484,"Denison, IA","Schleswig, IA",62,146,64,85,140,47,77,136,59,272,2009
+20238,"Denison, IA","Charter Oak, IA",49,129,56,73,123,38,50,115,69,234,2009
+20534,"Denison, IA","Westside, IA",40,90,35,49,97,19,42,92,31,165,2009
+20261,"Denison, IA","Danbury, IA",26,86,33,35,84,26,33,75,37,145,2009
+20384,"Denison, IA","Manilla, IA",28,85,27,56,62,22,35,74,31,140,2009
+20267,"Denison, IA","Deloit, IA",27,77,32,47,77,12,39,74,23,136,2009
+20252,"Denison, IA","Council Bluffs, IA",31,71,30,52,40,40,33,70,29,132,2009
+20223,"Denison, IA","Buck Grove, IA",25,53,25,31,55,17,28,52,23,103,2009
+20230,"Denison, IA","Carroll, IA",12,47,19,20,42,16,20,28,30,78,2009
+20496,"Denison, IA","Sioux City, IA",22,44,5,13,29,29,17,36,18,71,2009
+20323,"Denison, IA","Harlan, IA",15,38,7,22,22,16,10,27,23,60,2009
+20434,"Denison, IA","Onawa, IA",8,31,12,11,28,12,14,24,13,51,2009
+20271,"Denison, IA","Des Moines, IA",12,29,8,22,14,13,12,24,13,49,2009
+20277,"Denison, IA","Dunlap, IA",7,23,18,19,24,5,8,26,14,48,2009
+20374,"Denison, IA","Little Sioux, IA",7,24,12,22,16,5,8,19,16,43,2009
+20385,"Denison, IA","Manning, IA",5,26,11,9,17,16,7,17,18,42,2009
+20337,"Denison, IA","Ida Grove, IA",12,21,6,11,22,6,13,14,12,39,2009
+20522,"Denison, IA","Wall Lake, IA",5,26,3,9,15,10,9,15,10,34,2009
+20513,"Denison, IA","Tennant, IA",6,24,3,10,13,10,6,17,10,33,2009
+20507,"Denison, IA","Storm Lake, IA",6,19,5,18,8,4,7,19,4,30,2009
+20499,"Denison, IA","Soldier, IA",9,16,3,12,11,5,6,20,2,28,2009
+20381,"Denison, IA","Magnolia, IA",4,14,8,12,9,5,5,12,9,26,2009
+20262,"Denison, IA","Davenport, IA",12,7,3,5,13,4,8,11,3,22,2009
+20202,"Denison, IA","Atlantic, IA",9,9,4,2,5,15,13,8,1,22,2009
+20265,"Denison, IA","Defiance, IA",5,7,9,13,5,3,2,14,5,21,2009
+20446,"Denison, IA","Panama, IA",6,13,1,6,11,3,4,13,3,20,2009
+20468,"Denison, IA","Red Oak, IA",6,9,5,3,8,9,14,5,1,20,2009
+20242,"Denison, IA","Clarinda, IA",8,10,2,4,12,4,10,9,1,20,2009
+20199,"Denison, IA","Arthur, IA",3,14,2,4,10,5,8,5,6,19,2009
+20525,"Denison, IA","Waterloo, IA",7,10,2,14,3,2,5,13,1,19,2009
+20282,"Denison, IA","Early, IA",2,8,8,8,5,5,4,4,10,18,2009
+20234,"Denison, IA","Cedar Falls, IA",4,10,4,14,3,1,2,15,1,18,2009
+20191,"Denison, IA","Ames, IA",5,10,3,4,7,7,8,7,3,18,2009
+20456,"Denison, IA","Pleasant Hill, IA",5,8,4,3,5,9,7,6,4,17,2009
+20297,"Denison, IA","Exira, IA",1,11,3,6,4,5,0,6,9,15,2009
+20386,"Denison, IA","Mapleton, IA",1,12,2,2,13,0,1,7,7,15,2009
+20204,"Denison, IA","Aurelia, IA",4,11,0,10,2,3,2,9,4,15,2009
+20232,"Denison, IA","Carter Lake, IA",6,7,2,5,6,4,7,7,1,15,2009
+20315,"Denison, IA","Gray, IA",2,9,4,2,7,6,6,6,3,15,2009
+20408,"Denison, IA","Moorhead, IA",1,4,9,3,9,2,2,11,1,14,2009
+20354,"Denison, IA","Kiron, IA",2,10,2,3,6,5,4,7,3,14,2009
+20500,"Denison, IA","Spencer, IA",3,8,3,8,4,2,5,5,4,14,2009
+20498,"Denison, IA","Sloan, IA",4,9,1,2,9,3,8,3,3,14,2009
+20194,"Denison, IA","Ankeny, IA",2,10,1,1,7,5,4,5,4,13,2009
+20302,"Denison, IA","Fort Dodge, IA",0,10,3,3,6,4,2,7,4,13,2009
+20480,"Denison, IA","Sac City, IA",3,7,3,0,8,5,9,3,1,13,2009
+20393,"Denison, IA","Mason City, IA",5,8,0,3,7,3,3,6,4,13,2009
+20541,"Denison, IA","Woodbine, IA",1,9,2,7,4,1,3,4,5,12,2009
+20342,"Denison, IA","Irwin, IA",2,9,1,4,5,3,0,6,6,12,2009
+20406,"Denison, IA","Mondamin, IA",3,8,1,9,2,1,2,3,7,12,2009
+20365,"Denison, IA","Le Mars, IA",5,6,1,5,2,5,4,5,3,12,2009
+20403,"Denison, IA","Missouri Valley, IA",2,7,3,4,8,0,5,5,2,12,2009
+20212,"Denison, IA","Bettendorf, IA",8,3,1,4,4,4,8,4,0,12,2009
+20431,"Denison, IA","Odebolt, IA",1,8,2,2,7,2,2,6,3,11,2009
+20235,"Denison, IA","Cedar Rapids, IA",4,7,0,4,4,3,3,3,5,11,2009
+20479,"Denison, IA","Rodney, IA",7,2,2,6,4,1,4,6,1,11,2009
+20459,"Denison, IA","Portsmouth, IA",1,8,2,5,5,1,2,3,6,11,2009
+20288,"Denison, IA","Elk Horn, IA",2,7,2,4,4,3,0,7,4,11,2009
+20250,"Denison, IA","Coon Rapids, IA",2,8,1,5,3,3,4,5,2,11,2009
+20246,"Denison, IA","Clive, IA",6,2,2,4,3,3,2,5,3,10,2009
+20389,"Denison, IA","Marcus, IA",4,5,1,2,1,7,0,8,2,10,2009
+20538,"Denison, IA","Windsor Heights, IA",3,6,1,7,0,3,3,3,4,10,2009
+20233,"Denison, IA","Castana, IA",2,3,5,1,7,2,2,4,4,10,2009
+20520,"Denison, IA","Urbandale, IA",1,9,0,3,4,3,1,7,2,10,2009
+20369,"Denison, IA","Lewis, IA",3,7,0,2,6,2,2,3,5,10,2009
+20239,"Denison, IA","Cherokee, IA",4,2,3,0,4,5,7,1,1,9,2009
+20414,"Denison, IA","Muscatine, IA",2,6,1,6,1,2,0,6,3,9,2009
+20491,"Denison, IA","Shenandoah, IA",3,4,2,3,3,3,0,8,1,9,2009
+20350,"Denison, IA","Kimballton, IA",2,4,3,4,2,3,1,7,1,9,2009
+20463,"Denison, IA","Quimby, IA",1,7,1,1,5,3,3,4,2,9,2009
+20370,"Denison, IA","Lidderdale, IA",1,8,0,2,6,1,3,1,5,9,2009
+20435,"Denison, IA","Orange City, IA",1,5,2,5,0,3,1,6,1,8,2009
+20544,"Denison, IA","Yetter, IA",1,3,4,1,2,5,2,5,1,8,2009
+20375,"Denison, IA","Logan, IA",3,5,0,3,5,0,0,6,2,8,2009
+20203,"Denison, IA","Audubon, IA",3,5,0,1,4,3,2,2,4,8,2009
+20196,"Denison, IA","Arcadia, IA",3,4,1,0,3,5,3,2,3,8,2009
+20330,"Denison, IA","Hiawatha, IA",1,5,2,3,3,2,2,4,2,8,2009
+20344,"Denison, IA","Jefferson, IA",2,5,1,5,1,2,0,7,1,8,2009
+20536,"Denison, IA","Willey, IA",1,7,0,2,3,3,2,1,5,8,2009
+20352,"Denison, IA","Kirkman, IA",0,6,1,2,4,1,2,2,3,7,2009
+20341,"Denison, IA","Ireton, IA",1,4,2,2,3,2,1,4,2,7,2009
+20439,"Denison, IA","Ottumwa, IA",3,3,1,3,3,1,3,4,0,7,2009
+20259,"Denison, IA","Cushing, IA",4,1,2,2,3,2,5,2,0,7,2009
+20217,"Denison, IA","Boxholm, IA",2,5,0,4,2,1,2,3,2,7,2009
+20244,"Denison, IA","Clear Lake, IA",3,2,2,1,3,3,2,2,3,7,2009
+20208,"Denison, IA","Bayard, IA",2,5,0,3,3,1,1,1,5,7,2009
+20492,"Denison, IA","Sibley, IA",1,4,2,2,2,3,3,2,2,7,2009
+20540,"Denison, IA","Wiota, IA",1,6,0,0,4,3,4,1,2,7,2009
+20189,"Denison, IA","Alton, IA",0,6,0,2,3,1,0,5,1,6,2009
+20523,"Denison, IA","Walnut, IA",3,3,0,4,1,1,0,3,3,6,2009
+20494,"Denison, IA","Silver City, IA",3,2,1,1,3,2,3,1,2,6,2009
+20394,"Denison, IA","Massena, IA",2,3,1,0,3,3,2,4,0,6,2009
+20495,"Denison, IA","Sioux Center, IA",1,3,2,3,2,1,0,5,1,6,2009
+20443,"Denison, IA","Pacific Junction, IA",2,1,3,1,2,3,3,3,0,6,2009
+20309,"Denison, IA","Glenwood, IA",3,3,0,1,4,1,4,1,1,6,2009
+20483,"Denison, IA","Schaller, IA",0,6,0,3,2,1,1,4,1,6,2009
+20254,"Denison, IA","Crescent, IA",3,2,1,0,4,2,3,2,1,6,2009
+20451,"Denison, IA","Pella, IA",2,4,0,1,4,1,1,1,4,6,2009
+20295,"Denison, IA","Estherville, IA",2,3,1,5,1,0,1,3,2,6,2009
+20358,"Denison, IA","Lakeside, IA",2,4,0,6,0,0,0,6,0,6,2009
+20319,"Denison, IA","Guthrie Center, IA",0,1,5,1,5,0,1,1,4,6,2009
+20357,"Denison, IA","Lake View, IA",0,4,2,1,1,4,1,2,3,6,2009
+20276,"Denison, IA","Dubuque, IA",2,4,0,1,5,0,1,2,3,6,2009
+20351,"Denison, IA","Kingsley, IA",1,4,1,2,2,2,1,3,2,6,2009
+20193,"Denison, IA","Anita, IA",0,5,1,0,3,3,3,3,0,6,2009
+20361,"Denison, IA","Larrabee, IA",3,2,1,0,2,4,3,2,1,6,2009
+20310,"Denison, IA","Glidden, IA",0,5,0,3,1,1,0,2,3,5,2009
+20501,"Denison, IA","Spirit Lake, IA",0,3,2,1,1,3,2,3,0,5,2009
+20303,"Denison, IA","Fort Madison, IA",2,3,0,1,3,1,1,4,0,5,2009
+20349,"Denison, IA","Keokuk, IA",0,4,1,4,0,1,1,2,2,5,2009
+20328,"Denison, IA","Hawarden, IA",2,3,0,3,1,1,1,3,1,5,2009
+20442,"Denison, IA","Oyens, IA",2,1,2,0,1,4,2,2,1,5,2009
+20477,"Denison, IA","Rock Valley, IA",0,4,1,2,1,2,1,3,1,5,2009
+20229,"Denison, IA","Carlisle, IA",0,4,1,1,3,1,0,4,1,5,2009
+20429,"Denison, IA","Norwalk, IA",3,1,1,1,1,3,0,4,1,5,2009
+20424,"Denison, IA","Newton, IA",0,5,0,2,3,0,1,2,2,5,2009
+20423,"Denison, IA","Newell, IA",1,4,0,2,3,0,0,2,3,5,2009
+20413,"Denison, IA","Moville, IA",0,5,0,1,2,2,0,4,1,5,2009
+20485,"Denison, IA","Sergeant Bluff, IA",3,2,0,0,1,4,3,1,1,5,2009
+20402,"Denison, IA","Minden, IA",2,1,2,0,3,2,4,0,1,5,2009
+20338,"Denison, IA","Indianola, IA",2,2,1,0,4,1,1,2,2,5,2009
+20476,"Denison, IA","Rock Rapids, IA",2,2,0,1,3,0,2,0,2,4,2009
+20292,"Denison, IA","Emmetsburg, IA",1,2,1,1,3,0,0,3,1,4,2009
+20339,"Denison, IA","Inwood, IA",1,3,0,1,2,1,2,2,0,4,2009
+20340,"Denison, IA","Iowa City, IA",1,3,0,3,0,1,0,3,1,4,2009
+20447,"Denison, IA","Panora, IA",0,4,0,2,2,0,0,3,1,4,2009
+20187,"Denison, IA","Algona, IA",1,2,1,1,2,1,2,2,0,4,2009
+20452,"Denison, IA","Perry, IA",0,2,2,2,0,2,0,2,2,4,2009
+20346,"Denison, IA","Johnston, IA",2,2,0,0,4,0,3,0,1,4,2009
+20472,"Denison, IA","Rippey, IA",1,3,0,2,0,2,0,3,1,4,2009
+20488,"Denison, IA","Shelby, IA",1,3,0,1,0,3,0,1,3,4,2009
+20530,"Denison, IA","West Des Moines, IA",1,3,0,1,1,2,0,3,1,4,2009
+20527,"Denison, IA","Waukon, IA",2,2,0,2,1,1,2,1,1,4,2009
+20198,"Denison, IA","Arnolds Park, IA",2,1,1,3,0,1,2,1,1,4,2009
+20399,"Denison, IA","Merrill, IA",2,1,1,0,1,3,2,0,2,4,2009
+20391,"Denison, IA","Marshalltown, IA",2,2,0,2,0,2,2,1,1,4,2009
+20416,"Denison, IA","Nevada, IA",0,4,0,1,2,1,0,2,2,4,2009
+20231,"Denison, IA","Carson, IA",2,1,1,0,2,2,1,2,1,4,2009
+20214,"Denison, IA","Bloomfield, IA",1,2,1,3,1,0,1,2,1,4,2009
+20296,"Denison, IA","Evansdale, IA",0,4,0,3,0,1,0,4,0,4,2009
+20526,"Denison, IA","Waukee, IA",1,2,1,0,1,3,0,1,3,4,2009
+20506,"Denison, IA","Stanton, IA",0,3,1,2,1,1,0,4,0,4,2009
+20290,"Denison, IA","Elliott, IA",4,0,0,0,4,0,4,0,0,4,2009
+20206,"Denison, IA","Bagley, IA",0,2,2,1,1,2,0,3,1,4,2009
+20360,"Denison, IA","Larchwood, IA",1,1,2,1,3,0,1,2,1,4,2009
+20216,"Denison, IA","Boone, IA",2,1,1,0,2,2,2,2,0,4,2009
+20371,"Denison, IA","Linden, IA",0,3,0,3,0,0,0,1,2,3,2009
+20432,"Denison, IA","Oelwein, IA",1,0,2,0,1,2,1,1,1,3,2009
+20531,"Denison, IA","West Liberty, IA",1,2,0,3,0,0,0,2,1,3,2009
+20395,"Denison, IA","McClelland, IA",1,1,1,1,1,1,0,3,0,3,2009
+20490,"Denison, IA","Shell Rock, IA",1,2,0,1,2,0,0,2,1,3,2009
+20183,"Denison, IA","Adair, IA",1,2,0,0,3,0,0,2,1,3,2009
+20355,"Denison, IA","La Porte City, IA",2,1,0,2,0,1,1,2,0,3,2009
+20383,"Denison, IA","Manchester, IA",0,2,1,0,2,1,0,2,1,3,2009
+20182,"Denison, IA","Ackworth, IA",1,2,0,1,0,2,0,2,1,3,2009
+20314,"Denison, IA","Grant, IA",1,2,0,2,1,0,1,1,1,3,2009
+20205,"Denison, IA","Avoca, IA",2,1,0,2,1,0,0,2,1,3,2009
+20226,"Denison, IA","Burlington, IA",1,1,1,1,2,0,0,2,1,3,2009
+20220,"Denison, IA","Brayton, IA",2,1,0,1,1,1,2,1,0,3,2009
+20318,"Denison, IA","Grimes, IA",0,2,1,1,0,2,1,0,2,3,2009
+20281,"Denison, IA","Eagle Grove, IA",1,0,2,0,1,2,1,1,1,3,2009
+20335,"Denison, IA","Humboldt, IA",1,2,0,0,1,2,1,0,2,3,2009
+20200,"Denison, IA","Asbury, IA",0,3,0,1,2,0,1,2,0,3,2009
+20215,"Denison, IA","Bonaparte, IA",1,0,2,1,1,1,0,1,2,3,2009
+20201,"Denison, IA","Ashton, IA",0,2,1,2,1,0,1,1,1,3,2009
+20245,"Denison, IA","Clinton, IA",1,1,1,1,1,1,1,1,1,3,2009
+20313,"Denison, IA","Grand Junction, IA",0,2,1,1,0,2,1,1,1,3,2009
+20329,"Denison, IA","Henderson, IA",0,2,1,0,3,0,1,0,2,3,2009
+20213,"Denison, IA","Blanchard, IA",0,2,1,0,3,0,1,2,0,3,2009
+20514,"Denison, IA","Terril, IA",0,2,0,1,1,0,0,1,1,2,2009
+20293,"Denison, IA","Epworth, IA",1,0,1,0,2,0,0,2,0,2,2009
+20225,"Denison, IA","Buffalo, IA",0,1,1,1,0,1,0,2,0,2,2009
+20493,"Denison, IA","Sigourney, IA",0,1,1,0,1,1,0,1,1,2,2009
+20420,"Denison, IA","New London, IA",0,2,0,0,2,0,1,1,0,2,2009
+20418,"Denison, IA","New Hampton, IA",1,0,1,0,1,1,0,1,1,2,2009
+20502,"Denison, IA","Spring Hill, IA",0,1,1,0,1,1,1,1,0,2,2009
+20289,"Denison, IA","Elk Run Heights, IA",0,1,1,2,0,0,0,2,0,2,2009
+20283,"Denison, IA","Eddyville, IA",0,2,0,0,2,0,0,2,0,2,2009
+20412,"Denison, IA","Mount Union, IA",0,1,1,0,2,0,0,2,0,2,2009
+20218,"Denison, IA","Boyden, IA",1,1,0,1,0,1,1,0,1,2,2009
+20407,"Denison, IA","Monticello, IA",0,1,1,1,0,1,0,1,1,2,2009
+20425,"Denison, IA","Nichols, IA",1,1,0,1,1,0,2,0,0,2,2009
+20511,"Denison, IA","Sutherland, IA",0,1,1,1,0,1,0,1,1,2,2009
+20363,"Denison, IA","Lawler, IA",0,2,0,0,1,1,0,0,2,2,2009
+20489,"Denison, IA","Sheldon, IA",1,1,0,1,1,0,1,1,0,2,2009
+20298,"Denison, IA","Fairbank, IA",0,0,2,0,1,1,1,1,0,2,2009
+20461,"Denison, IA","Primghar, IA",0,2,0,1,1,0,1,0,1,2,2009
+20469,"Denison, IA","Redding, IA",1,1,0,0,2,0,2,0,0,2,2009
+20253,"Denison, IA","Craig, IA",1,1,0,0,0,2,1,1,0,2,2009
+20471,"Denison, IA","Remsen, IA",0,1,1,0,0,2,0,0,2,2,2009
+20255,"Denison, IA","Cresco, IA",1,1,0,1,0,1,1,1,0,2,2009
+20474,"Denison, IA","Riverton, IA",1,1,0,0,2,0,1,0,1,2,2009
+20256,"Denison, IA","Creston, IA",0,2,0,1,1,0,1,1,0,2,2009
+20257,"Denison, IA","Cumberland, IA",1,1,0,1,1,0,0,1,1,2,2009
+20450,"Denison, IA","Paullina, IA",1,1,0,1,0,1,1,1,0,2,2009
+20448,"Denison, IA","Panorama Park, IA",1,1,0,0,1,1,2,0,0,2,2009
+20247,"Denison, IA","Coburg, IA",1,0,1,0,0,2,1,1,0,2,2009
+20444,"Denison, IA","Packwood, IA",1,1,0,0,0,2,0,2,0,2,2009
+20264,"Denison, IA","Decorah, IA",0,2,0,1,1,0,1,1,0,2,2009
+20241,"Denison, IA","Churdan, IA",0,2,0,0,1,1,2,0,0,2,2009
+20266,"Denison, IA","Delaware, IA",0,2,0,1,0,1,0,2,0,2,2009
+20437,"Denison, IA","Osceola, IA",1,0,1,1,1,0,2,0,0,2,2009
+20240,"Denison, IA","Chester, IA",0,0,2,1,0,1,0,1,1,2,2009
+20272,"Denison, IA","Dexter, IA",0,2,0,0,1,1,0,1,1,2,2009
+20430,"Denison, IA","Ocheyedan, IA",0,2,0,1,0,1,1,0,1,2,2009
+20390,"Denison, IA","Marengo, IA",1,0,1,0,0,2,1,1,0,2,2009
+20508,"Denison, IA","Story City, IA",1,1,0,1,0,1,1,0,1,2,2009
+20532,"Denison, IA","West Okoboji, IA",1,1,0,2,0,0,0,1,1,2,2009
+20320,"Denison, IA","Hamburg, IA",1,0,1,1,1,0,0,1,1,2,2009
+20308,"Denison, IA","Gilbert, IA",0,2,0,1,0,1,0,1,1,2,2009
+20311,"Denison, IA","Goldfield, IA",1,1,0,0,0,2,2,0,0,2,2009
+20312,"Denison, IA","Graettinger, IA",0,2,0,2,0,0,0,2,0,2,2009
+20529,"Denison, IA","West Bend, IA",1,1,0,0,0,2,2,0,0,2,2009
+20195,"Denison, IA","Anthon, IA",0,2,0,0,1,1,0,1,1,2,2009
+20192,"Denison, IA","Anamosa, IA",1,1,0,1,1,0,0,2,0,2,2009
+20533,"Denison, IA","West Point, IA",0,1,1,1,1,0,1,1,0,2,2009
+20190,"Denison, IA","Altoona, IA",0,1,1,1,0,1,0,2,0,2,2009
+20317,"Denison, IA","Greenville, IA",1,1,0,1,1,0,0,2,0,2,2009
+20356,"Denison, IA","Lake City, IA",1,0,1,1,1,0,1,0,1,2,2009
+20373,"Denison, IA","Little Rock, IA",0,1,1,1,1,0,0,1,1,2,2009
+20321,"Denison, IA","Hampton, IA",1,1,0,2,0,0,0,0,2,2,2009
+20322,"Denison, IA","Hancock, IA",1,1,0,1,0,1,0,2,0,2,2009
+20537,"Denison, IA","Williamsburg, IA",0,2,0,1,1,0,0,2,0,2,2009
+20325,"Denison, IA","Hartley, IA",2,0,0,1,1,0,1,0,1,2,2009
+20327,"Denison, IA","Havelock, IA",0,2,0,0,1,1,0,2,0,2,2009
+20185,"Denison, IA","Albert City, IA",1,1,0,0,0,2,0,1,1,2,2009
+20331,"Denison, IA","Hinton, IA",0,2,0,0,2,0,1,0,1,2,2009
+20332,"Denison, IA","Hopkinton, IA",1,1,0,1,0,1,1,0,1,2,2009
+20334,"Denison, IA","Hull, IA",1,1,0,1,0,1,0,2,0,2,2009
+20528,"Denison, IA","Webster City, IA",0,1,1,0,0,2,0,0,2,2,2009
+20466,"Denison, IA","Raymond, IA",0,2,0,2,0,0,0,2,0,2,2009
+20307,"Denison, IA","Garner, IA",1,1,0,0,1,1,1,1,0,2,2009
+20377,"Denison, IA","Luana, IA",2,0,0,0,2,0,1,1,0,2,2009
+20387,"Denison, IA","Maquoketa, IA",1,1,0,0,2,0,2,0,0,2,2009
+20382,"Denison, IA","Malvern, IA",0,2,0,0,1,1,1,0,1,2,2009
+20219,"Denison, IA","Braddyville, IA",1,0,0,1,0,0,0,0,1,1,2009
+20519,"Denison, IA","Urbana, IA",0,1,0,1,0,0,0,0,1,1,2009
+20243,"Denison, IA","Clarksville, IA",0,1,0,0,0,1,1,0,0,1,2009
+20188,"Denison, IA","Allison, IA",0,1,0,0,0,1,0,1,0,1,2009
+20478,"Denison, IA","Rockford, IA",0,1,0,0,1,0,0,0,1,1,2009
+20209,"Denison, IA","Bellevue, IA",0,1,0,0,1,0,0,0,1,1,2009
+20512,"Denison, IA","Swan, IA",0,0,1,0,1,0,0,1,0,1,2009
+20186,"Denison, IA","Albia, IA",1,0,0,1,0,0,0,1,0,1,2009
+20475,"Denison, IA","Robins, IA",0,1,0,1,0,0,0,0,1,1,2009
+20210,"Denison, IA","Belmond, IA",0,1,0,0,0,1,0,1,0,1,2009
+20539,"Denison, IA","Winterset, IA",0,1,0,1,0,0,0,1,0,1,2009
+20473,"Denison, IA","Riverside, IA",0,1,0,1,0,0,0,1,0,1,2009
+20184,"Denison, IA","Akron, IA",0,1,0,0,0,1,0,0,1,1,2009
+20509,"Denison, IA","Stratford, IA",1,0,0,0,0,1,1,0,0,1,2009
+20248,"Denison, IA","Columbus Junction, IA",0,1,0,1,0,0,0,1,0,1,2009
+20518,"Denison, IA","University Heights, IA",0,1,0,0,0,1,1,0,0,1,2009
+20542,"Denison, IA","Woodward, IA",0,1,0,0,1,0,0,0,1,1,2009
+20470,"Denison, IA","Reinbeck, IA",0,1,0,0,1,0,0,0,1,1,2009
+20543,"Denison, IA","Woolstock, IA",0,0,1,0,1,0,1,0,0,1,2009
+20515,"Denison, IA","Traer, IA",1,0,0,0,1,0,1,0,0,1,2009
+20249,"Denison, IA","Conrad, IA",0,1,0,0,1,0,0,0,1,1,2009
+20467,"Denison, IA","Reasnor, IA",0,0,1,0,0,1,0,1,0,1,2009
+20510,"Denison, IA","Superior, IA",0,1,0,1,0,0,0,1,0,1,2009
+20211,"Denison, IA","Bennett, IA",1,0,0,0,1,0,1,0,0,1,2009
+20465,"Denison, IA","Randall, IA",0,1,0,1,0,0,0,0,1,1,2009
+20516,"Denison, IA","Truesdale, IA",0,1,0,0,0,1,1,0,0,1,2009
+20497,"Denison, IA","Sioux Rapids, IA",0,1,0,1,0,0,0,0,1,1,2009
+20221,"Denison, IA","Britt, IA",1,0,0,1,0,0,0,0,1,1,2009
+20197,"Denison, IA","Armstrong, IA",0,1,0,1,0,0,0,1,0,1,2009
+20222,"Denison, IA","Brooklyn, IA",0,0,1,0,1,0,1,0,0,1,2009
+20224,"Denison, IA","Buffalo Center, IA",0,1,0,1,0,0,1,0,0,1,2009
+20524,"Denison, IA","Wapello, IA",0,0,1,0,1,0,0,1,0,1,2009
+20207,"Denison, IA","Battle Creek, IA",1,0,0,0,0,1,1,0,0,1,2009
+20503,"Denison, IA","Springville, IA",0,1,0,0,1,0,0,0,1,1,2009
+20227,"Denison, IA","Callender, IA",0,1,0,0,1,0,0,1,0,1,2009
+20228,"Denison, IA","Cambridge, IA",1,0,0,1,0,0,0,1,0,1,2009
+20481,"Denison, IA","Sanborn, IA",0,1,0,0,0,1,0,0,1,1,2009
+20487,"Denison, IA","Sheffield, IA",0,1,0,0,1,0,0,0,1,1,2009
+20504,"Denison, IA","St. Marys, IA",1,0,0,0,1,0,0,1,0,1,2009
+20486,"Denison, IA","Shannon City, IA",0,1,0,0,1,0,0,0,1,1,2009
+20505,"Denison, IA","Stanhope, IA",0,1,0,0,1,0,1,0,0,1,2009
+20236,"Denison, IA","Chariton, IA",0,1,0,0,1,0,0,1,0,1,2009
+20237,"Denison, IA","Charles City, IA",0,1,0,0,0,1,0,0,1,1,2009
+20521,"Denison, IA","Walcott, IA",0,1,0,1,0,0,0,0,1,1,2009
+20482,"Denison, IA","Sandyville, IA",1,0,0,0,1,0,1,0,0,1,2009
+20535,"Denison, IA","Whittemore, IA",0,1,0,0,1,0,0,0,1,1,2009
+20517,"Denison, IA","Underwood, IA",1,0,0,0,0,1,1,0,0,1,2009
+20336,"Denison, IA","Huxley, IA",0,1,0,0,1,0,0,1,0,1,2009
+20464,"Denison, IA","Rake, IA",1,0,0,1,0,0,0,0,1,1,2009
+20294,"Denison, IA","Essex, IA",0,1,0,0,0,1,1,0,0,1,2009
+20380,"Denison, IA","Madrid, IA",1,0,0,0,0,1,1,0,0,1,2009
+20305,"Denison, IA","Garden Grove, IA",0,1,0,0,0,1,0,0,1,1,2009
+20304,"Denison, IA","Fostoria, IA",1,0,0,1,0,0,0,1,0,1,2009
+20301,"Denison, IA","Forest City, IA",0,1,0,0,0,1,0,0,1,1,2009
+20300,"Denison, IA","Farley, IA",1,0,0,0,1,0,0,1,0,1,2009
+20299,"Denison, IA","Fairfield, IA",0,0,1,1,0,0,0,1,0,1,2009
+20388,"Denison, IA","Marble Rock, IA",0,1,0,0,1,0,0,0,1,1,2009
+20392,"Denison, IA","Marysville, IA",0,0,1,0,1,0,1,0,0,1,2009
+20378,"Denison, IA","Macedonia, IA",1,0,0,0,0,1,1,0,0,1,2009
+20291,"Denison, IA","Ellsworth, IA",0,1,0,1,0,0,0,1,0,1,2009
+20396,"Denison, IA","Mechanicsville, IA",0,1,0,0,0,1,0,1,0,1,2009
+20397,"Denison, IA","Melcher-Dallas, IA",0,1,0,1,0,0,0,0,1,1,2009
+20398,"Denison, IA","Meriden, IA",1,0,0,0,1,0,1,0,0,1,2009
+20287,"Denison, IA","Eldridge, IA",1,0,0,0,1,0,0,1,0,1,2009
+20400,"Denison, IA","Middletown, IA",0,1,0,1,0,0,0,1,0,1,2009
+20401,"Denison, IA","Milford, IA",0,1,0,0,1,0,0,0,1,1,2009
+20379,"Denison, IA","Macksburg, IA",0,0,1,0,0,1,0,0,1,1,2009
+20376,"Denison, IA","Long Grove, IA",0,1,0,0,1,0,0,0,1,1,2009
+20285,"Denison, IA","Eldon, IA",0,1,0,1,0,0,1,0,0,1,2009
+20353,"Denison, IA","Kirkville, IA",0,1,0,0,1,0,0,0,1,1,2009
+20333,"Denison, IA","Hospers, IA",0,1,0,1,0,0,1,0,0,1,2009
+20343,"Denison, IA","Janesville, IA",0,1,0,1,0,0,0,1,0,1,2009
+20345,"Denison, IA","Jesup, IA",1,0,0,1,0,0,0,1,0,1,2009
+20347,"Denison, IA","Joice, IA",1,0,0,0,0,1,1,0,0,1,2009
+20348,"Denison, IA","Kamrar, IA",0,1,0,1,0,0,0,1,0,1,2009
+20326,"Denison, IA","Hastings, IA",0,0,1,0,1,0,1,0,0,1,2009
+20324,"Denison, IA","Harris, IA",0,0,1,0,0,1,0,1,0,1,2009
+20359,"Denison, IA","Lamoni, IA",0,0,1,0,1,0,0,0,1,1,2009
+20306,"Denison, IA","Garnavillo, IA",0,1,0,0,1,0,0,1,0,1,2009
+20316,"Denison, IA","Greenfield, IA",0,0,1,0,1,0,1,0,0,1,2009
+20362,"Denison, IA","Laurens, IA",0,0,1,0,0,1,0,1,0,1,2009
+20364,"Denison, IA","Lawton, IA",0,0,1,0,0,1,0,1,0,1,2009
+20366,"Denison, IA","Ledyard, IA",0,0,1,0,1,0,0,0,1,1,2009
+20367,"Denison, IA","Leon, IA",0,0,1,0,1,0,0,1,0,1,2009
+20368,"Denison, IA","Lester, IA",1,0,0,0,0,1,1,0,0,1,2009
+20372,"Denison, IA","Lineville, IA",0,1,0,0,1,0,0,0,1,1,2009
+20286,"Denison, IA","Eldora, IA",1,0,0,0,1,0,1,0,0,1,2009
+20404,"Denison, IA","Mitchell, IA",0,1,0,0,1,0,0,0,1,1,2009
+20251,"Denison, IA","Coralville, IA",0,0,1,0,1,0,0,1,0,1,2009
+20258,"Denison, IA","Curlew, IA",0,1,0,1,0,0,0,1,0,1,2009
+20268,"Denison, IA","Delta, IA",0,1,0,0,1,0,1,0,0,1,2009
+20436,"Denison, IA","Osage, IA",0,1,0,1,0,0,1,0,0,1,2009
+20438,"Denison, IA","Oskaloosa, IA",1,0,0,1,0,0,0,0,1,1,2009
+20440,"Denison, IA","Owasa, IA",0,0,1,0,1,0,1,0,0,1,2009
+20263,"Denison, IA","Dawson, IA",0,1,0,0,0,1,0,1,0,1,2009
+20445,"Denison, IA","Palo, IA",0,0,1,0,1,0,0,0,1,1,2009
+20260,"Denison, IA","Dakota City, IA",0,1,0,0,1,0,1,0,0,1,2009
+20449,"Denison, IA","Patterson, IA",1,0,0,1,0,0,0,1,0,1,2009
+20433,"Denison, IA","Ogden, IA",0,0,1,1,0,0,0,1,0,1,2009
+20453,"Denison, IA","Peterson, IA",0,1,0,1,0,0,0,1,0,1,2009
+20454,"Denison, IA","Pierson, IA",0,0,1,0,0,1,0,1,0,1,2009
+20455,"Denison, IA","Plainfield, IA",0,0,1,1,0,0,0,1,0,1,2009
+20457,"Denison, IA","Pleasantville, IA",0,1,0,0,1,0,0,1,0,1,2009
+20458,"Denison, IA","Pomeroy, IA",1,0,0,0,0,1,1,0,0,1,2009
+20460,"Denison, IA","Prairieburg, IA",0,1,0,1,0,0,0,1,0,1,2009
+20462,"Denison, IA","Princeton, IA",0,1,0,0,1,0,0,1,0,1,2009
+20270,"Denison, IA","Denver, IA",1,0,0,1,0,0,0,1,0,1,2009
+20273,"Denison, IA","Diagonal, IA",0,0,1,0,0,1,0,1,0,1,2009
+20405,"Denison, IA","Mitchellville, IA",0,0,1,1,0,0,0,0,1,1,2009
+20417,"Denison, IA","New Albin, IA",0,1,0,0,0,1,1,0,0,1,2009
+20284,"Denison, IA","Elberon, IA",0,1,0,0,1,0,0,1,0,1,2009
+20409,"Denison, IA","Moulton, IA",0,0,1,1,0,0,0,0,1,1,2009
+20410,"Denison, IA","Mount Auburn, IA",0,1,0,0,1,0,0,1,0,1,2009
+20411,"Denison, IA","Mount Ayr, IA",0,0,1,0,0,1,1,0,0,1,2009
+20280,"Denison, IA","Dysart, IA",0,1,0,0,0,1,0,0,1,1,2009
+20415,"Denison, IA","Nashua, IA",0,1,0,0,0,1,0,0,1,1,2009
+20279,"Denison, IA","Dyersville, IA",1,0,0,0,1,0,0,1,0,1,2009
+20419,"Denison, IA","New Hartford, IA",1,0,0,0,0,1,1,0,0,1,2009
+20274,"Denison, IA","Dolliver, IA",0,1,0,1,0,0,0,1,0,1,2009
+20421,"Denison, IA","New Market, IA",0,1,0,0,0,1,0,1,0,1,2009
+20422,"Denison, IA","New Sharon, IA",0,1,0,0,1,0,0,1,0,1,2009
+20278,"Denison, IA","Durant, IA",0,1,0,0,0,1,1,0,0,1,2009
+20275,"Denison, IA","Donnellson, IA",0,1,0,0,0,1,0,1,0,1,2009
+20426,"Denison, IA","Nodaway, IA",1,0,0,0,0,1,1,0,0,1,2009
+20427,"Denison, IA","Nora Springs, IA",0,0,1,0,0,1,1,0,0,1,2009
+20428,"Denison, IA","Northwood, IA",0,1,0,0,1,0,0,1,0,1,2009
+20441,"Denison, IA","Oxford, IA",0,1,0,0,0,1,1,0,0,1,2009

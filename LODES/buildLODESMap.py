@@ -1,0 +1,77 @@
+import shapefile
+import re
+import pandas as pd
+import geopy.distance
+from tqdm import tqdm_notebook
+from shapely.geometry import Polygon
+
+columns = ["Census Block ID", "Lat", "Lon"]
+
+df = pd.DataFrame(columns=columns)
+city_df = pd.read_csv("city-basics_iowa.csv")
+
+shape = shapefile.Reader("gz_2010_19_150_00_500k.shp")
+
+for feature in shape.shapeRecords():
+    blockId = re.sub("[\d]+US", "", feature.record[0])
+    if (feature.shape.__geo_interface__["type"] is "MultiPolygon"):
+        centroid = feature.shape.__geo_interface__["coordinates"][0][0][0]
+    else:
+        centroid = feature.shape.__geo_interface__['coordinates'][0][0]
+    df.loc[len(df)] = [blockId, centroid[1], centroid[0]]
+    
+city_df = city_df.drop([city_df.columns[0], "Counties", "WikiURL"], axis=1)
+def getLLDist(row, coord1):
+    coord2 = (row["Lat"], row["Lon"])
+    return (geopy.distance.vincenty(coord1, coord2).km, row["City"])
+
+def getClosestCity(row):
+    coord1 = (row["Lat"], row["Lon"])
+    return min(city_df.apply(getLLDist, coord1=coord1, axis=1))
+
+df["Distance to City Center"], df["City"] = zip(*df.apply(getClosestCity, axis=1))
+lodes_df = pd.read_csv("ia_od_main_JT00_2010.csv")
+lodes_df = lodes_df.drop(['createdate'], axis=1)
+lodes_df.columns = ["work block", "home block", "total jobs", "Age [0-29]", "Age [30-54]", "Age [55+]", "Salary, Monthly [0-1250]", "Salary, Monthly [1251-3333]", "Salary, Monthly [3334+]", "Jobs: Goods Producing", "Jobs: Trade, Transport, Utilities", "Jobs: Other"]
+
+lodes_df["wb census"] = lodes_df["work block"].apply(lambda x: str(x)[:12])
+lodes_df["hb census"] = lodes_df["home block"].apply(lambda x: str(x)[:12])
+censusDict = df[["Census Block ID", "City"]].set_index("Census Block ID").to_dict()["City"]
+latDict = df[["City", "Lat"]].set_index("City").to_dict()["Lat"]
+lonDict = df[["City", "Lon"]].set_index("City").to_dict()["Lon"]
+
+def getCity(censusBlock):
+    return censusDict[censusBlock]
+#     return df[df["Census Block ID"] == censusBlock]["City"]
+    
+testSet = lodes_df
+testSet = testSet.drop(['work block', 'home block'], axis=1)
+testSet = testSet.groupby(['wb census', 'hb census']).sum().reset_index()
+testSet["city name"] = testSet["hb census"].apply(getCity)
+testSet = testSet.drop("hb census", axis=1)
+testSet["work city"] = testSet["wb census"].apply(getCity)
+testSet = testSet.drop("wb census", axis=1)
+testSet.sort_values(["city name", "work city"], inplace=True)
+testSet.set_index(["city name", "work city"], inplace=True)
+
+import math
+import matplotlib.pyplot as plt
+
+jobFlow = pd.pivot_table(testSet, index=["city name", "work city"], aggfunc=sum).reset_index()
+jobFlow["log(total jobs)"] = jobFlow["total jobs"].apply(lambda x: math.log(x) + 1)
+jobPlot = jobFlow.loc[jobFlow["city name"] == "Perry, IA"].sort_values("total jobs", ascending=0)
+jobPlot["x"] = jobPlot["work city"].apply(lambda x: lonDict[x])
+jobPlot["y"] = jobPlot["work city"].apply(lambda x: latDict[x])
+
+iowa = shapefile.Reader("tl_2016_19_cousub.shp")
+
+fig = plt.figure(figsize=(75,56))
+ax = fig.add_subplot(111)
+for shape in iowa.shapeRecords():
+    xs = [i[0] for i in shape.shape.points[:]]
+    ys = [i[1] for i in shape.shape.points[:]]
+    plt.plot(xs,ys,c="#aaaaaa")
+
+plt.scatter(jobPlot["x"], jobPlot["y"], s=500*jobPlot["total jobs"], c="#ffaaaa")
+jobPlot.apply(lambda x: ax.annotate(x["work city"], xy=(x["x"],x["y"]), size=20), axis=1)
+plt.savefig("test.png")

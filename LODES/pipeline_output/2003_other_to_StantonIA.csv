@@ -1,0 +1,66 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+52040,"Stanton, IA","Stanton, IA",43,156,77,34,181,61,133,110,33,276,2003
+52036,"Stanton, IA","Red Oak, IA",24,30,7,12,43,6,18,35,8,61,2003
+51991,"Stanton, IA","Clarinda, IA",1,20,1,2,20,0,7,11,4,22,2003
+52030,"Stanton, IA","Nodaway, IA",8,10,3,5,12,4,6,12,3,21,2003
+52011,"Stanton, IA","Grant, IA",8,9,4,5,14,2,12,6,3,21,2003
+52004,"Stanton, IA","Elliott, IA",8,7,3,5,9,4,5,13,0,18,2003
+51996,"Stanton, IA","Corning, IA",5,5,0,0,6,4,4,6,0,10,2003
+52023,"Stanton, IA","Macedonia, IA",1,6,2,1,6,2,4,5,0,9,2003
+52005,"Stanton, IA","Essex, IA",3,5,0,2,6,0,2,6,0,8,2003
+52020,"Stanton, IA","Lewis, IA",2,3,1,1,2,3,5,1,0,6,2003
+52029,"Stanton, IA","New Market, IA",1,4,1,1,5,0,0,5,1,6,2003
+51998,"Stanton, IA","Cromwell, IA",2,3,0,3,2,0,3,2,0,5,2003
+51993,"Stanton, IA","Coburg, IA",1,4,0,2,2,1,2,2,1,5,2003
+52039,"Stanton, IA","Sharpsburg, IA",0,2,2,0,2,2,2,2,0,4,2003
+52007,"Stanton, IA","Garden Grove, IA",1,2,1,1,2,1,1,2,1,4,2003
+52016,"Stanton, IA","Harlan, IA",0,4,0,1,3,0,1,1,2,4,2003
+52027,"Stanton, IA","Moravia, IA",0,4,0,0,4,0,0,4,0,4,2003
+51999,"Stanton, IA","Cumberland, IA",1,2,1,0,1,3,3,1,0,4,2003
+52037,"Stanton, IA","Riverton, IA",0,3,0,0,0,3,0,3,0,3,2003
+51986,"Stanton, IA","Blanchard, IA",1,1,1,1,2,0,0,2,1,3,2003
+52022,"Stanton, IA","Lineville, IA",1,2,0,0,2,1,0,1,2,3,2003
+52010,"Stanton, IA","Grand River, IA",0,2,1,1,1,1,0,1,2,3,2003
+51989,"Stanton, IA","Carson, IA",2,1,0,0,3,0,0,3,0,3,2003
+52033,"Stanton, IA","Ottumwa, IA",1,1,0,0,2,0,0,2,0,2,2003
+52012,"Stanton, IA","Gravity, IA",0,1,1,0,1,1,1,1,0,2,2003
+52017,"Stanton, IA","Kirkman, IA",1,0,1,0,1,1,1,1,0,2,2003
+52018,"Stanton, IA","Le Mars, IA",1,0,1,0,2,0,1,1,0,2,2003
+52031,"Stanton, IA","Orient, IA",0,1,1,0,2,0,1,1,0,2,2003
+52045,"Stanton, IA","Windsor Heights, IA",1,1,0,0,2,0,1,1,0,2,2003
+52003,"Stanton, IA","Eddyville, IA",2,0,0,0,2,0,2,0,0,2,2003
+52002,"Stanton, IA","Diagonal, IA",2,0,0,1,0,1,0,1,1,2,2003
+51997,"Stanton, IA","Council Bluffs, IA",2,0,0,0,2,0,0,2,0,2,2003
+51992,"Stanton, IA","Clearfield, IA",1,1,0,2,0,0,0,2,0,2,2003
+51987,"Stanton, IA","Braddyville, IA",1,1,0,1,1,0,0,2,0,2,2003
+52044,"Stanton, IA","Webster City, IA",1,0,1,0,2,0,2,0,0,2,2003
+51984,"Stanton, IA","Bedford, IA",0,1,1,0,2,0,1,1,0,2,2003
+51983,"Stanton, IA","Audubon, IA",0,2,0,0,2,0,0,2,0,2,2003
+52035,"Stanton, IA","Pleasanton, IA",0,1,0,1,0,0,0,0,1,1,2003
+52034,"Stanton, IA","Perry, IA",0,1,0,0,1,0,0,1,0,1,2003
+52038,"Stanton, IA","Schleswig, IA",0,1,0,0,1,0,1,0,0,1,2003
+52032,"Stanton, IA","Otho, IA",0,1,0,0,1,0,0,1,0,1,2003
+52041,"Stanton, IA","Stuart, IA",0,1,0,0,1,0,1,0,0,1,2003
+52042,"Stanton, IA","Urbandale, IA",0,1,0,0,1,0,0,0,1,1,2003
+52043,"Stanton, IA","Waukee, IA",0,1,0,0,1,0,0,0,1,1,2003
+52028,"Stanton, IA","Morley, IA",1,0,0,0,1,0,1,0,0,1,2003
+51981,"Stanton, IA","Albia, IA",0,1,0,0,1,0,0,1,0,1,2003
+52026,"Stanton, IA","Mitchellville, IA",0,0,1,0,1,0,0,1,0,1,2003
+52006,"Stanton, IA","Estherville, IA",1,0,0,0,1,0,1,0,0,1,2003
+51985,"Stanton, IA","Birmingham, IA",0,1,0,0,1,0,0,1,0,1,2003
+51988,"Stanton, IA","Carlisle, IA",0,0,1,0,1,0,0,1,0,1,2003
+51990,"Stanton, IA","Cedar Rapids, IA",1,0,0,0,1,0,1,0,0,1,2003
+51994,"Stanton, IA","Colfax, IA",0,0,1,0,1,0,1,0,0,1,2003
+51995,"Stanton, IA","Colo, IA",1,0,0,0,1,0,1,0,0,1,2003
+52000,"Stanton, IA","Danbury, IA",0,1,0,0,1,0,1,0,0,1,2003
+52001,"Stanton, IA","Des Moines, IA",1,0,0,0,1,0,1,0,0,1,2003
+52008,"Stanton, IA","Glenwood, IA",1,0,0,0,1,0,1,0,0,1,2003
+52025,"Stanton, IA","Millerton, IA",0,1,0,0,1,0,0,1,0,1,2003
+52009,"Stanton, IA","Glidden, IA",0,0,1,0,0,1,0,0,1,1,2003
+51982,"Stanton, IA","Ames, IA",0,0,1,0,1,0,0,1,0,1,2003
+52014,"Stanton, IA","Grinnell, IA",1,0,0,0,1,0,1,0,0,1,2003
+52015,"Stanton, IA","Hamburg, IA",0,1,0,0,0,1,1,0,0,1,2003
+52019,"Stanton, IA","Lenox, IA",1,0,0,1,0,0,0,1,0,1,2003
+52021,"Stanton, IA","Lidderdale, IA",0,1,0,1,0,0,0,0,1,1,2003
+52024,"Stanton, IA","Manning, IA",0,1,0,0,1,0,0,1,0,1,2003
+52013,"Stanton, IA","Greenfield, IA",1,0,0,0,1,0,1,0,0,1,2003

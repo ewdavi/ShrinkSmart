@@ -1,0 +1,64 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+29267,"Garnavillo, IA","Elkader, IA",17,20,17,25,28,1,17,15,22,54,2014
+29273,"Garnavillo, IA","Garnavillo, IA",9,23,12,18,23,3,13,21,10,44,2014
+29304,"Garnavillo, IA","St. Olaf, IA",9,18,7,17,15,2,11,11,12,34,2014
+29276,"Garnavillo, IA","Guttenberg, IA",4,12,6,5,16,1,9,8,5,22,2014
+29306,"Garnavillo, IA","Strawberry Point, IA",1,12,4,7,8,2,2,5,10,17,2014
+29268,"Garnavillo, IA","Elkport, IA",4,12,1,10,6,1,2,5,10,17,2014
+29287,"Garnavillo, IA","Marquette, IA",2,14,0,12,4,0,3,5,8,16,2014
+29284,"Garnavillo, IA","Luana, IA",5,4,2,8,3,0,1,3,7,11,2014
+29291,"Garnavillo, IA","Monona, IA",6,2,2,7,3,0,2,1,7,10,2014
+29290,"Garnavillo, IA","Millville, IA",1,7,2,4,6,0,4,2,4,10,2014
+29262,"Garnavillo, IA","Decorah, IA",4,3,2,5,4,0,4,2,3,9,2014
+29312,"Garnavillo, IA","West Union, IA",3,4,0,6,1,0,0,1,6,7,2014
+29277,"Garnavillo, IA","Harpers Ferry, IA",2,2,3,2,4,1,0,4,3,7,2014
+29271,"Garnavillo, IA","Fayette, IA",2,2,2,3,2,1,0,4,2,6,2014
+29308,"Garnavillo, IA","Wadena, IA",2,2,2,1,5,0,1,2,3,6,2014
+29263,"Garnavillo, IA","Dubuque, IA",1,5,0,1,3,2,1,3,2,6,2014
+29270,"Garnavillo, IA","Farmersburg, IA",0,3,2,3,2,0,1,0,4,5,2014
+29285,"Garnavillo, IA","Manchester, IA",0,4,0,1,3,0,2,0,2,4,2014
+29299,"Garnavillo, IA","Readlyn, IA",2,1,0,2,0,1,0,2,1,3,2014
+29305,"Garnavillo, IA","Stanley, IA",2,1,0,3,0,0,0,3,0,3,2014
+29272,"Garnavillo, IA","Fort Atkinson, IA",1,1,1,2,1,0,0,1,2,3,2014
+29257,"Garnavillo, IA","Castalia, IA",0,2,0,1,1,0,0,1,1,2,2014
+29298,"Garnavillo, IA","Randalia, IA",0,1,1,1,1,0,0,2,0,2,2014
+29265,"Garnavillo, IA","Edgewood, IA",0,1,1,1,1,0,0,0,2,2,2014
+29256,"Garnavillo, IA","Cascade, IA",0,2,0,0,2,0,2,0,0,2,2014
+29264,"Garnavillo, IA","Dyersville, IA",0,2,0,1,1,0,0,2,0,2,2014
+29253,"Garnavillo, IA","Asbury, IA",1,1,0,2,0,0,0,1,1,2,2014
+29311,"Garnavillo, IA","Waukon, IA",1,1,0,0,1,1,0,1,1,2,2014
+29293,"Garnavillo, IA","Oelwein, IA",0,1,1,1,1,0,1,1,0,2,2014
+29260,"Garnavillo, IA","Coralville, IA",0,2,0,1,1,0,0,1,1,2,2014
+29261,"Garnavillo, IA","Cresco, IA",1,1,0,1,1,0,1,0,1,2,2014
+29286,"Garnavillo, IA","Maquoketa, IA",0,2,0,2,0,0,0,0,2,2,2014
+29295,"Garnavillo, IA","Parkersburg, IA",0,1,0,0,1,0,1,0,0,1,2014
+29296,"Garnavillo, IA","Peosta, IA",0,1,0,0,1,0,0,0,1,1,2014
+29310,"Garnavillo, IA","Waukee, IA",0,1,0,1,0,0,0,0,1,1,2014
+29302,"Garnavillo, IA","Sageville, IA",0,1,0,1,0,0,0,0,1,1,2014
+29309,"Garnavillo, IA","Wall Lake, IA",0,0,1,0,1,0,1,0,0,1,2014
+29297,"Garnavillo, IA","Protivin, IA",0,0,1,0,1,0,1,0,0,1,2014
+29300,"Garnavillo, IA","Reinbeck, IA",0,1,0,1,0,0,0,0,1,1,2014
+29301,"Garnavillo, IA","Ridgeway, IA",0,1,0,0,1,0,0,1,0,1,2014
+29303,"Garnavillo, IA","St. Marys, IA",1,0,0,0,1,0,0,1,0,1,2014
+29307,"Garnavillo, IA","Tiffin, IA",0,1,0,0,1,0,0,1,0,1,2014
+29294,"Garnavillo, IA","Ottumwa, IA",0,1,0,1,0,0,0,0,1,1,2014
+29250,"Garnavillo, IA","Anamosa, IA",0,1,0,1,0,0,0,1,0,1,2014
+29292,"Garnavillo, IA","New Hampton, IA",1,0,0,0,0,1,0,1,0,1,2014
+29274,"Garnavillo, IA","Garwin, IA",0,1,0,0,1,0,0,1,0,1,2014
+29252,"Garnavillo, IA","Arlington, IA",0,1,0,0,1,0,0,0,1,1,2014
+29254,"Garnavillo, IA","Bellevue, IA",0,1,0,0,1,0,1,0,0,1,2014
+29255,"Garnavillo, IA","Burlington, IA",0,0,1,0,1,0,0,0,1,1,2014
+29258,"Garnavillo, IA","Center Junction, IA",0,1,0,0,1,0,0,0,1,1,2014
+29259,"Garnavillo, IA","Center Point, IA",0,1,0,1,0,0,0,0,1,1,2014
+29266,"Garnavillo, IA","Elgin, IA",0,0,1,0,0,1,0,0,1,1,2014
+29269,"Garnavillo, IA","Epworth, IA",1,0,0,1,0,0,0,0,1,1,2014
+29275,"Garnavillo, IA","Glenwood, IA",1,0,0,1,0,0,0,0,1,1,2014
+29289,"Garnavillo, IA","McIntire, IA",0,0,1,1,0,0,0,1,0,1,2014
+29278,"Garnavillo, IA","Hawkeye, IA",0,1,0,1,0,0,0,0,1,1,2014
+29279,"Garnavillo, IA","Ionia, IA",0,1,0,0,1,0,0,0,1,1,2014
+29280,"Garnavillo, IA","Iowa Falls, IA",0,0,1,0,0,1,1,0,0,1,2014
+29251,"Garnavillo, IA","Andrew, IA",0,0,1,1,0,0,0,1,0,1,2014
+29282,"Garnavillo, IA","Lenox, IA",0,1,0,1,0,0,0,0,1,1,2014
+29283,"Garnavillo, IA","Lime Springs, IA",0,0,1,0,1,0,1,0,0,1,2014
+29288,"Garnavillo, IA","Marshalltown, IA",0,1,0,0,1,0,0,1,0,1,2014
+29281,"Garnavillo, IA","Janesville, IA",0,1,0,1,0,0,0,0,1,1,2014

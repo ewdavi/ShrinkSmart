@@ -1,0 +1,509 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+20679,"Des Moines, IA","Des Moines, IA",5364,12695,4912,2847,17267,2857,5024,9308,8639,22971,2014
+20573,"Des Moines, IA","Ankeny, IA",1667,5932,1713,854,7385,1073,1127,2116,6069,9312,2014
+20922,"Des Moines, IA","Pleasant Hill, IA",1596,4512,1599,1032,5519,1156,1202,2756,3749,7707,2014
+21054,"Des Moines, IA","Windsor Heights, IA",1330,4046,1833,480,5974,755,1127,2079,4003,7209,2014
+20643,"Des Moines, IA","Clive, IA",1383,3980,1470,329,5954,550,799,1407,4627,6833,2014
+21018,"Des Moines, IA","Urbandale, IA",1075,3748,1500,513,5163,647,921,1506,3896,6323,2014
+21044,"Des Moines, IA","West Des Moines, IA",1093,2691,1275,340,4200,519,813,1474,2772,5059,2014
+21033,"Des Moines, IA","Waukee, IA",790,2891,569,193,3669,388,413,839,2998,4250,2014
+20893,"Des Moines, IA","Norwalk, IA",758,2151,712,375,2796,450,657,1255,1709,3621,2014
+20568,"Des Moines, IA","Altoona, IA",536,2269,755,394,2651,515,506,989,2065,3560,2014
+20785,"Des Moines, IA","Johnston, IA",535,1717,619,235,2323,313,443,756,1672,2871,2014
+20619,"Des Moines, IA","Carlisle, IA",343,1333,468,214,1654,276,321,620,1203,2144,2014
+20776,"Des Moines, IA","Indianola, IA",255,967,353,176,1220,179,247,464,864,1575,2014
+20569,"Des Moines, IA","Ames, IA",450,689,260,83,1121,195,383,391,625,1399,2014
+20747,"Des Moines, IA","Grimes, IA",231,816,193,100,1028,112,121,260,859,1240,2014
+20927,"Des Moines, IA","Polk City, IA",127,622,189,81,733,124,124,188,626,938,2014
+20606,"Des Moines, IA","Bondurant, IA",135,469,78,61,551,70,72,195,415,682,2014
+20985,"Des Moines, IA","Spring Hill, IA",101,387,188,68,512,96,87,155,434,676,2014
+20857,"Des Moines, IA","Mitchellville, IA",92,420,159,88,500,83,68,164,439,671,2014
+20670,"Des Moines, IA","De Soto, IA",105,410,141,61,526,69,93,162,401,656,2014
+20886,"Des Moines, IA","Newton, IA",114,340,128,62,423,97,135,224,223,582,2014
+20795,"Des Moines, IA","Knoxville, IA",118,325,106,72,392,85,114,146,289,549,2014
+20627,"Des Moines, IA","Cedar Rapids, IA",141,293,106,39,370,131,150,143,247,540,2014
+20825,"Des Moines, IA","Madrid, IA",94,325,103,66,377,79,74,124,324,522,2014
+20742,"Des Moines, IA","Granger, IA",82,330,78,45,405,40,61,95,334,490,2014
+20988,"Des Moines, IA","St. Marys, IA",51,306,109,61,359,46,54,87,325,466,2014
+20836,"Des Moines, IA","Marshalltown, IA",128,241,89,35,297,126,130,152,176,458,2014
+20772,"Des Moines, IA","Huxley, IA",69,264,82,42,300,73,49,104,262,415,2014
+20607,"Des Moines, IA","Boone, IA",85,212,111,34,312,62,81,134,193,408,2014
+20904,"Des Moines, IA","Ottumwa, IA",96,221,62,46,244,89,108,131,140,379,2014
+20657,"Des Moines, IA","Council Bluffs, IA",111,161,97,33,244,92,90,145,134,369,2014
+21031,"Des Moines, IA","Waterloo, IA",104,197,61,15,278,69,81,143,138,362,2014
+20556,"Des Moines, IA","Ackworth, IA",44,224,89,61,254,42,35,92,230,357,2014
+20669,"Des Moines, IA","Davenport, IA",88,203,58,24,222,103,96,113,140,349,2014
+20978,"Des Moines, IA","Sioux City, IA",64,212,71,44,207,96,72,118,157,347,2014
+20955,"Des Moines, IA","Runnells, IA",44,205,91,40,253,47,42,90,208,340,2014
+20647,"Des Moines, IA","Colfax, IA",49,212,69,32,255,43,35,78,217,330,2014
+20916,"Des Moines, IA","Patterson, IA",32,202,84,57,228,33,50,57,211,318,2014
+21002,"Des Moines, IA","Swan, IA",53,170,81,30,241,33,41,97,166,304,2014
+20680,"Des Moines, IA","Dexter, IA",43,184,76,32,228,43,33,76,194,303,2014
+20617,"Des Moines, IA","Cambridge, IA",39,192,65,40,194,62,24,79,193,296,2014
+20626,"Des Moines, IA","Cedar Falls, IA",79,147,54,7,210,63,61,99,120,280,2014
+20778,"Des Moines, IA","Iowa City, IA",86,138,56,14,183,83,58,94,128,280,2014
+21056,"Des Moines, IA","Winterset, IA",65,174,33,22,212,38,40,85,147,272,2014
+20722,"Des Moines, IA","Fort Dodge, IA",64,126,76,22,183,61,65,90,111,266,2014
+20666,"Des Moines, IA","Dallas Center, IA",34,181,49,23,206,35,28,51,185,264,2014
+20902,"Des Moines, IA","Osceola, IA",48,163,52,36,195,32,46,93,124,263,2014
+20919,"Des Moines, IA","Perry, IA",78,139,46,30,191,42,62,78,123,263,2014
+20879,"Des Moines, IA","Nevada, IA",43,169,47,27,197,35,47,60,152,259,2014
+20839,"Des Moines, IA","Mason City, IA",63,129,54,11,180,55,55,81,110,246,2014
+20558,"Des Moines, IA","Adel, IA",23,163,52,26,196,16,31,46,161,238,2014
+20949,"Des Moines, IA","Robins, IA",51,141,45,17,160,60,49,79,109,237,2014
+20930,"Des Moines, IA","Prairie City, IA",35,157,45,24,181,32,23,69,145,237,2014
+21020,"Des Moines, IA","Van Meter, IA",32,129,68,25,184,20,39,57,133,229,2014
+20768,"Des Moines, IA","Hiawatha, IA",57,127,35,16,150,53,60,64,95,219,2014
+20846,"Des Moines, IA","Melcher-Dallas, IA",38,132,36,26,152,28,22,75,109,206,2014
+20691,"Des Moines, IA","East Peru, IA",34,140,27,48,130,23,26,59,116,201,2014
+20918,"Des Moines, IA","Pella, IA",61,93,46,8,161,31,46,57,97,200,2014
+20687,"Des Moines, IA","Dubuque, IA",54,102,36,12,103,77,37,53,102,192,2014
+20598,"Des Moines, IA","Bettendorf, IA",40,108,42,16,124,50,47,51,92,190,2014
+20591,"Des Moines, IA","Baxter, IA",24,124,36,29,126,29,13,44,127,184,2014
+20939,"Des Moines, IA","Reasnor, IA",28,106,39,31,123,19,20,51,102,173,2014
+20860,"Des Moines, IA","Monroe, IA",41,102,30,29,130,14,20,47,106,173,2014
+20761,"Des Moines, IA","Harvey, IA",39,101,30,25,126,19,19,42,109,170,2014
+20853,"Des Moines, IA","Minburn, IA",30,102,33,19,125,21,21,59,85,165,2014
+20903,"Des Moines, IA","Oskaloosa, IA",46,87,31,10,122,32,47,47,70,164,2014
+20925,"Des Moines, IA","Pleasantville, IA",30,96,34,24,108,28,21,47,92,160,2014
+20614,"Des Moines, IA","Burlington, IA",38,87,24,20,97,32,28,51,70,149,2014
+20796,"Des Moines, IA","Lacona, IA",22,104,21,23,106,18,28,33,86,147,2014
+20662,"Des Moines, IA","Creston, IA",34,81,29,11,96,37,33,54,57,144,2014
+20748,"Des Moines, IA","Grinnell, IA",36,82,24,3,113,26,43,29,70,142,2014
+20632,"Des Moines, IA","Chariton, IA",40,68,32,20,74,46,47,41,52,140,2014
+20648,"Des Moines, IA","Colo, IA",33,77,29,25,95,19,13,47,79,139,2014
+20812,"Des Moines, IA","Linden, IA",32,69,35,18,93,25,30,31,75,136,2014
+21058,"Des Moines, IA","Woodward, IA",19,88,26,7,109,17,17,19,97,133,2014
+20979,"Des Moines, IA","Slater, IA",21,82,22,11,95,19,15,29,81,125,2014
+20562,"Des Moines, IA","Albia, IA",23,65,36,13,93,18,20,35,69,124,2014
+20897,"Des Moines, IA","Ogden, IA",16,76,29,7,94,20,25,39,57,121,2014
+20944,"Des Moines, IA","Rhodes, IA",20,78,22,13,73,34,17,37,66,120,2014
+20641,"Des Moines, IA","Clinton, IA",24,67,27,12,65,41,19,34,65,118,2014
+20996,"Des Moines, IA","Story City, IA",19,68,31,9,85,24,16,35,67,118,2014
+20630,"Des Moines, IA","Centerville, IA",45,51,18,12,96,6,37,43,34,114,2014
+20799,"Des Moines, IA","Lambs Grove, IA",15,65,33,15,86,12,23,32,58,113,2014
+20620,"Des Moines, IA","Carroll, IA",26,50,27,7,75,21,20,20,63,103,2014
+20962,"Des Moines, IA","Sandyville, IA",15,59,26,24,63,13,16,17,67,100,2014
+20876,"Des Moines, IA","Muscatine, IA",28,49,22,8,69,22,28,27,44,99,2014
+20824,"Des Moines, IA","Macksburg, IA",22,60,10,25,50,17,14,28,50,92,2014
+20805,"Des Moines, IA","Le Mars, IA",14,45,31,8,61,21,19,20,51,90,2014
+20622,"Des Moines, IA","Carter Lake, IA",20,54,16,8,55,27,18,38,34,90,2014
+20788,"Des Moines, IA","Kellogg, IA",10,50,28,14,57,17,14,20,54,88,2014
+20840,"Des Moines, IA","Maxwell, IA",10,58,19,12,58,17,8,23,56,87,2014
+21016,"Des Moines, IA","University Park, IA",27,50,9,7,64,15,25,22,39,86,2014
+20956,"Des Moines, IA","Russell, IA",17,49,20,8,53,25,15,29,42,86,2014
+20806,"Des Moines, IA","Le Roy, IA",6,63,17,15,60,11,17,20,49,86,2014
+20677,"Des Moines, IA","Denison, IA",17,50,14,10,53,18,16,25,40,81,2014
+20746,"Des Moines, IA","Greenfield, IA",16,51,10,5,67,5,13,21,43,77,2014
+21037,"Des Moines, IA","Webster City, IA",21,40,16,4,55,18,20,27,30,77,2014
+20653,"Des Moines, IA","Coralville, IA",37,25,13,2,56,17,23,30,22,75,2014
+20884,"Des Moines, IA","New Sharon, IA",15,37,23,10,50,15,14,27,34,75,2014
+21006,"Des Moines, IA","Tiffin, IA",23,36,14,3,50,20,20,20,33,73,2014
+20578,"Des Moines, IA","Asbury, IA",13,38,21,2,42,28,14,23,35,72,2014
+21030,"Des Moines, IA","Washington, IA",11,38,22,2,56,13,29,17,25,71,2014
+21027,"Des Moines, IA","Wall Lake, IA",9,42,20,8,45,18,7,20,44,71,2014
+20942,"Des Moines, IA","Redfield, IA",10,34,25,8,50,11,14,17,38,69,2014
+21017,"Des Moines, IA","Urbana, IA",17,44,8,11,31,27,13,24,32,69,2014
+20642,"Des Moines, IA","Clio, IA",15,38,15,7,34,27,11,22,35,68,2014
+20891,"Des Moines, IA","North Liberty, IA",20,31,16,4,49,14,14,21,32,67,2014
+20990,"Des Moines, IA","Stanhope, IA",20,33,14,2,55,10,18,21,28,67,2014
+20779,"Des Moines, IA","Iowa Falls, IA",17,29,21,8,48,11,15,20,32,67,2014
+20736,"Des Moines, IA","Gilman, IA",11,33,22,12,41,13,8,24,34,66,2014
+20868,"Des Moines, IA","Moulton, IA",12,41,12,13,48,4,12,13,40,65,2014
+20848,"Des Moines, IA","Merrill, IA",17,34,13,5,47,12,10,27,27,64,2014
+20624,"Des Moines, IA","Casey, IA",12,36,14,6,40,16,9,19,34,62,2014
+20789,"Des Moines, IA","Keokuk, IA",16,28,17,6,42,13,20,22,19,61,2014
+20823,"Des Moines, IA","Lynnville, IA",15,29,17,7,45,9,13,19,29,61,2014
+21023,"Des Moines, IA","Vinton, IA",14,30,17,5,36,20,9,24,28,61,2014
+20851,"Des Moines, IA","Millerton, IA",15,31,14,9,39,12,10,13,37,60,2014
+20948,"Des Moines, IA","Riverside, IA",8,39,13,3,39,18,12,17,31,60,2014
+21015,"Des Moines, IA","University Heights, IA",19,30,11,1,47,12,17,14,29,60,2014
+20965,"Des Moines, IA","Sergeant Bluff, IA",12,33,15,4,43,13,15,12,33,60,2014
+20814,"Des Moines, IA","Liscomb, IA",9,41,9,4,41,14,12,20,27,59,2014
+20601,"Des Moines, IA","Blakesburg, IA",12,32,14,8,35,15,10,17,31,58,2014
+20597,"Des Moines, IA","Bertram, IA",13,37,8,3,45,10,14,22,22,58,2014
+20822,"Des Moines, IA","Luther, IA",12,34,12,15,38,5,13,15,30,58,2014
+20734,"Des Moines, IA","Gilbert, IA",15,32,10,1,48,8,12,14,31,57,2014
+20710,"Des Moines, IA","Fairfield, IA",10,31,16,3,48,6,15,17,25,57,2014
+20559,"Des Moines, IA","Afton, IA",13,33,10,12,34,10,15,15,26,56,2014
+20800,"Des Moines, IA","Lamoni, IA",15,34,7,4,40,12,18,17,21,56,2014
+20672,"Des Moines, IA","Decorah, IA",16,31,9,5,36,15,9,21,26,56,2014
+20771,"Des Moines, IA","Humboldt, IA",14,31,11,1,44,11,13,21,22,56,2014
+20709,"Des Moines, IA","Fairfax, IA",18,26,10,4,39,11,14,17,23,54,2014
+20801,"Des Moines, IA","Larrabee, IA",13,29,12,3,39,12,12,16,26,54,2014
+21009,"Des Moines, IA","Toledo, IA",15,32,6,3,37,13,20,17,16,53,2014
+20870,"Des Moines, IA","Mount Ayr, IA",15,25,9,8,35,6,11,18,20,49,2014
+20565,"Des Moines, IA","Algona, IA",8,31,9,0,39,9,5,17,26,48,2014
+20875,"Des Moines, IA","Murray, IA",5,34,9,17,29,2,4,15,29,48,2014
+20692,"Des Moines, IA","Eddyville, IA",7,26,15,4,35,9,4,16,28,48,2014
+20865,"Des Moines, IA","Moravia, IA",6,24,17,4,33,10,7,14,26,47,2014
+20808,"Des Moines, IA","Leon, IA",19,23,5,0,40,7,14,19,14,47,2014
+20900,"Des Moines, IA","Orient, IA",17,17,13,11,30,6,11,15,21,47,2014
+20954,"Des Moines, IA","Roland, IA",16,20,11,6,33,8,15,10,22,47,2014
+20928,"Des Moines, IA","Pomeroy, IA",11,28,8,2,36,9,11,19,17,47,2014
+21035,"Des Moines, IA","Waverly, IA",12,26,8,1,34,11,12,12,22,46,2014
+20834,"Des Moines, IA","Marengo, IA",12,27,6,5,30,10,11,14,20,45,2014
+20873,"Des Moines, IA","Mount Vernon, IA",9,28,7,5,25,14,10,8,26,44,2014
+20717,"Des Moines, IA","Ferguson, IA",9,25,10,6,30,8,8,14,22,44,2014
+20832,"Des Moines, IA","Maquoketa, IA",14,22,8,6,21,17,9,11,24,44,2014
+20560,"Des Moines, IA","Agency, IA",10,28,6,3,25,16,11,15,18,44,2014
+20633,"Des Moines, IA","Charles City, IA",12,24,8,1,34,9,11,17,16,44,2014
+20693,"Des Moines, IA","Elberon, IA",6,26,11,3,26,14,6,17,20,43,2014
+20775,"Des Moines, IA","Independence, IA",11,23,9,2,32,9,12,18,13,43,2014
+20911,"Des Moines, IA","Palo, IA",13,24,5,5,27,10,13,16,13,42,2014
+20751,"Des Moines, IA","Guthrie Center, IA",10,21,11,4,31,7,9,7,26,42,2014
+20705,"Des Moines, IA","Evansdale, IA",9,28,5,1,32,9,7,9,26,42,2014
+20937,"Des Moines, IA","Raymond, IA",8,29,4,1,27,13,13,12,16,41,2014
+20827,"Des Moines, IA","Manchester, IA",6,23,12,3,21,17,5,12,24,41,2014
+20809,"Des Moines, IA","Lewis, IA",7,22,12,4,29,8,10,13,18,41,2014
+20701,"Des Moines, IA","Ely, IA",13,16,12,2,29,10,9,11,21,41,2014
+20611,"Des Moines, IA","Britt, IA",9,19,13,2,33,6,11,14,16,41,2014
+20557,"Des Moines, IA","Adair, IA",5,25,10,7,26,7,4,11,25,40,2014
+20943,"Des Moines, IA","Reinbeck, IA",6,28,6,1,33,6,3,20,17,40,2014
+20726,"Des Moines, IA","Fraser, IA",8,22,10,1,33,6,10,13,17,40,2014
+20983,"Des Moines, IA","Spencer, IA",7,23,9,4,25,10,8,8,23,39,2014
+20723,"Des Moines, IA","Fort Madison, IA",11,21,7,4,26,9,7,13,19,39,2014
+20581,"Des Moines, IA","Atlantic, IA",9,22,8,3,29,7,7,19,13,39,2014
+20636,"Des Moines, IA","Cincinnati, IA",7,25,6,7,21,10,10,15,13,38,2014
+20593,"Des Moines, IA","Belle Plaine, IA",8,28,2,4,26,8,7,14,17,38,2014
+20963,"Des Moines, IA","Schaller, IA",7,19,12,3,22,13,5,7,26,38,2014
+20960,"Des Moines, IA","Sageville, IA",9,22,7,1,20,17,4,15,19,38,2014
+20972,"Des Moines, IA","Shueyville, IA",9,23,5,3,25,9,9,8,20,37,2014
+20637,"Des Moines, IA","Clarinda, IA",6,20,11,1,29,7,11,15,11,37,2014
+20757,"Des Moines, IA","Harlan, IA",12,16,9,3,29,5,10,15,12,37,2014
+20603,"Des Moines, IA","Bloomfield, IA",3,26,8,9,22,6,8,8,21,37,2014
+20629,"Des Moines, IA","Center Point, IA",9,18,9,3,24,9,11,5,20,36,2014
+20615,"Des Moines, IA","Bussey, IA",11,14,11,1,25,10,13,9,14,36,2014
+20883,"Des Moines, IA","New London, IA",8,17,11,4,23,9,8,8,20,36,2014
+21004,"Des Moines, IA","Tama, IA",12,15,8,5,22,8,10,12,13,35,2014
+21025,"Des Moines, IA","Walford, IA",9,20,6,1,26,8,7,7,21,35,2014
+20869,"Des Moines, IA","Mount Auburn, IA",10,20,5,0,25,10,7,14,14,35,2014
+20818,"Des Moines, IA","Lone Tree, IA",8,22,5,0,28,7,8,8,19,35,2014
+20743,"Des Moines, IA","Grant, IA",4,21,10,1,25,9,5,13,17,35,2014
+20858,"Des Moines, IA","Mondamin, IA",11,15,9,1,25,9,13,10,12,35,2014
+20639,"Des Moines, IA","Clear Lake, IA",11,15,8,3,25,6,13,9,12,34,2014
+20989,"Des Moines, IA","Stacyville, IA",7,18,9,2,24,8,5,14,15,34,2014
+20582,"Des Moines, IA","Audubon, IA",6,24,4,2,25,7,9,7,18,34,2014
+20914,"Des Moines, IA","Parkersburg, IA",8,23,3,2,26,6,7,13,14,34,2014
+20583,"Des Moines, IA","Aurelia, IA",7,21,6,1,23,10,10,8,16,34,2014
+20563,"Des Moines, IA","Albion, IA",7,23,4,2,26,6,7,7,20,34,2014
+20656,"Des Moines, IA","Corydon, IA",6,17,11,5,22,7,6,11,17,34,2014
+20871,"Des Moines, IA","Mount Pleasant, IA",12,17,4,3,23,7,7,17,9,33,2014
+20567,"Des Moines, IA","Alton, IA",8,14,11,7,20,6,5,11,17,33,2014
+20838,"Des Moines, IA","Marysville, IA",6,20,6,7,21,4,4,7,21,32,2014
+20604,"Des Moines, IA","Blue Grass, IA",7,20,5,1,21,10,7,10,15,32,2014
+20862,"Des Moines, IA","Monticello, IA",7,18,7,3,23,6,11,12,9,32,2014
+20564,"Des Moines, IA","Alden, IA",7,17,8,5,16,11,7,12,13,32,2014
+20810,"Des Moines, IA","Lidderdale, IA",6,19,7,4,21,7,6,10,16,32,2014
+20784,"Des Moines, IA","Jewell Junction, IA",8,18,6,3,19,10,10,11,11,32,2014
+20706,"Des Moines, IA","Exira, IA",6,15,10,3,26,2,10,3,18,31,2014
+20940,"Des Moines, IA","Red Oak, IA",9,13,9,4,19,8,8,12,11,31,2014
+20936,"Des Moines, IA","Rathbun, IA",14,12,5,1,29,1,9,16,6,31,2014
+20798,"Des Moines, IA","Lake Mills, IA",7,19,5,2,19,10,5,11,15,31,2014
+20596,"Des Moines, IA","Bennett, IA",8,12,11,3,16,12,7,8,16,31,2014
+20997,"Des Moines, IA","Stratford, IA",7,18,5,3,21,6,9,7,14,30,2014
+20908,"Des Moines, IA","Oyens, IA",8,15,7,1,19,10,9,8,13,30,2014
+20803,"Des Moines, IA","Le Claire, IA",6,19,5,5,17,8,9,7,14,30,2014
+20731,"Des Moines, IA","Garwin, IA",13,13,4,0,21,9,8,8,14,30,2014
+20782,"Des Moines, IA","Jefferson, IA",8,16,5,3,15,11,6,3,20,29,2014
+20819,"Des Moines, IA","Long Grove, IA",6,15,8,1,18,10,10,4,15,29,2014
+20595,"Des Moines, IA","Belmond, IA",10,15,4,1,21,7,11,6,12,29,2014
+20730,"Des Moines, IA","Garner, IA",7,15,7,0,26,3,5,11,13,29,2014
+20881,"Des Moines, IA","New Hampton, IA",5,19,5,4,20,5,9,10,10,29,2014
+20616,"Des Moines, IA","Camanche, IA",3,16,9,2,14,12,7,4,17,28,2014
+20695,"Des Moines, IA","Eldora, IA",14,9,5,3,12,13,8,10,10,28,2014
+20909,"Des Moines, IA","Pacific Junction, IA",7,16,5,1,20,7,10,6,12,28,2014
+20905,"Des Moines, IA","Owasa, IA",12,11,5,4,18,6,11,11,6,28,2014
+20763,"Des Moines, IA","Haverhill, IA",5,17,6,4,17,7,7,5,16,28,2014
+20971,"Des Moines, IA","Shenandoah, IA",9,14,5,3,21,4,8,10,10,28,2014
+20671,"Des Moines, IA","De Witt, IA",8,16,4,1,18,9,6,8,14,28,2014
+20737,"Des Moines, IA","Glenwood, IA",6,12,9,3,15,9,5,10,12,27,2014
+20804,"Des Moines, IA","Le Grand, IA",2,20,5,1,17,9,7,8,12,27,2014
+20995,"Des Moines, IA","Storm Lake, IA",9,16,2,6,17,4,9,7,11,27,2014
+20959,"Des Moines, IA","Sac City, IA",6,7,14,3,20,4,4,11,12,27,2014
+20813,"Des Moines, IA","Lineville, IA",6,16,5,8,18,1,5,9,13,27,2014
+20855,"Des Moines, IA","Missouri Valley, IA",11,9,6,1,20,5,9,9,8,26,2014
+20592,"Des Moines, IA","Bedford, IA",8,15,3,3,20,3,8,10,8,26,2014
+20696,"Des Moines, IA","Eldridge, IA",5,14,7,1,19,6,7,3,16,26,2014
+20899,"Des Moines, IA","Orange City, IA",6,13,7,0,12,14,7,6,13,26,2014
+20754,"Des Moines, IA","Hampton, IA",6,16,4,2,18,6,6,9,11,26,2014
+20947,"Des Moines, IA","Riverdale, IA",5,13,8,4,19,3,5,7,14,26,2014
+20698,"Des Moines, IA","Elk Run Heights, IA",4,13,9,0,21,5,5,8,13,26,2014
+20874,"Des Moines, IA","Moville, IA",3,19,4,3,15,8,2,8,16,26,2014
+20845,"Des Moines, IA","Melbourne, IA",7,13,6,1,19,6,4,4,18,26,2014
+20892,"Des Moines, IA","Northwood, IA",7,9,10,2,22,2,10,5,11,26,2014
+20580,"Des Moines, IA","Atkins, IA",5,16,5,3,12,11,9,4,13,26,2014
+20843,"Des Moines, IA","McIntire, IA",6,16,4,2,18,6,8,6,12,26,2014
+20729,"Des Moines, IA","Garden Grove, IA",5,12,8,3,18,4,3,10,12,25,2014
+20924,"Des Moines, IA","Pleasanton, IA",5,15,5,6,17,2,6,6,13,25,2014
+21003,"Des Moines, IA","Swea City, IA",8,14,3,1,17,7,4,11,10,25,2014
+20681,"Des Moines, IA","Diagonal, IA",5,16,4,6,16,3,3,8,14,25,2014
+20830,"Des Moines, IA","Manson, IA",9,6,10,0,20,5,8,8,9,25,2014
+20967,"Des Moines, IA","Shannon City, IA",6,14,5,3,19,3,4,9,12,25,2014
+20689,"Des Moines, IA","Dysart, IA",4,15,6,3,19,3,2,8,15,25,2014
+20714,"Des Moines, IA","Farnhamville, IA",4,15,5,0,19,5,8,10,6,24,2014
+20773,"Des Moines, IA","Ida Grove, IA",7,12,5,3,18,3,5,6,13,24,2014
+20684,"Des Moines, IA","Donnellson, IA",6,15,3,1,16,7,5,6,13,24,2014
+20628,"Des Moines, IA","Center Junction, IA",1,17,6,1,15,8,2,8,14,24,2014
+20613,"Des Moines, IA","Buffalo, IA",2,16,6,1,17,6,3,2,19,24,2014
+20952,"Des Moines, IA","Rockwell, IA",5,12,7,1,19,4,2,6,16,24,2014
+20727,"Des Moines, IA","Fremont, IA",4,14,5,3,14,6,6,8,9,23,2014
+20861,"Des Moines, IA","Montezuma, IA",5,8,10,1,12,10,7,7,9,23,2014
+20572,"Des Moines, IA","Anita, IA",5,10,8,2,18,3,2,6,15,23,2014
+21051,"Des Moines, IA","Williams, IA",8,11,4,1,17,5,6,8,9,23,2014
+20638,"Des Moines, IA","Clarion, IA",6,13,3,1,15,6,7,5,10,22,2014
+20586,"Des Moines, IA","Bagley, IA",3,12,7,2,14,6,2,9,11,22,2014
+20585,"Des Moines, IA","Avoca, IA",3,10,9,1,15,6,10,7,5,22,2014
+20663,"Des Moines, IA","Cromwell, IA",6,10,6,2,14,6,4,11,7,22,2014
+20667,"Des Moines, IA","Danbury, IA",7,15,0,1,17,4,3,4,15,22,2014
+20898,"Des Moines, IA","Onawa, IA",6,13,3,2,14,6,7,4,11,22,2014
+20964,"Des Moines, IA","Schleswig, IA",8,10,4,5,14,3,3,6,13,22,2014
+20999,"Des Moines, IA","Sully, IA",8,9,5,2,15,5,4,4,14,22,2014
+21052,"Des Moines, IA","Williamsburg, IA",7,10,5,0,17,5,5,9,8,22,2014
+20664,"Des Moines, IA","Cushing, IA",1,14,7,3,11,8,2,12,8,22,2014
+20931,"Des Moines, IA","Preston, IA",8,9,4,4,10,7,2,7,12,21,2014
+20926,"Des Moines, IA","Pocahontas, IA",2,10,9,0,18,3,6,7,8,21,2014
+20720,"Des Moines, IA","Forest City, IA",6,10,5,2,12,7,6,6,9,21,2014
+20941,"Des Moines, IA","Redding, IA",5,12,4,5,12,4,9,4,8,21,2014
+20570,"Des Moines, IA","Anamosa, IA",5,8,8,1,19,1,3,10,8,21,2014
+20767,"Des Moines, IA","Henderson, IA",4,10,7,2,11,8,4,6,11,21,2014
+20896,"Des Moines, IA","Oelwein, IA",6,10,5,2,15,4,1,9,11,21,2014
+20958,"Des Moines, IA","Ryan, IA",4,10,7,1,13,7,3,8,10,21,2014
+20835,"Des Moines, IA","Marion, IA",8,10,3,1,17,3,7,4,10,21,2014
+20694,"Des Moines, IA","Eldon, IA",5,14,2,3,11,7,7,6,8,21,2014
+20735,"Des Moines, IA","Gilbertville, IA",7,8,6,0,17,4,3,9,9,21,2014
+20690,"Des Moines, IA","Eagle Grove, IA",4,8,9,1,17,3,2,7,12,21,2014
+20844,"Des Moines, IA","Mechanicsville, IA",7,9,4,1,15,4,2,9,9,20,2014
+21021,"Des Moines, IA","Victor, IA",3,11,6,1,14,5,6,4,10,20,2014
+21034,"Des Moines, IA","Waukon, IA",8,9,3,0,14,6,3,5,12,20,2014
+20945,"Des Moines, IA","Richland, IA",0,13,7,2,16,2,5,6,9,20,2014
+21029,"Des Moines, IA","Wapello, IA",4,12,4,0,15,5,7,8,5,20,2014
+20951,"Des Moines, IA","Rock Valley, IA",10,8,2,1,11,8,8,4,8,20,2014
+21062,"Des Moines, IA","Zearing, IA",8,9,3,2,16,2,9,4,7,20,2014
+20828,"Des Moines, IA","Manly, IA",8,9,3,0,14,6,6,6,8,20,2014
+20649,"Des Moines, IA","Columbus Junction, IA",5,10,5,1,13,6,3,8,9,20,2014
+20654,"Des Moines, IA","Corning, IA",1,9,10,2,18,0,4,11,5,20,2014
+20719,"Des Moines, IA","Floyd, IA",1,12,7,0,13,7,4,7,9,20,2014
+20750,"Des Moines, IA","Guernsey, IA",6,8,6,3,11,6,6,5,9,20,2014
+20699,"Des Moines, IA","Elkader, IA",6,9,5,1,15,4,1,10,9,20,2014
+20740,"Des Moines, IA","Grand River, IA",2,13,5,4,15,1,3,6,11,20,2014
+20623,"Des Moines, IA","Cascade, IA",7,10,2,1,9,9,2,6,11,19,2014
+20921,"Des Moines, IA","Plano, IA",4,10,5,5,10,4,6,3,10,19,2014
+20625,"Des Moines, IA","Castalia, IA",6,9,4,2,15,2,4,5,10,19,2014
+20938,"Des Moines, IA","Readlyn, IA",4,12,3,1,15,3,4,7,8,19,2014
+20852,"Des Moines, IA","Milton, IA",4,12,3,4,14,1,4,1,14,19,2014
+20867,"Des Moines, IA","Morrison, IA",6,10,3,0,15,4,4,6,9,19,2014
+20993,"Des Moines, IA","State Center, IA",4,11,4,4,13,2,3,6,10,19,2014
+20612,"Des Moines, IA","Brooklyn, IA",1,10,8,2,15,2,3,6,10,19,2014
+20975,"Des Moines, IA","Sigourney, IA",3,12,4,1,17,1,0,13,6,19,2014
+20770,"Des Moines, IA","Hubbard, IA",3,12,4,1,13,5,4,6,9,19,2014
+20894,"Des Moines, IA","Norway, IA",5,13,0,4,9,5,3,4,11,18,2014
+20877,"Des Moines, IA","Mystic, IA",8,7,3,3,13,2,10,6,2,18,2014
+21010,"Des Moines, IA","Traer, IA",2,10,6,1,15,2,6,4,8,18,2014
+20577,"Des Moines, IA","Arthur, IA",6,10,2,1,15,2,1,6,11,18,2014
+21005,"Des Moines, IA","Thompson, IA",4,11,3,2,15,1,3,5,10,18,2014
+20704,"Des Moines, IA","Estherville, IA",3,10,5,2,8,8,2,8,8,18,2014
+20986,"Des Moines, IA","Springbrook, IA",6,9,3,1,10,7,4,4,10,18,2014
+20950,"Des Moines, IA","Rock Rapids, IA",5,9,4,3,7,8,3,5,10,18,2014
+20650,"Des Moines, IA","Colwell, IA",4,8,6,1,10,7,5,6,7,18,2014
+20634,"Des Moines, IA","Charter Oak, IA",3,11,4,2,12,4,4,0,14,18,2014
+20815,"Des Moines, IA","Little Sioux, IA",2,10,6,2,11,5,5,3,10,18,2014
+20646,"Des Moines, IA","Coggon, IA",7,3,8,0,16,2,7,4,7,18,2014
+20802,"Des Moines, IA","Laurens, IA",7,8,3,0,14,4,7,4,7,18,2014
+20816,"Des Moines, IA","Livermore, IA",2,7,9,3,13,2,6,5,7,18,2014
+20765,"Des Moines, IA","Hazleton, IA",5,4,8,3,12,2,4,6,7,17,2014
+20992,"Des Moines, IA","Stanton, IA",7,9,1,2,12,3,2,10,5,17,2014
+20984,"Des Moines, IA","Spirit Lake, IA",3,9,5,6,8,3,0,6,11,17,2014
+20977,"Des Moines, IA","Sioux Center, IA",3,11,3,4,8,5,2,4,11,17,2014
+20590,"Des Moines, IA","Battle Creek, IA",5,10,2,0,13,4,4,6,7,17,2014
+20901,"Des Moines, IA","Osage, IA",7,7,3,1,14,2,5,6,6,17,2014
+21014,"Des Moines, IA","Unionville, IA",3,8,6,6,10,1,5,5,7,17,2014
+20660,"Des Moines, IA","Crescent, IA",6,6,5,1,10,6,5,4,8,17,2014
+20665,"Des Moines, IA","Dakota City, IA",7,9,1,1,11,5,8,3,6,17,2014
+20725,"Des Moines, IA","Franklin, IA",3,8,6,0,14,3,8,3,6,17,2014
+20953,"Des Moines, IA","Rodney, IA",4,10,3,0,11,6,5,4,8,17,2014
+20712,"Des Moines, IA","Farmersburg, IA",3,11,3,2,9,6,2,5,10,17,2014
+20711,"Des Moines, IA","Farley, IA",4,10,3,1,10,6,5,4,8,17,2014
+20888,"Des Moines, IA","Nodaway, IA",0,11,6,3,11,3,3,7,7,17,2014
+20555,"Des Moines, IA","Ackley, IA",3,10,4,5,9,3,2,7,8,17,2014
+20786,"Des Moines, IA","Kalona, IA",3,10,4,3,7,7,1,2,14,17,2014
+21048,"Des Moines, IA","Wheatland, IA",2,9,6,3,8,6,4,7,6,17,2014
+20783,"Des Moines, IA","Jesup, IA",5,6,6,1,11,5,3,4,10,17,2014
+21013,"Des Moines, IA","Union, IA",3,9,4,4,10,2,1,6,9,16,2014
+20841,"Des Moines, IA","McCausland, IA",5,6,5,2,9,5,3,6,7,16,2014
+20912,"Des Moines, IA","Panama, IA",4,6,6,2,10,4,1,7,8,16,2014
+20910,"Des Moines, IA","Packwood, IA",7,7,2,2,11,3,3,5,8,16,2014
+20933,"Des Moines, IA","Promise City, IA",1,11,4,0,11,5,4,5,7,16,2014
+20674,"Des Moines, IA","Delaware, IA",6,5,5,0,8,8,3,11,2,16,2014
+20675,"Des Moines, IA","Deloit, IA",5,7,4,2,14,0,5,4,7,16,2014
+20998,"Des Moines, IA","Strawberry Point, IA",2,11,3,2,9,5,2,6,8,16,2014
+20703,"Des Moines, IA","Epworth, IA",5,8,2,0,7,8,1,4,10,15,2014
+20574,"Des Moines, IA","Anthon, IA",2,13,0,3,7,5,1,5,9,15,2014
+20594,"Des Moines, IA","Bellevue, IA",4,8,3,2,6,7,2,4,9,15,2014
+20576,"Des Moines, IA","Arnolds Park, IA",5,8,2,2,9,4,4,5,6,15,2014
+20571,"Des Moines, IA","Andover, IA",5,8,2,0,6,9,1,2,12,15,2014
+20673,"Des Moines, IA","Dedham, IA",4,5,6,3,9,3,3,2,10,15,2014
+20817,"Des Moines, IA","Lockridge, IA",3,8,4,2,8,5,2,6,7,15,2014
+20829,"Des Moines, IA","Manning, IA",6,6,3,1,12,2,3,3,9,15,2014
+20652,"Des Moines, IA","Coon Rapids, IA",7,5,3,1,9,5,5,1,9,15,2014
+20889,"Des Moines, IA","Nora Springs, IA",2,11,2,1,11,3,3,4,8,15,2014
+20631,"Des Moines, IA","Central City, IA",3,11,1,2,9,4,5,5,5,15,2014
+20970,"Des Moines, IA","Shell Rock, IA",6,6,3,0,12,3,3,5,7,15,2014
+21012,"Des Moines, IA","Underwood, IA",2,12,0,0,8,6,3,5,6,14,2014
+20787,"Des Moines, IA","Kellerton, IA",5,7,2,0,9,5,3,5,6,14,2014
+20645,"Des Moines, IA","Coburg, IA",3,4,7,1,10,3,4,7,3,14,2014
+21011,"Des Moines, IA","Truesdale, IA",4,6,4,2,6,6,3,3,8,14,2014
+20718,"Des Moines, IA","Floris, IA",5,6,3,1,8,5,2,6,6,14,2014
+20715,"Des Moines, IA","Farragut, IA",2,9,3,2,8,4,4,3,7,14,2014
+21008,"Des Moines, IA","Titonka, IA",3,8,3,0,11,3,1,6,7,14,2014
+20864,"Des Moines, IA","Montrose, IA",3,9,2,0,10,4,4,4,6,14,2014
+20863,"Des Moines, IA","Montour, IA",5,7,2,0,9,5,3,4,7,14,2014
+20707,"Des Moines, IA","Exline, IA",5,7,2,2,11,1,4,3,7,14,2014
+21007,"Des Moines, IA","Tipton, IA",4,7,3,1,7,6,1,6,7,14,2014
+20777,"Des Moines, IA","Inwood, IA",5,6,3,2,8,4,6,4,4,14,2014
+20741,"Des Moines, IA","Grandview, IA",4,7,3,2,12,0,5,3,6,14,2014
+21026,"Des Moines, IA","Walker, IA",6,6,2,0,12,2,5,4,5,14,2014
+20600,"Des Moines, IA","Blairstown, IA",3,8,3,3,9,2,3,6,5,14,2014
+21050,"Des Moines, IA","Whitten, IA",5,6,2,1,9,3,2,6,5,13,2014
+20661,"Des Moines, IA","Cresco, IA",8,5,0,1,10,2,3,8,2,13,2014
+20702,"Des Moines, IA","Emmetsburg, IA",2,7,4,0,11,2,2,6,5,13,2014
+20895,"Des Moines, IA","Oakland, IA",4,6,3,1,10,2,4,5,4,13,2014
+20752,"Des Moines, IA","Guttenberg, IA",1,8,4,1,9,3,2,5,6,13,2014
+20610,"Des Moines, IA","Brighton, IA",5,5,3,1,10,2,6,1,6,13,2014
+21047,"Des Moines, IA","What Cheer, IA",4,8,1,1,9,3,2,2,9,13,2014
+20890,"Des Moines, IA","North English, IA",5,2,6,0,11,2,3,5,5,13,2014
+20791,"Des Moines, IA","Keota, IA",6,5,2,0,11,2,6,4,3,13,2014
+20850,"Des Moines, IA","Milford, IA",3,8,2,1,6,6,2,5,6,13,2014
+20644,"Des Moines, IA","Clutier, IA",3,6,4,2,8,3,0,4,9,13,2014
+20716,"Des Moines, IA","Fayette, IA",3,7,3,0,9,4,4,6,3,13,2014
+20866,"Des Moines, IA","Morley, IA",1,7,5,0,8,5,2,3,8,13,2014
+20721,"Des Moines, IA","Fort Atkinson, IA",5,3,5,1,10,2,3,5,5,13,2014
+20640,"Des Moines, IA","Clearfield, IA",3,6,4,2,7,4,1,8,4,13,2014
+21061,"Des Moines, IA","Yetter, IA",7,5,1,0,11,2,7,5,1,13,2014
+20655,"Des Moines, IA","Corwith, IA",0,10,3,1,10,2,1,4,8,13,2014
+20764,"Des Moines, IA","Hawarden, IA",4,6,3,2,6,5,4,3,6,13,2014
+20820,"Des Moines, IA","Lorimor, IA",5,7,1,4,7,2,5,5,3,13,2014
+20608,"Des Moines, IA","Boxholm, IA",3,6,4,3,7,3,2,4,7,13,2014
+20688,"Des Moines, IA","Dyersville, IA",3,5,5,1,9,3,3,2,8,13,2014
+20635,"Des Moines, IA","Chester, IA",3,7,2,2,10,0,1,3,8,12,2014
+20566,"Des Moines, IA","Allison, IA",3,9,0,1,9,2,2,3,7,12,2014
+20854,"Des Moines, IA","Minden, IA",2,6,4,3,8,1,1,5,6,12,2014
+21042,"Des Moines, IA","West Burlington, IA",5,7,0,0,8,4,6,3,3,12,2014
+20961,"Des Moines, IA","Sanborn, IA",3,8,1,2,7,3,2,4,6,12,2014
+21053,"Des Moines, IA","Wilton, IA",5,6,1,0,8,4,6,1,5,12,2014
+20700,"Des Moines, IA","Elkport, IA",3,7,2,2,7,3,3,3,6,12,2014
+20588,"Des Moines, IA","Balltown, IA",8,1,3,0,8,4,3,5,4,12,2014
+20994,"Des Moines, IA","Steamboat Rock, IA",1,5,6,2,5,5,6,2,4,12,2014
+20847,"Des Moines, IA","Meriden, IA",2,5,5,0,8,4,2,4,6,12,2014
+20969,"Des Moines, IA","Sheldon, IA",5,6,1,1,7,4,2,4,6,12,2014
+21022,"Des Moines, IA","Vining, IA",2,7,3,2,4,6,3,2,7,12,2014
+20602,"Des Moines, IA","Blanchard, IA",2,6,4,0,8,4,5,3,4,12,2014
+20826,"Des Moines, IA","Malcom, IA",0,8,4,0,10,2,2,5,5,12,2014
+21057,"Des Moines, IA","Wiota, IA",0,7,4,2,8,1,2,1,8,11,2014
+21038,"Des Moines, IA","Webster, IA",0,10,1,1,7,3,2,1,8,11,2014
+20880,"Des Moines, IA","New Albin, IA",6,4,1,1,9,1,4,5,2,11,2014
+20658,"Des Moines, IA","Craig, IA",3,4,4,2,7,2,2,2,7,11,2014
+20739,"Des Moines, IA","Grand Mound, IA",4,3,4,1,8,2,3,0,8,11,2014
+20797,"Des Moines, IA","Ladora, IA",4,5,2,1,7,3,4,2,5,11,2014
+21060,"Des Moines, IA","Wyoming, IA",1,6,4,0,9,2,0,6,5,11,2014
+20980,"Des Moines, IA","Soldier, IA",2,5,4,0,9,2,3,3,5,11,2014
+20774,"Des Moines, IA","Imogene, IA",2,6,3,2,8,1,4,4,3,11,2014
+20587,"Des Moines, IA","Baldwin, IA",0,9,2,1,6,4,4,2,5,11,2014
+20794,"Des Moines, IA","Kirkville, IA",0,5,6,1,9,1,2,6,3,11,2014
+20780,"Des Moines, IA","Irwin, IA",4,5,2,0,6,5,3,3,5,11,2014
+20935,"Des Moines, IA","Randalia, IA",2,8,1,2,6,3,4,2,5,11,2014
+20987,"Des Moines, IA","Springville, IA",4,5,2,2,8,1,4,2,5,11,2014
+20605,"Des Moines, IA","Bonaparte, IA",2,3,6,2,5,4,1,5,5,11,2014
+21019,"Des Moines, IA","Van Horne, IA",3,4,4,1,8,2,4,2,5,11,2014
+20821,"Des Moines, IA","Luana, IA",3,8,0,0,9,2,1,3,7,11,2014
+20976,"Des Moines, IA","Silver City, IA",4,4,2,0,8,2,4,3,3,10,2014
+20982,"Des Moines, IA","South English, IA",2,4,4,1,6,3,2,4,4,10,2014
+20651,"Des Moines, IA","Conrad, IA",1,7,2,1,6,3,2,3,5,10,2014
+21045,"Des Moines, IA","West Liberty, IA",3,6,1,2,5,3,2,5,3,10,2014
+20609,"Des Moines, IA","Boyden, IA",3,5,2,0,4,6,4,2,4,10,2014
+20878,"Des Moines, IA","Nashua, IA",2,8,0,2,7,1,3,2,5,10,2014
+20579,"Des Moines, IA","Ashton, IA",5,3,2,1,6,3,3,0,7,10,2014
+20678,"Des Moines, IA","Denver, IA",1,7,2,1,8,1,3,1,6,10,2014
+20807,"Des Moines, IA","Lenox, IA",2,8,0,0,7,3,1,7,2,10,2014
+20766,"Des Moines, IA","Hedrick, IA",3,6,1,0,7,3,2,4,4,10,2014
+20744,"Des Moines, IA","Gravity, IA",1,4,5,1,7,2,3,5,2,10,2014
+20724,"Des Moines, IA","Fostoria, IA",2,6,2,2,5,3,1,4,5,10,2014
+21049,"Des Moines, IA","Whittemore, IA",2,6,2,2,5,3,1,3,6,10,2014
+21000,"Des Moines, IA","Sumner, IA",0,8,2,0,8,2,1,3,6,10,2014
+21039,"Des Moines, IA","Wellman, IA",1,6,2,0,8,1,1,4,4,9,2014
+20686,"Des Moines, IA","Dougherty, IA",3,4,2,0,7,2,3,3,3,9,2014
+20760,"Des Moines, IA","Hartwick, IA",3,4,2,0,4,5,2,2,5,9,2014
+20966,"Des Moines, IA","Seymour, IA",2,3,4,2,4,3,1,3,5,9,2014
+20762,"Des Moines, IA","Havelock, IA",1,4,4,1,6,2,2,2,5,9,2014
+20957,"Des Moines, IA","Ruthven, IA",4,2,3,2,5,2,4,1,4,9,2014
+20793,"Des Moines, IA","Kinross, IA",0,7,2,2,7,0,1,4,4,9,2014
+20683,"Des Moines, IA","Dixon, IA",1,4,4,0,8,1,2,5,2,9,2014
+20697,"Des Moines, IA","Elgin, IA",2,7,0,0,7,2,2,2,5,9,2014
+20929,"Des Moines, IA","Popejoy, IA",1,6,1,1,7,0,1,2,5,8,2014
+21024,"Des Moines, IA","Walcott, IA",3,5,0,0,6,2,3,1,4,8,2014
+20923,"Des Moines, IA","Pleasant Plain, IA",0,5,3,1,6,1,4,1,3,8,2014
+20790,"Des Moines, IA","Keosauqua, IA",2,5,1,0,7,1,2,3,3,8,2014
+20769,"Des Moines, IA","Hillsboro, IA",0,5,3,2,4,2,1,3,4,8,2014
+20906,"Des Moines, IA","Oxford Junction, IA",1,5,2,0,6,2,1,3,4,8,2014
+20859,"Des Moines, IA","Monona, IA",2,5,1,0,7,1,0,3,5,8,2014
+20920,"Des Moines, IA","Plainfield, IA",2,4,2,1,6,1,2,1,5,8,2014
+20872,"Des Moines, IA","Mount Union, IA",2,4,2,0,5,3,4,1,3,8,2014
+20973,"Des Moines, IA","Sibley, IA",1,2,5,1,3,4,0,1,7,8,2014
+20749,"Des Moines, IA","Grundy Center, IA",1,3,3,1,5,1,1,3,3,7,2014
+20753,"Des Moines, IA","Hamburg, IA",3,2,2,0,7,0,1,1,5,7,2014
+20887,"Des Moines, IA","Nichols, IA",0,3,4,1,5,1,0,2,5,7,2014
+20589,"Des Moines, IA","Batavia, IA",3,3,1,1,4,2,1,4,2,7,2014
+20733,"Des Moines, IA","Gibson, IA",1,6,0,2,4,1,1,2,4,7,2014
+21046,"Des Moines, IA","West Union, IA",1,6,0,0,5,2,0,5,2,7,2014
+20759,"Des Moines, IA","Hartley, IA",0,7,0,0,4,3,0,3,4,7,2014
+20732,"Des Moines, IA","George, IA",3,2,2,1,3,3,0,2,5,7,2014
+20974,"Des Moines, IA","Sidney, IA",1,5,1,0,5,2,3,1,3,7,2014
+20833,"Des Moines, IA","Marble Rock, IA",1,6,0,0,6,1,1,1,5,7,2014
+20584,"Des Moines, IA","Aurora, IA",3,3,1,1,5,1,2,4,1,7,2014
+20708,"Des Moines, IA","Fairbank, IA",2,4,1,1,6,0,2,3,2,7,2014
+20968,"Des Moines, IA","Sharpsburg, IA",3,2,2,0,5,2,1,4,2,7,2014
+20668,"Des Moines, IA","Danville, IA",3,3,1,2,3,2,2,4,1,7,2014
+21055,"Des Moines, IA","Winfield, IA",2,3,2,0,4,3,1,4,2,7,2014
+20934,"Des Moines, IA","Protivin, IA",2,4,1,0,6,1,1,2,4,7,2014
+20575,"Des Moines, IA","Armstrong, IA",3,3,1,0,4,3,1,2,4,7,2014
+21043,"Des Moines, IA","West Chester, IA",3,2,1,0,6,0,0,3,3,6,2014
+20907,"Des Moines, IA","Oxford, IA",1,4,1,2,3,1,1,4,1,6,2014
+21041,"Des Moines, IA","West Bend, IA",3,2,1,2,3,1,1,1,4,6,2014
+20561,"Des Moines, IA","Ainsworth, IA",0,6,0,0,4,2,2,2,2,6,2014
+20676,"Des Moines, IA","Delta, IA",2,4,0,0,2,4,3,0,3,6,2014
+20842,"Des Moines, IA","McClelland, IA",0,3,3,3,2,1,2,0,4,6,2014
+20792,"Des Moines, IA","Keystone, IA",4,1,0,0,5,0,1,1,3,5,2014
+21001,"Des Moines, IA","Superior, IA",0,3,2,0,2,3,0,2,3,5,2014
+20811,"Des Moines, IA","Lincoln, IA",1,3,1,0,3,2,2,3,0,5,2014
+20915,"Des Moines, IA","Parnell, IA",0,2,3,0,5,0,1,0,4,5,2014
+20758,"Des Moines, IA","Harris, IA",2,3,0,0,4,1,1,1,3,5,2014
+21059,"Des Moines, IA","Woolstock, IA",1,1,2,0,1,3,0,2,2,4,2014
+20599,"Des Moines, IA","Birmingham, IA",1,3,0,1,2,1,0,4,0,4,2014
+20682,"Des Moines, IA","Dickens, IA",0,4,0,1,1,2,1,0,3,4,2014
+20659,"Des Moines, IA","Crawfordsville, IA",1,1,2,0,4,0,0,1,3,4,2014
+20946,"Des Moines, IA","Rinard, IA",2,2,0,0,3,1,1,2,1,4,2014
+20885,"Des Moines, IA","Newell, IA",2,1,0,0,3,0,0,1,2,3,2014
+20917,"Des Moines, IA","Paullina, IA",1,2,0,0,2,1,1,1,1,3,2014
+20837,"Des Moines, IA","Martelle, IA",0,1,2,1,2,0,1,0,2,3,2014
+21036,"Des Moines, IA","Webb, IA",0,2,1,0,2,1,0,2,1,3,2014
+20618,"Des Moines, IA","Cantril, IA",0,1,2,1,2,0,2,0,1,3,2014
+20713,"Des Moines, IA","Farmington, IA",1,1,1,0,3,0,0,2,1,3,2014
+20831,"Des Moines, IA","Mapleton, IA",1,0,1,0,1,1,1,0,1,2,2014
+21028,"Des Moines, IA","Wallingford, IA",1,1,0,0,2,0,0,0,2,2,2014
+20756,"Des Moines, IA","Hanlontown, IA",0,0,2,0,2,0,2,0,0,2,2014
+20685,"Des Moines, IA","Doon, IA",0,2,0,1,1,0,1,1,0,2,2014
+20991,"Des Moines, IA","Stanley, IA",0,1,0,1,0,0,0,0,1,1,2014
+20621,"Des Moines, IA","Carson, IA",0,1,0,0,1,0,0,1,0,1,2014
+20849,"Des Moines, IA","Middletown, IA",0,1,0,0,1,0,0,1,0,1,2014
+20856,"Des Moines, IA","Mitchell, IA",1,0,0,0,1,0,0,1,0,1,2014
+21032,"Des Moines, IA","Waucoma, IA",1,0,0,0,0,1,1,0,0,1,2014
+20932,"Des Moines, IA","Primghar, IA",0,0,1,0,1,0,0,1,0,1,2014
+20728,"Des Moines, IA","Fruitland, IA",0,1,0,1,0,0,0,0,1,1,2014
+20781,"Des Moines, IA","Janesville, IA",1,0,0,0,0,1,1,0,0,1,2014
+20738,"Des Moines, IA","Graettinger, IA",0,0,1,0,1,0,0,0,1,1,2014
+20882,"Des Moines, IA","New Hartford, IA",0,1,0,0,1,0,1,0,0,1,2014
+20913,"Des Moines, IA","Panora, IA",0,1,0,1,0,0,0,0,1,1,2014
+20745,"Des Moines, IA","Greeley, IA",0,1,0,0,1,0,0,1,0,1,2014
+21040,"Des Moines, IA","Wellsburg, IA",0,1,0,0,1,0,0,1,0,1,2014
+20755,"Des Moines, IA","Hancock, IA",1,0,0,0,0,1,0,1,0,1,2014
+20981,"Des Moines, IA","Solon, IA",0,1,0,0,1,0,0,1,0,1,2014

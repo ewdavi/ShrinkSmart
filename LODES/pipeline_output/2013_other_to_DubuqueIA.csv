@@ -1,0 +1,355 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+20468,"Dubuque, IA","Dubuque, IA",3223,6537,3074,1292,9817,1725,3687,5168,3979,12834,2013
+20397,"Dubuque, IA","Asbury, IA",854,2222,898,293,3138,543,1014,1288,1672,3974,2013
+20661,"Dubuque, IA","Sageville, IA",382,826,443,179,1239,233,422,705,524,1651,2013
+20634,"Dubuque, IA","Peosta, IA",196,581,212,84,806,99,228,308,453,989,2013
+20404,"Dubuque, IA","Balltown, IA",166,383,145,87,512,95,170,298,226,694,2013
+20470,"Dubuque, IA","Dyersville, IA",95,236,108,19,372,48,97,166,176,439,2013
+20407,"Dubuque, IA","Bellevue, IA",97,200,84,44,290,47,93,128,160,381,2013
+20492,"Dubuque, IA","Farley, IA",81,181,71,32,269,32,71,132,130,333,2013
+20428,"Dubuque, IA","Cedar Rapids, IA",112,123,48,24,145,114,116,90,77,283,2013
+20577,"Dubuque, IA","Maquoketa, IA",58,118,64,29,181,30,63,95,82,240,2013
+20485,"Dubuque, IA","Epworth, IA",54,135,44,14,189,30,44,93,96,233,2013
+20456,"Dubuque, IA","Davenport, IA",59,106,42,9,120,78,79,62,66,207,2013
+20440,"Dubuque, IA","Clinton, IA",59,99,33,3,133,55,84,52,55,191,2013
+20676,"Dubuque, IA","Springbrook, IA",33,110,42,27,132,26,30,87,68,185,2013
+20391,"Dubuque, IA","Ames, IA",54,69,20,9,82,52,49,41,53,143,2013
+20710,"Dubuque, IA","Waterloo, IA",43,71,21,11,71,53,49,44,42,135,2013
+20512,"Dubuque, IA","Graf, IA",36,76,21,14,105,14,19,56,58,133,2013
+20734,"Dubuque, IA","Zwingle, IA",29,66,35,16,100,14,29,50,51,130,2013
+20403,"Dubuque, IA","Baldwin, IA",29,67,31,22,90,15,30,54,43,127,2013
+20410,"Dubuque, IA","Bettendorf, IA",50,53,23,11,61,54,48,41,37,126,2013
+20394,"Dubuque, IA","Andrew, IA",22,66,37,24,79,22,20,55,50,125,2013
+20573,"Dubuque, IA","Manchester, IA",38,58,20,2,98,16,56,32,28,116,2013
+20654,"Dubuque, IA","Robins, IA",44,46,20,7,62,41,35,41,34,110,2013
+20535,"Dubuque, IA","Iowa City, IA",41,46,19,7,70,29,37,36,33,106,2013
+20424,"Dubuque, IA","Cascade, IA",25,54,23,9,82,11,24,42,36,102,2013
+20463,"Dubuque, IA","Des Moines, IA",33,51,18,11,51,40,33,27,42,102,2013
+20427,"Dubuque, IA","Cedar Falls, IA",48,34,18,3,58,39,37,38,25,100,2013
+20529,"Dubuque, IA","Hiawatha, IA",39,46,15,4,57,39,38,31,31,100,2013
+20612,"Dubuque, IA","New Vienna, IA",19,51,26,10,75,11,23,51,22,96,2013
+20459,"Dubuque, IA","Delaware, IA",23,45,17,6,64,15,28,38,19,85,2013
+20517,"Dubuque, IA","Greeley, IA",23,43,16,10,60,12,20,36,26,82,2013
+20451,"Dubuque, IA","Council Bluffs, IA",35,26,14,8,29,38,38,18,19,75,2013
+20732,"Dubuque, IA","Worthington, IA",9,41,18,6,59,3,14,25,29,68,2013
+20701,"Dubuque, IA","Urbandale, IA",22,32,11,4,38,23,22,21,22,65,2013
+20458,"Dubuque, IA","Decorah, IA",15,35,13,0,40,23,17,24,22,63,2013
+20530,"Dubuque, IA","Hopkinton, IA",16,27,13,2,42,12,17,22,17,56,2013
+20522,"Dubuque, IA","Guttenberg, IA",14,25,15,4,45,5,19,18,17,54,2013
+20636,"Dubuque, IA","Pleasant Hill, IA",23,22,9,6,25,23,17,13,24,54,2013
+20532,"Dubuque, IA","Indianola, IA",17,28,7,3,32,17,19,13,20,52,2013
+20620,"Dubuque, IA","Oelwein, IA",24,18,10,2,40,10,22,21,9,52,2013
+20582,"Dubuque, IA","Marshalltown, IA",11,24,12,5,26,16,16,16,15,47,2013
+20713,"Dubuque, IA","Waverly, IA",13,28,6,2,29,16,15,17,15,47,2013
+20531,"Dubuque, IA","Independence, IA",9,26,11,3,31,12,10,24,12,46,2013
+20390,"Dubuque, IA","Altoona, IA",18,20,6,1,28,15,11,14,19,44,2013
+20584,"Dubuque, IA","Mason City, IA",18,18,6,0,22,20,17,18,7,42,2013
+20481,"Dubuque, IA","Elkport, IA",13,19,9,10,28,3,9,18,14,41,2013
+20672,"Dubuque, IA","Sioux City, IA",21,13,6,4,22,14,21,9,10,40,2013
+20420,"Dubuque, IA","Burlington, IA",18,10,10,3,14,21,22,8,8,38,2013
+20590,"Dubuque, IA","Millville, IA",11,15,8,11,19,4,6,13,15,34,2013
+20604,"Dubuque, IA","Muscatine, IA",12,13,8,0,21,12,20,7,6,33,2013
+20617,"Dubuque, IA","North Liberty, IA",13,14,5,4,19,9,10,9,13,32,2013
+20689,"Dubuque, IA","Tiffin, IA",11,19,2,2,24,6,7,8,17,32,2013
+20712,"Dubuque, IA","Waukon, IA",10,12,8,0,19,11,13,12,5,30,2013
+20698,"Dubuque, IA","University Heights, IA",13,15,2,0,22,8,11,10,9,30,2013
+20457,"Dubuque, IA","De Witt, IA",9,17,3,0,19,10,12,8,9,29,2013
+20685,"Dubuque, IA","Strawberry Point, IA",7,17,5,2,21,6,7,15,7,29,2013
+20422,"Dubuque, IA","Camanche, IA",7,14,6,0,19,8,12,11,4,27,2013
+20607,"Dubuque, IA","New Hampton, IA",7,17,3,1,15,11,12,5,10,27,2013
+20544,"Dubuque, IA","Keokuk, IA",6,13,7,1,17,8,12,6,8,26,2013
+20653,"Dubuque, IA","Riverside, IA",12,11,3,3,15,8,12,8,6,26,2013
+20639,"Dubuque, IA","Prairieburg, IA",3,14,8,3,18,4,4,10,11,25,2013
+20528,"Dubuque, IA","Hazleton, IA",7,12,6,2,15,8,9,11,5,25,2013
+20659,"Dubuque, IA","Ryan, IA",7,14,4,3,16,6,5,13,7,25,2013
+20640,"Dubuque, IA","Preston, IA",4,17,3,2,15,7,2,11,11,24,2013
+20723,"Dubuque, IA","West Union, IA",6,15,3,2,20,2,7,8,9,24,2013
+20690,"Dubuque, IA","Tipton, IA",7,14,2,6,8,9,4,6,13,23,2013
+20660,"Dubuque, IA","Sabula, IA",8,13,2,4,11,8,5,12,6,23,2013
+20483,"Dubuque, IA","Ely, IA",9,9,5,3,12,8,7,6,10,23,2013
+20490,"Dubuque, IA","Fairfax, IA",3,13,6,1,14,7,9,7,6,22,2013
+20652,"Dubuque, IA","Riverdale, IA",4,12,5,1,13,7,5,4,12,21,2013
+20632,"Dubuque, IA","Parkersburg, IA",7,11,3,1,12,8,8,4,9,21,2013
+20462,"Dubuque, IA","Denver, IA",6,10,4,4,9,7,5,6,9,20,2013
+20489,"Dubuque, IA","Fairbank, IA",5,10,5,0,10,10,6,9,5,20,2013
+20600,"Dubuque, IA","Mount Auburn, IA",6,8,6,1,11,8,8,8,4,20,2013
+20542,"Dubuque, IA","Johnston, IA",7,8,5,2,9,9,12,4,4,20,2013
+20447,"Dubuque, IA","Coralville, IA",9,10,1,1,15,4,7,7,6,20,2013
+20601,"Dubuque, IA","Mount Pleasant, IA",10,4,6,0,15,5,12,2,6,20,2013
+20408,"Dubuque, IA","Bennett, IA",5,11,3,3,11,5,8,5,6,19,2013
+20409,"Dubuque, IA","Bertram, IA",3,11,5,3,12,4,5,2,12,19,2013
+20382,"Dubuque, IA","Ackworth, IA",4,12,3,4,7,8,6,5,8,19,2013
+20477,"Dubuque, IA","Eldridge, IA",4,9,6,1,12,6,4,7,8,19,2013
+20536,"Dubuque, IA","Iowa Falls, IA",5,10,4,3,10,6,5,9,5,19,2013
+20603,"Dubuque, IA","Mount Vernon, IA",6,11,2,0,10,9,8,6,5,19,2013
+20679,"Dubuque, IA","St. Marys, IA",7,11,1,4,9,6,3,9,7,19,2013
+20630,"Dubuque, IA","Palo, IA",9,4,6,2,10,7,6,9,4,19,2013
+20642,"Dubuque, IA","Protivin, IA",5,8,5,0,10,8,5,7,6,18,2013
+20709,"Dubuque, IA","Washington, IA",6,9,3,3,7,8,7,4,7,18,2013
+20395,"Dubuque, IA","Ankeny, IA",6,8,3,4,4,9,7,6,4,17,2013
+20461,"Dubuque, IA","Denison, IA",5,9,3,2,11,4,4,11,2,17,2013
+20429,"Dubuque, IA","Center Point, IA",6,8,3,1,11,5,5,6,6,17,2013
+20453,"Dubuque, IA","Cresco, IA",2,13,2,0,13,4,7,7,3,17,2013
+20606,"Dubuque, IA","New Albin, IA",8,5,3,0,7,9,8,5,3,16,2013
+20626,"Dubuque, IA","Ottumwa, IA",5,8,3,2,6,8,7,3,6,16,2013
+20571,"Dubuque, IA","Luana, IA",5,7,4,0,7,9,8,3,5,16,2013
+20555,"Dubuque, IA","Le Claire, IA",5,7,4,1,7,8,6,7,3,16,2013
+20569,"Dubuque, IA","Low Moor, IA",4,7,5,0,12,4,7,7,2,16,2013
+20418,"Dubuque, IA","Brooklyn, IA",4,10,2,2,11,3,3,8,5,16,2013
+20480,"Dubuque, IA","Elkader, IA",5,7,4,2,11,3,7,4,5,16,2013
+20392,"Dubuque, IA","Anamosa, IA",4,11,1,0,7,9,5,6,5,16,2013
+20540,"Dubuque, IA","Jesup, IA",3,9,4,1,8,7,7,6,3,16,2013
+20594,"Dubuque, IA","Monticello, IA",7,8,1,0,8,8,2,10,4,16,2013
+20700,"Dubuque, IA","Urbana, IA",4,12,0,2,9,5,6,5,5,16,2013
+20400,"Dubuque, IA","Atkins, IA",5,8,3,3,6,7,4,6,6,16,2013
+20433,"Dubuque, IA","Charles City, IA",4,6,5,0,7,8,5,4,6,15,2013
+20729,"Dubuque, IA","Windsor Heights, IA",8,6,1,1,8,6,8,1,6,15,2013
+20465,"Dubuque, IA","Dixon, IA",5,6,4,0,9,6,6,3,6,15,2013
+20587,"Dubuque, IA","Mechanicsville, IA",3,9,3,1,6,8,5,5,5,15,2013
+20645,"Dubuque, IA","Readlyn, IA",5,6,4,2,6,7,8,3,4,15,2013
+20680,"Dubuque, IA","St. Olaf, IA",5,6,3,2,9,3,6,5,3,14,2013
+20675,"Dubuque, IA","Spring Hill, IA",6,7,1,3,4,7,7,1,6,14,2013
+20520,"Dubuque, IA","Grinnell, IA",7,4,3,2,9,3,4,8,2,14,2013
+20566,"Dubuque, IA","Lone Tree, IA",6,6,2,1,8,5,8,3,3,14,2013
+20501,"Dubuque, IA","Fort Madison, IA",3,8,3,0,9,5,5,5,4,14,2013
+20423,"Dubuque, IA","Carter Lake, IA",7,5,2,1,8,5,4,10,0,14,2013
+20553,"Dubuque, IA","Larrabee, IA",5,3,5,4,7,2,4,5,4,13,2013
+20683,"Dubuque, IA","Steamboat Rock, IA",5,5,3,2,7,4,3,5,5,13,2013
+20513,"Dubuque, IA","Grand Mound, IA",4,4,5,0,7,6,6,3,4,13,2013
+20568,"Dubuque, IA","Lost Nation, IA",5,6,2,5,6,2,4,3,6,13,2013
+20411,"Dubuque, IA","Blue Grass, IA",7,4,2,0,9,4,7,3,3,13,2013
+20585,"Dubuque, IA","McCausland, IA",6,5,2,0,6,7,9,2,2,13,2013
+20538,"Dubuque, IA","Janesville, IA",6,5,2,4,5,4,4,4,5,13,2013
+20591,"Dubuque, IA","Mitchellville, IA",5,6,2,0,10,3,3,6,4,13,2013
+20541,"Dubuque, IA","Jewell Junction, IA",1,9,2,1,6,5,7,4,1,12,2013
+20474,"Dubuque, IA","Edgewood, IA",3,5,4,2,8,2,6,3,3,12,2013
+20507,"Dubuque, IA","Garnavillo, IA",2,8,2,3,8,1,4,5,3,12,2013
+20592,"Dubuque, IA","Monona, IA",7,3,2,0,11,1,2,7,3,12,2013
+20479,"Dubuque, IA","Elk Run Heights, IA",5,4,3,0,7,5,5,4,3,12,2013
+20643,"Dubuque, IA","Randalia, IA",5,5,2,0,9,3,4,3,5,12,2013
+20674,"Dubuque, IA","Spencer, IA",4,6,2,0,4,8,8,2,2,12,2013
+20686,"Dubuque, IA","Sumner, IA",4,7,1,2,6,4,3,6,3,12,2013
+20598,"Dubuque, IA","Morrison, IA",5,4,2,1,9,1,9,2,0,11,2013
+20717,"Dubuque, IA","Welton, IA",1,7,3,1,10,0,1,7,3,11,2013
+20610,"Dubuque, IA","New London, IA",3,5,3,0,8,3,4,4,3,11,2013
+20431,"Dubuque, IA","Central City, IA",3,5,3,1,4,6,6,1,4,11,2013
+20597,"Dubuque, IA","Morley, IA",0,11,0,1,6,4,3,3,5,11,2013
+20567,"Dubuque, IA","Long Grove, IA",3,7,1,1,3,7,6,3,2,11,2013
+20703,"Dubuque, IA","Wadena, IA",3,7,1,2,5,4,4,3,4,11,2013
+20495,"Dubuque, IA","Fayette, IA",2,8,1,3,6,2,2,6,3,11,2013
+20498,"Dubuque, IA","Floyd, IA",5,3,3,0,8,3,3,7,1,11,2013
+20647,"Dubuque, IA","Reinbeck, IA",5,4,2,0,8,3,5,3,3,11,2013
+20668,"Dubuque, IA","Shueyville, IA",6,1,4,2,6,3,2,4,5,11,2013
+20705,"Dubuque, IA","Walford, IA",2,8,0,0,9,1,2,5,3,10,2013
+20728,"Dubuque, IA","Wilton, IA",4,4,2,0,6,4,2,5,3,10,2013
+20509,"Dubuque, IA","Garwin, IA",4,4,2,0,7,3,3,4,3,10,2013
+20641,"Dubuque, IA","Princeton, IA",5,4,1,2,6,2,2,5,3,10,2013
+20708,"Dubuque, IA","Wapello, IA",4,4,2,1,7,2,4,5,1,10,2013
+20500,"Dubuque, IA","Fort Atkinson, IA",5,4,1,1,6,3,5,4,1,10,2013
+20627,"Dubuque, IA","Owasa, IA",7,2,1,2,6,2,3,6,1,10,2013
+20426,"Dubuque, IA","Castalia, IA",1,5,4,0,7,3,3,4,3,10,2013
+20386,"Dubuque, IA","Algona, IA",3,5,1,1,5,3,2,3,4,9,2013
+20588,"Dubuque, IA","Meriden, IA",5,3,1,0,4,5,5,3,1,9,2013
+20644,"Dubuque, IA","Raymond, IA",2,7,0,0,4,5,7,2,0,9,2013
+20651,"Dubuque, IA","Rinard, IA",1,6,2,3,2,4,2,4,3,9,2013
+20521,"Dubuque, IA","Grundy Center, IA",5,2,2,0,6,3,1,4,4,9,2013
+20667,"Dubuque, IA","Shell Rock, IA",4,4,1,1,5,3,3,5,1,9,2013
+20455,"Dubuque, IA","Danville, IA",3,3,3,1,3,5,6,1,2,9,2013
+20692,"Dubuque, IA","Toledo, IA",4,5,0,1,4,4,3,5,1,9,2013
+20478,"Dubuque, IA","Elgin, IA",2,6,1,0,7,2,6,1,2,9,2013
+20511,"Dubuque, IA","Gilbertville, IA",2,7,0,1,7,1,4,0,5,9,2013
+20401,"Dubuque, IA","Aurelia, IA",4,3,2,0,7,2,4,4,1,9,2013
+20702,"Dubuque, IA","Vinton, IA",3,4,2,1,3,5,2,5,2,9,2013
+20466,"Dubuque, IA","Donnellson, IA",4,3,2,0,5,4,5,2,2,9,2013
+20415,"Dubuque, IA","Brighton, IA",6,2,1,1,5,3,2,6,1,9,2013
+20443,"Dubuque, IA","Coggon, IA",2,5,2,1,3,5,2,3,4,9,2013
+20719,"Dubuque, IA","West Branch, IA",5,2,2,0,7,2,5,1,3,9,2013
+20385,"Dubuque, IA","Albia, IA",2,5,1,0,3,5,3,3,2,8,2013
+20621,"Dubuque, IA","Orange City, IA",4,3,1,0,4,4,4,1,3,8,2013
+20445,"Dubuque, IA","Colwell, IA",2,3,3,0,7,1,3,3,2,8,2013
+20580,"Dubuque, IA","Marion, IA",4,2,2,0,4,4,3,5,0,8,2013
+20696,"Dubuque, IA","Union, IA",4,3,1,0,7,1,1,5,2,8,2013
+20387,"Dubuque, IA","Allison, IA",3,1,4,3,1,4,1,3,4,8,2013
+20487,"Dubuque, IA","Evansdale, IA",3,4,1,0,6,2,2,4,2,8,2013
+20496,"Dubuque, IA","Ferguson, IA",1,7,0,2,2,4,1,1,6,8,2013
+20693,"Dubuque, IA","Traer, IA",3,4,1,0,6,2,1,1,6,8,2013
+20727,"Dubuque, IA","Williamsburg, IA",3,4,1,0,5,3,2,3,3,8,2013
+20421,"Dubuque, IA","Bussey, IA",3,2,2,2,3,2,2,2,3,7,2013
+20706,"Dubuque, IA","Walker, IA",1,4,2,0,4,3,3,1,3,7,2013
+20471,"Dubuque, IA","Dysart, IA",3,3,1,0,5,2,3,2,2,7,2013
+20393,"Dubuque, IA","Andover, IA",2,4,1,1,4,2,2,3,2,7,2013
+20724,"Dubuque, IA","Wheatland, IA",2,2,3,2,3,2,1,3,3,7,2013
+20414,"Dubuque, IA","Brandon, IA",2,5,0,0,3,4,6,0,1,7,2013
+20677,"Dubuque, IA","Springville, IA",4,2,1,1,4,2,4,1,2,7,2013
+20454,"Dubuque, IA","Creston, IA",0,5,2,1,3,3,2,4,1,7,2013
+20593,"Dubuque, IA","Montezuma, IA",1,4,2,0,6,1,1,3,3,7,2013
+20508,"Dubuque, IA","Garner, IA",3,3,1,1,3,3,0,3,4,7,2013
+20523,"Dubuque, IA","Hampton, IA",3,1,3,0,7,0,2,5,0,7,2013
+20491,"Dubuque, IA","Fairfield, IA",3,4,0,1,2,4,4,1,2,7,2013
+20417,"Dubuque, IA","Britt, IA",2,3,2,0,4,3,1,5,1,7,2013
+20439,"Dubuque, IA","Clear Lake, IA",3,3,1,0,5,2,1,2,4,7,2013
+20537,"Dubuque, IA","Irwin, IA",4,2,1,1,3,3,3,2,2,7,2013
+20609,"Dubuque, IA","New Liberty, IA",1,5,1,1,5,1,2,1,4,7,2013
+20419,"Dubuque, IA","Buffalo, IA",2,4,1,0,5,2,2,4,1,7,2013
+20581,"Dubuque, IA","Marquette, IA",0,5,1,0,2,4,1,3,2,6,2013
+20664,"Dubuque, IA","Schleswig, IA",0,2,4,2,2,2,3,3,0,6,2013
+20434,"Dubuque, IA","Charter Oak, IA",4,1,1,1,3,2,4,1,1,6,2013
+20430,"Dubuque, IA","Centerville, IA",2,4,0,1,4,1,0,2,4,6,2013
+20681,"Dubuque, IA","Stacyville, IA",1,2,3,1,2,3,2,1,3,6,2013
+20623,"Dubuque, IA","Osage, IA",4,2,0,0,2,4,3,2,1,6,2013
+20619,"Dubuque, IA","Norway, IA",3,2,1,1,3,2,3,2,1,6,2013
+20699,"Dubuque, IA","University Park, IA",2,3,1,1,5,0,2,1,3,6,2013
+20412,"Dubuque, IA","Boxholm, IA",1,4,1,0,4,2,3,2,1,6,2013
+20551,"Dubuque, IA","Lamoni, IA",0,3,3,0,3,3,2,2,2,6,2013
+20493,"Dubuque, IA","Farmersburg, IA",1,3,2,2,1,3,1,3,2,6,2013
+20575,"Dubuque, IA","Manning, IA",2,3,1,1,4,1,4,0,2,6,2013
+20572,"Dubuque, IA","Lynnville, IA",2,3,1,0,4,2,1,4,1,6,2013
+20561,"Dubuque, IA","Lincoln, IA",4,1,0,0,2,3,2,2,1,5,2013
+20565,"Dubuque, IA","Lockridge, IA",2,2,1,0,3,2,0,5,0,5,2013
+20631,"Dubuque, IA","Panama, IA",2,2,1,0,3,2,1,2,2,5,2013
+20437,"Dubuque, IA","Clarence, IA",1,4,0,0,3,2,2,3,0,5,2013
+20563,"Dubuque, IA","Lisbon, IA",3,2,0,0,4,1,2,0,3,5,2013
+20684,"Dubuque, IA","Storm Lake, IA",2,2,1,0,2,3,3,1,1,5,2013
+20682,"Dubuque, IA","Stanley, IA",0,3,2,2,2,1,1,3,1,5,2013
+20602,"Dubuque, IA","Mount Union, IA",0,5,0,0,5,0,1,1,3,5,2013
+20611,"Dubuque, IA","New Sharon, IA",2,1,2,1,3,1,3,0,2,5,2013
+20733,"Dubuque, IA","Yetter, IA",3,2,0,0,4,1,1,4,0,5,2013
+20628,"Dubuque, IA","Oxford Junction, IA",1,3,1,0,3,2,2,0,3,5,2013
+20624,"Dubuque, IA","Osceola, IA",1,2,2,0,3,2,0,3,2,5,2013
+20559,"Dubuque, IA","Leon, IA",0,5,0,1,0,4,0,3,2,5,2013
+20499,"Dubuque, IA","Forest City, IA",3,1,1,0,1,4,4,1,0,5,2013
+20416,"Dubuque, IA","Bristow, IA",2,1,2,1,4,0,2,2,1,5,2013
+20524,"Dubuque, IA","Harlan, IA",2,3,0,0,2,3,3,2,0,5,2013
+20550,"Dubuque, IA","Lake Mills, IA",1,4,0,0,3,2,1,2,2,5,2013
+20704,"Dubuque, IA","Walcott, IA",2,2,1,0,3,2,3,1,1,5,2013
+20730,"Dubuque, IA","Winfield, IA",1,4,0,0,5,0,0,3,2,5,2013
+20586,"Dubuque, IA","McIntire, IA",2,1,2,0,3,2,1,4,0,5,2013
+20504,"Dubuque, IA","Fredericksburg, IA",1,2,2,0,3,2,1,3,1,5,2013
+20444,"Dubuque, IA","Columbus Junction, IA",2,3,0,0,5,0,1,2,2,5,2013
+20731,"Dubuque, IA","Winthrop, IA",0,4,1,0,3,2,1,1,3,5,2013
+20503,"Dubuque, IA","Franklin, IA",0,2,3,0,4,1,0,4,1,5,2013
+20405,"Dubuque, IA","Batavia, IA",5,0,0,1,3,1,4,0,1,5,2013
+20402,"Dubuque, IA","Aurora, IA",3,2,0,0,5,0,2,1,2,5,2013
+20635,"Dubuque, IA","Plainfield, IA",1,0,3,0,1,3,1,1,2,4,2013
+20687,"Dubuque, IA","Swea City, IA",3,0,1,0,2,2,3,1,0,4,2013
+20662,"Dubuque, IA","Sanborn, IA",2,1,1,0,2,2,1,1,2,4,2013
+20722,"Dubuque, IA","West Liberty, IA",3,1,0,0,2,2,3,1,0,4,2013
+20648,"Dubuque, IA","Rhodes, IA",1,2,1,0,1,3,3,0,1,4,2013
+20688,"Dubuque, IA","Thompson, IA",1,2,1,0,2,2,1,1,2,4,2013
+20726,"Dubuque, IA","Williams, IA",2,2,0,0,1,3,2,1,1,4,2013
+20650,"Dubuque, IA","Ridgeway, IA",0,2,2,0,4,0,2,2,0,4,2013
+20657,"Dubuque, IA","Rockwell, IA",2,1,1,0,2,2,2,2,0,4,2013
+20381,"Dubuque, IA","Ackley, IA",2,2,0,1,1,2,2,1,1,4,2013
+20596,"Dubuque, IA","Moravia, IA",0,2,2,0,3,1,2,1,1,4,2013
+20576,"Dubuque, IA","Manson, IA",2,1,1,0,3,1,2,1,1,4,2013
+20425,"Dubuque, IA","Casey, IA",2,1,1,0,3,1,0,1,3,4,2013
+20452,"Dubuque, IA","Crawfordsville, IA",1,3,0,0,2,2,2,1,1,4,2013
+20460,"Dubuque, IA","Deloit, IA",0,2,2,1,2,1,2,2,0,4,2013
+20554,"Dubuque, IA","Lawler, IA",0,4,0,0,2,2,1,3,0,4,2013
+20589,"Dubuque, IA","Milford, IA",0,4,0,0,3,1,1,1,2,4,2013
+20595,"Dubuque, IA","Montrose, IA",1,3,0,0,2,2,2,2,0,4,2013
+20560,"Dubuque, IA","Lime Springs, IA",0,1,3,0,3,1,0,3,1,4,2013
+20406,"Dubuque, IA","Bedford, IA",1,1,2,0,4,0,1,1,2,4,2013
+20546,"Dubuque, IA","Keota, IA",1,2,1,0,2,2,3,1,0,4,2013
+20605,"Dubuque, IA","Nashua, IA",2,2,0,0,3,1,1,1,2,4,2013
+20399,"Dubuque, IA","Atalissa, IA",1,2,1,1,1,2,2,0,2,4,2013
+20467,"Dubuque, IA","Dougherty, IA",1,1,2,1,2,1,1,1,2,4,2013
+20469,"Dubuque, IA","Durant, IA",0,3,1,0,3,1,1,1,2,4,2013
+20388,"Dubuque, IA","Alta Vista, IA",0,1,3,1,2,1,2,1,1,4,2013
+20475,"Dubuque, IA","Elberon, IA",2,2,0,1,2,1,2,1,1,4,2013
+20549,"Dubuque, IA","Ladora, IA",3,1,0,1,1,2,2,1,1,4,2013
+20556,"Dubuque, IA","Le Grand, IA",1,2,0,0,3,0,1,1,1,3,2013
+20711,"Dubuque, IA","Waucoma, IA",2,1,0,0,3,0,1,1,1,3,2013
+20720,"Dubuque, IA","West Burlington, IA",0,2,1,0,2,1,1,2,0,3,2013
+20464,"Dubuque, IA","Dike, IA",0,2,1,1,0,2,1,0,2,3,2013
+20691,"Dubuque, IA","Titonka, IA",1,1,1,0,2,1,1,2,0,3,2013
+20665,"Dubuque, IA","Seymour, IA",0,1,2,0,2,1,2,1,0,3,2013
+20527,"Dubuque, IA","Hawkeye, IA",3,0,0,0,2,1,0,3,0,3,2013
+20482,"Dubuque, IA","Elma, IA",2,1,0,0,2,1,1,1,1,3,2013
+20436,"Dubuque, IA","Chester, IA",2,1,0,0,1,2,3,0,0,3,2013
+20646,"Dubuque, IA","Redding, IA",1,1,1,0,2,1,1,1,1,3,2013
+20616,"Dubuque, IA","North English, IA",1,2,0,0,2,1,1,1,1,3,2013
+20625,"Dubuque, IA","Oskaloosa, IA",0,3,0,0,1,2,1,0,2,3,2013
+20384,"Dubuque, IA","Agency, IA",2,0,1,0,0,3,2,0,1,3,2013
+20613,"Dubuque, IA","Newell, IA",2,1,0,1,0,2,2,1,0,3,2013
+20525,"Dubuque, IA","Harpers Ferry, IA",1,1,1,0,2,1,2,1,0,3,2013
+20599,"Dubuque, IA","Moulton, IA",1,0,2,0,3,0,0,2,1,3,2013
+20637,"Dubuque, IA","Pomeroy, IA",1,1,1,0,1,2,0,2,1,3,2013
+20497,"Dubuque, IA","Floris, IA",0,2,1,0,2,1,0,1,2,3,2013
+20578,"Dubuque, IA","Marble Rock, IA",1,0,2,1,2,0,1,2,0,3,2013
+20432,"Dubuque, IA","Chariton, IA",1,2,0,0,2,1,3,0,0,3,2013
+20534,"Dubuque, IA","Ionia, IA",0,2,1,1,0,2,1,1,1,3,2013
+20564,"Dubuque, IA","Liscomb, IA",1,2,0,0,2,1,1,1,1,3,2013
+20502,"Dubuque, IA","Fostoria, IA",1,1,0,0,1,1,1,1,0,2,2013
+20484,"Dubuque, IA","Emmetsburg, IA",0,2,0,0,1,1,1,0,1,2,2013
+20486,"Dubuque, IA","Estherville, IA",0,2,0,1,1,0,0,0,2,2,2013
+20488,"Dubuque, IA","Exline, IA",0,1,1,0,2,0,1,1,0,2,2013
+20622,"Dubuque, IA","Orient, IA",1,1,0,0,1,1,0,1,1,2,2013
+20438,"Dubuque, IA","Clarksville, IA",2,0,0,0,2,0,1,1,0,2,2013
+20476,"Dubuque, IA","Eldon, IA",0,1,1,0,2,0,2,0,0,2,2013
+20450,"Dubuque, IA","Corydon, IA",0,2,0,0,1,1,1,1,0,2,2013
+20448,"Dubuque, IA","Corning, IA",1,0,1,0,1,1,1,1,0,2,2013
+20442,"Dubuque, IA","Clive, IA",1,1,0,0,2,0,1,1,0,2,2013
+20618,"Dubuque, IA","Northwood, IA",1,0,1,1,0,1,0,1,1,2,2013
+20413,"Dubuque, IA","Boyden, IA",1,1,0,0,2,0,1,0,1,2,2013
+20725,"Dubuque, IA","Whittemore, IA",2,0,0,0,2,0,2,0,0,2,2013
+20396,"Dubuque, IA","Arlington, IA",0,1,1,0,2,0,1,1,0,2,2013
+20515,"Dubuque, IA","Grant, IA",1,1,0,0,1,1,0,1,1,2,2013
+20558,"Dubuque, IA","Lenox, IA",0,2,0,0,1,1,1,1,0,2,2013
+20539,"Dubuque, IA","Jefferson, IA",0,0,2,1,0,1,0,1,1,2,2013
+20608,"Dubuque, IA","New Hartford, IA",1,1,0,0,2,0,2,0,0,2,2013
+20547,"Dubuque, IA","Keystone, IA",0,2,0,0,1,1,0,1,1,2,2013
+20570,"Dubuque, IA","Lowden, IA",1,1,0,0,0,2,0,1,1,2,2013
+20574,"Dubuque, IA","Manly, IA",1,1,0,0,1,1,0,2,0,2,2013
+20579,"Dubuque, IA","Marengo, IA",0,0,2,0,2,0,0,2,0,2,2013
+20666,"Dubuque, IA","Shannon City, IA",0,1,1,0,1,1,0,1,1,2,2013
+20671,"Dubuque, IA","Sioux Center, IA",1,1,0,0,1,1,1,1,0,2,2013
+20655,"Dubuque, IA","Rock Rapids, IA",1,1,0,1,0,1,2,0,0,2,2013
+20614,"Dubuque, IA","Nichols, IA",1,0,1,0,1,1,2,0,0,2,2013
+20615,"Dubuque, IA","Nora Springs, IA",1,1,0,0,2,0,1,0,1,2,2013
+20526,"Dubuque, IA","Harris, IA",0,1,1,1,0,1,0,0,2,2,2013
+20398,"Dubuque, IA","Ashton, IA",0,1,0,0,1,0,0,0,1,1,2013
+20562,"Dubuque, IA","Lineville, IA",0,1,0,0,0,1,0,1,0,1,2013
+20557,"Dubuque, IA","Le Roy, IA",0,1,0,0,0,1,0,1,0,1,2013
+20441,"Dubuque, IA","Clio, IA",1,0,0,0,0,1,1,0,0,1,2013
+20649,"Dubuque, IA","Richland, IA",0,1,0,0,0,1,0,1,0,1,2013
+20714,"Dubuque, IA","Webb, IA",0,1,0,0,1,0,0,0,1,1,2013
+20715,"Dubuque, IA","Webster City, IA",0,1,0,0,1,0,0,1,0,1,2013
+20383,"Dubuque, IA","Afton, IA",0,1,0,0,0,1,0,1,0,1,2013
+20716,"Dubuque, IA","Wellsburg, IA",0,1,0,0,1,0,0,0,1,1,2013
+20435,"Dubuque, IA","Cherokee, IA",1,0,0,0,1,0,1,0,0,1,2013
+20718,"Dubuque, IA","West Bend, IA",0,0,1,0,0,1,0,0,1,1,2013
+20721,"Dubuque, IA","West Des Moines, IA",0,1,0,0,1,0,0,0,1,1,2013
+20389,"Dubuque, IA","Alton, IA",1,0,0,0,0,1,1,0,0,1,2013
+20552,"Dubuque, IA","Lansing, IA",1,0,0,0,0,1,1,0,0,1,2013
+20629,"Dubuque, IA","Palmer, IA",1,0,0,0,0,1,0,1,0,1,2013
+20583,"Dubuque, IA","Martelle, IA",0,1,0,0,1,0,0,0,1,1,2013
+20638,"Dubuque, IA","Postville, IA",0,1,0,0,1,0,0,1,0,1,2013
+20633,"Dubuque, IA","Paullina, IA",0,1,0,0,0,1,1,0,0,1,2013
+20518,"Dubuque, IA","Greene, IA",0,0,1,1,0,0,0,0,1,1,2013
+20449,"Dubuque, IA","Corwith, IA",0,1,0,0,1,0,0,0,1,1,2013
+20446,"Dubuque, IA","Conrad, IA",0,0,1,0,1,0,0,1,0,1,2013
+20694,"Dubuque, IA","Tripoli, IA",0,1,0,0,1,0,0,1,0,1,2013
+20519,"Dubuque, IA","Greenfield, IA",1,0,0,0,1,0,0,1,0,1,2013
+20514,"Dubuque, IA","Grandview, IA",1,0,0,0,1,0,1,0,0,1,2013
+20510,"Dubuque, IA","George, IA",0,1,0,0,1,0,0,0,1,1,2013
+20506,"Dubuque, IA","Fruitland, IA",1,0,0,0,0,1,1,0,0,1,2013
+20505,"Dubuque, IA","Frederika, IA",0,1,0,0,1,0,1,0,0,1,2013
+20673,"Dubuque, IA","Solon, IA",0,1,0,0,1,0,0,1,0,1,2013
+20494,"Dubuque, IA","Farmington, IA",0,1,0,0,0,1,1,0,0,1,2013
+20670,"Dubuque, IA","Sigourney, IA",0,1,0,0,1,0,0,0,1,1,2013
+20669,"Dubuque, IA","Sibley, IA",0,1,0,0,1,0,0,1,0,1,2013
+20533,"Dubuque, IA","Inwood, IA",0,1,0,0,0,1,0,1,0,1,2013
+20695,"Dubuque, IA","Truesdale, IA",0,1,0,1,0,0,1,0,0,1,2013
+20707,"Dubuque, IA","Wallingford, IA",0,0,1,0,0,1,0,1,0,1,2013
+20663,"Dubuque, IA","Schaller, IA",0,1,0,0,1,0,0,1,0,1,2013
+20697,"Dubuque, IA","Unionville, IA",0,1,0,0,1,0,1,0,0,1,2013
+20473,"Dubuque, IA","Eddyville, IA",1,0,0,0,1,0,1,0,0,1,2013
+20472,"Dubuque, IA","East Peru, IA",0,0,1,1,0,0,0,1,0,1,2013
+20543,"Dubuque, IA","Kalona, IA",0,1,0,0,0,1,0,1,0,1,2013
+20545,"Dubuque, IA","Keosauqua, IA",1,0,0,0,0,1,1,0,0,1,2013
+20658,"Dubuque, IA","Russell, IA",0,0,1,0,1,0,0,0,1,1,2013
+20548,"Dubuque, IA","Lacona, IA",0,1,0,0,0,1,0,1,0,1,2013
+20656,"Dubuque, IA","Rock Valley, IA",0,0,1,0,1,0,1,0,0,1,2013
+20516,"Dubuque, IA","Gravity, IA",1,0,0,0,0,1,1,0,0,1,2013
+20678,"Dubuque, IA","St. Lucas, IA",1,0,0,0,0,1,1,0,0,1,2013

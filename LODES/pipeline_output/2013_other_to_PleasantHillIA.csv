@@ -1,0 +1,413 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+56860,"Pleasant Hill, IA","Des Moines, IA",415,721,234,284,661,425,508,585,277,1370,2013
+57058,"Pleasant Hill, IA","Pleasant Hill, IA",272,530,195,199,563,235,388,361,248,997,2013
+56771,"Pleasant Hill, IA","Altoona, IA",103,243,99,107,223,115,149,142,154,445,2013
+56775,"Pleasant Hill, IA","Ankeny, IA",102,241,80,87,197,139,131,115,177,423,2013
+57164,"Pleasant Hill, IA","Windsor Heights, IA",72,138,57,51,127,89,95,71,101,267,2013
+57139,"Pleasant Hill, IA","Urbandale, IA",50,134,54,60,103,75,71,63,104,238,2013
+57158,"Pleasant Hill, IA","West Des Moines, IA",81,104,28,22,123,68,64,87,62,213,2013
+57033,"Pleasant Hill, IA","Norwalk, IA",69,98,41,42,100,66,75,72,61,208,2013
+56830,"Pleasant Hill, IA","Clive, IA",62,87,42,29,84,78,55,34,102,191,2013
+56808,"Pleasant Hill, IA","Carlisle, IA",42,98,33,28,87,58,50,68,55,173,2013
+57150,"Pleasant Hill, IA","Waukee, IA",24,73,22,16,53,50,31,25,63,119,2013
+56942,"Pleasant Hill, IA","Johnston, IA",37,45,31,31,51,31,34,32,47,113,2013
+56772,"Pleasant Hill, IA","Ames, IA",43,57,11,15,48,48,41,43,27,111,2013
+56934,"Pleasant Hill, IA","Indianola, IA",27,51,28,20,41,45,27,38,41,106,2013
+57003,"Pleasant Hill, IA","Mitchellville, IA",16,43,26,22,39,24,29,28,28,85,2013
+56987,"Pleasant Hill, IA","Marshalltown, IA",24,30,15,3,31,35,25,28,16,69,2013
+57027,"Pleasant Hill, IA","Newton, IA",13,33,16,15,23,24,15,26,21,62,2013
+57044,"Pleasant Hill, IA","Ottumwa, IA",16,30,11,1,21,35,23,25,9,57,2013
+56950,"Pleasant Hill, IA","Knoxville, IA",21,21,7,12,16,21,15,20,14,49,2013
+57087,"Pleasant Hill, IA","Runnells, IA",7,30,12,6,37,6,16,15,18,49,2013
+56801,"Pleasant Hill, IA","Boone, IA",18,18,9,11,11,23,16,20,9,45,2013
+57063,"Pleasant Hill, IA","Polk City, IA",12,24,7,12,18,13,13,10,20,43,2013
+56815,"Pleasant Hill, IA","Cedar Rapids, IA",14,20,8,6,10,26,15,16,11,42,2013
+56800,"Pleasant Hill, IA","Bondurant, IA",8,30,4,8,21,13,10,13,19,42,2013
+56916,"Pleasant Hill, IA","Grimes, IA",6,29,4,6,18,15,12,8,19,39,2013
+56820,"Pleasant Hill, IA","Chariton, IA",12,10,10,6,8,18,11,12,9,32,2013
+57149,"Pleasant Hill, IA","Waterloo, IA",12,15,5,2,11,19,15,8,9,32,2013
+57105,"Pleasant Hill, IA","Sioux City, IA",6,18,7,6,12,13,11,12,8,31,2013
+56843,"Pleasant Hill, IA","Council Bluffs, IA",9,16,5,0,7,23,12,12,6,30,2013
+56833,"Pleasant Hill, IA","Colfax, IA",7,17,4,4,16,8,4,12,12,28,2013
+56994,"Pleasant Hill, IA","Melcher-Dallas, IA",5,12,11,14,5,9,3,9,16,28,2013
+56936,"Pleasant Hill, IA","Iowa City, IA",11,10,5,2,12,12,10,6,10,26,2013
+56760,"Pleasant Hill, IA","Ackworth, IA",7,12,6,4,14,7,10,8,7,25,2013
+56978,"Pleasant Hill, IA","Madrid, IA",7,10,8,6,8,11,7,6,12,25,2013
+57125,"Pleasant Hill, IA","Swan, IA",5,17,3,8,10,7,11,9,5,25,2013
+56854,"Pleasant Hill, IA","De Soto, IA",8,10,7,9,12,4,7,5,13,25,2013
+57041,"Pleasant Hill, IA","Osceola, IA",10,12,2,3,9,12,12,9,3,24,2013
+56853,"Pleasant Hill, IA","Davenport, IA",9,10,4,3,4,16,7,13,3,23,2013
+56931,"Pleasant Hill, IA","Huxley, IA",3,16,4,6,7,10,9,3,11,23,2013
+56897,"Pleasant Hill, IA","Fort Dodge, IA",9,9,4,1,5,16,9,11,2,22,2013
+57113,"Pleasant Hill, IA","St. Marys, IA",3,15,4,10,8,4,3,6,13,22,2013
+57042,"Pleasant Hill, IA","Oskaloosa, IA",7,9,6,0,3,19,13,6,3,22,2013
+57110,"Pleasant Hill, IA","Spring Hill, IA",5,11,4,5,9,6,6,4,10,20,2013
+56793,"Pleasant Hill, IA","Bettendorf, IA",5,9,6,3,4,13,9,6,5,20,2013
+56847,"Pleasant Hill, IA","Creston, IA",7,10,2,1,5,13,11,5,3,19,2013
+56804,"Pleasant Hill, IA","Burlington, IA",8,6,4,2,7,9,7,8,3,18,2013
+56786,"Pleasant Hill, IA","Baxter, IA",0,15,3,7,5,6,5,4,9,18,2013
+56928,"Pleasant Hill, IA","Hiawatha, IA",4,11,3,3,6,9,7,5,6,18,2013
+57054,"Pleasant Hill, IA","Pella, IA",5,8,5,1,9,8,3,10,5,18,2013
+57061,"Pleasant Hill, IA","Pleasantville, IA",3,13,1,6,6,5,3,4,10,17,2013
+56917,"Pleasant Hill, IA","Grinnell, IA",5,7,5,3,4,10,8,4,5,17,2013
+56951,"Pleasant Hill, IA","Lacona, IA",1,8,8,2,5,10,5,2,10,17,2013
+57166,"Pleasant Hill, IA","Winterset, IA",3,10,2,6,3,6,5,2,8,15,2013
+57073,"Pleasant Hill, IA","Reasnor, IA",3,8,4,4,5,6,2,4,9,15,2013
+57055,"Pleasant Hill, IA","Perry, IA",4,6,5,2,5,8,7,7,1,15,2013
+57053,"Pleasant Hill, IA","Patterson, IA",6,7,2,1,9,5,3,4,8,15,2013
+56886,"Pleasant Hill, IA","Fairfield, IA",8,3,4,0,7,8,6,9,0,15,2013
+56814,"Pleasant Hill, IA","Cedar Falls, IA",8,3,3,1,4,9,5,5,4,14,2013
+57020,"Pleasant Hill, IA","Muscatine, IA",6,7,1,1,6,7,9,3,2,14,2013
+57006,"Pleasant Hill, IA","Monroe, IA",3,7,4,2,8,4,4,8,2,14,2013
+57066,"Pleasant Hill, IA","Prairie City, IA",5,6,3,3,6,5,2,7,5,14,2013
+57036,"Pleasant Hill, IA","Ogden, IA",5,5,4,4,2,8,6,3,5,14,2013
+56870,"Pleasant Hill, IA","East Peru, IA",4,6,4,5,3,6,3,5,6,14,2013
+56913,"Pleasant Hill, IA","Granger, IA",4,6,4,5,3,6,3,5,6,14,2013
+56866,"Pleasant Hill, IA","Dubuque, IA",4,6,3,1,5,7,9,2,2,13,2013
+56923,"Pleasant Hill, IA","Harvey, IA",5,6,2,2,5,6,5,2,6,13,2013
+56834,"Pleasant Hill, IA","Colo, IA",3,7,3,1,3,9,4,1,8,13,2013
+56851,"Pleasant Hill, IA","Dallas Center, IA",1,6,6,7,3,3,1,2,10,13,2013
+56990,"Pleasant Hill, IA","Mason City, IA",3,6,4,1,7,5,5,3,5,13,2013
+56937,"Pleasant Hill, IA","Iowa Falls, IA",7,4,1,3,1,8,6,4,2,12,2013
+56807,"Pleasant Hill, IA","Cambridge, IA",4,6,2,0,10,2,3,5,4,12,2013
+57021,"Pleasant Hill, IA","Nevada, IA",4,4,4,1,6,5,3,4,5,12,2013
+56818,"Pleasant Hill, IA","Centerville, IA",3,4,5,0,3,9,4,7,1,12,2013
+56829,"Pleasant Hill, IA","Clio, IA",3,5,3,2,1,8,4,2,5,11,2013
+56765,"Pleasant Hill, IA","Albia, IA",3,4,4,2,3,6,5,4,2,11,2013
+56954,"Pleasant Hill, IA","Lamoni, IA",3,6,2,1,4,6,4,5,2,11,2013
+56828,"Pleasant Hill, IA","Clinton, IA",4,4,2,1,3,6,5,2,3,10,2013
+56996,"Pleasant Hill, IA","Merrill, IA",2,7,1,0,1,9,4,3,3,10,2013
+57120,"Pleasant Hill, IA","Story City, IA",2,8,0,1,1,8,2,3,5,10,2013
+57148,"Pleasant Hill, IA","Washington, IA",4,5,1,0,2,8,5,3,2,10,2013
+57141,"Pleasant Hill, IA","Van Meter, IA",3,7,0,1,5,4,3,4,3,10,2013
+56859,"Pleasant Hill, IA","Denison, IA",1,4,4,1,0,8,3,1,5,9,2013
+57153,"Pleasant Hill, IA","Webster City, IA",3,5,1,0,4,5,2,3,4,9,2013
+56953,"Pleasant Hill, IA","Lambs Grove, IA",2,5,2,1,3,5,3,2,4,9,2013
+56915,"Pleasant Hill, IA","Greenfield, IA",1,6,2,0,5,4,6,2,1,9,2013
+56958,"Pleasant Hill, IA","Le Grand, IA",5,3,1,0,2,7,5,2,2,9,2013
+56788,"Pleasant Hill, IA","Belle Plaine, IA",2,5,2,3,4,2,3,3,3,9,2013
+56960,"Pleasant Hill, IA","Le Roy, IA",0,6,2,1,4,3,4,2,2,8,2013
+56861,"Pleasant Hill, IA","Dexter, IA",3,4,1,2,1,5,3,1,4,8,2013
+56959,"Pleasant Hill, IA","Le Mars, IA",3,2,3,1,0,7,3,3,2,8,2013
+57078,"Pleasant Hill, IA","Rhodes, IA",1,4,3,0,3,5,0,4,4,8,2013
+57082,"Pleasant Hill, IA","Robins, IA",1,5,2,0,5,3,2,4,2,8,2013
+56778,"Pleasant Hill, IA","Asbury, IA",2,6,0,1,3,4,3,1,4,8,2013
+57137,"Pleasant Hill, IA","University Park, IA",2,3,3,0,3,5,5,2,1,8,2013
+57017,"Pleasant Hill, IA","Mount Vernon, IA",3,3,2,3,1,4,1,4,3,8,2013
+57008,"Pleasant Hill, IA","Montour, IA",2,3,2,0,3,4,2,5,0,7,2013
+56966,"Pleasant Hill, IA","Linden, IA",3,2,2,1,1,5,5,0,2,7,2013
+56810,"Pleasant Hill, IA","Carter Lake, IA",5,1,1,0,1,6,5,1,1,7,2013
+57162,"Pleasant Hill, IA","Williamsburg, IA",1,6,0,0,4,3,3,1,3,7,2013
+56991,"Pleasant Hill, IA","Maxwell, IA",1,6,0,1,3,3,2,2,3,7,2013
+57076,"Pleasant Hill, IA","Redfield, IA",3,4,0,2,3,2,2,3,2,7,2013
+56795,"Pleasant Hill, IA","Blakesburg, IA",5,1,1,0,3,4,5,1,1,7,2013
+56955,"Pleasant Hill, IA","Larrabee, IA",3,2,2,1,2,4,3,2,2,7,2013
+56809,"Pleasant Hill, IA","Carroll, IA",3,2,2,0,1,6,4,2,1,7,2013
+57136,"Pleasant Hill, IA","University Heights, IA",2,2,3,0,1,6,2,2,3,7,2013
+57060,"Pleasant Hill, IA","Pleasanton, IA",1,3,3,1,3,3,1,4,2,7,2013
+56902,"Pleasant Hill, IA","Garden Grove, IA",1,3,3,1,2,4,3,1,3,7,2013
+57143,"Pleasant Hill, IA","Vinton, IA",3,1,2,2,2,2,2,2,2,6,2013
+57000,"Pleasant Hill, IA","Minburn, IA",0,6,0,3,3,0,1,2,3,6,2013
+57131,"Pleasant Hill, IA","Toledo, IA",3,1,2,1,4,1,2,4,0,6,2013
+56945,"Pleasant Hill, IA","Kellogg, IA",3,1,2,1,1,4,2,3,1,6,2013
+57086,"Pleasant Hill, IA","Roland, IA",2,3,1,0,4,2,2,2,2,6,2013
+57109,"Pleasant Hill, IA","Spencer, IA",3,2,1,0,2,4,5,0,1,6,2013
+56869,"Pleasant Hill, IA","Eagle Grove, IA",3,2,1,0,2,4,3,1,2,6,2013
+56787,"Pleasant Hill, IA","Bedford, IA",3,1,2,1,2,3,2,2,2,6,2013
+56914,"Pleasant Hill, IA","Grant, IA",2,4,0,1,1,4,1,3,2,6,2013
+57011,"Pleasant Hill, IA","Morley, IA",1,4,1,0,1,5,1,3,2,6,2013
+56968,"Pleasant Hill, IA","Liscomb, IA",1,5,0,1,3,2,2,2,2,6,2013
+56842,"Pleasant Hill, IA","Corydon, IA",2,1,3,0,4,2,2,1,3,6,2013
+56925,"Pleasant Hill, IA","Haverhill, IA",1,4,1,2,2,2,2,0,4,6,2013
+56976,"Pleasant Hill, IA","Lynnville, IA",2,4,0,2,1,3,0,3,3,6,2013
+56892,"Pleasant Hill, IA","Ferguson, IA",2,2,2,0,3,3,2,3,1,6,2013
+56898,"Pleasant Hill, IA","Fort Madison, IA",1,4,0,0,2,3,2,3,0,5,2013
+56919,"Pleasant Hill, IA","Guthrie Center, IA",0,2,3,1,0,4,0,1,4,5,2013
+56999,"Pleasant Hill, IA","Milton, IA",3,2,0,0,1,4,3,1,1,5,2013
+56962,"Pleasant Hill, IA","Leon, IA",2,2,1,0,1,4,4,1,0,5,2013
+56939,"Pleasant Hill, IA","Jefferson, IA",2,2,1,2,0,3,2,0,3,5,2013
+56904,"Pleasant Hill, IA","Garwin, IA",1,3,1,0,1,4,3,1,1,5,2013
+56912,"Pleasant Hill, IA","Grandview, IA",0,5,0,0,3,2,0,4,1,5,2013
+57004,"Pleasant Hill, IA","Mondamin, IA",1,2,2,0,3,2,3,1,1,5,2013
+57013,"Pleasant Hill, IA","Moulton, IA",0,3,2,2,0,3,1,0,4,5,2013
+57014,"Pleasant Hill, IA","Mount Auburn, IA",2,1,2,0,5,0,3,1,1,5,2013
+56907,"Pleasant Hill, IA","Gilman, IA",2,3,0,2,1,2,0,2,3,5,2013
+56971,"Pleasant Hill, IA","Lone Tree, IA",1,3,1,3,0,2,1,2,2,5,2013
+56839,"Pleasant Hill, IA","Coralville, IA",5,0,0,0,1,4,3,2,0,5,2013
+57167,"Pleasant Hill, IA","Woodward, IA",0,3,2,2,1,2,0,0,5,5,2013
+56797,"Pleasant Hill, IA","Bloomfield, IA",3,0,2,1,2,2,2,1,2,5,2013
+56840,"Pleasant Hill, IA","Corning, IA",1,2,2,0,2,3,1,3,1,5,2013
+56872,"Pleasant Hill, IA","Elberon, IA",1,3,1,2,1,2,1,1,3,5,2013
+56770,"Pleasant Hill, IA","Alton, IA",2,0,3,0,2,3,3,2,0,5,2013
+57115,"Pleasant Hill, IA","Stanhope, IA",1,3,1,1,2,2,2,3,0,5,2013
+57138,"Pleasant Hill, IA","Urbana, IA",1,4,0,1,1,3,2,1,2,5,2013
+56973,"Pleasant Hill, IA","Lorimor, IA",1,4,0,1,1,3,1,3,1,5,2013
+56763,"Pleasant Hill, IA","Afton, IA",1,3,1,2,1,2,0,4,1,5,2013
+57064,"Pleasant Hill, IA","Pomeroy, IA",2,2,1,0,0,5,1,2,2,5,2013
+56762,"Pleasant Hill, IA","Adel, IA",0,5,0,2,1,2,2,1,2,5,2013
+57051,"Pleasant Hill, IA","Palo, IA",1,3,1,1,1,3,1,3,1,5,2013
+57088,"Pleasant Hill, IA","Russell, IA",1,3,1,0,2,3,2,2,1,5,2013
+56889,"Pleasant Hill, IA","Farnhamville, IA",3,1,0,1,2,1,2,2,0,4,2013
+57090,"Pleasant Hill, IA","Sac City, IA",2,1,1,0,1,3,2,1,1,4,2013
+56819,"Pleasant Hill, IA","Central City, IA",1,3,0,1,2,1,1,2,1,4,2013
+57129,"Pleasant Hill, IA","Tiffin, IA",3,1,0,0,2,2,1,3,0,4,2013
+57010,"Pleasant Hill, IA","Moravia, IA",1,3,0,0,0,4,2,1,1,4,2013
+56995,"Pleasant Hill, IA","Meriden, IA",1,3,0,0,1,3,1,1,2,4,2013
+57135,"Pleasant Hill, IA","Unionville, IA",0,4,0,0,0,4,1,0,3,4,2013
+56826,"Pleasant Hill, IA","Clear Lake, IA",2,0,2,0,2,2,2,2,0,4,2013
+56891,"Pleasant Hill, IA","Fayette, IA",1,2,1,0,3,1,1,1,2,4,2013
+56948,"Pleasant Hill, IA","Kinross, IA",0,2,2,2,0,2,1,1,2,4,2013
+56794,"Pleasant Hill, IA","Blairstown, IA",3,0,1,1,2,1,2,1,1,4,2013
+56785,"Pleasant Hill, IA","Battle Creek, IA",1,1,2,0,0,4,2,1,1,4,2013
+56780,"Pleasant Hill, IA","Atlantic, IA",0,3,1,0,3,1,2,1,1,4,2013
+56766,"Pleasant Hill, IA","Albion, IA",2,1,1,0,2,2,3,0,1,4,2013
+56977,"Pleasant Hill, IA","Macksburg, IA",1,1,2,2,1,1,1,1,2,4,2013
+56964,"Pleasant Hill, IA","Lidderdale, IA",2,2,0,0,1,3,3,0,1,4,2013
+56967,"Pleasant Hill, IA","Lineville, IA",2,2,0,0,1,3,2,2,0,4,2013
+56761,"Pleasant Hill, IA","Adair, IA",1,3,0,0,2,2,2,2,0,4,2013
+56975,"Pleasant Hill, IA","Luther, IA",0,2,2,0,0,4,2,1,1,4,2013
+56792,"Pleasant Hill, IA","Bertram, IA",1,3,0,1,0,3,2,1,1,4,2013
+57094,"Pleasant Hill, IA","Sergeant Bluff, IA",1,1,2,0,0,4,1,2,1,4,2013
+56911,"Pleasant Hill, IA","Grand River, IA",0,1,3,0,2,2,0,4,0,4,2013
+57019,"Pleasant Hill, IA","Murray, IA",2,2,0,0,2,2,2,1,1,4,2013
+56885,"Pleasant Hill, IA","Fairfax, IA",2,1,1,1,1,2,2,0,2,4,2013
+56874,"Pleasant Hill, IA","Eldora, IA",1,2,1,1,2,1,1,2,1,4,2013
+57025,"Pleasant Hill, IA","New Sharon, IA",0,1,3,0,4,0,0,4,0,4,2013
+57024,"Pleasant Hill, IA","New London, IA",1,1,2,0,4,0,2,1,1,4,2013
+57070,"Pleasant Hill, IA","Rathbun, IA",2,1,1,0,3,1,2,2,0,4,2013
+56848,"Pleasant Hill, IA","Cromwell, IA",1,2,1,0,2,2,0,4,0,4,2013
+57074,"Pleasant Hill, IA","Red Oak, IA",1,1,2,3,0,1,1,2,1,4,2013
+57077,"Pleasant Hill, IA","Reinbeck, IA",1,1,2,0,0,4,3,1,0,4,2013
+56857,"Pleasant Hill, IA","Deloit, IA",0,2,2,0,2,2,0,0,4,4,2013
+57170,"Pleasant Hill, IA","Zearing, IA",3,1,0,0,0,4,3,0,1,4,2013
+56849,"Pleasant Hill, IA","Cushing, IA",1,3,0,0,0,4,0,2,2,4,2013
+57015,"Pleasant Hill, IA","Mount Ayr, IA",1,1,2,1,2,1,2,0,2,4,2013
+57084,"Pleasant Hill, IA","Rock Valley, IA",1,1,1,0,0,3,1,1,1,3,2013
+57126,"Pleasant Hill, IA","Swea City, IA",2,1,0,0,1,2,2,1,0,3,2013
+57038,"Pleasant Hill, IA","Orange City, IA",2,1,0,0,0,3,2,1,0,3,2013
+57045,"Pleasant Hill, IA","Owasa, IA",0,1,2,1,0,2,0,2,1,3,2013
+57035,"Pleasant Hill, IA","Oelwein, IA",1,2,0,1,0,2,0,2,1,3,2013
+57032,"Pleasant Hill, IA","Northwood, IA",1,2,0,0,3,0,2,1,0,3,2013
+57065,"Pleasant Hill, IA","Popejoy, IA",0,3,0,1,2,0,1,0,2,3,2013
+57091,"Pleasant Hill, IA","Sandyville, IA",0,3,0,2,1,0,1,0,2,3,2013
+57068,"Pleasant Hill, IA","Promise City, IA",1,1,1,0,1,2,2,0,1,3,2013
+57005,"Pleasant Hill, IA","Monona, IA",3,0,0,0,1,2,2,1,0,3,2013
+57161,"Pleasant Hill, IA","Williams, IA",2,1,0,0,1,2,2,1,0,3,2013
+57159,"Pleasant Hill, IA","West Liberty, IA",0,3,0,0,0,3,3,0,0,3,2013
+57157,"Pleasant Hill, IA","West Burlington, IA",2,1,0,0,2,1,2,1,0,3,2013
+56980,"Pleasant Hill, IA","Manchester, IA",2,1,0,0,1,2,1,1,1,3,2013
+56982,"Pleasant Hill, IA","Manning, IA",0,2,1,0,0,3,0,2,1,3,2013
+57023,"Pleasant Hill, IA","New Hampton, IA",0,2,1,0,1,2,1,1,1,3,2013
+57147,"Pleasant Hill, IA","Wall Lake, IA",1,1,1,1,0,2,0,2,1,3,2013
+57022,"Pleasant Hill, IA","New Albin, IA",2,1,0,0,1,2,1,1,1,3,2013
+57145,"Pleasant Hill, IA","Walford, IA",1,1,1,0,0,3,1,1,1,3,2013
+57099,"Pleasant Hill, IA","Shenandoah, IA",0,2,1,1,2,0,0,2,1,3,2013
+57101,"Pleasant Hill, IA","Sibley, IA",0,2,1,0,1,2,0,2,1,3,2013
+57071,"Pleasant Hill, IA","Raymond, IA",0,3,0,0,1,2,0,3,0,3,2013
+57072,"Pleasant Hill, IA","Readlyn, IA",1,2,0,0,0,3,0,2,1,3,2013
+57103,"Pleasant Hill, IA","Sigourney, IA",2,1,0,0,1,2,2,1,0,3,2013
+57085,"Pleasant Hill, IA","Rodney, IA",1,1,1,1,0,2,1,0,2,3,2013
+57133,"Pleasant Hill, IA","Underwood, IA",1,1,1,0,1,2,0,2,1,3,2013
+57106,"Pleasant Hill, IA","Slater, IA",0,2,1,1,2,0,0,0,3,3,2013
+57081,"Pleasant Hill, IA","Riverside, IA",0,2,1,1,0,2,1,1,1,3,2013
+57128,"Pleasant Hill, IA","Thompson, IA",0,3,0,1,2,0,0,0,3,3,2013
+57089,"Pleasant Hill, IA","Ryan, IA",0,2,1,0,2,1,1,1,1,3,2013
+56759,"Pleasant Hill, IA","Ackley, IA",0,3,0,1,0,2,1,0,2,3,2013
+56805,"Pleasant Hill, IA","Bussey, IA",1,1,1,0,1,2,0,3,0,3,2013
+56952,"Pleasant Hill, IA","Lake Mills, IA",2,1,0,0,1,2,2,0,1,3,2013
+56817,"Pleasant Hill, IA","Center Point, IA",0,3,0,0,1,2,0,2,1,3,2013
+56821,"Pleasant Hill, IA","Charles City, IA",1,1,1,0,0,3,2,0,1,3,2013
+56822,"Pleasant Hill, IA","Charter Oak, IA",3,0,0,0,0,3,2,1,0,3,2013
+56901,"Pleasant Hill, IA","Fremont, IA",0,1,2,0,1,2,1,1,1,3,2013
+56812,"Pleasant Hill, IA","Casey, IA",2,1,0,1,1,1,1,1,1,3,2013
+56946,"Pleasant Hill, IA","Keokuk, IA",1,1,1,0,1,2,0,2,1,3,2013
+56900,"Pleasant Hill, IA","Fraser, IA",0,3,0,0,2,1,0,1,2,3,2013
+56799,"Pleasant Hill, IA","Bonaparte, IA",0,1,2,1,2,0,1,2,0,3,2013
+56798,"Pleasant Hill, IA","Blue Grass, IA",1,2,0,0,0,3,1,2,0,3,2013
+56796,"Pleasant Hill, IA","Blanchard, IA",3,0,0,0,1,2,1,2,0,3,2013
+56938,"Pleasant Hill, IA","Irwin, IA",2,1,0,0,1,2,0,2,1,3,2013
+56868,"Pleasant Hill, IA","Dysart, IA",1,2,0,1,0,2,1,0,2,3,2013
+56784,"Pleasant Hill, IA","Batavia, IA",2,1,0,0,1,2,2,0,1,3,2013
+56871,"Pleasant Hill, IA","Eddyville, IA",1,2,0,0,0,3,1,1,1,3,2013
+56908,"Pleasant Hill, IA","Glenwood, IA",1,2,0,0,1,2,1,1,1,3,2013
+56875,"Pleasant Hill, IA","Eldridge, IA",1,0,2,0,1,2,1,1,1,3,2013
+56825,"Pleasant Hill, IA","Clarion, IA",2,1,0,1,1,1,0,2,1,3,2013
+56850,"Pleasant Hill, IA","Dakota City, IA",2,1,0,0,1,2,3,0,0,3,2013
+56832,"Pleasant Hill, IA","Coggon, IA",1,0,2,0,1,2,1,1,1,3,2013
+56836,"Pleasant Hill, IA","Colwell, IA",0,1,2,0,2,1,0,2,1,3,2013
+56963,"Pleasant Hill, IA","Lewis, IA",2,0,1,0,2,1,3,0,0,3,2013
+56969,"Pleasant Hill, IA","Little Sioux, IA",0,2,1,0,2,1,2,1,0,3,2013
+57083,"Pleasant Hill, IA","Rock Rapids, IA",0,2,0,0,0,2,0,1,1,2,2013
+56855,"Pleasant Hill, IA","Decorah, IA",0,1,1,0,0,2,0,2,0,2,2013
+56846,"Pleasant Hill, IA","Cresco, IA",1,1,0,0,2,0,0,1,1,2,2013
+56856,"Pleasant Hill, IA","Delaware, IA",2,0,0,0,2,0,0,2,0,2,2013
+56845,"Pleasant Hill, IA","Crescent, IA",1,0,1,0,0,2,2,0,0,2,2013
+57079,"Pleasant Hill, IA","Richland, IA",0,1,1,0,0,2,0,2,0,2,2013
+56972,"Pleasant Hill, IA","Long Grove, IA",0,1,1,0,1,1,0,0,2,2,2013
+56858,"Pleasant Hill, IA","Delta, IA",1,1,0,0,1,1,2,0,0,2,2013
+56862,"Pleasant Hill, IA","Diagonal, IA",0,1,1,0,2,0,1,1,0,2,2013
+56863,"Pleasant Hill, IA","Dixon, IA",0,1,1,0,0,2,1,1,0,2,2013
+57075,"Pleasant Hill, IA","Redding, IA",2,0,0,0,2,0,0,2,0,2,2013
+56841,"Pleasant Hill, IA","Corwith, IA",0,1,1,1,0,1,0,1,1,2,2013
+56865,"Pleasant Hill, IA","Dougherty, IA",0,2,0,0,0,2,0,2,0,2,2013
+57069,"Pleasant Hill, IA","Protivin, IA",1,0,1,0,2,0,2,0,0,2,2013
+56877,"Pleasant Hill, IA","Ely, IA",0,2,0,1,1,0,0,1,1,2,2013
+56879,"Pleasant Hill, IA","Epworth, IA",0,2,0,0,1,1,0,1,1,2,2013
+56881,"Pleasant Hill, IA","Evansdale, IA",2,0,0,0,0,2,2,0,0,2,2013
+57057,"Pleasant Hill, IA","Plano, IA",0,1,1,0,1,1,2,0,0,2,2013
+56882,"Pleasant Hill, IA","Exira, IA",1,0,1,0,1,1,1,1,0,2,2013
+56884,"Pleasant Hill, IA","Fairbank, IA",0,1,1,0,1,1,0,1,1,2,2013
+56844,"Pleasant Hill, IA","Crawfordsville, IA",1,1,0,0,1,1,2,0,0,2,2013
+56824,"Pleasant Hill, IA","Clarinda, IA",2,0,0,0,0,2,1,1,0,2,2013
+56837,"Pleasant Hill, IA","Conrad, IA",0,2,0,0,0,2,1,0,1,2,2013
+56803,"Pleasant Hill, IA","Brooklyn, IA",1,1,0,0,0,2,2,0,0,2,2013
+57169,"Pleasant Hill, IA","Yetter, IA",0,1,1,0,0,2,1,1,0,2,2013
+56764,"Pleasant Hill, IA","Agency, IA",1,0,1,0,0,2,1,1,0,2,2013
+56768,"Pleasant Hill, IA","Algona, IA",0,2,0,0,0,2,0,2,0,2,2013
+56776,"Pleasant Hill, IA","Anthon, IA",1,1,0,0,0,2,2,0,0,2,2013
+57155,"Pleasant Hill, IA","Wellman, IA",0,2,0,0,2,0,1,0,1,2,2013
+56779,"Pleasant Hill, IA","Atkins, IA",2,0,0,0,0,2,2,0,0,2,2013
+57152,"Pleasant Hill, IA","Waverly, IA",1,1,0,0,1,1,0,1,1,2,2013
+57151,"Pleasant Hill, IA","Waukon, IA",0,1,1,0,2,0,1,1,0,2,2013
+56781,"Pleasant Hill, IA","Aurelia, IA",2,0,0,0,1,1,0,2,0,2,2013
+57144,"Pleasant Hill, IA","Walcott, IA",2,0,0,0,1,1,1,1,0,2,2013
+56791,"Pleasant Hill, IA","Bennett, IA",0,1,1,0,1,1,1,1,0,2,2013
+57127,"Pleasant Hill, IA","Tama, IA",1,1,0,0,1,1,1,1,0,2,2013
+57093,"Pleasant Hill, IA","Schleswig, IA",1,1,0,0,0,2,0,1,1,2,2013
+56813,"Pleasant Hill, IA","Castalia, IA",1,1,0,0,0,2,1,1,0,2,2013
+57124,"Pleasant Hill, IA","Superior, IA",0,1,1,0,1,1,0,1,1,2,2013
+57122,"Pleasant Hill, IA","Sully, IA",1,0,1,0,2,0,1,0,1,2,2013
+57119,"Pleasant Hill, IA","Storm Lake, IA",2,0,0,0,1,1,2,0,0,2,2013
+57117,"Pleasant Hill, IA","State Center, IA",0,2,0,0,0,2,2,0,0,2,2013
+57116,"Pleasant Hill, IA","Stanton, IA",2,0,0,0,1,1,0,1,1,2,2013
+56823,"Pleasant Hill, IA","Cincinnati, IA",0,1,1,0,0,2,1,1,0,2,2013
+57050,"Pleasant Hill, IA","Packwood, IA",1,1,0,0,1,1,2,0,0,2,2013
+57107,"Pleasant Hill, IA","Soldier, IA",0,1,1,1,0,1,1,0,1,2,2013
+57102,"Pleasant Hill, IA","Sidney, IA",1,1,0,0,1,1,1,1,0,2,2013
+56835,"Pleasant Hill, IA","Columbus Junction, IA",1,0,1,0,0,2,1,0,1,2,2013
+56887,"Pleasant Hill, IA","Farley, IA",1,0,1,0,0,2,1,0,1,2,2013
+56867,"Pleasant Hill, IA","Dyersville, IA",0,1,1,0,1,1,1,1,0,2,2013
+56965,"Pleasant Hill, IA","Lincoln, IA",0,1,1,0,2,0,0,1,1,2,2013
+56895,"Pleasant Hill, IA","Forest City, IA",1,0,1,0,1,1,1,1,0,2,2013
+57012,"Pleasant Hill, IA","Morrison, IA",0,2,0,1,0,1,0,2,0,2,2013
+56926,"Pleasant Hill, IA","Hawarden, IA",0,0,2,0,1,1,0,2,0,2,2013
+56984,"Pleasant Hill, IA","Marble Rock, IA",2,0,0,0,0,2,2,0,0,2,2013
+56985,"Pleasant Hill, IA","Marengo, IA",2,0,0,0,0,2,2,0,0,2,2013
+57031,"Pleasant Hill, IA","North Liberty, IA",0,1,1,0,1,1,1,1,0,2,2013
+57029,"Pleasant Hill, IA","Nodaway, IA",1,1,0,0,2,0,0,0,2,2,2013
+56903,"Pleasant Hill, IA","Garner, IA",1,1,0,0,1,1,1,0,1,2,2013
+56986,"Pleasant Hill, IA","Marion, IA",0,2,0,0,2,0,1,1,0,2,2013
+56993,"Pleasant Hill, IA","Melbourne, IA",0,1,1,0,0,2,0,1,1,2,2013
+56906,"Pleasant Hill, IA","Gilbert, IA",0,1,1,0,1,1,0,0,2,2,2013
+56909,"Pleasant Hill, IA","Graettinger, IA",1,0,1,0,2,0,2,0,0,2,2013
+56918,"Pleasant Hill, IA","Guernsey, IA",2,0,0,0,0,2,1,1,0,2,2013
+56920,"Pleasant Hill, IA","Hampton, IA",2,0,0,0,1,1,1,1,0,2,2013
+57018,"Pleasant Hill, IA","Moville, IA",2,0,0,0,0,2,1,1,0,2,2013
+56947,"Pleasant Hill, IA","Keota, IA",0,2,0,2,0,0,2,0,0,2,2013
+56981,"Pleasant Hill, IA","Manly, IA",1,0,1,0,1,1,1,0,1,2,2013
+57037,"Pleasant Hill, IA","Onawa, IA",1,0,1,0,0,2,2,0,0,2,2013
+56949,"Pleasant Hill, IA","Kirkville, IA",0,1,1,0,0,2,0,2,0,2,2013
+57039,"Pleasant Hill, IA","Orient, IA",2,0,0,0,1,1,1,1,0,2,2013
+56970,"Pleasant Hill, IA","Lockridge, IA",0,1,1,0,0,2,1,1,0,2,2013
+57046,"Pleasant Hill, IA","Oxford Junction, IA",0,2,0,0,0,2,0,2,0,2,2013
+56943,"Pleasant Hill, IA","Kalona, IA",2,0,0,0,1,1,1,0,1,2,2013
+57002,"Pleasant Hill, IA","Missouri Valley, IA",1,0,1,0,1,1,2,0,0,2,2013
+56998,"Pleasant Hill, IA","Millerton, IA",2,0,0,0,1,1,0,1,1,2,2013
+56941,"Pleasant Hill, IA","Jewell Junction, IA",1,0,1,0,0,2,2,0,0,2,2013
+56894,"Pleasant Hill, IA","Floyd, IA",1,1,0,0,2,0,1,1,0,2,2013
+56890,"Pleasant Hill, IA","Farragut, IA",0,2,0,0,2,0,1,0,1,2,2013
+56979,"Pleasant Hill, IA","Malcom, IA",0,1,1,0,0,2,0,2,0,2,2013
+56940,"Pleasant Hill, IA","Jesup, IA",0,1,0,0,0,1,0,1,0,1,2013
+57001,"Pleasant Hill, IA","Minden, IA",0,0,1,0,0,1,1,0,0,1,2013
+56992,"Pleasant Hill, IA","Mechanicsville, IA",0,1,0,0,0,1,0,0,1,1,2013
+56802,"Pleasant Hill, IA","Brighton, IA",0,1,0,0,0,1,0,0,1,1,2013
+57121,"Pleasant Hill, IA","Strawberry Point, IA",1,0,0,0,0,1,1,0,0,1,2013
+56811,"Pleasant Hill, IA","Cascade, IA",0,1,0,0,1,0,0,1,0,1,2013
+57134,"Pleasant Hill, IA","Union, IA",0,1,0,0,0,1,0,0,1,1,2013
+57130,"Pleasant Hill, IA","Tipton, IA",0,1,0,0,0,1,1,0,0,1,2013
+56944,"Pleasant Hill, IA","Kellerton, IA",1,0,0,0,1,0,0,1,0,1,2013
+57132,"Pleasant Hill, IA","Traer, IA",0,1,0,0,1,0,0,1,0,1,2013
+56816,"Pleasant Hill, IA","Center Junction, IA",1,0,0,0,0,1,1,0,0,1,2013
+56997,"Pleasant Hill, IA","Milford, IA",1,0,0,0,0,1,1,0,0,1,2013
+56806,"Pleasant Hill, IA","Camanche, IA",0,1,0,0,0,1,1,0,0,1,2013
+57140,"Pleasant Hill, IA","Van Horne, IA",0,0,1,0,0,1,0,1,0,1,2013
+57123,"Pleasant Hill, IA","Sumner, IA",0,0,1,0,1,0,0,0,1,1,2013
+56789,"Pleasant Hill, IA","Bellevue, IA",0,1,0,0,1,0,0,0,1,1,2013
+56989,"Pleasant Hill, IA","Marysville, IA",0,1,0,0,0,1,0,1,0,1,2013
+57142,"Pleasant Hill, IA","Victor, IA",0,0,1,0,0,1,1,0,0,1,2013
+57168,"Pleasant Hill, IA","Woolstock, IA",0,1,0,0,0,1,0,0,1,1,2013
+56961,"Pleasant Hill, IA","Lenox, IA",1,0,0,1,0,0,0,1,0,1,2013
+56767,"Pleasant Hill, IA","Alden, IA",1,0,0,0,0,1,0,0,1,1,2013
+57165,"Pleasant Hill, IA","Winfield, IA",0,0,1,0,0,1,1,0,0,1,2013
+57163,"Pleasant Hill, IA","Wilton, IA",0,0,1,0,0,1,0,0,1,1,2013
+56769,"Pleasant Hill, IA","Allison, IA",0,0,1,0,0,1,1,0,0,1,2013
+56773,"Pleasant Hill, IA","Andover, IA",0,0,1,0,1,0,1,0,0,1,2013
+57160,"Pleasant Hill, IA","Whittemore, IA",0,1,0,0,0,1,1,0,0,1,2013
+56774,"Pleasant Hill, IA","Anita, IA",0,1,0,0,1,0,0,1,0,1,2013
+56957,"Pleasant Hill, IA","Le Claire, IA",1,0,0,0,1,0,1,0,0,1,2013
+56777,"Pleasant Hill, IA","Arthur, IA",0,1,0,0,0,1,0,1,0,1,2013
+57156,"Pleasant Hill, IA","West Bend, IA",1,0,0,0,0,1,1,0,0,1,2013
+57154,"Pleasant Hill, IA","Webster, IA",0,1,0,1,0,0,1,0,0,1,2013
+56956,"Pleasant Hill, IA","Laurens, IA",0,1,0,0,0,1,1,0,0,1,2013
+56983,"Pleasant Hill, IA","Maquoketa, IA",1,0,0,0,0,1,0,1,0,1,2013
+56782,"Pleasant Hill, IA","Avoca, IA",1,0,0,0,0,1,1,0,0,1,2013
+56783,"Pleasant Hill, IA","Baldwin, IA",0,0,1,0,1,0,1,0,0,1,2013
+57146,"Pleasant Hill, IA","Walker, IA",1,0,0,0,1,0,1,0,0,1,2013
+56935,"Pleasant Hill, IA","Inwood, IA",0,0,1,0,1,0,1,0,0,1,2013
+56988,"Pleasant Hill, IA","Martelle, IA",0,1,0,0,0,1,0,1,0,1,2013
+56790,"Pleasant Hill, IA","Belmond, IA",1,0,0,0,0,1,1,0,0,1,2013
+57118,"Pleasant Hill, IA","Steamboat Rock, IA",0,1,0,0,0,1,0,1,0,1,2013
+57047,"Pleasant Hill, IA","Oxford, IA",0,1,0,0,1,0,0,0,1,1,2013
+56933,"Pleasant Hill, IA","Imogene, IA",1,0,0,0,1,0,1,0,0,1,2013
+56905,"Pleasant Hill, IA","Gibson, IA",0,1,0,0,1,0,0,0,1,1,2013
+57080,"Pleasant Hill, IA","Rinard, IA",0,1,0,0,0,1,1,0,0,1,2013
+57028,"Pleasant Hill, IA","Nichols, IA",0,1,0,0,0,1,0,1,0,1,2013
+57030,"Pleasant Hill, IA","Nora Springs, IA",0,1,0,0,1,0,1,0,0,1,2013
+56864,"Pleasant Hill, IA","Donnellson, IA",0,1,0,0,1,0,1,0,0,1,2013
+57034,"Pleasant Hill, IA","Oakland, IA",0,1,0,1,0,0,0,0,1,1,2013
+56974,"Pleasant Hill, IA","Luana, IA",0,1,0,0,0,1,0,0,1,1,2013
+56899,"Pleasant Hill, IA","Franklin, IA",0,0,1,0,0,1,0,0,1,1,2013
+56896,"Pleasant Hill, IA","Fort Atkinson, IA",0,0,1,0,0,1,0,1,0,1,2013
+56873,"Pleasant Hill, IA","Eldon, IA",0,1,0,1,0,0,1,0,0,1,2013
+57067,"Pleasant Hill, IA","Preston, IA",0,1,0,1,0,0,0,0,1,1,2013
+56876,"Pleasant Hill, IA","Elk Run Heights, IA",0,0,1,0,1,0,1,0,0,1,2013
+56878,"Pleasant Hill, IA","Emmetsburg, IA",0,0,1,0,1,0,1,0,0,1,2013
+57062,"Pleasant Hill, IA","Pocahontas, IA",1,0,0,0,0,1,1,0,0,1,2013
+57040,"Pleasant Hill, IA","Osage, IA",0,1,0,1,0,0,0,0,1,1,2013
+56880,"Pleasant Hill, IA","Estherville, IA",1,0,0,0,0,1,0,1,0,1,2013
+57059,"Pleasant Hill, IA","Pleasant Plain, IA",0,0,1,0,0,1,0,1,0,1,2013
+56893,"Pleasant Hill, IA","Floris, IA",1,0,0,0,0,1,1,0,0,1,2013
+57056,"Pleasant Hill, IA","Plainfield, IA",1,0,0,0,0,1,1,0,0,1,2013
+57043,"Pleasant Hill, IA","Otho, IA",0,1,0,0,1,0,1,0,0,1,2013
+56883,"Pleasant Hill, IA","Exline, IA",0,0,1,0,0,1,1,0,0,1,2013
+57052,"Pleasant Hill, IA","Parnell, IA",1,0,0,0,1,0,1,0,0,1,2013
+56888,"Pleasant Hill, IA","Farmersburg, IA",0,0,1,0,0,1,0,0,1,1,2013
+57049,"Pleasant Hill, IA","Pacific Junction, IA",1,0,0,0,0,1,0,1,0,1,2013
+57026,"Pleasant Hill, IA","Newell, IA",0,0,1,0,0,1,0,1,0,1,2013
+56852,"Pleasant Hill, IA","Danbury, IA",0,0,1,0,0,1,1,0,0,1,2013
+56932,"Pleasant Hill, IA","Ida Grove, IA",1,0,0,1,0,0,1,0,0,1,2013
+56910,"Pleasant Hill, IA","Grand Mound, IA",1,0,0,0,0,1,1,0,0,1,2013
+57114,"Pleasant Hill, IA","St. Olaf, IA",1,0,0,0,0,1,1,0,0,1,2013
+57007,"Pleasant Hill, IA","Montezuma, IA",0,1,0,0,1,0,1,0,0,1,2013
+57112,"Pleasant Hill, IA","Springville, IA",1,0,0,0,1,0,0,1,0,1,2013
+57111,"Pleasant Hill, IA","Springbrook, IA",0,1,0,0,0,1,0,0,1,1,2013
+56930,"Pleasant Hill, IA","Humboldt, IA",0,0,1,0,0,1,1,0,0,1,2013
+57048,"Pleasant Hill, IA","Oyens, IA",1,0,0,0,0,1,0,1,0,1,2013
+57108,"Pleasant Hill, IA","South English, IA",0,1,0,0,1,0,0,0,1,1,2013
+56929,"Pleasant Hill, IA","Hillsboro, IA",1,0,0,0,0,1,1,0,0,1,2013
+56927,"Pleasant Hill, IA","Hedrick, IA",1,0,0,0,0,1,1,0,0,1,2013
+56827,"Pleasant Hill, IA","Clearfield, IA",0,1,0,0,0,1,0,1,0,1,2013
+57104,"Pleasant Hill, IA","Sioux Center, IA",1,0,0,0,0,1,1,0,0,1,2013
+56831,"Pleasant Hill, IA","Coburg, IA",1,0,0,0,0,1,0,1,0,1,2013
+57100,"Pleasant Hill, IA","Shueyville, IA",0,0,1,0,1,0,0,0,1,1,2013
+56924,"Pleasant Hill, IA","Havelock, IA",0,1,0,0,0,1,1,0,0,1,2013
+57098,"Pleasant Hill, IA","Sheldon, IA",1,0,0,0,1,0,1,0,0,1,2013
+57097,"Pleasant Hill, IA","Sharpsburg, IA",0,1,0,0,0,1,0,1,0,1,2013
+57096,"Pleasant Hill, IA","Shannon City, IA",0,0,1,0,1,0,0,1,0,1,2013
+57095,"Pleasant Hill, IA","Seymour, IA",0,1,0,0,1,0,1,0,0,1,2013
+56922,"Pleasant Hill, IA","Hartwick, IA",0,1,0,1,0,0,0,0,1,1,2013
+57016,"Pleasant Hill, IA","Mount Pleasant, IA",1,0,0,0,1,0,1,0,0,1,2013
+57092,"Pleasant Hill, IA","Schaller, IA",1,0,0,0,0,1,1,0,0,1,2013
+56921,"Pleasant Hill, IA","Harlan, IA",1,0,0,0,0,1,1,0,0,1,2013
+56838,"Pleasant Hill, IA","Coon Rapids, IA",0,1,0,0,0,1,0,1,0,1,2013
+57009,"Pleasant Hill, IA","Montrose, IA",1,0,0,0,0,1,1,0,0,1,2013

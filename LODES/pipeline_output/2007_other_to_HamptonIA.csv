@@ -1,0 +1,290 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+31700,"Hampton, IA","Hampton, IA",224,513,229,188,624,154,350,424,192,966,2007
+31713,"Hampton, IA","Iowa Falls, IA",35,85,26,34,88,24,52,54,40,146,2007
+31748,"Hampton, IA","Mason City, IA",30,46,21,17,69,11,24,49,24,97,2007
+31816,"Hampton, IA","Sheffield, IA",19,45,21,18,54,13,39,27,19,85,2007
+31614,"Hampton, IA","Bristow, IA",14,44,16,12,55,7,31,35,8,74,2007
+31635,"Hampton, IA","Coulter, IA",14,44,12,14,48,8,25,33,12,70,2007
+31588,"Hampton, IA","Alden, IA",20,33,15,15,44,9,24,31,13,68,2007
+31595,"Hampton, IA","Aredale, IA",9,36,23,25,35,8,28,23,17,68,2007
+31684,"Hampton, IA","Geneva, IA",10,25,14,12,30,7,16,16,17,49,2007
+31781,"Hampton, IA","Owasa, IA",4,18,8,9,12,9,5,13,12,30,2007
+31783,"Hampton, IA","Parkersburg, IA",4,14,10,6,21,1,10,11,7,28,2007
+31679,"Hampton, IA","Fort Dodge, IA",5,18,4,5,11,11,12,13,2,27,2007
+31652,"Hampton, IA","Dougherty, IA",6,15,6,6,20,1,10,13,4,27,2007
+31590,"Hampton, IA","Allison, IA",4,15,6,6,12,7,5,14,6,25,2007
+31615,"Hampton, IA","Britt, IA",1,9,10,7,13,0,7,10,3,20,2007
+31683,"Hampton, IA","Garner, IA",2,13,4,4,10,5,5,9,5,19,2007
+31630,"Hampton, IA","Clear Lake, IA",1,14,4,7,10,2,5,10,4,19,2007
+31807,"Hampton, IA","Rockwell, IA",8,7,2,2,15,0,7,9,1,17,2007
+31585,"Hampton, IA","Ackley, IA",3,10,4,5,10,2,3,6,8,17,2007
+31649,"Hampton, IA","Des Moines, IA",4,12,0,0,10,6,3,5,8,16,2007
+31678,"Hampton, IA","Forest City, IA",1,10,5,6,7,3,8,7,1,16,2007
+31853,"Hampton, IA","Waterloo, IA",6,6,3,0,13,2,5,10,0,15,2007
+31626,"Hampton, IA","Charles City, IA",2,11,2,5,8,2,3,10,2,15,2007
+31769,"Hampton, IA","Nora Springs, IA",3,10,1,6,6,2,1,8,5,14,2007
+31805,"Hampton, IA","Rockford, IA",7,5,2,4,10,0,4,7,3,14,2007
+31817,"Hampton, IA","Shell Rock, IA",2,6,6,6,8,0,3,4,7,14,2007
+31773,"Hampton, IA","Oelwein, IA",4,6,3,0,10,3,4,7,2,13,2007
+31699,"Hampton, IA","Guttenberg, IA",0,9,1,0,9,1,1,9,0,10,2007
+31836,"Hampton, IA","Thornton, IA",1,6,3,2,7,1,2,2,6,10,2007
+31710,"Hampton, IA","Independence, IA",5,4,1,0,9,1,4,5,1,10,2007
+31638,"Hampton, IA","Crystal Lake, IA",3,4,2,3,6,0,3,6,0,9,2007
+31623,"Hampton, IA","Cedar Falls, IA",5,3,1,0,8,1,2,5,2,9,2007
+31856,"Hampton, IA","Waverly, IA",2,4,2,1,4,3,5,1,2,8,2007
+31677,"Hampton, IA","Floyd, IA",1,5,2,2,5,1,2,3,3,8,2007
+31855,"Hampton, IA","Waukon, IA",0,5,3,0,6,2,1,5,2,8,2007
+31764,"Hampton, IA","New Hampton, IA",3,4,1,1,2,5,2,4,2,8,2007
+31747,"Hampton, IA","Marshalltown, IA",2,5,0,0,1,6,4,3,0,7,2007
+31726,"Hampton, IA","Lake Mills, IA",3,3,1,2,5,0,4,3,0,7,2007
+31670,"Hampton, IA","Fairbank, IA",1,1,4,0,6,0,1,5,0,6,2007
+31645,"Hampton, IA","Decorah, IA",2,3,1,0,2,4,1,1,4,6,2007
+31693,"Hampton, IA","Greene, IA",0,4,2,3,2,1,0,5,1,6,2007
+31743,"Hampton, IA","Marble Rock, IA",2,2,2,5,1,0,0,5,1,6,2007
+31771,"Hampton, IA","Northwood, IA",0,5,1,0,5,1,1,4,1,6,2007
+31787,"Hampton, IA","Plymouth, IA",2,3,1,1,5,0,0,2,4,6,2007
+31776,"Hampton, IA","Osage, IA",2,3,1,2,2,2,1,4,1,6,2007
+31624,"Hampton, IA","Cedar Rapids, IA",3,2,1,0,6,0,5,0,1,6,2007
+31786,"Hampton, IA","Pleasant Hill, IA",2,3,0,1,0,4,4,1,0,5,2007
+31808,"Hampton, IA","Roland, IA",3,1,1,1,1,3,0,2,3,5,2007
+31659,"Hampton, IA","Elberon, IA",2,3,0,2,0,3,1,3,1,5,2007
+31789,"Hampton, IA","Popejoy, IA",0,3,2,0,4,1,2,1,2,5,2007
+31653,"Hampton, IA","Dubuque, IA",1,3,1,2,1,2,0,5,0,5,2007
+31762,"Hampton, IA","Nashua, IA",0,4,1,3,2,0,0,1,4,5,2007
+31857,"Hampton, IA","Webster City, IA",1,4,0,1,1,3,1,3,1,5,2007
+31589,"Hampton, IA","Algona, IA",2,1,2,0,1,4,1,3,1,5,2007
+31872,"Hampton, IA","Woolstock, IA",1,4,0,4,1,0,0,4,1,5,2007
+31742,"Hampton, IA","Manson, IA",1,3,1,2,3,0,2,2,1,5,2007
+31766,"Hampton, IA","New Sharon, IA",0,3,2,0,4,1,1,4,0,5,2007
+31845,"Hampton, IA","Urbandale, IA",2,3,0,0,3,2,2,3,0,5,2007
+31628,"Hampton, IA","Clarion, IA",0,3,2,0,4,1,1,0,4,5,2007
+31830,"Hampton, IA","Strawberry Point, IA",0,2,3,0,4,1,0,5,0,5,2007
+31709,"Hampton, IA","Humboldt, IA",0,3,2,2,3,0,2,2,1,5,2007
+31847,"Hampton, IA","Vinton, IA",2,0,3,0,4,1,2,3,0,5,2007
+31706,"Hampton, IA","Hiawatha, IA",3,2,0,0,3,2,3,1,1,5,2007
+31727,"Hampton, IA","Lakota, IA",1,2,1,1,2,1,1,0,3,4,2007
+31603,"Hampton, IA","Aurora, IA",1,1,2,1,2,1,1,2,1,4,2007
+31780,"Hampton, IA","Ottumwa, IA",1,3,0,0,2,2,2,2,0,4,2007
+31721,"Hampton, IA","Keokuk, IA",1,3,0,1,1,2,1,1,2,4,2007
+31594,"Hampton, IA","Ankeny, IA",2,1,1,0,2,2,2,1,1,4,2007
+31835,"Hampton, IA","Thompson, IA",1,3,0,0,4,0,1,3,0,4,2007
+31592,"Hampton, IA","Altoona, IA",0,3,1,0,2,2,0,1,3,4,2007
+31642,"Hampton, IA","Davenport, IA",0,3,1,3,1,0,0,1,3,4,2007
+31795,"Hampton, IA","Readlyn, IA",2,2,0,1,3,0,2,2,0,4,2007
+31634,"Hampton, IA","Corwith, IA",3,1,0,2,2,0,1,2,1,4,2007
+31705,"Hampton, IA","Hazleton, IA",1,3,0,0,2,2,0,4,0,4,2007
+31637,"Hampton, IA","Cresco, IA",0,3,1,0,1,3,1,2,1,4,2007
+31633,"Hampton, IA","Colwell, IA",0,3,1,1,2,1,1,2,1,4,2007
+31617,"Hampton, IA","Burlington, IA",0,2,1,0,1,2,2,0,1,3,2007
+31591,"Hampton, IA","Alta Vista, IA",0,2,1,1,2,0,0,0,3,3,2007
+31697,"Hampton, IA","Grundy Center, IA",0,1,2,0,3,0,3,0,0,3,2007
+31868,"Hampton, IA","Windsor Heights, IA",1,2,0,0,2,1,1,2,0,3,2007
+31616,"Hampton, IA","Buffalo Center, IA",1,2,0,2,0,1,1,2,0,3,2007
+31609,"Hampton, IA","Belmond, IA",1,1,1,1,2,0,0,0,3,3,2007
+31833,"Hampton, IA","Swea City, IA",1,2,0,1,2,0,0,2,1,3,2007
+31832,"Hampton, IA","Sutherland, IA",1,2,0,0,2,1,1,1,1,3,2007
+31757,"Hampton, IA","Morrison, IA",1,2,0,0,0,3,1,0,2,3,2007
+31755,"Hampton, IA","Monticello, IA",1,2,0,0,0,3,2,1,0,3,2007
+31779,"Hampton, IA","Ottosen, IA",1,2,0,1,1,1,0,1,2,3,2007
+31778,"Hampton, IA","Otho, IA",0,2,1,0,3,0,0,2,1,3,2007
+31736,"Hampton, IA","Livermore, IA",0,3,0,2,1,0,1,1,1,3,2007
+31640,"Hampton, IA","Dakota City, IA",0,3,0,0,2,1,0,3,0,3,2007
+31804,"Hampton, IA","Rock Valley, IA",0,2,1,0,1,2,0,2,1,3,2007
+31648,"Hampton, IA","Denver, IA",2,1,0,0,3,0,1,2,0,3,2007
+31718,"Hampton, IA","Joice, IA",3,0,0,2,1,0,2,1,0,3,2007
+31852,"Hampton, IA","Washington, IA",1,2,0,0,2,1,1,0,2,3,2007
+31716,"Hampton, IA","Jesup, IA",1,1,1,0,3,0,1,1,1,3,2007
+31656,"Hampton, IA","Eagle Grove, IA",1,2,0,2,1,0,1,1,1,3,2007
+31826,"Hampton, IA","Stanley, IA",2,1,0,0,2,1,2,1,0,3,2007
+31661,"Hampton, IA","Eldora, IA",1,2,0,2,0,1,0,3,0,3,2007
+31629,"Hampton, IA","Clarksville, IA",0,2,1,2,1,0,0,1,2,3,2007
+31723,"Hampton, IA","Knoxville, IA",3,0,0,0,2,1,2,1,0,3,2007
+31858,"Hampton, IA","Wellsburg, IA",0,3,0,0,2,1,0,2,1,3,2007
+31731,"Hampton, IA","Ledyard, IA",0,2,0,1,0,1,0,0,2,2,2007
+31735,"Hampton, IA","Liscomb, IA",0,1,1,1,1,0,2,0,0,2,2007
+31733,"Hampton, IA","Lincoln, IA",0,0,2,0,2,0,2,0,0,2,2007
+31744,"Hampton, IA","Marcus, IA",0,2,0,1,0,1,1,1,0,2,2007
+31741,"Hampton, IA","Manly, IA",1,1,0,0,2,0,1,1,0,2,2007
+31732,"Hampton, IA","Leland, IA",0,2,0,1,1,0,0,2,0,2,2007
+31745,"Hampton, IA","Marion, IA",0,1,1,0,2,0,1,1,0,2,2007
+31797,"Hampton, IA","Reinbeck, IA",2,0,0,0,1,1,2,0,0,2,2007
+31754,"Hampton, IA","Monona, IA",2,0,0,0,0,2,0,2,0,2,2007
+31759,"Hampton, IA","Mount Pleasant, IA",2,0,0,0,2,0,2,0,0,2,2007
+31867,"Hampton, IA","Williams, IA",0,2,0,0,2,0,0,2,0,2,2007
+31863,"Hampton, IA","Westside, IA",1,1,0,0,1,1,0,1,1,2,2007
+31860,"Hampton, IA","West Des Moines, IA",0,2,0,0,0,2,0,2,0,2,2007
+31859,"Hampton, IA","West Burlington, IA",1,1,0,0,1,1,1,0,1,2,2007
+31850,"Hampton, IA","Walford, IA",2,0,0,0,0,2,2,0,0,2,2007
+31848,"Hampton, IA","Wadena, IA",0,2,0,0,0,2,0,0,2,2,2007
+31843,"Hampton, IA","Unionville, IA",0,2,0,0,1,1,1,1,0,2,2007
+31841,"Hampton, IA","Tripoli, IA",1,1,0,0,1,1,1,0,1,2,2007
+31839,"Hampton, IA","Toledo, IA",0,2,0,0,0,2,1,1,0,2,2007
+31834,"Hampton, IA","Terril, IA",0,2,0,1,0,1,1,0,1,2,2007
+31825,"Hampton, IA","Stanhope, IA",0,1,1,1,1,0,1,0,1,2,2007
+31824,"Hampton, IA","Stacyville, IA",1,1,0,0,2,0,2,0,0,2,2007
+31801,"Hampton, IA","Riverdale, IA",0,2,0,1,0,1,1,0,1,2,2007
+31792,"Hampton, IA","Princeton, IA",0,0,2,1,1,0,1,0,1,2,2007
+31788,"Hampton, IA","Pomeroy, IA",0,1,1,0,2,0,1,1,0,2,2007
+31784,"Hampton, IA","Peterson, IA",2,0,0,0,1,1,1,1,0,2,2007
+31782,"Hampton, IA","Panora, IA",1,1,0,1,1,0,0,1,1,2,2007
+31774,"Hampton, IA","Onawa, IA",1,0,1,0,1,1,0,1,1,2,2007
+31772,"Hampton, IA","Norwalk, IA",0,2,0,0,1,1,1,1,0,2,2007
+31767,"Hampton, IA","Newton, IA",2,0,0,0,2,0,1,1,0,2,2007
+31761,"Hampton, IA","Muscatine, IA",1,1,0,1,0,1,0,0,2,2,2007
+31720,"Hampton, IA","Kensett, IA",2,0,0,1,0,1,1,1,0,2,2007
+31873,"Hampton, IA","Yetter, IA",0,2,0,0,1,1,0,2,0,2,2007
+31607,"Hampton, IA","Bedford, IA",0,2,0,0,2,0,0,2,0,2,2007
+31688,"Hampton, IA","Goldfield, IA",0,2,0,0,2,0,0,2,0,2,2007
+31612,"Hampton, IA","Boone, IA",1,1,0,1,1,0,0,2,0,2,2007
+31598,"Hampton, IA","Asbury, IA",0,1,1,0,0,2,0,1,1,2,2007
+31664,"Hampton, IA","Elma, IA",2,0,0,0,1,1,2,0,0,2,2007
+31669,"Hampton, IA","Exira, IA",1,0,1,0,1,1,0,2,0,2,2007
+31689,"Hampton, IA","Graettinger, IA",0,2,0,0,0,2,0,0,2,2,2007
+31674,"Hampton, IA","Fayette, IA",0,2,0,0,2,0,1,1,0,2,2007
+31675,"Hampton, IA","Fenton, IA",0,2,0,2,0,0,0,2,0,2,2007
+31711,"Hampton, IA","Indianola, IA",1,1,0,0,2,0,0,1,1,2,2007
+31654,"Hampton, IA","Duncombe, IA",0,1,1,0,1,1,1,0,1,2,2007
+31692,"Hampton, IA","Grant, IA",0,2,0,0,2,0,1,0,1,2,2007
+31627,"Hampton, IA","Cherokee, IA",1,1,0,1,1,0,0,2,0,2,2007
+31608,"Hampton, IA","Bellevue, IA",0,2,0,0,0,2,1,1,0,2,2007
+31685,"Hampton, IA","Gilman, IA",0,1,1,1,1,0,0,2,0,2,2007
+31680,"Hampton, IA","Frederika, IA",1,1,0,0,1,1,1,1,0,2,2007
+31663,"Hampton, IA","Ellsworth, IA",1,1,0,1,0,1,1,1,0,2,2007
+31636,"Hampton, IA","Council Bluffs, IA",1,0,0,0,1,0,0,1,0,1,2007
+31719,"Hampton, IA","Kamrar, IA",0,1,0,1,0,0,0,1,0,1,2007
+31632,"Hampton, IA","Clive, IA",0,1,0,0,0,1,0,0,1,1,2007
+31631,"Hampton, IA","Clio, IA",0,1,0,0,0,1,0,0,1,1,2007
+31827,"Hampton, IA","State Center, IA",0,1,0,1,0,0,0,0,1,1,2007
+31823,"Hampton, IA","St. Olaf, IA",0,1,0,0,1,0,0,1,0,1,2007
+31829,"Hampton, IA","Storm Lake, IA",0,0,1,0,0,1,1,0,0,1,2007
+31831,"Hampton, IA","Sumner, IA",1,0,0,0,1,0,1,0,0,1,2007
+31828,"Hampton, IA","Steamboat Rock, IA",0,1,0,0,1,0,0,0,1,1,2007
+31821,"Hampton, IA","Spirit Lake, IA",0,0,1,0,0,1,1,0,0,1,2007
+31822,"Hampton, IA","Spring Hill, IA",0,1,0,0,1,0,0,1,0,1,2007
+31812,"Hampton, IA","Salem, IA",0,1,0,0,0,1,0,0,1,1,2007
+31646,"Hampton, IA","Dedham, IA",1,0,0,1,0,0,0,1,0,1,2007
+31806,"Hampton, IA","Rockwell City, IA",0,1,0,0,1,0,0,1,0,1,2007
+31644,"Hampton, IA","De Witt, IA",0,1,0,0,1,0,0,1,0,1,2007
+31643,"Hampton, IA","De Soto, IA",0,1,0,1,0,0,0,0,1,1,2007
+31809,"Hampton, IA","Rome, IA",1,0,0,1,0,0,0,0,1,1,2007
+31810,"Hampton, IA","Russell, IA",0,1,0,0,0,1,0,1,0,1,2007
+31811,"Hampton, IA","Ryan, IA",0,0,1,1,0,0,0,1,0,1,2007
+31813,"Hampton, IA","Sandyville, IA",0,1,0,0,0,1,0,0,1,1,2007
+31622,"Hampton, IA","Casey, IA",0,1,0,1,0,0,0,1,0,1,2007
+31814,"Hampton, IA","Scarville, IA",0,1,0,0,1,0,0,1,0,1,2007
+31815,"Hampton, IA","Shannon City, IA",1,0,0,0,1,0,1,0,0,1,2007
+31641,"Hampton, IA","Danbury, IA",0,1,0,0,1,0,0,1,0,1,2007
+31639,"Hampton, IA","Cumberland, IA",1,0,0,0,1,0,1,0,0,1,2007
+31818,"Hampton, IA","Sioux Center, IA",0,1,0,0,0,1,0,0,1,1,2007
+31819,"Hampton, IA","Sioux City, IA",0,1,0,1,0,0,0,1,0,1,2007
+31820,"Hampton, IA","Spencer, IA",1,0,0,0,0,1,0,0,1,1,2007
+31625,"Hampton, IA","Center Point, IA",1,0,0,0,1,0,1,0,0,1,2007
+31837,"Hampton, IA","Tiffin, IA",0,1,0,0,0,1,0,0,1,1,2007
+31621,"Hampton, IA","Carroll, IA",1,0,0,0,0,1,1,0,0,1,2007
+31620,"Hampton, IA","Cambridge, IA",1,0,0,0,1,0,1,0,0,1,2007
+31601,"Hampton, IA","Atkins, IA",0,1,0,0,0,1,0,0,1,1,2007
+31600,"Hampton, IA","Atalissa, IA",1,0,0,0,0,1,0,1,0,1,2007
+31599,"Hampton, IA","Ashton, IA",0,1,0,0,0,1,0,0,1,1,2007
+31861,"Hampton, IA","West Liberty, IA",1,0,0,1,0,0,0,0,1,1,2007
+31862,"Hampton, IA","West Union, IA",0,1,0,1,0,0,0,1,0,1,2007
+31597,"Hampton, IA","Arthur, IA",1,0,0,1,0,0,0,1,0,1,2007
+31864,"Hampton, IA","What Cheer, IA",0,1,0,0,1,0,0,1,0,1,2007
+31865,"Hampton, IA","Wheatland, IA",0,1,0,0,1,0,0,1,0,1,2007
+31866,"Hampton, IA","Whittemore, IA",1,0,0,0,0,1,1,0,0,1,2007
+31596,"Hampton, IA","Arlington, IA",0,1,0,0,1,0,1,0,0,1,2007
+31593,"Hampton, IA","Ames, IA",0,1,0,0,0,1,0,1,0,1,2007
+31869,"Hampton, IA","Winfield, IA",0,1,0,0,0,1,0,1,0,1,2007
+31870,"Hampton, IA","Winterset, IA",0,1,0,1,0,0,1,0,0,1,2007
+31871,"Hampton, IA","Woden, IA",0,1,0,1,0,0,0,1,0,1,2007
+31587,"Hampton, IA","Adel, IA",1,0,0,0,1,0,1,0,0,1,2007
+31602,"Hampton, IA","Audubon, IA",0,1,0,0,1,0,0,1,0,1,2007
+31604,"Hampton, IA","Bancroft, IA",1,0,0,0,1,0,1,0,0,1,2007
+31854,"Hampton, IA","Waucoma, IA",0,0,1,0,0,1,0,1,0,1,2007
+31842,"Hampton, IA","Underwood, IA",0,1,0,0,1,0,0,0,1,1,2007
+31619,"Hampton, IA","Camanche, IA",1,0,0,0,0,1,1,0,0,1,2007
+31803,"Hampton, IA","Rock Rapids, IA",1,0,0,0,0,1,1,0,0,1,2007
+31838,"Hampton, IA","Titonka, IA",0,1,0,1,0,0,0,1,0,1,2007
+31618,"Hampton, IA","Callender, IA",0,1,0,0,1,0,0,0,1,1,2007
+31840,"Hampton, IA","Traer, IA",1,0,0,1,0,0,0,1,0,1,2007
+31613,"Hampton, IA","Boyden, IA",1,0,0,0,0,1,1,0,0,1,2007
+31844,"Hampton, IA","Urbana, IA",0,1,0,0,1,0,1,0,0,1,2007
+31605,"Hampton, IA","Batavia, IA",0,1,0,0,0,1,0,0,1,1,2007
+31611,"Hampton, IA","Blue Grass, IA",1,0,0,0,0,1,0,1,0,1,2007
+31846,"Hampton, IA","Van Horne, IA",1,0,0,0,0,1,1,0,0,1,2007
+31610,"Hampton, IA","Bertram, IA",1,0,0,0,1,0,1,0,0,1,2007
+31849,"Hampton, IA","Wahpeton, IA",0,0,1,0,0,1,0,1,0,1,2007
+31851,"Hampton, IA","Wall Lake, IA",0,1,0,1,0,0,0,1,0,1,2007
+31606,"Hampton, IA","Beaman, IA",1,0,0,0,0,1,1,0,0,1,2007
+31647,"Hampton, IA","Denison, IA",1,0,0,0,1,0,1,0,0,1,2007
+31796,"Hampton, IA","Reasnor, IA",1,0,0,0,0,1,1,0,0,1,2007
+31802,"Hampton, IA","Robins, IA",1,0,0,0,0,1,0,1,0,1,2007
+31746,"Hampton, IA","Marquette, IA",0,0,1,0,1,0,1,0,0,1,2007
+31740,"Hampton, IA","Manchester, IA",0,0,1,1,0,0,1,0,0,1,2007
+31701,"Hampton, IA","Hanlontown, IA",0,0,1,0,1,0,0,0,1,1,2007
+31698,"Hampton, IA","Guernsey, IA",0,0,1,0,0,1,0,1,0,1,2007
+31696,"Hampton, IA","Grinnell, IA",0,0,1,0,1,0,0,0,1,1,2007
+31695,"Hampton, IA","Grimes, IA",1,0,0,0,1,0,1,0,0,1,2007
+31694,"Hampton, IA","Greenfield, IA",0,1,0,0,0,1,0,0,1,1,2007
+31691,"Hampton, IA","Granger, IA",0,0,1,0,1,0,0,1,0,1,2007
+31738,"Hampton, IA","Luana, IA",1,0,0,0,0,1,1,0,0,1,2007
+31749,"Hampton, IA","Maxwell, IA",1,0,0,0,0,1,1,0,0,1,2007
+31750,"Hampton, IA","McIntire, IA",0,0,1,1,0,0,0,1,0,1,2007
+31751,"Hampton, IA","Melcher-Dallas, IA",0,1,0,0,0,1,0,0,1,1,2007
+31752,"Hampton, IA","Millville, IA",0,1,0,0,1,0,0,1,0,1,2007
+31753,"Hampton, IA","Mitchell, IA",1,0,0,0,1,0,1,0,0,1,2007
+31690,"Hampton, IA","Grandview, IA",1,0,0,0,0,1,0,1,0,1,2007
+31739,"Hampton, IA","Luther, IA",0,1,0,0,0,1,0,1,0,1,2007
+31737,"Hampton, IA","Lorimor, IA",0,0,1,0,1,0,0,1,0,1,2007
+31758,"Hampton, IA","Moulton, IA",1,0,0,0,1,0,1,0,0,1,2007
+31728,"Hampton, IA","Larrabee, IA",1,0,0,0,1,0,0,1,0,1,2007
+31715,"Hampton, IA","Jefferson, IA",0,1,0,0,0,1,0,1,0,1,2007
+31722,"Hampton, IA","Knierim, IA",0,0,1,0,1,0,0,0,1,1,2007
+31714,"Hampton, IA","Janesville, IA",1,0,0,0,1,0,0,1,0,1,2007
+31724,"Hampton, IA","La Porte City, IA",0,1,0,0,1,0,1,0,0,1,2007
+31725,"Hampton, IA","Lacona, IA",0,1,0,1,0,0,0,1,0,1,2007
+31712,"Hampton, IA","Iowa City, IA",0,1,0,0,0,1,1,0,0,1,2007
+31586,"Hampton, IA","Ackworth, IA",0,0,1,0,1,0,1,0,0,1,2007
+31702,"Hampton, IA","Harcourt, IA",0,0,1,1,0,0,0,0,1,1,2007
+31730,"Hampton, IA","Le Mars, IA",0,1,0,0,1,0,1,0,0,1,2007
+31708,"Hampton, IA","Hubbard, IA",0,1,0,1,0,0,0,0,1,1,2007
+31707,"Hampton, IA","Hospers, IA",0,1,0,0,0,1,0,0,1,1,2007
+31704,"Hampton, IA","Hawkeye, IA",0,0,1,0,0,1,0,1,0,1,2007
+31734,"Hampton, IA","Lisbon, IA",0,1,0,0,1,0,1,0,0,1,2007
+31703,"Hampton, IA","Hardy, IA",1,0,0,0,1,0,1,0,0,1,2007
+31756,"Hampton, IA","Moorhead, IA",0,0,1,0,1,0,0,0,1,1,2007
+31687,"Hampton, IA","Glidden, IA",1,0,0,1,0,0,0,1,0,1,2007
+31650,"Hampton, IA","Diagonal, IA",1,0,0,0,1,0,0,1,0,1,2007
+31655,"Hampton, IA","Dysart, IA",0,1,0,1,0,0,0,1,0,1,2007
+31662,"Hampton, IA","Eldridge, IA",0,1,0,0,0,1,1,0,0,1,2007
+31660,"Hampton, IA","Eldon, IA",1,0,0,0,1,0,0,1,0,1,2007
+31658,"Hampton, IA","Eddyville, IA",0,1,0,0,1,0,0,1,0,1,2007
+31657,"Hampton, IA","East Peru, IA",1,0,0,0,0,1,0,1,0,1,2007
+31790,"Hampton, IA","Postville, IA",0,0,1,0,0,1,0,1,0,1,2007
+31791,"Hampton, IA","Preston, IA",0,1,0,0,0,1,0,1,0,1,2007
+31793,"Hampton, IA","Rake, IA",0,1,0,0,0,1,1,0,0,1,2007
+31665,"Hampton, IA","Ely, IA",0,1,0,0,0,1,1,0,0,1,2007
+31794,"Hampton, IA","Randalia, IA",0,0,1,0,1,0,1,0,0,1,2007
+31717,"Hampton, IA","Johnston, IA",1,0,0,0,1,0,1,0,0,1,2007
+31651,"Hampton, IA","Doon, IA",0,1,0,1,0,0,1,0,0,1,2007
+31798,"Hampton, IA","Renwick, IA",0,1,0,1,0,0,0,1,0,1,2007
+31799,"Hampton, IA","Rhodes, IA",0,1,0,0,1,0,1,0,0,1,2007
+31800,"Hampton, IA","Richland, IA",0,1,0,0,1,0,0,1,0,1,2007
+31785,"Hampton, IA","Plainfield, IA",0,1,0,0,1,0,0,0,1,1,2007
+31666,"Hampton, IA","Emmetsburg, IA",0,1,0,0,1,0,0,1,0,1,2007
+31760,"Hampton, IA","Mount Union, IA",0,1,0,0,1,0,0,1,0,1,2007
+31676,"Hampton, IA","Ferguson, IA",0,1,0,1,0,0,0,1,0,1,2007
+31686,"Hampton, IA","Glenwood, IA",1,0,0,0,1,0,1,0,0,1,2007
+31763,"Hampton, IA","Nevada, IA",0,1,0,1,0,0,0,1,0,1,2007
+31682,"Hampton, IA","Garnavillo, IA",0,1,0,0,1,0,0,1,0,1,2007
+31765,"Hampton, IA","New Hartford, IA",0,0,1,0,1,0,1,0,0,1,2007
+31681,"Hampton, IA","Fremont, IA",0,0,1,0,1,0,1,0,0,1,2007
+31768,"Hampton, IA","Nichols, IA",1,0,0,0,0,1,0,1,0,1,2007
+31770,"Hampton, IA","North Liberty, IA",0,0,1,0,1,0,0,0,1,1,2007
+31667,"Hampton, IA","Epworth, IA",0,1,0,0,0,1,0,1,0,1,2007
+31673,"Hampton, IA","Farmington, IA",0,1,0,0,0,1,1,0,0,1,2007
+31672,"Hampton, IA","Fairfield, IA",0,1,0,0,1,0,0,1,0,1,2007
+31775,"Hampton, IA","Orange City, IA",1,0,0,0,0,1,1,0,0,1,2007
+31671,"Hampton, IA","Fairfax, IA",0,1,0,0,1,0,0,1,0,1,2007
+31777,"Hampton, IA","Osceola, IA",0,1,0,0,1,0,1,0,0,1,2007
+31668,"Hampton, IA","Estherville, IA",0,0,1,0,1,0,1,0,0,1,2007
+31729,"Hampton, IA","Lawler, IA",0,1,0,1,0,0,0,1,0,1,2007

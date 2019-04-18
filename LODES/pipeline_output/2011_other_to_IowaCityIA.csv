@@ -1,0 +1,383 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+34253,"Iowa City, IA","Iowa City, IA",3011,6041,2843,1320,9498,1077,3061,3734,5100,11895,2011
+34339,"Iowa City, IA","North Liberty, IA",808,2551,810,320,3543,306,520,1074,2575,4169,2011
+34425,"Iowa City, IA","University Heights, IA",825,1782,638,159,2909,177,648,803,1794,3245,2011
+34157,"Iowa City, IA","Coralville, IA",648,1596,545,217,2376,196,530,869,1390,2789,2011
+34136,"Iowa City, IA","Cedar Rapids, IA",435,926,324,202,1305,178,431,562,692,1685,2011
+34378,"Iowa City, IA","Riverside, IA",169,592,235,184,688,124,152,326,518,996,2011
+34352,"Iowa City, IA","Oxford, IA",185,518,198,121,698,82,140,262,499,901,2011
+34418,"Iowa City, IA","Tiffin, IA",188,546,156,56,771,63,121,240,529,890,2011
+34244,"Iowa City, IA","Hiawatha, IA",156,371,114,76,488,77,139,173,329,641,2011
+34379,"Iowa City, IA","Robins, IA",127,351,87,73,427,65,114,157,294,565,2011
+34327,"Iowa City, IA","Muscatine, IA",129,283,95,83,318,106,155,178,174,507,2011
+34437,"Iowa City, IA","Washington, IA",90,263,115,82,334,52,69,209,190,468,2011
+34447,"Iowa City, IA","West Branch, IA",62,282,115,98,329,32,63,160,236,459,2011
+34261,"Iowa City, IA","Kalona, IA",65,285,106,87,329,40,69,145,242,456,2011
+34451,"Iowa City, IA","West Liberty, IA",100,269,82,133,273,45,81,175,195,451,2011
+34399,"Iowa City, IA","Solon, IA",48,230,117,45,330,20,60,98,237,395,2011
+34280,"Iowa City, IA","Lisbon, IA",50,256,86,50,314,28,56,91,245,392,2011
+34096,"Iowa City, IA","Ames, IA",193,141,55,7,294,88,156,143,90,389,2011
+34167,"Iowa City, IA","Davenport, IA",146,167,72,18,260,107,169,106,110,385,2011
+34283,"Iowa City, IA","Lone Tree, IA",64,180,79,63,226,34,62,119,142,323,2011
+34419,"Iowa City, IA","Tipton, IA",57,188,62,68,221,18,52,102,153,307,2011
+34195,"Iowa City, IA","Ely, IA",45,171,76,29,235,28,49,59,184,292,2011
+34459,"Iowa City, IA","Wilton, IA",49,158,69,44,193,39,44,107,125,276,2011
+34245,"Iowa City, IA","Hills, IA",60,139,66,48,189,28,58,80,127,265,2011
+34180,"Iowa City, IA","Dubuque, IA",124,76,43,11,171,61,116,74,53,243,2011
+34458,"Iowa City, IA","Williamsburg, IA",29,165,46,22,206,12,38,83,119,240,2011
+34175,"Iowa City, IA","Des Moines, IA",121,90,27,12,178,48,111,85,42,238,2011
+34127,"Iowa City, IA","Burlington, IA",94,88,43,7,145,73,107,56,62,225,2011
+34115,"Iowa City, IA","Bettendorf, IA",75,103,43,11,139,71,102,53,66,221,2011
+34396,"Iowa City, IA","Shueyville, IA",42,127,50,27,177,15,30,58,131,219,2011
+34202,"Iowa City, IA","Fairfax, IA",44,125,33,12,158,32,46,71,85,202,2011
+34298,"Iowa City, IA","Marengo, IA",35,112,42,32,146,11,24,68,97,189,2011
+34113,"Iowa City, IA","Bennett, IA",25,109,49,31,134,18,36,46,101,183,2011
+34438,"Iowa City, IA","Waterloo, IA",76,59,32,8,120,39,91,48,28,167,2011
+34428,"Iowa City, IA","Urbandale, IA",85,58,18,3,110,48,62,66,33,161,2011
+34103,"Iowa City, IA","Atalissa, IA",21,83,47,31,110,10,24,44,83,151,2011
+34252,"Iowa City, IA","Indianola, IA",74,57,19,5,111,34,63,53,34,150,2011
+34114,"Iowa City, IA","Bertram, IA",29,82,34,17,116,12,29,39,77,145,2011
+34336,"Iowa City, IA","Nichols, IA",35,85,22,38,93,11,22,70,50,142,2011
+34305,"Iowa City, IA","Mechanicsville, IA",13,89,32,30,98,6,13,31,90,134,2011
+34444,"Iowa City, IA","Wellman, IA",23,76,25,25,83,16,24,43,57,124,2011
+34326,"Iowa City, IA","Mount Vernon, IA",26,71,24,14,99,8,21,28,72,121,2011
+34161,"Iowa City, IA","Council Bluffs, IA",72,31,13,7,80,29,73,18,25,116,2011
+34361,"Iowa City, IA","Pleasant Hill, IA",56,48,11,0,85,30,49,40,26,115,2011
+34148,"Iowa City, IA","Clinton, IA",47,43,24,8,77,29,47,42,25,114,2011
+34095,"Iowa City, IA","Altoona, IA",64,38,10,1,88,23,54,36,22,112,2011
+34427,"Iowa City, IA","Urbana, IA",34,47,25,15,83,8,22,41,43,106,2011
+34300,"Iowa City, IA","Marshalltown, IA",40,45,19,10,55,39,51,32,21,104,2011
+34430,"Iowa City, IA","Victor, IA",20,63,20,12,84,7,9,38,56,103,2011
+34153,"Iowa City, IA","Columbus Junction, IA",26,63,14,23,74,6,10,45,48,103,2011
+34434,"Iowa City, IA","Walford, IA",13,74,16,15,80,8,13,27,63,103,2011
+34135,"Iowa City, IA","Cedar Falls, IA",48,27,21,4,62,30,46,26,24,96,2011
+34357,"Iowa City, IA","Parnell, IA",15,62,19,21,69,6,16,29,51,96,2011
+34315,"Iowa City, IA","Monticello, IA",21,47,27,10,77,8,26,39,30,95,2011
+34461,"Iowa City, IA","Winfield, IA",19,51,21,29,55,7,14,39,38,91,2011
+34353,"Iowa City, IA","Palo, IA",19,48,24,11,70,10,22,29,40,91,2011
+34349,"Iowa City, IA","Ottumwa, IA",25,48,17,5,50,35,32,31,27,90,2011
+34398,"Iowa City, IA","Sioux City, IA",46,28,14,0,62,26,48,30,10,88,2011
+34415,"Iowa City, IA","Swisher, IA",12,56,19,9,71,7,13,15,59,87,2011
+34324,"Iowa City, IA","Mount Pleasant, IA",34,39,13,1,64,21,31,32,23,86,2011
+34266,"Iowa City, IA","Kinross, IA",25,42,16,15,60,8,11,33,39,83,2011
+34227,"Iowa City, IA","Grandview, IA",17,44,20,23,50,8,13,36,32,81,2011
+34102,"Iowa City, IA","Asbury, IA",38,29,11,0,47,31,41,20,17,78,2011
+34117,"Iowa City, IA","Blairstown, IA",18,40,17,11,57,7,10,31,34,75,2011
+34299,"Iowa City, IA","Marion, IA",13,47,14,12,48,14,17,16,41,74,2011
+34162,"Iowa City, IA","Crawfordsville, IA",16,45,12,8,56,9,10,25,38,73,2011
+34319,"Iowa City, IA","Morley, IA",13,46,14,11,50,12,15,24,34,73,2011
+34138,"Iowa City, IA","Center Point, IA",11,40,16,12,49,6,12,19,36,67,2011
+34302,"Iowa City, IA","Mason City, IA",36,21,9,10,44,12,35,19,12,66,2011
+34449,"Iowa City, IA","West Chester, IA",10,47,8,9,46,10,11,23,31,65,2011
+34448,"Iowa City, IA","West Burlington, IA",31,20,13,4,42,18,27,22,15,64,2011
+34088,"Iowa City, IA","Ainsworth, IA",10,38,15,11,42,10,12,17,34,63,2011
+34262,"Iowa City, IA","Keokuk, IA",25,25,12,3,29,30,23,26,13,62,2011
+34362,"Iowa City, IA","Pleasant Plain, IA",13,34,14,9,47,5,9,23,29,61,2011
+34405,"Iowa City, IA","Springville, IA",14,32,13,11,43,5,6,19,34,59,2011
+34214,"Iowa City, IA","Fort Madison, IA",22,23,13,4,39,15,27,13,18,58,2011
+34183,"Iowa City, IA","Dysart, IA",23,18,17,9,47,2,19,18,21,58,2011
+34187,"Iowa City, IA","Elberon, IA",12,32,11,7,43,5,12,19,24,55,2011
+34085,"Iowa City, IA","Ackworth, IA",26,21,8,0,36,19,24,15,16,55,2011
+34097,"Iowa City, IA","Anamosa, IA",18,27,10,12,39,4,12,18,25,55,2011
+34260,"Iowa City, IA","Johnston, IA",30,23,1,3,38,13,28,16,10,54,2011
+34168,"Iowa City, IA","De Witt, IA",24,21,9,1,35,18,25,13,16,54,2011
+34232,"Iowa City, IA","Grinnell, IA",17,29,6,3,40,9,18,13,21,52,2011
+34155,"Iowa City, IA","Conesville, IA",6,31,14,13,32,6,8,22,21,51,2011
+34338,"Iowa City, IA","North English, IA",8,31,11,8,37,5,7,15,28,50,2011
+34432,"Iowa City, IA","Vinton, IA",16,24,9,6,33,10,13,24,12,49,2011
+34416,"Iowa City, IA","Tama, IA",13,29,6,12,30,6,11,17,20,48,2011
+34123,"Iowa City, IA","Brighton, IA",4,30,14,10,32,6,4,19,25,48,2011
+34137,"Iowa City, IA","Center Junction, IA",9,32,7,15,28,5,8,23,17,48,2011
+34406,"Iowa City, IA","St. Marys, IA",26,15,4,2,31,12,19,18,8,45,2011
+34120,"Iowa City, IA","Blue Grass, IA",13,20,12,4,29,12,13,13,19,45,2011
+34291,"Iowa City, IA","Manchester, IA",18,14,12,1,30,13,17,17,10,44,2011
+34238,"Iowa City, IA","Hartwick, IA",9,24,10,8,33,2,6,18,19,43,2011
+34140,"Iowa City, IA","Central City, IA",12,27,4,7,27,9,12,15,16,43,2011
+34152,"Iowa City, IA","Coggon, IA",10,25,7,9,31,2,12,12,18,42,2011
+34463,"Iowa City, IA","Wyoming, IA",10,27,4,14,23,4,5,16,20,41,2011
+34104,"Iowa City, IA","Atkins, IA",6,28,6,5,32,3,6,9,25,40,2011
+34273,"Iowa City, IA","Le Claire, IA",20,14,6,2,24,14,16,13,11,40,2011
+34203,"Iowa City, IA","Fairfield, IA",11,21,7,3,20,16,8,18,13,39,2011
+34460,"Iowa City, IA","Windsor Heights, IA",26,10,3,1,28,10,20,13,6,39,2011
+34441,"Iowa City, IA","Wayland, IA",9,20,9,7,27,4,14,9,15,38,2011
+34301,"Iowa City, IA","Martelle, IA",3,22,13,5,26,7,10,13,15,38,2011
+34325,"Iowa City, IA","Mount Union, IA",7,24,6,7,24,6,4,19,14,37,2011
+34100,"Iowa City, IA","Ankeny, IA",23,10,4,1,29,7,15,14,8,37,2011
+34332,"Iowa City, IA","New London, IA",11,20,5,2,23,11,11,13,12,36,2011
+34407,"Iowa City, IA","St. Paul, IA",11,19,6,2,23,11,8,9,19,36,2011
+34295,"Iowa City, IA","Maquoketa, IA",15,16,5,2,22,12,18,11,7,36,2011
+34377,"Iowa City, IA","Riverdale, IA",11,17,7,2,25,8,14,12,9,35,2011
+34173,"Iowa City, IA","Denison, IA",19,10,6,2,23,10,14,13,8,35,2011
+34164,"Iowa City, IA","Creston, IA",18,12,4,4,18,12,14,14,6,34,2011
+34358,"Iowa City, IA","Peosta, IA",9,15,9,2,23,8,17,7,9,33,2011
+34190,"Iowa City, IA","Eldridge, IA",9,16,8,1,16,16,11,11,11,33,2011
+34455,"Iowa City, IA","Wheatland, IA",9,17,6,4,21,7,8,9,15,32,2011
+34112,"Iowa City, IA","Bellevue, IA",13,12,7,3,24,5,19,10,3,32,2011
+34312,"Iowa City, IA","Mitchellville, IA",14,13,5,1,23,8,16,10,6,32,2011
+34111,"Iowa City, IA","Belle Plaine, IA",7,15,10,1,27,4,12,11,9,32,2011
+34351,"Iowa City, IA","Oxford Junction, IA",6,17,7,10,17,3,4,13,13,30,2011
+34426,"Iowa City, IA","University Park, IA",10,12,6,5,14,9,7,11,10,28,2011
+34182,"Iowa City, IA","Dyersville, IA",12,14,1,2,21,4,9,8,10,27,2011
+34181,"Iowa City, IA","Durant, IA",4,16,7,3,21,3,4,10,13,27,2011
+34284,"Iowa City, IA","Long Grove, IA",11,9,6,1,16,9,16,6,4,26,2011
+34247,"Iowa City, IA","Hopkinton, IA",7,8,11,1,22,3,6,4,16,26,2011
+34131,"Iowa City, IA","Carter Lake, IA",18,4,3,0,19,6,17,7,1,25,2011
+34169,"Iowa City, IA","Decorah, IA",12,8,5,0,17,8,11,10,4,25,2011
+34436,"Iowa City, IA","Wapello, IA",5,13,7,1,20,4,5,7,13,25,2011
+34218,"Iowa City, IA","Fruitland, IA",7,14,4,7,17,1,9,10,6,25,2011
+34323,"Iowa City, IA","Mount Auburn, IA",7,13,5,2,17,6,6,8,11,25,2011
+34146,"Iowa City, IA","Clarence, IA",5,13,7,9,15,1,3,8,14,25,2011
+34105,"Iowa City, IA","Aurelia, IA",14,8,2,0,19,5,13,6,5,24,2011
+34178,"Iowa City, IA","Donnellson, IA",6,15,3,1,18,5,10,3,11,24,2011
+34199,"Iowa City, IA","Evansdale, IA",14,9,1,0,17,7,15,7,2,24,2011
+34403,"Iowa City, IA","Spring Hill, IA",14,7,3,0,20,4,12,10,2,24,2011
+34151,"Iowa City, IA","Clutier, IA",11,8,4,3,18,2,11,7,5,23,2011
+34272,"Iowa City, IA","Larrabee, IA",17,5,1,0,18,5,17,4,2,23,2011
+34388,"Iowa City, IA","Sageville, IA",10,9,3,2,14,6,12,7,3,22,2011
+34129,"Iowa City, IA","Camanche, IA",9,8,5,1,14,7,9,7,6,22,2011
+34139,"Iowa City, IA","Centerville, IA",3,15,4,1,14,7,3,8,11,22,2011
+34269,"Iowa City, IA","Ladora, IA",6,12,3,3,17,1,4,8,9,21,2011
+34107,"Iowa City, IA","Baldwin, IA",6,12,3,8,12,1,8,6,7,21,2011
+34125,"Iowa City, IA","Brooklyn, IA",5,14,2,1,17,3,4,7,10,21,2011
+34429,"Iowa City, IA","Van Horne, IA",5,9,6,2,17,1,7,2,11,20,2011
+34254,"Iowa City, IA","Iowa Falls, IA",13,4,3,3,13,4,10,7,3,20,2011
+34287,"Iowa City, IA","Lowden, IA",2,16,2,3,14,3,1,8,11,20,2011
+34421,"Iowa City, IA","Toledo, IA",3,14,3,5,11,4,4,7,9,20,2011
+34204,"Iowa City, IA","Farley, IA",8,7,5,5,8,7,12,5,3,20,2011
+34290,"Iowa City, IA","Malcom, IA",6,11,3,2,16,2,6,3,11,20,2011
+34363,"Iowa City, IA","Pomeroy, IA",11,4,4,1,14,4,10,5,4,19,2011
+34317,"Iowa City, IA","Montrose, IA",7,10,2,3,9,7,5,10,4,19,2011
+34389,"Iowa City, IA","Salem, IA",11,5,3,1,14,4,9,7,3,19,2011
+34177,"Iowa City, IA","Dixon, IA",6,10,3,2,11,6,4,8,7,19,2011
+34347,"Iowa City, IA","Osceola, IA",9,5,4,3,12,3,11,5,2,18,2011
+34150,"Iowa City, IA","Clive, IA",6,10,2,2,13,3,9,5,4,18,2011
+34209,"Iowa City, IA","Floris, IA",4,8,6,2,11,5,4,5,9,18,2011
+34108,"Iowa City, IA","Balltown, IA",10,5,3,1,13,4,3,12,3,18,2011
+34259,"Iowa City, IA","Jewell Junction, IA",12,1,4,2,12,3,12,4,1,17,2011
+34237,"Iowa City, IA","Harlan, IA",7,7,3,0,13,4,10,2,5,17,2011
+34126,"Iowa City, IA","Buffalo, IA",7,6,4,1,10,6,8,4,5,17,2011
+34109,"Iowa City, IA","Batavia, IA",7,8,2,2,14,1,3,11,3,17,2011
+34370,"Iowa City, IA","Raymond, IA",8,5,4,2,12,3,8,7,2,17,2011
+34330,"Iowa City, IA","New Hampton, IA",5,7,5,3,11,3,6,7,4,17,2011
+34141,"Iowa City, IA","Chariton, IA",4,9,3,0,15,1,3,7,6,16,2011
+34314,"Iowa City, IA","Montezuma, IA",5,7,4,3,9,4,6,6,4,16,2011
+34309,"Iowa City, IA","Middletown, IA",6,10,0,0,12,4,7,5,4,16,2011
+34321,"Iowa City, IA","Morrison, IA",7,4,5,1,12,3,5,8,3,16,2011
+34264,"Iowa City, IA","Keota, IA",4,10,1,2,6,7,5,6,4,15,2011
+34303,"Iowa City, IA","McCausland, IA",4,8,3,0,6,9,6,3,6,15,2011
+34329,"Iowa City, IA","New Albin, IA",7,6,2,2,12,1,7,3,5,15,2011
+34171,"Iowa City, IA","Delaware, IA",6,7,2,1,12,2,7,3,5,15,2011
+34410,"Iowa City, IA","Stockton, IA",2,12,1,3,6,6,4,7,4,15,2011
+34375,"Iowa City, IA","Richland, IA",1,14,0,4,3,8,1,10,4,15,2011
+34128,"Iowa City, IA","Bussey, IA",4,8,3,1,13,1,3,10,2,15,2011
+34348,"Iowa City, IA","Oskaloosa, IA",3,10,2,1,8,6,2,7,6,15,2011
+34356,"Iowa City, IA","Parkersburg, IA",4,7,4,2,11,2,4,6,5,15,2011
+34206,"Iowa City, IA","Farmington, IA",2,10,3,3,11,1,1,6,8,15,2011
+34365,"Iowa City, IA","Preston, IA",2,10,2,4,4,6,3,6,5,14,2011
+34306,"Iowa City, IA","Mediapolis, IA",2,9,3,2,9,3,5,5,4,14,2011
+34341,"Iowa City, IA","Norway, IA",4,7,3,1,12,1,1,7,6,14,2011
+34110,"Iowa City, IA","Bedford, IA",2,8,4,2,9,3,4,3,7,14,2011
+34086,"Iowa City, IA","Afton, IA",4,8,1,3,7,3,2,4,7,13,2011
+34442,"Iowa City, IA","Webster City, IA",8,5,0,1,10,2,9,2,2,13,2011
+34440,"Iowa City, IA","Waverly, IA",5,5,3,0,11,2,7,3,3,13,2011
+34089,"Iowa City, IA","Albia, IA",3,8,2,0,9,4,5,4,4,13,2011
+34226,"Iowa City, IA","Grand Mound, IA",4,7,2,0,11,2,5,4,4,13,2011
+34433,"Iowa City, IA","Walcott, IA",8,5,0,2,7,4,5,3,5,13,2011
+34251,"Iowa City, IA","Independence, IA",2,7,4,4,4,5,3,6,4,13,2011
+34343,"Iowa City, IA","Oelwein, IA",4,8,1,1,9,3,4,4,5,13,2011
+34318,"Iowa City, IA","Moravia, IA",6,4,3,0,9,4,5,7,1,13,2011
+34234,"Iowa City, IA","Guernsey, IA",2,8,2,1,5,6,3,6,3,12,2011
+34354,"Iowa City, IA","Panama, IA",9,1,2,0,8,4,8,4,0,12,2011
+34216,"Iowa City, IA","Franklin, IA",4,6,2,2,8,2,3,7,2,12,2011
+34286,"Iowa City, IA","Low Moor, IA",5,7,0,2,9,1,5,3,4,12,2011
+34172,"Iowa City, IA","Deloit, IA",6,5,1,0,8,4,8,3,1,12,2011
+34333,"Iowa City, IA","New Sharon, IA",5,5,2,1,8,3,4,4,4,12,2011
+34189,"Iowa City, IA","Eldora, IA",7,4,1,0,5,7,8,3,1,12,2011
+34090,"Iowa City, IA","Albion, IA",4,5,2,0,6,5,7,3,1,11,2011
+34092,"Iowa City, IA","Algona, IA",4,5,2,3,6,2,4,4,3,11,2011
+34443,"Iowa City, IA","Webster, IA",4,4,3,1,7,3,4,4,3,11,2011
+34376,"Iowa City, IA","Rinard, IA",5,5,1,1,7,3,6,4,1,11,2011
+34391,"Iowa City, IA","Schleswig, IA",8,3,0,0,7,4,9,1,1,11,2011
+34282,"Iowa City, IA","Lockridge, IA",2,9,0,2,7,2,2,2,7,11,2011
+34350,"Iowa City, IA","Owasa, IA",6,4,1,0,8,3,5,4,2,11,2011
+34322,"Iowa City, IA","Moulton, IA",2,9,0,1,6,4,2,4,5,11,2011
+34439,"Iowa City, IA","Waukon, IA",3,6,2,2,8,1,4,4,3,11,2011
+34372,"Iowa City, IA","Redding, IA",2,7,2,0,11,0,1,7,3,11,2011
+34316,"Iowa City, IA","Montour, IA",1,7,3,2,6,3,3,4,4,11,2011
+34143,"Iowa City, IA","Charter Oak, IA",8,2,1,0,7,4,7,3,1,11,2011
+34224,"Iowa City, IA","Gilman, IA",6,3,2,1,6,4,7,4,0,11,2011
+34265,"Iowa City, IA","Keystone, IA",1,6,4,0,9,2,2,1,8,11,2011
+34236,"Iowa City, IA","Hampton, IA",5,5,1,2,7,2,5,3,3,11,2011
+34124,"Iowa City, IA","Britt, IA",4,6,1,3,6,2,5,2,4,11,2011
+34188,"Iowa City, IA","Eldon, IA",5,3,2,0,6,4,4,4,2,10,2011
+34371,"Iowa City, IA","Readlyn, IA",5,3,2,1,9,0,3,2,5,10,2011
+34087,"Iowa City, IA","Agency, IA",2,3,5,1,7,2,3,2,5,10,2011
+34386,"Iowa City, IA","Ryan, IA",4,4,2,0,7,3,1,6,3,10,2011
+34373,"Iowa City, IA","Reinbeck, IA",5,4,1,1,5,4,5,4,1,10,2011
+34193,"Iowa City, IA","Elkader, IA",4,5,1,2,7,1,1,6,3,10,2011
+34276,"Iowa City, IA","Lenox, IA",3,6,1,1,7,2,1,4,5,10,2011
+34274,"Iowa City, IA","Le Grand, IA",7,1,2,2,6,2,4,3,3,10,2011
+34231,"Iowa City, IA","Greenfield, IA",3,4,3,0,8,2,1,3,6,10,2011
+34340,"Iowa City, IA","Northwood, IA",6,1,3,0,8,2,5,3,2,10,2011
+34397,"Iowa City, IA","Sigourney, IA",3,7,0,1,6,3,2,2,6,10,2011
+34384,"Iowa City, IA","Rome, IA",4,3,3,0,4,6,3,6,1,10,2011
+34197,"Iowa City, IA","Epworth, IA",4,5,1,0,5,5,4,5,1,10,2011
+34400,"Iowa City, IA","South English, IA",4,5,0,1,0,8,3,3,3,9,2011
+34374,"Iowa City, IA","Rhodes, IA",5,3,1,0,8,1,1,6,2,9,2011
+34320,"Iowa City, IA","Morning Sun, IA",1,4,4,2,5,2,1,4,4,9,2011
+34369,"Iowa City, IA","Randalia, IA",2,3,4,0,7,2,2,5,2,9,2011
+34465,"Iowa City, IA","Zwingle, IA",2,7,0,0,7,2,1,3,5,9,2011
+34268,"Iowa City, IA","Lacona, IA",1,7,1,1,6,2,0,3,6,9,2011
+34154,"Iowa City, IA","Colwell, IA",4,4,1,2,2,5,5,1,3,9,2011
+34223,"Iowa City, IA","Gilbertville, IA",2,5,2,1,6,2,4,3,2,9,2011
+34435,"Iowa City, IA","Walker, IA",1,5,3,1,7,1,0,4,5,9,2011
+34133,"Iowa City, IA","Casey, IA",4,3,2,0,6,3,4,4,1,9,2011
+34142,"Iowa City, IA","Charles City, IA",4,5,0,0,8,1,6,2,1,9,2011
+34422,"Iowa City, IA","Traer, IA",3,5,1,0,7,2,4,3,2,9,2011
+34207,"Iowa City, IA","Fayette, IA",3,4,1,1,5,2,4,1,3,8,2011
+34409,"Iowa City, IA","Steamboat Rock, IA",5,1,2,0,3,5,5,1,2,8,2011
+34194,"Iowa City, IA","Elkport, IA",2,5,1,0,8,0,2,2,4,8,2011
+34166,"Iowa City, IA","Danville, IA",4,3,1,0,7,1,3,4,1,8,2011
+34160,"Iowa City, IA","Corydon, IA",4,2,2,0,7,1,1,5,2,8,2011
+34270,"Iowa City, IA","Lake Mills, IA",5,3,0,0,6,2,6,1,1,8,2011
+34308,"Iowa City, IA","Meriden, IA",5,3,0,0,7,1,7,1,0,8,2011
+34106,"Iowa City, IA","Aurora, IA",0,5,3,0,8,0,2,3,3,8,2011
+34307,"Iowa City, IA","Melbourne, IA",3,4,1,0,7,1,4,2,2,8,2011
+34118,"Iowa City, IA","Blakesburg, IA",3,3,2,1,5,2,5,2,1,8,2011
+34464,"Iowa City, IA","Yetter, IA",2,3,3,0,5,3,3,2,3,8,2011
+34392,"Iowa City, IA","Seymour, IA",4,4,0,0,5,3,3,3,2,8,2011
+34294,"Iowa City, IA","Manson, IA",3,3,2,0,5,3,6,0,2,8,2011
+34149,"Iowa City, IA","Clio, IA",4,1,2,0,6,1,1,4,2,7,2011
+34212,"Iowa City, IA","Fort Atkinson, IA",4,2,1,0,6,1,3,3,1,7,2011
+34208,"Iowa City, IA","Ferguson, IA",3,4,0,2,4,1,3,3,1,7,2011
+34408,"Iowa City, IA","Stacyville, IA",3,4,0,1,4,2,4,1,2,7,2011
+34230,"Iowa City, IA","Greeley, IA",2,5,0,0,6,1,2,0,5,7,2011
+34185,"Iowa City, IA","Eddyville, IA",3,3,1,1,3,3,3,2,2,7,2011
+34184,"Iowa City, IA","East Peru, IA",1,6,0,1,5,1,3,2,2,7,2011
+34364,"Iowa City, IA","Prairieburg, IA",3,3,1,0,7,0,2,2,3,7,2011
+34174,"Iowa City, IA","Denver, IA",4,2,1,2,4,1,2,2,3,7,2011
+34134,"Iowa City, IA","Castalia, IA",3,4,0,0,5,2,4,0,3,7,2011
+34346,"Iowa City, IA","Osage, IA",3,2,2,2,3,2,3,1,3,7,2011
+34200,"Iowa City, IA","Exline, IA",4,2,1,0,5,2,2,4,1,7,2011
+34279,"Iowa City, IA","Lineville, IA",3,2,2,1,5,1,2,2,3,7,2011
+34281,"Iowa City, IA","Liscomb, IA",3,3,1,1,3,3,3,2,2,7,2011
+34334,"Iowa City, IA","New Vienna, IA",4,1,2,0,6,1,2,4,1,7,2011
+34263,"Iowa City, IA","Keosauqua, IA",1,3,3,2,4,1,1,4,2,7,2011
+34248,"Iowa City, IA","Houghton, IA",1,3,3,3,3,1,0,6,1,7,2011
+34431,"Iowa City, IA","Vining, IA",6,0,1,0,7,0,5,2,0,7,2011
+34271,"Iowa City, IA","Lamoni, IA",1,5,1,0,4,3,4,1,2,7,2011
+34156,"Iowa City, IA","Conrad, IA",1,4,1,1,3,2,3,1,2,6,2011
+34450,"Iowa City, IA","West Des Moines, IA",3,3,0,0,4,2,2,2,2,6,2011
+34445,"Iowa City, IA","Welton, IA",0,5,1,1,3,2,1,2,3,6,2011
+34345,"Iowa City, IA","Orient, IA",2,4,0,1,4,1,2,3,1,6,2011
+34382,"Iowa City, IA","Rockwell, IA",1,3,2,2,2,2,0,3,3,6,2011
+34366,"Iowa City, IA","Princeton, IA",1,4,1,0,3,3,3,2,1,6,2011
+34331,"Iowa City, IA","New Liberty, IA",3,2,1,0,4,2,3,2,1,6,2011
+34385,"Iowa City, IA","Russell, IA",3,3,0,3,2,1,1,1,4,6,2011
+34277,"Iowa City, IA","Leon, IA",3,2,1,1,5,0,2,4,0,6,2011
+34255,"Iowa City, IA","Irwin, IA",4,0,2,0,3,3,3,3,0,6,2011
+34233,"Iowa City, IA","Grundy Center, IA",3,3,0,1,3,2,3,1,2,6,2011
+34121,"Iowa City, IA","Boxholm, IA",3,2,1,0,3,3,3,1,2,6,2011
+34293,"Iowa City, IA","Manning, IA",4,2,0,0,3,3,4,1,1,6,2011
+34099,"Iowa City, IA","Andrew, IA",3,3,0,1,4,1,1,3,2,6,2011
+34313,"Iowa City, IA","Monona, IA",3,2,1,0,3,3,2,3,1,6,2011
+34211,"Iowa City, IA","Forest City, IA",3,3,0,1,4,1,3,2,1,6,2011
+34417,"Iowa City, IA","Thompson, IA",4,2,0,1,4,1,1,2,3,6,2011
+34093,"Iowa City, IA","Allison, IA",3,2,1,3,2,1,3,0,3,6,2011
+34304,"Iowa City, IA","McIntire, IA",0,5,1,2,2,2,2,2,2,6,2011
+34360,"Iowa City, IA","Plano, IA",2,3,1,1,3,2,1,3,2,6,2011
+34144,"Iowa City, IA","Chester, IA",3,1,1,1,3,1,2,1,2,5,2011
+34292,"Iowa City, IA","Manly, IA",4,1,0,0,4,1,3,1,1,5,2011
+34457,"Iowa City, IA","Williams, IA",5,0,0,0,5,0,3,2,0,5,2011
+34420,"Iowa City, IA","Titonka, IA",4,1,0,1,4,0,2,2,1,5,2011
+34098,"Iowa City, IA","Andover, IA",2,3,0,1,2,2,1,2,2,5,2011
+34393,"Iowa City, IA","Shannon City, IA",1,3,1,0,4,1,1,2,2,5,2011
+34163,"Iowa City, IA","Cresco, IA",1,3,1,1,2,2,1,2,2,5,2011
+34240,"Iowa City, IA","Haverhill, IA",2,3,0,0,2,3,4,1,0,5,2011
+34242,"Iowa City, IA","Hazleton, IA",2,2,1,0,3,2,2,2,1,5,2011
+34328,"Iowa City, IA","Nashua, IA",4,0,1,0,5,0,3,2,0,5,2011
+34267,"Iowa City, IA","Kirkville, IA",1,4,0,1,2,2,2,2,1,5,2011
+34176,"Iowa City, IA","Diagonal, IA",1,3,1,0,4,1,1,2,2,5,2011
+34179,"Iowa City, IA","Dougherty, IA",0,4,1,1,2,2,1,1,3,5,2011
+34235,"Iowa City, IA","Guttenberg, IA",1,2,2,0,4,1,4,1,0,5,2011
+34192,"Iowa City, IA","Elk Run Heights, IA",2,1,2,0,3,2,4,1,0,5,2011
+34452,"Iowa City, IA","West Point, IA",2,1,2,0,2,3,0,4,1,5,2011
+34220,"Iowa City, IA","Garwin, IA",1,2,2,1,1,3,2,2,1,5,2011
+34198,"Iowa City, IA","Estherville, IA",4,1,0,0,4,1,4,1,0,5,2011
+34249,"Iowa City, IA","Hubbard, IA",4,1,0,1,4,0,3,0,2,5,2011
+34337,"Iowa City, IA","Nora Springs, IA",3,2,0,1,4,0,1,2,2,5,2011
+34411,"Iowa City, IA","Storm Lake, IA",1,1,2,0,4,0,3,0,1,4,2011
+34453,"Iowa City, IA","West Union, IA",2,2,0,1,2,1,1,2,1,4,2011
+34414,"Iowa City, IA","Swea City, IA",2,1,1,1,2,1,0,4,0,4,2011
+34423,"Iowa City, IA","Union, IA",1,2,1,0,4,0,2,0,2,4,2011
+34404,"Iowa City, IA","Springbrook, IA",2,2,0,2,2,0,0,0,4,4,2011
+34401,"Iowa City, IA","Spencer, IA",2,1,1,0,3,1,1,0,3,4,2011
+34275,"Iowa City, IA","Le Roy, IA",2,2,0,0,3,1,2,2,0,4,2011
+34395,"Iowa City, IA","Shell Rock, IA",0,3,1,0,2,2,0,3,1,4,2011
+34367,"Iowa City, IA","Protivin, IA",1,1,2,2,2,0,1,1,2,4,2011
+34288,"Iowa City, IA","Luana, IA",1,1,2,0,3,1,3,1,0,4,2011
+34241,"Iowa City, IA","Hawarden, IA",2,2,0,0,3,1,3,0,1,4,2011
+34228,"Iowa City, IA","Grant, IA",0,4,0,0,3,1,1,1,2,4,2011
+34221,"Iowa City, IA","George, IA",3,1,0,0,2,2,1,2,1,4,2011
+34219,"Iowa City, IA","Garner, IA",2,2,0,1,3,0,2,0,2,4,2011
+34210,"Iowa City, IA","Floyd, IA",2,2,0,1,3,0,1,1,2,4,2011
+34205,"Iowa City, IA","Farmersburg, IA",3,0,1,0,3,1,1,1,2,4,2011
+34191,"Iowa City, IA","Elgin, IA",0,3,1,0,4,0,0,0,4,4,2011
+34147,"Iowa City, IA","Clear Lake, IA",1,3,0,0,3,1,2,1,1,4,2011
+34091,"Iowa City, IA","Alden, IA",1,3,0,1,2,1,1,1,2,4,2011
+34296,"Iowa City, IA","Marble Rock, IA",1,0,2,2,1,0,1,0,2,3,2011
+34170,"Iowa City, IA","Dedham, IA",1,2,0,0,1,2,1,2,0,3,2011
+34132,"Iowa City, IA","Cascade, IA",0,3,0,0,3,0,1,1,1,3,2011
+34225,"Iowa City, IA","Graf, IA",2,0,1,1,0,2,2,1,0,3,2011
+34119,"Iowa City, IA","Bloomfield, IA",2,1,0,0,1,2,1,2,0,3,2011
+34462,"Iowa City, IA","Worthington, IA",1,1,1,0,2,1,2,1,0,3,2011
+34258,"Iowa City, IA","Jesup, IA",2,1,0,0,3,0,3,0,0,3,2011
+34289,"Iowa City, IA","Lynnville, IA",1,2,0,0,3,0,3,0,0,3,2011
+34229,"Iowa City, IA","Gravity, IA",1,2,0,2,1,0,1,2,0,3,2011
+34359,"Iowa City, IA","Plainfield, IA",1,1,1,0,3,0,2,1,0,3,2011
+34335,"Iowa City, IA","Newell, IA",2,1,0,0,3,0,2,1,0,3,2011
+34390,"Iowa City, IA","Sanborn, IA",1,1,1,1,2,0,2,0,1,3,2011
+34412,"Iowa City, IA","Strawberry Point, IA",1,1,1,0,2,1,0,3,0,3,2011
+34084,"Iowa City, IA","Ackley, IA",2,1,0,0,1,2,1,0,2,3,2011
+34311,"Iowa City, IA","Milton, IA",1,1,1,0,1,2,2,1,0,3,2011
+34424,"Iowa City, IA","Unionville, IA",0,2,0,0,2,0,1,0,1,2,2011
+34342,"Iowa City, IA","Oakville, IA",1,1,0,0,2,0,0,2,0,2,2011
+34380,"Iowa City, IA","Rock Rapids, IA",0,2,0,0,1,1,0,0,2,2,2011
+34186,"Iowa City, IA","Edgewood, IA",1,1,0,0,1,1,1,0,1,2,2011
+34257,"Iowa City, IA","Jefferson, IA",1,0,1,0,2,0,0,2,0,2,2011
+34454,"Iowa City, IA","What Cheer, IA",1,1,0,0,1,1,1,1,0,2,2011
+34310,"Iowa City, IA","Milford, IA",2,0,0,0,2,0,2,0,0,2,2011
+34383,"Iowa City, IA","Roland, IA",2,0,0,0,0,2,2,0,0,2,2011
+34456,"Iowa City, IA","Whittemore, IA",1,1,0,0,1,1,1,0,1,2,2011
+34215,"Iowa City, IA","Fostoria, IA",2,0,0,0,2,0,1,0,1,2,2011
+34344,"Iowa City, IA","Orange City, IA",1,1,0,1,1,0,1,0,1,2,2011
+34222,"Iowa City, IA","Gibson, IA",0,1,1,0,1,1,0,2,0,2,2011
+34243,"Iowa City, IA","Hedrick, IA",0,1,1,0,1,1,1,0,1,2,2011
+34285,"Iowa City, IA","Lost Nation, IA",0,2,0,0,2,0,0,0,2,2,2011
+34158,"Iowa City, IA","Corning, IA",1,1,0,0,2,0,1,0,1,2,2011
+34159,"Iowa City, IA","Corwith, IA",0,0,1,1,0,0,0,0,1,1,2011
+34130,"Iowa City, IA","Cantril, IA",0,0,1,0,0,1,0,1,0,1,2011
+34122,"Iowa City, IA","Boyden, IA",1,0,0,0,1,0,1,0,0,1,2011
+34402,"Iowa City, IA","Spirit Lake, IA",0,1,0,0,1,0,0,1,0,1,2011
+34116,"Iowa City, IA","Birmingham, IA",0,1,0,0,0,1,0,1,0,1,2011
+34101,"Iowa City, IA","Arnolds Park, IA",1,0,0,0,1,0,1,0,0,1,2011
+34145,"Iowa City, IA","Cincinnati, IA",0,1,0,0,0,1,0,1,0,1,2011
+34387,"Iowa City, IA","Sabula, IA",1,0,0,0,0,1,1,0,0,1,2011
+34381,"Iowa City, IA","Rock Valley, IA",0,0,1,0,0,1,0,1,0,1,2011
+34094,"Iowa City, IA","Alton, IA",1,0,0,0,1,0,1,0,0,1,2011
+34368,"Iowa City, IA","Quimby, IA",0,1,0,0,1,0,1,0,0,1,2011
+34165,"Iowa City, IA","Crystal Lake, IA",1,0,0,0,1,0,1,0,0,1,2011
+34446,"Iowa City, IA","West Bend, IA",0,1,0,0,1,0,1,0,0,1,2011
+34196,"Iowa City, IA","Emmetsburg, IA",0,0,1,0,1,0,1,0,0,1,2011
+34201,"Iowa City, IA","Fairbank, IA",0,1,0,0,1,0,1,0,0,1,2011
+34355,"Iowa City, IA","Panorama Park, IA",1,0,0,0,1,0,1,0,0,1,2011
+34213,"Iowa City, IA","Fort Dodge, IA",0,1,0,0,1,0,0,1,0,1,2011
+34217,"Iowa City, IA","Fremont, IA",0,1,0,1,0,0,0,0,1,1,2011
+34278,"Iowa City, IA","Lincoln, IA",0,1,0,0,1,0,0,0,1,1,2011
+34413,"Iowa City, IA","Sumner, IA",0,1,0,0,0,1,0,1,0,1,2011
+34394,"Iowa City, IA","Sheldon, IA",1,0,0,0,0,1,1,0,0,1,2011
+34239,"Iowa City, IA","Havelock, IA",0,0,1,0,1,0,0,0,1,1,2011
+34246,"Iowa City, IA","Hillsboro, IA",0,1,0,0,0,1,0,0,1,1,2011
+34250,"Iowa City, IA","Humboldt, IA",1,0,0,0,0,1,1,0,0,1,2011
+34256,"Iowa City, IA","Janesville, IA",0,1,0,1,0,0,1,0,0,1,2011
+34297,"Iowa City, IA","Marcus, IA",1,0,0,0,1,0,1,0,0,1,2011

@@ -1,0 +1,364 @@
+,home city,work city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+68610,"Sioux City, IA","Sioux City, IA",4725,9283,4192,2492,12223,3485,6293,6814,5093,18200,2014
+68602,"Sioux City, IA","Sergeant Bluff, IA",1128,2058,713,1000,1631,1268,942,1798,1159,3899,2014
+68489,"Sioux City, IA","Le Mars, IA",274,649,168,602,292,197,135,328,628,1091,2014
+68613,"Sioux City, IA","Sloan, IA",119,289,108,318,157,41,57,130,329,516,2014
+68391,"Sioux City, IA","Des Moines, IA",64,212,71,44,207,96,72,118,157,347,2014
+68373,"Sioux City, IA","Council Bluffs, IA",121,139,47,32,125,150,101,120,86,307,2014
+68367,"Sioux City, IA","Clive, IA",104,114,35,1,139,113,100,98,55,253,2014
+68454,"Sioux City, IA","Hinton, IA",30,118,42,64,88,38,33,64,93,190,2014
+68522,"Sioux City, IA","Merrill, IA",34,87,44,43,15,107,16,61,88,165,2014
+68640,"Sioux City, IA","Urbandale, IA",53,55,31,2,74,63,48,40,51,139,2014
+68424,"Sioux City, IA","Fort Dodge, IA",40,66,29,1,63,71,51,42,42,135,2014
+68316,"Sioux City, IA","Ames, IA",68,44,21,8,81,44,56,37,40,133,2014
+68318,"Sioux City, IA","Ankeny, IA",40,55,21,2,59,55,49,35,32,116,2014
+68646,"Sioux City, IA","Waterloo, IA",40,46,24,21,46,43,37,44,29,110,2014
+68380,"Sioux City, IA","Cushing, IA",29,54,14,67,17,13,17,60,20,97,2014
+68616,"Sioux City, IA","Spencer, IA",43,40,11,4,30,60,35,37,22,94,2014
+68556,"Sioux City, IA","Orange City, IA",30,48,11,38,35,16,19,53,17,89,2014
+68516,"Sioux City, IA","Mason City, IA",27,38,16,5,34,42,31,17,33,81,2014
+68555,"Sioux City, IA","Onawa, IA",15,41,24,2,67,11,14,33,33,80,2014
+68389,"Sioux City, IA","Denison, IA",17,49,10,14,33,29,24,28,24,76,2014
+68356,"Sioux City, IA","Cedar Rapids, IA",28,32,11,9,36,26,24,23,24,71,2014
+68465,"Sioux City, IA","Iowa City, IA",41,18,12,3,54,14,42,15,14,71,2014
+68355,"Sioux City, IA","Cedar Falls, IA",38,18,10,3,35,28,32,19,15,66,2014
+68664,"Sioux City, IA","Windsor Heights, IA",21,35,10,1,35,30,24,24,18,66,2014
+68461,"Sioux City, IA","Ida Grove, IA",16,32,17,19,35,11,9,32,24,65,2014
+68626,"Sioux City, IA","Storm Lake, IA",22,31,11,4,33,27,26,18,20,64,2014
+68537,"Sioux City, IA","Moville, IA",11,37,14,12,42,8,16,18,28,62,2014
+68609,"Sioux City, IA","Sioux Center, IA",21,26,11,18,10,30,19,25,14,58,2014
+68484,"Sioux City, IA","Lakeside, IA",9,30,16,40,12,3,11,24,20,55,2014
+68604,"Sioux City, IA","Sheldon, IA",17,31,6,7,22,25,22,14,18,54,2014
+68488,"Sioux City, IA","Lawton, IA",18,31,4,26,18,9,9,19,25,53,2014
+68456,"Sioux City, IA","Hospers, IA",6,26,16,35,13,0,11,31,6,48,2014
+68349,"Sioux City, IA","Carroll, IA",18,16,14,2,23,23,21,17,10,48,2014
+68383,"Sioux City, IA","Davenport, IA",22,17,6,0,15,30,27,11,7,45,2014
+68453,"Sioux City, IA","Hiawatha, IA",14,20,10,0,30,14,19,20,5,44,2014
+68657,"Sioux City, IA","West Des Moines, IA",15,19,10,4,26,14,18,12,14,44,2014
+68597,"Sioux City, IA","Rock Valley, IA",10,23,8,11,25,5,12,16,13,41,2014
+68487,"Sioux City, IA","Larrabee, IA",20,14,7,2,7,32,23,13,5,41,2014
+68648,"Sioux City, IA","Waukee, IA",11,19,8,0,26,12,16,19,3,38,2014
+68315,"Sioux City, IA","Altoona, IA",9,20,7,2,16,18,11,16,9,36,2014
+68362,"Sioux City, IA","Cherokee, IA",7,13,15,10,17,8,5,17,13,35,2014
+68340,"Sioux City, IA","Boone, IA",14,15,6,2,6,27,17,17,1,35,2014
+68311,"Sioux City, IA","Akron, IA",3,22,9,1,20,13,4,9,21,34,2014
+68407,"Sioux City, IA","Elk Run Heights, IA",11,15,6,29,3,0,4,23,5,32,2014
+68560,"Sioux City, IA","Ottumwa, IA",6,20,5,1,13,17,8,18,5,31,2014
+68617,"Sioux City, IA","Spirit Lake, IA",12,14,4,1,11,18,8,15,7,30,2014
+68576,"Sioux City, IA","Pleasant Hill, IA",12,14,4,1,8,21,9,12,9,30,2014
+68319,"Sioux City, IA","Anthon, IA",6,14,9,3,21,5,6,11,12,29,2014
+68521,"Sioux City, IA","Meriden, IA",8,15,6,1,16,12,13,12,4,29,2014
+68344,"Sioux City, IA","Bronson, IA",9,14,6,22,3,4,4,15,10,29,2014
+68370,"Sioux City, IA","Coralville, IA",14,14,1,0,12,17,13,13,3,29,2014
+68396,"Sioux City, IA","Dubuque, IA",11,10,7,5,13,10,11,13,4,28,2014
+68582,"Sioux City, IA","Quimby, IA",2,17,9,17,7,4,6,14,8,28,2014
+68605,"Sioux City, IA","Shenandoah, IA",11,14,3,0,14,14,15,12,1,28,2014
+68515,"Sioux City, IA","Marshalltown, IA",10,9,8,6,10,11,8,12,7,27,2014
+68632,"Sioux City, IA","Tennant, IA",16,5,5,0,2,24,12,10,4,26,2014
+68600,"Sioux City, IA","Sac City, IA",11,11,1,3,18,2,18,0,5,23,2014
+68471,"Sioux City, IA","Johnston, IA",7,11,5,0,14,9,8,3,12,23,2014
+68324,"Sioux City, IA","Atlantic, IA",10,9,4,1,13,9,5,12,6,23,2014
+68589,"Sioux City, IA","Remsen, IA",6,8,9,2,13,8,6,7,10,23,2014
+68476,"Sioux City, IA","Kingsley, IA",6,10,5,4,10,7,6,9,6,21,2014
+68656,"Sioux City, IA","West Burlington, IA",9,10,2,1,0,20,6,9,6,21,2014
+68351,"Sioux City, IA","Carter Lake, IA",4,10,6,15,5,0,5,11,4,20,2014
+68493,"Sioux City, IA","Lidderdale, IA",4,10,5,0,0,19,6,6,7,19,2014
+68314,"Sioux City, IA","Alton, IA",2,8,9,10,6,3,3,6,10,19,2014
+68313,"Sioux City, IA","Algona, IA",6,9,4,0,10,9,6,7,6,19,2014
+68572,"Sioux City, IA","Perry, IA",4,11,3,10,2,6,3,10,5,18,2014
+68603,"Sioux City, IA","Shelby, IA",1,13,4,1,4,13,3,4,11,18,2014
+68382,"Sioux City, IA","Danbury, IA",3,9,6,5,6,7,7,4,7,18,2014
+68550,"Sioux City, IA","Norwalk, IA",7,5,6,1,6,11,7,8,3,18,2014
+68376,"Sioux City, IA","Creston, IA",5,10,2,3,6,8,8,3,6,17,2014
+68337,"Sioux City, IA","Bettendorf, IA",8,6,2,0,9,7,8,4,4,16,2014
+68445,"Sioux City, IA","Hancock, IA",1,6,9,1,14,1,8,8,0,16,2014
+68322,"Sioux City, IA","Asbury, IA",9,2,5,1,5,10,11,4,1,16,2014
+68365,"Sioux City, IA","Clear Lake, IA",2,10,4,0,9,7,6,3,7,16,2014
+68650,"Sioux City, IA","Waverly, IA",9,5,1,0,5,10,5,9,1,15,2014
+68659,"Sioux City, IA","Westfield, IA",5,6,4,7,6,2,4,8,3,15,2014
+68612,"Sioux City, IA","Slater, IA",2,5,8,0,14,1,1,8,6,15,2014
+68548,"Sioux City, IA","North Liberty, IA",7,6,2,0,9,6,8,4,3,15,2014
+68596,"Sioux City, IA","Rock Rapids, IA",2,12,1,0,11,4,1,8,6,15,2014
+68545,"Sioux City, IA","Newton, IA",6,7,1,0,11,3,3,9,2,14,2014
+68574,"Sioux City, IA","Pierson, IA",4,6,4,0,11,3,5,5,4,14,2014
+68512,"Sioux City, IA","Marcus, IA",5,6,3,6,4,4,2,3,9,14,2014
+68310,"Sioux City, IA","Adel, IA",4,8,1,9,3,1,0,11,2,13,2014
+68440,"Sioux City, IA","Grinnell, IA",5,8,0,0,10,3,3,5,5,13,2014
+68439,"Sioux City, IA","Grimes, IA",3,5,5,1,3,9,9,0,4,13,2014
+68588,"Sioux City, IA","Red Oak, IA",3,8,2,0,8,5,3,3,7,13,2014
+68595,"Sioux City, IA","Robins, IA",3,10,0,1,9,3,3,3,7,13,2014
+68459,"Sioux City, IA","Humboldt, IA",6,5,2,3,2,8,7,2,4,13,2014
+68462,"Sioux City, IA","Independence, IA",5,6,1,0,9,3,4,1,7,12,2014
+68635,"Sioux City, IA","Toledo, IA",4,8,0,1,10,1,8,1,3,12,2014
+68509,"Sioux City, IA","Mapleton, IA",1,8,2,5,3,3,2,6,3,11,2014
+68599,"Sioux City, IA","Rodney, IA",3,5,3,0,11,0,3,2,6,11,2014
+68320,"Sioux City, IA","Arnolds Park, IA",1,7,3,0,10,1,1,9,1,11,2014
+68342,"Sioux City, IA","Boyden, IA",2,4,4,9,0,1,1,6,3,10,2014
+68607,"Sioux City, IA","Sibley, IA",3,5,2,3,7,0,1,9,0,10,2014
+68526,"Sioux City, IA","Missouri Valley, IA",3,5,2,1,6,3,4,5,1,10,2014
+68417,"Sioux City, IA","Fairfax, IA",2,6,2,0,2,8,5,4,1,10,2014
+68411,"Sioux City, IA","Emmetsburg, IA",2,5,3,3,3,4,1,6,3,10,2014
+68466,"Sioux City, IA","Iowa Falls, IA",2,3,5,0,2,8,1,7,2,10,2014
+68321,"Sioux City, IA","Arthur, IA",0,9,1,8,0,2,1,0,9,10,2014
+68404,"Sioux City, IA","Eldridge, IA",1,6,3,1,4,5,3,2,5,10,2014
+68369,"Sioux City, IA","Conesville, IA",3,5,1,7,2,0,0,9,0,9,2014
+68412,"Sioux City, IA","Estherville, IA",5,3,1,0,2,7,5,2,2,9,2014
+68497,"Sioux City, IA","Logan, IA",1,5,3,0,9,0,3,4,2,9,2014
+68507,"Sioux City, IA","Manning, IA",5,4,0,3,3,3,1,5,3,9,2014
+68467,"Sioux City, IA","Ireton, IA",0,8,1,6,0,3,4,4,1,9,2014
+68614,"Sioux City, IA","Soldier, IA",1,5,3,5,2,2,0,3,6,9,2014
+68438,"Sioux City, IA","Greenfield, IA",2,4,2,0,5,3,4,1,3,8,2014
+68460,"Sioux City, IA","Huxley, IA",3,5,0,0,7,1,1,2,5,8,2014
+68346,"Sioux City, IA","Burlington, IA",2,3,3,2,4,2,3,2,3,8,2014
+68403,"Sioux City, IA","Eldora, IA",8,0,0,0,4,4,6,2,0,8,2014
+68475,"Sioux City, IA","Keokuk, IA",3,3,2,0,2,6,7,1,0,8,2014
+68634,"Sioux City, IA","Tiffin, IA",2,4,2,1,3,4,5,1,2,8,2014
+68450,"Sioux City, IA","Hawarden, IA",3,2,3,3,2,3,3,4,1,8,2014
+68562,"Sioux City, IA","Oyens, IA",3,4,1,7,0,1,3,4,1,8,2014
+68413,"Sioux City, IA","Evansdale, IA",3,5,0,0,6,2,2,3,3,8,2014
+68326,"Sioux City, IA","Aurelia, IA",1,6,1,4,3,1,0,3,5,8,2014
+68645,"Sioux City, IA","Washington, IA",2,3,3,1,2,5,3,4,1,8,2014
+68325,"Sioux City, IA","Audubon, IA",3,4,1,2,3,3,1,4,3,8,2014
+68535,"Sioux City, IA","Mount Pleasant, IA",1,5,1,0,3,4,2,4,1,7,2014
+68446,"Sioux City, IA","Harlan, IA",2,2,3,0,2,5,3,3,1,7,2014
+68540,"Sioux City, IA","Nevada, IA",2,3,2,0,4,3,3,2,2,7,2014
+68578,"Sioux City, IA","Polk City, IA",2,3,2,0,7,0,0,1,6,7,2014
+68464,"Sioux City, IA","Inwood, IA",1,6,0,1,4,2,2,4,1,7,2014
+68532,"Sioux City, IA","Morrison, IA",0,7,0,6,0,1,0,0,7,7,2014
+68387,"Sioux City, IA","Decorah, IA",4,1,1,0,4,2,5,1,0,6,2014
+68401,"Sioux City, IA","Eddyville, IA",0,5,1,0,0,6,0,2,4,6,2014
+68627,"Sioux City, IA","Story City, IA",3,2,1,1,1,4,1,4,1,6,2014
+68485,"Sioux City, IA","Lakota, IA",1,5,0,6,0,0,6,0,0,6,2014
+68366,"Sioux City, IA","Clinton, IA",1,3,2,0,6,0,2,2,2,6,2014
+68491,"Sioux City, IA","Leon, IA",0,4,2,0,5,1,3,1,2,6,2014
+68360,"Sioux City, IA","Chariton, IA",5,0,1,0,0,6,6,0,0,6,2014
+68335,"Sioux City, IA","Belmond, IA",2,2,2,0,2,4,2,3,1,6,2014
+68559,"Sioux City, IA","Oskaloosa, IA",2,4,0,2,1,3,2,2,2,6,2014
+68447,"Sioux City, IA","Hartley, IA",2,3,1,3,3,0,2,2,2,6,2014
+68501,"Sioux City, IA","Macedonia, IA",3,3,0,0,3,3,2,1,3,6,2014
+68395,"Sioux City, IA","Doon, IA",1,2,3,1,3,2,2,2,2,6,2014
+68410,"Sioux City, IA","Ely, IA",5,1,0,0,6,0,4,1,1,6,2014
+68399,"Sioux City, IA","Eagle Grove, IA",0,5,1,3,1,2,1,2,3,6,2014
+68468,"Sioux City, IA","Jefferson, IA",1,3,1,0,3,2,2,1,2,5,2014
+68649,"Sioux City, IA","Waukon, IA",2,2,1,1,3,1,2,0,3,5,2014
+68470,"Sioux City, IA","Jewell Junction, IA",0,3,2,1,0,4,3,1,1,5,2014
+68333,"Sioux City, IA","Belle Plaine, IA",2,3,0,2,2,1,2,2,1,5,2014
+68662,"Sioux City, IA","Williamsburg, IA",1,3,1,0,1,4,4,1,0,5,2014
+68518,"Sioux City, IA","Mediapolis, IA",1,4,0,4,1,0,0,1,4,5,2014
+68549,"Sioux City, IA","Northwood, IA",2,3,0,2,0,3,1,3,1,5,2014
+68421,"Sioux City, IA","Floyd, IA",3,2,0,4,1,0,1,0,4,5,2014
+68361,"Sioux City, IA","Charles City, IA",1,4,0,2,1,2,1,2,2,5,2014
+68358,"Sioux City, IA","Centerville, IA",1,4,0,0,1,4,2,3,0,5,2014
+68429,"Sioux City, IA","George, IA",2,3,0,0,1,4,1,0,4,5,2014
+68508,"Sioux City, IA","Manson, IA",1,3,1,0,4,1,2,3,0,5,2014
+68500,"Sioux City, IA","Lynnville, IA",2,1,2,0,1,4,2,1,2,5,2014
+68637,"Sioux City, IA","University Heights, IA",4,1,0,0,3,2,3,2,0,5,2014
+68638,"Sioux City, IA","University Park, IA",3,2,0,0,3,2,1,0,4,5,2014
+68513,"Sioux City, IA","Marengo, IA",1,2,2,1,2,2,2,1,2,5,2014
+68570,"Sioux City, IA","Pella, IA",2,2,1,1,2,2,2,2,1,5,2014
+68463,"Sioux City, IA","Indianola, IA",2,1,2,0,2,3,1,3,1,5,2014
+68458,"Sioux City, IA","Hull, IA",1,3,1,5,0,0,0,5,0,5,2014
+68385,"Sioux City, IA","De Soto, IA",3,1,1,1,1,3,3,1,1,5,2014
+68418,"Sioux City, IA","Fairfield, IA",1,4,0,1,0,4,1,2,2,5,2014
+68598,"Sioux City, IA","Rockwell City, IA",1,1,3,0,4,1,0,1,4,5,2014
+68541,"Sioux City, IA","New Hampton, IA",2,3,0,0,3,2,3,2,0,5,2014
+68536,"Sioux City, IA","Mount Union, IA",2,1,1,0,0,4,1,1,2,4,2014
+68363,"Sioux City, IA","Clarinda, IA",2,0,2,0,4,0,2,2,0,4,2014
+68658,"Sioux City, IA","West Union, IA",3,1,0,0,1,3,1,3,0,4,2014
+68567,"Sioux City, IA","Panorama Park, IA",0,2,2,0,1,3,2,1,1,4,2014
+68652,"Sioux City, IA","Webster City, IA",0,3,1,1,2,1,0,2,2,4,2014
+68455,"Sioux City, IA","Hopkinton, IA",1,2,1,0,2,2,1,1,2,4,2014
+68433,"Sioux City, IA","Glidden, IA",2,2,0,0,4,0,0,2,2,4,2014
+68643,"Sioux City, IA","Wall Lake, IA",1,2,1,0,2,2,2,1,1,4,2014
+68449,"Sioux City, IA","Havelock, IA",0,1,3,1,1,2,2,0,2,4,2014
+68448,"Sioux City, IA","Harvey, IA",0,4,0,0,0,4,2,1,1,4,2014
+68606,"Sioux City, IA","Shueyville, IA",1,2,1,1,0,3,1,1,2,4,2014
+68398,"Sioux City, IA","Dunlap, IA",2,2,0,0,1,3,1,2,1,4,2014
+68566,"Sioux City, IA","Panora, IA",2,2,0,0,4,0,1,3,0,4,2014
+68585,"Sioux City, IA","Rathbun, IA",2,2,0,0,0,4,3,1,0,4,2014
+68608,"Sioux City, IA","Sigourney, IA",2,2,0,0,0,4,3,0,1,4,2014
+68524,"Sioux City, IA","Milford, IA",3,1,0,0,3,1,3,0,1,4,2014
+68347,"Sioux City, IA","Bussey, IA",1,3,0,4,0,0,0,2,2,4,2014
+68663,"Sioux City, IA","Wilton, IA",0,2,1,1,1,1,0,1,2,3,2014
+68557,"Sioux City, IA","Osage, IA",2,1,0,1,1,1,1,1,1,3,2014
+68538,"Sioux City, IA","Muscatine, IA",1,0,2,1,0,2,1,2,0,3,2014
+68528,"Sioux City, IA","Monroe, IA",0,2,1,0,2,1,1,0,2,3,2014
+68551,"Sioux City, IA","Oakland, IA",0,2,1,0,3,0,1,1,1,3,2014
+68639,"Sioux City, IA","Urbana, IA",0,2,1,1,0,2,2,0,1,3,2014
+68546,"Sioux City, IA","Nodaway, IA",1,1,1,1,1,1,1,2,0,3,2014
+68641,"Sioux City, IA","Vinton, IA",1,1,1,0,1,2,1,1,1,3,2014
+68661,"Sioux City, IA","Willey, IA",0,3,0,0,3,0,2,0,1,3,2014
+68505,"Sioux City, IA","Manchester, IA",0,2,1,0,3,0,0,0,3,3,2014
+68544,"Sioux City, IA","Newell, IA",1,2,0,0,2,1,1,1,1,3,2014
+68425,"Sioux City, IA","Fostoria, IA",0,3,0,2,0,1,0,0,3,3,2014
+68514,"Sioux City, IA","Marion, IA",0,1,2,1,0,2,1,0,2,3,2014
+68561,"Sioux City, IA","Oxford, IA",1,2,0,2,0,1,0,3,0,3,2014
+68444,"Sioux City, IA","Hampton, IA",1,1,1,0,2,1,1,1,1,3,2014
+68511,"Sioux City, IA","Marble Rock, IA",0,1,2,2,0,1,0,1,2,3,2014
+68498,"Sioux City, IA","Low Moor, IA",1,1,1,0,0,3,3,0,0,3,2014
+68654,"Sioux City, IA","Wellsburg, IA",0,3,0,0,1,2,1,0,2,3,2014
+68579,"Sioux City, IA","Pomeroy, IA",0,2,1,0,0,3,0,1,2,3,2014
+68669,"Sioux City, IA","Woodbine, IA",0,1,2,0,1,2,2,1,0,3,2014
+68394,"Sioux City, IA","Donnellson, IA",0,3,0,3,0,0,0,1,2,3,2014
+68441,"Sioux City, IA","Guthrie Center, IA",1,1,1,0,2,1,2,1,0,3,2014
+68434,"Sioux City, IA","Goldfield, IA",0,2,1,1,0,2,1,0,2,3,2014
+68481,"Sioux City, IA","Knoxville, IA",1,1,1,0,0,3,3,0,0,3,2014
+68381,"Sioux City, IA","Dakota City, IA",2,0,1,0,0,3,1,1,1,3,2014
+68371,"Sioux City, IA","Corning, IA",0,1,2,0,0,3,1,2,0,3,2014
+68332,"Sioux City, IA","Bedford, IA",0,2,1,0,3,0,2,0,1,3,2014
+68432,"Sioux City, IA","Glenwood, IA",2,1,0,0,2,1,2,1,0,3,2014
+68431,"Sioux City, IA","Gilman, IA",0,2,1,0,1,2,1,2,0,3,2014
+68430,"Sioux City, IA","Gilbert, IA",1,1,1,1,0,2,2,0,1,3,2014
+68436,"Sioux City, IA","Granger, IA",2,0,1,1,2,0,1,1,1,3,2014
+68330,"Sioux City, IA","Battle Creek, IA",0,2,1,0,1,2,0,2,1,3,2014
+68451,"Sioux City, IA","Hazleton, IA",1,2,0,0,0,3,0,0,3,3,2014
+68496,"Sioux City, IA","Livermore, IA",0,2,1,0,0,3,0,1,2,3,2014
+68666,"Sioux City, IA","Winterset, IA",2,1,0,0,2,1,1,1,1,3,2014
+68573,"Sioux City, IA","Peterson, IA",1,2,0,0,1,2,0,1,2,3,2014
+68601,"Sioux City, IA","Schleswig, IA",0,3,0,0,2,1,0,1,2,3,2014
+68592,"Sioux City, IA","Riverdale, IA",1,0,1,0,1,1,0,2,0,2,2014
+68593,"Sioux City, IA","Riverside, IA",0,2,0,1,1,0,0,2,0,2,2014
+68569,"Sioux City, IA","Paullina, IA",2,0,0,0,0,2,0,0,2,2,2014
+68667,"Sioux City, IA","Wiota, IA",2,0,0,0,1,1,2,0,0,2,2014
+68554,"Sioux City, IA","Ogden, IA",0,1,1,0,0,2,1,0,1,2,2014
+68591,"Sioux City, IA","Richland, IA",1,0,1,1,0,1,1,1,0,2,2014
+68312,"Sioux City, IA","Albia, IA",0,1,1,0,1,1,1,1,0,2,2014
+68338,"Sioux City, IA","Bloomfield, IA",0,2,0,0,2,0,1,0,1,2,2014
+68553,"Sioux City, IA","Oelwein, IA",2,0,0,0,1,1,1,1,0,2,2014
+68644,"Sioux City, IA","Walnut, IA",0,2,0,0,1,1,1,0,1,2,2014
+68558,"Sioux City, IA","Osceola, IA",2,0,0,0,0,2,2,0,0,2,2014
+68416,"Sioux City, IA","Fairbank, IA",0,2,0,2,0,0,2,0,0,2,2014
+68400,"Sioux City, IA","Early, IA",1,0,1,0,0,2,1,0,1,2,2014
+68334,"Sioux City, IA","Bellevue, IA",0,0,2,0,2,0,2,0,0,2,2014
+68323,"Sioux City, IA","Atkins, IA",1,0,1,0,2,0,1,0,1,2,2014
+68586,"Sioux City, IA","Raymond, IA",2,0,0,0,2,0,1,1,0,2,2014
+68583,"Sioux City, IA","Randalia, IA",1,1,0,0,2,0,1,1,0,2,2014
+68328,"Sioux City, IA","Avoca, IA",0,1,1,0,1,1,1,1,0,2,2014
+68581,"Sioux City, IA","Promise City, IA",0,1,1,0,0,2,1,0,1,2,2014
+68580,"Sioux City, IA","Postville, IA",0,2,0,0,2,0,1,1,0,2,2014
+68565,"Sioux City, IA","Palo, IA",0,2,0,2,0,0,0,1,1,2,2014
+68329,"Sioux City, IA","Bagley, IA",1,0,1,1,0,1,1,0,1,2,2014
+68575,"Sioux City, IA","Plainfield, IA",0,1,1,0,0,2,0,0,2,2,2014
+68619,"Sioux City, IA","Springville, IA",1,1,0,0,0,2,0,1,1,2,2014
+68309,"Sioux City, IA","Adair, IA",1,1,0,0,0,2,2,0,0,2,2014
+68341,"Sioux City, IA","Boxholm, IA",1,1,0,0,2,0,0,2,0,2,2014
+68372,"Sioux City, IA","Corydon, IA",1,1,0,0,2,0,1,1,0,2,2014
+68624,"Sioux City, IA","Stanton, IA",1,1,0,0,2,0,2,0,0,2,2014
+68611,"Sioux City, IA","Sioux Rapids, IA",2,0,0,0,0,2,2,0,0,2,2014
+68494,"Sioux City, IA","Linden, IA",0,1,1,0,0,2,0,0,2,2,2014
+68364,"Sioux City, IA","Clarion, IA",2,0,0,1,0,1,1,1,0,2,2014
+68486,"Sioux City, IA","Lamoni, IA",1,1,0,0,1,1,1,1,0,2,2014
+68482,"Sioux City, IA","Lake City, IA",1,1,0,0,2,0,1,0,1,2,2014
+68628,"Sioux City, IA","Strawberry Point, IA",0,2,0,1,0,1,0,2,0,2,2014
+68474,"Sioux City, IA","Kamrar, IA",1,1,0,1,0,1,0,2,0,2,2014
+68622,"Sioux City, IA","St. Marys, IA",0,0,2,0,1,1,1,0,1,2,2014
+68473,"Sioux City, IA","Kalona, IA",2,0,0,0,1,1,2,0,0,2,2014
+68375,"Sioux City, IA","Cresco, IA",2,0,0,1,1,0,1,1,0,2,2014
+68437,"Sioux City, IA","Gray, IA",2,0,0,1,0,1,0,1,1,2,2014
+68384,"Sioux City, IA","Dayton, IA",0,2,0,0,2,0,1,1,0,2,2014
+68653,"Sioux City, IA","Webster, IA",1,1,0,1,1,0,0,1,1,2,2014
+68393,"Sioux City, IA","Dolliver, IA",0,1,1,1,1,0,0,0,2,2,2014
+68443,"Sioux City, IA","Hamburg, IA",0,2,0,0,0,2,0,1,1,2,2014
+68503,"Sioux City, IA","Magnolia, IA",0,1,1,0,0,2,0,1,1,2,2014
+68495,"Sioux City, IA","Lisbon, IA",1,1,0,0,2,0,1,1,0,2,2014
+68506,"Sioux City, IA","Manly, IA",0,2,0,0,2,0,0,1,1,2,2014
+68620,"Sioux City, IA","St. Ansgar, IA",0,1,1,0,2,0,0,1,1,2,2014
+68345,"Sioux City, IA","Buck Grove, IA",0,2,0,0,1,1,0,1,1,2,2014
+68539,"Sioux City, IA","Nashua, IA",0,1,1,0,1,1,1,1,0,2,2014
+68542,"Sioux City, IA","New London, IA",1,1,0,0,2,0,2,0,0,2,2014
+68352,"Sioux City, IA","Casey, IA",1,1,0,0,0,2,1,1,0,2,2014
+68520,"Sioux City, IA","Melcher-Dallas, IA",1,1,0,0,2,0,2,0,0,2,2014
+68517,"Sioux City, IA","Maurice, IA",0,2,0,2,0,0,0,1,1,2,2014
+68543,"Sioux City, IA","New Sharon, IA",0,2,0,0,1,1,0,1,1,2,2014
+68419,"Sioux City, IA","Farley, IA",0,2,0,1,1,0,0,0,2,2,2014
+68423,"Sioux City, IA","Forest City, IA",0,2,0,0,1,1,1,0,1,2,2014
+68647,"Sioux City, IA","Waucoma, IA",0,1,0,0,0,1,0,0,1,1,2014
+68631,"Sioux City, IA","Tama, IA",0,1,0,1,0,0,0,0,1,1,2014
+68670,"Sioux City, IA","Woolstock, IA",0,1,0,0,0,1,0,1,0,1,2014
+68633,"Sioux City, IA","Thompson, IA",0,1,0,0,0,1,1,0,0,1,2014
+68665,"Sioux City, IA","Winfield, IA",0,1,0,1,0,0,0,1,0,1,2014
+68655,"Sioux City, IA","West Bend, IA",1,0,0,0,0,1,1,0,0,1,2014
+68636,"Sioux City, IA","Underwood, IA",0,1,0,0,0,1,1,0,0,1,2014
+68615,"Sioux City, IA","Solon, IA",1,0,0,0,1,0,1,0,0,1,2014
+68623,"Sioux City, IA","Stanhope, IA",0,1,0,0,0,1,0,0,1,1,2014
+68618,"Sioux City, IA","Spring Hill, IA",0,0,1,0,1,0,0,0,1,1,2014
+68630,"Sioux City, IA","Sutherland, IA",1,0,0,0,0,1,0,0,1,1,2014
+68629,"Sioux City, IA","Superior, IA",0,1,0,0,1,0,1,0,0,1,2014
+68642,"Sioux City, IA","Wahpeton, IA",1,0,0,0,1,0,1,0,0,1,2014
+68625,"Sioux City, IA","State Center, IA",0,0,1,0,0,1,0,1,0,1,2014
+68660,"Sioux City, IA","What Cheer, IA",1,0,0,0,0,1,1,0,0,1,2014
+68668,"Sioux City, IA","Woden, IA",1,0,0,0,0,1,1,0,0,1,2014
+68621,"Sioux City, IA","St. Lucas, IA",0,0,1,1,0,0,0,1,0,1,2014
+68651,"Sioux City, IA","Webb, IA",0,1,0,1,0,0,0,1,0,1,2014
+68490,"Sioux City, IA","Lenox, IA",0,1,0,0,0,1,1,0,0,1,2014
+68594,"Sioux City, IA","Riverton, IA",1,0,0,0,0,1,0,1,0,1,2014
+68406,"Sioux City, IA","Elk Horn, IA",0,1,0,0,1,0,0,1,0,1,2014
+68388,"Sioux City, IA","Dedham, IA",1,0,0,1,0,0,0,1,0,1,2014
+68390,"Sioux City, IA","Denver, IA",0,0,1,0,1,0,0,1,0,1,2014
+68392,"Sioux City, IA","Diagonal, IA",1,0,0,1,0,0,0,0,1,1,2014
+68397,"Sioux City, IA","Duncombe, IA",1,0,0,0,0,1,0,0,1,1,2014
+68402,"Sioux City, IA","Elberon, IA",0,1,0,0,0,1,0,0,1,1,2014
+68405,"Sioux City, IA","Elgin, IA",0,1,0,0,1,0,1,0,0,1,2014
+68408,"Sioux City, IA","Elkader, IA",0,0,1,0,0,1,1,0,0,1,2014
+68379,"Sioux City, IA","Curlew, IA",0,1,0,0,0,1,1,0,0,1,2014
+68409,"Sioux City, IA","Elma, IA",0,1,0,0,1,0,0,0,1,1,2014
+68414,"Sioux City, IA","Everly, IA",0,1,0,0,0,1,0,0,1,1,2014
+68415,"Sioux City, IA","Exira, IA",0,0,1,0,0,1,0,1,0,1,2014
+68420,"Sioux City, IA","Farragut, IA",1,0,0,0,0,1,1,0,0,1,2014
+68422,"Sioux City, IA","Fonda, IA",1,0,0,0,0,1,1,0,0,1,2014
+68426,"Sioux City, IA","Fredericksburg, IA",0,0,1,0,1,0,0,0,1,1,2014
+68386,"Sioux City, IA","De Witt, IA",1,0,0,0,1,0,1,0,0,1,2014
+68378,"Sioux City, IA","Cumberland, IA",0,1,0,0,0,1,1,0,0,1,2014
+68428,"Sioux City, IA","Garner, IA",0,1,0,0,1,0,0,0,1,1,2014
+68348,"Sioux City, IA","Carlisle, IA",1,0,0,0,0,1,1,0,0,1,2014
+68317,"Sioux City, IA","Anamosa, IA",0,1,0,0,1,0,0,1,0,1,2014
+68327,"Sioux City, IA","Aurora, IA",0,1,0,0,0,1,0,1,0,1,2014
+68331,"Sioux City, IA","Beaman, IA",0,1,0,0,1,0,0,1,0,1,2014
+68336,"Sioux City, IA","Bertram, IA",1,0,0,1,0,0,1,0,0,1,2014
+68339,"Sioux City, IA","Blue Grass, IA",1,0,0,1,0,0,0,1,0,1,2014
+68343,"Sioux City, IA","Britt, IA",0,0,1,0,1,0,0,1,0,1,2014
+68350,"Sioux City, IA","Carson, IA",0,0,1,0,0,1,1,0,0,1,2014
+68377,"Sioux City, IA","Crystal Lake, IA",0,1,0,0,0,1,0,1,0,1,2014
+68353,"Sioux City, IA","Castalia, IA",0,0,1,1,0,0,0,0,1,1,2014
+68354,"Sioux City, IA","Castana, IA",0,1,0,1,0,0,0,0,1,1,2014
+68357,"Sioux City, IA","Center Point, IA",0,1,0,0,0,1,0,0,1,1,2014
+68359,"Sioux City, IA","Central City, IA",0,1,0,0,1,0,0,0,1,1,2014
+68368,"Sioux City, IA","Columbus Junction, IA",0,0,1,0,0,1,0,0,1,1,2014
+68374,"Sioux City, IA","Craig, IA",0,1,0,1,0,0,0,1,0,1,2014
+68427,"Sioux City, IA","Fruitland, IA",0,1,0,1,0,0,1,0,0,1,2014
+68435,"Sioux City, IA","Grand Junction, IA",0,1,0,0,0,1,0,1,0,1,2014
+68590,"Sioux City, IA","Rhodes, IA",0,1,0,0,1,0,1,0,0,1,2014
+68552,"Sioux City, IA","Odebolt, IA",0,1,0,0,1,0,0,1,0,1,2014
+68529,"Sioux City, IA","Montezuma, IA",1,0,0,0,0,1,0,1,0,1,2014
+68530,"Sioux City, IA","Montrose, IA",0,0,1,0,0,1,0,0,1,1,2014
+68531,"Sioux City, IA","Morley, IA",0,0,1,0,1,0,0,0,1,1,2014
+68533,"Sioux City, IA","Moulton, IA",0,1,0,0,1,0,0,1,0,1,2014
+68534,"Sioux City, IA","Mount Auburn, IA",1,0,0,0,1,0,1,0,0,1,2014
+68547,"Sioux City, IA","Nora Springs, IA",1,0,0,0,1,0,0,0,1,1,2014
+68563,"Sioux City, IA","Packwood, IA",0,0,1,0,1,0,0,0,1,1,2014
+68525,"Sioux City, IA","Milton, IA",0,1,0,1,0,0,0,1,0,1,2014
+68564,"Sioux City, IA","Palmer, IA",1,0,0,1,0,0,0,0,1,1,2014
+68568,"Sioux City, IA","Patterson, IA",1,0,0,0,0,1,1,0,0,1,2014
+68571,"Sioux City, IA","Peosta, IA",0,1,0,0,0,1,0,0,1,1,2014
+68577,"Sioux City, IA","Pocahontas, IA",0,1,0,1,0,0,0,1,0,1,2014
+68584,"Sioux City, IA","Randolph, IA",0,1,0,0,1,0,0,1,0,1,2014
+68587,"Sioux City, IA","Reasnor, IA",0,1,0,0,1,0,1,0,0,1,2014
+68527,"Sioux City, IA","Mondamin, IA",0,0,1,0,0,1,1,0,0,1,2014
+68523,"Sioux City, IA","Middletown, IA",0,0,1,0,1,0,1,0,0,1,2014
+68442,"Sioux City, IA","Guttenberg, IA",0,0,1,0,1,0,1,0,0,1,2014
+68479,"Sioux City, IA","Kiron, IA",0,0,1,0,0,1,0,0,1,1,2014
+68452,"Sioux City, IA","Hedrick, IA",0,1,0,0,0,1,0,0,1,1,2014
+68457,"Sioux City, IA","Hudson, IA",1,0,0,0,1,0,1,0,0,1,2014
+68469,"Sioux City, IA","Jesup, IA",0,0,1,1,0,0,1,0,0,1,2014
+68472,"Sioux City, IA","Joice, IA",0,0,1,1,0,0,0,0,1,1,2014
+68477,"Sioux City, IA","Kirkman, IA",0,1,0,0,1,0,1,0,0,1,2014
+68478,"Sioux City, IA","Kirkville, IA",0,0,1,1,0,0,0,0,1,1,2014
+68480,"Sioux City, IA","Knierim, IA",1,0,0,0,0,1,0,1,0,1,2014
+68519,"Sioux City, IA","Melbourne, IA",1,0,0,0,0,1,1,0,0,1,2014
+68483,"Sioux City, IA","Lake Park, IA",0,1,0,1,0,0,0,0,1,1,2014
+68492,"Sioux City, IA","Lester, IA",0,0,1,0,0,1,1,0,0,1,2014
+68499,"Sioux City, IA","Luana, IA",0,1,0,0,1,0,0,0,1,1,2014
+68502,"Sioux City, IA","Madrid, IA",0,1,0,0,1,0,1,0,0,1,2014
+68504,"Sioux City, IA","Malcom, IA",1,0,0,0,0,1,1,0,0,1,2014
+68510,"Sioux City, IA","Maquoketa, IA",1,0,0,0,0,1,0,1,0,1,2014
+68671,"Sioux City, IA","Wyoming, IA",0,1,0,0,1,0,0,0,1,1,2014

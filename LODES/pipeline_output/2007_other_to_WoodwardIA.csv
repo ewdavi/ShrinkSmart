@@ -1,0 +1,64 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+77302,"Woodward, IA","Dallas Center, IA",4,13,5,0,22,0,7,10,5,22,2007
+77309,"Woodward, IA","Granger, IA",3,9,7,0,18,1,6,9,4,19,2007
+77295,"Woodward, IA","Boone, IA",1,11,3,0,14,1,8,6,1,15,2007
+77311,"Woodward, IA","Grimes, IA",2,9,2,0,12,1,3,2,8,13,2007
+77344,"Woodward, IA","Woodward, IA",2,4,5,0,11,0,3,3,5,11,2007
+77324,"Woodward, IA","Madrid, IA",2,6,3,0,11,0,3,5,3,11,2007
+77286,"Woodward, IA","Ankeny, IA",3,4,4,0,11,0,2,6,3,11,2007
+77337,"Woodward, IA","Urbandale, IA",3,6,1,0,9,1,4,3,3,10,2007
+77304,"Woodward, IA","Des Moines, IA",1,5,2,0,6,2,2,5,1,8,2007
+77331,"Woodward, IA","Perry, IA",1,3,4,0,8,0,2,6,0,8,2007
+77332,"Woodward, IA","Pleasant Hill, IA",0,5,2,0,6,1,0,5,2,7,2007
+77318,"Woodward, IA","Johnston, IA",2,3,2,0,3,4,3,3,1,7,2007
+77333,"Woodward, IA","Polk City, IA",0,1,5,0,6,0,1,4,1,6,2007
+77343,"Woodward, IA","Windsor Heights, IA",2,2,2,0,5,1,2,3,1,6,2007
+77317,"Woodward, IA","Jefferson, IA",2,3,0,0,4,1,1,3,1,5,2007
+77342,"Woodward, IA","West Des Moines, IA",2,2,0,0,3,1,1,3,0,4,2007
+77297,"Woodward, IA","Carroll, IA",0,3,1,0,4,0,1,3,0,4,2007
+77341,"Woodward, IA","Waukee, IA",0,3,1,1,3,0,2,1,1,4,2007
+77325,"Woodward, IA","Minburn, IA",3,1,0,0,3,1,0,4,0,4,2007
+77322,"Woodward, IA","Linden, IA",0,3,0,0,2,1,0,3,0,3,2007
+77285,"Woodward, IA","Ames, IA",0,3,0,0,2,1,1,1,1,3,2007
+77296,"Woodward, IA","Carlisle, IA",2,0,0,0,2,0,1,1,0,2,2007
+77323,"Woodward, IA","Luther, IA",0,1,1,0,2,0,2,0,0,2,2007
+77290,"Woodward, IA","Bagley, IA",1,0,1,0,2,0,2,0,0,2,2007
+77321,"Woodward, IA","Lambs Grove, IA",1,0,0,0,0,1,1,0,0,1,2007
+77326,"Woodward, IA","Monroe, IA",0,1,0,0,1,0,1,0,0,1,2007
+77336,"Woodward, IA","Tama, IA",0,1,0,0,1,0,0,1,0,1,2007
+77327,"Woodward, IA","Murray, IA",0,1,0,0,1,0,0,1,0,1,2007
+77328,"Woodward, IA","Norwalk, IA",1,0,0,0,1,0,0,1,0,1,2007
+77338,"Woodward, IA","Victor, IA",1,0,0,0,0,1,1,0,0,1,2007
+77330,"Woodward, IA","Panama, IA",1,0,0,0,0,1,0,1,0,1,2007
+77340,"Woodward, IA","Waterloo, IA",0,0,1,0,1,0,1,0,0,1,2007
+77339,"Woodward, IA","Vinton, IA",0,1,0,0,1,0,1,0,0,1,2007
+77320,"Woodward, IA","Lake Mills, IA",0,1,0,1,0,0,0,1,0,1,2007
+77334,"Woodward, IA","Slater, IA",1,0,0,0,1,0,1,0,0,1,2007
+77335,"Woodward, IA","Stanhope, IA",0,0,1,0,1,0,0,1,0,1,2007
+77329,"Woodward, IA","Owasa, IA",0,1,0,0,1,0,1,0,0,1,2007
+77282,"Woodward, IA","Ackley, IA",0,1,0,0,1,0,0,1,0,1,2007
+77319,"Woodward, IA","Kamrar, IA",0,1,0,0,1,0,0,1,0,1,2007
+77300,"Woodward, IA","Clinton, IA",0,1,0,0,1,0,1,0,0,1,2007
+77284,"Woodward, IA","Altoona, IA",0,1,0,0,1,0,0,1,0,1,2007
+77287,"Woodward, IA","Arthur, IA",0,1,0,0,1,0,1,0,0,1,2007
+77288,"Woodward, IA","Asbury, IA",0,1,0,0,0,1,1,0,0,1,2007
+77289,"Woodward, IA","Audubon, IA",0,1,0,0,0,1,0,1,0,1,2007
+77291,"Woodward, IA","Baldwin, IA",0,1,0,0,1,0,1,0,0,1,2007
+77292,"Woodward, IA","Bellevue, IA",0,1,0,0,1,0,1,0,0,1,2007
+77293,"Woodward, IA","Belmond, IA",1,0,0,1,0,0,1,0,0,1,2007
+77294,"Woodward, IA","Bettendorf, IA",0,1,0,0,0,1,0,0,1,1,2007
+77298,"Woodward, IA","Chariton, IA",1,0,0,0,1,0,1,0,0,1,2007
+77299,"Woodward, IA","Clearfield, IA",0,0,1,0,1,0,0,1,0,1,2007
+77301,"Woodward, IA","Coon Rapids, IA",0,1,0,0,1,0,0,1,0,1,2007
+77316,"Woodward, IA","Iowa Falls, IA",1,0,0,0,0,1,1,0,0,1,2007
+77303,"Woodward, IA","De Soto, IA",0,0,1,0,1,0,0,1,0,1,2007
+77305,"Woodward, IA","East Peru, IA",0,1,0,0,1,0,0,1,0,1,2007
+77306,"Woodward, IA","Fairfield, IA",0,1,0,0,0,1,0,1,0,1,2007
+77307,"Woodward, IA","Fort Dodge, IA",0,1,0,0,1,0,0,1,0,1,2007
+77308,"Woodward, IA","Grand River, IA",0,1,0,0,1,0,0,1,0,1,2007
+77310,"Woodward, IA","Greenville, IA",0,1,0,0,1,0,0,1,0,1,2007
+77312,"Woodward, IA","Guthrie Center, IA",0,1,0,0,1,0,0,1,0,1,2007
+77283,"Woodward, IA","Adel, IA",0,1,0,0,1,0,1,0,0,1,2007
+77314,"Woodward, IA","Huxley, IA",0,1,0,0,1,0,0,0,1,1,2007
+77315,"Woodward, IA","Inwood, IA",0,1,0,0,1,0,1,0,0,1,2007
+77313,"Woodward, IA","Humboldt, IA",0,1,0,0,0,1,1,0,0,1,2007

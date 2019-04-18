@@ -1,0 +1,493 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+15068,"Davenport, IA","Davenport, IA",4285,9077,2844,2762,10513,2931,5747,6853,3606,16206,2006
+15005,"Davenport, IA","Bettendorf, IA",1201,2983,1154,662,3807,869,1477,1762,2099,5338,2006
+15093,"Davenport, IA","Eldridge, IA",272,691,214,194,782,201,356,402,419,1177,2006
+15215,"Davenport, IA","Long Grove, IA",146,450,100,141,431,124,171,233,292,696,2006
+15019,"Davenport, IA","Buffalo, IA",139,417,124,158,403,119,173,282,225,680,2006
+15303,"Davenport, IA","Panorama Park, IA",155,373,132,123,431,106,212,161,287,660,2006
+15083,"Davenport, IA","Dubuque, IA",244,274,120,59,451,128,354,188,96,638,2006
+15009,"Davenport, IA","Blue Grass, IA",134,362,116,156,356,100,167,259,186,612,2006
+15032,"Davenport, IA","Cedar Rapids, IA",223,297,79,31,385,183,261,212,126,599,2006
+15337,"Davenport, IA","Riverdale, IA",124,307,70,81,321,99,126,227,148,501,2006
+15045,"Davenport, IA","Clinton, IA",128,278,77,87,303,93,184,190,109,483,2006
+15202,"Davenport, IA","Le Claire, IA",81,306,90,86,310,81,121,146,210,477,2006
+15268,"Davenport, IA","Muscatine, IA",122,270,59,73,279,99,179,161,111,451,2006
+15070,"Davenport, IA","De Witt, IA",89,219,85,72,262,59,88,173,132,393,2006
+15324,"Davenport, IA","Princeton, IA",62,223,81,103,214,49,78,142,146,366,2006
+15078,"Davenport, IA","Dixon, IA",78,210,69,88,229,40,79,149,129,357,2006
+15175,"Davenport, IA","Iowa City, IA",176,110,20,13,144,149,159,94,53,306,2006
+15075,"Davenport, IA","Des Moines, IA",115,147,42,19,161,124,109,97,98,304,2006
+15418,"Davenport, IA","Walcott, IA",45,172,52,73,164,32,73,91,105,269,2006
+15161,"Davenport, IA","Hiawatha, IA",95,136,37,7,177,84,108,96,64,268,2006
+15228,"Davenport, IA","Maquoketa, IA",53,133,43,59,137,33,93,87,49,229,2006
+15020,"Davenport, IA","Burlington, IA",87,92,35,30,93,91,101,82,31,214,2006
+14980,"Davenport, IA","Ames, IA",65,76,15,10,84,62,60,46,50,156,2006
+15339,"Davenport, IA","Robins, IA",49,63,15,4,84,39,61,38,28,127,2006
+14988,"Davenport, IA","Asbury, IA",40,52,33,8,88,29,71,22,32,125,2006
+15409,"Davenport, IA","University Heights, IA",63,46,11,6,67,47,62,32,26,120,2006
+15003,"Davenport, IA","Bennett, IA",30,70,16,17,76,23,33,50,33,116,2006
+15447,"Davenport, IA","Wilton, IA",25,68,14,25,66,16,32,37,38,107,2006
+15136,"Davenport, IA","Grand Mound, IA",13,68,16,21,58,18,16,51,30,97,2006
+15448,"Davenport, IA","Windsor Heights, IA",41,45,10,4,48,44,37,32,27,96,2006
+15423,"Davenport, IA","Waterloo, IA",30,41,18,6,63,20,38,27,24,89,2006
+14984,"Davenport, IA","Ankeny, IA",37,41,8,8,42,36,34,30,22,86,2006
+15056,"Davenport, IA","Coralville, IA",48,27,9,4,40,40,42,25,17,84,2006
+15232,"Davenport, IA","Marshalltown, IA",28,36,11,13,33,29,38,20,17,75,2006
+15023,"Davenport, IA","Camanche, IA",15,47,12,17,44,13,24,26,24,74,2006
+15238,"Davenport, IA","McCausland, IA",18,37,18,17,44,12,15,27,31,73,2006
+15437,"Davenport, IA","West Des Moines, IA",35,31,7,5,46,22,34,19,20,73,2006
+15313,"Davenport, IA","Pleasant Hill, IA",26,38,8,6,40,26,32,20,20,72,2006
+15001,"Davenport, IA","Bellevue, IA",19,42,10,22,41,8,29,19,23,71,2006
+15047,"Davenport, IA","Clive, IA",23,40,3,5,36,25,29,17,20,66,2006
+15351,"Davenport, IA","Sageville, IA",27,21,17,8,42,15,33,21,11,65,2006
+15443,"Davenport, IA","Wheatland, IA",10,42,13,19,38,8,11,27,27,65,2006
+15412,"Davenport, IA","Urbandale, IA",30,27,6,5,37,21,25,23,15,63,2006
+15284,"Davenport, IA","North Liberty, IA",36,23,2,5,24,32,28,22,11,61,2006
+15275,"Davenport, IA","New Liberty, IA",14,39,7,9,39,12,12,26,22,60,2006
+15322,"Davenport, IA","Preston, IA",14,42,4,23,26,11,17,17,26,60,2006
+14994,"Davenport, IA","Baldwin, IA",12,38,9,18,38,3,16,28,15,59,2006
+15031,"Davenport, IA","Cedar Falls, IA",14,29,15,6,42,10,19,18,21,58,2006
+15401,"Davenport, IA","Tipton, IA",10,29,16,8,28,19,13,30,12,55,2006
+15106,"Davenport, IA","Fairfax, IA",23,23,4,1,32,17,22,19,9,50,2006
+15210,"Davenport, IA","Lisbon, IA",17,26,7,2,31,17,21,21,8,50,2006
+15235,"Davenport, IA","Mason City, IA",20,21,9,3,34,13,26,11,13,50,2006
+15183,"Davenport, IA","Keokuk, IA",13,25,11,11,19,19,18,17,14,49,2006
+15118,"Davenport, IA","Fort Madison, IA",17,20,12,7,19,23,24,16,9,49,2006
+15286,"Davenport, IA","Norwalk, IA",13,27,6,6,24,16,11,18,17,46,2006
+15386,"Davenport, IA","Stockton, IA",4,33,8,7,30,8,15,18,12,45,2006
+15435,"Davenport, IA","West Burlington, IA",16,23,6,8,20,17,20,19,6,45,2006
+15217,"Davenport, IA","Low Moor, IA",8,30,6,10,26,8,8,17,19,44,2006
+15086,"Davenport, IA","Dyersville, IA",20,19,4,6,25,12,28,6,9,43,2006
+15226,"Davenport, IA","Manchester, IA",19,15,8,3,30,9,22,13,7,42,2006
+14995,"Davenport, IA","Balltown, IA",15,16,11,9,25,8,22,12,8,42,2006
+15172,"Davenport, IA","Indianola, IA",11,26,3,5,21,14,13,10,17,40,2006
+15308,"Davenport, IA","Peosta, IA",14,19,6,4,28,7,26,6,7,39,2006
+15180,"Davenport, IA","Johnston, IA",21,14,4,3,18,18,19,12,8,39,2006
+15012,"Davenport, IA","Boone, IA",10,25,2,4,20,13,13,11,13,37,2006
+15281,"Davenport, IA","Nichols, IA",13,19,4,9,18,9,15,14,7,36,2006
+14982,"Davenport, IA","Andover, IA",12,22,2,5,26,5,12,10,14,36,2006
+15099,"Davenport, IA","Ely, IA",15,16,5,2,20,14,12,17,7,36,2006
+15108,"Davenport, IA","Farley, IA",14,18,4,3,30,3,20,12,4,36,2006
+14979,"Davenport, IA","Altoona, IA",15,15,5,5,15,15,15,6,14,35,2006
+15376,"Davenport, IA","Springville, IA",11,19,5,1,22,12,12,18,5,35,2006
+15297,"Davenport, IA","Ottumwa, IA",19,12,4,0,8,27,21,10,4,35,2006
+15189,"Davenport, IA","Knoxville, IA",8,23,3,4,17,13,16,5,13,34,2006
+15230,"Davenport, IA","Marion, IA",17,13,4,0,24,10,18,9,7,34,2006
+15085,"Davenport, IA","Durant, IA",7,23,4,8,17,9,6,18,10,34,2006
+15300,"Davenport, IA","Oxford, IA",18,10,5,3,21,9,16,11,6,33,2006
+15375,"Davenport, IA","Springbrook, IA",8,16,9,17,13,3,10,9,14,33,2006
+15280,"Davenport, IA","Newton, IA",15,16,2,1,19,13,14,12,7,33,2006
+15421,"Davenport, IA","Wapello, IA",10,14,8,9,15,8,7,14,11,32,2006
+15040,"Davenport, IA","Clarence, IA",5,22,3,13,14,3,5,12,13,30,2006
+15071,"Davenport, IA","Decorah, IA",7,14,9,1,23,6,14,11,5,30,2006
+15307,"Davenport, IA","Pella, IA",7,18,5,3,16,11,6,9,15,30,2006
+15216,"Davenport, IA","Lost Nation, IA",8,18,3,10,17,2,8,8,13,29,2006
+15434,"Davenport, IA","West Branch, IA",6,17,6,4,17,8,5,13,11,29,2006
+15425,"Davenport, IA","Waukee, IA",9,17,2,2,17,9,8,8,12,28,2006
+15302,"Davenport, IA","Palo, IA",7,18,2,1,19,7,7,12,8,27,2006
+15350,"Davenport, IA","Sabula, IA",5,18,2,10,12,3,4,10,11,25,2006
+15026,"Davenport, IA","Carlisle, IA",9,12,4,0,15,10,8,10,7,25,2006
+15145,"Davenport, IA","Grinnell, IA",12,8,4,2,12,10,11,5,8,24,2006
+15176,"Davenport, IA","Iowa Falls, IA",8,11,4,1,13,9,15,3,5,23,2006
+15240,"Davenport, IA","Mechanicsville, IA",7,10,6,4,7,12,4,10,9,23,2006
+15034,"Davenport, IA","Center Point, IA",8,9,6,1,15,7,11,6,6,23,2006
+15411,"Davenport, IA","Urbana, IA",10,11,2,3,13,7,9,7,7,23,2006
+14990,"Davenport, IA","Atalissa, IA",9,9,5,6,13,4,12,4,7,23,2006
+15004,"Davenport, IA","Bertram, IA",8,11,3,0,15,7,12,6,4,22,2006
+15338,"Davenport, IA","Riverside, IA",6,12,4,1,14,7,12,6,4,22,2006
+15416,"Davenport, IA","Vinton, IA",5,9,7,3,10,8,10,3,8,21,2006
+15043,"Davenport, IA","Clear Lake, IA",6,9,5,3,15,2,6,5,9,20,2006
+15432,"Davenport, IA","Welton, IA",5,13,1,6,11,2,6,6,7,19,2006
+15218,"Davenport, IA","Lowden, IA",3,12,4,9,8,2,2,10,7,19,2006
+15137,"Davenport, IA","Grandview, IA",5,13,1,0,17,2,4,11,4,19,2006
+15362,"Davenport, IA","Shueyville, IA",8,9,2,2,11,6,8,8,3,19,2006
+15164,"Davenport, IA","Hopkinton, IA",5,10,3,0,13,5,10,4,4,18,2006
+14983,"Davenport, IA","Andrew, IA",3,13,1,8,8,1,2,8,7,17,2006
+15422,"Davenport, IA","Washington, IA",3,9,5,1,11,5,7,6,4,17,2006
+15101,"Davenport, IA","Epworth, IA",10,3,4,1,14,2,13,1,3,17,2006
+15069,"Davenport, IA","De Soto, IA",4,12,0,0,7,9,7,3,6,16,2006
+15254,"Davenport, IA","Monticello, IA",7,8,1,3,5,8,7,3,6,16,2006
+15309,"Davenport, IA","Perry, IA",5,9,2,3,7,6,7,3,6,16,2006
+15233,"Davenport, IA","Martelle, IA",6,9,1,0,10,6,9,4,3,16,2006
+15321,"Davenport, IA","Prairieburg, IA",4,8,3,0,14,1,6,8,1,15,2006
+15427,"Davenport, IA","Waverly, IA",3,8,4,1,11,3,6,3,6,15,2006
+15073,"Davenport, IA","Delaware, IA",6,4,5,3,8,4,12,1,2,15,2006
+15426,"Davenport, IA","Waukon, IA",6,6,3,1,10,4,4,4,7,15,2006
+15450,"Davenport, IA","Winterset, IA",5,10,0,1,6,8,6,4,5,15,2006
+15271,"Davenport, IA","Nevada, IA",7,8,0,0,7,8,5,4,6,15,2006
+15250,"Davenport, IA","Mitchellville, IA",4,10,0,1,7,6,7,3,4,14,2006
+15457,"Davenport, IA","Zwingle, IA",6,7,1,2,9,3,6,5,3,14,2006
+15387,"Davenport, IA","Storm Lake, IA",5,7,2,1,10,3,7,6,1,14,2006
+15318,"Davenport, IA","Polk City, IA",5,6,2,1,8,4,3,6,4,13,2006
+15028,"Davenport, IA","Cascade, IA",6,7,0,4,7,2,8,1,4,13,2006
+15125,"Davenport, IA","Fruitland, IA",3,8,2,2,8,3,7,4,2,13,2006
+15170,"Davenport, IA","Huxley, IA",2,9,2,0,8,5,3,6,4,13,2006
+15381,"Davenport, IA","St. Paul, IA",2,9,2,2,6,5,6,3,4,13,2006
+15091,"Davenport, IA","Elberon, IA",5,7,0,1,3,8,8,1,3,12,2006
+15372,"Davenport, IA","Spencer, IA",3,8,1,1,8,3,4,6,2,12,2006
+15438,"Davenport, IA","West Liberty, IA",5,6,1,0,6,6,5,6,1,12,2006
+15076,"Davenport, IA","Dexter, IA",8,2,2,1,7,4,5,5,2,12,2006
+15103,"Davenport, IA","Evansdale, IA",4,7,1,1,10,1,8,1,3,12,2006
+15276,"Davenport, IA","New London, IA",6,5,0,2,5,4,2,7,2,11,2006
+15264,"Davenport, IA","Mount Pleasant, IA",6,4,1,0,7,4,6,3,2,11,2006
+15063,"Davenport, IA","Creston, IA",4,6,1,2,3,6,7,3,1,11,2006
+15259,"Davenport, IA","Morning Sun, IA",5,4,2,3,7,1,4,3,4,11,2006
+15256,"Davenport, IA","Montrose, IA",6,5,0,0,5,6,5,5,1,11,2006
+15403,"Davenport, IA","Toledo, IA",5,4,2,0,4,7,6,3,2,11,2006
+15291,"Davenport, IA","Ogden, IA",4,5,2,1,6,4,6,3,2,11,2006
+15221,"Davenport, IA","Lynnville, IA",3,6,2,0,6,5,6,3,2,11,2006
+14972,"Davenport, IA","Albia, IA",4,6,1,1,2,8,6,2,3,11,2006
+15102,"Davenport, IA","Estherville, IA",2,6,2,1,7,2,2,5,3,10,2006
+15011,"Davenport, IA","Bondurant, IA",5,3,2,2,3,5,5,2,3,10,2006
+15138,"Davenport, IA","Granger, IA",3,6,1,1,5,4,4,3,3,10,2006
+15304,"Davenport, IA","Parkersburg, IA",1,3,6,0,8,2,4,4,2,10,2006
+15419,"Davenport, IA","Walford, IA",3,5,2,0,6,4,5,2,3,10,2006
+15298,"Davenport, IA","Owasa, IA",2,5,3,3,5,2,6,0,4,10,2006
+15243,"Davenport, IA","Melcher-Dallas, IA",0,7,3,1,6,3,5,1,4,10,2006
+15290,"Davenport, IA","Oelwein, IA",2,5,3,0,9,1,5,3,2,10,2006
+15388,"Davenport, IA","Story City, IA",3,7,0,0,3,7,3,4,3,10,2006
+15050,"Davenport, IA","Colfax, IA",2,8,0,4,4,2,4,3,3,10,2006
+15105,"Davenport, IA","Fairbank, IA",4,5,1,2,6,2,4,2,4,10,2006
+14981,"Davenport, IA","Anamosa, IA",2,5,2,0,9,0,2,2,5,9,2006
+15224,"Davenport, IA","Madrid, IA",4,4,1,1,3,5,4,5,0,9,2006
+15285,"Davenport, IA","Northwood, IA",2,4,3,1,6,2,4,4,1,9,2006
+15400,"Davenport, IA","Tiffin, IA",5,3,1,0,4,5,2,5,2,9,2006
+15266,"Davenport, IA","Mount Vernon, IA",2,4,3,0,7,2,4,4,1,9,2006
+15080,"Davenport, IA","Donnellson, IA",3,4,2,0,4,5,4,5,0,9,2006
+15062,"Davenport, IA","Cresco, IA",5,4,0,0,8,1,3,3,3,9,2006
+15258,"Davenport, IA","Morley, IA",5,4,0,0,4,5,4,4,1,9,2006
+15128,"Davenport, IA","Garner, IA",2,5,2,0,8,1,3,4,2,9,2006
+15171,"Davenport, IA","Independence, IA",2,6,1,0,7,2,2,4,3,9,2006
+15428,"Davenport, IA","Wayland, IA",6,0,3,0,6,3,6,2,1,9,2006
+15373,"Davenport, IA","Spirit Lake, IA",2,5,2,2,6,1,3,2,4,9,2006
+15245,"Davenport, IA","Middletown, IA",4,3,1,0,3,5,3,3,2,8,2006
+15277,"Davenport, IA","New Sharon, IA",4,4,0,0,1,7,4,2,2,8,2006
+15368,"Davenport, IA","Slater, IA",2,4,2,1,4,3,2,2,4,8,2006
+15241,"Davenport, IA","Mediapolis, IA",3,5,0,1,4,3,3,2,3,8,2006
+15229,"Davenport, IA","Marengo, IA",4,1,3,0,8,0,4,4,0,8,2006
+15344,"Davenport, IA","Roland, IA",3,5,0,1,4,3,3,4,1,8,2006
+15366,"Davenport, IA","Sioux Center, IA",1,5,2,1,6,1,3,4,1,8,2006
+15292,"Davenport, IA","Orange City, IA",3,3,2,1,4,3,3,4,1,8,2006
+15294,"Davenport, IA","Osage, IA",1,5,2,1,3,4,5,1,2,8,2006
+15296,"Davenport, IA","Oskaloosa, IA",4,3,1,0,2,6,5,2,1,8,2006
+15383,"Davenport, IA","Stanhope, IA",1,6,1,0,7,1,2,5,1,8,2006
+15349,"Davenport, IA","Ryan, IA",5,2,1,0,6,2,4,4,0,8,2006
+15094,"Davenport, IA","Elk Run Heights, IA",4,4,0,1,5,2,2,5,1,8,2006
+15203,"Davenport, IA","Le Grand, IA",3,4,1,1,4,3,6,0,2,8,2006
+15038,"Davenport, IA","Charles City, IA",0,7,1,0,8,0,3,4,1,8,2006
+15340,"Davenport, IA","Rock Rapids, IA",3,4,0,0,6,1,4,3,0,7,2006
+15166,"Davenport, IA","Houghton, IA",2,5,0,2,3,2,1,6,0,7,2006
+15066,"Davenport, IA","Dallas Center, IA",3,2,2,0,5,2,1,4,2,7,2006
+15000,"Davenport, IA","Belle Plaine, IA",2,4,1,1,3,3,2,2,3,7,2006
+15037,"Davenport, IA","Chariton, IA",3,3,1,1,1,5,4,1,2,7,2006
+15181,"Davenport, IA","Kalona, IA",3,4,0,1,3,3,5,1,1,7,2006
+15211,"Davenport, IA","Liscomb, IA",4,2,1,0,2,5,5,2,0,7,2006
+15198,"Davenport, IA","Lamoni, IA",2,3,2,0,4,3,6,0,1,7,2006
+15262,"Davenport, IA","Mount Auburn, IA",3,3,1,0,4,3,4,3,0,7,2006
+15140,"Davenport, IA","Greeley, IA",2,4,1,1,6,0,4,2,1,7,2006
+14975,"Davenport, IA","Algona, IA",2,4,1,1,4,2,1,4,2,7,2006
+15346,"Davenport, IA","Runnells, IA",3,3,1,0,6,1,3,3,1,7,2006
+15150,"Davenport, IA","Hampton, IA",3,4,0,0,6,1,4,3,0,7,2006
+15149,"Davenport, IA","Guttenberg, IA",2,4,1,0,5,2,4,2,1,7,2006
+15052,"Davenport, IA","Columbus Junction, IA",3,4,0,0,3,4,4,1,2,7,2006
+15115,"Davenport, IA","Forest City, IA",3,4,0,0,3,4,3,2,2,7,2006
+15335,"Davenport, IA","Rhodes, IA",2,4,1,1,5,1,1,4,2,7,2006
+15273,"Davenport, IA","New Hampton, IA",3,3,1,0,4,3,3,2,2,7,2006
+15162,"Davenport, IA","Hills, IA",4,1,2,2,0,5,3,2,2,7,2006
+15239,"Davenport, IA","McIntire, IA",3,1,2,1,4,1,4,0,2,6,2006
+15173,"Davenport, IA","Inwood, IA",2,2,2,0,5,1,3,3,0,6,2006
+15036,"Davenport, IA","Central City, IA",3,2,1,0,6,0,2,3,1,6,2006
+15024,"Davenport, IA","Cambridge, IA",4,2,0,1,5,0,2,3,1,6,2006
+15021,"Davenport, IA","Bussey, IA",4,1,1,0,0,6,6,0,0,6,2006
+15252,"Davenport, IA","Monroe, IA",2,4,0,0,3,3,0,3,3,6,2006
+15449,"Davenport, IA","Winfield, IA",2,4,0,0,2,4,3,2,1,6,2006
+15197,"Davenport, IA","Lambs Grove, IA",2,2,2,0,5,1,2,1,3,6,2006
+15414,"Davenport, IA","Van Meter, IA",2,4,0,1,3,2,3,1,2,6,2006
+15006,"Davenport, IA","Blairstown, IA",3,2,1,0,2,4,4,1,1,6,2006
+15295,"Davenport, IA","Osceola, IA",1,4,1,1,2,3,2,2,2,6,2006
+15352,"Davenport, IA","Salem, IA",1,4,1,1,2,3,3,2,1,6,2006
+15374,"Davenport, IA","Spring Hill, IA",2,4,0,1,3,2,2,2,2,6,2006
+15113,"Davenport, IA","Ferguson, IA",4,1,1,3,2,1,3,1,2,6,2006
+15379,"Davenport, IA","St. Marys, IA",2,2,2,1,2,3,2,1,3,6,2006
+14992,"Davenport, IA","Aurelia, IA",1,1,4,0,6,0,1,1,4,6,2006
+15087,"Davenport, IA","Dysart, IA",2,4,0,0,5,1,3,2,1,6,2006
+15360,"Davenport, IA","Sheldon, IA",1,4,1,1,3,2,0,4,2,6,2006
+15092,"Davenport, IA","Eldora, IA",1,1,3,0,5,0,3,2,0,5,2006
+15030,"Davenport, IA","Castalia, IA",2,3,0,0,3,2,2,1,2,5,2006
+15015,"Davenport, IA","Bristow, IA",2,1,2,0,4,1,3,0,2,5,2006
+15067,"Davenport, IA","Danville, IA",2,3,0,0,2,3,4,0,1,5,2006
+15074,"Davenport, IA","Denver, IA",1,2,2,0,3,2,2,2,1,5,2006
+15231,"Davenport, IA","Marquette, IA",0,3,2,1,3,1,1,2,2,5,2006
+15033,"Davenport, IA","Center Junction, IA",1,3,1,0,4,1,2,2,1,5,2006
+15107,"Davenport, IA","Fairfield, IA",0,4,1,0,3,2,2,1,2,5,2006
+15100,"Davenport, IA","Emmetsburg, IA",0,5,0,1,3,1,2,1,2,5,2006
+14967,"Davenport, IA","Ackworth, IA",2,1,2,0,3,2,4,0,1,5,2006
+15413,"Davenport, IA","Van Horne, IA",2,2,1,1,2,2,1,2,2,5,2006
+15370,"Davenport, IA","Solon, IA",4,1,0,1,4,0,1,2,2,5,2006
+15415,"Davenport, IA","Victor, IA",1,4,0,1,3,1,1,4,0,5,2006
+15451,"Davenport, IA","Winthrop, IA",0,3,2,0,5,0,1,2,2,5,2006
+15090,"Davenport, IA","Edgewood, IA",3,1,1,0,2,3,3,2,0,5,2006
+15394,"Davenport, IA","Swan, IA",2,1,2,0,2,3,3,1,1,5,2006
+15122,"Davenport, IA","Fredericksburg, IA",1,4,0,0,3,2,3,1,1,5,2006
+15278,"Davenport, IA","New Vienna, IA",2,3,0,0,5,0,3,2,0,5,2006
+15131,"Davenport, IA","Gilbert, IA",0,4,1,1,2,2,1,0,4,5,2006
+15135,"Davenport, IA","Graf, IA",2,3,0,1,1,3,1,3,1,5,2006
+15314,"Davenport, IA","Pleasant Plain, IA",3,0,2,0,4,1,3,2,0,5,2006
+15167,"Davenport, IA","Hubbard, IA",1,3,1,0,3,2,3,1,1,5,2006
+15016,"Davenport, IA","Britt, IA",2,2,1,1,3,1,3,2,0,5,2006
+15410,"Davenport, IA","University Park, IA",2,1,2,0,2,3,3,1,1,5,2006
+15177,"Davenport, IA","Ireton, IA",2,0,3,1,3,1,2,1,2,5,2006
+15377,"Davenport, IA","St. Ansgar, IA",2,2,1,1,4,0,2,1,2,5,2006
+15255,"Davenport, IA","Montour, IA",1,2,1,1,1,2,3,1,0,4,2006
+15283,"Davenport, IA","Nora Springs, IA",2,0,2,0,4,0,2,1,1,4,2006
+15453,"Davenport, IA","Woodward, IA",3,1,0,0,2,2,3,0,1,4,2006
+15456,"Davenport, IA","Zearing, IA",1,2,1,0,4,0,1,2,1,4,2006
+15287,"Davenport, IA","Norway, IA",1,2,1,0,1,3,4,0,0,4,2006
+15279,"Davenport, IA","Newell, IA",2,1,1,0,3,1,3,1,0,4,2006
+15361,"Davenport, IA","Shell Rock, IA",2,2,0,0,3,1,1,1,2,4,2006
+15389,"Davenport, IA","Strawberry Point, IA",2,1,1,0,3,1,1,2,1,4,2006
+15441,"Davenport, IA","West Union, IA",1,1,2,0,4,0,3,0,1,4,2006
+15424,"Davenport, IA","Waucoma, IA",3,1,0,0,4,0,0,3,1,4,2006
+15288,"Davenport, IA","Oakville, IA",1,2,1,1,1,2,0,1,3,4,2006
+15382,"Davenport, IA","Stacyville, IA",2,1,1,0,3,1,2,1,1,4,2006
+15306,"Davenport, IA","Patterson, IA",2,2,0,0,0,4,1,2,1,4,2006
+15446,"Davenport, IA","Williamsburg, IA",2,1,1,0,4,0,2,1,1,4,2006
+15265,"Davenport, IA","Mount Union, IA",1,3,0,0,1,3,3,1,0,4,2006
+15331,"Davenport, IA","Reasnor, IA",1,3,0,0,3,1,2,1,1,4,2006
+15430,"Davenport, IA","Wellman, IA",2,2,0,0,2,2,2,1,1,4,2006
+15330,"Davenport, IA","Readlyn, IA",2,1,1,0,2,2,3,0,1,4,2006
+15327,"Davenport, IA","Rake, IA",2,2,0,0,3,1,1,2,1,4,2006
+15251,"Davenport, IA","Monona, IA",1,2,1,0,4,0,1,2,1,4,2006
+15311,"Davenport, IA","Plainfield, IA",2,1,1,0,4,0,2,1,1,4,2006
+15320,"Davenport, IA","Prairie City, IA",0,4,0,0,3,1,2,2,0,4,2006
+15212,"Davenport, IA","Lockridge, IA",0,4,0,0,2,2,2,2,0,4,2006
+15157,"Davenport, IA","Hawarden, IA",2,2,0,0,4,0,2,2,0,4,2006
+15208,"Davenport, IA","Lime Springs, IA",0,3,1,1,2,1,1,1,2,4,2006
+15088,"Davenport, IA","East Peru, IA",3,1,0,1,0,3,3,1,0,4,2006
+15057,"Davenport, IA","Corwith, IA",1,2,1,0,3,1,2,2,0,4,2006
+15195,"Davenport, IA","Lakeside, IA",1,2,1,2,2,0,2,1,1,4,2006
+15199,"Davenport, IA","Lansing, IA",1,0,3,0,4,0,1,0,3,4,2006
+15120,"Davenport, IA","Franklin, IA",0,4,0,0,3,1,0,4,0,4,2006
+15129,"Davenport, IA","Garwin, IA",0,2,2,1,1,2,1,1,2,4,2006
+15169,"Davenport, IA","Hull, IA",2,0,2,0,2,2,2,1,1,4,2006
+15007,"Davenport, IA","Blakesburg, IA",1,3,0,0,1,3,1,2,1,4,2006
+14999,"Davenport, IA","Bedford, IA",2,2,0,0,1,3,3,0,1,4,2006
+15142,"Davenport, IA","Greenfield, IA",2,2,0,0,3,1,1,1,2,4,2006
+15008,"Davenport, IA","Bloomfield, IA",1,1,2,0,2,2,1,2,1,4,2006
+15144,"Davenport, IA","Grimes, IA",3,1,0,0,3,1,0,3,1,4,2006
+14968,"Davenport, IA","Adel, IA",2,1,1,0,1,3,2,2,0,4,2006
+14989,"Davenport, IA","Ashton, IA",0,0,4,0,4,0,1,2,1,4,2006
+14978,"Davenport, IA","Alton, IA",1,1,2,0,3,1,2,1,1,4,2006
+14974,"Davenport, IA","Alden, IA",0,3,1,0,2,2,0,1,3,4,2006
+15214,"Davenport, IA","Lone Tree, IA",0,3,1,0,3,1,0,3,1,4,2006
+15152,"Davenport, IA","Harpers Ferry, IA",1,3,0,0,3,1,1,2,1,4,2006
+14970,"Davenport, IA","Agency, IA",1,3,0,0,1,3,1,1,2,4,2006
+15301,"Davenport, IA","Packwood, IA",1,1,1,0,0,3,1,2,0,3,2006
+15342,"Davenport, IA","Rockford, IA",0,1,2,0,3,0,0,3,0,3,2006
+15341,"Davenport, IA","Rock Valley, IA",0,2,1,0,2,1,1,1,1,3,2006
+15110,"Davenport, IA","Farmington, IA",0,1,2,0,0,3,1,1,1,3,2006
+15111,"Davenport, IA","Fayette, IA",0,3,0,1,2,0,1,1,1,3,2006
+15116,"Davenport, IA","Fort Atkinson, IA",0,3,0,0,1,2,1,1,1,3,2006
+15143,"Davenport, IA","Greenville, IA",1,1,1,0,3,0,3,0,0,3,2006
+15329,"Davenport, IA","Raymond, IA",1,2,0,0,3,0,2,0,1,3,2006
+15134,"Davenport, IA","Graettinger, IA",1,1,1,0,1,2,2,1,0,3,2006
+15121,"Davenport, IA","Fraser, IA",2,0,1,1,1,1,2,1,0,3,2006
+15127,"Davenport, IA","Garnavillo, IA",0,3,0,0,1,2,2,0,1,3,2006
+15316,"Davenport, IA","Pleasantville, IA",3,0,0,0,0,3,3,0,0,3,2006
+15130,"Davenport, IA","Gibson, IA",1,1,1,0,2,1,1,2,0,3,2006
+15095,"Davenport, IA","Elkader, IA",1,1,1,0,3,0,2,1,0,3,2006
+15133,"Davenport, IA","Gilman, IA",0,3,0,1,1,1,1,0,2,3,2006
+15347,"Davenport, IA","Russell, IA",1,1,1,0,0,3,2,0,1,3,2006
+15227,"Davenport, IA","Manly, IA",1,2,0,0,1,2,1,1,1,3,2006
+15353,"Davenport, IA","Sanborn, IA",2,1,0,0,2,1,1,2,0,3,2006
+15417,"Davenport, IA","Wadena, IA",1,2,0,0,2,1,0,1,2,3,2006
+15454,"Davenport, IA","Worthington, IA",1,2,0,0,2,1,3,0,0,3,2006
+15452,"Davenport, IA","Woden, IA",1,1,1,1,1,1,3,0,0,3,2006
+14973,"Davenport, IA","Albion, IA",2,1,0,0,1,2,1,2,0,3,2006
+14991,"Davenport, IA","Atkins, IA",3,0,0,0,1,2,2,1,0,3,2006
+14993,"Davenport, IA","Aurora, IA",2,1,0,0,2,1,0,2,1,3,2006
+15431,"Davenport, IA","Wellsburg, IA",1,2,0,1,2,0,1,1,1,3,2006
+14996,"Davenport, IA","Baxter, IA",2,1,0,0,3,0,0,1,2,3,2006
+15013,"Davenport, IA","Boyden, IA",0,3,0,1,2,0,1,1,1,3,2006
+15017,"Davenport, IA","Brooklyn, IA",0,2,1,1,0,2,3,0,0,3,2006
+15018,"Davenport, IA","Buffalo Center, IA",1,2,0,2,1,0,0,2,1,3,2006
+15354,"Davenport, IA","Scarville, IA",1,2,0,1,1,1,1,0,2,3,2006
+15035,"Davenport, IA","Centerville, IA",2,1,0,0,1,2,2,1,0,3,2006
+15039,"Davenport, IA","Chester, IA",1,1,1,0,2,1,1,1,1,3,2006
+15042,"Davenport, IA","Clarksville, IA",1,1,1,0,2,1,0,2,1,3,2006
+15395,"Davenport, IA","Swisher, IA",1,2,0,0,2,1,1,1,1,3,2006
+15392,"Davenport, IA","Superior, IA",1,2,0,0,2,1,1,1,1,3,2006
+15293,"Davenport, IA","Orient, IA",1,1,1,1,0,2,2,0,1,3,2006
+15060,"Davenport, IA","Council Bluffs, IA",1,1,1,1,1,1,2,1,0,3,2006
+15077,"Davenport, IA","Dickens, IA",1,0,2,0,2,1,1,2,0,3,2006
+15364,"Davenport, IA","Sigourney, IA",1,2,0,1,0,2,1,2,0,3,2006
+15053,"Davenport, IA","Colwell, IA",1,1,1,0,2,1,2,0,1,3,2006
+14966,"Davenport, IA","Ackley, IA",2,1,0,1,0,2,2,1,0,3,2006
+15159,"Davenport, IA","Hazleton, IA",1,0,2,0,2,1,2,0,1,3,2006
+15207,"Davenport, IA","Leon, IA",0,2,1,0,1,2,1,0,2,3,2006
+15178,"Davenport, IA","Janesville, IA",2,1,0,0,2,1,3,0,0,3,2006
+15261,"Davenport, IA","Moulton, IA",3,0,0,0,1,2,3,0,0,3,2006
+15205,"Davenport, IA","Le Roy, IA",1,2,0,0,0,3,1,2,0,3,2006
+15272,"Davenport, IA","New Albin, IA",3,0,0,1,2,0,2,1,0,3,2006
+15165,"Davenport, IA","Hospers, IA",1,1,1,1,1,1,1,0,2,3,2006
+15263,"Davenport, IA","Mount Ayr, IA",2,0,1,0,2,1,2,0,1,3,2006
+15160,"Davenport, IA","Hedrick, IA",0,2,1,0,1,2,0,1,2,3,2006
+15248,"Davenport, IA","Minburn, IA",2,1,0,0,2,1,2,1,0,3,2006
+15253,"Davenport, IA","Montezuma, IA",0,1,2,0,1,2,1,2,0,3,2006
+15237,"Davenport, IA","Maxwell, IA",0,3,0,0,1,2,1,1,1,3,2006
+15236,"Davenport, IA","Maurice, IA",2,1,0,0,2,1,1,2,0,3,2006
+15234,"Davenport, IA","Marysville, IA",3,0,0,0,2,1,2,1,0,3,2006
+15182,"Davenport, IA","Kellogg, IA",1,2,0,0,1,2,0,1,2,3,2006
+15219,"Davenport, IA","Luana, IA",2,1,0,0,1,2,2,0,1,3,2006
+15378,"Davenport, IA","St. Lucas, IA",1,1,0,0,1,1,1,1,0,2,2006
+15380,"Davenport, IA","St. Olaf, IA",1,1,0,0,1,1,0,2,0,2,2006
+15193,"Davenport, IA","Lake Mills, IA",0,1,1,0,1,1,1,0,1,2,2006
+15059,"Davenport, IA","Coulter, IA",1,1,0,0,2,0,1,1,0,2,2006
+15051,"Davenport, IA","Colo, IA",2,0,0,0,0,2,1,1,0,2,2006
+15156,"Davenport, IA","Harvey, IA",1,0,1,0,1,1,0,1,1,2,2006
+15082,"Davenport, IA","Dougherty, IA",2,0,0,0,0,2,2,0,0,2,2006
+15260,"Davenport, IA","Morrison, IA",1,0,1,1,1,0,1,1,0,2,2006
+15061,"Davenport, IA","Crawfordsville, IA",1,1,0,0,1,1,2,0,0,2,2006
+15155,"Davenport, IA","Hartwick, IA",1,1,0,1,1,0,0,1,1,2,2006
+15391,"Davenport, IA","Sumner, IA",0,2,0,0,2,0,0,2,0,2,2006
+15359,"Davenport, IA","Sheffield, IA",1,0,1,0,2,0,1,1,0,2,2006
+15358,"Davenport, IA","Sharpsburg, IA",0,2,0,0,1,1,1,1,0,2,2006
+15191,"Davenport, IA","Ladora, IA",0,2,0,0,2,0,0,2,0,2,2006
+15348,"Davenport, IA","Ruthven, IA",2,0,0,0,2,0,2,0,0,2,2006
+15390,"Davenport, IA","Sully, IA",1,0,1,0,1,1,1,0,1,2,2006
+15404,"Davenport, IA","Traer, IA",1,1,0,0,1,1,1,1,0,2,2006
+15048,"Davenport, IA","Clutier, IA",0,1,1,0,2,0,1,1,0,2,2006
+15010,"Davenport, IA","Bonaparte, IA",0,1,1,1,1,0,0,1,1,2,2006
+15455,"Davenport, IA","Wyoming, IA",1,1,0,0,2,0,0,2,0,2,2006
+14969,"Davenport, IA","Afton, IA",1,1,0,0,0,2,1,1,0,2,2006
+14971,"Davenport, IA","Albert City, IA",1,1,0,0,2,0,1,0,1,2,2006
+14985,"Davenport, IA","Aredale, IA",1,0,1,0,2,0,1,0,1,2,2006
+15206,"Davenport, IA","Lenox, IA",1,1,0,0,0,2,1,1,0,2,2006
+15429,"Davenport, IA","Webb, IA",1,0,1,0,2,0,1,1,0,2,2006
+14998,"Davenport, IA","Beaman, IA",1,0,1,0,2,0,0,0,2,2,2006
+15247,"Davenport, IA","Milton, IA",1,0,1,0,0,2,2,0,0,2,2006
+15196,"Davenport, IA","Lakota, IA",1,1,0,0,2,0,1,0,1,2,2006
+15014,"Davenport, IA","Brighton, IA",0,1,1,0,1,1,0,1,1,2,2006
+15249,"Davenport, IA","Mitchell, IA",0,1,1,0,2,0,2,0,0,2,2006
+15200,"Davenport, IA","Larchwood, IA",1,1,0,0,1,1,1,1,0,2,2006
+15405,"Davenport, IA","Tripoli, IA",0,1,1,0,2,0,1,0,1,2,2006
+15225,"Davenport, IA","Malcom, IA",1,1,0,0,2,0,1,1,0,2,2006
+15399,"Davenport, IA","Thornton, IA",0,1,1,1,0,1,0,2,0,2,2006
+15396,"Davenport, IA","Tama, IA",2,0,0,0,1,1,1,1,0,2,2006
+15104,"Davenport, IA","Everly, IA",0,2,0,0,2,0,0,2,0,2,2006
+15065,"Davenport, IA","Curlew, IA",1,0,1,0,1,1,2,0,0,2,2006
+15187,"Davenport, IA","Kirkville, IA",1,0,1,0,0,2,2,0,0,2,2006
+15114,"Davenport, IA","Floyd, IA",2,0,0,0,1,1,1,1,0,2,2006
+15319,"Davenport, IA","Postville, IA",1,1,0,0,2,0,1,0,1,2,2006
+15323,"Davenport, IA","Primghar, IA",0,1,1,0,2,0,2,0,0,2,2006
+15326,"Davenport, IA","Protivin, IA",1,1,0,0,1,1,1,1,0,2,2006
+15274,"Davenport, IA","New Hartford, IA",2,0,0,0,2,0,0,1,1,2,2006
+15328,"Davenport, IA","Rathbun, IA",1,1,0,0,2,0,1,1,0,2,2006
+15185,"Davenport, IA","Keystone, IA",1,1,0,1,1,0,1,1,0,2,2006
+15117,"Davenport, IA","Fort Dodge, IA",0,1,1,0,2,0,1,0,1,2,2006
+15305,"Davenport, IA","Parnell, IA",2,0,0,0,2,0,0,2,0,2,2006
+15334,"Davenport, IA","Reinbeck, IA",1,1,0,0,1,1,0,2,0,2,2006
+15315,"Davenport, IA","Pleasanton, IA",1,1,0,0,2,0,1,0,1,2,2006
+15270,"Davenport, IA","Nashua, IA",0,1,1,0,2,0,0,1,1,2,2006
+15289,"Davenport, IA","Ocheyedan, IA",1,1,0,0,2,0,1,1,0,2,2006
+15153,"Davenport, IA","Harris, IA",1,1,0,0,2,0,1,0,1,2,2006
+15151,"Davenport, IA","Hanlontown, IA",1,1,0,0,2,0,1,1,0,2,2006
+15154,"Davenport, IA","Hartley, IA",0,1,1,1,1,0,0,0,2,2,2006
+15312,"Davenport, IA","Plano, IA",0,1,0,0,0,1,0,0,1,1,2006
+15002,"Davenport, IA","Belmond, IA",0,0,1,0,0,1,0,1,0,1,2006
+15139,"Davenport, IA","Gravity, IA",1,0,0,0,0,1,1,0,0,1,2006
+15246,"Davenport, IA","Milford, IA",0,1,0,0,1,0,0,1,0,1,2006
+15282,"Davenport, IA","Nodaway, IA",0,1,0,0,0,1,1,0,0,1,2006
+15168,"Davenport, IA","Hudson, IA",1,0,0,0,0,1,1,0,0,1,2006
+15420,"Davenport, IA","Walker, IA",1,0,0,0,1,0,1,0,0,1,2006
+15310,"Davenport, IA","Peterson, IA",0,1,0,0,1,0,0,1,0,1,2006
+15132,"Davenport, IA","Gilbertville, IA",0,0,1,0,1,0,1,0,0,1,2006
+15204,"Davenport, IA","Le Mars, IA",0,1,0,0,1,0,0,1,0,1,2006
+15222,"Davenport, IA","Macedonia, IA",0,1,0,0,0,1,0,1,0,1,2006
+15022,"Davenport, IA","Callender, IA",0,1,0,0,0,1,0,1,0,1,2006
+15025,"Davenport, IA","Cantril, IA",0,1,0,0,0,1,1,0,0,1,2006
+15027,"Davenport, IA","Carroll, IA",0,1,0,0,1,0,1,0,0,1,2006
+15029,"Davenport, IA","Casey, IA",0,1,0,0,0,1,0,1,0,1,2006
+15223,"Davenport, IA","Macksburg, IA",0,1,0,0,1,0,0,1,0,1,2006
+15201,"Davenport, IA","Lawler, IA",1,0,0,0,1,0,0,0,1,1,2006
+15174,"Davenport, IA","Ionia, IA",0,1,0,0,0,1,0,1,0,1,2006
+15041,"Davenport, IA","Clarinda, IA",0,0,1,0,0,1,0,0,1,1,2006
+15408,"Davenport, IA","Unionville, IA",0,1,0,0,1,0,1,0,0,1,2006
+15407,"Davenport, IA","Union, IA",0,1,0,0,0,1,1,0,0,1,2006
+15244,"Davenport, IA","Meriden, IA",1,0,0,0,0,1,0,0,1,1,2006
+14976,"Davenport, IA","Allison, IA",0,0,1,0,1,0,0,0,1,1,2006
+15141,"Davenport, IA","Greene, IA",0,1,0,0,0,1,0,1,0,1,2006
+14987,"Davenport, IA","Armstrong, IA",0,1,0,0,0,1,1,0,0,1,2006
+15445,"Davenport, IA","Whitten, IA",1,0,0,0,0,1,0,1,0,1,2006
+15444,"Davenport, IA","Whittemore, IA",1,0,0,0,1,0,1,0,0,1,2006
+15148,"Davenport, IA","Guthrie Center, IA",0,1,0,0,0,1,0,0,1,1,2006
+15147,"Davenport, IA","Guernsey, IA",1,0,0,0,1,0,1,0,0,1,2006
+15442,"Davenport, IA","Westfield, IA",0,1,0,0,0,1,0,0,1,1,2006
+15299,"Davenport, IA","Oxford Junction, IA",1,0,0,0,0,1,1,0,0,1,2006
+15440,"Davenport, IA","West Point, IA",1,0,0,0,0,1,1,0,0,1,2006
+15439,"Davenport, IA","West Okoboji, IA",0,1,0,0,1,0,1,0,0,1,2006
+14986,"Davenport, IA","Arlington, IA",1,0,0,0,0,1,0,1,0,1,2006
+15436,"Davenport, IA","West Chester, IA",0,1,0,0,1,0,0,1,0,1,2006
+14977,"Davenport, IA","Alta Vista, IA",0,1,0,0,1,0,1,0,0,1,2006
+15213,"Davenport, IA","Lone Rock, IA",0,0,1,0,1,0,0,1,0,1,2006
+15209,"Davenport, IA","Linden, IA",1,0,0,0,1,0,0,1,0,1,2006
+15433,"Davenport, IA","West Bend, IA",1,0,0,0,1,0,0,0,1,1,2006
+15146,"Davenport, IA","Grundy Center, IA",1,0,0,0,0,1,1,0,0,1,2006
+15242,"Davenport, IA","Melbourne, IA",1,0,0,0,1,0,0,1,0,1,2006
+15406,"Davenport, IA","Truesdale, IA",0,1,0,0,0,1,0,0,1,1,2006
+15158,"Davenport, IA","Hawkeye, IA",1,0,0,0,0,1,1,0,0,1,2006
+14997,"Davenport, IA","Bayard, IA",0,1,0,0,0,1,0,1,0,1,2006
+15220,"Davenport, IA","Luther, IA",1,0,0,0,1,0,0,1,0,1,2006
+15163,"Davenport, IA","Hillsboro, IA",1,0,0,0,1,0,0,1,0,1,2006
+15046,"Davenport, IA","Clio, IA",0,1,0,1,0,0,0,1,0,1,2006
+15179,"Davenport, IA","Jesup, IA",1,0,0,0,1,0,0,1,0,1,2006
+15357,"Davenport, IA","Shannon City, IA",0,1,0,0,0,1,0,1,0,1,2006
+15369,"Davenport, IA","Sloan, IA",0,1,0,0,1,0,0,1,0,1,2006
+15081,"Davenport, IA","Doon, IA",1,0,0,0,1,0,1,0,0,1,2006
+15367,"Davenport, IA","Sioux City, IA",0,1,0,0,1,0,1,0,0,1,2006
+15365,"Davenport, IA","Silver City, IA",0,1,0,0,1,0,0,1,0,1,2006
+15192,"Davenport, IA","Lake City, IA",1,0,0,0,1,0,1,0,0,1,2006
+15363,"Davenport, IA","Sibley, IA",0,0,1,0,1,0,0,0,1,1,2006
+15084,"Davenport, IA","Dunkerton, IA",1,0,0,0,0,1,0,1,0,1,2006
+15336,"Davenport, IA","Richland, IA",1,0,0,0,1,0,0,1,0,1,2006
+15089,"Davenport, IA","Eddyville, IA",1,0,0,0,0,1,1,0,0,1,2006
+15112,"Davenport, IA","Fenton, IA",1,0,0,1,0,0,0,1,0,1,2006
+15356,"Davenport, IA","Seymour, IA",1,0,0,0,0,1,1,0,0,1,2006
+15371,"Davenport, IA","South English, IA",0,1,0,0,0,1,0,0,1,1,2006
+15355,"Davenport, IA","Schaller, IA",0,0,1,0,1,0,1,0,0,1,2006
+15186,"Davenport, IA","Kinross, IA",0,1,0,0,1,0,0,1,0,1,2006
+15190,"Davenport, IA","La Porte City, IA",0,0,1,0,1,0,0,1,0,1,2006
+15188,"Davenport, IA","Klemme, IA",0,1,0,0,0,1,0,0,1,1,2006
+15096,"Davenport, IA","Elkport, IA",1,0,0,0,0,1,1,0,0,1,2006
+15097,"Davenport, IA","Ellsworth, IA",1,0,0,0,1,0,1,0,0,1,2006
+15098,"Davenport, IA","Elma, IA",0,0,1,0,0,1,1,0,0,1,2006
+15267,"Davenport, IA","Murray, IA",1,0,0,0,0,1,0,1,0,1,2006
+15269,"Davenport, IA","Mystic, IA",1,0,0,0,1,0,0,0,1,1,2006
+15345,"Davenport, IA","Rome, IA",0,1,0,0,1,0,0,1,0,1,2006
+15079,"Davenport, IA","Dolliver, IA",1,0,0,0,0,1,0,1,0,1,2006
+15333,"Davenport, IA","Redfield, IA",0,1,0,0,1,0,0,1,0,1,2006
+15317,"Davenport, IA","Plymouth, IA",0,1,0,1,0,0,0,0,1,1,2006
+15184,"Davenport, IA","Keosauqua, IA",0,1,0,0,0,1,0,1,0,1,2006
+15402,"Davenport, IA","Titonka, IA",1,0,0,0,0,1,1,0,0,1,2006
+15044,"Davenport, IA","Clearfield, IA",0,1,0,0,0,1,1,0,0,1,2006
+15109,"Davenport, IA","Farmersburg, IA",0,1,0,0,1,0,0,1,0,1,2006
+15398,"Davenport, IA","Thompson, IA",0,1,0,1,0,0,0,0,1,1,2006
+15397,"Davenport, IA","Terril, IA",0,1,0,0,1,0,1,0,0,1,2006
+15126,"Davenport, IA","Garden Grove, IA",0,0,1,0,1,0,0,1,0,1,2006
+15124,"Davenport, IA","Fremont, IA",1,0,0,0,0,1,0,1,0,1,2006
+15123,"Davenport, IA","Frederika, IA",0,1,0,0,1,0,0,1,0,1,2006
+15393,"Davenport, IA","Sutherland, IA",1,0,0,0,1,0,0,1,0,1,2006
+15257,"Davenport, IA","Moravia, IA",1,0,0,0,0,1,1,0,0,1,2006
+15049,"Davenport, IA","Coggon, IA",0,1,0,0,1,0,1,0,0,1,2006
+15072,"Davenport, IA","Dedham, IA",0,1,0,0,0,1,0,0,1,1,2006
+15325,"Davenport, IA","Promise City, IA",0,1,0,0,1,0,1,0,0,1,2006
+15194,"Davenport, IA","Lake Park, IA",0,1,0,0,0,1,0,1,0,1,2006
+15054,"Davenport, IA","Conesville, IA",1,0,0,0,0,1,1,0,0,1,2006
+15385,"Davenport, IA","Steamboat Rock, IA",0,1,0,0,0,1,1,0,0,1,2006
+15384,"Davenport, IA","Stanley, IA",0,1,0,0,1,0,0,1,0,1,2006
+15055,"Davenport, IA","Conrad, IA",1,0,0,0,0,1,0,1,0,1,2006
+15058,"Davenport, IA","Corydon, IA",1,0,0,0,0,1,1,0,0,1,2006
+15119,"Davenport, IA","Fostoria, IA",0,0,1,0,1,0,0,1,0,1,2006
+15064,"Davenport, IA","Crystal Lake, IA",0,1,0,0,1,0,0,1,0,1,2006
+15332,"Davenport, IA","Redding, IA",0,0,1,0,1,0,0,1,0,1,2006
+15343,"Davenport, IA","Rockwell, IA",0,1,0,0,0,1,0,1,0,1,2006

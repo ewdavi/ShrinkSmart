@@ -1,0 +1,109 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+123,"Adair, IA","Casey, IA",11,19,17,19,24,4,18,22,7,47,2014
+155,"Adair, IA","Guthrie Center, IA",12,6,7,1,13,11,15,6,4,25,2014
+109,"Adair, IA","Anita, IA",5,12,7,14,6,4,5,11,8,24,2014
+111,"Adair, IA","Atlantic, IA",8,11,3,17,2,3,1,15,6,22,2014
+112,"Adair, IA","Audubon, IA",9,8,3,10,4,6,6,9,5,20,2014
+106,"Adair, IA","Adair, IA",5,5,7,10,4,3,4,8,5,17,2014
+143,"Adair, IA","Exira, IA",7,6,1,5,8,1,8,4,2,14,2014
+213,"Adair, IA","Wiota, IA",1,6,4,4,2,5,1,4,6,11,2014
+152,"Adair, IA","Greenfield, IA",4,3,2,5,4,0,4,2,3,9,2014
+202,"Adair, IA","Stuart, IA",1,4,3,1,5,2,5,2,1,8,2014
+139,"Adair, IA","Des Moines, IA",2,3,1,4,2,0,1,3,2,6,2014
+118,"Adair, IA","Brayton, IA",1,1,4,1,0,5,0,1,5,6,2014
+151,"Adair, IA","Grant, IA",1,4,0,5,0,0,0,5,0,5,2014
+182,"Adair, IA","Orient, IA",3,1,1,3,1,1,2,1,2,5,2014
+116,"Adair, IA","Boone, IA",1,3,0,2,1,1,0,0,4,4,2014
+166,"Adair, IA","Lewis, IA",1,2,0,2,0,1,0,3,0,3,2014
+192,"Adair, IA","Redfield, IA",2,1,0,0,1,2,3,0,0,3,2014
+188,"Adair, IA","Pleasant Hill, IA",2,1,0,0,2,1,2,1,0,3,2014
+135,"Adair, IA","De Soto, IA",1,1,1,0,1,2,2,1,0,3,2014
+162,"Adair, IA","Knoxville, IA",2,0,1,1,0,2,0,3,0,3,2014
+132,"Adair, IA","Cromwell, IA",0,2,1,2,0,1,0,2,1,3,2014
+157,"Adair, IA","Henderson, IA",0,0,2,2,0,0,0,2,0,2,2014
+158,"Adair, IA","Indianola, IA",0,0,2,2,0,0,0,0,2,2,2014
+159,"Adair, IA","Jefferson, IA",0,1,1,0,0,2,0,0,2,2,2014
+114,"Adair, IA","Bayard, IA",0,2,0,2,0,0,0,0,2,2,2014
+168,"Adair, IA","Logan, IA",0,2,0,0,0,2,0,1,1,2,2014
+169,"Adair, IA","Macedonia, IA",1,0,1,2,0,0,0,1,1,2,2014
+171,"Adair, IA","Manning, IA",0,1,1,0,0,2,1,0,1,2,2014
+145,"Adair, IA","Fort Dodge, IA",2,0,0,0,2,0,2,0,0,2,2014
+173,"Adair, IA","Minden, IA",0,1,1,0,0,2,0,1,1,2,2014
+185,"Adair, IA","Panora, IA",0,2,0,1,0,1,0,1,1,2,2014
+187,"Adair, IA","Perry, IA",1,1,0,0,2,0,0,2,0,2,2014
+198,"Adair, IA","Sioux City, IA",1,1,0,0,0,2,2,0,0,2,2014
+210,"Adair, IA","Waukee, IA",0,2,0,1,0,1,0,2,0,2,2014
+172,"Adair, IA","Massena, IA",0,2,0,2,0,0,0,2,0,2,2014
+164,"Adair, IA","Le Mars, IA",0,2,0,1,0,1,1,1,0,2,2014
+160,"Adair, IA","Johnston, IA",1,0,1,0,1,1,1,0,1,2,2014
+129,"Adair, IA","Coon Rapids, IA",0,2,0,0,0,2,0,1,1,2,2014
+134,"Adair, IA","Dawson, IA",0,1,1,0,0,2,0,0,2,2,2014
+121,"Adair, IA","Carroll, IA",0,1,1,0,1,1,1,1,0,2,2014
+140,"Adair, IA","Dexter, IA",2,0,0,0,1,1,2,0,0,2,2014
+124,"Adair, IA","Cedar Rapids, IA",0,1,0,0,0,1,0,0,1,1,2014
+186,"Adair, IA","Pella, IA",0,0,1,1,0,0,0,0,1,1,2014
+113,"Adair, IA","Baxter, IA",1,0,0,0,1,0,1,0,0,1,2014
+122,"Adair, IA","Carter Lake, IA",1,0,0,0,0,1,0,1,0,1,2014
+196,"Adair, IA","Shenandoah, IA",0,1,0,1,0,0,0,0,1,1,2014
+189,"Adair, IA","Pocahontas, IA",0,1,0,0,0,1,0,1,0,1,2014
+184,"Adair, IA","Packwood, IA",0,1,0,1,0,0,0,1,0,1,2014
+190,"Adair, IA","Popejoy, IA",0,1,0,0,0,1,1,0,0,1,2014
+191,"Adair, IA","Red Oak, IA",0,1,0,0,0,1,0,1,0,1,2014
+183,"Adair, IA","Osage, IA",0,1,0,1,0,0,0,0,1,1,2014
+193,"Adair, IA","Remsen, IA",0,1,0,0,0,1,1,0,0,1,2014
+194,"Adair, IA","Rockwell, IA",0,1,0,0,0,1,1,0,0,1,2014
+125,"Adair, IA","Chariton, IA",1,0,0,0,0,1,0,0,1,1,2014
+195,"Adair, IA","Russell, IA",0,1,0,1,0,0,0,0,1,1,2014
+120,"Adair, IA","Carlisle, IA",0,1,0,0,1,0,1,0,0,1,2014
+197,"Adair, IA","Sidney, IA",1,0,0,0,0,1,1,0,0,1,2014
+206,"Adair, IA","Underwood, IA",1,0,0,0,0,1,1,0,0,1,2014
+212,"Adair, IA","Windsor Heights, IA",1,0,0,0,1,0,1,0,0,1,2014
+211,"Adair, IA","West Des Moines, IA",0,1,0,0,1,0,1,0,0,1,2014
+117,"Adair, IA","Braddyville, IA",0,1,0,1,0,0,0,0,1,1,2014
+209,"Adair, IA","Walnut, IA",0,0,1,0,0,1,1,0,0,1,2014
+208,"Adair, IA","Wall Lake, IA",1,0,0,0,1,0,1,0,0,1,2014
+207,"Adair, IA","Urbandale, IA",0,1,0,1,0,0,0,0,1,1,2014
+205,"Adair, IA","Tiffin, IA",0,1,0,1,0,0,1,0,0,1,2014
+180,"Adair, IA","Norwalk, IA",1,0,0,0,1,0,1,0,0,1,2014
+204,"Adair, IA","Swea City, IA",1,0,0,0,0,1,1,0,0,1,2014
+203,"Adair, IA","Swan, IA",0,0,1,1,0,0,0,0,1,1,2014
+119,"Adair, IA","Burlington, IA",1,0,0,0,1,0,1,0,0,1,2014
+201,"Adair, IA","Story City, IA",0,1,0,0,0,1,1,0,0,1,2014
+200,"Adair, IA","Stanton, IA",0,1,0,1,0,0,0,1,0,1,2014
+199,"Adair, IA","St. Marys, IA",0,1,0,0,1,0,0,1,0,1,2014
+181,"Adair, IA","Ogden, IA",0,1,0,0,0,1,0,0,1,1,2014
+142,"Adair, IA","Elberon, IA",1,0,0,0,0,1,1,0,0,1,2014
+179,"Adair, IA","North Liberty, IA",0,0,1,0,0,1,0,0,1,1,2014
+138,"Adair, IA","Denison, IA",0,1,0,0,0,1,0,0,1,1,2014
+136,"Adair, IA","Dedham, IA",0,0,1,0,0,1,0,0,1,1,2014
+137,"Adair, IA","Delaware, IA",0,1,0,1,0,0,0,1,0,1,2014
+156,"Adair, IA","Hancock, IA",0,1,0,0,0,1,0,0,1,1,2014
+108,"Adair, IA","Afton, IA",1,0,0,0,0,1,0,1,0,1,2014
+154,"Adair, IA","Grinnell, IA",0,0,1,0,1,0,1,0,0,1,2014
+153,"Adair, IA","Grimes, IA",0,0,1,0,0,1,0,0,1,1,2014
+150,"Adair, IA","Grand Mound, IA",0,0,1,1,0,0,0,1,0,1,2014
+110,"Adair, IA","Ankeny, IA",0,1,0,0,1,0,1,0,0,1,2014
+149,"Adair, IA","Glenwood, IA",0,0,1,1,0,0,0,0,1,1,2014
+148,"Adair, IA","Fremont, IA",0,1,0,0,0,1,0,0,1,1,2014
+147,"Adair, IA","Fostoria, IA",0,0,1,0,0,1,0,1,0,1,2014
+146,"Adair, IA","Fort Madison, IA",0,1,0,0,0,1,0,0,1,1,2014
+141,"Adair, IA","East Peru, IA",1,0,0,0,0,1,1,0,0,1,2014
+144,"Adair, IA","Fairfield, IA",1,0,0,0,0,1,0,0,1,1,2014
+107,"Adair, IA","Adel, IA",0,1,0,0,0,1,0,1,0,1,2014
+161,"Adair, IA","Kellogg, IA",0,1,0,0,0,1,0,1,0,1,2014
+133,"Adair, IA","Dallas Center, IA",0,1,0,0,0,1,0,1,0,1,2014
+163,"Adair, IA","Lacona, IA",0,0,1,0,1,0,0,1,0,1,2014
+115,"Adair, IA","Bloomfield, IA",0,0,1,0,1,0,1,0,0,1,2014
+165,"Adair, IA","Leon, IA",0,1,0,0,0,1,0,1,0,1,2014
+131,"Adair, IA","Crescent, IA",0,1,0,0,0,1,0,0,1,1,2014
+167,"Adair, IA","Linden, IA",0,1,0,0,0,1,0,0,1,1,2014
+130,"Adair, IA","Council Bluffs, IA",0,1,0,1,0,0,0,0,1,1,2014
+170,"Adair, IA","Macksburg, IA",0,1,0,0,1,0,1,0,0,1,2014
+128,"Adair, IA","Colfax, IA",1,0,0,0,1,0,1,0,0,1,2014
+127,"Adair, IA","Clive, IA",0,0,1,0,1,0,1,0,0,1,2014
+126,"Adair, IA","Cherokee, IA",0,0,1,0,1,0,1,0,0,1,2014
+174,"Adair, IA","Missouri Valley, IA",0,1,0,0,0,1,0,0,1,1,2014
+175,"Adair, IA","Mondamin, IA",1,0,0,0,0,1,0,1,0,1,2014
+176,"Adair, IA","Monticello, IA",0,1,0,0,0,1,0,0,1,1,2014
+177,"Adair, IA","New Market, IA",0,1,0,1,0,0,0,0,1,1,2014
+178,"Adair, IA","Newton, IA",1,0,0,0,1,0,1,0,0,1,2014

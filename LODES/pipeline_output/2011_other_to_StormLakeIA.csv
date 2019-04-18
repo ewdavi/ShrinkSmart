@@ -1,0 +1,255 @@
+,work city,home city,Age [0-29],Age [30-54],Age [55+],Jobs: Goods Producing,Jobs: Other,"Jobs: Trade, Transport, Utilities","Salary, Monthly [0-1250]","Salary, Monthly [1251-3333]","Salary, Monthly [3334+]",total jobs,Year
+65444,"Storm Lake, IA","Storm Lake, IA",256,428,278,50,753,159,300,392,270,962,2011
+65241,"Storm Lake, IA","Aurelia, IA",86,174,107,13,287,67,93,148,126,367,2011
+65351,"Storm Lake, IA","Lakeside, IA",71,110,68,16,200,33,94,116,39,249,2011
+65387,"Storm Lake, IA","Newell, IA",49,110,47,9,152,45,66,75,65,206,2011
+65423,"Storm Lake, IA","Schaller, IA",47,82,37,5,127,34,34,87,45,166,2011
+65310,"Storm Lake, IA","Fort Dodge, IA",18,44,15,3,61,13,26,31,20,77,2011
+65433,"Storm Lake, IA","Sioux City, IA",25,34,11,1,32,37,25,30,15,70,2011
+65454,"Storm Lake, IA","Truesdale, IA",9,39,17,2,54,9,16,28,21,65,2011
+65408,"Storm Lake, IA","Quimby, IA",15,37,11,4,48,11,16,32,15,63,2011
+65421,"Storm Lake, IA","Sac City, IA",9,28,17,3,42,9,14,24,16,54,2011
+65437,"Storm Lake, IA","Spencer, IA",24,24,5,1,34,18,18,20,15,53,2011
+65230,"Storm Lake, IA","Ames, IA",16,26,10,2,28,22,17,20,15,52,2011
+65292,"Storm Lake, IA","Early, IA",11,28,10,3,38,8,16,15,18,49,2011
+65368,"Storm Lake, IA","Marcus, IA",11,30,5,0,31,15,9,24,13,46,2011
+65434,"Storm Lake, IA","Sioux Rapids, IA",2,27,7,2,24,10,5,13,18,36,2011
+65226,"Storm Lake, IA","Albert City, IA",11,21,4,3,26,7,8,13,15,36,2011
+65236,"Storm Lake, IA","Arthur, IA",5,24,6,0,27,8,6,19,10,35,2011
+65267,"Storm Lake, IA","Cherokee, IA",9,20,6,1,20,14,12,14,9,35,2011
+65438,"Storm Lake, IA","Spirit Lake, IA",3,21,9,1,19,13,7,16,10,33,2011
+65257,"Storm Lake, IA","Carroll, IA",16,12,1,0,14,15,19,7,3,29,2011
+65286,"Storm Lake, IA","Des Moines, IA",11,13,4,0,17,11,9,10,9,28,2011
+65462,"Storm Lake, IA","Webb, IA",4,20,1,0,23,2,6,10,9,25,2011
+65394,"Storm Lake, IA","Orange City, IA",4,6,13,1,14,8,11,9,3,23,2011
+65299,"Storm Lake, IA","Estherville, IA",6,8,8,1,10,11,7,12,3,22,2011
+65355,"Storm Lake, IA","Le Mars, IA",6,7,8,0,8,13,8,10,3,21,2011
+65285,"Storm Lake, IA","Denison, IA",8,11,2,1,14,6,14,6,1,21,2011
+65275,"Storm Lake, IA","Council Bluffs, IA",9,8,4,1,9,11,8,9,4,21,2011
+65463,"Storm Lake, IA","Webster City, IA",2,11,6,1,17,1,7,6,6,19,2011
+65372,"Storm Lake, IA","Meriden, IA",2,14,2,0,9,9,5,9,4,18,2011
+65406,"Storm Lake, IA","Pomeroy, IA",4,7,5,0,15,1,4,7,5,16,2011
+65248,"Storm Lake, IA","Bettendorf, IA",5,6,4,1,9,5,6,4,5,15,2011
+65335,"Storm Lake, IA","Ida Grove, IA",3,9,2,0,12,2,3,7,4,14,2011
+65361,"Storm Lake, IA","Livermore, IA",2,5,7,0,9,5,3,7,4,14,2011
+65277,"Storm Lake, IA","Cushing, IA",1,8,5,0,11,3,1,2,11,14,2011
+65337,"Storm Lake, IA","Indianola, IA",5,7,2,0,9,5,7,5,2,14,2011
+65420,"Storm Lake, IA","Ruthven, IA",7,3,3,2,8,3,6,2,5,13,2011
+65404,"Storm Lake, IA","Pleasant Hill, IA",2,7,4,0,8,5,5,4,4,13,2011
+65419,"Storm Lake, IA","Royal, IA",1,8,3,1,9,2,1,7,4,12,2011
+65352,"Storm Lake, IA","Larrabee, IA",5,7,0,0,8,4,1,4,7,12,2011
+65432,"Storm Lake, IA","Sioux Center, IA",6,3,3,0,3,9,9,1,2,12,2011
+65447,"Storm Lake, IA","Superior, IA",2,6,4,0,7,5,2,5,5,12,2011
+65448,"Storm Lake, IA","Sutherland, IA",1,4,6,1,6,4,1,3,7,11,2011
+65461,"Storm Lake, IA","Waterloo, IA",3,5,3,1,6,4,3,4,4,11,2011
+65298,"Storm Lake, IA","Emmetsburg, IA",4,5,2,0,8,3,5,4,2,11,2011
+65459,"Storm Lake, IA","Wall Lake, IA",1,9,1,0,6,5,2,4,5,11,2011
+65279,"Storm Lake, IA","Danbury, IA",2,6,3,0,6,5,2,6,3,11,2011
+65369,"Storm Lake, IA","Mason City, IA",4,5,1,0,5,5,3,4,3,10,2011
+65374,"Storm Lake, IA","Milford, IA",1,5,4,0,8,2,2,6,2,10,2011
+65334,"Storm Lake, IA","Humboldt, IA",4,5,1,0,9,1,2,4,4,10,2011
+65318,"Storm Lake, IA","Graettinger, IA",4,4,2,1,9,0,6,3,1,10,2011
+65436,"Storm Lake, IA","Soldier, IA",0,4,5,0,8,1,3,3,3,9,2011
+65457,"Storm Lake, IA","Urbandale, IA",4,4,1,1,4,4,2,4,3,9,2011
+65224,"Storm Lake, IA","Ackworth, IA",2,5,2,0,9,0,5,1,3,9,2011
+65274,"Storm Lake, IA","Coon Rapids, IA",2,6,1,0,5,4,2,5,2,9,2011
+65229,"Storm Lake, IA","Altoona, IA",2,6,1,1,7,1,4,2,3,9,2011
+65338,"Storm Lake, IA","Iowa City, IA",4,2,2,1,2,5,3,1,4,8,2011
+65425,"Storm Lake, IA","Sergeant Bluff, IA",3,4,1,0,2,6,5,1,2,8,2011
+65323,"Storm Lake, IA","Greenville, IA",1,6,1,1,5,2,3,3,2,8,2011
+65235,"Storm Lake, IA","Arnolds Park, IA",0,4,4,0,6,2,2,4,2,8,2011
+65269,"Storm Lake, IA","Clarion, IA",0,4,4,0,5,3,1,4,3,8,2011
+65470,"Storm Lake, IA","Westside, IA",2,3,3,0,4,4,3,4,1,8,2011
+65312,"Storm Lake, IA","Fostoria, IA",1,5,2,0,7,1,0,6,2,8,2011
+65397,"Storm Lake, IA","Oyens, IA",1,6,1,0,6,2,2,4,2,8,2011
+65343,"Storm Lake, IA","Jewell Junction, IA",4,3,0,0,7,0,2,5,0,7,2011
+65385,"Storm Lake, IA","Moville, IA",2,5,0,0,6,1,2,3,2,7,2011
+65426,"Storm Lake, IA","Sheldon, IA",4,1,2,0,3,4,5,1,1,7,2011
+65291,"Storm Lake, IA","Eagle Grove, IA",3,2,2,0,6,1,2,4,1,7,2011
+65403,"Storm Lake, IA","Peterson, IA",3,3,1,0,6,1,2,3,2,7,2011
+65225,"Storm Lake, IA","Akron, IA",1,4,2,0,3,4,2,3,2,7,2011
+65253,"Storm Lake, IA","Britt, IA",1,4,2,0,5,2,1,3,3,7,2011
+65228,"Storm Lake, IA","Alton, IA",3,4,0,0,6,1,5,2,0,7,2011
+65326,"Storm Lake, IA","Harris, IA",2,3,2,0,5,2,3,4,0,7,2011
+65445,"Storm Lake, IA","Stratford, IA",1,4,2,1,6,0,1,5,1,7,2011
+65393,"Storm Lake, IA","Onawa, IA",1,5,0,0,2,4,2,2,2,6,2011
+65234,"Storm Lake, IA","Armstrong, IA",1,5,0,1,4,1,3,1,2,6,2011
+65373,"Storm Lake, IA","Merrill, IA",1,5,0,0,2,4,1,4,1,6,2011
+65441,"Storm Lake, IA","St. Marys, IA",1,2,3,1,4,1,0,4,2,6,2011
+65258,"Storm Lake, IA","Carter Lake, IA",2,1,3,0,0,6,1,2,3,6,2011
+65344,"Storm Lake, IA","Johnston, IA",3,2,1,0,2,4,3,1,2,6,2011
+65392,"Storm Lake, IA","Odebolt, IA",0,6,0,1,4,1,1,0,5,6,2011
+65231,"Storm Lake, IA","Anamosa, IA",2,4,0,0,5,1,3,2,1,6,2011
+65428,"Storm Lake, IA","Shueyville, IA",3,2,1,0,2,4,5,1,0,6,2011
+65261,"Storm Lake, IA","Cedar Falls, IA",2,2,2,1,2,3,2,2,2,6,2011
+65477,"Storm Lake, IA","Yetter, IA",1,5,0,0,5,1,0,5,1,6,2011
+65300,"Storm Lake, IA","Everly, IA",2,3,1,0,3,3,2,0,4,6,2011
+65304,"Storm Lake, IA","Farnhamville, IA",1,2,3,1,4,1,1,3,2,6,2011
+65435,"Storm Lake, IA","Sloan, IA",4,0,1,0,4,1,2,2,1,5,2011
+65474,"Storm Lake, IA","Windsor Heights, IA",0,3,2,0,3,2,0,4,1,5,2011
+65278,"Storm Lake, IA","Dakota City, IA",0,4,1,0,4,1,0,5,0,5,2011
+65472,"Storm Lake, IA","Williams, IA",3,1,1,1,4,0,3,2,0,5,2011
+65366,"Storm Lake, IA","Manson, IA",0,4,1,0,5,0,1,2,2,5,2011
+65365,"Storm Lake, IA","Manning, IA",0,3,2,0,4,1,1,4,0,5,2011
+65359,"Storm Lake, IA","Liscomb, IA",4,0,1,0,3,2,3,2,0,5,2011
+65353,"Storm Lake, IA","Laurens, IA",3,1,1,0,5,0,4,1,0,5,2011
+65262,"Storm Lake, IA","Cedar Rapids, IA",0,5,0,0,4,1,1,3,1,5,2011
+65242,"Storm Lake, IA","Bagley, IA",3,2,0,0,3,2,2,3,0,5,2011
+65346,"Storm Lake, IA","Kingsley, IA",3,2,0,0,3,2,4,0,1,5,2011
+65341,"Storm Lake, IA","Jefferson, IA",1,3,1,0,4,1,2,0,3,5,2011
+65339,"Storm Lake, IA","Ireton, IA",2,3,0,0,2,3,1,3,1,5,2011
+65332,"Storm Lake, IA","Hospers, IA",1,2,2,0,4,1,3,2,0,5,2011
+65411,"Storm Lake, IA","Remsen, IA",2,2,1,0,3,2,1,3,1,5,2011
+65402,"Storm Lake, IA","Paullina, IA",2,2,1,1,3,1,2,1,2,5,2011
+65311,"Storm Lake, IA","Fort Madison, IA",2,1,2,0,2,3,2,2,1,5,2011
+65417,"Storm Lake, IA","Rockwell, IA",1,1,2,0,1,3,3,0,1,4,2011
+65284,"Storm Lake, IA","Deloit, IA",1,1,2,0,2,2,1,2,1,4,2011
+65460,"Storm Lake, IA","Wallingford, IA",1,2,1,0,2,2,1,3,0,4,2011
+65357,"Storm Lake, IA","Lidderdale, IA",2,1,1,0,1,3,1,2,1,4,2011
+65349,"Storm Lake, IA","Lake Park, IA",1,2,1,0,3,1,1,2,1,4,2011
+65347,"Storm Lake, IA","Kiron, IA",1,3,0,0,2,2,0,3,1,4,2011
+65450,"Storm Lake, IA","Terril, IA",1,2,1,0,2,2,0,3,1,4,2011
+65469,"Storm Lake, IA","Westfield, IA",1,0,3,0,3,1,2,2,0,4,2011
+65240,"Storm Lake, IA","Audubon, IA",0,4,0,0,2,2,1,1,2,4,2011
+65245,"Storm Lake, IA","Belmond, IA",0,2,2,0,2,2,0,3,1,4,2011
+65289,"Storm Lake, IA","Donnellson, IA",0,2,2,1,2,1,1,2,1,4,2011
+65476,"Storm Lake, IA","Woolstock, IA",4,0,0,0,4,0,0,3,1,4,2011
+65405,"Storm Lake, IA","Pocahontas, IA",1,3,0,0,3,1,1,0,3,4,2011
+65439,"Storm Lake, IA","Spring Hill, IA",0,3,1,0,4,0,0,2,2,4,2011
+65416,"Storm Lake, IA","Rock Valley, IA",0,1,3,0,1,3,0,3,1,4,2011
+65297,"Storm Lake, IA","Ely, IA",1,3,0,0,2,2,1,2,1,4,2011
+65288,"Storm Lake, IA","Dolliver, IA",1,3,0,0,2,2,0,2,2,4,2011
+65333,"Storm Lake, IA","Hull, IA",1,2,1,0,0,4,1,3,0,4,2011
+65424,"Storm Lake, IA","Schleswig, IA",2,2,0,0,3,1,2,1,1,4,2011
+65331,"Storm Lake, IA","Hinton, IA",2,2,0,0,1,3,0,3,1,4,2011
+65443,"Storm Lake, IA","Stanhope, IA",0,4,0,0,3,1,0,3,1,4,2011
+65466,"Storm Lake, IA","West Des Moines, IA",3,0,1,0,3,1,1,3,0,4,2011
+65413,"Storm Lake, IA","Rinard, IA",2,1,1,0,2,2,2,2,0,4,2011
+65232,"Storm Lake, IA","Ankeny, IA",1,3,0,1,3,0,2,0,2,4,2011
+65271,"Storm Lake, IA","Clinton, IA",3,1,0,0,1,3,2,2,0,4,2011
+65283,"Storm Lake, IA","Decorah, IA",1,0,2,0,2,1,0,1,2,3,2011
+65302,"Storm Lake, IA","Fairfax, IA",1,2,0,0,2,1,1,2,0,3,2011
+65247,"Storm Lake, IA","Bertram, IA",1,2,0,0,1,2,0,2,1,3,2011
+65249,"Storm Lake, IA","Blanchard, IA",1,0,2,0,1,2,0,3,0,3,2011
+65473,"Storm Lake, IA","Williamsburg, IA",0,3,0,0,3,0,0,2,1,3,2011
+65255,"Storm Lake, IA","Burlington, IA",2,1,0,0,2,1,0,3,0,3,2011
+65375,"Storm Lake, IA","Minden, IA",0,0,3,0,1,2,0,3,0,3,2011
+65314,"Storm Lake, IA","George, IA",1,0,2,0,1,2,3,0,0,3,2011
+65378,"Storm Lake, IA","Mondamin, IA",2,1,0,0,2,1,2,0,1,3,2011
+65379,"Storm Lake, IA","Monticello, IA",2,1,0,0,2,1,2,0,1,3,2011
+65381,"Storm Lake, IA","Moorhead, IA",0,3,0,0,0,3,0,2,1,3,2011
+65251,"Storm Lake, IA","Boyden, IA",1,1,1,0,2,1,1,2,0,3,2011
+65313,"Storm Lake, IA","Garner, IA",1,2,0,0,1,2,3,0,0,3,2011
+65244,"Storm Lake, IA","Bayard, IA",0,1,2,0,3,0,1,1,1,3,2011
+65364,"Storm Lake, IA","Manly, IA",2,0,1,0,0,3,2,1,0,3,2011
+65345,"Storm Lake, IA","Keokuk, IA",2,0,1,0,0,3,3,0,0,3,2011
+65327,"Storm Lake, IA","Hartley, IA",0,2,1,0,3,0,0,1,2,3,2011
+65328,"Storm Lake, IA","Havelock, IA",0,2,1,0,2,1,0,1,2,3,2011
+65322,"Storm Lake, IA","Greenfield, IA",1,1,1,0,1,2,1,2,0,3,2011
+65265,"Storm Lake, IA","Charles City, IA",2,0,1,0,2,1,1,2,0,3,2011
+65239,"Storm Lake, IA","Atlantic, IA",1,1,1,0,2,1,1,1,1,3,2011
+65320,"Storm Lake, IA","Grant, IA",1,2,0,0,0,3,2,0,1,3,2011
+65290,"Storm Lake, IA","Doon, IA",1,0,2,0,0,3,2,1,0,3,2011
+65295,"Storm Lake, IA","Elgin, IA",1,2,0,0,1,2,1,1,1,3,2011
+65388,"Storm Lake, IA","Nora Springs, IA",1,2,0,0,1,2,0,3,0,3,2011
+65266,"Storm Lake, IA","Charter Oak, IA",1,2,0,0,2,1,2,1,0,3,2011
+65471,"Storm Lake, IA","Willey, IA",0,2,1,0,1,2,0,2,1,3,2011
+65317,"Storm Lake, IA","Glidden, IA",2,0,1,0,2,1,3,0,0,3,2011
+65453,"Storm Lake, IA","Titonka, IA",0,2,1,0,2,1,1,2,0,3,2011
+65309,"Storm Lake, IA","Forest City, IA",0,2,1,0,1,2,1,2,0,3,2011
+65303,"Storm Lake, IA","Fairfield, IA",2,1,0,0,1,2,1,1,1,3,2011
+65282,"Storm Lake, IA","De Witt, IA",3,0,0,0,2,1,1,1,1,3,2011
+65475,"Storm Lake, IA","Wiota, IA",2,0,0,0,1,1,2,0,0,2,2011
+65407,"Storm Lake, IA","Popejoy, IA",0,1,1,0,2,0,1,1,0,2,2011
+65409,"Storm Lake, IA","Red Oak, IA",2,0,0,0,2,0,2,0,0,2,2011
+65458,"Storm Lake, IA","Wahpeton, IA",1,1,0,0,2,0,0,2,0,2,2011
+65243,"Storm Lake, IA","Battle Creek, IA",2,0,0,0,1,1,2,0,0,2,2011
+65412,"Storm Lake, IA","Rhodes, IA",1,1,0,0,1,1,0,1,1,2,2011
+65414,"Storm Lake, IA","Riverdale, IA",0,1,1,0,1,1,0,1,1,2,2011
+65415,"Storm Lake, IA","Rock Rapids, IA",0,1,1,0,0,2,1,1,0,2,2011
+65246,"Storm Lake, IA","Bennett, IA",1,1,0,0,1,1,1,0,1,2,2011
+65422,"Storm Lake, IA","Sanborn, IA",0,0,2,0,2,0,1,0,1,2,2011
+65429,"Storm Lake, IA","Sibley, IA",1,0,1,0,2,0,1,0,1,2,2011
+65400,"Storm Lake, IA","Panama, IA",2,0,0,0,0,2,1,1,0,2,2011
+65440,"Storm Lake, IA","Springville, IA",1,0,1,0,1,1,1,1,0,2,2011
+65449,"Storm Lake, IA","Swea City, IA",1,0,1,0,1,1,1,1,0,2,2011
+65455,"Storm Lake, IA","Underwood, IA",1,0,1,0,1,1,1,1,0,2,2011
+65401,"Storm Lake, IA","Parkersburg, IA",1,0,1,0,1,1,2,0,0,2,2011
+65276,"Storm Lake, IA","Curlew, IA",1,1,0,0,1,1,1,1,0,2,2011
+65399,"Storm Lake, IA","Palo, IA",1,0,1,0,1,1,1,1,0,2,2011
+65376,"Storm Lake, IA","Missouri Valley, IA",1,1,0,0,1,1,0,2,0,2,2011
+65280,"Storm Lake, IA","Davenport, IA",0,2,0,0,2,0,1,1,0,2,2011
+65281,"Storm Lake, IA","Dawson, IA",1,0,1,0,1,1,1,1,0,2,2011
+65287,"Storm Lake, IA","Dickens, IA",0,2,0,0,1,1,0,1,1,2,2011
+65308,"Storm Lake, IA","Floyd, IA",0,0,2,0,0,2,1,1,0,2,2011
+65319,"Storm Lake, IA","Grandview, IA",1,1,0,0,1,1,0,1,1,2,2011
+65330,"Storm Lake, IA","Henderson, IA",2,0,0,0,1,1,1,1,0,2,2011
+65264,"Storm Lake, IA","Centerville, IA",0,2,0,0,1,1,1,1,0,2,2011
+65398,"Storm Lake, IA","Pacific Junction, IA",1,1,0,0,0,2,1,0,1,2,2011
+65340,"Storm Lake, IA","Irwin, IA",0,2,0,0,1,1,1,1,0,2,2011
+65356,"Storm Lake, IA","Lewis, IA",0,1,1,0,0,2,1,1,0,2,2011
+65360,"Storm Lake, IA","Little Rock, IA",0,2,0,0,2,0,1,0,1,2,2011
+65256,"Storm Lake, IA","Camanche, IA",1,1,0,0,2,0,2,0,0,2,2011
+65377,"Storm Lake, IA","Mitchellville, IA",2,0,0,1,1,0,1,1,0,2,2011
+65382,"Storm Lake, IA","Morrison, IA",1,1,0,0,0,2,1,1,0,2,2011
+65396,"Storm Lake, IA","Osceola, IA",1,1,0,0,2,0,0,2,0,2,2011
+65390,"Storm Lake, IA","Northwood, IA",0,0,2,0,2,0,2,0,0,2,2011
+65254,"Storm Lake, IA","Buck Grove, IA",1,1,0,0,1,1,2,0,0,2,2011
+65384,"Storm Lake, IA","Mount Vernon, IA",1,1,0,0,2,0,2,0,0,2,2011
+65268,"Storm Lake, IA","Clarinda, IA",0,0,1,0,1,0,1,0,0,1,2011
+65306,"Storm Lake, IA","Fayette, IA",0,1,0,0,1,0,0,1,0,1,2011
+65307,"Storm Lake, IA","Ferguson, IA",1,0,0,0,0,1,1,0,0,1,2011
+65391,"Storm Lake, IA","Ocheyedan, IA",1,0,0,0,1,0,0,1,0,1,2011
+65315,"Storm Lake, IA","Gilbertville, IA",0,0,1,0,1,0,1,0,0,1,2011
+65456,"Storm Lake, IA","Unionville, IA",1,0,0,0,1,0,0,1,0,1,2011
+65301,"Storm Lake, IA","Exira, IA",0,0,1,0,0,1,0,1,0,1,2011
+65233,"Storm Lake, IA","Anthon, IA",0,1,0,0,1,0,1,0,0,1,2011
+65316,"Storm Lake, IA","Glenwood, IA",0,1,0,0,0,1,0,0,1,1,2011
+65452,"Storm Lake, IA","Thornton, IA",1,0,0,0,1,0,1,0,0,1,2011
+65451,"Storm Lake, IA","Thompson, IA",1,0,0,0,0,1,0,1,0,1,2011
+65305,"Storm Lake, IA","Farragut, IA",0,1,0,0,1,0,0,1,0,1,2011
+65380,"Storm Lake, IA","Montrose, IA",0,1,0,0,0,1,0,0,1,1,2011
+65321,"Storm Lake, IA","Gray, IA",0,1,0,0,0,1,0,0,1,1,2011
+65464,"Storm Lake, IA","Webster, IA",0,1,0,0,0,1,1,0,0,1,2011
+65465,"Storm Lake, IA","West Bend, IA",1,0,0,0,1,0,1,0,0,1,2011
+65270,"Storm Lake, IA","Clear Lake, IA",1,0,0,0,0,1,1,0,0,1,2011
+65467,"Storm Lake, IA","West Liberty, IA",1,0,0,0,1,0,0,1,0,1,2011
+65468,"Storm Lake, IA","West Okoboji, IA",0,1,0,0,1,0,0,1,0,1,2011
+65296,"Storm Lake, IA","Elkader, IA",0,0,1,0,0,1,0,1,0,1,2011
+65294,"Storm Lake, IA","Eldon, IA",1,0,0,0,0,1,0,1,0,1,2011
+65293,"Storm Lake, IA","East Peru, IA",0,1,0,0,1,0,0,1,0,1,2011
+65395,"Storm Lake, IA","Osage, IA",1,0,0,0,0,1,0,1,0,1,2011
+65272,"Storm Lake, IA","Clive, IA",0,1,0,0,1,0,0,0,1,1,2011
+65273,"Storm Lake, IA","Coggon, IA",0,1,0,0,1,0,0,0,1,1,2011
+65252,"Storm Lake, IA","Brayton, IA",1,0,0,0,0,1,1,0,0,1,2011
+65227,"Storm Lake, IA","Alden, IA",0,1,0,0,0,1,0,0,1,1,2011
+65325,"Storm Lake, IA","Harlan, IA",0,1,0,0,0,1,0,1,0,1,2011
+65324,"Storm Lake, IA","Hamburg, IA",1,0,0,0,1,0,1,0,0,1,2011
+65431,"Storm Lake, IA","Silver City, IA",1,0,0,0,0,1,0,1,0,1,2011
+65418,"Storm Lake, IA","Rodney, IA",0,0,1,0,1,0,1,0,0,1,2011
+65383,"Storm Lake, IA","Mount Auburn, IA",1,0,0,1,0,0,0,1,0,1,2011
+65371,"Storm Lake, IA","Mechanicsville, IA",0,1,0,0,0,1,1,0,0,1,2011
+65370,"Storm Lake, IA","Maurice, IA",0,1,0,1,0,0,1,0,0,1,2011
+65259,"Storm Lake, IA","Casey, IA",0,1,0,0,0,1,1,0,0,1,2011
+65367,"Storm Lake, IA","Marble Rock, IA",0,1,0,0,0,1,1,0,0,1,2011
+65363,"Storm Lake, IA","Manilla, IA",0,1,0,0,1,0,0,1,0,1,2011
+65362,"Storm Lake, IA","Luana, IA",0,1,0,0,0,1,0,1,0,1,2011
+65260,"Storm Lake, IA","Castalia, IA",1,0,0,0,0,1,1,0,0,1,2011
+65427,"Storm Lake, IA","Shenandoah, IA",0,1,0,0,0,1,0,1,0,1,2011
+65358,"Storm Lake, IA","Linden, IA",0,1,0,0,0,1,0,1,0,1,2011
+65430,"Storm Lake, IA","Sigourney, IA",0,1,0,0,1,0,0,1,0,1,2011
+65386,"Storm Lake, IA","New London, IA",0,0,1,0,0,1,1,0,0,1,2011
+65446,"Storm Lake, IA","Stuart, IA",0,0,1,1,0,0,1,0,0,1,2011
+65354,"Storm Lake, IA","Le Grand, IA",1,0,0,0,1,0,0,1,0,1,2011
+65350,"Storm Lake, IA","Lake View, IA",0,1,0,0,1,0,0,1,0,1,2011
+65348,"Storm Lake, IA","Ladora, IA",0,1,0,0,1,0,1,0,0,1,2011
+65342,"Storm Lake, IA","Jesup, IA",0,1,0,0,1,0,0,0,1,1,2011
+65238,"Storm Lake, IA","Atalissa, IA",1,0,0,0,0,1,1,0,0,1,2011
+65410,"Storm Lake, IA","Reinbeck, IA",0,1,0,0,1,0,0,0,1,1,2011
+65336,"Storm Lake, IA","Imogene, IA",0,1,0,0,1,0,1,0,0,1,2011
+65389,"Storm Lake, IA","North English, IA",1,0,0,0,0,1,1,0,0,1,2011
+65442,"Storm Lake, IA","Stacyville, IA",0,1,0,0,1,0,0,0,1,1,2011
+65250,"Storm Lake, IA","Bloomfield, IA",1,0,0,0,1,0,0,1,0,1,2011
+65237,"Storm Lake, IA","Ashton, IA",1,0,0,0,1,0,1,0,0,1,2011
+65329,"Storm Lake, IA","Hawarden, IA",0,0,1,0,1,0,0,0,1,1,2011
+65263,"Storm Lake, IA","Center Point, IA",0,1,0,0,0,1,1,0,0,1,2011
